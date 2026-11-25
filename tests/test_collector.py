@@ -43,9 +43,9 @@ class TestCollector(unittest.TestCase):
  def test_broken_feed_google_discovery_fallback(self):
   with patch('collector.request_data',side_effect=[RuntimeError('HTTP 403'),MOCK_RSS]):
    items,health=collect_one(SOURCE,T,'')
-  self.assertEqual(health['status'],'fallback')
+  self.assertEqual(health['status'],'partial')
   self.assertEqual(items[0]['timestamp_basis'],'google_news_index')
-  self.assertIn('403',health['primary_error'])
+  self.assertIn('403',health['error'])
  def test_end_to_end_report_generation_with_mock_data(self):
   with tempfile.TemporaryDirectory() as tmp:
    root=Path(tmp)
