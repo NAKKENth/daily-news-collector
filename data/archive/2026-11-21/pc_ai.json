@@ -1,0 +1,1297 @@
+{
+  "schema_version": 2,
+  "date_jst": "2026-11-21",
+  "group": "pc_ai",
+  "title": "PC・AI・スマートフォン",
+  "status": "candidate_collection_only",
+  "items": [
+    {
+      "id": "bdfe9c68a8f723f76e1b5ef2",
+      "topic": "pc",
+      "title": "Lead DFT Engineer in Bangalore, India | Advanced Micro Devices, Inc - AMD",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jNEJqLWNOVUxzVFlMSVlfMVM4eFNGbllZTGQzRGNtVVkxa0xwaTd4SnVpRDlXMTVsb0lxYmE2M2RELW9fcThKN2kydTVzWGhhNmU2YmRaRm5TQ2w2M0Rjd3VpdVVUN2lObzZv?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "Lead DFT Engineer in Bangalore, India | Advanced Micro Devices, Inc AMD",
+      "published_utc": "2026-11-21T14:13:21+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jNEJqLWNOVUxzVFlMSVlfMVM4eFNGbllZTGQzRGNtVVkxa0xwaTd4SnVpRDlXMTVsb0lxYmE2M2RELW9fcThKN2kydTVzWGhhNmU2YmRaRm5TQ2w2M0Rjd3VpdVVUN2lObzZv?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T14:13:21+00:00",
+          "title": "Lead DFT Engineer in Bangalore, India | Advanced Micro Devices, Inc - AMD"
+        }
+      ]
+    },
+    {
+      "id": "1885d1f30beaed519b0e9518",
+      "topic": "pc",
+      "title": "Moore Threads Teases Lushan, a Consumer GPU It Says Will Carry More VRAM Than Any Before It - Hardware Busters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbWtIV0lmRXRndzB6S3RyVUFsdGhzM2pOSzNvV0xqN0tFbWh4ZTItbWx4d2JVdWRfRGkzRlJKU3B3NVRESjJCU3lFUnRRVlBCOHZMY2lYVzVNZjVoMnc4OTVNalBVcTdlUWRqc2YyOG90ZnpEME9mM0Z3cnExVHNiMW9aV1BDMmxtTVdYY1EwNVByblhoRFdKU0VFWC1Ub2Q2Rm1mcERjZXZjUXIyTjlqNlE4aFpNRldqQ3c?oc=5",
+      "source": "Hardware Busters",
+      "publisher": "Hardware Busters",
+      "description": "Moore Threads Teases Lushan, a Consumer GPU It Says Will Carry More VRAM Than Any Before It Hardware Busters",
+      "published_utc": "2026-11-21T13:10:38+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbWtIV0lmRXRndzB6S3RyVUFsdGhzM2pOSzNvV0xqN0tFbWh4ZTItbWx4d2JVdWRfRGkzRlJKU3B3NVRESjJCU3lFUnRRVlBCOHZMY2lYVzVNZjVoMnc4OTVNalBVcTdlUWRqc2YyOG90ZnpEME9mM0Z3cnExVHNiMW9aV1BDMmxtTVdYY1EwNVByblhoRFdKU0VFWC1Ub2Q2Rm1mcERjZXZjUXIyTjlqNlE4aFpNRldqQ3c?oc=5",
+          "source": "Hardware Busters",
+          "publisher": "Hardware Busters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T13:10:38+00:00",
+          "title": "Moore Threads Teases Lushan, a Consumer GPU It Says Will Carry More VRAM Than Any Before It - Hardware Busters"
+        }
+      ]
+    },
+    {
+      "id": "b2b14b8525a0b4bff8159562",
+      "topic": "ai",
+      "title": "Generate a 3d explorable world, this will include trees, veg... - Artificial Analysis",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaUtaUThyVWlEaUQ4Tm1WZjBVTUFleFhjMFZoZEF6bVBrU0pETzZaRThSTDM2RHRCUzJPYUtuRTh1d0dIQlVmWFBSLXBHaGRDQXBpVkFSd0hiQVF6akwxYVYwRGdCRnlGdExKalVXZTAyeGNRWDRudWVCMUFuRXlJMTFpMzV4clBYREJYeTlfVG94RmRRMEw0dzJSOTZnc2tIQkRjdGlLNTh6N1hGVDRhWjJRNA?oc=5",
+      "source": "Artificial Analysis",
+      "publisher": "Artificial Analysis",
+      "description": "Generate a 3d explorable world, this will include trees, veg... Artificial Analysis",
+      "published_utc": "2026-11-21T14:46:28+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaUtaUThyVWlEaUQ4Tm1WZjBVTUFleFhjMFZoZEF6bVBrU0pETzZaRThSTDM2RHRCUzJPYUtuRTh1d0dIQlVmWFBSLXBHaGRDQXBpVkFSd0hiQVF6akwxYVYwRGdCRnlGdExKalVXZTAyeGNRWDRudWVCMUFuRXlJMTFpMzV4clBYREJYeTlfVG94RmRRMEw0dzJSOTZnc2tIQkRjdGlLNTh6N1hGVDRhWjJRNA?oc=5",
+          "source": "Artificial Analysis",
+          "publisher": "Artificial Analysis",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T14:46:28+00:00",
+          "title": "Generate a 3d explorable world, this will include trees, veg... - Artificial Analysis"
+        }
+      ]
+    },
+    {
+      "id": "a5d8d61fc8227fab827b4459",
+      "topic": "ai",
+      "title": "A ocp - Artificial Analysis",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Hank1UzFadWJfTlRlcXU1NlcwNGEtYWt6akFReVNULWxwSGZJRjFSbUR2c2NwMFdBcmJhWHF6T2FRLXBLQThYdldsbHFsaC1QV252YkxPdEZpallyQUtrY2sxNF9JSm14RHB2bw?oc=5",
+      "source": "Artificial Analysis",
+      "publisher": "Artificial Analysis",
+      "description": "A ocp Artificial Analysis",
+      "published_utc": "2026-11-21T14:46:20+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Hank1UzFadWJfTlRlcXU1NlcwNGEtYWt6akFReVNULWxwSGZJRjFSbUR2c2NwMFdBcmJhWHF6T2FRLXBLQThYdldsbHFsaC1QV252YkxPdEZpallyQUtrY2sxNF9JSm14RHB2bw?oc=5",
+          "source": "Artificial Analysis",
+          "publisher": "Artificial Analysis",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T14:46:20+00:00",
+          "title": "A ocp - Artificial Analysis"
+        }
+      ]
+    },
+    {
+      "id": "42e407dcef837061a78cd35b",
+      "topic": "ai",
+      "title": "JoyAI-VL-Preview: API Provider Performance Benchmarking & Price Analysis - Artificial Analysis",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xVTVVMmVnT00zelJoU1ljYmVOYVFKS2c1YnVwOEh0UjVJdE8ycGhPMkxzbDdCNGxNc2l4X0d3WlBoNVBneVl5WTdXSThMS2txU2RCWm9ELWoxb08zRC1QMk1DeWZiQQ?oc=5",
+      "source": "Artificial Analysis",
+      "publisher": "Artificial Analysis",
+      "description": "JoyAI-VL-Preview: API Provider Performance Benchmarking & Price Analysis Artificial Analysis",
+      "published_utc": "2026-11-20T15:07:07+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xVTVVMmVnT00zelJoU1ljYmVOYVFKS2c1YnVwOEh0UjVJdE8ycGhPMkxzbDdCNGxNc2l4X0d3WlBoNVBneVl5WTdXSThMS2txU2RCWm9ELWoxb08zRC1QMk1DeWZiQQ?oc=5",
+          "source": "Artificial Analysis",
+          "publisher": "Artificial Analysis",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-20T15:07:07+00:00",
+          "title": "JoyAI-VL-Preview: API Provider Performance Benchmarking & Price Analysis - Artificial Analysis"
+        }
+      ]
+    },
+    {
+      "id": "5a643de796002867988c5698",
+      "topic": "pc",
+      "title": "Verification email not arriving – Cannot access NVIDIA NIM API - NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOGRrMmk3RV9wOWFLdkZVbkk2WjAta0loNkRhNUhDZFlpbFMzZmp2OEF1N2F6UnVPVjRiS2Y5U0ZwZlBsci1kQjRwb0ZJQlI4YU9raXZWT1F3dF9MS3JpZDA4bFg2OHZmWkt4QXNkd1RHN0FMS0pYS1BBV2I5OXppcmF2bFVEdnNTZ2tJVXkzaTZLWk96Q1EtcHI4Y2dvTW5BamZ3SWdRTjA?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Developer Forums",
+      "description": "Verification email not arriving – Cannot access NVIDIA NIM API NVIDIA Developer Forums",
+      "published_utc": "2026-11-21T14:19:36+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOGRrMmk3RV9wOWFLdkZVbkk2WjAta0loNkRhNUhDZFlpbFMzZmp2OEF1N2F6UnVPVjRiS2Y5U0ZwZlBsci1kQjRwb0ZJQlI4YU9raXZWT1F3dF9MS3JpZDA4bFg2OHZmWkt4QXNkd1RHN0FMS0pYS1BBV2I5OXppcmF2bFVEdnNTZ2tJVXkzaTZLWk96Q1EtcHI4Y2dvTW5BamZ3SWdRTjA?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Developer Forums",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T14:19:36+00:00",
+          "title": "Verification email not arriving – Cannot access NVIDIA NIM API - NVIDIA Developer Forums"
+        }
+      ]
+    },
+    {
+      "id": "d143e98cedff85c02a01b5dd",
+      "topic": "pc",
+      "title": "GTA 6 Glitch Enables First-Person POV and Open-Source App Adds 120 FPS with DLSS 5",
+      "url": "https://www.techpowerup.com/355071/gta-6-glitch-enables-first-person-pov-and-open-source-app-adds-120-fps-with-dlss-5",
+      "source": "TechPowerUp",
+      "publisher": "TechPowerUp",
+      "description": "Despite the game's immensely positive reception, there has been a lot of chatter online about performance issues with Grand Theft Auto VI, with several reports now circulating that the graphically intensive nature of the game appears to be causing issues with aging liquid metal TIM on PS5s . One solution that PC enthusiasts have been experimenting ",
+      "published_utc": "2026-11-21T05:22:40+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.techpowerup.com/355071/gta-6-glitch-enables-first-person-pov-and-open-source-app-adds-120-fps-with-dlss-5",
+          "source": "TechPowerUp",
+          "publisher": "TechPowerUp",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T05:22:40+00:00",
+          "title": "GTA 6 Glitch Enables First-Person POV and Open-Source App Adds 120 FPS with DLSS 5"
+        }
+      ]
+    },
+    {
+      "id": "720809f25ab65a1e59db6e6c",
+      "topic": "pc",
+      "title": "LG's 1000 Hz UltraGear Uses a TCL CSOT Panel, Inkjet OLED Monitors Could Follow",
+      "url": "https://www.techpowerup.com/355074/lgs-1000-hz-ultragear-uses-a-tcl-csot-panel-inkjet-oled-monitors-could-follow",
+      "source": "TechPowerUp",
+      "publisher": "TechPowerUp",
+      "description": "At the DTC 2026 conference in Wuhan, China, CSOT CEO Jun Zhao confirmed that the 1000 Hz panel inside LG's UltraGear 25G590B comes from TCL CSOT. Zhao said that the company supplies a 24.5-inch FHD LCD panel with IPS technology for that monitor. Apparently, this is the first time CSOT has mass-produced a 1000 Hz LCD. These panels reportedly come fr",
+      "published_utc": "2026-11-21T00:31:39+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://www.techpowerup.com/355074/lgs-1000-hz-ultragear-uses-a-tcl-csot-panel-inkjet-oled-monitors-could-follow",
+          "source": "TechPowerUp",
+          "publisher": "TechPowerUp",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T00:31:39+00:00",
+          "title": "LG's 1000 Hz UltraGear Uses a TCL CSOT Panel, Inkjet OLED Monitors Could Follow"
+        }
+      ]
+    },
+    {
+      "id": "b26bc5ab204a4b099148fd4b",
+      "topic": "pc",
+      "title": "NVIDIA's SSD Write Bug Gets Patched in GeForce Hotfix 621.35 Driver",
+      "url": "https://www.techpowerup.com/355072/nvidias-ssd-write-bug-gets-patched-in-geforce-hotfix-621-35-driver",
+      "source": "TechPowerUp",
+      "publisher": "TechPowerUp",
+      "description": "NVIDIA today has released the GeForce Hotfix 621.35 driver to fix the bug that was hammering SSDs while idle. There is only one fix in the release: \"Excessive writes to file nvlog.nvlgstg may occur in the background,\" and that was all that was needed on an urgent basis. We reported the issue of constant and excessive SSD writes that was spotted by ",
+      "published_utc": "2026-11-20T23:50:50+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://www.techpowerup.com/355072/nvidias-ssd-write-bug-gets-patched-in-geforce-hotfix-621-35-driver",
+          "source": "TechPowerUp",
+          "publisher": "TechPowerUp",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T23:50:50+00:00",
+          "title": "NVIDIA's SSD Write Bug Gets Patched in GeForce Hotfix 621.35 Driver"
+        }
+      ]
+    },
+    {
+      "id": "3df40ed442fef9f14dee300b",
+      "topic": "pc",
+      "title": "Persona Franchise To Continue After Persona 6: Atlus Promises Shorter Development Cycles For Future Games",
+      "url": "https://www.techpowerup.com/355068/persona-franchise-to-continue-after-persona-6-atlus-promises-shorter-development-cycles-for-future-games",
+      "source": "TechPowerUp",
+      "publisher": "TechPowerUp",
+      "description": "It's been over ten years since the launch of Persona 5, with Persona 6 expected to launch sometime in mid-2027 , however, in a recent interview with Sega Sammy, Kazuhisa Wada, the general producer at Altus's Persona Studio, commented that Persona 6 is not the end of the franchise, and that it would not be that long before the successor for Persona ",
+      "published_utc": "2026-11-20T22:58:09+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.techpowerup.com/355068/persona-franchise-to-continue-after-persona-6-atlus-promises-shorter-development-cycles-for-future-games",
+          "source": "TechPowerUp",
+          "publisher": "TechPowerUp",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T22:58:09+00:00",
+          "title": "Persona Franchise To Continue After Persona 6: Atlus Promises Shorter Development Cycles For Future Games"
+        }
+      ]
+    },
+    {
+      "id": "597eefe1b4938583b95c4b28",
+      "topic": "pc",
+      "title": "GTA VI Proves Too Demanding For Some PS5 Consoles, Even at 30 FPS",
+      "url": "https://www.techpowerup.com/355064/gta-vi-proves-too-demanding-for-some-ps5-consoles-even-at-30-fps",
+      "source": "TechPowerUp",
+      "publisher": "TechPowerUp",
+      "description": "The PlayStation 5 has been plagued with issues caused by its liquid metal thermal interface material since the year it was launched, having prompted Sony to release revisions of the console with improved designs to mitigate issues with the liquid metal . However, with the launch of GTA VI, those liquid metal issues appear to be rearing their ugly h",
+      "published_utc": "2026-11-20T21:10:51+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.techpowerup.com/355064/gta-vi-proves-too-demanding-for-some-ps5-consoles-even-at-30-fps",
+          "source": "TechPowerUp",
+          "publisher": "TechPowerUp",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T21:10:51+00:00",
+          "title": "GTA VI Proves Too Demanding For Some PS5 Consoles, Even at 30 FPS"
+        }
+      ]
+    },
+    {
+      "id": "f2997b4dfbee978334a07b24",
+      "topic": "pc",
+      "title": "GTA 6 Shatters Entertainment Records, Pulls In $3.79 Billion in a Single Day",
+      "url": "https://www.techpowerup.com/355067/gta-6-shatters-entertainment-records-pulls-in-usd-3-79-billion-in-a-single-day",
+      "source": "TechPowerUp",
+      "publisher": "TechPowerUp",
+      "description": "We all saw it coming. Grand Theft Auto 6 brought in $3.79 billion in retail sales on its first day. This is according to Rockstar Games itself, as opposed to the third-party estimates we have been reading for a while. This figure is based on Rockstar's own estimates of worldwide sales through the end of the November 19 launch day. The studio is cal",
+      "published_utc": "2026-11-20T20:53:22+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.techpowerup.com/355067/gta-6-shatters-entertainment-records-pulls-in-usd-3-79-billion-in-a-single-day",
+          "source": "TechPowerUp",
+          "publisher": "TechPowerUp",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T20:53:22+00:00",
+          "title": "GTA 6 Shatters Entertainment Records, Pulls In $3.79 Billion in a Single Day"
+        }
+      ]
+    },
+    {
+      "id": "8a80118d4c20919e3f972562",
+      "topic": "pc",
+      "title": "(PR) Introducing the Open Benchtable 10Y Anniversary Edition",
+      "url": "https://www.techpowerup.com/355066/introducing-the-open-benchtable-10y-anniversary-edition",
+      "source": "TechPowerUp",
+      "publisher": "TechPowerUp",
+      "description": "Ten years ago, the BC1 Open Benchtable launched with one clear goal: a portable, toolless test bench for traveling overclockers. It went on to become the standard open-frame platform for enthusiasts, AI R&D labs, universities, and hardware reviewers worldwide. Today, we're introducing the OBT 10Y Anniversary Edition: a strictly limited run of 101 u",
+      "published_utc": "2026-11-20T20:20:10+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.techpowerup.com/355066/introducing-the-open-benchtable-10y-anniversary-edition",
+          "source": "TechPowerUp",
+          "publisher": "TechPowerUp",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T20:20:10+00:00",
+          "title": "(PR) Introducing the Open Benchtable 10Y Anniversary Edition"
+        }
+      ]
+    },
+    {
+      "id": "4b7972ddc0ea100bb2f20fbd",
+      "topic": "pc",
+      "title": "Block Ads, Encrypt Traffic—This AdGuard Bundle is $44 This Week",
+      "url": "https://www.techpowerup.com/354892/block-ads-encrypt-traffic-this-adguard-bundle-is-usd-44-this-week",
+      "source": "TechPowerUp",
+      "publisher": "TechPowerUp",
+      "description": "A VPN and an ad blocker usually come as two separate subscriptions, with two renewal dates to keep track of. A simpler option is the AdGuard VPN + Ad Blocker Family Security Suite, a bundle with a 5-year VPN subscription and a lifetime ad blocker subscription. Code DEAL20 brings the price to $43.99 (reg. $439.39). AdGuard VPN encrypts your internet",
+      "published_utc": "2026-11-20T20:19:45+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.techpowerup.com/354892/block-ads-encrypt-traffic-this-adguard-bundle-is-usd-44-this-week",
+          "source": "TechPowerUp",
+          "publisher": "TechPowerUp",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T20:19:45+00:00",
+          "title": "Block Ads, Encrypt Traffic—This AdGuard Bundle is $44 This Week"
+        }
+      ]
+    },
+    {
+      "id": "f0edc9b6463ed66175c98e24",
+      "topic": "pc",
+      "title": "AI Server Boards Are Now Draining the PCB Supply Chain",
+      "url": "https://www.techpowerup.com/355065/ai-server-boards-are-now-draining-the-pcb-supply-chain",
+      "source": "TechPowerUp",
+      "publisher": "TechPowerUp",
+      "description": "If there was one humble component relatively safe from the component crisis brought about by the AI boom, it was the PCB. However, it looks like that is no longer the case. The Global Electronics Association, formerly known as IPC, issued a new industry alert warning that AI servers are soaking up board capacity and materials at an alarming rate. P",
+      "published_utc": "2026-11-20T20:19:19+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.techpowerup.com/355065/ai-server-boards-are-now-draining-the-pcb-supply-chain",
+          "source": "TechPowerUp",
+          "publisher": "TechPowerUp",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T20:19:19+00:00",
+          "title": "AI Server Boards Are Now Draining the PCB Supply Chain"
+        }
+      ]
+    },
+    {
+      "id": "ef0c099ebf86522d2c47d51b",
+      "topic": "pc",
+      "title": "Pay $25 once for Microsoft Office Pro 2021 and drop the Monthly Fees",
+      "url": "https://www.techpowerup.com/354893/pay-usd-25-once-for-microsoft-office-pro-2021-and-drop-the-monthly-fees",
+      "source": "TechPowerUp",
+      "publisher": "TechPowerUp",
+      "description": "Microsoft 365 is a money-hole for most people—you don't really need most of it, the plan bills you monthly or annually, and you lose full access to the apps when payments stop. To keep Office on your PC without a recurring charge , consider a Microsoft Office Professional 2021 for Windows lifetime license. You can get it for $24.97 (reg. $219.99) w",
+      "published_utc": "2026-11-20T20:04:23+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.techpowerup.com/354893/pay-usd-25-once-for-microsoft-office-pro-2021-and-drop-the-monthly-fees",
+          "source": "TechPowerUp",
+          "publisher": "TechPowerUp",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T20:04:23+00:00",
+          "title": "Pay $25 once for Microsoft Office Pro 2021 and drop the Monthly Fees"
+        }
+      ]
+    },
+    {
+      "id": "3f8cb7c221d15ffeb5862a21",
+      "topic": "pc",
+      "title": "TCL CSOT Prototype Reaches 1250 Hz at Full QHD Resolution",
+      "url": "https://www.techpowerup.com/355063/tcl-csot-prototype-reaches-1250-hz-at-full-qhd-resolution",
+      "source": "TechPowerUp",
+      "publisher": "TechPowerUp",
+      "description": "TCL CSOT used the DTC 2026 display conference in Wuhan, China, to show off a 27-inch QHD gaming panel that runs at a native 1250 Hz. It's a prototype that uses what TCL calls UHMO (ultra-high-mobility oxide) backplane tech, with a carrier mobility of 50 cm²/V·s. The magic number is the refresh rate, which can scale from 1 Hz up to 1250 Hz, with a c",
+      "published_utc": "2026-11-20T19:49:27+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.techpowerup.com/355063/tcl-csot-prototype-reaches-1250-hz-at-full-qhd-resolution",
+          "source": "TechPowerUp",
+          "publisher": "TechPowerUp",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T19:49:27+00:00",
+          "title": "TCL CSOT Prototype Reaches 1250 Hz at Full QHD Resolution"
+        }
+      ]
+    },
+    {
+      "id": "b5073fba5a4f825252651d7f",
+      "topic": "pc",
+      "title": "Wooting Revamps Keyboard Utility: Per-App Profiles for Linux, Global Keymap Profiles, and Fresh UI Tweaks",
+      "url": "https://www.techpowerup.com/355061/wooting-revamps-keyboard-utility-per-app-profiles-for-linux-global-keymap-profiles-and-fresh-ui-tweaks",
+      "source": "TechPowerUp",
+      "publisher": "TechPowerUp",
+      "description": "One of the main reasons gamers recommend Wooting keyboards to first-time Hall effect keyboard buyers is the brand's software. Wootility has continuously stood out for its quality, solid UI, and rich feature set, and with the latest Wootility beta, Wooting is testing a bunch of new features, including an overhaul of the core remapping screen. Wootil",
+      "published_utc": "2026-11-20T18:30:46+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.techpowerup.com/355061/wooting-revamps-keyboard-utility-per-app-profiles-for-linux-global-keymap-profiles-and-fresh-ui-tweaks",
+          "source": "TechPowerUp",
+          "publisher": "TechPowerUp",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T18:30:46+00:00",
+          "title": "Wooting Revamps Keyboard Utility: Per-App Profiles for Linux, Global Keymap Profiles, and Fresh UI Tweaks"
+        }
+      ]
+    },
+    {
+      "id": "2c16d57addd56cb493153ab0",
+      "topic": "pc",
+      "title": "Microsoft Brings RDMA over USB4 to Windows 11 for Daisy-Chained PCs",
+      "url": "https://www.techpowerup.com/355062/microsoft-brings-rdma-over-usb4-to-windows-11-for-daisy-chained-pcs",
+      "source": "TechPowerUp",
+      "publisher": "TechPowerUp",
+      "description": "Microsoft is finally enabling Remote Direct Memory Access (RDMA) over the USB4 protocol on Windows 11, allowing multiple PCs to be daisy-chained and used together to process large workloads. This means that Windows 11 now has a mechanism to distribute a workload across multiple interconnected PCs, enabling faster processing. Essentially, AI inferen",
+      "published_utc": "2026-11-20T17:51:54+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://www.techpowerup.com/355062/microsoft-brings-rdma-over-usb4-to-windows-11-for-daisy-chained-pcs",
+          "source": "TechPowerUp",
+          "publisher": "TechPowerUp",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T17:51:54+00:00",
+          "title": "Microsoft Brings RDMA over USB4 to Windows 11 for Daisy-Chained PCs"
+        }
+      ]
+    },
+    {
+      "id": "6e913c24b6e348341404fbe8",
+      "topic": "pc",
+      "title": "ShiftUp Claims Stellar Blade Blood Rain is \"Handmade Start To Finish\" After AI Music Video Backlash",
+      "url": "https://www.techpowerup.com/355058/shiftup-claims-stellar-blade-blood-rain-is-handmade-start-to-finish-after-ai-music-video-backlash",
+      "source": "TechPowerUp",
+      "publisher": "TechPowerUp",
+      "description": "ShiftUp, the game studio behind the Stellar Blade franchise, has been open about its use of generative AI for both its games and its promotional material, with a recent Stellar Blade: Blood Rain music video receiving substantial backlash online for being AI-generated. However, the studio's CEO, Kim Hyung-tae, recently clarified the studio's AI use ",
+      "published_utc": "2026-11-20T17:41:57+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.techpowerup.com/355058/shiftup-claims-stellar-blade-blood-rain-is-handmade-start-to-finish-after-ai-music-video-backlash",
+          "source": "TechPowerUp",
+          "publisher": "TechPowerUp",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T17:41:57+00:00",
+          "title": "ShiftUp Claims Stellar Blade Blood Rain is \"Handmade Start To Finish\" After AI Music Video Backlash"
+        }
+      ]
+    },
+    {
+      "id": "ef4baad094b2173c936891d8",
+      "topic": "pc",
+      "title": "(PR) AV Access Unveils iDock B12 8K KVM Docking Station",
+      "url": "https://www.techpowerup.com/355060/av-access-unveils-idock-b12-8k-kvm-docking-station",
+      "source": "TechPowerUp",
+      "publisher": "TechPowerUp",
+      "description": "AV Access, a leading provider of Pro AV and AV over IP solutions, has introduced the iDock B12, an 8K dual-monitor KVM docking station designed to make switching between work and gaming setups effortless. With refresh rates of up to 4K@165 Hz or 1080p@480 Hz and 2.5 GbE networking, the iDock B12 delivers smooth visuals and fast connectivity in one ",
+      "published_utc": "2026-11-20T17:35:53+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.techpowerup.com/355060/av-access-unveils-idock-b12-8k-kvm-docking-station",
+          "source": "TechPowerUp",
+          "publisher": "TechPowerUp",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T17:35:53+00:00",
+          "title": "(PR) AV Access Unveils iDock B12 8K KVM Docking Station"
+        }
+      ]
+    },
+    {
+      "id": "2ee7f526ca51f92f983a12b8",
+      "topic": "pc",
+      "title": "(PR) TCL CSOT Announces World's First Mass Production of Ultrahigh-Mobility Oxide Panels at DTC2026",
+      "url": "https://www.techpowerup.com/355059/tcl-csot-announces-worlds-first-mass-production-of-ultrahigh-mobility-oxide-panels-at-dtc2026",
+      "source": "TechPowerUp",
+      "publisher": "TechPowerUp",
+      "description": "TCL CSOT became the world's first to achieve mass production of ultrahigh-mobility oxide technology (electron mobility of ~50 cm² V⁻¹ s⁻¹) on an 8.6-generation line. The major technical breakthrough marks the first time high mobility oxide technology has gone beyond the 50 cm² V⁻¹ s⁻¹ threshold in mass production, presenting exciting new possibilit",
+      "published_utc": "2026-11-20T17:25:37+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.techpowerup.com/355059/tcl-csot-announces-worlds-first-mass-production-of-ultrahigh-mobility-oxide-panels-at-dtc2026",
+          "source": "TechPowerUp",
+          "publisher": "TechPowerUp",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T17:25:37+00:00",
+          "title": "(PR) TCL CSOT Announces World's First Mass Production of Ultrahigh-Mobility Oxide Panels at DTC2026"
+        }
+      ]
+    },
+    {
+      "id": "c8caabe4903a445ed9fb7700",
+      "topic": "pc",
+      "title": "Dell PowerRack for Networking Goes Live at Nscale With Eight Liquid-Cooled Spectrum-6 Switches per Rack",
+      "url": "https://www.storagereview.com/news/dell-powerrack-for-networking-nscale-ir9148-sn6600-ld-liquid-cooled",
+      "source": "StorageReview",
+      "publisher": "StorageReview",
+      "description": "Dell Technologies says it is the first OEM to deliver a fully validated, direct liquid-cooled networking rack, and that the rack is already in production at Nscale as part of an NVIDIA Vera Rubin NVL72 scalable unit. Dell PowerRack for networking is built on the IR9148 rack and holds eight Spectrum-6 switches, which puts the The post Dell PowerRack",
+      "published_utc": "2026-11-20T21:32:49+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.storagereview.com/news/dell-powerrack-for-networking-nscale-ir9148-sn6600-ld-liquid-cooled",
+          "source": "StorageReview",
+          "publisher": "StorageReview",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T21:32:49+00:00",
+          "title": "Dell PowerRack for Networking Goes Live at Nscale With Eight Liquid-Cooled Spectrum-6 Switches per Rack"
+        }
+      ]
+    },
+    {
+      "id": "bef4d1f1b8db2e16d6ae75ad",
+      "topic": "pc",
+      "title": "Graid VROC Is Coming to AMD EPYC in February 2027, Starting With Linux RAID 1 Boot Drives",
+      "url": "https://www.storagereview.com/news/graid-vroc-amd-epyc-february-2027-linux-raid-1-boot",
+      "source": "StorageReview",
+      "publisher": "StorageReview",
+      "description": "Graid Technology plans to bring VROC, the CPU-based NVMe RAID stack it took over from Intel, to AMD EPYC servers. The first release is scheduled for February 2027 with Linux support and RAID 1 protection for boot drives, and it requires no dedicated RAID controller. For server buyers, that would put the same software RAID The post Graid VROC Is Com",
+      "published_utc": "2026-11-20T17:17:15+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.storagereview.com/news/graid-vroc-amd-epyc-february-2027-linux-raid-1-boot",
+          "source": "StorageReview",
+          "publisher": "StorageReview",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T17:17:15+00:00",
+          "title": "Graid VROC Is Coming to AMD EPYC in February 2027, Starting With Linux RAID 1 Boot Drives"
+        }
+      ]
+    },
+    {
+      "id": "53e549a94c674486955677df",
+      "topic": "pc",
+      "title": "HighPoint Rocket 9500A Series Enters Enterprise Networking With Intel E810 NICs: Dual-Port 100GbE for $379",
+      "url": "https://www.storagereview.com/news/highpoint-rocket-9500a-intel-e810-100gbe-25gbe-nics",
+      "source": "StorageReview",
+      "publisher": "StorageReview",
+      "description": "HighPoint Technologies, best known for its NVMe RAID and switch adapters, has moved into Ethernet with the Rocket 9500A Series, three 25GbE and 100GbE network interface cards built on Intel E810 controllers. The cards are sold as standalone adapters for enterprise servers and multi-vendor environments, with no HighPoint storage required. The dual-p",
+      "published_utc": "2026-11-20T16:19:49+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://www.storagereview.com/news/highpoint-rocket-9500a-intel-e810-100gbe-25gbe-nics",
+          "source": "StorageReview",
+          "publisher": "StorageReview",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T16:19:49+00:00",
+          "title": "HighPoint Rocket 9500A Series Enters Enterprise Networking With Intel E810 NICs: Dual-Port 100GbE for $379"
+        }
+      ]
+    },
+    {
+      "id": "4123e139d9f100f7f876d9d5",
+      "topic": "pc",
+      "title": "AMD ROCm 10.2 Brings hipFile to PyTorch, LVM, and mdraid Volumes, and Adds 18 Ryzen Processors",
+      "url": "https://www.storagereview.com/news/amd-rocm-10-2-hipfile-pytorch-lvm-mdraid-aiter-ryzen",
+      "source": "StorageReview",
+      "publisher": "StorageReview",
+      "description": "AMD has released ROCm 10.2.0, a stability-focused update to its open GPU software stack that refreshes the serving frameworks, libraries, and tools developers already run on Instinct, Radeon, and Ryzen hardware. For storage teams, hipFile and AMD Infinity Storage now plug into PyTorch, fio, and ior, and they work on volumes built with LVM and The p",
+      "published_utc": "2026-11-20T16:18:56+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://www.storagereview.com/news/amd-rocm-10-2-hipfile-pytorch-lvm-mdraid-aiter-ryzen",
+          "source": "StorageReview",
+          "publisher": "StorageReview",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T16:18:56+00:00",
+          "title": "AMD ROCm 10.2 Brings hipFile to PyTorch, LVM, and mdraid Volumes, and Adds 18 Ryzen Processors"
+        }
+      ]
+    },
+    {
+      "id": "f1be5fdc0d9aca02ab4261f4",
+      "topic": "pc",
+      "title": "ASUS RT-BE88U Router Review",
+      "url": "https://www.rtings.com/router/reviews/asus/rt-be88u",
+      "source": "RTINGS Monitor",
+      "publisher": "RTINGS Monitor",
+      "description": "The ASUS RT-BE88U is a dual-band Wi-Fi 7 router with 2.4GHz and 5GHz bands. It's the successor to ASUS's long-running RT-AX88U line and stands out for its wired ...",
+      "published_utc": "2026-11-20T20:44:56+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.rtings.com/router/reviews/asus/rt-be88u",
+          "source": "RTINGS Monitor",
+          "publisher": "RTINGS Monitor",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T20:44:56+00:00",
+          "title": "ASUS RT-BE88U Router Review"
+        },
+        {
+          "url": "https://www.rtings.com/router/reviews/asus/rt-be88u",
+          "source": "RTINGS Headphones",
+          "publisher": "RTINGS Headphones",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T20:44:56+00:00",
+          "title": "ASUS RT-BE88U Router Review"
+        }
+      ]
+    },
+    {
+      "id": "ebe5f2be30815493bc67df80",
+      "topic": "pc",
+      "title": "OM SYSTEM PEN Camera Review",
+      "url": "https://www.rtings.com/camera/reviews/om-system/pen",
+      "source": "RTINGS Monitor",
+      "publisher": "RTINGS Monitor",
+      "description": "The OM SYSTEM PEN is a compact, rangefinder-style mirrorless camera designed for everyday, street, and travel photography. As the first PEN model under the OM SY...",
+      "published_utc": "2026-11-20T20:19:04+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.rtings.com/camera/reviews/om-system/pen",
+          "source": "RTINGS Monitor",
+          "publisher": "RTINGS Monitor",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T20:19:04+00:00",
+          "title": "OM SYSTEM PEN Camera Review"
+        },
+        {
+          "url": "https://www.rtings.com/camera/reviews/om-system/pen",
+          "source": "RTINGS Headphones",
+          "publisher": "RTINGS Headphones",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T20:19:04+00:00",
+          "title": "OM SYSTEM PEN Camera Review"
+        }
+      ]
+    },
+    {
+      "id": "c23539114a70d158117b05bb",
+      "topic": "pc",
+      "title": "361 Mega 3 Pro Running Shoe Review",
+      "url": "https://www.rtings.com/running-shoes/reviews/361/mega-3-pro",
+      "source": "RTINGS Monitor",
+      "publisher": "RTINGS Monitor",
+      "description": "The 361 Mega 3 Pro is a lightweight super trainer designed for runners who want one shoe to handle most of their weekly running. It sits above the standard Mega ...",
+      "published_utc": "2026-11-20T20:15:32+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.rtings.com/running-shoes/reviews/361/mega-3-pro",
+          "source": "RTINGS Monitor",
+          "publisher": "RTINGS Monitor",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T20:15:32+00:00",
+          "title": "361 Mega 3 Pro Running Shoe Review"
+        },
+        {
+          "url": "https://www.rtings.com/running-shoes/reviews/361/mega-3-pro",
+          "source": "RTINGS Headphones",
+          "publisher": "RTINGS Headphones",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T20:15:32+00:00",
+          "title": "361 Mega 3 Pro Running Shoe Review"
+        }
+      ]
+    },
+    {
+      "id": "9e372d64cb290311c2828108",
+      "topic": "pc",
+      "title": "Hisense M7QG TV Review",
+      "url": "https://www.rtings.com/tv/reviews/hisense/m7qg",
+      "source": "RTINGS Monitor",
+      "publisher": "RTINGS Monitor",
+      "description": "The Hisense M7QG, or M7 for short, is an entry-level 4k TV released in 2026. Featuring a Mini LED backlight, it sits below the Hisense U6 series TVs like the His...",
+      "published_utc": "2026-11-20T19:05:34+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.rtings.com/tv/reviews/hisense/m7qg",
+          "source": "RTINGS Monitor",
+          "publisher": "RTINGS Monitor",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T19:05:34+00:00",
+          "title": "Hisense M7QG TV Review"
+        },
+        {
+          "url": "https://www.rtings.com/tv/reviews/hisense/m7qg",
+          "source": "RTINGS Headphones",
+          "publisher": "RTINGS Headphones",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T19:05:34+00:00",
+          "title": "Hisense M7QG TV Review"
+        }
+      ]
+    },
+    {
+      "id": "a4e85e01931ce799e8a46ec9",
+      "topic": "pc",
+      "title": "JMGO N3 4K Projector Review",
+      "url": "https://www.rtings.com/projector/reviews/jmgo/n3-4k",
+      "source": "RTINGS Monitor",
+      "publisher": "RTINGS Monitor",
+      "description": "The JMGO N3 4K is a triple-laser DLP projector with a pixel-shifted 4k resolution, and it sits below the JMGO N3 Ultimate in the brand's lineup. It features a bu...",
+      "published_utc": "2026-11-20T17:08:26+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.rtings.com/projector/reviews/jmgo/n3-4k",
+          "source": "RTINGS Monitor",
+          "publisher": "RTINGS Monitor",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T17:08:26+00:00",
+          "title": "JMGO N3 4K Projector Review"
+        },
+        {
+          "url": "https://www.rtings.com/projector/reviews/jmgo/n3-4k",
+          "source": "RTINGS Headphones",
+          "publisher": "RTINGS Headphones",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T17:08:26+00:00",
+          "title": "JMGO N3 4K Projector Review"
+        }
+      ]
+    },
+    {
+      "id": "5dfa8a979b5707c664e9ee2c",
+      "topic": "pc",
+      "title": "Ninja CrushBOSS LB301 Blender Review",
+      "url": "https://www.rtings.com/blender/reviews/ninja/crushboss-lb301",
+      "source": "RTINGS Monitor",
+      "publisher": "RTINGS Monitor",
+      "description": "The Ninja CrushBOSS LB301 is a full-size blender that comes bundled with a tumbler for blending single-serve drinks. This model detects the blending vessel and i...",
+      "published_utc": "2026-11-20T16:04:20+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.rtings.com/blender/reviews/ninja/crushboss-lb301",
+          "source": "RTINGS Monitor",
+          "publisher": "RTINGS Monitor",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T16:04:20+00:00",
+          "title": "Ninja CrushBOSS LB301 Blender Review"
+        },
+        {
+          "url": "https://www.rtings.com/blender/reviews/ninja/crushboss-lb301",
+          "source": "RTINGS Headphones",
+          "publisher": "RTINGS Headphones",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T16:04:20+00:00",
+          "title": "Ninja CrushBOSS LB301 Blender Review"
+        }
+      ]
+    },
+    {
+      "id": "a4155e1bf2c637d2701893e6",
+      "topic": "ai",
+      "title": "Troubleshooting conversion tracking for ChatGPT Ads | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa1RIYWhmSzlWNnpXSzJZdi1IUzF3MEZ0dHJvVUpjUUlPOXRHeVhxTm1kNkRMRGE3VTBRZTR1TmxieFF3U3hWNlpOVlhNN3hYcjVBbG9WRGF2ZVh1UEhwS1VNTHhhRGJjUnBjdWdXS1pkaGotSktPeUFKX1MzVFh6S0NrVk9BMHdpLTk0R0dWVHdrLVFYR1ExSXJfSUc?oc=5",
+      "source": "OpenAI",
+      "publisher": "OpenAI Help Center",
+      "description": "Troubleshooting conversion tracking for ChatGPT Ads | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-21T14:50:09+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa1RIYWhmSzlWNnpXSzJZdi1IUzF3MEZ0dHJvVUpjUUlPOXRHeVhxTm1kNkRMRGE3VTBRZTR1TmxieFF3U3hWNlpOVlhNN3hYcjVBbG9WRGF2ZVh1UEhwS1VNTHhhRGJjUnBjdWdXS1pkaGotSktPeUFKX1MzVFh6S0NrVk9BMHdpLTk0R0dWVHdrLVFYR1ExSXJfSUc?oc=5",
+          "source": "OpenAI",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T14:50:09+00:00",
+          "title": "Troubleshooting conversion tracking for ChatGPT Ads | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "e712a95bc5ea0fa991c3d5b1",
+      "topic": "ai",
+      "title": "How Google Stitch Loop works from Workspace to KPIs",
+      "url": "https://www.testingcatalog.com/how-google-stitch-loop-works-from-workspace-to-kpis",
+      "source": "TestingCatalog",
+      "publisher": "TestingCatalog",
+      "description": "Google's waitlist-only Stitch Loop links to GitHub, writes its own Skills, and turns goals into KPI-tracked loops with tasks, evidence and fixes.",
+      "published_utc": "2026-11-21T00:08:45+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.testingcatalog.com/how-google-stitch-loop-works-from-workspace-to-kpis",
+          "source": "TestingCatalog",
+          "publisher": "TestingCatalog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T00:08:45+00:00",
+          "title": "How Google Stitch Loop works from Workspace to KPIs"
+        }
+      ]
+    },
+    {
+      "id": "56f6e08958fa5c8d16876354",
+      "topic": "ai",
+      "title": "Thinking Machines releases Inkling 2 Mini open-weight model",
+      "url": "https://www.testingcatalog.com/thinking-machines-releases-inkling-2-mini-looped-open-model",
+      "source": "TestingCatalog",
+      "publisher": "TestingCatalog",
+      "description": "Thinking Machines released Inkling 2 Mini, a 26B looped open-weights model that runs on a laptop and leads small models on agentic coding.",
+      "published_utc": "2026-11-20T22:07:14+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.testingcatalog.com/thinking-machines-releases-inkling-2-mini-looped-open-model",
+          "source": "TestingCatalog",
+          "publisher": "TestingCatalog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T22:07:14+00:00",
+          "title": "Thinking Machines releases Inkling 2 Mini open-weight model"
+        }
+      ]
+    },
+    {
+      "id": "bf7094142ebd69728692415e",
+      "topic": "smartphones",
+      "title": "A premium dual-motor desk: Reviewing the Maidesite T4 Pro Plus with RGB touch controls and USB-C",
+      "url": "https://www.notebookcheck.net/No-more-wobble-The-Maidesite-T4-Pro-Plus-solves-the-biggest-standing-desk-problem.1455266.0.html",
+      "source": "Notebookcheck mobile",
+      "publisher": "Notebookcheck mobile",
+      "description": "A standing desk built for stability. | If you have several monitors and a lot of equipment on your desk, a typical standing desk can quickly reach its limits. With two motors and a high load capacity, the Maidesite T4 Pro Plus aims to bring more stability to the home office. In our hands-on review, we take a closer look at the strengths and weaknes",
+      "published_utc": "2026-11-21T08:05:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.notebookcheck.net/No-more-wobble-The-Maidesite-T4-Pro-Plus-solves-the-biggest-standing-desk-problem.1455266.0.html",
+          "source": "Notebookcheck mobile",
+          "publisher": "Notebookcheck mobile",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T08:05:00+00:00",
+          "title": "A premium dual-motor desk: Reviewing the Maidesite T4 Pro Plus with RGB touch controls and USB-C"
+        },
+        {
+          "url": "https://www.notebookcheck.net/No-more-wobble-The-Maidesite-T4-Pro-Plus-solves-the-biggest-standing-desk-problem.1455266.0.html",
+          "source": "Notebookcheck Handheld",
+          "publisher": "Notebookcheck Handheld",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T08:05:00+00:00",
+          "title": "A premium dual-motor desk: Reviewing the Maidesite T4 Pro Plus with RGB touch controls and USB-C"
+        }
+      ]
+    },
+    {
+      "id": "bbb6765542fdbc2c3fda0064",
+      "topic": "smartphones",
+      "title": "Thule Epos 3 ParkSecure review: Are the sensors worth the extra cost?",
+      "url": "https://www.notebookcheck.net/Thule-Epos-3-ParkSecure-review-Are-the-sensors-worth-the-extra-cost.1455576.0.html",
+      "source": "Notebookcheck mobile",
+      "publisher": "Notebookcheck mobile",
+      "description": "The Thule Epos 3 ParkSecure is a tow hitch bike rack that carries three bikes and warns of obstacles when you reverse. We look at the pros and cons of the top model and explain why the hitch's vertical load limit matters when carrying three e-bikes.",
+      "published_utc": "2026-11-20T16:45:09+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.notebookcheck.net/Thule-Epos-3-ParkSecure-review-Are-the-sensors-worth-the-extra-cost.1455576.0.html",
+          "source": "Notebookcheck mobile",
+          "publisher": "Notebookcheck mobile",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T16:45:09+00:00",
+          "title": "Thule Epos 3 ParkSecure review: Are the sensors worth the extra cost?"
+        },
+        {
+          "url": "https://www.notebookcheck.net/Thule-Epos-3-ParkSecure-review-Are-the-sensors-worth-the-extra-cost.1455576.0.html",
+          "source": "Notebookcheck Handheld",
+          "publisher": "Notebookcheck Handheld",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T16:45:09+00:00",
+          "title": "Thule Epos 3 ParkSecure review: Are the sensors worth the extra cost?"
+        }
+      ]
+    },
+    {
+      "id": "9fb8f511020180b88d82c0b0",
+      "topic": "ai",
+      "title": "9to5Mac Daily: November 20, 2026 – Siri AI limits, HomeView update",
+      "url": "https://9to5mac.com/2026/11/20/daily-november-20-2026",
+      "source": "9to5Mac",
+      "publisher": "9to5Mac",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…",
+      "published_utc": "2026-11-20T23:43:15+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://9to5mac.com/2026/11/20/daily-november-20-2026",
+          "source": "9to5Mac",
+          "publisher": "9to5Mac",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T23:43:15+00:00",
+          "title": "9to5Mac Daily: November 20, 2026 – Siri AI limits, HomeView update"
+        }
+      ]
+    },
+    {
+      "id": "d68b22e178aa1d0fc2ef54e9",
+      "topic": "ai",
+      "title": "iOS 27 lets you use two iPhones with the same phone number",
+      "url": "https://9to5mac.com/2026/11/20/ios-27-lets-you-use-two-iphones-with-the-same-phone-number",
+      "source": "9to5Mac",
+      "publisher": "9to5Mac",
+      "description": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s largest 5G network. See all of the available plans at tello.com . Among iOS 27’s many new features is a great change for anyone with multiple iPhones: you c",
+      "published_utc": "2026-11-20T23:06:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://9to5mac.com/2026/11/20/ios-27-lets-you-use-two-iphones-with-the-same-phone-number",
+          "source": "9to5Mac",
+          "publisher": "9to5Mac",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T23:06:00+00:00",
+          "title": "iOS 27 lets you use two iPhones with the same phone number"
+        }
+      ]
+    },
+    {
+      "id": "6f56d08ec236863faa0ae140",
+      "topic": "ai",
+      "title": "9to5Mac Overtime 091: Kicking the tires and seeing what works",
+      "url": "https://9to5mac.com/2026/11/20/9to5mac-overtime-091-kicking-the-tires-and-seeing-what-works",
+      "source": "9to5Mac",
+      "publisher": "9to5Mac",
+      "description": "Fernando and Jeff are back to talk about the iPhone Duo after a month of use, including the new face unlock and close-to-lock toggle in iOS 27.3 beta 2. They also dig into Siri AI’s Health app access and its quirks, the HomePod mini stereo pair on Mac, the M6 Mac mini, the new iPad mini, and Apple’s upsell-heavy configurations. 9to5Mac Overtime is ",
+      "published_utc": "2026-11-20T21:58:47+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://9to5mac.com/2026/11/20/9to5mac-overtime-091-kicking-the-tires-and-seeing-what-works",
+          "source": "9to5Mac",
+          "publisher": "9to5Mac",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T21:58:47+00:00",
+          "title": "9to5Mac Overtime 091: Kicking the tires and seeing what works"
+        }
+      ]
+    },
+    {
+      "id": "a07aece6145611492b0311a7",
+      "topic": "ai",
+      "title": "Apple Watch Series 12: Four standout features make me glad I upgraded",
+      "url": "https://9to5mac.com/2026/11/20/apple-watch-series-12-four-standout-features-glad-i-upgraded",
+      "source": "9to5Mac",
+      "publisher": "9to5Mac",
+      "description": "I upgraded to an Apple Watch Series 12 this fall ( now $329 on Amazon ), and there are four main features that make me especially glad I did. more…",
+      "published_utc": "2026-11-20T20:25:35+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://9to5mac.com/2026/11/20/apple-watch-series-12-four-standout-features-glad-i-upgraded",
+          "source": "9to5Mac",
+          "publisher": "9to5Mac",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T20:25:35+00:00",
+          "title": "Apple Watch Series 12: Four standout features make me glad I upgraded"
+        }
+      ]
+    },
+    {
+      "id": "87da5da327fb2793ce8019b0",
+      "topic": "ai",
+      "title": "HomeKit Weekly: Lafaer’s 5-in-1 presence sensor fixes an annoying automation in Apple Home",
+      "url": "https://9to5mac.com/2026/11/20/lafaers-5-in-1-presence-sensor-fixes-the-most-annoying-automation-in-apple-home",
+      "source": "9to5Mac",
+      "publisher": "9to5Mac",
+      "description": "Motion-based automations are generally straightforward in Apple Home. The only carve-out is lighting, because some rooms are hard to judge by time of day alone. Depending on the windows and placement against the sun, some rooms might need light-based automations earlier in the day than others. The Lafaer 5-in-1 presence sensor fixes that with a lig",
+      "published_utc": "2026-11-20T19:00:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://9to5mac.com/2026/11/20/lafaers-5-in-1-presence-sensor-fixes-the-most-annoying-automation-in-apple-home",
+          "source": "9to5Mac",
+          "publisher": "9to5Mac",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T19:00:00+00:00",
+          "title": "HomeKit Weekly: Lafaer’s 5-in-1 presence sensor fixes an annoying automation in Apple Home"
+        }
+      ]
+    },
+    {
+      "id": "aba05a2b448b34affcb335b6",
+      "topic": "smartphones",
+      "title": "Signal now blocks screenshots on iPhone to stop Siri AI from seeing chats",
+      "url": "https://9to5mac.com/2026/11/20/signal-now-blocks-screenshots-on-iphone-to-stop-siri-ai-from-seeing-chats",
+      "source": "9to5Mac",
+      "publisher": "9to5Mac",
+      "description": "Popular secure messaging app Signal has rolled out a new update that automatically disables screenshots for the sake of blocking Siri AI from reading your chats. Here are the details. more…",
+      "published_utc": "2026-11-20T16:29:42+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "スマートフォンへ分類",
+      "sources": [
+        {
+          "url": "https://9to5mac.com/2026/11/20/signal-now-blocks-screenshots-on-iphone-to-stop-siri-ai-from-seeing-chats",
+          "source": "9to5Mac",
+          "publisher": "9to5Mac",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T16:29:42+00:00",
+          "title": "Signal now blocks screenshots on iPhone to stop Siri AI from seeing chats"
+        }
+      ]
+    },
+    {
+      "id": "91c2462702d607daf554138a",
+      "topic": "ai",
+      "title": "Bison 31B: Release, Decision Index Score, Performance & Price - Artificial Analysis",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wVEdiZ3BYY0NXbzNGazdjTjJ4Rl9iaWN1VmRVdjVhNHI4eFppR1pvSWF2Y0RGSU1YYm1KeDAySDlpbWEtMVNkb0JXMVEzSXNJUXVJVUlGbzVaeG1kTUlCSDAyZUU0Zw?oc=5",
+      "source": "Artificial Analysis",
+      "publisher": "Artificial Analysis",
+      "description": "Bison 31B: Release, Decision Index Score, Performance & Price Artificial Analysis",
+      "published_utc": "2026-11-21T02:24:28+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wVEdiZ3BYY0NXbzNGazdjTjJ4Rl9iaWN1VmRVdjVhNHI4eFppR1pvSWF2Y0RGSU1YYm1KeDAySDlpbWEtMVNkb0JXMVEzSXNJUXVJVUlGbzVaeG1kTUlCSDAyZUU0Zw?oc=5",
+          "source": "Artificial Analysis",
+          "publisher": "Artificial Analysis",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T02:24:28+00:00",
+          "title": "Bison 31B: Release, Decision Index Score, Performance & Price - Artificial Analysis"
+        }
+      ]
+    },
+    {
+      "id": "4e9ed44882e8431b5ba0b43c",
+      "topic": "ai",
+      "title": "Inkling 2 Mini: API Provider Performance Benchmarking & Price Analysis - Artificial Analysis",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpUUZCaXE3Y0c5YjRlODZxVDVGYUxTWTRIRk1YTVFWeExZZHdFRjBIR2FZMFFjWEVWMkw3bTVyMVpfa0hCMUdzc0Q2R1hlMnF2TEdaZ1JxUXVwbDBpNTg5bWo1VEJYX216aXNMR21n?oc=5",
+      "source": "Artificial Analysis",
+      "publisher": "Artificial Analysis",
+      "description": "Inkling 2 Mini: API Provider Performance Benchmarking & Price Analysis Artificial Analysis",
+      "published_utc": "2026-11-20T21:28:20+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpUUZCaXE3Y0c5YjRlODZxVDVGYUxTWTRIRk1YTVFWeExZZHdFRjBIR2FZMFFjWEVWMkw3bTVyMVpfa0hCMUdzc0Q2R1hlMnF2TEdaZ1JxUXVwbDBpNTg5bWo1VEJYX216aXNMR21n?oc=5",
+          "source": "Artificial Analysis",
+          "publisher": "Artificial Analysis",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-20T21:28:20+00:00",
+          "title": "Inkling 2 Mini: API Provider Performance Benchmarking & Price Analysis - Artificial Analysis"
+        }
+      ]
+    },
+    {
+      "id": "7932c1e35afaee8b78abfde1",
+      "topic": "ai",
+      "title": "Explain anterograde and retrograde amnesia to a 5 year old - Artificial Analysis",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS0tneHR6MEVLRzA4TmVyVTZWSW5XR2Z2RGNYbk1FR3k3WDk1c0YtVUgwMFZXSFVtREE0YVZvNGVfN3o0OVhhOURNWGZXT1RWY3cxQUpLbGJsVjNOMlpMX0d3VnVCMXhkZjU3MnRiRkVuenBUN3IxeHhWNG5VdXotdnJpZXJrZWFHNGk4ZjhNX3JSSUoyTzhLc2NleVRJVV9kanNMNWdOVHRLZFlMTGR2UkctUQ?oc=5",
+      "source": "Artificial Analysis",
+      "publisher": "Artificial Analysis",
+      "description": "Explain anterograde and retrograde amnesia to a 5 year old Artificial Analysis",
+      "published_utc": "2026-11-21T14:53:53+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS0tneHR6MEVLRzA4TmVyVTZWSW5XR2Z2RGNYbk1FR3k3WDk1c0YtVUgwMFZXSFVtREE0YVZvNGVfN3o0OVhhOURNWGZXT1RWY3cxQUpLbGJsVjNOMlpMX0d3VnVCMXhkZjU3MnRiRkVuenBUN3IxeHhWNG5VdXotdnJpZXJrZWFHNGk4ZjhNX3JSSUoyTzhLc2NleVRJVV9kanNMNWdOVHRLZFlMTGR2UkctUQ?oc=5",
+          "source": "Artificial Analysis",
+          "publisher": "Artificial Analysis",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T14:53:53+00:00",
+          "title": "Explain anterograde and retrograde amnesia to a 5 year old - Artificial Analysis"
+        }
+      ]
+    },
+    {
+      "id": "bf044dbce0d89021e34000ae",
+      "topic": "ai",
+      "title": "PODCAST: Wall Street plunges, climate talks run over, and Republicans position for 2028 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdTB2Umxadk1oSHFUQVEwemljX2I5NHRjWFlPM3dsMG5lcG5MR2RRclBjWXR3WE5zLXg3RVh5d2NiWGhMREUtd0ZWNEZEX1ZGVV9rcmN5Qkc2QmZfZUVPdVFsRm4tY01qOEdNOWtQdEtWMll5MmJMU1p6V0MwWkx4M005d1dHS01XaU14d1lYRzBNVUtZVHVMMUJSanFDbjA1eC1zNERFdjY0WW5uT2EzRDlYbw?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "PODCAST: Wall Street plunges, climate talks run over, and Republicans position for 2028 Reuters",
+      "published_utc": "2026-11-21T14:23:03+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdTB2Umxadk1oSHFUQVEwemljX2I5NHRjWFlPM3dsMG5lcG5MR2RRclBjWXR3WE5zLXg3RVh5d2NiWGhMREUtd0ZWNEZEX1ZGVV9rcmN5Qkc2QmZfZUVPdVFsRm4tY01qOEdNOWtQdEtWMll5MmJMU1p6V0MwWkx4M005d1dHS01XaU14d1lYRzBNVUtZVHVMMUJSanFDbjA1eC1zNERFdjY0WW5uT2EzRDlYbw?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T14:23:03+00:00",
+          "title": "PODCAST: Wall Street plunges, climate talks run over, and Republicans position for 2028 - Reuters"
+        }
+      ]
+    }
+  ],
+  "date_unknown": [],
+  "health": {}
+}

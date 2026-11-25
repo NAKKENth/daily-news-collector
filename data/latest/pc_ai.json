@@ -1112,16 +1112,16 @@
     {
       "id": "e766458a1be595afec53432c",
       "topic": "pc",
-      "title": "Geekom GeekBook M16 im Test: Das leistet das 16-Zoll-Alu-Notebook für 854 Euro",
+      "title": "Geekom GeekBook M16 im Test: Das leistet das 16-Zoll-Alu-Notebook für 854 Euro",
       "url": "https://www.computerbase.de/artikel/notebooks/geekom-geekbook-m16-test.99511",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Geekom ist neu auf dem Notebook-Markt. Nach dem GeekBook X14 Pro haben wir uns jetzt das günstigere GeekBook M16 angesehen. Ein 16-Zoll-Display im Alu-Chassis, den Core Ultra 9 185H, 16 GB RAM und eine 512 GB große SSD samt Windows 11 Pro gibt es hier schon für (derzeit weit) unter 1.000 Euro. Zu schön, um wahr zu sein? Jein!",
+      "description": "Das Geekom GeekBook M16 kommt für nur 854 Euro mit Core Ultra 9, 16 GB RAM und 512-GB-SSD im Alu-Chassis. Der Test klärt, was es taugt.",
       "published_utc": "2026-11-24T11:30:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1129,11 +1129,15 @@
           "url": "https://www.computerbase.de/artikel/notebooks/geekom-geekbook-m16-test.99511",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T11:30:00+00:00",
-          "title": "Geekom GeekBook M16 im Test: Das leistet das 16-Zoll-Alu-Notebook für 854 Euro"
+          "title": "Geekom GeekBook M16 im Test: Das leistet das 16-Zoll-Alu-Notebook für 854 Euro"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T12:30:00+01:00",
+      "article_modified_raw": "2026-11-24T12:30:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "8cdd4a41a7b51f46aa384fa6",
@@ -1142,12 +1146,12 @@
       "url": "https://www.computerbase.de/news/apps/spacex-grok-entwicklung-geraet-wegen-ki-vermietung-unter-druck.100487",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Mit Anthropic und Google als Abnehmern von KI-Rechenleistung setzt SpaceX monatlich Milliarden US-Dollar um, bei der Entwicklung eigener KI-Modelle hinkt das Unternehmen hingegen der Konkurrenz weit hinterher. Das lukrative Vermietungsgeschäft verschärft den internen Konkurrenzkampf um GPUs und führt zu Einschnitten bei Grok.",
+      "description": "Mit KI-Rechenleistung setzt SpaceX Milliarden US-Dollar um, bei der Entwicklung eigener KI-Modelle hinkt das Unternehmen weit hinterher.",
       "published_utc": "2026-11-24T10:15:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "AI候補",
       "sources": [
@@ -1155,11 +1159,15 @@
           "url": "https://www.computerbase.de/news/apps/spacex-grok-entwicklung-geraet-wegen-ki-vermietung-unter-druck.100487",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T10:15:00+00:00",
           "title": "SpaceX: Grok-Entwicklung ge­rät we­gen KI-Vermie­tung unter Druck"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T11:15:00+01:00",
+      "article_modified_raw": "2026-11-24T11:15:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "3ea418c24f18c6df5e62255d",
@@ -1220,12 +1228,12 @@
       "url": "https://www.computerbase.de/news/gaming/39-millionen-spieler-gta-vi-legt-groessten-spiele-launch-der-playstation-geschichte-hin.100485",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Grand Theft Auto VI feiert laut Sony den größten Spiele-Launch in der Geschichte der PlayStation und zählt auf der PS5 bereits mehr als 39 Millionen einzelne Spieler. Neben 683 Millionen Spielstunden verzeichnet Sony neue Bestmarken sowohl bei der Zahl gleichzeitig aktiver Spieler als auch bei neuen PS5-Konsolen.",
+      "description": "Grand Theft Auto VI feiert den größten Spiele-Launch in der Geschichte der PlayStation und zählt auf der PS5 über 39 Mio. einzelne Spieler.",
       "published_utc": "2026-11-24T08:30:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1233,11 +1241,15 @@
           "url": "https://www.computerbase.de/news/gaming/39-millionen-spieler-gta-vi-legt-groessten-spiele-launch-der-playstation-geschichte-hin.100485",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T08:30:00+00:00",
           "title": "39 Millionen Spieler: GTA VI ist der größte Launch der PlayStation-Geschichte"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T09:30:00+01:00",
+      "article_modified_raw": "2026-11-24T09:30:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "a698d14fe441ef801b128db8",
@@ -2064,34 +2076,6 @@
       ]
     },
     {
-      "id": "a9fed30973fa8660eb0600e3",
-      "topic": "ai",
-      "title": "OpenAI and Cisco introduce Shirudo - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lbHE3NTF3ZWJRR0tZOFo1MlRjVEVoYjNKaDdWSFVuYnpQQTZ0YTVnMC1nQm04dWZYWkp5TmRVeEg2V2FWZmROOFljV295eWxLMlZUaTh2Z3Y?oc=5",
-      "source": "OpenAI",
-      "publisher": "OpenAI",
-      "description": "OpenAI and Cisco introduce Shirudo OpenAI",
-      "published_utc": "2026-11-23T21:24:12+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "priority",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lbHE3NTF3ZWJRR0tZOFo1MlRjVEVoYjNKaDdWSFVuYnpQQTZ0YTVnMC1nQm04dWZYWkp5TmRVeEg2V2FWZmROOFljV295eWxLMlZUaTh2Z3Y?oc=5",
-          "source": "OpenAI",
-          "publisher": "OpenAI",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T21:24:12+00:00",
-          "title": "OpenAI and Cisco introduce Shirudo - OpenAI"
-        }
-      ],
-      "enrichment": "failed",
-      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
-    },
-    {
       "id": "a313b4769d9bc94f80bd58cf",
       "topic": "ai",
       "title": "Introducing OpenWorks - OpenAI",
@@ -2170,32 +2154,6 @@
       ],
       "enrichment": "failed",
       "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
-    },
-    {
-      "id": "9fa1163eb921fd21097e1ddf",
-      "topic": "ai",
-      "title": "How iFood scales coding agents across 15,000 repositories - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JZU0wc3hudzhzNVA5NEd5ZnZ2LXg0U2ZrLWhUbktMQmY1M1h2N0lkSUltVVluR0ppTmJodUh6S29oaVNuNzNTQmQxbTZKbS1HSWxNQzB3ZE1FbHRfTUh2eg?oc=5",
-      "source": "OpenAI",
-      "publisher": "OpenAI",
-      "description": "How iFood scales coding agents across 15,000 repositories OpenAI",
-      "published_utc": "2026-11-23T17:11:09+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JZU0wc3hudzhzNVA5NEd5ZnZ2LXg0U2ZrLWhUbktMQmY1M1h2N0lkSUltVVluR0ppTmJodUh6S29oaVNuNzNTQmQxbTZKbS1HSWxNQzB3ZE1FbHRfTUh2eg?oc=5",
-          "source": "OpenAI",
-          "publisher": "OpenAI",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T17:11:09+00:00",
-          "title": "How iFood scales coding agents across 15,000 repositories - OpenAI"
-        }
-      ]
     },
     {
       "id": "13c73e8a3e6b238a2037cd39",
@@ -2614,32 +2572,6 @@
       ]
     },
     {
-      "id": "d775c192011fb2ea5dbdd39b",
-      "topic": "ai",
-      "title": "Finding faster quantum algorithms with agents and formal verification - Google DeepMind",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMHgtLVdkZ2RMbU9jQTdrTS1ZeVpJaTBSTERLM2RObThRYmRtQW9kNW8ycUxLX3ozSXJDcTM5cHdsMjNYME5hWmM4anJUREVMMG9ndzQwdlVWVS1DdVhHcnZqclBQUDNoNmtmeEYwbWxqdlB0ZkpVMWVXUnpEb0oxcHJFUTd2bzcwd1phVWtPRzRiSEFmWFdNNzBsSmNYWVlX?oc=5",
-      "source": "Google DeepMind",
-      "publisher": "Google DeepMind",
-      "description": "Finding faster quantum algorithms with agents and formal verification Google DeepMind",
-      "published_utc": "2026-11-23T17:00:25+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMHgtLVdkZ2RMbU9jQTdrTS1ZeVpJaTBSTERLM2RObThRYmRtQW9kNW8ycUxLX3ozSXJDcTM5cHdsMjNYME5hWmM4anJUREVMMG9ndzQwdlVWVS1DdVhHcnZqclBQUDNoNmtmeEYwbWxqdlB0ZkpVMWVXUnpEb0oxcHJFUTd2bzcwd1phVWtPRzRiSEFmWFdNNzBsSmNYWVlX?oc=5",
-          "source": "Google DeepMind",
-          "publisher": "Google DeepMind",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T17:00:25+00:00",
-          "title": "Finding faster quantum algorithms with agents and formal verification - Google DeepMind"
-        }
-      ]
-    },
-    {
       "id": "d0bdf26936a0ab4556cf84f3",
       "topic": "ai",
       "title": "Ling-3.2-air - Intelligence, Performance & Price Analysis - Artificial Analysis",
@@ -2688,33 +2620,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T06:58:02+00:00",
           "title": "I am building an autonomous AI video editor designed to take... - Artificial Analysis"
-        }
-      ]
-    },
-    {
-      "id": "05f0bfad721d9b392bef168c",
-      "topic": "ai",
-      "title": "Amazon says hackers’ AI agents found and exploited 0-day with little human input - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEl5b3ZJMXBEYm5sS0J6cWR4WUhtUnYzaXV1emJQSFFDdERIVTMyVmdPVnpHaV9ubVJDUTVBa3NQOVFlcXBDQjJiWkQyVmJ0X3hxamd1MEFfWC1sZHE4RmVIRy1tUnBMMHBrdXpOMnVoX1JEXzRrVGthRkQtRlI0dFh0VHBSX0t3STlmRFRGbGd2azlMSjlxbnA3Y3lhbWNBWFRwSHN0NjVfbHBPSEVsdWRtNUR5Y1ZtcGJkRHF3?oc=5",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "description": "Amazon says hackers’ AI agents found and exploited 0-day with little human input Ars Technica",
-      "published_utc": "2026-11-24T12:30:05+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "possible_event_id": "0d56d37ccd90",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEl5b3ZJMXBEYm5sS0J6cWR4WUhtUnYzaXV1emJQSFFDdERIVTMyVmdPVnpHaV9ubVJDUTVBa3NQOVFlcXBDQjJiWkQyVmJ0X3hxamd1MEFfWC1sZHE4RmVIRy1tUnBMMHBrdXpOMnVoX1JEXzRrVGthRkQtRlI0dFh0VHBSX0t3STlmRFRGbGd2azlMSjlxbnA3Y3lhbWNBWFRwSHN0NjVfbHBPSEVsdWRtNUR5Y1ZtcGJkRHF3?oc=5",
-          "source": "Ars Technica",
-          "publisher": "Ars Technica",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T12:30:05+00:00",
-          "title": "Amazon says hackers’ AI agents found and exploited 0-day with little human input - Ars Technica"
         }
       ]
     },
@@ -2772,32 +2677,6 @@
       ]
     },
     {
-      "id": "550c7b35ca1774676cbd3c7b",
-      "topic": "ai",
-      "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORGFja05BRjFxdVF5b3JKampvZkRubEV4QmVEOWJJQzNpbmNGeDF6NG4zVHQ1a21uSjA0RktUR3M5SlBIR3d5a1BDRV85MjNNU3I0alc3Ty1EQlp2OFdIQzE0djA1RkxqRlVwM3dYN1FiSVR0RmJFcy1YUnB2ZGNrcUhyVmRfbXBWd2lLUXVvR0FGQmZ2X052MDlXU245emc4REUzX2hCU01NQQ?oc=5",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "description": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic Ars Technica",
-      "published_utc": "2026-11-24T12:00:57+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORGFja05BRjFxdVF5b3JKampvZkRubEV4QmVEOWJJQzNpbmNGeDF6NG4zVHQ1a21uSjA0RktUR3M5SlBIR3d5a1BDRV85MjNNU3I0alc3Ty1EQlp2OFdIQzE0djA1RkxqRlVwM3dYN1FiSVR0RmJFcy1YUnB2ZGNrcUhyVmRfbXBWd2lLUXVvR0FGQmZ2X052MDlXU245emc4REUzX2hCU01NQQ?oc=5",
-          "source": "Ars Technica",
-          "publisher": "Ars Technica",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T12:00:57+00:00",
-          "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic - Ars Technica"
-        }
-      ]
-    },
-    {
       "id": "a26bc2b2c19358ae99c36979",
       "topic": "ai",
       "title": "Russia may launch a nuclear-armed satellite far sooner than we thought - Ars Technica",
@@ -2820,33 +2699,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T19:28:30+00:00",
           "title": "Russia may launch a nuclear-armed satellite far sooner than we thought - Ars Technica"
-        }
-      ]
-    },
-    {
-      "id": "fbfda2152867bd7a8ed7761c",
-      "topic": "ai",
-      "title": "One terminal command gave my forgotten Android device a desk job - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUHEtdGlkSzZiMFBVZlhkeXc3TmtZb3BleXM2LWEwLVZEWXdYNEpaY09Pc0tpYnZmRUxmRWtMQjNqZFhfWUdubFByNXBOMEN2VGJiMzVZNTBiSEdIM3c0UDlkUklzeC1nR013emVNV3EtUmtSMzMwY2J1ejNWUnZ4V1AyNW1Ld05XVVZrZEVVTW9fSDdsRG5LYk02SXJjamVWNzNQM3FCaHA?oc=5",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "description": "One terminal command gave my forgotten Android device a desk job Ars Technica",
-      "published_utc": "2026-11-24T12:15:38+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "possible_event_id": "1a12275f3313",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUHEtdGlkSzZiMFBVZlhkeXc3TmtZb3BleXM2LWEwLVZEWXdYNEpaY09Pc0tpYnZmRUxmRWtMQjNqZFhfWUdubFByNXBOMEN2VGJiMzVZNTBiSEdIM3c0UDlkUklzeC1nR013emVNV3EtUmtSMzMwY2J1ejNWUnZ4V1AyNW1Ld05XVVZrZEVVTW9fSDdsRG5LYk02SXJjamVWNzNQM3FCaHA?oc=5",
-          "source": "Ars Technica",
-          "publisher": "Ars Technica",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T12:15:38+00:00",
-          "title": "One terminal command gave my forgotten Android device a desk job - Ars Technica"
         }
       ]
     },
@@ -2900,32 +2752,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T15:55:12+00:00",
           "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer - Ars Technica"
-        }
-      ]
-    },
-    {
-      "id": "8784bce611a80cebe5e58140",
-      "topic": "ai",
-      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSGQ4R0tRMWtCRTB1XzUzeHRwMXNtcmVVbjVmMEZEU25jcmgyRHVGNi10d0FuWll6VDZaZ2pCUlBIUXZCeUszMENqU0xZVGdrUGRVN29FWk5Ca2xMSzlES3N6RTEyOWxYa2tzOE0xcVY5NThHVHR1WnhWUWtpeWJwSDJ6bXdhNm50WmVjU3l6ek50Y2VRbWhwcGNySjA0YWFyRjA2eVFkajkwa2hEVTFaOGNCd1pfWnhiNS1n?oc=5",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "description": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally Ars Technica",
-      "published_utc": "2026-11-23T21:58:34+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSGQ4R0tRMWtCRTB1XzUzeHRwMXNtcmVVbjVmMEZEU25jcmgyRHVGNi10d0FuWll6VDZaZ2pCUlBIUXZCeUszMENqU0xZVGdrUGRVN29FWk5Ca2xMSzlES3N6RTEyOWxYa2tzOE0xcVY5NThHVHR1WnhWUWtpeWJwSDJ6bXdhNm50WmVjU3l6ek50Y2VRbWhwcGNySjA0YWFyRjA2eVFkajkwa2hEVTFaOGNCd1pfWnhiNS1n?oc=5",
-          "source": "Ars Technica",
-          "publisher": "Ars Technica",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T21:58:34+00:00",
-          "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally - Ars Technica"
         }
       ]
     },
@@ -3722,7 +3548,9 @@
           "published_utc": "2026-11-24T13:40:56+00:00",
           "title": "iPhone Handoff: Here’s the latest on carrier availability and pricing"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://9to5mac.com/2026/11/24/iphone-handoff-carriers-support-ios-27"
     },
     {
       "id": "84f3347b6d6d8a566aa723c0",
@@ -3776,7 +3604,9 @@
           "published_utc": "2026-11-24T12:18:30+00:00",
           "title": "TIME’s Top 100 Photos of 2026 list includes a shot taken on iPhone 18 Pro"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "b93988815fbfb740eb4461e2",
@@ -3854,7 +3684,9 @@
           "published_utc": "2026-11-24T01:04:38+00:00",
           "title": "9to5Mac Daily: November 23, 2026 – Apple agentic AI, spring product rumors"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "1c8f99da0b01d479619000aa",
@@ -3880,7 +3712,9 @@
           "published_utc": "2026-11-23T21:51:18+00:00",
           "title": "ChatGPT expands GPT-6.2 Sol as OpenAI sets retirement date for two models"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "dd8af4e85fdf2f213a3cc219",
@@ -5883,7 +5717,7 @@
       "url": "https://www.techpowerup.com/355148/jetway-intros-mtx-ryz1-mini-itx-industrial-board-with-ryzen-7-pro-8845hs",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "Jetway has introduced the MTX-RYZ1 Mini-ITX industrial motherboard built around the Ryzen 7 PRO 8845HS. The AMD \"Hawk Point\" Zen 4 chip has 8 cores and 16 threads with a 3.8 GHz base clock, and it's aimed mostly at embedded systems and industrial applications. The two SO-DIMM slots support up to...",
+      "description": "Jetway has introduced the MTX-RYZ1 Mini-ITX industrial motherboard built around the Ryzen 7 PRO 8845HS . The AMD \"Hawk Point\" Zen 4 chip has 8 cores and 16 threads with a 3.8 GHz base clock, and it's aimed mostly at embedded systems and industrial applications. The two SO-DIMM slots support up to 96 GB of DDR5-5600, with both ECC and non-ECC module",
       "published_utc": "2026-11-24T00:54:45+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -6045,11 +5879,11 @@
     {
       "id": "91683ffc5a6811857cf1e599",
       "topic": "pc",
-      "title": "CyberPowerPC Expands AI Workstation Line with Compact AMD Ryzen AI Max+ 395 Powered Desktop",
+      "title": "(PR) CyberPowerPC Expands AI Workstation Line with Compact AMD Ryzen AI Max+ 395 Powered Desktop",
       "url": "https://www.techpowerup.com/355143/cyberpowerpc-expands-ai-workstation-line-with-compact-amd-ryzen-ai-max-395-powered-desktop",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "CyberPowerPC, a leading manufacturer of high-performance custom PCs, gaming rigs, and workstations, today announced its compact AI Workstation ASRock AI BOX-A395, powered by the AMD Ryzen AI Max+ 395 processor. The company also previewed its upcoming enterprise-grade AMD Ryzen AI Max+ PRO 495 AI...",
+      "description": "CyberPowerPC, a leading manufacturer of high-performance custom PCs, gaming rigs, and workstations, today announced its compact AI Workstation ASRock AI BOX-A395, powered by the AMD Ryzen AI Max+ 395 processor. The company also previewed its upcoming enterprise-grade AMD Ryzen AI Max+ PRO 495 AI Workstation Series, planned for release in Q4 2026. D",
       "published_utc": "2026-11-23T22:46:51+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -6064,7 +5898,7 @@
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-23T22:46:51+00:00",
-          "title": "CyberPowerPC Expands AI Workstation Line with Compact AMD Ryzen AI Max+ 395 Powered Desktop"
+          "title": "(PR) CyberPowerPC Expands AI Workstation Line with Compact AMD Ryzen AI Max+ 395 Powered Desktop"
         }
       ],
       "discovery_url": null,
@@ -6161,13 +5995,13 @@
       "url": "https://www.techpowerup.com/355133/asus-predicts-return-to-8-gb-of-ram-as-budget-pc-standard-soon",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "It's long been known that the RAM and general PC component crisis, and its related price increases, would continue for some time, but it appears as though things are getting dire, even for bigger PC OEMs, like ASUS. According to ASUS co-CEO, S.Y. Hsu, in the ASUS Q3 2026 earnings call (via...",
+      "description": "It's long been known that the RAM and general PC component crisis, and its related price increases , would continue for some time, but it appears as though things are getting dire, even for bigger PC OEMs, like ASUS. According to ASUS co-CEO, S.Y. Hsu, in the ASUS Q3 2026 earnings call ( via StockAnalysis ), ASUS may soon have to return to shipping",
       "published_utc": "2026-11-23T20:29:51+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
       "date_quality": "feed_published",
-      "triage": "review",
+      "triage": "priority",
       "triage_reason": "PC技術候補",
       "sources": [
         {
@@ -6321,7 +6155,7 @@
       "url": "https://www.techpowerup.com/355118/shuttle-launches-nw10u-ultra-compact-mini-pc-with-intel-wildcat-lake-processors",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "Shuttle has introduced the NW10U ultra-compact Mini PC based on Intel's \"Wildcat Lake\" platform. It supports Core 3, Core 5, and Core 7 processors with a 15 W TDP and up to 64 GB of DDR5-6400. The system measures 103 x 97 x 36.5 mm and has a volume of just 0.4 liters. Shuttle also equips the...",
+      "description": "Shuttle has introduced the NW10U ultra-compact Mini PC based on Intel's \"Wildcat Lake\" platform. It supports Core 3, Core 5, and Core 7 processors with a 15 W TDP and up to 64 GB of DDR5-6400. The system measures 103 x 97 x 36.5 mm and has a volume of just 0.4 liters. Shuttle also equips the NW10U with an active heat-pipe cooling system and Smart F",
       "published_utc": "2026-11-23T18:05:12+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -6797,12 +6631,12 @@
       "url": "https://www.computerbase.de/news/betriebssysteme/drei-mini-pcs-ein-ki-modell-microsoft-vernetzt-windows-per-usb4.100474",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Ein KI-Modell mit 235 Milliarden Parametern auf drei Mini-PCs: Microsoft hat die Rechner per USB4 verbunden und die Berechnung auf sie verteilt. Dafür entwickelt das Unternehmen einen schnelleren Datenweg in Windows 11. Die nötige Betriebssystemversion ist bislang nur angekündigt.",
+      "description": "Microsoft macht USB4 zum schnellen Datenweg für lokale KI: Mehrere Windows-PCs teilen sich Modell und Rechenarbeit.",
       "published_utc": "2026-11-23T20:45:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -6810,11 +6644,15 @@
           "url": "https://www.computerbase.de/news/betriebssysteme/drei-mini-pcs-ein-ki-modell-microsoft-vernetzt-windows-per-usb4.100474",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-23T20:45:00+00:00",
           "title": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-23T21:45:00+01:00",
+      "article_modified_raw": "2026-11-23T21:45:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "6e0fcdac931494de75065fc3",
@@ -6823,12 +6661,12 @@
       "url": "https://www.computerbase.de/news/apps/meta-muse-in-den-usa-darf-die-ki-jetzt-im-supermarkt-einkaufen.100479",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Während Firmen wie Apple, Amazon, eBay und Finanzinstitutionen dazu übergehen, ihre Plattformen vor KI-Zugriffen abzuschirmen, geht man bei Walmart andere Wege: Metas Muse kann dank einer neuen Schnittstelle nun für den Nutzer pünktlich zum Black Friday shoppen gehen.",
+      "description": "Während manche Großkonzerne KI explizit aus Shops verbannen, geht Walmart andere Wege: Metas Chatbot darf dort nun einkaufen.",
       "published_utc": "2026-11-23T19:58:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -6836,11 +6674,15 @@
           "url": "https://www.computerbase.de/news/apps/meta-muse-in-den-usa-darf-die-ki-jetzt-im-supermarkt-einkaufen.100479",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-23T19:58:00+00:00",
           "title": "Meta Muse: In den USA darf die KI jetzt im Supermarkt einkaufen"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-23T20:58:00+01:00",
+      "article_modified_raw": "2026-11-23T20:58:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "f08a352e7a1ed9df43f4ff9b",
@@ -6875,12 +6717,12 @@
       "url": "https://www.computerbase.de/news/gaming/gta-6-erste-patches-beheben-fehler-aber-nicht-den-ego-glitch.100476",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Rund fünf Tage nach dem Start liefert Rockstar Games die ersten Updates für das Actionspiel Grand Theft Auto VI alias GTA 6 aus. Es zeigt sich, dass trotz 12 Jahren Entwicklungszeit und riesigem Budget noch einige Fehler ausgebessert werden müssen.",
+      "description": "Rund fünf Tage nach dem Start liefert Rockstar Games die ersten Updates für das Actionspiel Grand Theft Auto VI alias GTA 6 aus.",
       "published_utc": "2026-11-23T18:40:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -6888,11 +6730,15 @@
           "url": "https://www.computerbase.de/news/gaming/gta-6-erste-patches-beheben-fehler-aber-nicht-den-ego-glitch.100476",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-23T18:40:00+00:00",
           "title": "GTA 6: Erstes Update räumt mit Bugs auf, ein Glitch bleibt"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-23T19:40:00+01:00",
+      "article_modified_raw": "2026-11-23T19:40:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "234d35ac266d4e2612b64acc",
@@ -7069,12 +6915,12 @@
       "url": "https://www.igorslab.de/en/arctic-px-1-px-1-extreme-thermal-putty-review",
       "source": "Igor’sLAB",
       "publisher": "Igor’sLAB",
-      "description": "The measurement series show: In the tested pad and multilayer configurations, ARCTIC PX-1 Extreme has a lower area-normalized thermal resistance and higher effective thermal conductivity than standard PX-1. The softer PX-1 remains a more affordable alternative. The results apply to the tested conditions and do not demonstrate a specific temperature",
+      "description": "In testing, the PX-1 Extreme clearly outperforms the PX-1 thermally. The standard model stands out for its adaptability and moderate price.",
       "published_utc": "2026-11-24T04:30:25+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -7082,11 +6928,15 @@
           "url": "https://www.igorslab.de/en/arctic-px-1-px-1-extreme-thermal-putty-review",
           "source": "Igor’sLAB",
           "publisher": "Igor’sLAB",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T04:30:25+00:00",
           "title": "ARCTIC PX-1 and PX-1 Extreme Thermal Putty Reviewed: Two Thermal Putties Between a Classic Thermal Pad and a Moldable Gap Filler"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T04:30:25+00:00",
+      "article_modified_raw": "2026-11-24T04:30:25+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "74fdf28c7be47264bf166e56",
@@ -7269,7 +7119,7 @@
       "url": "https://www.storagereview.com/news/highpoint-pae-bundles-external-rtx-pro-blackwell-gpu-pcie-gen5-x16-copprlink",
       "source": "StorageReview",
       "publisher": "StorageReview",
-      "description": "HighPoint Technologies has packaged its external PCIe Gen5 hardware into three PCIe Accelerator Expansion (PAE) bundles that move an NVIDIA RTX PRO Blackwell Workstation Edition GPU out of the server or workstation chassis. Each bundle pairs a single-width host adapter with a RocketStor 8631D enclosure over a PCIe Gen5 x16 CopprLink cable, and the ",
+      "description": "HighPoint PAE bundles connect a 600W RTX PRO Blackwell GPU over PCIe Gen5 x16 CopprLink to an external enclosure with a 1300W supply.",
       "published_utc": "2026-11-23T17:47:55+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -7286,7 +7136,11 @@
           "published_utc": "2026-11-23T17:47:55+00:00",
           "title": "HighPoint PAE Bundles Move 600W RTX PRO Blackwell GPUs to an External 1300W Enclosure Over PCIe Gen5 x16"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "4e6ab8510bc401dce0d7d166",
@@ -7295,7 +7149,7 @@
       "url": "https://www.storagereview.com/news/renda-nova8-eight-600w-rtx-pro-6000-gpus-4u-self-contained-liquid-cooling",
       "source": "StorageReview",
       "publisher": "StorageReview",
-      "description": "Nexalus and RENDA have built a 4U AI server that runs eight NVIDIA RTX PRO 6000 Blackwell GPUs at their full 600W rating inside a standard air-cooled rack. The RENDA Nova8 carries a self-contained liquid loop for every GPU and the CPU, so the companies say an operator can swap it into an existing 19-inch The post RENDA Nova8 Fits Eight 600W RTX PRO",
+      "description": "RENDA Nova8 runs eight 600W RTX PRO 6000 Blackwell GPUs in 4U with self-contained liquid cooling and a claimed 55,000 tokens per second.",
       "published_utc": "2026-11-23T17:47:28+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -7312,16 +7166,20 @@
           "published_utc": "2026-11-23T17:47:28+00:00",
           "title": "RENDA Nova8 Fits Eight 600W RTX PRO 6000 GPUs in 4U With Self-Contained Liquid Cooling for Air-Cooled Racks"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "ae8b5fd769330b91ce7ba632",
       "topic": "pc",
-      "title": "Podcast #157: Quantum’s Skip Levens on the Scalar i7 RAPTOR and 80PB of Tape in One Rack",
+      "title": "Podcast #157: Quantum's Skip Levens on the Scalar i7 RAPTOR and 80PB of Tape in One Rack",
       "url": "https://www.storagereview.com/podcast/podcast-157-quantum-skip-levens-scalar-i7-raptor-lto-10-sc26",
       "source": "StorageReview",
       "publisher": "StorageReview",
-      "description": "Brian caught up with Skip Levens, Head of Product Marketing at Quantum, at the company’s SC26 booth in Chicago for a short episode recorded in front of the Scalar i7 RAPTOR tape library. The subject was why tape demand is climbing again as AI and HPC sites pile up data, and the answer ran through The post Podcast #157: Quantum’s Skip Levens on the ",
+      "description": "Podcast #157: Quantum's Skip Levens on the Scalar i7 RAPTOR, with 2,000 LTO-10 cartridges and 80PB in one rack, and tape as a warm tier.",
       "published_utc": "2026-11-23T16:28:49+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -7336,14 +7194,18 @@
           "publisher": "StorageReview",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-23T16:28:49+00:00",
-          "title": "Podcast #157: Quantum’s Skip Levens on the Scalar i7 RAPTOR and 80PB of Tape in One Rack"
+          "title": "Podcast #157: Quantum's Skip Levens on the Scalar i7 RAPTOR and 80PB of Tape in One Rack"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "7803ef082904acace371cdd6",
       "topic": "pc",
-      "title": "Keychron Nape Pro Mouse Review",
+      "title": "Keychron Nape Pro Review",
       "url": "https://www.rtings.com/mouse/reviews/keychron/nape-pro",
       "source": "RTINGS Monitor",
       "publisher": "RTINGS Monitor",
@@ -7362,7 +7224,7 @@
           "publisher": "RTINGS Monitor",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-23T17:30:35+00:00",
-          "title": "Keychron Nape Pro Mouse Review"
+          "title": "Keychron Nape Pro Review"
         },
         {
           "url": "https://www.rtings.com/mouse/reviews/keychron/nape-pro",
@@ -7370,9 +7232,13 @@
           "publisher": "RTINGS Headphones",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-23T17:30:35+00:00",
-          "title": "Keychron Nape Pro Review"
+          "title": "Keychron Nape Pro Mouse Review"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "2026-11-23T12:30:35-05:00",
+      "enrichment": "url_only"
     },
     {
       "id": "e32f691f4d4eb593c23712ac",
@@ -7485,7 +7351,7 @@
       "url": "https://www.nichepcgamer.com/archives/post-134245.html",
       "source": "NichePCGamer",
       "publisher": "NichePCGamer",
-      "description": "一部のWindows11 26H2およびWindows11 25H2 PC環境において、KB5132057をインストールできない・インストールに失敗するとの不具合報告が出ています。 不具合概要 日本時間で2026年11月 […]",
+      "description": "一部のWindows11 26H2およびWindows11 25H2 PC環境において、KB5132057をインストールできない・インストールに失敗するとの不具合報告が出ています。 不具合概要 日本...",
       "published_utc": "2026-11-23T16:00:45+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -7502,7 +7368,11 @@
           "published_utc": "2026-11-23T16:00:45+00:00",
           "title": "KB5132057をインストールできない不具合。0x800f0993、0x80070306などのエラーで失敗。一部Windows11 PCで発生"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026/11/24",
+      "article_modified_raw": "2026/11/24",
+      "enrichment": "url_only"
     },
     {
       "id": "f93b19cdfcc3476ee052d4ea",
@@ -7511,7 +7381,7 @@
       "url": "https://www.nichepcgamer.com/archives/post-134164.html",
       "source": "NichePCGamer",
       "publisher": "NichePCGamer",
-      "description": "GPU-Z 2.72.0が公開されました。 今回のアップデートでは以下のサポートの追加や不具合の修正、変更・改善等が含まれています。 [shudoxxx] ▼GPU-Z 2.72.0リリースノート NVIDIA RTX […]",
+      "description": "GPU-Z 2.72.0が公開されました。 今回のアップデートでは以下のサポートの追加や不具合の修正、変更・改善等が含まれています。 ▼GPU-Z 2.72.0リリースノート NVIDIA RTX ...",
       "published_utc": "2026-11-23T15:03:26+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -7528,7 +7398,11 @@
           "published_utc": "2026-11-23T15:03:26+00:00",
           "title": "GPU-Z 2.72.0公開。NVIDIA RTX Sparkをサポートなど"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026/11/24",
+      "article_modified_raw": "2026/11/24",
+      "enrichment": "url_only"
     },
     {
       "id": "6ca1d2cb5abda58bbdfcaa57",
@@ -7537,7 +7411,7 @@
       "url": "https://www.nichepcgamer.com/archives/post-134081.html",
       "source": "NichePCGamer",
       "publisher": "NichePCGamer",
-      "description": "Amazonにて、1億曲以上が聴ける定額制音楽ストリーミングサービス『Amazon Music Unlimited』の長期無料キャンペーンが開催されています。通常、Amazon Music Unlimitedは月額1,1 […]",
+      "description": "Amazonにて、1億曲以上が聴ける定額制音楽ストリーミングサービス『Amazon Music Unlimited』の長期無料キャンペーンが開催されています。通常、Amazon Music Unli...",
       "published_utc": "2026-11-23T15:02:30+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -7554,7 +7428,11 @@
           "published_utc": "2026-11-23T15:02:30+00:00",
           "title": "Amazon Music Unlimited、3か月分3540円が無料キャンペーン中"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026/11/24",
+      "article_modified_raw": "2026/11/24",
+      "enrichment": "url_only"
     },
     {
       "id": "71936b6731bc0b6f39ab1d9a",
@@ -7895,58 +7773,6 @@
       ]
     },
     {
-      "id": "57ec36f364bc1f9f50c1a066",
-      "topic": "ai",
-      "title": "Clay helps sales teams win with Codex and ChatGPT - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1clBIYTJheFlVWjNDMVNVc20zR200aE83S3JmcUxyLU1ydEJ2aFljWnctTVZIcG5Kc2daNGJOQWRDWEVLSHdVcEtDUDVSRS1iUGdvalRZcXl1MUFYeDdueS1kMkM4dk5MajlmVXBtSGoxSms?oc=5",
-      "source": "OpenAI",
-      "publisher": "OpenAI",
-      "description": "Clay helps sales teams win with Codex and ChatGPT OpenAI",
-      "published_utc": "2026-11-23T20:04:38+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1clBIYTJheFlVWjNDMVNVc20zR200aE83S3JmcUxyLU1ydEJ2aFljWnctTVZIcG5Kc2daNGJOQWRDWEVLSHdVcEtDUDVSRS1iUGdvalRZcXl1MUFYeDdueS1kMkM4dk5MajlmVXBtSGoxSms?oc=5",
-          "source": "OpenAI",
-          "publisher": "OpenAI",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T20:04:38+00:00",
-          "title": "Clay helps sales teams win with Codex and ChatGPT - OpenAI"
-        }
-      ]
-    },
-    {
-      "id": "bd86d625229836469bf33a59",
-      "topic": "ai",
-      "title": "Richpanel helps companies automate 50% of support in 30 days - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQUpUcElkZEdpWWV5OFJ5UG8zOUhkM3lrYzBDU0t6bHV2a3I1MHVTMVNHa3RoeDF1RXExYWFqNGtJOUFQbG0zaXZGNWJJV2JleEtNS1FhYUdlbWV5RW40SWNxVzR6QzRnUnBKVXlndGJ0Yy1lLVBTc0VsSFU1bWRhYQ?oc=5",
-      "source": "OpenAI",
-      "publisher": "OpenAI",
-      "description": "Richpanel helps companies automate 50% of support in 30 days OpenAI",
-      "published_utc": "2026-11-23T20:39:14+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQUpUcElkZEdpWWV5OFJ5UG8zOUhkM3lrYzBDU0t6bHV2a3I1MHVTMVNHa3RoeDF1RXExYWFqNGtJOUFQbG0zaXZGNWJJV2JleEtNS1FhYUdlbWV5RW40SWNxVzR6QzRnUnBKVXlndGJ0Yy1lLVBTc0VsSFU1bWRhYQ?oc=5",
-          "source": "OpenAI",
-          "publisher": "OpenAI",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T20:39:14+00:00",
-          "title": "Richpanel helps companies automate 50% of support in 30 days - OpenAI"
-        }
-      ]
-    },
-    {
       "id": "811cdb47b197d3a9d8dda4bb",
       "topic": "ai",
       "title": "GPT-6.2 destroyed what made ChatGPT feel alive - OpenAI Developer Community",
@@ -7969,32 +7795,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T02:16:51+00:00",
           "title": "GPT-6.2 destroyed what made ChatGPT feel alive - OpenAI Developer Community"
-        }
-      ]
-    },
-    {
-      "id": "bd6a424ab1f2b4f67ead5731",
-      "topic": "ai",
-      "title": "Connected intelligence for in-house legal - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdlJmZktCRGxVeG00Q1Npa1ZqcFVaYVlNOUpzb0U1bTlJeWFseHhJR3lzZXF4NUN1M2hrWnJFWElWQWoyNkUweE1tZWF6TFBPLXNON1FTa3o1NWNNR1dxNUFidTF6VzN1dUpycWhja0E2aUdMN0tubWdnME43TndZb1Fn?oc=5",
-      "source": "OpenAI",
-      "publisher": "OpenAI",
-      "description": "Connected intelligence for in-house legal OpenAI",
-      "published_utc": "2026-11-23T18:45:09+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdlJmZktCRGxVeG00Q1Npa1ZqcFVaYVlNOUpzb0U1bTlJeWFseHhJR3lzZXF4NUN1M2hrWnJFWElWQWoyNkUweE1tZWF6TFBPLXNON1FTa3o1NWNNR1dxNUFidTF6VzN1dUpycWhja0E2aUdMN0tubWdnME43TndZb1Fn?oc=5",
-          "source": "OpenAI",
-          "publisher": "OpenAI",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T18:45:09+00:00",
-          "title": "Connected intelligence for in-house legal - OpenAI"
         }
       ]
     },
@@ -8380,12 +8180,12 @@
       "url": "https://www.notebookcheck.net/xTool-X1-review-When-55-W-of-CO2-power-meets-high-speed-galvo-and-UV-lasers.1449036.0.html",
       "source": "Notebookcheck mobile",
       "publisher": "Notebookcheck mobile",
-      "description": "Head turner. | The xTool X1 is a powerful, versatile, and surprisingly accessible system for cutting and engraving a wide range of materials. In our review, its modular architecture and intuitive software stood out in particular, even if a few minor flaws hold it back slightly.",
+      "description": "We test the xTool X1, compare it with the Bambu Lab R1 and find out whether it really offers enormous speed advantages—and even engrave glass.",
       "published_utc": "2026-11-24T05:15:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -8393,7 +8193,7 @@
           "url": "https://www.notebookcheck.net/xTool-X1-review-When-55-W-of-CO2-power-meets-high-speed-galvo-and-UV-lasers.1449036.0.html",
           "source": "Notebookcheck mobile",
           "publisher": "Notebookcheck mobile",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T05:15:00+00:00",
           "title": "xTool X1 review: When 55 W of CO₂ power meets high-speed galvo and UV lasers"
         },
@@ -8405,7 +8205,11 @@
           "published_utc": "2026-11-24T05:15:00+00:00",
           "title": "xTool X1 review: When 55 W of CO₂ power meets high-speed galvo and UV lasers"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T06:15:00+01:00",
+      "article_modified_raw": "2026-11-24T06:15:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "c155d5cfe40430ae47818c9c",
@@ -8431,7 +8235,9 @@
           "published_utc": "2026-11-23T21:01:24+00:00",
           "title": "Apple announces Ted Lasso season 5 is coming"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "6554970af9fd98fa6653da9f",
@@ -8516,44 +8322,18 @@
       "enrichment_error": "403 Client Error: Forbidden for url: https://9to5mac.com/2026/11/23/ios-27-3-adds-new-features-in-six-iphone-apps-details-here"
     },
     {
-      "id": "8b49853c60f4a93eb08d0f84",
-      "topic": "smartphones",
-      "title": "AIへの長文指示も「声」で解決！ Genspark連携のデスクトップ型AIデバイス「VoicePad」の実力は？",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/24/news037.html",
-      "source": "ITmedia Mobile",
-      "publisher": "ITmedia Mobile",
-      "description": "Gensparkが、SecondBrainシリーズのハードウェア第2弾となる「SecondBrain VoicePad」のクラウドファンディングをKickstarterで始める。5つのキーで音声入力、ショートカット操作、会議の録音とAI議事録の作成をこなすデスク向けデバイスを、β版のアプリで試した。",
-      "published_utc": "2026-11-24T07:00:00+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
-      "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://www.itmedia.co.jp/pcuser/articles/2611/24/news037.html",
-          "source": "ITmedia Mobile",
-          "publisher": "ITmedia Mobile",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-24T07:00:00+00:00",
-          "title": "AIへの長文指示も「声」で解決！ Genspark連携のデスクトップ型AIデバイス「VoicePad」の実力は？"
-        }
-      ]
-    },
-    {
       "id": "274222e559e6d618c8adcbec",
       "topic": "smartphones",
-      "title": "DeNA、「AI社員」を外販 使い過ぎを“残業時間”で管理",
+      "title": "DeNA、「AI社員」を外販　使い過ぎを“残業時間”で管理",
       "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003406",
       "source": "ITmedia Mobile",
       "publisher": "ITmedia Mobile",
       "description": "DeNAは、AIエージェントを企業の一員として配属・育成できるとうたうサービス「AI社員 by DeNA」の提供を決定したと発表した。",
-      "published_utc": "2026-11-24T03:26:00+00:00",
+      "published_utc": "2026-11-24T12:26:08+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -8561,25 +8341,29 @@
           "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003406",
           "source": "ITmedia Mobile",
           "publisher": "ITmedia Mobile",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-24T03:26:00+00:00",
-          "title": "DeNA、「AI社員」を外販 使い過ぎを“残業時間”で管理"
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-24T12:26:08+00:00",
+          "title": "DeNA、「AI社員」を外販　使い過ぎを“残業時間”で管理"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T12:26:08Z",
+      "article_modified_raw": "2026-11-24T12:26:08Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "56723709fda3cecaa9b21fc7",
       "topic": "pc",
-      "title": "メモリ24GBという“現実解” Acerの最新ポータブルゲーミングPC「Predator Atlas 8」で重いゲームはどこまで動く？ 軽めのタイトルは何時間プレイできた？",
+      "title": "メモリ24GBという“現実解”　Acerの最新ポータブルゲーミングPC「Predator Atlas 8」で重いゲームはどこまで動く？　軽めのタイトルは何時間プレイできた？（1/5 ページ）",
       "url": "https://www.itmedia.co.jp/pcuser/articles/2611/24/news043.html",
       "source": "ITmedia Mobile",
       "publisher": "ITmedia Mobile",
       "description": "ポータブルゲーミングPCの進化が止まらない。Acerの「Predator Atlas 8」は、ゲーミング向けにチューンされた新SoC「Intel Arc G3 Extreme」と8型ディスプレイを搭載した最新モデルだ。ベンチマークテストに加え、実際のゲームプレイやバッテリー駆動時間もチェックした。",
-      "published_utc": "2026-11-24T03:00:00+00:00",
+      "published_utc": "2026-11-24T12:00:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -8587,25 +8371,29 @@
           "url": "https://www.itmedia.co.jp/pcuser/articles/2611/24/news043.html",
           "source": "ITmedia Mobile",
           "publisher": "ITmedia Mobile",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-24T03:00:00+00:00",
-          "title": "メモリ24GBという“現実解” Acerの最新ポータブルゲーミングPC「Predator Atlas 8」で重いゲームはどこまで動く？ 軽めのタイトルは何時間プレイできた？"
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-24T12:00:00+00:00",
+          "title": "メモリ24GBという“現実解”　Acerの最新ポータブルゲーミングPC「Predator Atlas 8」で重いゲームはどこまで動く？　軽めのタイトルは何時間プレイできた？（1/5 ページ）"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T12:00:00Z",
+      "article_modified_raw": "2026-11-24T11:13:00Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "29633a52091d219a8092e499",
       "topic": "smartphones",
-      "title": "国内で採れないAI人材、インドで確保 “日本に呼ばない”開発ラボをZenkenが始めた理由",
+      "title": "国内で採れないAI人材、インドで確保　“日本に呼ばない”開発ラボをZenkenが始めた理由（1/2 ページ）",
       "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003396",
       "source": "ITmedia Mobile",
       "publisher": "ITmedia Mobile",
       "description": "生成AIの普及で、企業が求めるエンジニア像は変わった。国内で採れない人材をどう確保するか。Zenkenは、インドのベテランエンジニアが現地に住んだまま開発に加わるサービスを始めた。",
-      "published_utc": "2026-11-24T01:00:00+00:00",
+      "published_utc": "2026-11-24T10:00:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -8613,11 +8401,15 @@
           "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003396",
           "source": "ITmedia Mobile",
           "publisher": "ITmedia Mobile",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-24T01:00:00+00:00",
-          "title": "国内で採れないAI人材、インドで確保 “日本に呼ばない”開発ラボをZenkenが始めた理由"
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-24T10:00:00+00:00",
+          "title": "国内で採れないAI人材、インドで確保　“日本に呼ばない”開発ラボをZenkenが始めた理由（1/2 ページ）"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T10:00:00Z",
+      "article_modified_raw": "2026-11-24T10:00:00Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "ff6e47470304a53468d26cd3",
@@ -8672,33 +8464,6 @@
       ]
     },
     {
-      "id": "c397dc056d68f2e3a20c8ed2",
-      "topic": "ai",
-      "title": "Amazon says hackers’ AI agents found and exploited 0-day with little human input - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT1lmdHFNbW5FcjU1cDNXRzQ3bUhheTQtdEZkeERFOWNKZWdDM3o0dXhvNzJxekVfSVEzMzhzSEVBeGJPQ2s3aWdGQS1LMko5OEZEUmxpQk9WbEl3aXpCVjh2ZHBxS25CblE2LVQxVkxRbFN5QVE5NHEtdHlpOUlJUDlIUWtlTUwxQnBHZnFya2RrbUR1cGh1OWJ4Z1Z4dGxMVlRBaC1oTnhyYXhFS2Q2RnpuTnJicVNGZXRyQVYxSVRpT01LUlZ0NVV1V3ZFdDEy?oc=5",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "description": "Amazon says hackers’ AI agents found and exploited 0-day with little human input Ars Technica",
-      "published_utc": "2026-11-24T12:30:48+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "possible_event_id": "0d56d37ccd90",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT1lmdHFNbW5FcjU1cDNXRzQ3bUhheTQtdEZkeERFOWNKZWdDM3o0dXhvNzJxekVfSVEzMzhzSEVBeGJPQ2s3aWdGQS1LMko5OEZEUmxpQk9WbEl3aXpCVjh2ZHBxS25CblE2LVQxVkxRbFN5QVE5NHEtdHlpOUlJUDlIUWtlTUwxQnBHZnFya2RrbUR1cGh1OWJ4Z1Z4dGxMVlRBaC1oTnhyYXhFS2Q2RnpuTnJicVNGZXRyQVYxSVRpT01LUlZ0NVV1V3ZFdDEy?oc=5",
-          "source": "Ars Technica",
-          "publisher": "Ars Technica",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T12:30:48+00:00",
-          "title": "Amazon says hackers’ AI agents found and exploited 0-day with little human input - Ars Technica"
-        }
-      ]
-    },
-    {
       "id": "048d81dd5656a84d22705d84",
       "topic": "ai",
       "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it’s a big secret - Ars Technica",
@@ -8721,33 +8486,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T20:34:51+00:00",
           "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it’s a big secret - Ars Technica"
-        }
-      ]
-    },
-    {
-      "id": "541f49eccf283fe5894cff72",
-      "topic": "ai",
-      "title": "One terminal command gave my forgotten Android device a desk job - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzN0cVBUbVRsYTVfbVZBRVFwdnQ2RG9VSEphSXJUWGJfTGxfcVFnZHQ3MEY2WGZYRkNrdGw2Q0xlMVlDU0FDX0Z5OWxxeWFoTEVZNHlrUk5OSlpSd2djV09NVEtUY1lIRUpVNUpVUThESjNpMVNTV1NsWTFTRW03YUVsV01XNzNFMXFuekhUdGxncjBGMEpQWncyd1hVNUF3YWhrNDlTN2hDUG5CTWR4Mw?oc=5",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "description": "One terminal command gave my forgotten Android device a desk job Ars Technica",
-      "published_utc": "2026-11-24T12:15:47+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "possible_event_id": "1a12275f3313",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzN0cVBUbVRsYTVfbVZBRVFwdnQ2RG9VSEphSXJUWGJfTGxfcVFnZHQ3MEY2WGZYRkNrdGw2Q0xlMVlDU0FDX0Z5OWxxeWFoTEVZNHlrUk5OSlpSd2djV09NVEtUY1lIRUpVNUpVUThESjNpMVNTV1NsWTFTRW03YUVsV01XNzNFMXFuekhUdGxncjBGMEpQWncyd1hVNUF3YWhrNDlTN2hDUG5CTWR4Mw?oc=5",
-          "source": "Ars Technica",
-          "publisher": "Ars Technica",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T12:15:47+00:00",
-          "title": "One terminal command gave my forgotten Android device a desk job - Ars Technica"
         }
       ]
     },
@@ -9534,38 +9272,398 @@
       ]
     },
     {
-      "id": "5e9ecf9917d5e67927e13f82",
-      "topic": "smartphones",
-      "title": "iPhone XS - Beats - Chargers & Adapters - All Accessories - Apple",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNUcxenA0Z1RVblNNWmlGQnhKUElYTWcxTmhWb0FLRzdybEE0Y2J2ZU5SVDhBNWp1eWhyMVZSTzNJWS1XWDRlTzhvNXhabmRheTRGcEtzeGdYMFIyUVM4MFQ3aUlzTm0tUlpWQmoxSUVLNENjTnBiaUwxREtybktrcGVIUXZmQQ?oc=5",
-      "source": "Apple AirPods",
-      "publisher": "Apple",
-      "description": "iPhone XS - Beats - Chargers & Adapters - All Accessories Apple",
-      "published_utc": "2026-11-24T01:39:14+00:00",
+      "id": "ff40accc3f3b17222878a33b",
+      "topic": "ai",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+      "source": "Google DeepMind",
+      "publisher": "Google DeepMind",
+      "description": "How using agent teams and formal verification can improve quantum algorithms for modelling fusion energy, chemistry and enzymes.",
+      "published_utc": "2026-11-23T17:00:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
       "triage": "review",
-      "triage_reason": "スマートフォンへ分類",
+      "triage_reason": "関連性・新規性要確認",
       "sources": [
         {
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNUcxenA0Z1RVblNNWmlGQnhKUElYTWcxTmhWb0FLRzdybEE0Y2J2ZU5SVDhBNWp1eWhyMVZSTzNJWS1XWDRlTzhvNXhabmRheTRGcEtzeGdYMFIyUVM4MFQ3aUlzTm0tUlpWQmoxSUVLNENjTnBiaUwxREtybktrcGVIUXZmQQ?oc=5",
-          "source": "Apple AirPods",
-          "publisher": "Apple",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T01:39:14+00:00",
-          "title": "iPhone XS - Beats - Chargers & Adapters - All Accessories - Apple"
+          "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+          "source": "Google DeepMind",
+          "publisher": "Google DeepMind",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-23T17:00:00+00:00",
+          "title": "Finding faster quantum algorithms with agents and formal verification"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-23T17:00:00+00:00",
+      "article_modified_raw": "2026-11-23T16:59:40.343703+00:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "fb5ec69282f6bc9bae66974c",
+      "topic": "ai",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI",
+      "publisher": "OpenAI",
+      "description": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "published_utc": "2026-11-24T13:00:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "source": "OpenAI",
+          "publisher": "OpenAI",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-24T13:00:00+00:00",
+          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
+    },
+    {
+      "id": "225f3e9c3b5ed75301018a1f",
+      "topic": "ai",
+      "title": "Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source": "OpenAI",
+      "publisher": "OpenAI",
+      "description": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "published_utc": "2026-11-24T11:00:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+          "source": "OpenAI",
+          "publisher": "OpenAI",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-24T11:00:00+00:00",
+          "title": "Searching for distant planets with Astra"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
+    },
+    {
+      "id": "1b3e658ca57e9f6bf410fd97",
+      "topic": "ai",
+      "title": "How Intentful uses dots to make more time for growth",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "source": "OpenAI",
+      "publisher": "OpenAI",
+      "description": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "published_utc": "2026-11-24T00:00:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://openai.com/business/customer-stories/intentful-dots",
+          "source": "OpenAI",
+          "publisher": "OpenAI",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-24T00:00:00+00:00",
+          "title": "How Intentful uses dots to make more time for growth"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
+    },
+    {
+      "id": "f6780dd54bad1312fb6884b4",
+      "topic": "ai",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "source": "OpenAI",
+      "publisher": "OpenAI",
+      "description": "",
+      "published_utc": "2026-11-24T00:00:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://openai.com/business/customer-stories/ifood",
+          "source": "OpenAI",
+          "publisher": "OpenAI",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-24T00:00:00+00:00",
+          "title": "How iFood scales coding agents across 15,000 repositories"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
+    },
+    {
+      "id": "3afdc567f85ec42e65bd2031",
+      "topic": "ai",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "source": "OpenAI",
+      "publisher": "OpenAI",
+      "description": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "published_utc": "2026-11-24T00:00:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+          "source": "OpenAI",
+          "publisher": "OpenAI",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-24T00:00:00+00:00",
+          "title": "Clay helps sales teams win with Codex and ChatGPT"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
+    },
+    {
+      "id": "dd406cf40f0b773730b563b3",
+      "topic": "ai",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI",
+      "publisher": "OpenAI",
+      "description": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "published_utc": "2026-11-23T21:20:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://openai.com/index/introducing-shirudo",
+          "source": "OpenAI",
+          "publisher": "OpenAI",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-23T21:20:00+00:00",
+          "title": "OpenAI and Cisco introduce Shirudo"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
+    },
+    {
+      "id": "ec7c7e727ee39b5229972d7d",
+      "topic": "pc",
+      "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+      "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "description": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
+      "published_utc": "2026-11-24T14:56:50+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back",
+          "source": "Ars Technica",
+          "publisher": "Ars Technica",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-24T14:56:50+00:00",
+          "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T14:56:50+00:00",
+      "article_modified_raw": "2026-11-24T15:22:32+00:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "056bf79d7b75b3db937f5348",
+      "topic": "ai",
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "description": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "published_utc": "2026-11-24T12:30:05+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
+          "source": "Ars Technica",
+          "publisher": "Ars Technica",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-24T12:30:05+00:00",
+          "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T12:30:05+00:00",
+      "article_modified_raw": "2026-11-24T14:00:44+00:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "ac558973177aaa78b188bc42",
+      "topic": "ai",
+      "title": "One terminal command gave my forgotten Android device a desk job",
+      "url": "https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "description": "The free, open source PhoneBox dashboard puts old Android screens back to work.",
+      "published_utc": "2026-11-24T12:15:38+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job",
+          "source": "Ars Technica",
+          "publisher": "Ars Technica",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-24T12:15:38+00:00",
+          "title": "One terminal command gave my forgotten Android device a desk job"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T12:15:38+00:00",
+      "article_modified_raw": "2026-11-24T13:49:09+00:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "102002d9228144d97cdf0aba",
+      "topic": "ai",
+      "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "description": "Russian missile corvette latest casualty as Ukraine strikes back in war at sea.",
+      "published_utc": "2026-11-24T12:00:57+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation",
+          "source": "Ars Technica",
+          "publisher": "Ars Technica",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-24T12:00:57+00:00",
+          "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T12:00:57+00:00",
+      "article_modified_raw": "2026-11-24T13:13:52+00:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "b15cb0946ef4bcd9788eb6a9",
+      "topic": "ai",
+      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+      "url": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "description": "The Army said on Sunday that it would carry out the detonation on Wednesday.",
+      "published_utc": "2026-11-23T21:58:34+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally",
+          "source": "Ars Technica",
+          "publisher": "Ars Technica",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-23T21:58:34+00:00",
+          "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-23T21:58:34+00:00",
+      "article_modified_raw": "2026-11-24T14:09:08+00:00",
+      "enrichment": "article_metadata"
+    }
+  ],
+  "date_unknown": [
+    {
+      "id": "da5b431582aba69bebce7d72",
+      "topic": "ai",
+      "title": "Model Release Notes：ページ変更を観測（要差分確認）",
+      "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help",
+      "description": "前回観測 2026-11-25T14:37:10+00:00 → 今回観測 2026-11-25T14:52:43+00:00。変更内容・発生日は未確定。",
+      "published_utc": null,
+      "date_jst": null,
+      "timestamp_basis": "page_change_observed",
+      "link_role": "monitor_page",
+      "date_quality": "observed_change",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help",
+          "timestamp_basis": "page_change_observed",
+          "published_utc": null,
+          "title": "Model Release Notes：ページ変更を観測（要差分確認）"
         }
       ]
     }
   ],
-  "date_unknown": [],
   "health": {
-    "ok": 23,
-    "partial": 1,
-    "failed": 1,
-    "deferred": 16,
+    "ok": 24,
+    "deferred": 15,
+    "partial": 2,
     "empty": 2,
     "manual": 3
   }

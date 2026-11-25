@@ -1,0 +1,477 @@
+{
+  "schema_version": 2,
+  "date_jst": "2026-11-21",
+  "group": "audio",
+  "title": "オーディオ",
+  "status": "candidate_collection_only",
+  "items": [
+    {
+      "id": "6a41fd0e95a2ebff03ad77a8",
+      "topic": "portable_dac",
+      "title": "FiiO DT11 Review",
+      "url": "https://www.headfonia.com/fiio-dt11-review",
+      "source": "Headfonia",
+      "publisher": "Headfonia",
+      "description": "Today we are taking a detailed look at FiiO’s first portable digital transport, the DT11, a rather unusual addition to the company’s catalogue that... The post FiiO DT11 Review appeared first on https://www.headfonia.com/",
+      "published_utc": "2026-11-21T08:00:23+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.headfonia.com/fiio-dt11-review",
+          "source": "Headfonia",
+          "publisher": "Headfonia",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T08:00:23+00:00",
+          "title": "FiiO DT11 Review"
+        }
+      ]
+    },
+    {
+      "id": "b20ecdbe0a9d548c5acd992f",
+      "topic": "wired",
+      "title": "Sivga M500 Flatbuds - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90eWpQUHRnQXQxOUVNWV8tVnRfUzlvTGZDY1p6X0VPUXBaQTdLaWNVUENnSVRJWnFwcHVMNjVrT080WHBuQkY1dW5TWmlfVVdZZlpyc1N6YVNrblZJcEpQRGtJVHJoT0NLVVVj?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Sivga M500 Flatbuds Head-Fi.org",
+      "published_utc": "2026-11-21T12:15:42+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90eWpQUHRnQXQxOUVNWV8tVnRfUzlvTGZDY1p6X0VPUXBaQTdLaWNVUENnSVRJWnFwcHVMNjVrT080WHBuQkY1dW5TWmlfVVdZZlpyc1N6YVNrblZJcEpQRGtJVHJoT0NLVVVj?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T12:15:42+00:00",
+          "title": "Sivga M500 Flatbuds - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "2a6da75e0d5cfa95f338f877",
+      "topic": "wired",
+      "title": "Closed: Quill Acoustics Karma - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xeGJHQVE5Y3pqNmZVQWNuazhzN2Exb05DdDI4ZmpEMHRPQVhQdjd6S2dBcFdBQlJZU2dDU1ZYaVd5VXlnV2swRXVhcGJWNmpNeUFudjNCY09MaTlJVTFSRzkxQURfUVdXZVVmMWNJeWdiQ2M?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Closed: Quill Acoustics Karma Head-Fi.org",
+      "published_utc": "2026-11-21T14:23:09+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xeGJHQVE5Y3pqNmZVQWNuazhzN2Exb05DdDI4ZmpEMHRPQVhQdjd6S2dBcFdBQlJZU2dDU1ZYaVd5VXlnV2swRXVhcGJWNmpNeUFudjNCY09MaTlJVTFSRzkxQURfUVdXZVVmMWNJeWdiQ2M?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T14:23:09+00:00",
+          "title": "Closed: Quill Acoustics Karma - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "abfedc6141d14d3ec20a4fb6",
+      "topic": "wired",
+      "title": "TRUTHEAR PURE: WHT 1DD+3BA In-ear Headphone - shenzhenaudio",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUUxFbWl2TWo2LTZJQnZiaWwxQUtnZ1NOdW5WUzg5MWZWUmc3c1FOUGRTRGhhZ1BUU1Q4T3J1V2c2cEM1eVBsMnRwT2ZkZXZjNXgyOG9QSWJYbTZLWk10UldFdnhDcEtnbWZ3c1ByeTFHWDljRWFBcHJaamZGcFMzcG56VQ?oc=5",
+      "source": "SHENZHENAUDIO",
+      "publisher": "shenzhenaudio",
+      "description": "TRUTHEAR PURE: WHT 1DD+3BA In-ear Headphone shenzhenaudio",
+      "published_utc": "2026-11-21T14:01:16+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUUxFbWl2TWo2LTZJQnZiaWwxQUtnZ1NOdW5WUzg5MWZWUmc3c1FOUGRTRGhhZ1BUU1Q4T3J1V2c2cEM1eVBsMnRwT2ZkZXZjNXgyOG9QSWJYbTZLWk10UldFdnhDcEtnbWZ3c1ByeTFHWDljRWFBcHJaamZGcFMzcG56VQ?oc=5",
+          "source": "SHENZHENAUDIO",
+          "publisher": "shenzhenaudio",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T14:01:16+00:00",
+          "title": "TRUTHEAR PURE: WHT 1DD+3BA In-ear Headphone - shenzhenaudio"
+        }
+      ]
+    },
+    {
+      "id": "4976f5c255b2dddc01ec0ebf",
+      "topic": "tws",
+      "title": "Product Detail - Bose",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLXlXQ0NkczlQSW04OWl5N3RXVVpyNUhvOU9waU54T01TOWJaMV9JMGJoRHpYSFl6VmlRdENNajRGamRvMDFLRHVZRGRKeV94LXoxa09tRGFYYy14Vzl6dzlJODhkV2JDQkpGTlI3cWlZRzh1N1BtLVdvSXVobkNERTl2UEhxZmxTMWEweVBYNTFXWm1lRkY5eFdYVkpzWkE?oc=5",
+      "source": "Bose",
+      "publisher": "Bose",
+      "description": "Product Detail Bose",
+      "published_utc": "2026-11-21T13:16:10+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLXlXQ0NkczlQSW04OWl5N3RXVVpyNUhvOU9waU54T01TOWJaMV9JMGJoRHpYSFl6VmlRdENNajRGamRvMDFLRHVZRGRKeV94LXoxa09tRGFYYy14Vzl6dzlJODhkV2JDQkpGTlI3cWlZRzh1N1BtLVdvSXVobkNERTl2UEhxZmxTMWEweVBYNTFXWm1lRkY5eFdYVkpzWkE?oc=5",
+          "source": "Bose",
+          "publisher": "Bose",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T13:16:10+00:00",
+          "title": "Product Detail - Bose"
+        }
+      ]
+    },
+    {
+      "id": "afe61ff3474e0ebdc566b572",
+      "topic": "tws",
+      "title": "Nothing Account - Login - US Nothing",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeG1PeFZuUmtveElWN3EzXzNmYU1LWVdlZk1ZOElhajBtVjZFNHk5UzFDVVpJVEQzYzZPT3licExRQ2hxZGNqUDlUanpxcFptZ2NaOEpKdW4zckxrSHZrc1d2QVFkTkJhNy04LS1wVUh6WmtDNXdDSHYyR1lMS2Z0WUdFb1RuazZhNjBiTUlqMExnMTFsS2kzTlN6WW9VZw?oc=5",
+      "source": "Nothing",
+      "publisher": "US Nothing",
+      "description": "Nothing Account - Login US Nothing",
+      "published_utc": "2026-11-21T12:52:45+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeG1PeFZuUmtveElWN3EzXzNmYU1LWVdlZk1ZOElhajBtVjZFNHk5UzFDVVpJVEQzYzZPT3licExRQ2hxZGNqUDlUanpxcFptZ2NaOEpKdW4zckxrSHZrc1d2QVFkTkJhNy04LS1wVUh6WmtDNXdDSHYyR1lMS2Z0WUdFb1RuazZhNjBiTUlqMExnMTFsS2kzTlN6WW9VZw?oc=5",
+          "source": "Nothing",
+          "publisher": "US Nothing",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T12:52:45+00:00",
+          "title": "Nothing Account - Login - US Nothing"
+        }
+      ]
+    },
+    {
+      "id": "20a662317ccb3dc81366d6af",
+      "topic": "wired",
+      "title": "Razer Hammerhead V3 X HyperSpeed Headphones Review",
+      "url": "https://www.rtings.com/headphones/reviews/razer/hammerhead-v3-x-hyperspeed",
+      "source": "RTINGS Headphones",
+      "publisher": "RTINGS Headphones",
+      "description": "The Razer Hammerhead V3 X HyperSpeed are entry-level true wireless gaming earbuds aimed at players who want a compact alternative to a traditional gaming headset...",
+      "published_utc": "2026-11-20T19:30:24+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://www.rtings.com/headphones/reviews/razer/hammerhead-v3-x-hyperspeed",
+          "source": "RTINGS Monitor",
+          "publisher": "RTINGS Monitor",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T19:30:24+00:00",
+          "title": "Razer Hammerhead V3 X HyperSpeed Headphones Review"
+        },
+        {
+          "url": "https://www.rtings.com/headphones/reviews/razer/hammerhead-v3-x-hyperspeed",
+          "source": "RTINGS Headphones",
+          "publisher": "RTINGS Headphones",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T19:30:24+00:00",
+          "title": "Razer Hammerhead V3 X HyperSpeed Headphones Review"
+        }
+      ]
+    },
+    {
+      "id": "a0f6266b06664c32a27399c8",
+      "topic": "wired",
+      "title": "$400 gaming headset Audeze Maxwell 2 ANC review: With planar drivers, premium technology, and ANC into the game",
+      "url": "https://www.notebookcheck.net/400-gaming-headset-Audeze-Maxwell-2-ANC-review-With-planar-drivers-premium-technology-and-ANC-into-the-game.1455278.0.html",
+      "source": "Notebookcheck mobile",
+      "publisher": "Notebookcheck mobile",
+      "description": "Big sound, heavy package. | The Audeze Maxwell 2 ANC aims to shake up the high-end gaming headset market with 90mm planar magnetic drivers, active noise cancellation, and a wide range of connectivity options. At around $400, it packs plenty of audio technology. However, while our review confirms its outstanding sound quality, we also found a few sh",
+      "published_utc": "2026-11-20T17:30:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "オーディオへ再分類",
+      "sources": [
+        {
+          "url": "https://www.notebookcheck.net/400-gaming-headset-Audeze-Maxwell-2-ANC-review-With-planar-drivers-premium-technology-and-ANC-into-the-game.1455278.0.html",
+          "source": "Notebookcheck mobile",
+          "publisher": "Notebookcheck mobile",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T17:30:00+00:00",
+          "title": "$400 gaming headset Audeze Maxwell 2 ANC review: With planar drivers, premium technology, and ANC into the game"
+        },
+        {
+          "url": "https://www.notebookcheck.net/400-gaming-headset-Audeze-Maxwell-2-ANC-review-With-planar-drivers-premium-technology-and-ANC-into-the-game.1455278.0.html",
+          "source": "Notebookcheck Handheld",
+          "publisher": "Notebookcheck Handheld",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T17:30:00+00:00",
+          "title": "$400 gaming headset Audeze Maxwell 2 ANC review: With planar drivers, premium technology, and ANC into the game"
+        }
+      ]
+    },
+    {
+      "id": "02a87943c08761d080d12655",
+      "topic": "tws",
+      "title": "AirPods 5 vs AirPods Pro 3: Which should you buy this holiday season?",
+      "url": "https://9to5mac.com/2026/11/20/airpods-5-vs-airpods-pro-3-which-should-you-buy-this-holiday-season",
+      "source": "9to5Mac",
+      "publisher": "9to5Mac",
+      "description": "The holiday shopping season is here, and Apple’s AirPods are sure to be one of the most popular gifts. If you’re shopping for AirPods, Apple sells three different models: AirPods 5, AirPods Pro 3, and AirPods Max 2. Here’s how they compare. Buy AirPods Pro 3 $149 (Reg. $249) Buy AirPods Max $419 (Reg. $549) Buy AirPods 5 from $129 more…",
+      "published_utc": "2026-11-20T19:12:19+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "オーディオへ再分類",
+      "sources": [
+        {
+          "url": "https://9to5mac.com/2026/11/20/airpods-5-vs-airpods-pro-3-which-should-you-buy-this-holiday-season",
+          "source": "9to5Mac",
+          "publisher": "9to5Mac",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T19:12:19+00:00",
+          "title": "AirPods 5 vs AirPods Pro 3: Which should you buy this holiday season?"
+        },
+        {
+          "url": "https://9to5mac.com/2026/11/20/airpods-5-vs-airpods-pro-3-which-should-you-buy-this-holiday-season",
+          "source": "9to5Mac AirPods",
+          "publisher": "9to5Mac AirPods",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T19:12:19+00:00",
+          "title": "AirPods 5 vs AirPods Pro 3: Which should you buy this holiday season?"
+        }
+      ]
+    },
+    {
+      "id": "dbd75dce60e88b866168d9a4",
+      "topic": "wired",
+      "title": "Effect Audio DIONYSUS Reserve 2026 IEM Cable plus ConX Set - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUWdIei1UUmQ1THVNV3RrWG1fQ1BneUlMdGlsdDFqdEZTVUpER2FGSGNiYmp1VWVkMEYzTzhYYnNLWVhsZmY4em4weWtQQ1JIZ0FtOXhYRWs2RE1wdTJQcWhUbVVKOXl0YW9mTTJLdjBDb3lkZGhoRVVRQzFCQkcyX0FZbHZPUzlfRElTcWpndlJ0WnJEdEFIcEJNU1YyZFpxSnEtWA?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Effect Audio DIONYSUS Reserve 2026 IEM Cable plus ConX Set Head-Fi.org",
+      "published_utc": "2026-11-21T14:23:11+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUWdIei1UUmQ1THVNV3RrWG1fQ1BneUlMdGlsdDFqdEZTVUpER2FGSGNiYmp1VWVkMEYzTzhYYnNLWVhsZmY4em4weWtQQ1JIZ0FtOXhYRWs2RE1wdTJQcWhUbVVKOXl0YW9mTTJLdjBDb3lkZGhoRVVRQzFCQkcyX0FZbHZPUzlfRElTcWpndlJ0WnJEdEFIcEJNU1YyZFpxSnEtWA?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T14:23:11+00:00",
+          "title": "Effect Audio DIONYSUS Reserve 2026 IEM Cable plus ConX Set - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "dd8602d86f6bb22234d11664",
+      "topic": "wired",
+      "title": "Oriolus Trailli JP or Trailli Ti - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZHVjdHNjQUo4Y18tMVpndnVqQjJsZlFQMDdRNjEtUFhGR2NOdFRLU3V3eGpXbm9Hd2VXM1NQV3JlZFRndjBxSGFQbHAyRm5aY1I3R0lxTEZzU1NlUHdadU1qNEV5cXFpYVk0MW1GTTN0N3pYbEFNQ2dLbkFrWGcxYlJn?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Oriolus Trailli JP or Trailli Ti Head-Fi.org",
+      "published_utc": "2026-11-21T14:23:11+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZHVjdHNjQUo4Y18tMVpndnVqQjJsZlFQMDdRNjEtUFhGR2NOdFRLU3V3eGpXbm9Hd2VXM1NQV3JlZFRndjBxSGFQbHAyRm5aY1I3R0lxTEZzU1NlUHdadU1qNEV5cXFpYVk0MW1GTTN0N3pYbEFNQ2dLbkFrWGcxYlJn?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T14:23:11+00:00",
+          "title": "Oriolus Trailli JP or Trailli Ti - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "4855d402628d1b0b54235765",
+      "topic": "wired",
+      "title": "＜AAショウ＞PARADIGM「Persona 7F」とオーロラサウンドの粋な組み合わせ／フルテックのアクセサリー聴き比べが大盛況！",
+      "url": "http://www.phileweb.com/news/audio/202611/21/28421.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "音元出版主催によるオーディオの祭典「ハイエンドオーディオ＆アクセサリーショウ2026」が、11月21日（土）と22日（日）の2日間にわたり、浅草橋ヒューリックホール＆カンファレンスにて開催中。建物3FのRoom 2では、カナダ・PARADIGMのスピーカーをメインに据えたさまざまな比較試聴が繰り広げられた。",
+      "published_utc": "2026-11-21T08:18:30+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/audio/202611/21/28421.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T08:18:30+00:00",
+          "title": "＜AAショウ＞PARADIGM「Persona 7F」とオーロラサウンドの粋な組み合わせ／フルテックのアクセサリー聴き比べが大盛況！"
+        }
+      ]
+    },
+    {
+      "id": "ad0830199ecd80000c768c34",
+      "topic": "wired",
+      "title": "＜AAショウ＞「D5では音色も、キレも良くなった」。Bowers & Wilkins「800 D5シリーズ」の進化を山之内氏が徹底解説！",
+      "url": "http://www.phileweb.com/news/audio/202611/21/28420.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "音元出版主催によるオーディオの祭典「ハイエンドオーディオ＆アクセサリーショウ2026」が、11月21日（土）と22日（日）の2日間にわたり、浅草橋ヒューリックホール＆カンファレンスにて開催中。初日に2Fホールにて行われた、山之内 正氏によるB＆W講演の模様をお届けする。",
+      "published_utc": "2026-11-21T07:54:59+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/audio/202611/21/28420.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T07:54:59+00:00",
+          "title": "＜AAショウ＞「D5では音色も、キレも良くなった」。Bowers & Wilkins「800 D5シリーズ」の進化を山之内氏が徹底解説！"
+        }
+      ]
+    },
+    {
+      "id": "d591b6ad3a1900e1fb730ceb",
+      "topic": "wired",
+      "title": "＜AAショウ＞REGAで聴くフュージョンレコードの楽しみ／“音質で選べる”ネットワークブランドONIX",
+      "url": "http://www.phileweb.com/news/audio/202611/21/28424.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "音元出版主催によるオーディオの祭典「ハイエンドオーディオ＆アクセサリーショウ2026」が、11月21日（土）と22日（日）の2日間にわたり、浅草橋ヒューリックホール＆カンファレンスにて開催。3F Room 3では、完実電気とMUSINがそれぞれ話題性のある製品をデモンストレーションする。",
+      "published_utc": "2026-11-21T11:48:17+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/audio/202611/21/28424.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T11:48:17+00:00",
+          "title": "＜AAショウ＞REGAで聴くフュージョンレコードの楽しみ／“音質で選べる”ネットワークブランドONIX"
+        }
+      ]
+    },
+    {
+      "id": "7d13821f3239a54bb67dd423",
+      "topic": "wired",
+      "title": "＜AAショウ＞「オーディオアクセサリー銘機賞2027」受賞製品が所狭しと並ぶ、サエク／ゾノトーン／光城／由紀精密合同ルーム",
+      "url": "http://www.phileweb.com/news/audio/202611/21/28422.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "音元出版主催によるオーディオの祭典「ハイエンドオーディオ＆アクセサリーショウ2026」が、11月21日（土）と22日（日）の2日間にわたり、浅草橋ヒューリックホール＆カンファレンスにて開催中。建物3FのRoom 4では、サエクコマース／前園サウンドラボ／光城精工／由紀精密による4社合同ブースが展開されている。",
+      "published_utc": "2026-11-21T09:44:15+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/audio/202611/21/28422.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T09:44:15+00:00",
+          "title": "＜AAショウ＞「オーディオアクセサリー銘機賞2027」受賞製品が所狭しと並ぶ、サエク／ゾノトーン／光城／由紀精密合同ルーム"
+        }
+      ]
+    },
+    {
+      "id": "511aa34dbb01e60e3638e031",
+      "topic": "wired",
+      "title": "＜AAショウ＞ティアック「701シリーズ」、VOLUMIO「Rivo ULTRA」など次期フラグシップ製品をいち早く体験",
+      "url": "http://www.phileweb.com/news/audio/202611/21/28423.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "音元出版主催によるオーディオの祭典「ハイエンドオーディオ＆アクセサリーショウ2026」が、11月21日（土）と22日（日）の2日間にわたり、浅草橋ヒューリックホール＆カンファレンスにて開催中。",
+      "published_utc": "2026-11-21T10:10:03+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/audio/202611/21/28423.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T10:10:03+00:00",
+          "title": "＜AAショウ＞ティアック「701シリーズ」、VOLUMIO「Rivo ULTRA」など次期フラグシップ製品をいち早く体験"
+        }
+      ]
+    },
+    {
+      "id": "f0370f37870334be4a4f1dcb",
+      "topic": "wired",
+      "title": "＜AAショウ＞本日開幕「ハイエンドオーディオ＆アクセサリーショウ2026」！だるまやブースは1万5000枚のソフトでお出迎え",
+      "url": "http://www.phileweb.com/news/audio/202611/21/28419.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "音元出版が主催する「ハイエンドオーディオ＆アクセサリーショウ2026」が11月21日、22日の2日間開催。まずは1万5000枚のレコード／CDを取りそろえる「だるまや」ブースを紹介する。",
+      "published_utc": "2026-11-21T06:32:14+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/audio/202611/21/28419.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T06:32:14+00:00",
+          "title": "＜AAショウ＞本日開幕「ハイエンドオーディオ＆アクセサリーショウ2026」！だるまやブースは1万5000枚のソフトでお出迎え"
+        }
+      ]
+    }
+  ],
+  "date_unknown": [],
+  "health": {}
+}

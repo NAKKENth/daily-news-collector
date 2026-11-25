@@ -1,0 +1,71 @@
+{
+  "schema_version": 2,
+  "date_jst": "2026-11-20",
+  "group": "pc_ai",
+  "title": "PC・AI・スマートフォン",
+  "status": "candidate_collection_only",
+  "items": [
+    {
+      "id": "2d66abba68e5e14daec80f18",
+      "topic": "pc",
+      "title": "Dell XPS Googlebook 13 (2026) Laptop Review",
+      "url": "https://www.rtings.com/laptop/reviews/dell/xps-googlebook-13-2026",
+      "source": "RTINGS Monitor",
+      "publisher": "RTINGS Monitor",
+      "description": "The Dell XPS Googlebook 13 (2026) is Dell's first Googlebook and is positioned as a premium, high-end device. It's their first XPS that doesn't run Windows, inst...",
+      "published_utc": "2026-11-20T14:33:55+00:00",
+      "date_jst": "2026-11-20",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.rtings.com/laptop/reviews/dell/xps-googlebook-13-2026",
+          "source": "RTINGS Monitor",
+          "publisher": "RTINGS Monitor",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T14:33:55+00:00",
+          "title": "Dell XPS Googlebook 13 (2026) Laptop Review"
+        },
+        {
+          "url": "https://www.rtings.com/laptop/reviews/dell/xps-googlebook-13-2026",
+          "source": "RTINGS Headphones",
+          "publisher": "RTINGS Headphones",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T14:33:55+00:00",
+          "title": "Dell XPS Googlebook 13 (2026) Laptop Review"
+        }
+      ]
+    },
+    {
+      "id": "0950d5ee1bfc29fca4731f3b",
+      "topic": "ai",
+      "title": "Apple TV unveils return of one of its biggest hit series",
+      "url": "https://9to5mac.com/2026/11/20/apple-tv-unveils-return-of-one-of-its-biggest-hit-series",
+      "source": "9to5Mac",
+      "publisher": "9to5Mac",
+      "description": "Apple TV ( now $6.99/month for limited time ) has just unveiled the return of one of its most popular series: Presumed Innocent. Here’s the release date and first trailer. more…",
+      "published_utc": "2026-11-20T14:36:52+00:00",
+      "date_jst": "2026-11-20",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://9to5mac.com/2026/11/20/apple-tv-unveils-return-of-one-of-its-biggest-hit-series",
+          "source": "9to5Mac",
+          "publisher": "9to5Mac",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T14:36:52+00:00",
+          "title": "Apple TV unveils return of one of its biggest hit series"
+        }
+      ]
+    }
+  ],
+  "date_unknown": [],
+  "health": {}
+}

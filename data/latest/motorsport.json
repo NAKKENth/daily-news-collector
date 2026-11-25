@@ -29,7 +29,9 @@
           "published_utc": "2026-11-24T12:32:26+00:00",
           "title": "Slater to replace Camara for rest of F2 season as Tsolov becomes title favourite"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "82518479c64f18b42046412f",
@@ -111,7 +113,9 @@
           "published_utc": "2026-11-23T17:43:13+00:00",
           "title": "Max Verstappen considering 2027 Daytona 24 Hours entry"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "561ed25928535a5f6b87ca5b",
@@ -166,7 +170,9 @@
           "published_utc": "2026-11-23T15:38:17+00:00",
           "title": "Autosport Business Awards open nominations to recognise excellence across global motorsport industry"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://www.autosport.com/autosport-awards/news/autosport-business-awards-open-nominations-to-recognise-excellence-across-g"
     },
     {
       "id": "a2d708e47d99cdda0272a332",
@@ -583,12 +589,12 @@
       "url": "https://dirtfish.com/rally/wrc/lancia-closing-on-rally1-wrc-kit-for-2027",
       "source": "DirtFish",
       "publisher": "DirtFish",
-      "description": "Lancia is in the process of homologating a Ypsilon HF Integrale Rally1 WRC Kit Car, with sources suggesting the new car will be ready in... Read more The post Lancia closing on Rally1 WRC Kit for 2027 appeared first on DirtFish .",
+      "description": "WRC – DirtFish understands Lancia will homologate a WRC Kit for its Ypsilon HF, but won't return to WRC as a fully-fledged manufacturer",
       "published_utc": "2026-11-24T09:33:59+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -596,11 +602,15 @@
           "url": "https://dirtfish.com/rally/wrc/lancia-closing-on-rally1-wrc-kit-for-2027",
           "source": "DirtFish",
           "publisher": "DirtFish",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T09:33:59+00:00",
           "title": "Lancia closing on Rally1 WRC Kit for 2027"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T09:33:59+00:00",
+      "article_modified_raw": "2026-11-24T09:33:59+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "50e802be7ed6ff62849790e0",
@@ -2857,7 +2867,9 @@
           "published_utc": "2026-11-24T10:43:23+00:00",
           "title": "極寒のラスベガスからカタールへ。ホンダ折原エンジニア「PUセッティングや最適化も大幅な変更が必要」"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "207f0f1f005b12357d2f7bd4",
@@ -2883,7 +2895,9 @@
           "published_utc": "2026-11-24T10:08:10+00:00",
           "title": "高速コーナー多数のカタールが、アストンマーティンAMR26を評価する絶好機に。現場責任者クラック「まだパフォーマンス向上の余地はあるが」"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://jp.motorsport.com/f1/news/f1-2026-rd21-lasvegas-race-aston-honda-krack-comments/10877335"
     },
     {
       "id": "bb29150225fbe2dc36508763",
@@ -2963,7 +2977,9 @@
           "published_utc": "2026-11-24T08:02:09+00:00",
           "title": "ベアマンのハースとの契約がなかなか決まらない。その理由は金銭的な条件？「あと2戦なのに……あんまり良い気分じゃないね」"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "48d9d013076fa37fd5551820",
@@ -2989,7 +3005,9 @@
           "published_utc": "2026-11-24T07:40:59+00:00",
           "title": "フェルスタッペン、次なる挑戦はデイトナ24時間？「出場できるかどうか検討中」"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "c4c3eb6a71cb816f53da05cf",
@@ -3067,7 +3085,9 @@
           "published_utc": "2026-11-24T03:16:06+00:00",
           "title": "優勝も狙えると思ったのに……ガスリー、気温12度でマシンがオーバーヒート！ 減速を強いられる「原因は全く分からない」"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "e115da1e50ffcb3996cd14a4",
@@ -3119,7 +3139,9 @@
           "published_utc": "2026-11-24T02:36:10+00:00",
           "title": "F1の安全対策を信頼するしかない……フェルスタッペン、カタールでのF1開催に向けて想い語る「本当は家で観戦する方がいいけどね」"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "716116cef62e853b94cafbae",
@@ -3340,12 +3362,12 @@
       "url": "https://autoracer.it/live-youtube-autoracer-ferrari-e-inaccettabile-tensione-leclerc-hamilton",
       "source": "AutoRacer",
       "publisher": "AutoRacer",
-      "description": "Alta tensione in casa Ferrari, con il caso Leclerc-Hamilton ora ufficialmente aperto. Dopo quanto successo in Messico, Frederic Vasseur ha provato a far rientrare possibili crepe nel rapporto e nella gestione tra i due piloti, ma a Las Vegas il tutto è esploso con un altro contatto tra i due e la rabbia del Team […] L'articolo FERRARI, COSÌ È INACC",
+      "description": "Nuovo appuntamento live con AutoRacer: la vittoria di Verstappen, il doppio podio McLaren, il momento Mercedes ma l'attenzione è tutta su Ferrari.",
       "published_utc": "2026-11-24T14:00:06+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -3353,11 +3375,15 @@
           "url": "https://autoracer.it/live-youtube-autoracer-ferrari-e-inaccettabile-tensione-leclerc-hamilton",
           "source": "AutoRacer",
           "publisher": "AutoRacer",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T14:00:06+00:00",
           "title": "FERRARI, COSÌ È INACCETTABILE! Tensione alle stelle: cosa succede ora a Leclerc e Hamilton?"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T14:00:06+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "41da384847185878fdfc94d7",
@@ -3366,12 +3392,12 @@
       "url": "https://autoracer.it/gp-qatar-2026-pirelli-preview-mescole-limite-27-giri-lusail",
       "source": "AutoRacer",
       "publisher": "AutoRacer",
-      "description": "Il penultimo appuntamento del Mondiale di Formula 1 2026 torna al Lusail International Circuit per il GP Qatar, uno dei banchi di prova più severi dell’intera stagione per gli pneumatici. Il tracciato non ha subito modifiche rispetto al 2025 e continua a mettere sotto forte pressione le gomme in termini di carichi laterali e temperature […] L'artic",
+      "description": "Per il GP Qatar 2026, in programma a Lusail, Pirelli porta mescole C1, C2 e C3. Torna il limite massimo di giri per set di gomme.",
       "published_utc": "2026-11-24T13:01:18+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -3379,11 +3405,15 @@
           "url": "https://autoracer.it/gp-qatar-2026-pirelli-preview-mescole-limite-27-giri-lusail",
           "source": "AutoRacer",
           "publisher": "AutoRacer",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T13:01:18+00:00",
           "title": "GP Qatar 2026: Pirelli porta le mescole più dure e alza a 27 il limite di giri per set"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T13:01:18+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "f40384d9fd87447f1bfdf83f",
@@ -3392,12 +3422,12 @@
       "url": "https://autoracer.it/ferrari-vasseur-codice-condotta-piloti-leclerc-hamilton",
       "source": "AutoRacer",
       "publisher": "AutoRacer",
-      "description": "La pazienza di Frédéric Vasseur sembra essere arrivata al limite. Quanto accaduto a Las Vegas ha riaperto una questione che il team principal della Ferrari aveva già tentato di risolvere alla vigilia del Gran Premio del Brasile, quando un confronto diretto con Charles Leclerc e Lewis Hamilton aveva portato a un’intesa informale sulla gestione dei [",
+      "description": "Dopo Las Vegas, Vasseur studia nuove regole stile \"Papaya rules\" con possibili sanzioni per Leclerc e Hamilton.",
       "published_utc": "2026-11-24T11:01:13+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -3405,11 +3435,15 @@
           "url": "https://autoracer.it/ferrari-vasseur-codice-condotta-piloti-leclerc-hamilton",
           "source": "AutoRacer",
           "publisher": "AutoRacer",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T11:01:13+00:00",
           "title": "Ferrari, Vasseur non si fida più delle parole: serve un codice di condotta per i piloti?"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T11:01:13+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "cad07869f144ad207c367aa0",
@@ -3418,12 +3452,12 @@
       "url": "https://autoracer.it/il-gp-di-las-vegas-accende-il-dibattito-wolff-un-mix-fra-nascar-e-indycar-bisogna-avere-una-mentalita-aperta",
       "source": "AutoRacer",
       "publisher": "AutoRacer",
-      "description": "Il GP andato in scena sulle strade di Las Vegas è stato senz’altro unico nel suo genere e le statistiche parlano chiaro: 1.5 secondi di gap massimo fra il leader e il primo inseguitore nel corso della gara e 352 sorpassi totali. Dati che però che vanno contestualizzati nello scenario in cui le peculiarità dei […] L'articolo Il GP Las Vegas accende ",
+      "description": "Il GP di Las Vegas spacca gli appassionati: il commento di Toto Wolff dopo la gara e il bilancio sul weekend Mercedes.",
       "published_utc": "2026-11-24T09:22:24+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -3431,25 +3465,29 @@
           "url": "https://autoracer.it/il-gp-di-las-vegas-accende-il-dibattito-wolff-un-mix-fra-nascar-e-indycar-bisogna-avere-una-mentalita-aperta",
           "source": "AutoRacer",
           "publisher": "AutoRacer",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T09:22:24+00:00",
           "title": "Il GP Las Vegas accende il dibattito, Wolff: “Un mix fra Nascar e Indycar. Bisogna avere una mentalità aperta”"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T09:22:24+00:00",
+      "article_modified_raw": "2026-11-24T09:23:56+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "677d941f003d9455ac80dc92",
       "topic": "WEC",
-      "title": "Stellantis dice basta a WEC e Formula E: ritiro immediato Peugeot, stop a Citroën e Opel nell’estate 2027",
+      "title": "Stellantis dice basta a WEC e Formula E: ritiro immediato Peugeot, stop a Citroën e Opel nell&#8217;estate 2027",
       "url": "https://autoracer.it/stellantis-dice-basta-a-wec-e-formula-e-ritiro-immediato-peugeot-citroen-e-opel-nellestate-2027",
       "source": "AutoRacer",
       "publisher": "AutoRacer",
-      "description": "Stellantis ha annunciato la conclusione del proprio impegno ufficiale nel WEC al termine della stagione 2026, mettendo fine al programma Hypercar di Peugeot. Una decisione che rappresenta un cambiamento importante per il panorama dell’endurance e che arriva in un momento particolarmente delicato per la squadra francese, impegnata nello sviluppo di ",
+      "description": "Niente Peugeot nel WEC 2027, poi chiuderanno anche i reparti corse Citroen e Opel in Formula E. Stellantis rivede i piani sportivi",
       "published_utc": "2026-11-23T15:42:20+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -3457,11 +3495,15 @@
           "url": "https://autoracer.it/stellantis-dice-basta-a-wec-e-formula-e-ritiro-immediato-peugeot-citroen-e-opel-nellestate-2027",
           "source": "AutoRacer",
           "publisher": "AutoRacer",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-23T15:42:20+00:00",
-          "title": "Stellantis dice basta a WEC e Formula E: ritiro immediato Peugeot, stop a Citroën e Opel nell’estate 2027"
+          "title": "Stellantis dice basta a WEC e Formula E: ritiro immediato Peugeot, stop a Citroën e Opel nell&#8217;estate 2027"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-23T15:42:20+00:00",
+      "article_modified_raw": "2026-11-23T17:10:45+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "b06ddb6485b9d95afc147f78",
@@ -3470,12 +3512,12 @@
       "url": "https://www.gpblog.com/en/analysis/why-qatars-tyre-rule-leaves-teams-choices-but-no-one-stop-option",
       "source": "GPblog",
       "publisher": "GPblog",
-      "description": "Pirelli’s 27-lap limit will set a hard boundary for teams at the Qatar Grand Prix, making at least two pit stops necessary over the 57-lap race. The tyre supplier has also chosen the three hardest compounds in its range for Lusail, where sustained high-speed corners and heavy wear make tyre manageme...",
+      "description": "Pirelli has selected its hardest compounds for Qatar and capped each tyre stint at 27 laps. The 57-lap race requires at least two stops, but teams retain strategic choices.",
       "published_utc": "2026-11-24T13:30:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -3483,11 +3525,15 @@
           "url": "https://www.gpblog.com/en/analysis/why-qatars-tyre-rule-leaves-teams-choices-but-no-one-stop-option",
           "source": "GPblog",
           "publisher": "GPblog",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T13:30:00+00:00",
           "title": "Why Qatar’s tyre rule leaves teams choices, but no one-stop option"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T13:30:00.000Z",
+      "article_modified_raw": "2026-11-24T13:30:00.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "c527d3cc12dc145cb937f0c3",
@@ -3522,12 +3568,12 @@
       "url": "https://www.gpblog.com/en/column/ferraris-four-possible-vasseur-successors",
       "source": "GPblog",
       "publisher": "GPblog",
-      "description": "Fred Vasseur remains Ferrari team principal, and the team has publicly expressed confidence in him. However, with his position under scrutiny and no guarantee offered about 2027, attention has turned to who could take over if Ferrari chose a different direction. Here are four names that could be hi...",
+      "description": "Christian Horner, Antonello Coletta, Jérôme D’Ambrosio and Andrea Stella have all been discussed as possible Ferrari team principals. Here is what is known.",
       "published_utc": "2026-11-24T12:00:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -3535,11 +3581,15 @@
           "url": "https://www.gpblog.com/en/column/ferraris-four-possible-vasseur-successors",
           "source": "GPblog",
           "publisher": "GPblog",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T12:00:00+00:00",
           "title": "Ferrari’s four possible Vasseur successors and why none is straightforward"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T12:00:00.000Z",
+      "article_modified_raw": "2026-11-24T12:00:00.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "1d639293832ea194f3c9f457",
@@ -3712,24 +3762,28 @@
       "url": "https://www.gpblog.com/en/opinion/russell-deserves-better-than-being-formula-1s-punching-bag",
       "source": "GPblog",
       "publisher": "GPblog",
-      "description": "George Russell came under fire following his clash with Max Verstappen in Las Vegas. The Mercedes driver has faced plenty of criticism, but much of it is undeserved. Behind Russell's public image lies a very different personality. George Russell would probably have been better off keeping quiet abou...",
+      "description": "George Russell faced criticism after his clash with Max Verstappen in Las Vegas, but an F1 journalist argues pressure and public perception overlook his true character.",
       "published_utc": "2026-11-23T21:30:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "priority",
+      "date_quality": "article_metadata",
+      "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
         {
           "url": "https://www.gpblog.com/en/opinion/russell-deserves-better-than-being-formula-1s-punching-bag",
           "source": "GPblog",
           "publisher": "GPblog",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-23T21:30:00+00:00",
           "title": "Russell deserves better than being Formula 1’s punching bag"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-23T21:30:00.000Z",
+      "article_modified_raw": "2026-11-23T21:30:00.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "69508fb7066a848e6c1ac296",
@@ -3854,12 +3908,12 @@
       "url": "https://www.gpblog.com/en/analysis/verstappens-brilliance-made-this-special-red-bull-strategy-possible",
       "source": "GPblog",
       "publisher": "GPblog",
-      "description": "Max Verstappen and Red Bull Racing made the difference at the Las Vegas Grand Prix with a completely unique setup. An extensive analysis of the data shows that Verstappen was certainly not the fastest in Las Vegas, but he was undoubtedly the smartest. Red Bull Racing was clearly the best-prepared t...",
+      "description": "Max Verstappen and Red Bull Racing made the difference at the Las Vegas Grand Prix with a completely unique setup. An extensive analysis of the data shows that Verstappen was certainly not the fastest...",
       "published_utc": "2026-11-23T17:15:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -3867,11 +3921,15 @@
           "url": "https://www.gpblog.com/en/analysis/verstappens-brilliance-made-this-special-red-bull-strategy-possible",
           "source": "GPblog",
           "publisher": "GPblog",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-23T17:15:00+00:00",
           "title": "Verstappen’s brilliance made this special Red Bull strategy possible"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-23T17:15:00.000Z",
+      "article_modified_raw": "2026-11-23T17:15:00.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "3e1183fbccd78e9e5272396c",
@@ -3880,12 +3938,12 @@
       "url": "https://www.gpblog.com/en/analysis/did-las-vegass-record-overtaking-figure-tell-the-whole-story",
       "source": "GPblog",
       "publisher": "GPblog",
-      "description": "Formula 1 has been quick to slap itself on the back after the the Las Vegas Grand Prix produced a reported 352 overtakes, but does that tell the real story? In a gushing press release, the sport claimed the event was 'the 21st sold-out race in a row this season and delivered incredible racing on eac...",
+      "description": "The Las Vegas Grand Prix produced a reported 352 overtakes, but Lando Norris questioned whether boost-assisted passes reflected genuine racing battles.",
       "published_utc": "2026-11-23T16:30:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -3893,11 +3951,15 @@
           "url": "https://www.gpblog.com/en/analysis/did-las-vegass-record-overtaking-figure-tell-the-whole-story",
           "source": "GPblog",
           "publisher": "GPblog",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-23T16:30:00+00:00",
           "title": "Did Las Vegas’s record overtaking figure tell the whole story?"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-23T16:30:00.000Z",
+      "article_modified_raw": "2026-11-23T16:30:00.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "dab5f37cf067517be64c8a3e",
@@ -3936,12 +3998,12 @@
       "url": "https://www.gpblog.com/en/news/albers-highly-critical-of-verstappen-after-comments-about-russell",
       "source": "GPblog",
       "publisher": "GPblog",
-      "description": "Christijan Albers is critical of Max Verstappen. The former Formula 1 driver believes the Dutchman went too far with his comments about George Russell. The Las Vegas Grand Prix delivered an unprecedented spectacle, with 352 overtakes and positions constantly changing. Max Verstappen ultimately cros...",
+      "description": "Christijan Albers praises Verstappen's victory in Las Vegas, but feels he went too far with his comments about George Russell and defends Russell's overtaking attempt.",
       "published_utc": "2026-11-23T15:00:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -3949,11 +4011,15 @@
           "url": "https://www.gpblog.com/en/news/albers-highly-critical-of-verstappen-after-comments-about-russell",
           "source": "GPblog",
           "publisher": "GPblog",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-23T15:00:00+00:00",
           "title": "Ex-F1 driver highly critical of Verstappen after comments about Russell"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-23T15:00:00.000Z",
+      "article_modified_raw": "2026-11-23T17:58:00.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "e5f4717ce978ed9d8cd0887f",
@@ -3995,9 +4061,9 @@
       "description": "Alex Albon had a unique seat for the Las Vegas Grand Prix - and voiced his take on the slipstream fest that came.",
       "published_utc": "2026-11-24T13:45:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -4005,11 +4071,15 @@
           "url": "https://racingnews365.com/f1-driver-offers-intriguing-opinion-after-unique-las-vegas-perspective",
           "source": "RacingNews365",
           "publisher": "RacingNews365",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T13:45:00+00:00",
           "title": "F1 driver offers intriguing opinion after unique Las Vegas perspective"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T14:45:00+01:00",
+      "article_modified_raw": "2026-11-24T23:07:10+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "9c1eb0fd2592bd781f1bb552",
@@ -4021,9 +4091,9 @@
       "description": "Charles Leclerc and Lewis Hamilton were involved in another on-track incident in Las Vegas last Saturday night.",
       "published_utc": "2026-11-24T12:50:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -4031,11 +4101,15 @@
           "url": "https://racingnews365.com/charles-leclerc-issues-ferrari-demand-after-latest-lewis-hamilton-tension",
           "source": "RacingNews365",
           "publisher": "RacingNews365",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T12:50:00+00:00",
           "title": "Charles Leclerc issues Ferrari demand after latest Lewis Hamilton tension"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T13:50:00+01:00",
+      "article_modified_raw": "2026-11-24T10:06:11+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "796570601072ad97e9c2d71f",
@@ -4099,9 +4173,9 @@
       "description": "Audi's F1 junior will be stepping up to FIA Formula 2 earlier than expected.",
       "published_utc": "2026-11-24T11:30:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -4109,11 +4183,15 @@
           "url": "https://racingnews365.com/audi-f1-junior-earns-early-promotion-as-title-challenger-abandons-season",
           "source": "RacingNews365",
           "publisher": "RacingNews365",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T11:30:00+00:00",
           "title": "Audi F1 junior earns early promotion as title challenger abandons season"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T12:30:00+01:00",
+      "article_modified_raw": "2026-11-24T18:37:24+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "600435667069978fa5f30eae",
@@ -4151,9 +4229,9 @@
       "description": "Former F1 driver Christian Danner has voiced his support for Ferrari boss Fred Vasseur, but maintains changes must be made in how the Italian team operates.",
       "published_utc": "2026-11-24T10:05:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -4161,11 +4239,15 @@
           "url": "https://racingnews365.com/ferrari-boss-backed-as-diva-lewis-hamilton-and-charles-leclerc-dilemma-escalates",
           "source": "RacingNews365",
           "publisher": "RacingNews365",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T10:05:00+00:00",
           "title": "Ferrari boss backed as 'diva' Lewis Hamilton and Charles Leclerc dilemma escalates"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T11:05:00+01:00",
+      "article_modified_raw": "2026-11-24T13:23:03+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "8df5d7dc027a31ea552eda8a",
@@ -4315,9 +4397,9 @@
       "description": "Check out the biggest stories of the day with the RacingNews365 Review.",
       "published_utc": "2026-11-23T21:00:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -4325,11 +4407,15 @@
           "url": "https://racingnews365.com/ferrari-plan-changes-as-george-russell-issued-max-verstappen-warning-racingnews365-review",
           "source": "RacingNews365",
           "publisher": "RacingNews365",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-23T21:00:00+00:00",
           "title": "Ferrari plan changes as George Russell issued Max Verstappen warning – RacingNews365 Review"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-23T22:00:00+01:00",
+      "article_modified_raw": "2026-11-24T08:00:05+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "7916eeb64bbfdd2005a0dce5",
@@ -4454,12 +4540,12 @@
       "url": "https://racingnews365.com/verstappen-rips-russell-apart-as-leclerc-damaging-ferrari-legacy-2",
       "source": "RacingNews365",
       "publisher": "RacingNews365",
-      "description": "Join RacingNews365's Ian Parkes and Nick Golding as they look back on a bonkers Las Vegas GP, but also look ahead to Qatar! Max Verstappen’s astonishing comments are a major discussion, as is the latest intra-team Ferrari turmoil. Also on this week’s podcast, the duo discuss their thoughts on the madness that was 352 overtakes in Sin City, whether ",
+      "description": "Join RacingNews365's Ian Parkes and Nick Golding as they look back on a bonkers Las Vegas GP, but also look ahead to Qatar! Max Verstappen’s astonishing comments are a major discussion, as is the latest intra-team Ferrari turmoil.Also on this week’s podcast, the duo discuss their thoughts on the madness that was 352 overtakes in Sin City, whether M",
       "published_utc": "2026-11-23T15:20:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "競技名一致・新規性の確認",
       "possible_event_id": "05a1abf4ae1e",
@@ -4468,11 +4554,15 @@
           "url": "https://racingnews365.com/verstappen-rips-russell-apart-as-leclerc-damaging-ferrari-legacy-2",
           "source": "RacingNews365",
           "publisher": "RacingNews365",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-23T15:20:00+00:00",
           "title": "Verstappen rips Russell apart as Leclerc damaging Ferrari legacy"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-23T16:20:00+01:00",
+      "article_modified_raw": "2026-11-23T15:28:57+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "f10ac17a1a5066602d044cdf",
@@ -5524,12 +5614,12 @@
       "url": "https://rallyjournal.com/rally-star-throws-in-the-towel-after-bizarre-incidents",
       "source": "RallyJournal",
       "publisher": "RallyJournal",
-      "description": "French driver Léo Rossel's outing at an exotic rally in the Caribbean came to a premature end. Artikkeli Rally star throws in the towel after bizarre incidents julkaistiin ensimmäisen kerran RallyJournal.com .",
+      "description": "French driver Léo Rossel's outing at an exotic rally in the Caribbean came to a premature end.",
       "published_utc": "2026-11-24T14:16:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -5537,25 +5627,29 @@
           "url": "https://rallyjournal.com/rally-star-throws-in-the-towel-after-bizarre-incidents",
           "source": "RallyJournal",
           "publisher": "RallyJournal",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T14:16:00+00:00",
           "title": "Rally star throws in the towel after bizarre incidents"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T14:16:00+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "fff1d0b138009bee1c834250",
       "topic": "WRC",
-      "title": "Big news for Lancia’s WRC team as FIA makes unusual move",
+      "title": "Big news for Lancia&#8217;s WRC team as FIA makes unusual move",
       "url": "https://rallyjournal.com/big-news-for-lancias-wrc-team-as-fia-makes-unusual-move",
       "source": "RallyJournal",
       "publisher": "RallyJournal",
-      "description": "Lancia is set to return to the top class of the WRC as early as next January's Rally Monte Carlo. Artikkeli Big news for Lancia’s WRC team as FIA makes unusual move julkaistiin ensimmäisen kerran RallyJournal.com .",
+      "description": "Lancia is set to return to the top class of the WRC as early as next January's Rally Monte Carlo.",
       "published_utc": "2026-11-24T11:45:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -5563,25 +5657,29 @@
           "url": "https://rallyjournal.com/big-news-for-lancias-wrc-team-as-fia-makes-unusual-move",
           "source": "RallyJournal",
           "publisher": "RallyJournal",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T11:45:00+00:00",
-          "title": "Big news for Lancia’s WRC team as FIA makes unusual move"
+          "title": "Big news for Lancia&#8217;s WRC team as FIA makes unusual move"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T11:45:00+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "ae23c9814a78d8a6efc6d789",
       "topic": "WRC",
-      "title": "Sebastien Ogier’s co-driver finds new partner – surprise WRC move on the cards?",
+      "title": "Sebastien Ogier&#8217;s co-driver finds new partner – surprise WRC move on the cards?",
       "url": "https://rallyjournal.com/sebastien-ogiers-co-driver-finds-new-partner-surprise-wrc-move-on-the-cards",
       "source": "RallyJournal",
       "publisher": "RallyJournal",
-      "description": "An intriguing pairing will line up at the Spa Rally, part of the Belgian rally series. Artikkeli Sebastien Ogier’s co-driver finds new partner – surprise WRC move on the cards? julkaistiin ensimmäisen kerran RallyJournal.com .",
+      "description": "An intriguing pairing will line up at the Spa Rally, part of the Belgian rally series.",
       "published_utc": "2026-11-24T09:14:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -5589,25 +5687,29 @@
           "url": "https://rallyjournal.com/sebastien-ogiers-co-driver-finds-new-partner-surprise-wrc-move-on-the-cards",
           "source": "RallyJournal",
           "publisher": "RallyJournal",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T09:14:00+00:00",
-          "title": "Sebastien Ogier’s co-driver finds new partner – surprise WRC move on the cards?"
+          "title": "Sebastien Ogier&#8217;s co-driver finds new partner – surprise WRC move on the cards?"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T09:14:00+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "740fccffcf2d4d39d404c978",
       "topic": "WRC",
-      "title": "Toyota’s new rally car leaves Elfyn Evans hugely disappointed – one thing fell well short",
+      "title": "Toyota&#8217;s new rally car leaves Elfyn Evans hugely disappointed – one thing fell well short",
       "url": "https://rallyjournal.com/toyotas-new-rally-car-leaves-elfyn-evans-hugely-disappointed-one-thing-fell-well-short",
       "source": "RallyJournal",
       "publisher": "RallyJournal",
-      "description": "Reigning world champion Elfyn Evans has revealed his initial reaction to Toyota's new rally car. Artikkeli Toyota’s new rally car leaves Elfyn Evans hugely disappointed – one thing fell well short julkaistiin ensimmäisen kerran RallyJournal.com .",
+      "description": "Reigning world champion Elfyn Evans has revealed his initial reaction to Toyota's new rally car.",
       "published_utc": "2026-11-24T06:38:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -5615,11 +5717,15 @@
           "url": "https://rallyjournal.com/toyotas-new-rally-car-leaves-elfyn-evans-hugely-disappointed-one-thing-fell-well-short",
           "source": "RallyJournal",
           "publisher": "RallyJournal",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T06:38:00+00:00",
-          "title": "Toyota’s new rally car leaves Elfyn Evans hugely disappointed – one thing fell well short"
+          "title": "Toyota&#8217;s new rally car leaves Elfyn Evans hugely disappointed – one thing fell well short"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T06:38:00+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "92839b2b73ea08f713b2f3b3",
@@ -6857,7 +6963,9 @@
           "published_utc": "2026-11-24T14:30:30+00:00",
           "title": "IMSA Overhauls Testing Rules for Next Year"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://sportscar365.com/imsa/iwsc/imsa-overhauls-testing-rules-for-2027"
     },
     {
       "id": "c5a204330b44774e13da926c",
@@ -6883,7 +6991,9 @@
           "published_utc": "2026-11-24T13:01:37+00:00",
           "title": "OPINION: Was Peugeot 9X8 Cut Down Before it Had Real Chance?"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://sportscar365.substack.com/p/opinion-was-the-peugeot-9x8-cut-down"
     },
     {
       "id": "d7a4ac0e2731842075dda66e",
@@ -7794,12 +7904,12 @@
       "url": "https://www.dailysportscar.com/2026/11/24/apex-competition-makes-gt3-step-with-mclaren.html",
       "source": "DailySportscar",
       "publisher": "DailySportscar",
-      "description": "Double Italian GT champions Apex Competition will embark on its first GT3 racing effort with McLaren in the 2027 International GT Open and Italian GT championships. Apex Competition won the second division GT Cup Pro-Am Sprint and Endurance titles in their debut 2026 Italian GT campaign and has since acquired two new McLaren GT3 Evos, […] The post ",
+      "description": "Italian GT champions Apex Competition will embark on its first GT3 racing effort with McLaren in the 2027 International GT Open and Italian GT championships.",
       "published_utc": "2026-11-24T07:22:25+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -7807,11 +7917,15 @@
           "url": "https://www.dailysportscar.com/2026/11/24/apex-competition-makes-gt3-step-with-mclaren.html",
           "source": "DailySportscar",
           "publisher": "DailySportscar",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T07:22:25+00:00",
           "title": "Apex Competition Makes GT3 Step With McLaren"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T08:22:25+01:00",
+      "article_modified_raw": "2026-11-25T08:45:30+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "66df5f24a65750d7f31066ce",
@@ -7850,12 +7964,12 @@
       "url": "https://www.dailysportscar.com/2026/11/23/tsunami-rt-set-for-imsa-michelin-endurance-cup-debut.html",
       "source": "DailySportscar",
       "publisher": "DailySportscar",
-      "description": "Tsunami RT has announced that it will join the IMSA WeatherTech SportsCar Championship grid in 2027, running a five-race Michelin Endurance Cup programme. The San Marino-based Porsche specialist squad will enter the #79 Porsche 911 GT3 R at this year’s Rolex 24 At Daytona, with 2000 Daytona GTU class winner Fabio Babini headlining the team’s […] Th",
+      "description": "Tsunami RT Set For IMSA Michelin Endurance Cup Debut | Cressoni, Babini, Fontana, and Zelger to race together at the 2027 Daytona 24 Hours....",
       "published_utc": "2026-11-23T16:32:09+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -7863,11 +7977,15 @@
           "url": "https://www.dailysportscar.com/2026/11/23/tsunami-rt-set-for-imsa-michelin-endurance-cup-debut.html",
           "source": "DailySportscar",
           "publisher": "DailySportscar",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-23T16:32:09+00:00",
           "title": "Tsunami RT Set For IMSA Michelin Endurance Cup Debut"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-23T17:32:09+01:00",
+      "article_modified_raw": "2026-11-24T08:12:50+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "8d6581bf6ec8dc9e6acfa6ce",
@@ -8682,9 +8800,8 @@
   ],
   "date_unknown": [],
   "health": {
-    "ok": 17,
-    "partial": 1,
-    "deferred": 14,
+    "ok": 15,
+    "deferred": 17,
     "empty": 1
   }
 }

@@ -1,6 +1,6 @@
 # IndyCar / 2026-11-24 / 候補 1–23
 
-- [Il GP Las Vegas accende il dibattito, Wolff: “Un mix fra Nascar e Indycar. Bisogna avere una mentalità aperta”](https://autoracer.it/il-gp-di-las-vegas-accende-il-dibattito-wolff-un-mix-fra-nascar-e-indycar-bisogna-avere-una-mentalita-aperta) — AutoRacer｜要確認｜2026-11-24T09:22:24+00:00 UTC｜feed_published
+- [Il GP Las Vegas accende il dibattito, Wolff: “Un mix fra Nascar e Indycar. Bisogna avere una mentalità aperta”](https://autoracer.it/il-gp-di-las-vegas-accende-il-dibattito-wolff-un-mix-fra-nascar-e-indycar-bisogna-avere-una-mentalita-aperta) — AutoRacer｜要確認｜2026-11-24T09:22:24+00:00 UTC｜article_metadata
 - [Toto Wolff: Las Vegas was “Indy 500, NASCAR and Formula 1 mixed”](https://www.motorsport.com/f1/news/toto-wolff-las-vegas-was-indy-500-and-nascar-and-formula-1-mixed/10877232) — Motorsport EN F1｜要確認｜2026-11-23T18:10:17+00:00 UTC｜feed_published
 - [30-hour endurance test - RACER - Racing News](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fM21GOWFKamJYQzM2OTZHVS1PZ244X0Vud25jNzVOVGlDeHNGNElVaWItakN3Z0oyc0hPanQ4MTltOUsyVmpkTVNFRnVPcTRLSlZ1UmJFdUQxZ0hpaHc?oc=5) — RACER｜要確認｜2026-11-24T13:46:54+00:00 UTC｜discovery_index
 - [Alex Palou News - INDYCAR.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ibDA4cDJCVF81ajV6bkVYaF9ZclBfMnY5VVRwVUNlVy1lWXc0UlVqRXBVUk5DZmVtQzhWaE5pN0Y4ZERMUEhyT2hhcjgzal9PdFdsLVA2SVNRMUVW?oc=5) — IndyCar Official｜要確認｜2026-11-23T23:24:07+00:00 UTC｜discovery_index

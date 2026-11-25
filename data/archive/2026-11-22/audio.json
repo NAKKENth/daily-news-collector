@@ -1,0 +1,975 @@
+{
+  "schema_version": 2,
+  "date_jst": "2026-11-22",
+  "group": "audio",
+  "title": "オーディオ",
+  "status": "candidate_collection_only",
+  "items": [
+    {
+      "id": "cd6343594b95ace9b5c7e4d4",
+      "topic": "wired",
+      "title": "Lava launches 7,000mAh phone with 3.5mm headphone jack - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc1NhYXB4aVdXRG9rRXdKOVBDZmJLQTNqTk5lc25VVnN2SjFjalpodkxoNE9lV3BKQXlQTU9rd0w2cGxmQnczamFKeDZIUlpKRW53Y0tfNTBpaG5vSjU3bjlna3BWM0d0Y3RfM0RDV1JLT0ljRmpzVGRuc1FUeVhTRkZmQUFoVzlwb3RMaGNJUmU1ZHEwR0x5OE9DRkk4cEV5?oc=5",
+      "source": "Notebookcheck mobile",
+      "publisher": "Notebookcheck",
+      "description": "Lava launches 7,000mAh phone with 3.5mm headphone jack Notebookcheck",
+      "published_utc": "2026-11-22T09:06:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "オーディオへ再分類",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc1NhYXB4aVdXRG9rRXdKOVBDZmJLQTNqTk5lc25VVnN2SjFjalpodkxoNE9lV3BKQXlQTU9rd0w2cGxmQnczamFKeDZIUlpKRW53Y0tfNTBpaG5vSjU3bjlna3BWM0d0Y3RfM0RDV1JLT0ljRmpzVGRuc1FUeVhTRkZmQUFoVzlwb3RMaGNJUmU1ZHEwR0x5OE9DRkk4cEV5?oc=5",
+          "source": "Notebookcheck mobile",
+          "publisher": "Notebookcheck",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T09:06:00+00:00",
+          "title": "Lava launches 7,000mAh phone with 3.5mm headphone jack - Notebookcheck"
+        }
+      ]
+    },
+    {
+      "id": "ba4807671cf4ddb84ce1ddb8",
+      "topic": "wired",
+      "title": "Ampsandsound Kenzie Reimagined for Sale - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2s0Y2FOOHg5eGJMSXExMUZkdUY2VUJLa3hkNklzS1phZmZkVGZCZHJtSTl1Yk5pd1dHTWdFVTVTN01NeENXLTFXR2ZJRU9GclRuMWJzamtIbWJMYUpTUTRWX1IybVR4dTZCZno3LUw1YVV1ZEJNWXBPVWNIZXQ5aFBEUlYzYncwNnpF?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Ampsandsound Kenzie Reimagined for Sale Head-Fi.org",
+      "published_utc": "2026-11-22T03:04:52+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2s0Y2FOOHg5eGJMSXExMUZkdUY2VUJLa3hkNklzS1phZmZkVGZCZHJtSTl1Yk5pd1dHTWdFVTVTN01NeENXLTFXR2ZJRU9GclRuMWJzamtIbWJMYUpTUTRWX1IybVR4dTZCZno3LUw1YVV1ZEJNWXBPVWNIZXQ5aFBEUlYzYncwNnpF?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T03:04:52+00:00",
+          "title": "Ampsandsound Kenzie Reimagined for Sale - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "8f2100e30bee52cd8aa7ad27",
+      "topic": "portable_dac",
+      "title": "Weiss DAC 501 MKII - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ReWljYUZoaWR4WXBNQnpGRnZrMUllUGhfR2Q5ald6UEhfU2UzdnRZdE1nbW9ZTGU5MHZUeU5yX1NBeGZlSjZOYk5VVG45WnNiQWZhRVoxRl9IVlpGc0JQOXBRNmZaLXUwLXZpTklXVQ?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Weiss DAC 501 MKII Head-Fi.org",
+      "published_utc": "2026-11-22T09:54:30+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ReWljYUZoaWR4WXBNQnpGRnZrMUllUGhfR2Q5ald6UEhfU2UzdnRZdE1nbW9ZTGU5MHZUeU5yX1NBeGZlSjZOYk5VVG45WnNiQWZhRVoxRl9IVlpGc0JQOXBRNmZaLXUwLXZpTklXVQ?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T09:54:30+00:00",
+          "title": "Weiss DAC 501 MKII - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "df22eeb2b9ba5ea8aa08ebef",
+      "topic": "wired",
+      "title": "Focal Utopia OG - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WM1Eyb0NOOFBNV3Z2c2w2Y3JEVE9VQ2lmT1E5U3FDcjRKZ0I1UGsxLVdPQWFJTjRtTmNTdk9IYnIzMjRFSEk2UkRQcjBSZFItNGxLNmJQVGtaWU9xak5pMmFyTlg2dF9CbzdR?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Focal Utopia OG Head-Fi.org",
+      "published_utc": "2026-11-21T18:05:34+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WM1Eyb0NOOFBNV3Z2c2w2Y3JEVE9VQ2lmT1E5U3FDcjRKZ0I1UGsxLVdPQWFJTjRtTmNTdk9IYnIzMjRFSEk2UkRQcjBSZFItNGxLNmJQVGtaWU9xak5pMmFyTlg2dF9CbzdR?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T18:05:34+00:00",
+          "title": "Focal Utopia OG - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "d19a562244a8ad707a66125d",
+      "topic": "wired",
+      "title": "Custom Art - Linsoul Audio - Linsoul Audio",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12RVZfZEpoQTFmTXdCWTUzT1g2SDVyX3ZILVk2dVl2YVhzaVQwX3g4VDFQbXMtS0hLbkNvamhyUmpfbThST0lISUVvWFViVUprMy1INkFRQk10WnRKUGVkZHpsd1VtOEE?oc=5",
+      "source": "Linsoul",
+      "publisher": "Linsoul Audio",
+      "description": "Custom Art - Linsoul Audio Linsoul Audio",
+      "published_utc": "2026-11-21T19:04:42+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12RVZfZEpoQTFmTXdCWTUzT1g2SDVyX3ZILVk2dVl2YVhzaVQwX3g4VDFQbXMtS0hLbkNvamhyUmpfbThST0lISUVvWFViVUprMy1INkFRQk10WnRKUGVkZHpsd1VtOEE?oc=5",
+          "source": "Linsoul",
+          "publisher": "Linsoul Audio",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T19:04:42+00:00",
+          "title": "Custom Art - Linsoul Audio - Linsoul Audio"
+        }
+      ]
+    },
+    {
+      "id": "ed84b888e85cdd7f2c874fde",
+      "topic": "wired",
+      "title": "USB Interface - shenzhenaudio - shenzhenaudio",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaHczM1gzQkg3ejVqUkpMTmx4WnBrQzlsZ19tS2U1V1FHcEREcFNUbHE1ZGJkQWhOU0IybWJtTGdkVFkxZXhGM205STFEd09mYThRYUlfdHFwSzlqZG9HTUxZc3EtRDlmQlAydDNjNVJwQzlWVkpsU0tlVTBkd2IxVHNQeVBqT1VCaWcybDJuWVVvZFBiM3dwT1V6RXlCdDg?oc=5",
+      "source": "SHENZHENAUDIO",
+      "publisher": "shenzhenaudio",
+      "description": "USB Interface - shenzhenaudio shenzhenaudio",
+      "published_utc": "2026-11-21T18:37:07+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaHczM1gzQkg3ejVqUkpMTmx4WnBrQzlsZ19tS2U1V1FHcEREcFNUbHE1ZGJkQWhOU0IybWJtTGdkVFkxZXhGM205STFEd09mYThRYUlfdHFwSzlqZG9HTUxZc3EtRDlmQlAydDNjNVJwQzlWVkpsU0tlVTBkd2IxVHNQeVBqT1VCaWcybDJuWVVvZFBiM3dwT1V6RXlCdDg?oc=5",
+          "source": "SHENZHENAUDIO",
+          "publisher": "shenzhenaudio",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T18:37:07+00:00",
+          "title": "USB Interface - shenzhenaudio - shenzhenaudio"
+        }
+      ]
+    },
+    {
+      "id": "bc6ff732bb3c095388ff0ad6",
+      "topic": "wired",
+      "title": "HiFi Headphones Mega Sale - HiFiGo",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90X0duZmJBanVyamZwNEpidXZMdnVDNEdfWEdvZ1YzTndKV1ZlZXdEV09KdGs3WFhXV3pHdGU0NmNTMmVfcUVFUFY2RkFwZHh3eHhVT3VYdWx4OUZRS0xSdkF1QQ?oc=5",
+      "source": "HiFiGo",
+      "publisher": "HiFiGo",
+      "description": "HiFi Headphones Mega Sale HiFiGo",
+      "published_utc": "2026-11-22T01:05:20+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90X0duZmJBanVyamZwNEpidXZMdnVDNEdfWEdvZ1YzTndKV1ZlZXdEV09KdGs3WFhXV3pHdGU0NmNTMmVfcUVFUFY2RkFwZHh3eHhVT3VYdWx4OUZRS0xSdkF1QQ?oc=5",
+          "source": "HiFiGo",
+          "publisher": "HiFiGo",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T01:05:20+00:00",
+          "title": "HiFi Headphones Mega Sale - HiFiGo"
+        }
+      ]
+    },
+    {
+      "id": "2c4bbb120aab010f429098f7",
+      "topic": "tws",
+      "title": "Fujifilm X-T30 III vs OM SYSTEM PEN: Which Camera Is Better? - RTINGS.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR2M0LVlQR1VzWXJUdWYtaThEaWE2cmFGX3F5SzdCdk1LWjhlZk9hODlYOHdLcm9aMlRheUthMGxad0MtTmQ4emx6YlNBZ1NYc1duUlMxcVRvZV84X0ZlQS1aR0dnMmRPZ24ya3AwUUxxWloxUmxLb2h1blRPYktmbjdkbFFZS1VnSGdqUnl6Y0NsLUk1R3hBNg?oc=5",
+      "source": "RTINGS Headphones",
+      "publisher": "RTINGS.com",
+      "description": "Fujifilm X-T30 III vs OM SYSTEM PEN: Which Camera Is Better? RTINGS.com",
+      "published_utc": "2026-11-21T22:23:32+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR2M0LVlQR1VzWXJUdWYtaThEaWE2cmFGX3F5SzdCdk1LWjhlZk9hODlYOHdLcm9aMlRheUthMGxad0MtTmQ4emx6YlNBZ1NYc1duUlMxcVRvZV84X0ZlQS1aR0dnMmRPZ24ya3AwUUxxWloxUmxLb2h1blRPYktmbjdkbFFZS1VnSGdqUnl6Y0NsLUk1R3hBNg?oc=5",
+          "source": "RTINGS Headphones",
+          "publisher": "RTINGS.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T22:23:32+00:00",
+          "title": "Fujifilm X-T30 III vs OM SYSTEM PEN: Which Camera Is Better? - RTINGS.com"
+        }
+      ]
+    },
+    {
+      "id": "90c6bce96bdbd8c8450f9e8d",
+      "topic": "tws",
+      "title": "Logitech MX Master 4 vs Keychron Nape Pro: Which Mouse Is Better? - RTINGS.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb0Q3LVRUcFpJT25rbWRhMmJTV080d0EtMHZ5UVctbUF2aGdXeG0zRU9Pd0dxX3h1UmZZalp0N3pqR2NHUktTeVNuV2loLXgwQlBPTy0xNkRfbG4xdm9GZ0NzeFBXYVhfMTBNNGs0d2xtSXdWQ1JoMXN1OEtSZWlCX0xTdHd0dUUxM19oX204RGtQYlowTTRxcEphd040bDA?oc=5",
+      "source": "RTINGS Headphones",
+      "publisher": "RTINGS.com",
+      "description": "Logitech MX Master 4 vs Keychron Nape Pro: Which Mouse Is Better? RTINGS.com",
+      "published_utc": "2026-11-21T19:40:50+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb0Q3LVRUcFpJT25rbWRhMmJTV080d0EtMHZ5UVctbUF2aGdXeG0zRU9Pd0dxX3h1UmZZalp0N3pqR2NHUktTeVNuV2loLXgwQlBPTy0xNkRfbG4xdm9GZ0NzeFBXYVhfMTBNNGs0d2xtSXdWQ1JoMXN1OEtSZWlCX0xTdHd0dUUxM19oX204RGtQYlowTTRxcEphd040bDA?oc=5",
+          "source": "RTINGS Headphones",
+          "publisher": "RTINGS.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T19:40:50+00:00",
+          "title": "Logitech MX Master 4 vs Keychron Nape Pro: Which Mouse Is Better? - RTINGS.com"
+        }
+      ]
+    },
+    {
+      "id": "47802e500f581af96b499ee6",
+      "topic": "tws",
+      "title": "Kensington SlimBlade Pro Trackball vs Keychron Nape Pro: Which Mouse Is Better? - RTINGS.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbExRMThxY3lkTGM1V2MwVUplWWVialBia3ZNeUpPZE5Qc3NnYmZvclVPSUZsSHViVnVRMmw3eFloSmlhTU5aLTdqek5reGxmellyYmdWYWhsZ2JmeDdEWks0YVFkSnlQckdNMGZXVTJGRWhRT3BnSmE5YWFoOWtLU3lOQWwyendscWZIaG8wb0Fqb04xQm16aEJCYklDWDF1enpMZ1lTYjBmaXpDQ0sxcg?oc=5",
+      "source": "RTINGS Headphones",
+      "publisher": "RTINGS.com",
+      "description": "Kensington SlimBlade Pro Trackball vs Keychron Nape Pro: Which Mouse Is Better? RTINGS.com",
+      "published_utc": "2026-11-21T19:40:50+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbExRMThxY3lkTGM1V2MwVUplWWVialBia3ZNeUpPZE5Qc3NnYmZvclVPSUZsSHViVnVRMmw3eFloSmlhTU5aLTdqek5reGxmellyYmdWYWhsZ2JmeDdEWks0YVFkSnlQckdNMGZXVTJGRWhRT3BnSmE5YWFoOWtLU3lOQWwyendscWZIaG8wb0Fqb04xQm16aEJCYklDWDF1enpMZ1lTYjBmaXpDQ0sxcg?oc=5",
+          "source": "RTINGS Headphones",
+          "publisher": "RTINGS.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T19:40:50+00:00",
+          "title": "Kensington SlimBlade Pro Trackball vs Keychron Nape Pro: Which Mouse Is Better? - RTINGS.com"
+        }
+      ]
+    },
+    {
+      "id": "a81df4971c2902efc6dedcbe",
+      "topic": "tws",
+      "title": "Sony WH-1000XM4C owner reviews - SoundGuys",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fS3liSkdQWGtDSnUxRW5FZVN1Nm1JaEx2alg0eTdrQXRqVEtxeXJkbmQycGN2Vk1RbkVFbnl4QjlMdUQ5SUhka1BNTUk1bHQzQ3BHRm1tZFVJQWZRTGlya19HT1g1YjN4Q0o2R1hzZw?oc=5",
+      "source": "SoundGuys",
+      "publisher": "SoundGuys",
+      "description": "Sony WH-1000XM4C owner reviews SoundGuys",
+      "published_utc": "2026-11-21T23:11:58+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fS3liSkdQWGtDSnUxRW5FZVN1Nm1JaEx2alg0eTdrQXRqVEtxeXJkbmQycGN2Vk1RbkVFbnl4QjlMdUQ5SUhka1BNTUk1bHQzQ3BHRm1tZFVJQWZRTGlya19HT1g1YjN4Q0o2R1hzZw?oc=5",
+          "source": "SoundGuys",
+          "publisher": "SoundGuys",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T23:11:58+00:00",
+          "title": "Sony WH-1000XM4C owner reviews - SoundGuys"
+        }
+      ]
+    },
+    {
+      "id": "f90480fb1888c5c6a22d1526",
+      "topic": "portable_dac",
+      "title": "Interesting games for the evening on website - FiiO forum",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR1lUYlJ5WjJPR3l3RGZwYTlZUVBZUUp6RmNzZlU0R0tVcGdXbmhoLXFieTZ6QlJucmpyTmNBQ3hrSmw3Z2Vfc0gwQ2tMTU9vbHhieDRqclVNNWU1VVVzSWNqX2I1WUM1Wlh3WWo2WXlBbkZyRlA0YnRJOG5ZUW95Q3JYRQ?oc=5",
+      "source": "FiiO",
+      "publisher": "FiiO forum",
+      "description": "Interesting games for the evening on website FiiO forum",
+      "published_utc": "2026-11-22T11:50:43+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR1lUYlJ5WjJPR3l3RGZwYTlZUVBZUUp6RmNzZlU0R0tVcGdXbmhoLXFieTZ6QlJucmpyTmNBQ3hrSmw3Z2Vfc0gwQ2tMTU9vbHhieDRqclVNNWU1VVVzSWNqX2I1WUM1Wlh3WWo2WXlBbkZyRlA0YnRJOG5ZUW95Q3JYRQ?oc=5",
+          "source": "FiiO",
+          "publisher": "FiiO forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T11:50:43+00:00",
+          "title": "Interesting games for the evening on website - FiiO forum"
+        }
+      ]
+    },
+    {
+      "id": "27e991a09c5841e096069557",
+      "topic": "tws",
+      "title": "Support - Sony - Sony",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXd2QmVuVmhrS3JhZ3BIY3YwajZlWHJpeVB2NUhHN2djSEVUcngwR09XZm1OWjMzajA0VXhlNnRuNFJqRm5qQUllYWJQbl9STXN6MFE0akR3MFE1N0dUbnFzQUU0RVdfRi1PX3BTaWFSb0dILU1TTzc1TXRQdWZwNU1HMS1yWGs?oc=5",
+      "source": "Sony Audio",
+      "publisher": "Sony",
+      "description": "Support - Sony Sony",
+      "published_utc": "2026-11-22T02:36:28+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXd2QmVuVmhrS3JhZ3BIY3YwajZlWHJpeVB2NUhHN2djSEVUcngwR09XZm1OWjMzajA0VXhlNnRuNFJqRm5qQUllYWJQbl9STXN6MFE0akR3MFE1N0dUbnFzQUU0RVdfRi1PX3BTaWFSb0dILU1TTzc1TXRQdWZwNU1HMS1yWGs?oc=5",
+          "source": "Sony Audio",
+          "publisher": "Sony",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T02:36:28+00:00",
+          "title": "Support - Sony - Sony"
+        }
+      ]
+    },
+    {
+      "id": "a11bec69291cbc4161989f19",
+      "topic": "tws",
+      "title": "Manuals - Sony - Sony",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSkp4em9zRS03Vm5fMHc1Q0lmNGwxUjU4YWlveDZrUFFqTmdMdnF5cWFhVUZBa0xHaTNsYnJhTzNiakI1X2tXMzZFNFZSaHU0bFdTZ1FRVEtUc0hJUklFRnlrcnkzV3hXZUs2OUVtY1FuU18yWW9FNTYtSV9FYmh3VDEtdVJrM21Dal9zNU9hYzgxQQ?oc=5",
+      "source": "Sony Audio",
+      "publisher": "Sony",
+      "description": "Manuals - Sony Sony",
+      "published_utc": "2026-11-22T02:36:28+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSkp4em9zRS03Vm5fMHc1Q0lmNGwxUjU4YWlveDZrUFFqTmdMdnF5cWFhVUZBa0xHaTNsYnJhTzNiakI1X2tXMzZFNFZSaHU0bFdTZ1FRVEtUc0hJUklFRnlrcnkzV3hXZUs2OUVtY1FuU18yWW9FNTYtSV9FYmh3VDEtdVJrM21Dal9zNU9hYzgxQQ?oc=5",
+          "source": "Sony Audio",
+          "publisher": "Sony",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T02:36:28+00:00",
+          "title": "Manuals - Sony - Sony"
+        }
+      ]
+    },
+    {
+      "id": "e31b2413e5f3bed48b8efd9a",
+      "topic": "tws",
+      "title": "JBL Endurance Pace - JBL UK",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aYko0QS1kT1BGRXdMRC1PSTBaYi1UZktwblVlUk04UkRxNXNMTW9vb0ZiSk1MTDFQVXFNek5FTi1sdkZxN05nUnUwSEhqaFk?oc=5",
+      "source": "JBL",
+      "publisher": "JBL UK",
+      "description": "JBL Endurance Pace JBL UK",
+      "published_utc": "2026-11-21T20:17:09+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aYko0QS1kT1BGRXdMRC1PSTBaYi1UZktwblVlUk04UkRxNXNMTW9vb0ZiSk1MTDFQVXFNek5FTi1sdkZxN05nUnUwSEhqaFk?oc=5",
+          "source": "JBL",
+          "publisher": "JBL UK",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T20:17:09+00:00",
+          "title": "JBL Endurance Pace - JBL UK"
+        }
+      ]
+    },
+    {
+      "id": "29b1d77119761a73d96715a1",
+      "topic": "tws",
+      "title": "Hi my one of my oneplus buds Z2 is missing (Right ear bud), - OnePlus Community",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14R2pzY1JoSVkxUlpiVjBDd3hPX1F0UDZITEdOd1lvZ0NNUENwaHlhWG40Yl8zWE9Ic0ExcEpMR3FhVVhreHdzNVM5VmxpRnNsNHdYaVVPMmFkSXZrYnFkSGJyV2sxMGM?oc=5",
+      "source": "OnePlus Audio",
+      "publisher": "OnePlus Community",
+      "description": "Hi my one of my oneplus buds Z2 is missing (Right ear bud), OnePlus Community",
+      "published_utc": "2026-11-21T21:04:50+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14R2pzY1JoSVkxUlpiVjBDd3hPX1F0UDZITEdOd1lvZ0NNUENwaHlhWG40Yl8zWE9Ic0ExcEpMR3FhVVhreHdzNVM5VmxpRnNsNHdYaVVPMmFkSXZrYnFkSGJyV2sxMGM?oc=5",
+          "source": "OnePlus Audio",
+          "publisher": "OnePlus Community",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T21:04:50+00:00",
+          "title": "Hi my one of my oneplus buds Z2 is missing (Right ear bud), - OnePlus Community"
+        }
+      ]
+    },
+    {
+      "id": "85e5df68fdc914bd94fa7589",
+      "topic": "tws",
+      "title": "Colour os 17 update missing features - OnePlus Community",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5POXlWaTJXM1BxcUMtOVBOalp5cXN2SjI3anFNNUJjcTJzc0NMMC1ESW5ZaTcwd1BpUWJuR3Y1dDQyZEczV24tRXpzdHFJSDlWNmpkSUtpS2c4V2VJSnY4U2NWU3RaZTg?oc=5",
+      "source": "OnePlus Audio",
+      "publisher": "OnePlus Community",
+      "description": "Colour os 17 update missing features OnePlus Community",
+      "published_utc": "2026-11-22T11:05:43+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5POXlWaTJXM1BxcUMtOVBOalp5cXN2SjI3anFNNUJjcTJzc0NMMC1ESW5ZaTcwd1BpUWJuR3Y1dDQyZEczV24tRXpzdHFJSDlWNmpkSUtpS2c4V2VJSnY4U2NWU3RaZTg?oc=5",
+          "source": "OnePlus Audio",
+          "publisher": "OnePlus Community",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T11:05:43+00:00",
+          "title": "Colour os 17 update missing features - OnePlus Community"
+        }
+      ]
+    },
+    {
+      "id": "44db4ce423ee0676e6e43bcb",
+      "topic": "tws",
+      "title": "Finally switched. Good bye oneplus... From oneplus 3T, 5, 7T - OnePlus Community",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93YmRyY2c1N2hhQ011b01OWE1YT0NkWmxPNGY4MTYtWE41eEdPWlY2S0d5WERFQkd6UkMtX0RpOW8zMW85ZWVwTVV0NGp2TXRwOG5JQkpvN1dlS21jNDFGckw1TTFfSjg?oc=5",
+      "source": "OnePlus Audio",
+      "publisher": "OnePlus Community",
+      "description": "Finally switched. Good bye oneplus... From oneplus 3T, 5, 7T OnePlus Community",
+      "published_utc": "2026-11-22T00:36:56+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93YmRyY2c1N2hhQ011b01OWE1YT0NkWmxPNGY4MTYtWE41eEdPWlY2S0d5WERFQkd6UkMtX0RpOW8zMW85ZWVwTVV0NGp2TXRwOG5JQkpvN1dlS21jNDFGckw1TTFfSjg?oc=5",
+          "source": "OnePlus Audio",
+          "publisher": "OnePlus Community",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T00:36:56+00:00",
+          "title": "Finally switched. Good bye oneplus... From oneplus 3T, 5, 7T - OnePlus Community"
+        }
+      ]
+    },
+    {
+      "id": "de77c2c485b69c2ab745c7e6",
+      "topic": "tws",
+      "title": "Shot on OnePlus 9R - OnePlus Community",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkSkY5a1RjZ1NwdE5LTnFDeTRpOFRwc3NnWUIzTUYtZmVFVTlYTENyUXp4WUpIMGNPbVp1MHIwMDJsYWlWVjNHSGhwb3dHMUlKYW1NeTJnQ0FXN3dlYnJIazFxVkpsRDQ?oc=5",
+      "source": "OnePlus Audio",
+      "publisher": "OnePlus Community",
+      "description": "Shot on OnePlus 9R OnePlus Community",
+      "published_utc": "2026-11-21T18:10:45+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkSkY5a1RjZ1NwdE5LTnFDeTRpOFRwc3NnWUIzTUYtZmVFVTlYTENyUXp4WUpIMGNPbVp1MHIwMDJsYWlWVjNHSGhwb3dHMUlKYW1NeTJnQ0FXN3dlYnJIazFxVkpsRDQ?oc=5",
+          "source": "OnePlus Audio",
+          "publisher": "OnePlus Community",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T18:10:45+00:00",
+          "title": "Shot on OnePlus 9R - OnePlus Community"
+        }
+      ]
+    },
+    {
+      "id": "a251ff4dbd261b2cd95565f4",
+      "topic": "tws",
+      "title": "After colour os 17 update in oneplus 13r. - OnePlus Community",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1UUlMQ1ZHSXNIajVIQ0FkU010RUR4TF9wMUstVV9zSnROZ2xRU2lrNVV6Y1UyMHItQ0Q4bkx0ZFI1LXBwd0pldTRmcGhlZHl1YVZTdEpnZmFTVHUzcTQyODFzOF9aS1k?oc=5",
+      "source": "OnePlus Audio",
+      "publisher": "OnePlus Community",
+      "description": "After colour os 17 update in oneplus 13r. OnePlus Community",
+      "published_utc": "2026-11-21T21:36:06+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1UUlMQ1ZHSXNIajVIQ0FkU010RUR4TF9wMUstVV9zSnROZ2xRU2lrNVV6Y1UyMHItQ0Q4bkx0ZFI1LXBwd0pldTRmcGhlZHl1YVZTdEpnZmFTVHUzcTQyODFzOF9aS1k?oc=5",
+          "source": "OnePlus Audio",
+          "publisher": "OnePlus Community",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T21:36:06+00:00",
+          "title": "After colour os 17 update in oneplus 13r. - OnePlus Community"
+        }
+      ]
+    },
+    {
+      "id": "14ff2f505e87fcb771aa72e7",
+      "topic": "tws",
+      "title": "[CLOSED] Oxygen OS - OnePlus Community",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjREhkd0p6RWhOMjNMOEtzd2FaMVV0ZEpoeXZsZWgzMnNHbEgtcHYxWDF4aHBhVHFiT3VjdUdWNFBWZnZKY01neERIVWhIdHQ3ZF9pb0FRVWZJQXZOcEluQ0VyX2pxWnM?oc=5",
+      "source": "OnePlus Audio",
+      "publisher": "OnePlus Community",
+      "description": "[CLOSED] Oxygen OS OnePlus Community",
+      "published_utc": "2026-11-22T08:34:22+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjREhkd0p6RWhOMjNMOEtzd2FaMVV0ZEpoeXZsZWgzMnNHbEgtcHYxWDF4aHBhVHFiT3VjdUdWNFBWZnZKY01neERIVWhIdHQ3ZF9pb0FRVWZJQXZOcEluQ0VyX2pxWnM?oc=5",
+          "source": "OnePlus Audio",
+          "publisher": "OnePlus Community",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T08:34:22+00:00",
+          "title": "[CLOSED] Oxygen OS - OnePlus Community"
+        }
+      ]
+    },
+    {
+      "id": "8918829605e5b699997128a1",
+      "topic": "tws",
+      "title": "Shot on Oneplus 15r 🙌 ...__... (-)(no macro lens) - OnePlus Community",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rQVNNM21rcnJYLW1pYkxDazFWRW5xZ0tzMWxNSThkNVVDLV9rQUp5TEs2OW5semhwZ3VZVnE4VWtsQ0NnbW51UzZVY29jRnU3VG9nNmJkbWp1ZWRULWpYcWtIbE55LW8?oc=5",
+      "source": "OnePlus Audio",
+      "publisher": "OnePlus Community",
+      "description": "Shot on Oneplus 15r 🙌 ...__... (-)(no macro lens) OnePlus Community",
+      "published_utc": "2026-11-21T21:39:45+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rQVNNM21rcnJYLW1pYkxDazFWRW5xZ0tzMWxNSThkNVVDLV9rQUp5TEs2OW5semhwZ3VZVnE4VWtsQ0NnbW51UzZVY29jRnU3VG9nNmJkbWp1ZWRULWpYcWtIbE55LW8?oc=5",
+          "source": "OnePlus Audio",
+          "publisher": "OnePlus Community",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T21:39:45+00:00",
+          "title": "Shot on Oneplus 15r 🙌 ...__... (-)(no macro lens) - OnePlus Community"
+        }
+      ]
+    },
+    {
+      "id": "e68c4f932d4ef17b08f1a679",
+      "topic": "tws",
+      "title": "RTC 基准测试 — IQ-9075 - Qualcomm",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdUl0UnM2TkRXeElPa25hS28zVHVKbTllbXR1T1lfUHNaOUdCNXIyUnAzdl9ueFBabElmUzdaTzdJTzRTLUg0cjU0WHVhUGNMQk10cTVHRzFnVkZ0VnkySElNUlpQbjladENmZmxDUUpfcWZzOGtHbHBiWW9PUVcwVS0zUDlBdk9LeURnVHh2TS1idFBheXZDcU5n?oc=5",
+      "source": "Qualcomm Audio",
+      "publisher": "Qualcomm",
+      "description": "RTC 基准测试 — IQ-9075 Qualcomm",
+      "published_utc": "2026-11-21T19:16:19+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdUl0UnM2TkRXeElPa25hS28zVHVKbTllbXR1T1lfUHNaOUdCNXIyUnAzdl9ueFBabElmUzdaTzdJTzRTLUg0cjU0WHVhUGNMQk10cTVHRzFnVkZ0VnkySElNUlpQbjladENmZmxDUUpfcWZzOGtHbHBiWW9PUVcwVS0zUDlBdk9LeURnVHh2TS1idFBheXZDcU5n?oc=5",
+          "source": "Qualcomm Audio",
+          "publisher": "Qualcomm",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T19:16:19+00:00",
+          "title": "RTC 基准测试 — IQ-9075 - Qualcomm"
+        }
+      ]
+    },
+    {
+      "id": "5e7bfa46cc629e7705950495",
+      "topic": "tws",
+      "title": "参考文件 — RTC Testbench - Qualcomm",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTEV3THJ2My1jeEhQWEpXMlc4YUdWRkljdmFTTnJTUnVRaVdTZF9FZ0dOblBxMHhvRVBnbl9GdmQ0QUF4MEN1S1pQYjRBbEE1VGhCQkJGeURwMl9FS3VIcHBZMWxabjVLLWpPcEYyZVdhSExaMDgxR3JDWUFEdjJfQXU1LUJLZU9VQmcxaEx4eGlaYmt2U2tqTm9OQ29rNnB0?oc=5",
+      "source": "Qualcomm Audio",
+      "publisher": "Qualcomm",
+      "description": "参考文件 — RTC Testbench Qualcomm",
+      "published_utc": "2026-11-21T19:26:43+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTEV3THJ2My1jeEhQWEpXMlc4YUdWRkljdmFTTnJTUnVRaVdTZF9FZ0dOblBxMHhvRVBnbl9GdmQ0QUF4MEN1S1pQYjRBbEE1VGhCQkJGeURwMl9FS3VIcHBZMWxabjVLLWpPcEYyZVdhSExaMDgxR3JDWUFEdjJfQXU1LUJLZU9VQmcxaEx4eGlaYmt2U2tqTm9OQ29rNnB0?oc=5",
+          "source": "Qualcomm Audio",
+          "publisher": "Qualcomm",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T19:26:43+00:00",
+          "title": "参考文件 — RTC Testbench - Qualcomm"
+        }
+      ]
+    },
+    {
+      "id": "029112a2404fad8e71dbac7b",
+      "topic": "tws",
+      "title": "NIC 与 SR-IOV — 基于 KVM 的 RT - Qualcomm",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORW1EVEg0UkVVZ2k5YzJfS0h0aXFlWFlnRzR0cTlKeldhLV80SExkd0M4UnkyODZ6ZmRDRnhXenJRY0ZSdHpDbGFYNEItTjJCS2JtV3N0TzlLMTdOQ3ZnYk42dmNTdnZKckRwLWg4UUJpWWpFVVkyT3F1RzhjRzRaMWQtbWJ1aExrYVUzVnNPTGs2dGpUbVltLXcwS3dHUQ?oc=5",
+      "source": "Qualcomm Audio",
+      "publisher": "Qualcomm",
+      "description": "NIC 与 SR-IOV — 基于 KVM 的 RT Qualcomm",
+      "published_utc": "2026-11-21T19:03:20+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORW1EVEg0UkVVZ2k5YzJfS0h0aXFlWFlnRzR0cTlKeldhLV80SExkd0M4UnkyODZ6ZmRDRnhXenJRY0ZSdHpDbGFYNEItTjJCS2JtV3N0TzlLMTdOQ3ZnYk42dmNTdnZKckRwLWg4UUJpWWpFVVkyT3F1RzhjRzRaMWQtbWJ1aExrYVUzVnNPTGs2dGpUbVltLXcwS3dHUQ?oc=5",
+          "source": "Qualcomm Audio",
+          "publisher": "Qualcomm",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T19:03:20+00:00",
+          "title": "NIC 与 SR-IOV — 基于 KVM 的 RT - Qualcomm"
+        }
+      ]
+    },
+    {
+      "id": "adccbd6ba6a6c687362903d6",
+      "topic": "tws",
+      "title": "How I got Samsung’s best multitasking feature on my Pixel for free - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc3dtMGVyZDExcmpzeDBGN0hEMms1WjdiaEdsa1hIbGFwbkphTVFVR0c2SGxERHBGWmpqR2wxM0hYQWFCMGcxeXRlVEFzVUttajNkYW5JNGd6eENFamJfZW9mNGtLRWFZRFpFMVB2aWlva0hDcE5ZdXJRY3hMS25LSmloMWZHWm9tWEtDbU9yMVNCcFR4cWwtWDVDXzJ5XzJPV1VISUpiNjVSSGM?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "How I got Samsung’s best multitasking feature on my Pixel for free Android Authority",
+      "published_utc": "2026-11-22T10:30:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc3dtMGVyZDExcmpzeDBGN0hEMms1WjdiaEdsa1hIbGFwbkphTVFVR0c2SGxERHBGWmpqR2wxM0hYQWFCMGcxeXRlVEFzVUttajNkYW5JNGd6eENFamJfZW9mNGtLRWFZRFpFMVB2aWlva0hDcE5ZdXJRY3hMS25LSmloMWZHWm9tWEtDbU9yMVNCcFR4cWwtWDVDXzJ5XzJPV1VISUpiNjVSSGM?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T10:30:00+00:00",
+          "title": "How I got Samsung’s best multitasking feature on my Pixel for free - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "c2af14698268f53f3edaa658",
+      "topic": "wired",
+      "title": "Epic Audio Thalassophobia - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96eEFnazRmb1FrOWlod2FmMzJmR1ZDa1lZUk5BU0QyeDVCQWt0cXNkamJaOTk2MzEyaXliMUhGWDVBUTNrYnpNVzFVS3dmejlqS0dwUGIxbjhJZGZUbTByTi0xVDZON3p1MGF0aFEySXdhYUw2c2lyaw?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Epic Audio Thalassophobia Head-Fi.org",
+      "published_utc": "2026-11-21T19:06:13+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96eEFnazRmb1FrOWlod2FmMzJmR1ZDa1lZUk5BU0QyeDVCQWt0cXNkamJaOTk2MzEyaXliMUhGWDVBUTNrYnpNVzFVS3dmejlqS0dwUGIxbjhJZGZUbTByTi0xVDZON3p1MGF0aFEySXdhYUw2c2lyaw?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T19:06:13+00:00",
+          "title": "Epic Audio Thalassophobia - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "36d44f5e381d0e18846ab164",
+      "topic": "portable_dac",
+      "title": "FiiO Community-FiiO forum - FiiO forum",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOGFoSG1GTkdsdWtWWnBYZEswYnVUczJ3THN1MGtVYWhqMGoybUc1RG5kUGx6dVA1NVduVGh1QU5HQ0ZNaWZIYWVNVFdoRXFPdXVqUGVBRmJUa2pTNE1nbFJvUDFsVEViUnk1bmhNcmtXUGl1YlU2M050Tzd1OUlnNUdB?oc=5",
+      "source": "FiiO",
+      "publisher": "FiiO forum",
+      "description": "FiiO Community-FiiO forum FiiO forum",
+      "published_utc": "2026-11-22T08:00:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOGFoSG1GTkdsdWtWWnBYZEswYnVUczJ3THN1MGtVYWhqMGoybUc1RG5kUGx6dVA1NVduVGh1QU5HQ0ZNaWZIYWVNVFdoRXFPdXVqUGVBRmJUa2pTNE1nbFJvUDFsVEViUnk1bmhNcmtXUGl1YlU2M050Tzd1OUlnNUdB?oc=5",
+          "source": "FiiO",
+          "publisher": "FiiO forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T08:00:00+00:00",
+          "title": "FiiO Community-FiiO forum - FiiO forum"
+        }
+      ]
+    },
+    {
+      "id": "d47198f7fcd7e0d3213c38dc",
+      "topic": "wired",
+      "title": "iBasso DX340 MAX - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kWTlLN3ZqbnBycDY1TnhMVkFCU3cxbzVxX0wySlNncTF0aVBBVm5QZXpVbW1wWnZmRzZucm9BaVVybWNMM0JZM1NwN1lYTzMtTHlBRDZHakNVT2FqVzU5LXN3ZzJzVHdvYUotcw?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "iBasso DX340 MAX Head-Fi.org",
+      "published_utc": "2026-11-22T11:03:50+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kWTlLN3ZqbnBycDY1TnhMVkFCU3cxbzVxX0wySlNncTF0aVBBVm5QZXpVbW1wWnZmRzZucm9BaVVybWNMM0JZM1NwN1lYTzMtTHlBRDZHakNVT2FqVzU5LXN3ZzJzVHdvYUotcw?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T11:03:50+00:00",
+          "title": "iBasso DX340 MAX - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "197e427a4cf93bd0e5cc3478",
+      "topic": "wired",
+      "title": "Audeze LCD-5S - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PZkZrVTlzeGQtbVhpWUlJa2ZsTC1pQ3pKMWZ1QjhNNDVzX2Q4Q1l1SHE5NTRwX0VRV3Bud29uVHBnNzlHdklvWHdMOXlfS0xIdDYzams4TTE4VkJDTjdvUlNMWUJWWU5W?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Audeze LCD-5S Head-Fi.org",
+      "published_utc": "2026-11-22T03:04:52+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PZkZrVTlzeGQtbVhpWUlJa2ZsTC1pQ3pKMWZ1QjhNNDVzX2Q4Q1l1SHE5NTRwX0VRV3Bud29uVHBnNzlHdklvWHdMOXlfS0xIdDYzams4TTE4VkJDTjdvUlNMWUJWWU5W?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T03:04:52+00:00",
+          "title": "Audeze LCD-5S - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "0cfbc5037efd9dac65863775",
+      "topic": "wired",
+      "title": "(PD)Thieaudio x Elise Audio Vera new - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT3JaeWhhOFBXQ0Z4YlZRTHgyN1FTMjRUUWFvU00xUG5LekFaRFZIUVpnaWlIdHAwR1lzbkVXdW1yREtjVXNmOHVLZ2lWclh4UnZOUzY2WnhPOXNsLTh1NUNRV1NZNlphaWhsamZjaVlhMVIwVWpoTG5DMjRrSW9RUnQyRm1HQQ?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "(PD)Thieaudio x Elise Audio Vera new Head-Fi.org",
+      "published_utc": "2026-11-22T05:09:13+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT3JaeWhhOFBXQ0Z4YlZRTHgyN1FTMjRUUWFvU00xUG5LekFaRFZIUVpnaWlIdHAwR1lzbkVXdW1yREtjVXNmOHVLZ2lWclh4UnZOUzY2WnhPOXNsLTh1NUNRV1NZNlphaWhsamZjaVlhMVIwVWpoTG5DMjRrSW9RUnQyRm1HQQ?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T05:09:13+00:00",
+          "title": "(PD)Thieaudio x Elise Audio Vera new - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "9fa739c37c1ec20a284cd9c4",
+      "topic": "tws",
+      "title": "TWS Summit: Chasing the Limits of Wireless Sound. - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbHN4Q2hNdDgxc1VaTk9MYzlmTjNfS0NyS0VyQVNSQ3NxVmlRZ1plQjAxaW84Y1RCS2NDSXJaQkpFNzd0U1U5SDhpNjY4RnNnNnI2ZXI0TEQ1MmFxRDBMQmEyaF9VTmE2R2ZpYVcwejVhMU04YXpqVHFlX25LU2N6MkhHblZSdUpmX2tBNmFqemE?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "TWS Summit: Chasing the Limits of Wireless Sound. Head-Fi.org",
+      "published_utc": "2026-11-21T19:16:50+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbHN4Q2hNdDgxc1VaTk9MYzlmTjNfS0NyS0VyQVNSQ3NxVmlRZ1plQjAxaW84Y1RCS2NDSXJaQkpFNzd0U1U5SDhpNjY4RnNnNnI2ZXI0TEQ1MmFxRDBMQmEyaF9VTmE2R2ZpYVcwejVhMU04YXpqVHFlX25LU2N6MkhHblZSdUpmX2tBNmFqemE?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T19:16:50+00:00",
+          "title": "TWS Summit: Chasing the Limits of Wireless Sound. - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "e61a7da4e67fcb1d3907fdf5",
+      "topic": "wired",
+      "title": "＜AAショウ＞25絃箏とハーモニカによるスペシャルライヴ。ティートックレコーズこだわりの録音と生演奏を楽しむ",
+      "url": "http://www.phileweb.com/news/audio/202611/22/28425.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "音元出版主催によるオーディオの祭典「ハイエンドオーディオ＆アクセサリーショウ2026」。この目玉となる企画のひとつが、ティートックレコーズでアルバムをリリースしている2人の女性アーティスト、25絃箏奏者の渡邊香澄さんと、ハーモニカ奏者のKaoruさんによるライブパフォーマンス。",
+      "published_utc": "2026-11-22T03:14:20+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/audio/202611/22/28425.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-22T03:14:20+00:00",
+          "title": "＜AAショウ＞25絃箏とハーモニカによるスペシャルライヴ。ティートックレコーズこだわりの録音と生演奏を楽しむ"
+        }
+      ]
+    },
+    {
+      "id": "df4d0abc6c7362ad5d2ec36f",
+      "topic": "wired",
+      "title": "＜AAショウ＞トップウイングのDC電源初披露＆フォステクスの“スパイラル”バックロードも登場",
+      "url": "http://www.phileweb.com/news/audio/202611/22/28426.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "音元出版主催によるオーディオの祭典「ハイエンドオーディオ＆アクセサリーショウ2026」。2Fのホワイエに出展している、金井製作所、フォステクス、トップウイング、オーディオランドのブースについてご紹介しよう。",
+      "published_utc": "2026-11-22T04:57:20+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/audio/202611/22/28426.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-22T04:57:20+00:00",
+          "title": "＜AAショウ＞トップウイングのDC電源初披露＆フォステクスの“スパイラル”バックロードも登場"
+        }
+      ]
+    },
+    {
+      "id": "0b9e770bd45d3585763d799c",
+      "topic": "wired",
+      "title": "＜AAショウ＞角田郁雄氏の“自宅再現”大盛況／トップウイング最新アクセサリー聴き比べも注目！",
+      "url": "http://www.phileweb.com/news/audio/202611/22/28427.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "音元出版主催によるオーディオの祭典「ハイエンドオーディオ＆アクセサリーショウ2026」が、11月21日（土）と22日（日）の2日間にわたり、浅草橋ヒューリックホール＆カンファレンスにて開催中。2日目のイベントの模様についても駆け足でご紹介しよう。",
+      "published_utc": "2026-11-22T07:09:59+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/audio/202611/22/28427.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-22T07:09:59+00:00",
+          "title": "＜AAショウ＞角田郁雄氏の“自宅再現”大盛況／トップウイング最新アクセサリー聴き比べも注目！"
+        }
+      ]
+    },
+    {
+      "id": "c7b23733146c37f37efec7e7",
+      "topic": "tws",
+      "title": "Audio Software Development Engineer — Apple Products - Apple",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ1hGMFBhazZNRjQyYnJrRnh6VnZGSUlZcXlrbXhBX1Q2R2pZaTRRaHFJVERnbVhlb2VOZThVcDhPUG5wVzFmemJ1cklVY3BaYmdnVDZNeWUwemRtSjc2bzBIU1F5QUZhMk9zdngtZDJsWmwwVGhOY1MtNkFXMkFQUHNWSHFfODB0a1FNUGFCLU1ySy1kN3JhSGN5ZTgxekVERjdodndtRDIxYXQwdXE3S00ydw?oc=5",
+      "source": "Apple AirPods",
+      "publisher": "Apple",
+      "description": "Audio Software Development Engineer — Apple Products Apple",
+      "published_utc": "2026-11-22T10:47:02+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "58d4d0825e07",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ1hGMFBhazZNRjQyYnJrRnh6VnZGSUlZcXlrbXhBX1Q2R2pZaTRRaHFJVERnbVhlb2VOZThVcDhPUG5wVzFmemJ1cklVY3BaYmdnVDZNeWUwemRtSjc2bzBIU1F5QUZhMk9zdngtZDJsWmwwVGhOY1MtNkFXMkFQUHNWSHFfODB0a1FNUGFCLU1ySy1kN3JhSGN5ZTgxekVERjdodndtRDIxYXQwdXE3S00ydw?oc=5",
+          "source": "Apple AirPods",
+          "publisher": "Apple",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T10:47:02+00:00",
+          "title": "Audio Software Development Engineer — Apple Products - Apple"
+        }
+      ]
+    },
+    {
+      "id": "9acef2eb95691b4578fa9a2f",
+      "topic": "tws",
+      "title": "Audio Software Development Engineer — Apple Products - Apple",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOFZsUXduYWZ0V1JHZkc2Q0NGT0NjTlZ5TkpvcWJQQTZTZE9CVWhDQllUNlpFYVphWXh2Nl9BaVFXTUNUUjJLVXlzQ3ZkOTVvZ2FrX1ktR3RlMjZDZTA1WGl5QjhEa2VyaDY0YWZfbmxpdUx1WVF2X2RJWi1FSTdQYTdIR0t5enJLeXdub3g4a2txdkEyS015cUFZMmpOUlExOU95TWhnTzhVX2dDaEpOVGM4MA?oc=5",
+      "source": "Apple AirPods",
+      "publisher": "Apple",
+      "description": "Audio Software Development Engineer — Apple Products Apple",
+      "published_utc": "2026-11-22T10:50:27+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "58d4d0825e07",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOFZsUXduYWZ0V1JHZkc2Q0NGT0NjTlZ5TkpvcWJQQTZTZE9CVWhDQllUNlpFYVphWXh2Nl9BaVFXTUNUUjJLVXlzQ3ZkOTVvZ2FrX1ktR3RlMjZDZTA1WGl5QjhEa2VyaDY0YWZfbmxpdUx1WVF2X2RJWi1FSTdQYTdIR0t5enJLeXdub3g4a2txdkEyS015cUFZMmpOUlExOU95TWhnTzhVX2dDaEpOVGM4MA?oc=5",
+          "source": "Apple AirPods",
+          "publisher": "Apple",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T10:50:27+00:00",
+          "title": "Audio Software Development Engineer — Apple Products - Apple"
+        }
+      ]
+    }
+  ],
+  "date_unknown": [],
+  "health": {}
+}

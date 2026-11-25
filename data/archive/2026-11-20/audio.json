@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "date_jst": "2026-11-20",
+  "group": "audio",
+  "title": "オーディオ",
+  "status": "candidate_collection_only",
+  "items": [
+    {
+      "id": "cce9d20a34723a574605a403",
+      "topic": "wired",
+      "title": "ビクター伝統の『ウッドコーン』がさらに進化！ 一体型最新機「EX-D60」実力徹底チェック",
+      "url": "http://www.phileweb.com/review/article/202611/24/6733.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "ビクターの「ウッドコーン」は、スピーカーの振動板に木を用いた独自のオーディオ技術。新製品の「EX-D60」は、そのこだわりをスピーカー、アンプ、CDプレーヤーがひとつになった筐体に凝縮した一体型ウッドコーンオーディオだ。その音質を、評論家の山本敦氏がレビューする。",
+      "published_utc": "2026-11-20T14:33:17+00:00",
+      "date_jst": "2026-11-20",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/review/article/202611/24/6733.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T14:33:17+00:00",
+          "title": "ビクター伝統の『ウッドコーン』がさらに進化！ 一体型最新機「EX-D60」実力徹底チェック"
+        }
+      ]
+    }
+  ],
+  "date_unknown": [],
+  "health": {}
+}

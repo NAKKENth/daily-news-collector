@@ -1,0 +1,2793 @@
+{
+  "schema_version": 2,
+  "date_jst": "2026-11-21",
+  "group": "motorsport",
+  "title": "モータースポーツ",
+  "status": "candidate_collection_only",
+  "items": [
+    {
+      "id": "5847d584f5c1c47090504b41",
+      "topic": "F1",
+      "title": "Antonelli and Russell set for Mercedes talks over Las Vegas GP qualifying mix-up",
+      "url": "https://www.autosport.com/f1/news/kimi-antonelli-and-george-russell-set-for-mercedes-talks-over-las-vegas-gp-qualifying-woes/10876456",
+      "source": "Autosport F1",
+      "publisher": "Autosport F1",
+      "description": "George Russell and Kimi Antonelli will discuss the fallout from Formula 1’s Las Vegas Grand Prix qualifying “offline” following confusion over team orders and track position. Traffic played a significant role in qualifying on Friday night with drivers reluctant to go first, considering the advantage of a tow is huge around the low-downforce street ",
+      "published_utc": "2026-11-21T11:05:19+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.autosport.com/f1/news/kimi-antonelli-and-george-russell-set-for-mercedes-talks-over-las-vegas-gp-qualifying-woes/10876456",
+          "source": "Autosport F1",
+          "publisher": "Autosport F1",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T11:05:19+00:00",
+          "title": "Antonelli and Russell set for Mercedes talks over Las Vegas GP qualifying mix-up"
+        }
+      ]
+    },
+    {
+      "id": "26410702c3b3e222f575b36b",
+      "topic": "F1",
+      "title": "Verstappen reveals mysterious Red Bull F1 car issue that cannot be fixed in Las Vegas",
+      "url": "https://www.autosport.com/f1/news/verstappen-reveals-mysterious-red-bull-f1-car-issue-that-cannot-be-fixed-in-las-vegas/10876404",
+      "source": "Autosport F1",
+      "publisher": "Autosport F1",
+      "description": "Thanks to Kimi Antonelli 's grid penalty, Max Verstappen will start Formula 1's Las Vegas Grand Prix from pole position, but that is not necessarily a reason for the Dutch driver to be satisfied. Yes, Red Bull has made significant progress with its power unit on energy-poor circuits and, following the balance problems during free practice, the team",
+      "published_utc": "2026-11-21T08:52:06+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.autosport.com/f1/news/verstappen-reveals-mysterious-red-bull-f1-car-issue-that-cannot-be-fixed-in-las-vegas/10876404",
+          "source": "Autosport F1",
+          "publisher": "Autosport F1",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T08:52:06+00:00",
+          "title": "Verstappen reveals mysterious Red Bull F1 car issue that cannot be fixed in Las Vegas"
+        }
+      ]
+    },
+    {
+      "id": "e10d0e76d90e21f2f3d6c0d7",
+      "topic": "F1",
+      "title": "Verstappen responds to Russell after Las Vegas GP practice clash over 'gentleman's agreement'",
+      "url": "https://www.autosport.com/f1/news/verstappen-responds-to-russell-after-las-vegas-gp-practice-clash-over-gentlemans-agreement/10876337",
+      "source": "Autosport F1",
+      "publisher": "Autosport F1",
+      "description": "During the final practice session for the Formula 1 Las Vegas Grand Prix, Max Verstappen and George Russell crossed paths once again. The Dutchman overtook the Mercedes driver, but then slowed down in front of him and, according to the stewards, changed direction several times. Russell subsequently went down the inside of the four-time world champi",
+      "published_utc": "2026-11-21T07:05:12+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.autosport.com/f1/news/verstappen-responds-to-russell-after-las-vegas-gp-practice-clash-over-gentlemans-agreement/10876337",
+          "source": "Autosport F1",
+          "publisher": "Autosport F1",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T07:05:12+00:00",
+          "title": "Verstappen responds to Russell after Las Vegas GP practice clash over 'gentleman's agreement'"
+        }
+      ]
+    },
+    {
+      "id": "b6d28aa641fee88281bd06df",
+      "topic": "F1",
+      "title": "Floor damage, deployment down to Hamilton's Las Vegas GP Q2 exit",
+      "url": "https://www.autosport.com/f1/news/floor-damage-deployment-down-to-lewis-hamiltons-las-vegas-q2-exit/10876316",
+      "source": "Autosport F1",
+      "publisher": "Autosport F1",
+      "description": "Lewis Hamilton put Ferrari's Q2 exit in qualifying for the Las Vegas Grand Prix down to energy deployment and floor damage, as the seven-time Formula 1 world champion felt he'd rallied from difficulties with overall tyre grip. The Briton struggled throughout FP3 under braking, as the front tyres proved particularly lock-up prone and resulted in Ham",
+      "published_utc": "2026-11-21T06:33:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.autosport.com/f1/news/floor-damage-deployment-down-to-lewis-hamiltons-las-vegas-q2-exit/10876316",
+          "source": "Autosport F1",
+          "publisher": "Autosport F1",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T06:33:00+00:00",
+          "title": "Floor damage, deployment down to Hamilton's Las Vegas GP Q2 exit"
+        }
+      ]
+    },
+    {
+      "id": "56f3fcfea56222b4174481f3",
+      "topic": "F1",
+      "title": "Russell slams Verstappen after Las Vegas GP practice clash: ‘He walks around like he’s bigger and better than everyone’",
+      "url": "https://www.autosport.com/f1/news/george-russell-slams-max-verstappen-after-las-vegas-clash-he-walks-around-like-hes-bigger-and-bette/10876309",
+      "source": "Autosport F1",
+      "publisher": "Autosport F1",
+      "description": "George Russell has hit out at Max Verstappen after they collided in Free Practice 3 at Formula 1’s Las Vegas Grand Prix. Verstappen overtook the Mercedes ahead of Turn 14 in a quest for free air, but Russell moved to get back ahead, with the Dutchman unsuccessfully closing the door. Russell eventually muscled his rival out of the way, with the Red ",
+      "published_utc": "2026-11-21T06:28:41+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.autosport.com/f1/news/george-russell-slams-max-verstappen-after-las-vegas-clash-he-walks-around-like-hes-bigger-and-bette/10876309",
+          "source": "Autosport F1",
+          "publisher": "Autosport F1",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T06:28:41+00:00",
+          "title": "Russell slams Verstappen after Las Vegas GP practice clash: ‘He walks around like he’s bigger and better than everyone’"
+        }
+      ]
+    },
+    {
+      "id": "ed9c4294e90632ae18b78496",
+      "topic": "F1",
+      "title": "F1 Las Vegas GP: Antonelli tops qualifying but Verstappen gets pole",
+      "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-antonelli-tops-qualifying-but-verstappen-gets-pole/10876233",
+      "source": "Autosport F1",
+      "publisher": "Autosport F1",
+      "description": "Max Verstappen will start on pole at the Formula 1 Las Vegas Grand Prix despite Kimi Antonelli going fastest - while Charles Leclerc and Lewis Hamilton both failed to make Q3. The 2026 world champion beat the Red Bull driver by 0.258s, but is set for a five-place grid drop due to a new internal combustion engine on his Mercedes. It came after Verst",
+      "published_utc": "2026-11-21T05:20:37+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-antonelli-tops-qualifying-but-verstappen-gets-pole/10876233",
+          "source": "Autosport F1",
+          "publisher": "Autosport F1",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T05:20:37+00:00",
+          "title": "F1 Las Vegas GP: Antonelli tops qualifying but Verstappen gets pole"
+        }
+      ]
+    },
+    {
+      "id": "0bead5cc726679ed6ec5de7d",
+      "topic": "F1",
+      "title": "F1 Las Vegas GP: Russell fastest in final practice after Verstappen collision",
+      "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-russell-fastest-in-final-practice-after-verstappen-collision/10876189",
+      "source": "Autosport F1",
+      "publisher": "Autosport F1",
+      "description": "George Russell collided with Max Verstappen in a tense third practice session at the Las Vegas Grand Prix as the Mercedes Formula 1 driver topped the timesheets. After both of Thursday's practice sessions had been derailed by rain, the Las Vegas Strip was buzzing with activity at dusk on Friday. The sole remaining practice session became crucial as",
+      "published_utc": "2026-11-21T01:46:05+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-russell-fastest-in-final-practice-after-verstappen-collision/10876189",
+          "source": "Autosport F1",
+          "publisher": "Autosport F1",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T01:46:05+00:00",
+          "title": "F1 Las Vegas GP: Russell fastest in final practice after Verstappen collision"
+        }
+      ]
+    },
+    {
+      "id": "5ecded4f3b233837c8645cfe",
+      "topic": "F1",
+      "title": "F1 set for V8 return from 2030",
+      "url": "https://www.autosport.com/f1/news/f1-set-for-v8-return-from-2030/10875119",
+      "source": "Autosport F1",
+      "publisher": "Autosport F1",
+      "description": "Formula 1 has moved closer to a return to V8 engines from the 2030 season as the FIA announced that a unanimous agreement has been reached between the governing body, F1 management and the power unit manufacturers. F1 has long worked towards cheaper and simpler engines for the next regulation cycle, which starts in 2031, having recognised the curre",
+      "published_utc": "2026-11-20T19:02:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.autosport.com/f1/news/f1-set-for-v8-return-from-2030/10875119",
+          "source": "Autosport F1",
+          "publisher": "Autosport F1",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T19:02:00+00:00",
+          "title": "F1 set for V8 return from 2030"
+        }
+      ]
+    },
+    {
+      "id": "d00fa30b9802801d08d2496c",
+      "topic": "WRC",
+      "title": "Surprise twist in Hyundai’s WRC plans as new car enters development - RallyJournal.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbVVwaXVGcWJjN0d0cVlYbE53UkJtbHBuM0RYTjRZaDVGTEZGcnZYcU4waElRb0JxM0hUVHFmV3lJSVdGYmU2UEtVbGk4Y2syUEFGWFltVWhSeDdPWXlLRjFUZWZrNkRWNkRTSlc2Z092RkQwcWdvSVlmVHJkRXJiNXN3WGNiTGZXcUQtSF9MVXlxNDloOXFz?oc=5",
+      "source": "RallyJournal",
+      "publisher": "RallyJournal.com",
+      "description": "Surprise twist in Hyundai’s WRC plans as new car enters development RallyJournal.com",
+      "published_utc": "2026-11-21T14:29:24+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbVVwaXVGcWJjN0d0cVlYbE53UkJtbHBuM0RYTjRZaDVGTEZGcnZYcU4waElRb0JxM0hUVHFmV3lJSVdGYmU2UEtVbGk4Y2syUEFGWFltVWhSeDdPWXlLRjFUZWZrNkRWNkRTSlc2Z092RkQwcWdvSVlmVHJkRXJiNXN3WGNiTGZXcUQtSF9MVXlxNDloOXFz?oc=5",
+          "source": "RallyJournal",
+          "publisher": "RallyJournal.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T14:29:24+00:00",
+          "title": "Surprise twist in Hyundai’s WRC plans as new car enters development - RallyJournal.com"
+        }
+      ]
+    },
+    {
+      "id": "08d63a4751525f53aeb27355",
+      "topic": "WRC",
+      "title": "Final Results Guru Nanak Asas Rally of Arusha 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVVhrT1BoTGJ3SzlPY093MjNUOWZvR2RsMDRNV2U4Y1hMTHp6MkVLRDNRNS1LYndJSi11a0dJWXVURld5VzZ0UVpiU2pFZThkeTdzUWpuVG1UdTZQeHVhRWYwZDhKTGpIazNELTc2Y3pFWTlDcFNNX096X1dhb05taENMTTBuTEtSMDN2M3NTNVJ4dw?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Final Results Guru Nanak Asas Rally of Arusha 2026 eWRC-results.com",
+      "published_utc": "2026-11-21T13:52:35+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVVhrT1BoTGJ3SzlPY093MjNUOWZvR2RsMDRNV2U4Y1hMTHp6MkVLRDNRNS1LYndJSi11a0dJWXVURld5VzZ0UVpiU2pFZThkeTdzUWpuVG1UdTZQeHVhRWYwZDhKTGpIazNELTc2Y3pFWTlDcFNNX096X1dhb05taENMTTBuTEtSMDN2M3NTNVJ4dw?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T13:52:35+00:00",
+          "title": "Final Results Guru Nanak Asas Rally of Arusha 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "0776a899a50853284ee42d4e",
+      "topic": "WEC",
+      "title": "FIA GT World Cup: Saturday Paddock Notes - dailysportscar.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb3c4WHVHNkJ0SEl6QkF5VXQyZmFtTUtCYTdwYS11LVY5bDYtb1RCTUMwa3o2aWZxVE5ROFJabGFuck1Mbk14YWRLam00UWtLUU9Yb1UzQ3dpeUNkamdqRVhrRjJ6cV9uNmY2S3A3bWMxSlZfZ1pYb3ZsdTlydkt4aFZDOGdmQS1yZDlfYVhMbw?oc=5",
+      "source": "DailySportscar",
+      "publisher": "dailysportscar.com",
+      "description": "FIA GT World Cup: Saturday Paddock Notes dailysportscar.com",
+      "published_utc": "2026-11-21T12:08:08+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb3c4WHVHNkJ0SEl6QkF5VXQyZmFtTUtCYTdwYS11LVY5bDYtb1RCTUMwa3o2aWZxVE5ROFJabGFuck1Mbk14YWRLam00UWtLUU9Yb1UzQ3dpeUNkamdqRVhrRjJ6cV9uNmY2S3A3bWMxSlZfZ1pYb3ZsdTlydkt4aFZDOGdmQS1yZDlfYVhMbw?oc=5",
+          "source": "DailySportscar",
+          "publisher": "dailysportscar.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T12:08:08+00:00",
+          "title": "FIA GT World Cup: Saturday Paddock Notes - dailysportscar.com"
+        }
+      ]
+    },
+    {
+      "id": "af6c991345be865501372c37",
+      "topic": "other_motorsport",
+      "title": "Macau GP: Al Dhaheri defeats Colnaghi to take qualification race win",
+      "url": "https://www.autosport.com/openwheel/news/macau-gp-al-dhaheri-defeats-colnaghi-to-take-qualification-race-win/10876413",
+      "source": "Autosport all",
+      "publisher": "Autosport all",
+      "description": "Rashid Al Dhaheri took victory in the Macau Grand Prix qualification race after jumping polesitter Alex Ninovic at the start and resisting a final-lap attack from Mattia Colnaghi. Rodin racer Ninovic had set the pace during a heavily disrupted opening qualifying session on Thursday that featured five red flags, before Friday's Q2 was rain-affected,",
+      "published_utc": "2026-11-21T09:06:49+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.autosport.com/openwheel/news/macau-gp-al-dhaheri-defeats-colnaghi-to-take-qualification-race-win/10876413",
+          "source": "Autosport all",
+          "publisher": "Autosport all",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T09:06:49+00:00",
+          "title": "Macau GP: Al Dhaheri defeats Colnaghi to take qualification race win"
+        }
+      ]
+    },
+    {
+      "id": "4d7ef366a62f7b91544fdcdd",
+      "topic": "Super Formula",
+      "title": "Super Formula Suzuka: Ohta takes title in dramatic fashion as Iwasa wins opener",
+      "url": "https://www.autosport.com/super-formula/news/super-formula-suzuka-ohta-takes-title-in-dramatic-fashion-as-iwasa-wins-opener/10876358",
+      "source": "Autosport all",
+      "publisher": "Autosport all",
+      "description": "Kakunoshin Ohta secured the Super Formula title with a race to spare at Suzuka by finishing second behind Ayumu Iwasa, surviving a post-race investigation. Dandelion Racing driver Ohta entered the weekend with a 32.5-point advantage over nearest rival Iwasa, and saw that cushion whittled down to 30.5 points as Red Bull Formula 1 reserve Iwasa secur",
+      "published_utc": "2026-11-21T07:18:58+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.autosport.com/super-formula/news/super-formula-suzuka-ohta-takes-title-in-dramatic-fashion-as-iwasa-wins-opener/10876358",
+          "source": "Autosport all",
+          "publisher": "Autosport all",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T07:18:58+00:00",
+          "title": "Super Formula Suzuka: Ohta takes title in dramatic fashion as Iwasa wins opener"
+        }
+      ]
+    },
+    {
+      "id": "5c80be00279cafc5dccbefef",
+      "topic": "other_motorsport",
+      "title": "Formula E pre-season test ends early after car explodes and catches fire",
+      "url": "https://www.autosport.com/formula-e/news/formula-e-pre-season-test-ends-early-after-car-explodes-and-catches-fire/10876079",
+      "source": "Autosport all",
+      "publisher": "Autosport all",
+      "description": "Taylor Barnard escaped unharmed after his Fusion car caught fire and exploded at Jarama, with the incident bringing the final day of 2027 pre-season Formula E testing to an abrupt end. Friday's running with the new Gen4 cars had proceeded relatively smoothly apart from the usual reliability issues. However, alarms were raised shortly before the fin",
+      "published_utc": "2026-11-20T16:09:36+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.autosport.com/formula-e/news/formula-e-pre-season-test-ends-early-after-car-explodes-and-catches-fire/10876079",
+          "source": "Autosport all",
+          "publisher": "Autosport all",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T16:09:36+00:00",
+          "title": "Formula E pre-season test ends early after car explodes and catches fire"
+        }
+      ]
+    },
+    {
+      "id": "b77706e448f9a642d01c231a",
+      "topic": "F1",
+      "title": "Antonelli and Russell set for talks after Mercedes’ qualifying plan misfires",
+      "url": "https://www.gpblog.com/en/news/antonelli-and-russell-set-for-talks-after-mercedes-qualifying-plan-misfires",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "George Russell and Kimi Antonelli will hold crunch talks this morning in Las Vegas after the two tangled during qualifying, resulting in a missed opportunity for Russell to take pole. Mercedes had intended for Antonelli, who carried a five-place grid penalty, to help Russell with a tow. But traffic...",
+      "published_utc": "2026-11-21T14:45:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/antonelli-and-russell-set-for-talks-after-mercedes-qualifying-plan-misfires",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T14:45:00+00:00",
+          "title": "Antonelli and Russell set for talks after Mercedes’ qualifying plan misfires"
+        }
+      ]
+    },
+    {
+      "id": "f3b5ffd657f95d9ffde79974",
+      "topic": "F1",
+      "title": "Small 'advantage' may give Verstappen a head start in battle with Russell",
+      "url": "https://www.gpblog.com/en/analysis/small-advantage-may-give-verstappen-a-head-start-in-battle-with-russell",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Starting from pole position, Max Verstappen has a chance to put George Russell on the back foot early in Las Vegas, as Pirelli observed that Red Bull Racing got its tyres up to temperature faster than Mercedes on the cold asphalt. Whether Verstappen can make the most of that advantage remains uncert...",
+      "published_utc": "2026-11-21T14:00:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/analysis/small-advantage-may-give-verstappen-a-head-start-in-battle-with-russell",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T14:00:00+00:00",
+          "title": "Small 'advantage' may give Verstappen a head start in battle with Russell"
+        }
+      ]
+    },
+    {
+      "id": "27d9661084eec5b3ceb1d2dd",
+      "topic": "F1",
+      "title": "Hamilton’s damaged Ferrari faces a difficult recovery from Las Vegas",
+      "url": "https://www.gpblog.com/en/news/hamiltons-damaged-ferrari-faces-a-difficult-recovery-from-las-vegas",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Lewis Hamilton’s Las Vegas qualifying ended in Q2, with the Ferrari driver set to start 11th after penalties reshuffled the grid. He described the session as “a nightmare” and pointed to several factors that left him short of the pace needed to reach the final segment. The most tangible problem was...",
+      "published_utc": "2026-11-21T13:00:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/hamiltons-damaged-ferrari-faces-a-difficult-recovery-from-las-vegas",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T13:00:00+00:00",
+          "title": "Hamilton’s damaged Ferrari faces a difficult recovery from Las Vegas"
+        }
+      ]
+    },
+    {
+      "id": "ad5cfe2c94c73e873317d25b",
+      "topic": "F1",
+      "title": "Piastri’s P17 start raises the stakes in McLaren’s fight for third",
+      "url": "https://www.gpblog.com/en/news/piastris-p17-start-raises-the-stakes-in-mclarens-fight-for-third",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Oscar Piastri’s starting position makes the Las Vegas Grand Prix a difficult strategic puzzle for McLaren. The Australian qualified seventh, but a 10-place penalty for exceeding his internal-combustion-engine allocation leaves him set to start 17th. That setback is important beyond Piastri’s individ...",
+      "published_utc": "2026-11-21T12:15:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/piastris-p17-start-raises-the-stakes-in-mclarens-fight-for-third",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T12:15:00+00:00",
+          "title": "Piastri’s P17 start raises the stakes in McLaren’s fight for third"
+        }
+      ]
+    },
+    {
+      "id": "85122b76791f3e13d2b10314",
+      "topic": "F1",
+      "title": "Mercedes accused of 'doing nothing' to help Russell as questions of favouritism return",
+      "url": "https://www.gpblog.com/en/analysis/mercedes-accused-of-doing-nothing-to-help-russell-as-questions-of-favouritism-return",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "George Russell has a strong starting position for the Las Vegas Grand Prix, but Mercedes’ qualifying decisions have left an obvious question: could a tow from Kimi Antonelli have put the Briton closer to pole? That has not gone unnoticed, with Jacques Villeneuve saying the team did nothing to help o...",
+      "published_utc": "2026-11-21T11:30:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/analysis/mercedes-accused-of-doing-nothing-to-help-russell-as-questions-of-favouritism-return",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T11:30:00+00:00",
+          "title": "Mercedes accused of 'doing nothing' to help Russell as questions of favouritism return"
+        }
+      ]
+    },
+    {
+      "id": "2341984f1cf6424922056ae1",
+      "topic": "F1",
+      "title": "Three key takeaways after qualifying in Las Vegas",
+      "url": "https://www.gpblog.com/en/analysis/three-key-takeaways-after-qualifying-in-las-vegas",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Max Verstappen takes charge of Red Bull Racing once again, George Russell is let down by Mercedes, and Ferrari fails to operate as a team. These are the three main takeaways from qualifying for the F1 Las Vegas Grand Prix. It was clear beforehand that Ferrari would struggle at the Las Vegas Grand Pr...",
+      "published_utc": "2026-11-21T10:45:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/analysis/three-key-takeaways-after-qualifying-in-las-vegas",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T10:45:00+00:00",
+          "title": "Three key takeaways after qualifying in Las Vegas"
+        }
+      ]
+    },
+    {
+      "id": "d1d3640d1c28283b2606926e",
+      "topic": "F1",
+      "title": "Lawson hurt by costly issue in Las Vegas: 'I need to figure it out'",
+      "url": "https://www.gpblog.com/en/news/lawson-hurt-by-costly-issue-in-las-vegas-i-need-to-figure-it-out",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Liam Lawson experienced some difficulties in Q3 at the Las Vegas Grand Prix, which hurt his chances of securing a better position on the grid for tomorrow's race. Lawson qualified in eighth place but will gain a position once Oscar Piastri's 10-place grid penalty is applied for exceeding the permitt...",
+      "published_utc": "2026-11-21T09:47:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/lawson-hurt-by-costly-issue-in-las-vegas-i-need-to-figure-it-out",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T09:47:00+00:00",
+          "title": "Lawson hurt by costly issue in Las Vegas: 'I need to figure it out'"
+        }
+      ]
+    },
+    {
+      "id": "405005a5208169786ba9f91c",
+      "topic": "F1",
+      "title": "Las Vegas starting grid shaken up after penalties for Antonelli and others",
+      "url": "https://www.gpblog.com/en/news/las-vegas-starting-grid-shaken-up-after-penalties-for-antonelli-and-others",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "With five drivers receiving grid penalties for the upcoming Las Vegas Grand Prix, this is what the provisional starting grid looks like for tomorrow's race. With almost a quarter of the drivers having grid penalties due to exceeding the maximum amount of power unit components allowed over the course...",
+      "published_utc": "2026-11-21T09:10:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/las-vegas-starting-grid-shaken-up-after-penalties-for-antonelli-and-others",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T09:10:00+00:00",
+          "title": "Las Vegas starting grid shaken up after penalties for Antonelli and others"
+        }
+      ]
+    },
+    {
+      "id": "860814540e4784ebad5f0c16",
+      "topic": "F1",
+      "title": "Wolff dismisses lack of tow for Russell as Verstappen inherits pole",
+      "url": "https://www.gpblog.com/en/news/wolff-dismisses-lack-of-tow-for-russell-as-verstappen-inherits-pole",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Toto Wolff believes George Russell was in the right position to claim pole when asked why Mercedes decided not to give the Briton a tow from Kimi Antonelli in Q3. Over the course of the session, Russell asked whether he could receive a tow from his teammate Antonelli, considering that the Italian ha...",
+      "published_utc": "2026-11-21T08:30:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/wolff-dismisses-lack-of-tow-for-russell-as-verstappen-inherits-pole",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T08:30:00+00:00",
+          "title": "Wolff dismisses lack of tow for Russell as Verstappen inherits pole"
+        }
+      ]
+    },
+    {
+      "id": "820cffa5982ffed71b65a06a",
+      "topic": "F1",
+      "title": "Verstappen knows what's wrong with his car and rules out one possibility",
+      "url": "https://www.gpblog.com/en/news/verstappen-knows-whats-wrong-with-his-car-and-rules-out-one-possibility",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Max Verstappen had little to say about the problems with the car after qualifying in Las Vegas, but speaking to a select group of Dutch media, he was able to explain a little more than he did at the press conference. The four-time world champion is therefore unable to do much with his car, which had...",
+      "published_utc": "2026-11-21T07:45:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/verstappen-knows-whats-wrong-with-his-car-and-rules-out-one-possibility",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T07:45:00+00:00",
+          "title": "Verstappen knows what's wrong with his car and rules out one possibility"
+        }
+      ]
+    },
+    {
+      "id": "2a9f9171b31d05ea42a30365",
+      "topic": "F1",
+      "title": "FIA stewards hand out fine for qualifying incident in Las Vegas",
+      "url": "https://www.gpblog.com/en/breaking-news/fia-stewards-share-verdict-on-sole-post-qualifying-investigation-in-vegas",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Racing Bulls' Arvid Lindblad was the only driver involved in an incident at the Las Vegas Grand Prix that was investigated after the conclusion of today's qualifying session. The stewards have now issued their verdict. Entering the final set of runs in Q2 at the Las Vegas Grand Prix, the Faenza-base...",
+      "published_utc": "2026-11-21T07:08:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/breaking-news/fia-stewards-share-verdict-on-sole-post-qualifying-investigation-in-vegas",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T07:08:00+00:00",
+          "title": "FIA stewards hand out fine for qualifying incident in Las Vegas"
+        }
+      ]
+    },
+    {
+      "id": "f3bf45cb860d99412b26fa8f",
+      "topic": "F1",
+      "title": "Russell hits out at Verstappen after Vegas collision: 'I won't accept it'",
+      "url": "https://www.gpblog.com/en/news/russell-hits-out-at-verstappen-after-vegas-collision-i-wont-accept-it",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "George Russell and Max Verstappen made contact during the final free practice session of the Las Vegas Grand Prix earlier today. The Briton explained that he would not accept the Dutchman's behavior. Afterwards, the stewards confirmed that the Red Bull Racing driver was at fault for the incident and...",
+      "published_utc": "2026-11-21T06:32:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/russell-hits-out-at-verstappen-after-vegas-collision-i-wont-accept-it",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T06:32:00+00:00",
+          "title": "Russell hits out at Verstappen after Vegas collision: 'I won't accept it'"
+        }
+      ]
+    },
+    {
+      "id": "3255af5007adafe972dba507",
+      "topic": "F1",
+      "title": "Tension felt between Verstappen and Russell during Vegas press conference",
+      "url": "https://www.gpblog.com/en/news/tension-felt-between-verstappen-and-russell-during-vegas-press-conference",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Max Verstappen and George Russell shared quite a moment during the FIA Press Conference after qualifying for the Las Vegas Grand Prix. When both drivers were asked about their FP3 incident, Russell responded curtly. Verstappen then simply replied with a telling “Yeah”. Verstappen and Russell qualif...",
+      "published_utc": "2026-11-21T06:13:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/tension-felt-between-verstappen-and-russell-during-vegas-press-conference",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T06:13:00+00:00",
+          "title": "Tension felt between Verstappen and Russell during Vegas press conference"
+        }
+      ]
+    },
+    {
+      "id": "5a4a693bd4cb13b4546b5fc8",
+      "topic": "F1",
+      "title": "Hamilton reveals issue that led to disappointing early exit in Las Vegas",
+      "url": "https://www.gpblog.com/en/news/hamilton-reveals-issue-that-led-to-disappointing-early-exit-in-las-vegas",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Lewis Hamilton explained he was happy with his lap in Q2 at the Las Vegas Grand Prix, but an issue prevented him from getting through to the final session. Hamilton began to experience downforce issues already in Q1. Speaking to GPblog, among others, he explained: \"You know, we lost a piece of the f...",
+      "published_utc": "2026-11-21T05:54:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/hamilton-reveals-issue-that-led-to-disappointing-early-exit-in-las-vegas",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T05:54:00+00:00",
+          "title": "Hamilton reveals issue that led to disappointing early exit in Las Vegas"
+        }
+      ]
+    },
+    {
+      "id": "434609bb8f28016c37f38391",
+      "topic": "F1",
+      "title": "Verstappen struggles during qualifying: Red Bull has not solved its problems",
+      "url": "https://www.gpblog.com/en/news/verstappen-struggles-during-qualifying-red-bull-has-not-solved-its-problems",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Max Verstappen struggled enormously with the Red Bull car again this weekend, so he is very happy to be starting the Las Vegas Grand Prix from pole position. Only Kimi Antonelli was faster than him, but the world champion has a grid penalty. Verstappen finished second in qualifying for the Las Vegas...",
+      "published_utc": "2026-11-21T05:35:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/verstappen-struggles-during-qualifying-red-bull-has-not-solved-its-problems",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T05:35:00+00:00",
+          "title": "Verstappen struggles during qualifying: Red Bull has not solved its problems"
+        }
+      ]
+    },
+    {
+      "id": "712a4253b2d8e8c1fe7630c6",
+      "topic": "F1",
+      "title": "Ferrari's 'lot of mistakes' leave Leclerc frustrated after Q2 exit",
+      "url": "https://www.gpblog.com/en/news/ferraris-lot-of-mistakes-leave-leclerc-frustrated-after-q2-exit",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Charles Leclerc was disappointed to get eliminated early on in qualifying for the Las Vegas Grand Prix. The Monegasque driver was not ready to jump to complete conclusions, but explained what went wrong. The Ferrari driver explained that he had to deal with various problems, including issues with th...",
+      "published_utc": "2026-11-21T05:26:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/ferraris-lot-of-mistakes-leave-leclerc-frustrated-after-q2-exit",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T05:26:00+00:00",
+          "title": "Ferrari's 'lot of mistakes' leave Leclerc frustrated after Q2 exit"
+        }
+      ]
+    },
+    {
+      "id": "a45865584643f57ad001a53e",
+      "topic": "F1",
+      "title": "Antonelli claims striking Las Vegas pole as Ferrari suffer double humiliation",
+      "url": "https://www.gpblog.com/en/breaking-news/antonelli-claims-striking-las-vegas-pole-as-ferrari-suffer-double-humiliation",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Kimi Antonelli set the fastest time in qualifying for the Las Vegas Grand Prix, producing a remarkable final lap to beat Max Verstappen and Mercedes teammate George Russell. However, the Italian's grid penalty means Verstappen will start from pole position. Ferrari, meanwhile, endured a nightmare se...",
+      "published_utc": "2026-11-21T05:05:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/breaking-news/antonelli-claims-striking-las-vegas-pole-as-ferrari-suffer-double-humiliation",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T05:05:00+00:00",
+          "title": "Antonelli claims striking Las Vegas pole as Ferrari suffer double humiliation"
+        }
+      ]
+    },
+    {
+      "id": "30e8622843a7501a92fe248f",
+      "topic": "F1",
+      "title": "F1 Full Results | Verstappen inherits Las Vegas GP Pole, Antonelli fastest",
+      "url": "https://www.gpblog.com/en/news/f1-full-results-verstappen-inherits-las-vegas-gp-pole-antonelli-fastest",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Max Verstappen has secured Pole Position for the Las Vegas Grand Prix, giving himself the best possible chance of victory amid the glitz and glamour of the Strip Circuit. Battling cold track temperatures and limited representative running in Free Practice, Verstappen’s quickest lap time in Q3, a 1:...",
+      "published_utc": "2026-11-21T05:05:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/f1-full-results-verstappen-inherits-las-vegas-gp-pole-antonelli-fastest",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T05:05:00+00:00",
+          "title": "F1 Full Results | Verstappen inherits Las Vegas GP Pole, Antonelli fastest"
+        }
+      ]
+    },
+    {
+      "id": "1f9f7004b8a13f575fe3bc91",
+      "topic": "F1",
+      "title": "Ferrari nightmare as Hamilton and Leclerc suffer double qualifying blow",
+      "url": "https://www.gpblog.com/en/breaking-news/ferrari-nightmare-as-hamilton-and-leclerc-suffer-double-qualifying-blow",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Ferrari endured a disastrous qualifying session at the Las Vegas Grand Prix, with both Charles Leclerc and Lewis Hamilton eliminated in Q2. The Monegasque finished 11th, while his teammate could only manage 12th, leaving both drivers outside the top ten ahead of Sunday's race. Leclerc appeared to ha...",
+      "published_utc": "2026-11-21T04:49:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/breaking-news/ferrari-nightmare-as-hamilton-and-leclerc-suffer-double-qualifying-blow",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T04:49:00+00:00",
+          "title": "Ferrari nightmare as Hamilton and Leclerc suffer double qualifying blow"
+        }
+      ]
+    },
+    {
+      "id": "88ebde417814bc1dffa7d234",
+      "topic": "F1",
+      "title": "Unsafe release triggers FIA investigation after close call in Las Vegas",
+      "url": "https://www.gpblog.com/en/breaking-news/unsafe-release-triggers-fia-investigation-after-close-call-in-las-vegas",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Arvid Lindblad has been placed under investigation by the FIA stewards following a pit lane incident involving Alex Albon during Q2 at the Las Vegas Grand Prix. The incident occurred as Lindblad was leaving his garage while Albon was making his way through the pit lane. The Racing Bulls driver pulle...",
+      "published_utc": "2026-11-21T04:40:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/breaking-news/unsafe-release-triggers-fia-investigation-after-close-call-in-las-vegas",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T04:40:00+00:00",
+          "title": "Unsafe release triggers FIA investigation after close call in Las Vegas"
+        }
+      ]
+    },
+    {
+      "id": "86824e9df9eed4a0f425bd4e",
+      "topic": "F1",
+      "title": "FIA issues verdict after near-miss sparks Las Vegas investigation",
+      "url": "https://www.gpblog.com/en/breaking-news/fia-issues-verdict-after-near-miss-sparks-las-vegas-investigation",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Alexander Albon has received a formal reprimand from the FIA following an incident during the third free practice session at the Las Vegas Grand Prix. The Williams driver was investigated for erratic driving after forcing Isack Hadjar to take evasive action. The incident took place at Turn 17 during...",
+      "published_utc": "2026-11-21T04:28:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/breaking-news/fia-issues-verdict-after-near-miss-sparks-las-vegas-investigation",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T04:28:00+00:00",
+          "title": "FIA issues verdict after near-miss sparks Las Vegas investigation"
+        }
+      ]
+    },
+    {
+      "id": "fadbc648245eefae24e22427",
+      "topic": "F1",
+      "title": "FIA delivers verdict on Verstappen after heated Russell confrontation",
+      "url": "https://www.gpblog.com/en/breaking-news/verstappen-learns-fia-fate-after-explosive-russell-clash-in-las-vegas",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Max Verstappen's final practice session at the Las Vegas Grand Prix was followed by two separate FIA investigations involving George Russell and Franco Colapinto. The Red Bull driver faced scrutiny over both incidents ahead of qualifying, with the stewards now delivering their verdict on his heated...",
+      "published_utc": "2026-11-21T04:14:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/breaking-news/verstappen-learns-fia-fate-after-explosive-russell-clash-in-las-vegas",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T04:14:00+00:00",
+          "title": "FIA delivers verdict on Verstappen after heated Russell confrontation"
+        }
+      ]
+    },
+    {
+      "id": "7bc0cb37e0924a8acc091714",
+      "topic": "F1",
+      "title": "'That was a completely unnecessary risk, you don't want to make an enemy of Max'",
+      "url": "https://www.gpblog.com/en/news/that-was-a-completely-unnecessary-risk-you-dont-want-to-make-an-enemy-of-max",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Former Formula 1 world champion Jacques Villeneuve has criticised George Russell following his heated confrontation with Max Verstappen during FP3 at the Las Vegas Grand Prix. The Canadian believes the Mercedes driver took an unnecessary risk by attempting to reclaim his position from the Red Bull d...",
+      "published_utc": "2026-11-21T03:19:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/that-was-a-completely-unnecessary-risk-you-dont-want-to-make-an-enemy-of-max",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T03:19:00+00:00",
+          "title": "'That was a completely unnecessary risk, you don't want to make an enemy of Max'"
+        }
+      ]
+    },
+    {
+      "id": "b9d1c0acaf1ce77eb2c5b736",
+      "topic": "F1",
+      "title": "F1 LIVE | Antonelli quickest, Verstappen on Pole - Recap Las Vegas GP Qualifying!",
+      "url": "https://www.gpblog.com/en/live/f1-live-follow-the-fight-for-pole-in-las-vegas-gp-qualifying-here",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Welcome to GPblog's live coverage of qualifying for the 2026 Formula 1 Las Vegas Grand Prix. After a dramatic final practice session dominated by George Russell and overshadowed by two separate investigations involving Max Verstappen, the drivers are preparing to battle for pole position under the l...",
+      "published_utc": "2026-11-21T03:00:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/live/f1-live-follow-the-fight-for-pole-in-las-vegas-gp-qualifying-here",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T03:00:00+00:00",
+          "title": "F1 LIVE | Antonelli quickest, Verstappen on Pole - Recap Las Vegas GP Qualifying!"
+        }
+      ]
+    },
+    {
+      "id": "68694cbfb670a83d9578f595",
+      "topic": "F1",
+      "title": "Verstappen and Russell at war as explosive FP3 incident sparks FIA investigation",
+      "url": "https://www.gpblog.com/en/news/verstappen-and-russell-at-war-as-explosive-fp3-incident-sparks-investigation",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Max Verstappen and George Russell were involved in a heated confrontation during the closing stages of the third free practice session at the Las Vegas Grand Prix, with the two drivers making contact before the Dutchman showed his middle finger to the Mercedes driver. The incident will be investigat...",
+      "published_utc": "2026-11-21T01:54:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/verstappen-and-russell-at-war-as-explosive-fp3-incident-sparks-investigation",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T01:54:00+00:00",
+          "title": "Verstappen and Russell at war as explosive FP3 incident sparks FIA investigation"
+        }
+      ]
+    },
+    {
+      "id": "107be050d65f286ca0da89b1",
+      "topic": "F1",
+      "title": "F1 Full Results | Russell crushes rivals as Mercedes dominate Las Vegas FP3",
+      "url": "https://www.gpblog.com/en/news/f1-full-results-russell-untouchable-as-verstappen-struggles-in-las-vegas-fp3",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "George Russell topped the third and final free practice session at the 2026 Las Vegas Grand Prix, completing a dominant performance for Mercedes. The British driver finished almost a second ahead of teammate Kimi Antonelli, while Lando Norris secured third place ahead of Charles Leclerc and Franco C...",
+      "published_utc": "2026-11-21T01:42:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/f1-full-results-russell-untouchable-as-verstappen-struggles-in-las-vegas-fp3",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T01:42:00+00:00",
+          "title": "F1 Full Results | Russell crushes rivals as Mercedes dominate Las Vegas FP3"
+        }
+      ]
+    },
+    {
+      "id": "ca48ac072145258bc567ce9b",
+      "topic": "F1",
+      "title": "Russell in a league of his own as furious Verstappen faces double FP3 investigation",
+      "url": "https://www.gpblog.com/en/breaking-news/russell-in-a-league-of-his-own-as-furious-verstappen-faces-double-fp3-investigation",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "George Russell dominated the third and final free practice session at the Las Vegas Grand Prix, finishing almost a second clear of Mercedes teammate Kimi Antonelli. Meanwhile, Max Verstappen endured a frustrating session, finishing sixth and facing two separate stewards' investigations following inc...",
+      "published_utc": "2026-11-21T01:33:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/breaking-news/russell-in-a-league-of-his-own-as-furious-verstappen-faces-double-fp3-investigation",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T01:33:00+00:00",
+          "title": "Russell in a league of his own as furious Verstappen faces double FP3 investigation"
+        }
+      ]
+    },
+    {
+      "id": "f927bcaf0cd690c29a88aad0",
+      "topic": "F1",
+      "title": "Verstappen lands in hot water with stewards over Las Vegas GP FP3 incident",
+      "url": "https://www.gpblog.com/en/breaking-news/verstappen-lands-in-hot-water-with-stewards-over-las-vegas-gp-fp3-incident",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Max Verstappen and Franco Colapinto were involved in a potentially dangerous incident during the opening stages of the third free practice session at the Las Vegas Grand Prix, with race control taking note of the encounter between the two drivers. The incident occurred as Verstappen was weaving from...",
+      "published_utc": "2026-11-21T00:45:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/breaking-news/verstappen-lands-in-hot-water-with-stewards-over-las-vegas-gp-fp3-incident",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T00:45:00+00:00",
+          "title": "Verstappen lands in hot water with stewards over Las Vegas GP FP3 incident"
+        }
+      ]
+    },
+    {
+      "id": "9c09b10acd335919c4dbe7f0",
+      "topic": "F1",
+      "title": "Verstappen spells out what will decide how long he stays in F1",
+      "url": "https://www.gpblog.com/en/news/verstappen-spells-out-what-will-decide-how-long-he-stays-in-f1",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Max Verstappen has revealed what will determine when he decides to leave Formula 1. The four-time world champion is under contract with Red Bull until the end of the 2030 season, after signing a deal over the summer following speculation that he could leave the sport. The Dutchman had expressed frus...",
+      "published_utc": "2026-11-21T00:30:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/verstappen-spells-out-what-will-decide-how-long-he-stays-in-f1",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T00:30:00+00:00",
+          "title": "Verstappen spells out what will decide how long he stays in F1"
+        }
+      ]
+    },
+    {
+      "id": "7d982a6ad053b96f77d9eea3",
+      "topic": "F1",
+      "title": "F1 LIVE | Russell fastest in Las Vegas FP3, Verstappen faces stewards investigation",
+      "url": "https://www.gpblog.com/en/live/f1-live-follow-fp3-of-the-las-vegas-grand-prix-here",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Welcome to GPblog's live coverage of the third free practice session for the 2026 Formula 1 Las Vegas GP. After a remarkable opening session in which not a single driver managed to set a lap time, George Russell was able to top the times in FP2 under the lights of the Las Vegas Strip Circuit. Follow...",
+      "published_utc": "2026-11-20T23:30:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/live/f1-live-follow-fp3-of-the-las-vegas-grand-prix-here",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T23:30:00+00:00",
+          "title": "F1 LIVE | Russell fastest in Las Vegas FP3, Verstappen faces stewards investigation"
+        }
+      ]
+    },
+    {
+      "id": "85dee9dd1a817fd65b7a8474",
+      "topic": "F1",
+      "title": "Lawson accuses rival of once brake-testing him 'to screw my race'",
+      "url": "https://www.gpblog.com/en/news/lawson-accuses-rival-of-brake-testing-him-to-screw-my-race",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Liam Lawson has claimed Sergio Perez brake-tested him during the 2024 Mexico City Grand Prix, moments before the cameras caught him giving the former Red Bull driver the middle finger in front of his home crowd. The pair had already made contact while fighting for 10th place, leaving Perez with dama...",
+      "published_utc": "2026-11-20T23:00:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/lawson-accuses-rival-of-brake-testing-him-to-screw-my-race",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T23:00:00+00:00",
+          "title": "Lawson accuses rival of once brake-testing him 'to screw my race'"
+        }
+      ]
+    },
+    {
+      "id": "3c3a05b58a04a055262b4b74",
+      "topic": "F1",
+      "title": "Two teams breach the rules in Las Vegas",
+      "url": "https://www.gpblog.com/en/news/two-teams-breach-the-rules-in-las-vegas",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Williams and Haas broke the curfew for the first time this season on Thursday night into Friday morning. Members of both Formula 1 teams were still at the Las Vegas circuit during the mandatory rest period. This will have no sporting consequences for either team, as both were able to use one of thei...",
+      "published_utc": "2026-11-20T22:41:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/two-teams-breach-the-rules-in-las-vegas",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T22:41:00+00:00",
+          "title": "Two teams breach the rules in Las Vegas"
+        }
+      ]
+    },
+    {
+      "id": "077d2b3ae5b21144b98176e2",
+      "topic": "F1",
+      "title": "Cadillac boss makes bold claim about scale of changes still to come",
+      "url": "https://www.gpblog.com/en/news/cadillac-boss-makes-bold-claim-about-scale-of-changes-still-to-come",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Dan Towriss expects Cadillac to undergo more changes than any other team on the Formula 1 grid as it looks to improve its performance and move up the order. Cadillac are set to finish their maiden season in Formula 1 pointless, as veteran drivers Sergio Perez and Valtteri Bottas have languished at...",
+      "published_utc": "2026-11-20T22:00:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/cadillac-boss-makes-bold-claim-about-scale-of-changes-still-to-come",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T22:00:00+00:00",
+          "title": "Cadillac boss makes bold claim about scale of changes still to come"
+        }
+      ]
+    },
+    {
+      "id": "11ba3eddfa36d269dc37346a",
+      "topic": "F1",
+      "title": "McLaren forced to rethink new floor plans after Las Vegas rain",
+      "url": "https://www.gpblog.com/en/news/mclaren-forced-to-rethink-new-floor-plans-after-las-vegas-rain",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "McLaren has just one practice session left to assess its new floor before Las Vegas Grand Prix qualifying after deciding to keep the upgrade off both cars in Friday’s wet running. The team, coming off the back of a victory for Lando Norris in Brazil, brought a new floor for this weekend's race. Howe...",
+      "published_utc": "2026-11-20T21:00:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/mclaren-forced-to-rethink-new-floor-plans-after-las-vegas-rain",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T21:00:00+00:00",
+          "title": "McLaren forced to rethink new floor plans after Las Vegas rain"
+        }
+      ]
+    },
+    {
+      "id": "8d0d6b53eb321aced268af36",
+      "topic": "F1",
+      "title": "F1 Today: FIA confirm five Las Vegas penalties as rain hampers practice",
+      "url": "https://www.gpblog.com/en/news/f1-today-fia-confirm-five-las-vegas-penalties-as-rain-hampers-practice",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "The FIA have confirmed five drivers who will receive grid penalties for this weekend's Las Vegas Grand Prix, as running got off to a slow start after rain prevented drivers setting times during FP1. Here are the main stories from Friday, 20 November. The FIA have named five drivers who will receive...",
+      "published_utc": "2026-11-20T20:00:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/f1-today-fia-confirm-five-las-vegas-penalties-as-rain-hampers-practice",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T20:00:00+00:00",
+          "title": "F1 Today: FIA confirm five Las Vegas penalties as rain hampers practice"
+        }
+      ]
+    },
+    {
+      "id": "20776d4d1f938e863448ca19",
+      "topic": "F1",
+      "title": "FIA confirms unanimous agreement on V8 engines from 2030",
+      "url": "https://www.gpblog.com/en/news/fia-officially-confirms-agreement-on-v8-engines-from-2030",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Formula 1 is set to move on from its current generation of engines in 2030 after the FIA announced on Friday that unanimous agreement had been reached on the technical framework for the new power unit regulations. The plans call for a return to 2.1-litre turbocharged V8 engines with limited electric...",
+      "published_utc": "2026-11-20T18:41:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/fia-officially-confirms-agreement-on-v8-engines-from-2030",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T18:41:00+00:00",
+          "title": "FIA confirms unanimous agreement on V8 engines from 2030"
+        }
+      ]
+    },
+    {
+      "id": "6babd74488ec6fe6c0a6a266",
+      "topic": "F1",
+      "title": "Mercedes talent Vesti sees F1 opportunities as veteran drivers near exit",
+      "url": "https://www.gpblog.com/en/interview/mercedes-talent-vesti-sees-f1-opportunities-as-veteran-drivers-near-exit",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Frederik Vesti is not disappointed that a Formula 1 seat is out of reach in 2027. The Dane has enjoyed a successful season, making a significant contribution to Mercedes' world titles and winning the IMSA team championship with Cadillac. In an exclusive interview with GPblog, Vesti explains why he i...",
+      "published_utc": "2026-11-20T18:15:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/interview/mercedes-talent-vesti-sees-f1-opportunities-as-veteran-drivers-near-exit",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T18:15:00+00:00",
+          "title": "Mercedes talent Vesti sees F1 opportunities as veteran drivers near exit"
+        }
+      ]
+    },
+    {
+      "id": "f37443a6b938c1622e57f0f7",
+      "topic": "F1",
+      "title": "Major changes at Ford: Red Bull partner gets a new boss",
+      "url": "https://www.gpblog.com/en/news/major-changes-at-ford-red-bull-partner-gets-a-new-boss",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Ford Racing has announced a major change in leadership. Pascal Zurlinden will become the new Global Director of Ford’s motorsport division from January 1, 2027. At the same time, Mark Rushbrook will take on a new role in which he will focus entirely on the American automaker’s international racing p...",
+      "published_utc": "2026-11-20T17:58:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/major-changes-at-ford-red-bull-partner-gets-a-new-boss",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T17:58:00+00:00",
+          "title": "Major changes at Ford: Red Bull partner gets a new boss"
+        }
+      ]
+    },
+    {
+      "id": "325f6d6283bc5023e1e48243",
+      "topic": "F1",
+      "title": "Formula E car explodes in terrifying pre-season test fire at Jarama",
+      "url": "https://www.gpblog.com/en/news/formula-e-car-explodes-in-terrifying-pre-season-test-fire-at-jarama",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "The final day of Formula E testing at Spain's Jarama circuit came to an terrifying end on Friday after Taylor Barnard's car caught fire and exploded. The British driver was out of his car before the explosion. Formula E teams are at Jarama this week to prepare for the new season which gets underway...",
+      "published_utc": "2026-11-20T17:35:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/formula-e-car-explodes-in-terrifying-pre-season-test-fire-at-jarama",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T17:35:00+00:00",
+          "title": "Formula E car explodes in terrifying pre-season test fire at Jarama"
+        }
+      ]
+    },
+    {
+      "id": "5bf63001be60adf5a937a3b2",
+      "topic": "F1",
+      "title": "Major TV broadcaster decides to cover Qatar Grand Prix remotely",
+      "url": "https://www.gpblog.com/en/news/major-tv-broadcaster-decides-to-boycott-qatar-grand-prix",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Sky Germany will cover the Qatar Grand Prix from Munich after its Formula 1 crew decided against travelling to the race over safety concerns, according to BILD. The German broadcaster left the decision on whether to travel to its presenters and commentators, who all opted to stay in Germany, the Ger...",
+      "published_utc": "2026-11-20T16:51:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/major-tv-broadcaster-decides-to-boycott-qatar-grand-prix",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T16:51:00+00:00",
+          "title": "Major TV broadcaster decides to cover Qatar Grand Prix remotely"
+        }
+      ]
+    },
+    {
+      "id": "1e4d21a0a54a7b54c9242e24",
+      "topic": "F1",
+      "title": "Marquez and Martin secure Q2 spots as Ducati shows pace in Portugal",
+      "url": "https://www.gpblog.com/en/motogp/motogp-practice-results-martin-narrowly-secures-q2-spot-in-portugal",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Alex Marquez topped the timed practice session ahead of Fabio Di Giannantonio and Marco Bezzecchi, as all three riders that can still mathematically win this year's title qualified to Q2. With 15 minutes to go, Marc Marquez was still sitting outside of the top 10, but the Ducati rider then quickly i...",
+      "published_utc": "2026-11-20T16:06:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/motogp/motogp-practice-results-martin-narrowly-secures-q2-spot-in-portugal",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T16:06:00+00:00",
+          "title": "Marquez and Martin secure Q2 spots as Ducati shows pace in Portugal"
+        }
+      ]
+    },
+    {
+      "id": "606dda94e2d3721ff5bf5af2",
+      "topic": "F1",
+      "title": "F1’s full-time stewards: what will actually change in 2027?",
+      "url": "https://www.gpblog.com/en/analysis/f1s-full-time-stewards-what-will-actually-change-in-2027",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Formula 1 will begin introducing full-time stewards in 2027, in a move designed to bring greater continuity to race officiating. But the FIA’s announcement is not a promise that controversial decisions will vanish overnight. The governing body says it will recruit a small number of experienced inter...",
+      "published_utc": "2026-11-20T16:00:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/analysis/f1s-full-time-stewards-what-will-actually-change-in-2027",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T16:00:00+00:00",
+          "title": "F1’s full-time stewards: what will actually change in 2027?"
+        }
+      ]
+    },
+    {
+      "id": "eff9e5860736a9aee0a28310",
+      "topic": "F1",
+      "title": "Pirelli steps in again, requiring F1 teams to make two pit stops in Qatar",
+      "url": "https://www.gpblog.com/en/breaking-news/pirelli-steps-in-again-requiring-f1-teams-to-make-two-pit-stops-in-qatar",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Pirelli is once again imposing a limit on the number of laps Formula 1 drivers can complete on a single set of tyres at the Qatar Grand Prix. As was the case last year, the measure is being introduced for safety reasons. However, Max Verstappen and his fellow drivers will be allowed to run slightly...",
+      "published_utc": "2026-11-20T15:30:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/breaking-news/pirelli-steps-in-again-requiring-f1-teams-to-make-two-pit-stops-in-qatar",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T15:30:00+00:00",
+          "title": "Pirelli steps in again, requiring F1 teams to make two pit stops in Qatar"
+        }
+      ]
+    },
+    {
+      "id": "ae10abc878370ff0f11cca3e",
+      "topic": "F1",
+      "title": "Max Verstappen remains tight-lipped over growing Red Bull problem",
+      "url": "https://racingnews365.com/max-verstappen-remains-tight-lipped-over-growing-red-bull-problem",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Max Verstappen continues to battle a steering issue with his RB22.",
+      "published_utc": "2026-11-21T14:45:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/max-verstappen-remains-tight-lipped-over-growing-red-bull-problem",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T14:45:00+00:00",
+          "title": "Max Verstappen remains tight-lipped over growing Red Bull problem"
+        }
+      ]
+    },
+    {
+      "id": "408191005286e0a942c9a949",
+      "topic": "F1",
+      "title": "Endless war between Max Verstappen and George Russell enters new chapter",
+      "url": "https://racingnews365.com/endless-war-between-max-verstappen-and-george-russell-enters-new-chapter",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "History has a funny tendency to repeat itself, and F1 is no different. That is true of the fractious relationship between Max Verstappen and George Russell, which has entered a new chapter.",
+      "published_utc": "2026-11-21T14:20:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/endless-war-between-max-verstappen-and-george-russell-enters-new-chapter",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T14:20:00+00:00",
+          "title": "Endless war between Max Verstappen and George Russell enters new chapter"
+        }
+      ]
+    },
+    {
+      "id": "b899618d118a7efeb54d4958",
+      "topic": "F1",
+      "title": "Fernando Alonso addresses potential Honda safety concern in Las Vegas",
+      "url": "https://racingnews365.com/fernando-alonso-addresses-potential-honda-safety-concern-in-las-vegas",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Fernando Alonso has had his say over potential safety concerns for the Aston Martin-Honda team in Las Vegas.",
+      "published_utc": "2026-11-21T14:00:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/fernando-alonso-addresses-potential-honda-safety-concern-in-las-vegas",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T14:00:00+00:00",
+          "title": "Fernando Alonso addresses potential Honda safety concern in Las Vegas"
+        }
+      ]
+    },
+    {
+      "id": "2ac9256cef1515e772133ffa",
+      "topic": "F1",
+      "title": "Max Verstappen issues blunt two-word response after George Russell collision",
+      "url": "https://racingnews365.com/max-verstappen-issues-blunt-two-word-response-after-george-russell-collision",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Max Verstappen had little to say about George Russell and their FP3 incident",
+      "published_utc": "2026-11-21T13:15:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/max-verstappen-issues-blunt-two-word-response-after-george-russell-collision",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T13:15:00+00:00",
+          "title": "Max Verstappen issues blunt two-word response after George Russell collision"
+        }
+      ]
+    },
+    {
+      "id": "9066edaf2e1cfc60c1b3798d",
+      "topic": "F1",
+      "title": "McLaren explain how a plastic bag derailed surprising Lando Norris attack",
+      "url": "https://racingnews365.com/mclaren-explain-how-a-plastic-bag-derailed-surprising-lando-norris-attack",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "A rogue plastic bag had a huge effect on Lando Norris's stunning performance in qualifying.",
+      "published_utc": "2026-11-21T12:30:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/mclaren-explain-how-a-plastic-bag-derailed-surprising-lando-norris-attack",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T12:30:00+00:00",
+          "title": "McLaren explain how a plastic bag derailed surprising Lando Norris attack"
+        }
+      ]
+    },
+    {
+      "id": "66e998e088f26d0165dfa192",
+      "topic": "F1",
+      "title": "Exclusive: Oliver Bearman exploring shock move to F1 rival as Haas contract delay rumbles on",
+      "url": "https://racingnews365.com/oliver-bearman-exploring-shock-move-to-f1-rival-as-haas-contract-delay-rumbles-on",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "RacingNews365 understands that Oliver Bearman is exploring a shock move away from Haas as his F1 contract delay rumbles on.",
+      "published_utc": "2026-11-21T11:56:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/oliver-bearman-exploring-shock-move-to-f1-rival-as-haas-contract-delay-rumbles-on",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T11:56:00+00:00",
+          "title": "Exclusive: Oliver Bearman exploring shock move to F1 rival as Haas contract delay rumbles on"
+        }
+      ]
+    },
+    {
+      "id": "1680ca65d194eb218e3b2222",
+      "topic": "F1",
+      "title": "Kimi Antonelli scolded for 'nasty' George Russell ploy: 'He will be really upset'",
+      "url": "https://racingnews365.com/kimi-antonelli-scolded-for-nasty-george-russell-ploy-he-will-be-really-upset",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Kimi Antonelli has been criticised by Jacques Villeneuve for not helping Mercedes team-mate George Russell during qualifying for the Las Vegas Grand Prix.",
+      "published_utc": "2026-11-21T11:45:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/kimi-antonelli-scolded-for-nasty-george-russell-ploy-he-will-be-really-upset",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T11:45:00+00:00",
+          "title": "Kimi Antonelli scolded for 'nasty' George Russell ploy: 'He will be really upset'"
+        }
+      ]
+    },
+    {
+      "id": "60016c50b670a24f7b1735e3",
+      "topic": "F1",
+      "title": "Las Vegas starting grid heavily adjusted after FIVE driver penalties",
+      "url": "https://racingnews365.com/las-vegas-starting-grid-heavily-adjusted-after-five-driver-penalties",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Check out the full adjusted starting grid from the 2026 F1 Las Vegas Grand Prix!",
+      "published_utc": "2026-11-21T11:00:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/las-vegas-starting-grid-heavily-adjusted-after-five-driver-penalties",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T11:00:00+00:00",
+          "title": "Las Vegas starting grid heavily adjusted after FIVE driver penalties"
+        }
+      ]
+    },
+    {
+      "id": "927a95902aede5ca5ca1eca4",
+      "topic": "F1",
+      "title": "Oliver Bearman makes Haas demand after 'scary' experience: 'We’ve got a big issue'",
+      "url": "https://racingnews365.com/oliver-bearman-makes-haas-demand-after-scary-experience-weve-got-a-big-issue",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Haas saw both of their drivers suffer dramatic spins at Turn 1 on Friday at the Las Vegas Grand Prix.",
+      "published_utc": "2026-11-21T10:15:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/oliver-bearman-makes-haas-demand-after-scary-experience-weve-got-a-big-issue",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T10:15:00+00:00",
+          "title": "Oliver Bearman makes Haas demand after 'scary' experience: 'We’ve got a big issue'"
+        }
+      ]
+    },
+    {
+      "id": "a01cf58996612a0cd750a1c2",
+      "topic": "F1",
+      "title": "Lando Norris demands McLaren fix after 'horrendous' handicap exposed",
+      "url": "https://racingnews365.com/lando-norris-demands-mclaren-fix-after-horrendous-handicap-exposed",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Lando Norris will start third on the grid in Las Vegas but is far from happy with the MCL40 machine underneath him.",
+      "published_utc": "2026-11-21T09:30:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/lando-norris-demands-mclaren-fix-after-horrendous-handicap-exposed",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T09:30:00+00:00",
+          "title": "Lando Norris demands McLaren fix after 'horrendous' handicap exposed"
+        }
+      ]
+    },
+    {
+      "id": "ddf2ec10aa2f30595527fa90",
+      "topic": "F1",
+      "title": "Russell reignites Verstappen feud as Antonelli feat branded ‘extreme’",
+      "url": "https://racingnews365.com/russell-reignites-verstappen-feud-as-antonelli-feat-branded-extreme",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Kimi Antonelli set the quickest lap in Las Vegas Grand Prix qualifying following an “extreme” tow, although it is Max Verstappen who will start from pole in Sin City. Verstappen qualified in second but inherits pole due to Antonelli having a five-place grid penalty, demoting the 2026 world champion from pole to sixth on the grid. George Russell joi",
+      "published_utc": "2026-11-21T09:15:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/russell-reignites-verstappen-feud-as-antonelli-feat-branded-extreme",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T09:15:00+00:00",
+          "title": "Russell reignites Verstappen feud as Antonelli feat branded ‘extreme’"
+        }
+      ]
+    },
+    {
+      "id": "4e6d793b6ff85f88831a8f63",
+      "topic": "F1",
+      "title": "Toto Wolff 'has no clue' how Kimi Antonelli was able to pull off impossible F1 lap",
+      "url": "https://racingnews365.com/toto-wolff-has-no-clue-how-kimi-antonelli-was-able-to-pull-off-impossible-f1-lap",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Kimi Antonelli surprisingly set the fastest time in qualifying for the Las Vegas Grand Prix.",
+      "published_utc": "2026-11-21T08:45:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/toto-wolff-has-no-clue-how-kimi-antonelli-was-able-to-pull-off-impossible-f1-lap",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T08:45:00+00:00",
+          "title": "Toto Wolff 'has no clue' how Kimi Antonelli was able to pull off impossible F1 lap"
+        }
+      ]
+    },
+    {
+      "id": "c4995949d2e5927131373fa6",
+      "topic": "F1",
+      "title": "Liam Lawson expresses 'buried' fear after stressful Las Vegas experience",
+      "url": "https://racingnews365.com/liam-lawson-expresses-buried-fear-after-stressful-las-vegas-experience",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Liam Lawson prevailed through a testing qualifying session at the Las Vegas Grand Prix, but was left with questions to be answered about his Racing Bulls car.",
+      "published_utc": "2026-11-21T08:00:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/liam-lawson-expresses-buried-fear-after-stressful-las-vegas-experience",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T08:00:00+00:00",
+          "title": "Liam Lawson expresses 'buried' fear after stressful Las Vegas experience"
+        }
+      ]
+    },
+    {
+      "id": "8b05329d8244db2e3f5629d0",
+      "topic": "F1",
+      "title": "Charles Leclerc 'frustration building' as mistakes wreck 'painful' Las Vegas qualifying",
+      "url": "https://racingnews365.com/charles-leclerc-frustration-building-as-mistakes-wreck-painful-las-vegas-qualifying",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Charles Leclerc was downtrodden after a miserable qualifying session at the Las Vegas Grand Prix, where he will start in P10, just ahead of Ferrari team-mate Lewis Hamilton.",
+      "published_utc": "2026-11-21T07:15:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/charles-leclerc-frustration-building-as-mistakes-wreck-painful-las-vegas-qualifying",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T07:15:00+00:00",
+          "title": "Charles Leclerc 'frustration building' as mistakes wreck 'painful' Las Vegas qualifying"
+        }
+      ]
+    },
+    {
+      "id": "9e11f9e2c1c5b046ea7acf59",
+      "topic": "F1",
+      "title": "George Russell reignites fiery Max Verstappen feud: 'Someone has to stand up to that guy'",
+      "url": "https://racingnews365.com/george-russell-reignites-fiery-max-verstappen-feud-someone-has-to-stand-up-to-that-guy",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "George Russell and Max Verstappen were involved in a clash on the track at the end of FP3 in Las Vegas.",
+      "published_utc": "2026-11-21T06:30:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/george-russell-reignites-fiery-max-verstappen-feud-someone-has-to-stand-up-to-that-guy",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T06:30:00+00:00",
+          "title": "George Russell reignites fiery Max Verstappen feud: 'Someone has to stand up to that guy'"
+        }
+      ]
+    },
+    {
+      "id": "0a5e2dcb3a918c2e773ed150",
+      "topic": "F1",
+      "title": "Lewis Hamilton reveals cause behind shock Las Vegas qualifying early exit",
+      "url": "https://racingnews365.com/lewis-hamilton-reveals-cause-behind-shock-las-vegas-qualifying-early-exit",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Lewis Hamilton suffered a shock Q2 exit during qualifying at the Las Vegas Grand Prix, alongside team-mate Charles Leclerc.",
+      "published_utc": "2026-11-21T05:45:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/lewis-hamilton-reveals-cause-behind-shock-las-vegas-qualifying-early-exit",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T05:45:00+00:00",
+          "title": "Lewis Hamilton reveals cause behind shock Las Vegas qualifying early exit"
+        }
+      ]
+    },
+    {
+      "id": "68d09771d7cdc7614e9ddc62",
+      "topic": "F1",
+      "title": "Max Verstappen nursing lingering F1 car issue in Las Vegas pole surprise",
+      "url": "https://racingnews365.com/max-verstappen-nursing-lingering-f1-car-issue-in-las-vegas-pole-surprise",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Max Verstappen will start Saturday's Las Vegas Grand Prix from P1 after inheriting pole position from a penalised Kimi Antonelli.",
+      "published_utc": "2026-11-21T05:35:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/max-verstappen-nursing-lingering-f1-car-issue-in-las-vegas-pole-surprise",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T05:35:00+00:00",
+          "title": "Max Verstappen nursing lingering F1 car issue in Las Vegas pole surprise"
+        }
+      ]
+    },
+    {
+      "id": "c28af44d5d918f82da3bd8eb",
+      "topic": "F1",
+      "title": "Kimi Antonelli reveals 'screwed' fear in chaotic end to Las Vegas qualifying",
+      "url": "https://racingnews365.com/kimi-antonelli-reveals-screwed-fear-in-chaotic-end-to-las-vegas-qualifying",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Kimi Antonelli prevailed through a messy end to qualifying for the Las Vegas Grand Prix, going quickest. However, he will not start from pole.",
+      "published_utc": "2026-11-21T05:24:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/kimi-antonelli-reveals-screwed-fear-in-chaotic-end-to-las-vegas-qualifying",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T05:24:00+00:00",
+          "title": "Kimi Antonelli reveals 'screwed' fear in chaotic end to Las Vegas qualifying"
+        }
+      ]
+    },
+    {
+      "id": "6e85eff86d4d1f047be401b9",
+      "topic": "F1",
+      "title": "Max Verstappen inherits Las Vegas pole as Ferrari suffer double elimination embarrassment",
+      "url": "https://racingnews365.com/max-verstappen-inherits-las-vegas-pole-as-ferrari-suffer-double-elimination-embarrassment",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Max Verstappen will start the Las Vegas GP from pole position, despite qualifying behind Kimi Antonelli.",
+      "published_utc": "2026-11-21T05:11:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/max-verstappen-inherits-las-vegas-pole-as-ferrari-suffer-double-elimination-embarrassment",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T05:11:00+00:00",
+          "title": "Max Verstappen inherits Las Vegas pole as Ferrari suffer double elimination embarrassment"
+        }
+      ]
+    },
+    {
+      "id": "44474ad2083f8930e27ece60",
+      "topic": "F1",
+      "title": "LIVE: Reaction as Antonelli 'wins' qualifying but Verstappen on Las Vegas pole",
+      "url": "https://racingnews365.com/live-2026-f1-las-vegas-grand-prix-qualifying",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Follow all the action live from qualifying as the 2026 F1 Las Vegas Grand Prix weekend heats up.",
+      "published_utc": "2026-11-21T05:07:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/live-2026-f1-las-vegas-grand-prix-qualifying",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T05:07:00+00:00",
+          "title": "LIVE: Reaction as Antonelli 'wins' qualifying but Verstappen on Las Vegas pole"
+        }
+      ]
+    },
+    {
+      "id": "3c84b8dadd5ea818b209a7c3",
+      "topic": "F1",
+      "title": "2026 F1 Las Vegas Grand Prix - Qualifying results",
+      "url": "https://racingnews365.com/2026-f1-las-vegas-grand-prix-qualifying-results",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Check out the full results from qualifying ahead of this weekend's Las Vegas Grand Prix.",
+      "published_utc": "2026-11-21T05:05:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/2026-f1-las-vegas-grand-prix-qualifying-results",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T05:05:00+00:00",
+          "title": "2026 F1 Las Vegas Grand Prix - Qualifying results"
+        }
+      ]
+    },
+    {
+      "id": "3000a004207d19e849748eec",
+      "topic": "F1",
+      "title": "Ferrari suffer double Las Vegas disaster with miserable qualifying result",
+      "url": "https://racingnews365.com/ferrari-suffer-double-las-vegas-disaster-with-miserable-qualifying-result",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Charles Leclerc and Lewis Hamilton have both failed to reach Q3 at the Las Vegas Grand Prix in a torrid qualifying session for the Scuderia.",
+      "published_utc": "2026-11-21T04:50:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/ferrari-suffer-double-las-vegas-disaster-with-miserable-qualifying-result",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T04:50:00+00:00",
+          "title": "Ferrari suffer double Las Vegas disaster with miserable qualifying result"
+        }
+      ]
+    },
+    {
+      "id": "ce33aec15173831b574b81b0",
+      "topic": "F1",
+      "title": "Max Verstappen learns fate after second Las Vegas investigation",
+      "url": "https://racingnews365.com/max-verstappen-discovers-fate-after-second-las-vegas-stewards-investigation",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "This was one of two incidents involving Max Verstappen in a crazy final practice.",
+      "published_utc": "2026-11-21T04:29:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/max-verstappen-discovers-fate-after-second-las-vegas-stewards-investigation",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T04:29:00+00:00",
+          "title": "Max Verstappen learns fate after second Las Vegas investigation"
+        }
+      ]
+    },
+    {
+      "id": "4904080be6af16e85f57d9d1",
+      "topic": "F1",
+      "title": "Max Verstappen discovers stewards' verdict after George Russell Las Vegas clash",
+      "url": "https://racingnews365.com/max-verstappen-discovers-stewards-verdict-after-george-russell-las-vegas-clash",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "The incident brought up memories of their infamous Spanish GP clash from last year.",
+      "published_utc": "2026-11-21T04:13:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/max-verstappen-discovers-stewards-verdict-after-george-russell-las-vegas-clash",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T04:13:00+00:00",
+          "title": "Max Verstappen discovers stewards' verdict after George Russell Las Vegas clash"
+        }
+      ]
+    },
+    {
+      "id": "96de8444298184d394b79811",
+      "topic": "F1",
+      "title": "George Russell handed stark warning over 'making an enemy' of Max Verstappen",
+      "url": "https://racingnews365.com/george-russell-handed-stark-warning-over-making-an-enemy-of-max-verstappen",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "George Russell and Max Verstappen came to blows in the closing stages of free practice on Friday night in Las Vegas.",
+      "published_utc": "2026-11-21T01:58:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/george-russell-handed-stark-warning-over-making-an-enemy-of-max-verstappen",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T01:58:00+00:00",
+          "title": "George Russell handed stark warning over 'making an enemy' of Max Verstappen"
+        }
+      ]
+    },
+    {
+      "id": "908ef48728f82fdfaf0106cb",
+      "topic": "F1",
+      "title": "Max Verstappen faces double stewards investigation as George Russell sets Las Vegas pace",
+      "url": "https://racingnews365.com/max-verstappen-faces-double-stewards-investigation-as-george-russell-sets-las-vegas-pace",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "It was a miserable session for Max Verstappen, whilst George Russell strengthened his grip in final practice.",
+      "published_utc": "2026-11-21T01:40:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/max-verstappen-faces-double-stewards-investigation-as-george-russell-sets-las-vegas-pace",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T01:40:00+00:00",
+          "title": "Max Verstappen faces double stewards investigation as George Russell sets Las Vegas pace"
+        }
+      ]
+    },
+    {
+      "id": "3cd848a0761c071e173fc376",
+      "topic": "F1",
+      "title": "2026 F1 Las Vegas Grand Prix - Free Practice 3 results",
+      "url": "https://racingnews365.com/2026-f1-las-vegas-grand-prix-free-practice-3-results",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Check out the full results from third practice ahead of this weekend's Las Vegas Grand Prix.",
+      "published_utc": "2026-11-21T01:30:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/2026-f1-las-vegas-grand-prix-free-practice-3-results",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T01:30:00+00:00",
+          "title": "2026 F1 Las Vegas Grand Prix - Free Practice 3 results"
+        }
+      ]
+    },
+    {
+      "id": "4ebe1a47c923cb5cde803b05",
+      "topic": "F1",
+      "title": "Max Verstappen under investigation after 'erratic' incident with Franco Colapinto",
+      "url": "https://racingnews365.com/max-verstappen-under-investigation-after-erratic-incident-with-franco-colapinto",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Clearly, Max Verstappen appeared to have no idea Franco Colapinto was near him.",
+      "published_utc": "2026-11-21T00:55:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/max-verstappen-under-investigation-after-erratic-incident-with-franco-colapinto",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T00:55:00+00:00",
+          "title": "Max Verstappen under investigation after 'erratic' incident with Franco Colapinto"
+        }
+      ]
+    },
+    {
+      "id": "7b28d144cc5bcbfafc0ce98a",
+      "topic": "F1",
+      "title": "LIVE: 2026 F1 Las Vegas Grand Prix - Free Practice 3",
+      "url": "https://racingnews365.com/live-2026-f1-las-vegas-grand-prix-free-practice-3",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Follow all the action live from Free Practice 3 as the 2026 F1 Las Vegas Grand Prix weekend continues.",
+      "published_utc": "2026-11-21T00:00:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/live-2026-f1-las-vegas-grand-prix-free-practice-3",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T00:00:00+00:00",
+          "title": "LIVE: 2026 F1 Las Vegas Grand Prix - Free Practice 3"
+        }
+      ]
+    },
+    {
+      "id": "02299e6c0522ea90fbee483e",
+      "topic": "F1",
+      "title": "F1 announces huge change as Formula E fireball ends testing – RacingNews365 Review",
+      "url": "https://racingnews365.com/f1-announces-huge-change-as-formula-e-fireball-ends-testing-racingnews365-review",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Check out the biggest stories of the day from the opening day of Las Vegas Grand Prix track action.",
+      "published_utc": "2026-11-20T21:00:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/f1-announces-huge-change-as-formula-e-fireball-ends-testing-racingnews365-review",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T21:00:00+00:00",
+          "title": "F1 announces huge change as Formula E fireball ends testing – RacingNews365 Review"
+        }
+      ]
+    },
+    {
+      "id": "5dd9f7bec61b6b2f9717e52e",
+      "topic": "F1",
+      "title": "Liam Lawson handed overwhelming consensus over Red Bull driver conundrum",
+      "url": "https://racingnews365.com/liam-lawson-handed-overwhelming-consensus-over-red-bull-driver-conundrum",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Liam Lawson will suit up for Racing Bulls in F1 next season. But has he done enough for a permanent recall to Red Bull?",
+      "published_utc": "2026-11-20T19:00:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/liam-lawson-handed-overwhelming-consensus-over-red-bull-driver-conundrum",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T19:00:00+00:00",
+          "title": "Liam Lawson handed overwhelming consensus over Red Bull driver conundrum"
+        }
+      ]
+    },
+    {
+      "id": "9328ee2a0608a9f7e82d6300",
+      "topic": "F1",
+      "title": "F1 set for major V8 engine rule change after agreement finally reached",
+      "url": "https://racingnews365.com/f1-set-for-major-v8-engine-rule-change-after-agreement-finally-reached",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "A return to V8 engines is on the horizon following a key meeting between the FIA and manufacturers.",
+      "published_utc": "2026-11-20T18:29:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/f1-set-for-major-v8-engine-rule-change-after-agreement-finally-reached",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T18:29:00+00:00",
+          "title": "F1 set for major V8 engine rule change after agreement finally reached"
+        }
+      ]
+    },
+    {
+      "id": "5d674d804d15604be0d30a66",
+      "topic": "F1",
+      "title": "Ford Racing announces major leadership change ahead of historic programme",
+      "url": "https://racingnews365.com/ford-racing-announces-major-leadership-change-ahead-of-historic-programme",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Significant steps taken to drive Ford Racing forward.",
+      "published_utc": "2026-11-20T18:18:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/ford-racing-announces-major-leadership-change-ahead-of-historic-programme",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T18:18:00+00:00",
+          "title": "Ford Racing announces major leadership change ahead of historic programme"
+        }
+      ]
+    },
+    {
+      "id": "8f5bd67cf64f182d0fb4a403",
+      "topic": "F1",
+      "title": "Colton Herta has 'decided on a direction' after Cadillac F1 seat snub",
+      "url": "https://racingnews365.com/colton-herta-has-decided-on-a-direction-after-cadillac-f1-seat-snub",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Colton Herta will not race for Cadillac next year, but he remains an option for the 2028 campaign.",
+      "published_utc": "2026-11-20T18:15:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/colton-herta-has-decided-on-a-direction-after-cadillac-f1-seat-snub",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T18:15:00+00:00",
+          "title": "Colton Herta has 'decided on a direction' after Cadillac F1 seat snub"
+        }
+      ]
+    },
+    {
+      "id": "60baf378218b674f52608afb",
+      "topic": "F1",
+      "title": "McLaren missing vital 'evidence' as rain destroys Las Vegas plan",
+      "url": "https://racingnews365.com/mclaren-missing-vital-evidence-as-rain-destroys-las-vegas-plan",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "McLaren was unable to test its brand new floor at the Las Vegas Grand Prix, thanks to washout conditions in the rain.",
+      "published_utc": "2026-11-20T17:30:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/mclaren-missing-vital-evidence-as-rain-destroys-las-vegas-plan",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T17:30:00+00:00",
+          "title": "McLaren missing vital 'evidence' as rain destroys Las Vegas plan"
+        }
+      ]
+    },
+    {
+      "id": "711127ef8655bb2f1ed59e6e",
+      "topic": "F1",
+      "title": "2027 Formula E pre-season testing - Madrid overall results",
+      "url": "https://racingnews365.com/2027-formula-e-pre-season-testing-madrid-overall-results",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Check out the full overall results from Formula E's 2027 pre-season test, held in Madrid at the Circuito del Jarama.",
+      "published_utc": "2026-11-20T17:04:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/2027-formula-e-pre-season-testing-madrid-overall-results",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T17:04:00+00:00",
+          "title": "2027 Formula E pre-season testing - Madrid overall results"
+        }
+      ]
+    },
+    {
+      "id": "e8bc382d2ac27d22ad42cf10",
+      "topic": "F1",
+      "title": "Lewis Hamilton issues Ferrari demand as Las Vegas GP opportunity beckons",
+      "url": "https://racingnews365.com/lewis-hamilton-issues-ferrari-demand-as-las-vegas-gp-opportunity-beckons",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Lewis Hamilton is hopeful Ferrari can make the most of limited practice running in dry conditions on Friday in Las Vegas.",
+      "published_utc": "2026-11-20T16:40:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/lewis-hamilton-issues-ferrari-demand-as-las-vegas-gp-opportunity-beckons",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T16:40:00+00:00",
+          "title": "Lewis Hamilton issues Ferrari demand as Las Vegas GP opportunity beckons"
+        }
+      ]
+    },
+    {
+      "id": "02718a0525de4df90171c0a1",
+      "topic": "F1",
+      "title": "Terrifying Formula E car explosion concludes pre-season testing",
+      "url": "https://racingnews365.com/terrifying-formula-e-car-explosion-concludes-pre-season-testing",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Formula E's 2027 pre-season test has officially concluded, following the final two sessions of the week in Madrid.",
+      "published_utc": "2026-11-20T16:23:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/terrifying-formula-e-car-explosion-concludes-pre-season-testing",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T16:23:00+00:00",
+          "title": "Terrifying Formula E car explosion concludes pre-season testing"
+        }
+      ]
+    },
+    {
+      "id": "1cae7b9adb35b6eec07b5926",
+      "topic": "F1",
+      "title": "2027 Formula E pre-season testing - Madrid Day 3 afternoon results",
+      "url": "https://racingnews365.com/2027-formula-e-pre-season-testing-madrid-day-3-afternoon-results",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Check out the full results from the third and final day afternoon session of Formula E's 2027 pre-season test, held in Madrid at the Circuito del Jarama.",
+      "published_utc": "2026-11-20T16:00:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/2027-formula-e-pre-season-testing-madrid-day-3-afternoon-results",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T16:00:00+00:00",
+          "title": "2027 Formula E pre-season testing - Madrid Day 3 afternoon results"
+        }
+      ]
+    },
+    {
+      "id": "b60931aad98c3bcdacbad225",
+      "topic": "F1",
+      "title": "2026 F1 Las Vegas Grand Prix qualifying start time",
+      "url": "https://racingnews365.com/2026-f1-las-vegas-grand-prix-qualifying-start-time",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Find out the qualifying start time for the 2026 F1 Las Vegas Grand Prix!",
+      "published_utc": "2026-11-20T15:50:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/2026-f1-las-vegas-grand-prix-qualifying-start-time",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T15:50:00+00:00",
+          "title": "2026 F1 Las Vegas Grand Prix qualifying start time"
+        }
+      ]
+    },
+    {
+      "id": "dc40b032cdffbc29d87f34cc",
+      "topic": "F1",
+      "title": "Formula E car explodes in terrifying pre-season testing fireball",
+      "url": "https://racingnews365.com/formula-e-car-explodes-in-terrifying-pre-season-testing-fireball",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Formula E testing in Madrid has drawn to a terrifying end.",
+      "published_utc": "2026-11-20T15:26:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/formula-e-car-explodes-in-terrifying-pre-season-testing-fireball",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T15:26:00+00:00",
+          "title": "Formula E car explodes in terrifying pre-season testing fireball"
+        }
+      ]
+    },
+    {
+      "id": "f63850e1fb0d31b0a56ae907",
+      "topic": "F1",
+      "title": "Lando Norris identifies 'important work' for McLaren after Las Vegas curveball",
+      "url": "https://racingnews365.com/lando-norris-identifies-important-work-for-mclaren-after-las-vegas-curveball",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Lando Norris has pinpointed some \"important work\" McLaren must undertake after the weather played a critical role in FP1 and FP2 at the Las Vegas Grand Prix.",
+      "published_utc": "2026-11-20T15:00:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/lando-norris-identifies-important-work-for-mclaren-after-las-vegas-curveball",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T15:00:00+00:00",
+          "title": "Lando Norris identifies 'important work' for McLaren after Las Vegas curveball"
+        }
+      ]
+    },
+    {
+      "id": "382a71c3444e9d2ba8b808c4",
+      "topic": "F1",
+      "title": "Qatar GP maximum stints revealed as Pirelli makes announcement - PlanetF1",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DTnB1TzBfOGZodDllZnNyQldDZVFpQ283ZTZQM0k2dS1JNDZlenMwNXNvSXk1MU9xcFI3RXQ3Q1VfSzh4Z3ZCQkM5WndRdWpEWGw2UlZUV1pLZ1pLRmV1bFV1UmlER1luWWRSV3RyUDlpTlRBcUJUWVJB?oc=5",
+      "source": "PlanetF1",
+      "publisher": "PlanetF1",
+      "description": "Qatar GP maximum stints revealed as Pirelli makes announcement PlanetF1",
+      "published_utc": "2026-11-21T14:43:22+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DTnB1TzBfOGZodDllZnNyQldDZVFpQ283ZTZQM0k2dS1JNDZlenMwNXNvSXk1MU9xcFI3RXQ3Q1VfSzh4Z3ZCQkM5WndRdWpEWGw2UlZUV1pLZ1pLRmV1bFV1UmlER1luWWRSV3RyUDlpTlRBcUJUWVJB?oc=5",
+          "source": "PlanetF1",
+          "publisher": "PlanetF1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T14:43:22+00:00",
+          "title": "Qatar GP maximum stints revealed as Pirelli makes announcement - PlanetF1"
+        }
+      ]
+    },
+    {
+      "id": "86a4aaef9cbf06cc4db84218",
+      "topic": "WRC",
+      "title": "全日本ラリーモントレー：モリゾウチャレンジカップのタイトル争いは米林慶晃と奥井優介の一騎打ちに",
+      "url": "https://www.rallyplus.net/129888",
+      "source": "RALLY PLUS",
+      "publisher": "RALLY PLUS",
+      "description": "全日本ラリー選手権最終戦モントレー（群馬県、ターマック）は11月21日、全11SS中、SS5までの走行を終えた。... The post 全日本ラリーモントレー：モリゾウチャレンジカップのタイトル争いは米林慶晃と奥井優介の一騎打ちに first appeared on RALLYPLUS.NET ラリープラス .",
+      "published_utc": "2026-11-21T10:20:10+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.rallyplus.net/129888",
+          "source": "RALLY PLUS",
+          "publisher": "RALLY PLUS",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T10:20:10+00:00",
+          "title": "全日本ラリーモントレー：モリゾウチャレンジカップのタイトル争いは米林慶晃と奥井優介の一騎打ちに"
+        }
+      ]
+    },
+    {
+      "id": "616d78a9bbbf6e6bebde7363",
+      "topic": "WRC",
+      "title": "全日本ラリーモントレー：2日目、土曜日の4SSすべてを制した新井大輝が34.1秒リード",
+      "url": "https://www.rallyplus.net/129886",
+      "source": "RALLY PLUS",
+      "publisher": "RALLY PLUS",
+      "description": "2026年シーズン全日本ラリー選手権第9戦「加勢裕二杯 MONTRE 2026」は、11月21日（土）に4カ所の... The post 全日本ラリーモントレー：2日目、土曜日の4SSすべてを制した新井大輝が34.1秒リード first appeared on RALLYPLUS.NET ラリープラス .",
+      "published_utc": "2026-11-21T09:30:43+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.rallyplus.net/129886",
+          "source": "RALLY PLUS",
+          "publisher": "RALLY PLUS",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T09:30:43+00:00",
+          "title": "全日本ラリーモントレー：2日目、土曜日の4SSすべてを制した新井大輝が34.1秒リード"
+        }
+      ]
+    },
+    {
+      "id": "5132655fcf6abc2e8b1ae79c",
+      "topic": "WRC",
+      "title": "モントレーで併催のレギュラリティラリーに参戦の恵那市長「近い将来にエコラリーを開催したい」",
+      "url": "https://www.rallyplus.net/129878",
+      "source": "RALLY PLUS",
+      "publisher": "RALLY PLUS",
+      "description": "群馬県安中市を拠点に開催中の全日本ラリー選手権第9戦モントレー（ターマック）では、併催イベントとしてレギュラリテ... The post モントレーで併催のレギュラリティラリーに参戦の恵那市長「近い将来にエコラリーを開催したい」 first appeared on RALLYPLUS.NET ラリープラス .",
+      "published_utc": "2026-11-21T06:00:40+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.rallyplus.net/129878",
+          "source": "RALLY PLUS",
+          "publisher": "RALLY PLUS",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T06:00:40+00:00",
+          "title": "モントレーで併催のレギュラリティラリーに参戦の恵那市長「近い将来にエコラリーを開催したい」"
+        }
+      ]
+    },
+    {
+      "id": "5b2b9fef5502c5c5b38f9a14",
+      "topic": "WRC",
+      "title": "全日本ラリーモントレー：土曜日午前を終えて新井大輝がトップ",
+      "url": "https://www.rallyplus.net/129871",
+      "source": "RALLY PLUS",
+      "publisher": "RALLY PLUS",
+      "description": "全日本ラリー選手権最終戦モントレー（群馬県、ターマック）は競技2日目となる11月21日、午前中にSS2〜SS3の... The post 全日本ラリーモントレー：土曜日午前を終えて新井大輝がトップ first appeared on RALLYPLUS.NET ラリープラス .",
+      "published_utc": "2026-11-21T05:29:38+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.rallyplus.net/129871",
+          "source": "RALLY PLUS",
+          "publisher": "RALLY PLUS",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T05:29:38+00:00",
+          "title": "全日本ラリーモントレー：土曜日午前を終えて新井大輝がトップ"
+        }
+      ]
+    },
+    {
+      "id": "a1ceed31d5c943e4b07374dc",
+      "topic": "WRC",
+      "title": "2027年ジュニアWRC最終戦を務める英国で若手支援加速の動き",
+      "url": "https://www.rallyplus.net/129788",
+      "source": "RALLY PLUS",
+      "publisher": "RALLY PLUS",
+      "description": "2027年のWRCカレンダーにラリースコットランドが加わったことで、WRC復活に沸く英国ラリー界。10月に開催さ... The post 2027年ジュニアWRC最終戦を務める英国で若手支援加速の動き first appeared on RALLYPLUS.NET ラリープラス .",
+      "published_utc": "2026-11-20T21:00:49+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.rallyplus.net/129788",
+          "source": "RALLY PLUS",
+          "publisher": "RALLY PLUS",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T21:00:49+00:00",
+          "title": "2027年ジュニアWRC最終戦を務める英国で若手支援加速の動き"
+        }
+      ]
+    },
+    {
+      "id": "52c03dafad1069f10eceaf67",
+      "topic": "other_motorsport",
+      "title": "【順位結果】2026Moto2第21戦ポルトガルGP 予選総合 - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0zR2dJZDVBQTJ6Vm1PUVduQmUzTjgxbUc5eDNfWThGZmQwaUhBUDBTcTlOeGM5bWRaeVZzbWN3VWlac2k0MGlwaEt3?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【順位結果】2026Moto2第21戦ポルトガルGP 予選総合 autosport web",
+      "published_utc": "2026-11-21T14:18:00+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0zR2dJZDVBQTJ6Vm1PUVduQmUzTjgxbUc5eDNfWThGZmQwaUhBUDBTcTlOeGM5bWRaeVZzbWN3VWlac2k0MGlwaEt3?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T14:18:00+00:00",
+          "title": "【順位結果】2026Moto2第21戦ポルトガルGP 予選総合 - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "ef7bf79e19ff31f730952bd2",
+      "topic": "IndyCar",
+      "title": "Why do drivers do installation laps? - RACER - Racing News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZW92TGFXcWVEd1ZwNWlZUFZPUy1hMTNLVTdueENLZzdLWUhkWFFGZndkdlB3UWQ5NkhiLWJqdVNReVd1NEtXWjBvMktLZjdER2tfUDg2WFM4ajVnUmRmVGZPMVdtN0NSLXpud0hubXBKanJXM01wTjBkLUVlcGRNUg?oc=5",
+      "source": "RACER",
+      "publisher": "RACER - Racing News",
+      "description": "Why do drivers do installation laps? RACER - Racing News",
+      "published_utc": "2026-11-21T14:17:01+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZW92TGFXcWVEd1ZwNWlZUFZPUy1hMTNLVTdueENLZzdLWUhkWFFGZndkdlB3UWQ5NkhiLWJqdVNReVd1NEtXWjBvMktLZjdER2tfUDg2WFM4ajVnUmRmVGZPMVdtN0NSLXpud0hubXBKanJXM01wTjBkLUVlcGRNUg?oc=5",
+          "source": "RACER",
+          "publisher": "RACER - Racing News",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T14:17:01+00:00",
+          "title": "Why do drivers do installation laps? - RACER - Racing News"
+        }
+      ]
+    }
+  ],
+  "date_unknown": [],
+  "health": {}
+}

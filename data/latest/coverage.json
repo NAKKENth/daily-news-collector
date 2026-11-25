@@ -1,0 +1,1598 @@
+{
+  "generated_at_utc": "2026-11-25T14:52:43+00:00",
+  "sources": [
+    {
+      "source_id": "audio-9to5mac-airpods",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-android-authority-tws",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-apple-airpods",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T14:37:10+00:00",
+      "last_status": "partial",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-audio-science-review",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": null,
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": false
+    },
+    {
+      "source_id": "audio-av-watch-audio",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-aviot",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "partial",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-bluetooth-sig",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-bose",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-canjam",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-dunu",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T14:37:10+00:00",
+      "last_status": "partial",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-e-earphone",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-earfun",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T14:37:10+00:00",
+      "last_status": "partial",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-fiio",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T14:37:10+00:00",
+      "last_status": "partial",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-head-fi",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-headfonia",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-headfonics",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-hifigo",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "partial",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-ibasso",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "partial",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-jbl",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-l7audiolab",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-linsoul",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "partial",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-macrumors",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-moondrop",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:14:41+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-musicteck",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "partial",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-nothing",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "partial",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-oneplus-audio",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-phile-web",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-qualcomm-audio",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-qudelix",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-questyle",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "partial",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-rtings-headphones",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-sammobile",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "empty",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-samsung-audio",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "partial",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-scarbir",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "empty",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-sennheiser",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-shanling",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "partial",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-shenzhenaudio",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "partial",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-sony-audio",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-soundguys",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-technics",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-the-walkman-blog",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "empty",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "audio-xmems",
+      "group": "audio",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "empty",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-anbernic",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T14:37:10+00:00",
+      "last_status": "partial",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-android-authority-handheld",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:37:10+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-ayaneo",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T14:37:10+00:00",
+      "last_status": "partial",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-ayn",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-azahar",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-azur-lane-jp",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-batocera",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "empty",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-cemu",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "empty",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-dolphin",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "empty",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-dolphin-merged-pr",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-eden-mirror",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "empty",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-fex",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "empty",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-gammaos-merged-pr",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "empty",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-gammaos-next",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "empty",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-gpd",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-gtplanet",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-joey-retro-handhelds",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-knulli",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "empty",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-notebookcheck-handheld",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-onexplayer",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-overtake",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-pcgamingwiki",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-powkiddy",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "partial",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-proton",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-racedepartment-archives",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-retro-dodo",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-retro-game-corps",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "empty",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-retro-handhelds",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-retroid",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "partial",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-rocknix",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "empty",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-rocknix-merged-pr",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-rocknix-nightly",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-rpcs3",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "empty",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-rpcs3-merged-pr",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-steam-racing-updates",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-traxion",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-trimui",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-valve-steam-deck",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-xemu",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-xenia-canary",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "games_handhelds-yostar-jp",
+      "group": "games_handhelds",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-amus",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:37:10+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-autoracer",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-autosport-all",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-autosport-f1",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-autosport-web",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-dailysportscar",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-dakar-official",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:37:10+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-dirtfish",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-ewrc-results",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-f1technical",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-fia",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:37:10+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-fia-wec",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-formula-1-official",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:37:10+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-formulapassion",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-gpblog",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-indycar-official",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-motorsport-en-f1",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-motorsport-jp",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-nascar-official",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-planetf1",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-racefans",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-racer",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-racingnews365",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-rallit",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-rally-plus",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-rallyjournal",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-sky-sports-f1",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-sportscar365",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-super-formula-official",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-super-gt-official",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-the-race",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-wrc-official",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "motorsport-wrcwings",
+      "group": "motorsport",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "empty",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-9to5google",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-9to5mac",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-akiba-pc-hotline",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-amd",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-anthropic",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T14:37:10+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-ars-technica",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-artificial-analysis",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:37:10+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-benchlife",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-claude-help",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:37:10+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-computerbase",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-gamers-nexus",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "empty",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-google-ai",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-google-deepmind",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "partial",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-gsmarena",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-hardware-busters",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-helentech",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-igor’slab",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-intel",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-itmedia-mobile",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-jedec",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-micron",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-microsoft-windows",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-nichepcgamer",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-notebookcheck-mobile",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-nvidia",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-openai",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "partial",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-openai-help",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-pc-watch",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-reuters-ai",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-rtings-monitor",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-samsung-semiconductor",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-sk-hynix",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-storagereview",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-techcrunch",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-techpowerup",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-testingcatalog",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-tftcentral",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "empty",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-the-verge",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-tom’s-hardware",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": null,
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-trendforce",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-tsmc",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": null,
+      "last_search_ok": "2026-11-25T14:14:41+00:00",
+      "last_status": "deferred",
+      "search_pending": true,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-videocardz",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T13:40:02+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    },
+    {
+      "source_id": "pc_ai-wccftech",
+      "group": "pc_ai",
+      "last_attempt": "2026-11-25T14:52:43+00:00",
+      "last_direct_ok": "2026-11-25T14:52:43+00:00",
+      "last_search_ok": "2026-11-25T12:01:27+00:00",
+      "last_status": "ok",
+      "search_pending": false,
+      "successful_route_24h": true
+    }
+  ],
+  "successful_route_24h": 158,
+  "pending_search": 71,
+  "note": "A successful route is not proof that all articles or routes were covered. Partial sources may have a successful route."
+}

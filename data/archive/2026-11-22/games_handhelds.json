@@ -1,0 +1,1525 @@
+{
+  "schema_version": 2,
+  "date_jst": "2026-11-22",
+  "group": "games_handhelds",
+  "title": "ゲーム・ハンドヘルド",
+  "status": "candidate_collection_only",
+  "items": [
+    {
+      "id": "e9b31e0e410cd2208d4f6fdc",
+      "topic": "handhelds",
+      "title": "Tiny AI runs on 486 DOS PCs from a floppy disk - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLWxBOWIwZkh4cGFwRjFRNndGQmhZekp3bnFFNDIwaVN6SVJmWl9vNURpZlo2MHRUQTcyeWZhYnlBSEtsbFVTS2JlTXdCbUM3V2thX3MzdWlOelBxLXRMQkpfdmdfSmVrX3p6akV0V3l6SmtWQTN1VHZKeFFBRm9WMmlzY0tCdEVmdHhORnNlMXdBQXhlVXc?oc=5",
+      "source": "Notebookcheck Handheld",
+      "publisher": "Notebookcheck",
+      "description": "Tiny AI runs on 486 DOS PCs from a floppy disk Notebookcheck",
+      "published_utc": "2026-11-22T14:16:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLWxBOWIwZkh4cGFwRjFRNndGQmhZekp3bnFFNDIwaVN6SVJmWl9vNURpZlo2MHRUQTcyeWZhYnlBSEtsbFVTS2JlTXdCbUM3V2thX3MzdWlOelBxLXRMQkpfdmdfSmVrX3p6akV0V3l6SmtWQTN1VHZKeFFBRm9WMmlzY0tCdEVmdHhORnNlMXdBQXhlVXc?oc=5",
+          "source": "Notebookcheck Handheld",
+          "publisher": "Notebookcheck",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T14:16:00+00:00",
+          "title": "Tiny AI runs on 486 DOS PCs from a floppy disk - Notebookcheck"
+        }
+      ]
+    },
+    {
+      "id": "1d6a1e7362f73c486fcc9308",
+      "topic": "handhelds",
+      "title": "Qualcomm Adreno 840 V Series - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaTFZSWJ3MVpBNkNSMGttRGVPUzNfQ1VBc2d2TlhWa3VxSUFjSXJNb1otVmtqYjBPRE83dkxrSVJnMUgxUTdfc21qaGtHS2lCLXgzWklZWXQ2b3RON05KNHFFQ1hEcFFxVUFDSE5oZmVWY0lTelplcVdLSzhLU1Z1RlJuR3dfQmh3S1pReDBjQnFvS3puTHZMdDhB?oc=5",
+      "source": "Notebookcheck Handheld",
+      "publisher": "Notebookcheck",
+      "description": "Qualcomm Adreno 840 V Series Notebookcheck",
+      "published_utc": "2026-11-22T04:33:01+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaTFZSWJ3MVpBNkNSMGttRGVPUzNfQ1VBc2d2TlhWa3VxSUFjSXJNb1otVmtqYjBPRE83dkxrSVJnMUgxUTdfc21qaGtHS2lCLXgzWklZWXQ2b3RON05KNHFFQ1hEcFFxVUFDSE5oZmVWY0lTelplcVdLSzhLU1Z1RlJuR3dfQmh3S1pReDBjQnFvS3puTHZMdDhB?oc=5",
+          "source": "Notebookcheck Handheld",
+          "publisher": "Notebookcheck",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T04:33:01+00:00",
+          "title": "Qualcomm Adreno 840 V Series - Notebookcheck"
+        }
+      ]
+    },
+    {
+      "id": "3409982928370458ac2e6158",
+      "topic": "handhelds",
+      "title": "AMD Radeon R9 M470 - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UbHhjNHhZM282eHNRaXptYXg4Yi1tQzhKaFhEUTNTb2NiLS1oMXlwcDZUN2lNRTNsYnJoTDB3NElXLWM2ZEtkT2FUQ3Nwbkk3RjRvd1RsT0ZOYnlYUGpKdl9GdFdBRG43ck1GdnhEOA?oc=5",
+      "source": "Notebookcheck Handheld",
+      "publisher": "Notebookcheck",
+      "description": "AMD Radeon R9 M470 Notebookcheck",
+      "published_utc": "2026-11-22T04:33:01+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UbHhjNHhZM282eHNRaXptYXg4Yi1tQzhKaFhEUTNTb2NiLS1oMXlwcDZUN2lNRTNsYnJoTDB3NElXLWM2ZEtkT2FUQ3Nwbkk3RjRvd1RsT0ZOYnlYUGpKdl9GdFdBRG43ck1GdnhEOA?oc=5",
+          "source": "Notebookcheck Handheld",
+          "publisher": "Notebookcheck",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T04:33:01+00:00",
+          "title": "AMD Radeon R9 M470 - Notebookcheck"
+        }
+      ]
+    },
+    {
+      "id": "4ceea2712d30391e167d62df",
+      "topic": "handhelds",
+      "title": "AMD Radeon Pro WX Vega M GL GPU - Benchmarks and Specs - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGp5NGgzZExEaEV0VlkyaHUzRDNlMm1QSjFJSHVINzhaMGhSaEE5TnBLTm1NOWViSzhVbzRYbXBsbXh2dW8tVnNobDRRN1phUEFOclZVMXlGeVdxRzRDQTY1QXpxbUtvZzhkSmVpQk95ZG9QTVI3RXhYZVozaVVKRldfNmdOVjJIbU43bTZLSHJ6RGtMWElGN3d0Mjk?oc=5",
+      "source": "Notebookcheck Handheld",
+      "publisher": "Notebookcheck",
+      "description": "AMD Radeon Pro WX Vega M GL GPU - Benchmarks and Specs Notebookcheck",
+      "published_utc": "2026-11-22T04:33:01+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGp5NGgzZExEaEV0VlkyaHUzRDNlMm1QSjFJSHVINzhaMGhSaEE5TnBLTm1NOWViSzhVbzRYbXBsbXh2dW8tVnNobDRRN1phUEFOclZVMXlGeVdxRzRDQTY1QXpxbUtvZzhkSmVpQk95ZG9QTVI3RXhYZVozaVVKRldfNmdOVjJIbU43bTZLSHJ6RGtMWElGN3d0Mjk?oc=5",
+          "source": "Notebookcheck Handheld",
+          "publisher": "Notebookcheck",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T04:33:01+00:00",
+          "title": "AMD Radeon Pro WX Vega M GL GPU - Benchmarks and Specs - Notebookcheck"
+        }
+      ]
+    },
+    {
+      "id": "818e25e3cad2f63ba109e256",
+      "topic": "handhelds",
+      "title": "Qualcomm SD X2 Adreno X2-45 - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDJRSldVSzNGMHJWT28xOE0zMzhlbGsyaXFqZ1A5bmtNRlZzYUMyN25zQkZNaDhnVEZNc1B0Rk9EQUdMSkd2em5pU3FyX1BYdW9XeXUtLWZWUVlfMmZzamRDdUtfeXlySko1NlI4SHpILXVFcWo3REY2eVhHRXREal8xSVZEZ3h2bzdVYmdSNGYtMWRlOXRrSQ?oc=5",
+      "source": "Notebookcheck Handheld",
+      "publisher": "Notebookcheck",
+      "description": "Qualcomm SD X2 Adreno X2-45 Notebookcheck",
+      "published_utc": "2026-11-22T04:33:01+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDJRSldVSzNGMHJWT28xOE0zMzhlbGsyaXFqZ1A5bmtNRlZzYUMyN25zQkZNaDhnVEZNc1B0Rk9EQUdMSkd2em5pU3FyX1BYdW9XeXUtLWZWUVlfMmZzamRDdUtfeXlySko1NlI4SHpILXVFcWo3REY2eVhHRXREal8xSVZEZ3h2bzdVYmdSNGYtMWRlOXRrSQ?oc=5",
+          "source": "Notebookcheck Handheld",
+          "publisher": "Notebookcheck",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T04:33:01+00:00",
+          "title": "Qualcomm SD X2 Adreno X2-45 - Notebookcheck"
+        }
+      ]
+    },
+    {
+      "id": "1c449ed35a2c65e1e4809d66",
+      "topic": "handhelds",
+      "title": "Apple M5 Pro 16-Core GPU - Benchmarks and Specs - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM0hYVmcxZFhjR3lvcnhCM0pKYm9QY2xXXzJsUFh4MmYxa2ZlUmFrM2k1OENzZDVJdzMwR3piMjZVT3g2bGN5UTd0aW5sWFVnUE9teS1jM0R6RWNuSVNtMlBEN3Yzd1RodXBSSzBNSVBjSWxGTkthRS02MzhiMTk3cjFEc1RGVEhXUUdldnRid3RzV2hf?oc=5",
+      "source": "Notebookcheck Handheld",
+      "publisher": "Notebookcheck",
+      "description": "Apple M5 Pro 16-Core GPU - Benchmarks and Specs Notebookcheck",
+      "published_utc": "2026-11-22T04:33:01+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM0hYVmcxZFhjR3lvcnhCM0pKYm9QY2xXXzJsUFh4MmYxa2ZlUmFrM2k1OENzZDVJdzMwR3piMjZVT3g2bGN5UTd0aW5sWFVnUE9teS1jM0R6RWNuSVNtMlBEN3Yzd1RodXBSSzBNSVBjSWxGTkthRS02MzhiMTk3cjFEc1RGVEhXUUdldnRid3RzV2hf?oc=5",
+          "source": "Notebookcheck Handheld",
+          "publisher": "Notebookcheck",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T04:33:01+00:00",
+          "title": "Apple M5 Pro 16-Core GPU - Benchmarks and Specs - Notebookcheck"
+        }
+      ]
+    },
+    {
+      "id": "a9d652375a969f1fa7edc728",
+      "topic": "handhelds",
+      "title": "AMD Ryzen Z1 Extreme Processor - Benchmarks and Specs - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWTRBTFg4QjZMc1VzdUZUN1ZxcktGajl4V21OdmJnNG5Odi1hdUswWjQtNVZTMmVUTVdFODlueGpVX1lTRWkxZ3pJZkluV1phbV9GU1RsYnVycGF0VGYyVW84c0J0MV9vay1VODhnSzd3Y1ZFMGdaaF9qSXJRVGNMMXI1MEprTDlNWXk5U3lBYi1yazZUS0dQWTZOWQ?oc=5",
+      "source": "Notebookcheck Handheld",
+      "publisher": "Notebookcheck",
+      "description": "AMD Ryzen Z1 Extreme Processor - Benchmarks and Specs Notebookcheck",
+      "published_utc": "2026-11-22T04:31:51+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWTRBTFg4QjZMc1VzdUZUN1ZxcktGajl4V21OdmJnNG5Odi1hdUswWjQtNVZTMmVUTVdFODlueGpVX1lTRWkxZ3pJZkluV1phbV9GU1RsYnVycGF0VGYyVW84c0J0MV9vay1VODhnSzd3Y1ZFMGdaaF9qSXJRVGNMMXI1MEprTDlNWXk5U3lBYi1yazZUS0dQWTZOWQ?oc=5",
+          "source": "Notebookcheck Handheld",
+          "publisher": "Notebookcheck",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T04:31:51+00:00",
+          "title": "AMD Ryzen Z1 Extreme Processor - Benchmarks and Specs - Notebookcheck"
+        }
+      ]
+    },
+    {
+      "id": "d0b2c105524591e733ac5eb4",
+      "topic": "handhelds",
+      "title": "ANBERNIC RG 557 — Product Facts & Specifications - Anbernic",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xY0ROVm9vcGVlRU1zZF9KLVBRQzgwalhkR3B6YzFWMHZ5cUVBN204MWxiT1BOS3FJSFJSS0dBRWppV2ROaGk3MDVteE1ZdXZrM1FLdw?oc=5",
+      "source": "ANBERNIC",
+      "publisher": "Anbernic",
+      "description": "ANBERNIC RG 557 — Product Facts & Specifications Anbernic",
+      "published_utc": "2026-11-22T12:03:56+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "ハンドヘルド候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xY0ROVm9vcGVlRU1zZF9KLVBRQzgwalhkR3B6YzFWMHZ5cUVBN204MWxiT1BOS3FJSFJSS0dBRWppV2ROaGk3MDVteE1ZdXZrM1FLdw?oc=5",
+          "source": "ANBERNIC",
+          "publisher": "Anbernic",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T12:03:56+00:00",
+          "title": "ANBERNIC RG 557 — Product Facts & Specifications - Anbernic"
+        }
+      ]
+    },
+    {
+      "id": "9439b29249898cbf2642aa74",
+      "topic": "racing_games",
+      "title": "GRID Autosport - PCGamingWiki",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LWXFlc09EdWtlaTBoU1ZoU01IalRMLVoyeElfTVNNVEtfaUVtSnVpRWdUclpzd2N4OFFGb2psbzI5WGFYWkc0VlRmQ0o3aUlUdTJ3V0h6V0NlSVNY?oc=5",
+      "source": "PCGamingWiki",
+      "publisher": "PCGamingWiki",
+      "description": "GRID Autosport PCGamingWiki",
+      "published_utc": "2026-11-22T08:00:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LWXFlc09EdWtlaTBoU1ZoU01IalRMLVoyeElfTVNNVEtfaUVtSnVpRWdUclpzd2N4OFFGb2psbzI5WGFYWkc0VlRmQ0o3aUlUdTJ3V0h6V0NlSVNY?oc=5",
+          "source": "PCGamingWiki",
+          "publisher": "PCGamingWiki",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T08:00:00+00:00",
+          "title": "GRID Autosport - PCGamingWiki"
+        }
+      ]
+    },
+    {
+      "id": "5d4f2d0a5bbd7851fbb7b340",
+      "topic": "racing_games",
+      "title": "TOCA Race Driver 2 - PCGamingWiki",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KRlJhdXlST2lMX1RDRmlEcVN5Q1pSNW9WUUVqY2tkVjc5REtRQTlFTXR1THVjTG5BTnEyQXFvcUltT2F6RmJ1d1UzcnhibFZVY3AwUlA4VHZZTVJGbVYtSmhB?oc=5",
+      "source": "PCGamingWiki",
+      "publisher": "PCGamingWiki",
+      "description": "TOCA Race Driver 2 PCGamingWiki",
+      "published_utc": "2026-11-22T08:00:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KRlJhdXlST2lMX1RDRmlEcVN5Q1pSNW9WUUVqY2tkVjc5REtRQTlFTXR1THVjTG5BTnEyQXFvcUltT2F6RmJ1d1UzcnhibFZVY3AwUlA4VHZZTVJGbVYtSmhB?oc=5",
+          "source": "PCGamingWiki",
+          "publisher": "PCGamingWiki",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T08:00:00+00:00",
+          "title": "TOCA Race Driver 2 - PCGamingWiki"
+        }
+      ]
+    },
+    {
+      "id": "4c61decbde33df98c509f9a3",
+      "topic": "racing_games",
+      "title": "Colin McRae Rally 3 - PCGamingWiki",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04alFRbzgzS3NrdmlpaDM2WGU4ZXRwc3BWcnFlVHI1Z1RWTEFJaG9oMVFfaVZqaGpWTWpUVmVqY3hGWUluN1l5TE9LVjFwWEZsTlFJdFNsVzdmbnNVRlQ2R3M0bw?oc=5",
+      "source": "PCGamingWiki",
+      "publisher": "PCGamingWiki",
+      "description": "Colin McRae Rally 3 PCGamingWiki",
+      "published_utc": "2026-11-22T08:00:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04alFRbzgzS3NrdmlpaDM2WGU4ZXRwc3BWcnFlVHI1Z1RWTEFJaG9oMVFfaVZqaGpWTWpUVmVqY3hGWUluN1l5TE9LVjFwWEZsTlFJdFNsVzdmbnNVRlQ2R3M0bw?oc=5",
+          "source": "PCGamingWiki",
+          "publisher": "PCGamingWiki",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T08:00:00+00:00",
+          "title": "Colin McRae Rally 3 - PCGamingWiki"
+        }
+      ]
+    },
+    {
+      "id": "87b885748bfc1135fcee136a",
+      "topic": "racing_games",
+      "title": "Forza Horizon 5 - PCGamingWiki",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CY3RsLWl6cGQwVUhyS09tZ2oyaUphMEtCMzhZeDBZb1hWejVlOU5jejJWNWtDbVAyV09fV2g5OHh2czVackNLbHBIQXgtTVRqR1U5LXo1YzhUU2k5Ync?oc=5",
+      "source": "PCGamingWiki",
+      "publisher": "PCGamingWiki",
+      "description": "Forza Horizon 5 PCGamingWiki",
+      "published_utc": "2026-11-22T08:00:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CY3RsLWl6cGQwVUhyS09tZ2oyaUphMEtCMzhZeDBZb1hWejVlOU5jejJWNWtDbVAyV09fV2g5OHh2czVackNLbHBIQXgtTVRqR1U5LXo1YzhUU2k5Ync?oc=5",
+          "source": "PCGamingWiki",
+          "publisher": "PCGamingWiki",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T08:00:00+00:00",
+          "title": "Forza Horizon 5 - PCGamingWiki"
+        }
+      ]
+    },
+    {
+      "id": "3cd431adedaf32e4c215dfcb",
+      "topic": "racing_games",
+      "title": "Wipeout - PCGamingWiki",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0WlprazlLZGladTBOOG1QYnlZeWxya0JVMmpHcTJ6RVdRNnlKMWV0Ujc1UHE2dzZTZHF0Mjc5eUd4Rkc0ZzJlY2M2ZkNRREhudGZj?oc=5",
+      "source": "PCGamingWiki",
+      "publisher": "PCGamingWiki",
+      "description": "Wipeout PCGamingWiki",
+      "published_utc": "2026-11-22T08:00:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0WlprazlLZGladTBOOG1QYnlZeWxya0JVMmpHcTJ6RVdRNnlKMWV0Ujc1UHE2dzZTZHF0Mjc5eUd4Rkc0ZzJlY2M2ZkNRREhudGZj?oc=5",
+          "source": "PCGamingWiki",
+          "publisher": "PCGamingWiki",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T08:00:00+00:00",
+          "title": "Wipeout - PCGamingWiki"
+        }
+      ]
+    },
+    {
+      "id": "43eb1b04324d82871f97baa9",
+      "topic": "racing_games",
+      "title": "Juiced - PCGamingWiki",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xZmprQUZWc2pubGctWjd0RkRTQnZGOC1LUFRad0RKN1lwOXZVMEo4bHROS3lLRXEtd3psTHIwQ0pYUFRFQzNJMkp5UGRoUUVoSFE?oc=5",
+      "source": "PCGamingWiki",
+      "publisher": "PCGamingWiki",
+      "description": "Juiced PCGamingWiki",
+      "published_utc": "2026-11-22T08:00:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xZmprQUZWc2pubGctWjd0RkRTQnZGOC1LUFRad0RKN1lwOXZVMEo4bHROS3lLRXEtd3psTHIwQ0pYUFRFQzNJMkp5UGRoUUVoSFE?oc=5",
+          "source": "PCGamingWiki",
+          "publisher": "PCGamingWiki",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T08:00:00+00:00",
+          "title": "Juiced - PCGamingWiki"
+        }
+      ]
+    },
+    {
+      "id": "02aee4c747983bc72bb15bef",
+      "topic": "racing_games",
+      "title": "Iiboshi_touge_wide_style_VR46kazu Iiboshi_touge_wide_VR46kazu_V1.1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80MzJFaTRzM192ZHZ1Z053dXBERGgtSkt0enFLa0VSV3NHWVJKYk1OTDZpWHk0V0VFNUp3ei1aR05xWHBUS004cEFCN1BFVmVBT1RXQ3JxTjVKZmdkZ2xFdUMtZEVMdkpOXzdpd3Z3ak5XclNZQmJ1WUR6SUlPS1U?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Iiboshi_touge_wide_style_VR46kazu Iiboshi_touge_wide_VR46kazu_V1.1 overtake.gg",
+      "published_utc": "2026-11-22T09:57:08+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80MzJFaTRzM192ZHZ1Z053dXBERGgtSkt0enFLa0VSV3NHWVJKYk1OTDZpWHk0V0VFNUp3ei1aR05xWHBUS004cEFCN1BFVmVBT1RXQ3JxTjVKZmdkZ2xFdUMtZEVMdkpOXzdpd3Z3ak5XclNZQmJ1WUR6SUlPS1U?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T09:57:08+00:00",
+          "title": "Iiboshi_touge_wide_style_VR46kazu Iiboshi_touge_wide_VR46kazu_V1.1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "146c8b7e096d559b7b91c69c",
+      "topic": "racing_games",
+      "title": "2026 Season Mod - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwVFl1OS1KNmJzMnNjT29vaHVXc09veC1PVEpfcHMtNXNHUHN1MXFrLVZTa2h0RVktdVpsdkhZQ25aNExWeWpLcDZDOFotRnFiazhCMVlNT1Z0ZGFQVi1wajRBOE8xT0k?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "2026 Season Mod overtake.gg",
+      "published_utc": "2026-11-22T07:26:26+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwVFl1OS1KNmJzMnNjT29vaHVXc09veC1PVEpfcHMtNXNHUHN1MXFrLVZTa2h0RVktdVpsdkhZQ25aNExWeWpLcDZDOFotRnFiazhCMVlNT1Z0ZGFQVi1wajRBOE8xT0k?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T07:26:26+00:00",
+          "title": "2026 Season Mod - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "eef28ae678ec134dd0a254e5",
+      "topic": "racing_games",
+      "title": "[IMG] 2026 GT World Challenge Europe v1.3 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcFRyZWRkU0Q0bDVaLTNrTTVrdy1ybHFYU3YyczVHSXZPekoxYll4ZEpIX01FSF94Uk5EYmJZQTF2aTR4ZW0wU3RKdHJ3YUhoQnZORjdiVk5IUloxYUpEZFpianl6XzVUdXE2TjFfWEhiVE4ycEpZRnBJMmZsSl9YVw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "[IMG] 2026 GT World Challenge Europe v1.3 overtake.gg",
+      "published_utc": "2026-11-22T12:25:47+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcFRyZWRkU0Q0bDVaLTNrTTVrdy1ybHFYU3YyczVHSXZPekoxYll4ZEpIX01FSF94Uk5EYmJZQTF2aTR4ZW0wU3RKdHJ3YUhoQnZORjdiVk5IUloxYUpEZFpianl6XzVUdXE2TjFfWEhiVE4ycEpZRnBJMmZsSl9YVw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T12:25:47+00:00",
+          "title": "[IMG] 2026 GT World Challenge Europe v1.3 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "e532840fff0ef3a092b3bfb4",
+      "topic": "racing_games",
+      "title": "Assetto Corsa Rally - Portuguese Language Pack (PT-PT) V04 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZHljQkZNeUJmYXZaQV94WlZibHpNdHBjS2FHWG1GTEVaWHJnMWVMOTlHR2FjRjB2S0dHOENYSi1ZS0RnOERYeC1yYVZlZzBSLXlyaTRmWFUzWWo2d1Nudi1Yalk1ZmVfdTFycFlnTHk1NHBhSlhRMm1BUVMzMjRzZHFnTFNneW5aamczd2ZGMXdQbE8zUnc?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Assetto Corsa Rally - Portuguese Language Pack (PT-PT) V04 overtake.gg",
+      "published_utc": "2026-11-22T13:17:51+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZHljQkZNeUJmYXZaQV94WlZibHpNdHBjS2FHWG1GTEVaWHJnMWVMOTlHR2FjRjB2S0dHOENYSi1ZS0RnOERYeC1yYVZlZzBSLXlyaTRmWFUzWWo2d1Nudi1Yalk1ZmVfdTFycFlnTHk1NHBhSlhRMm1BUVMzMjRzZHFnTFNneW5aamczd2ZGMXdQbE8zUnc?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T13:17:51+00:00",
+          "title": "Assetto Corsa Rally - Portuguese Language Pack (PT-PT) V04 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "858a95555e5745bcacd47b5a",
+      "topic": "racing_games",
+      "title": "SafariRally 2 Stages (WRC to ACR) 0.7 ready! 1.5.pak - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZlFlRzYzNkd3RGdUSkFRZTlKcDU4aDVxVU42M2hxWWNMRkJIakZ2eWRvVE5FUERyOUJjQURUYzBRajFmR18tQ3cwVzNpSzdPeUJWanRMMjdMWENTbWNYYTdxc0RtaW80dlp4NVUwMFJ1MlBzWHV3YVlENzRjWnlaVHo3bXhfVld2Y1E?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "SafariRally 2 Stages (WRC to ACR) 0.7 ready! 1.5.pak overtake.gg",
+      "published_utc": "2026-11-22T04:14:42+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZlFlRzYzNkd3RGdUSkFRZTlKcDU4aDVxVU42M2hxWWNMRkJIakZ2eWRvVE5FUERyOUJjQURUYzBRajFmR18tQ3cwVzNpSzdPeUJWanRMMjdMWENTbWNYYTdxc0RtaW80dlp4NVUwMFJ1MlBzWHV3YVlENzRjWnlaVHo3bXhfVld2Y1E?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T04:14:42+00:00",
+          "title": "SafariRally 2 Stages (WRC to ACR) 0.7 ready! 1.5.pak - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "03f24fc58991b9121111212a",
+      "topic": "racing_games",
+      "title": "SubtlyReal - Photorealistic reshade preset 2.1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQW5VVFNBUU0wR1hSeHBsZDdpd0ZPbnhYNmpncU15Y04xdU0xQmJOeHUwSE03d2NTb1NpNUlHTHJPYWFWSV9OMUlzeFBydnBCOVAxZnA4NC1sdEJPYU4zVkg2clhCaVdFVENELVdLamw3ZW53VHJ5Xy1JdzA4MTk0M1dJLXpERTNV?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "SubtlyReal - Photorealistic reshade preset 2.1 overtake.gg",
+      "published_utc": "2026-11-22T03:13:23+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQW5VVFNBUU0wR1hSeHBsZDdpd0ZPbnhYNmpncU15Y04xdU0xQmJOeHUwSE03d2NTb1NpNUlHTHJPYWFWSV9OMUlzeFBydnBCOVAxZnA4NC1sdEJPYU4zVkg2clhCaVdFVENELVdLamw3ZW53VHJ5Xy1JdzA4MTk0M1dJLXpERTNV?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T03:13:23+00:00",
+          "title": "SubtlyReal - Photorealistic reshade preset 2.1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "a8adfbf37c47725648235097",
+      "topic": "racing_games",
+      "title": "WRC Generations – The FIA WRC Official Game - Steam",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkRySGgwY0VDNTk1VTFnYnExVUdqelo2bFRoRVJwUGdlUlc2ZU5rWXpKLWtzX1dSNTlua0JPMmpPeHZTSGxxbzFzcnNyTHpFSGN3aVd2OEFNdFlmaWZLQ0M3QURuYm45RXdzMG5GUlFaM0ZCWW5RMEZBSTd0cmhJcnNoSnRueWpRNzZWY3d1Mm5wcno5OXRldS1LZ0Zxdjg?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "WRC Generations – The FIA WRC Official Game Steam",
+      "published_utc": "2026-11-22T00:44:04+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkRySGgwY0VDNTk1VTFnYnExVUdqelo2bFRoRVJwUGdlUlc2ZU5rWXpKLWtzX1dSNTlua0JPMmpPeHZTSGxxbzFzcnNyTHpFSGN3aVd2OEFNdFlmaWZLQ0M3QURuYm45RXdzMG5GUlFaM0ZCWW5RMEZBSTd0cmhJcnNoSnRueWpRNzZWY3d1Mm5wcno5OXRldS1LZ0Zxdjg?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T00:44:04+00:00",
+          "title": "WRC Generations – The FIA WRC Official Game - Steam"
+        }
+      ]
+    },
+    {
+      "id": "af376f4a81308fee6a292f93",
+      "topic": "racing_games",
+      "title": "Road Trip: RAM & Dodge - Dodge Viper - Steam",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KZ3p5VUd6emxPME1tdWFKeWRHb2FXNE9vUVd2SzNramp4clMtazhDYmVreHpMM2JZSFVxaFpvYWxtQ3JHaVpJenhzdHo3TGZqTGUyRFZmNTNiVllHZEZfZHU2SVRIYmVpcW5ham5uTjRaRFhsVTYwdTVXMThtdw?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Road Trip: RAM & Dodge - Dodge Viper Steam",
+      "published_utc": "2026-11-21T16:00:09+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KZ3p5VUd6emxPME1tdWFKeWRHb2FXNE9vUVd2SzNramp4clMtazhDYmVreHpMM2JZSFVxaFpvYWxtQ3JHaVpJenhzdHo3TGZqTGUyRFZmNTNiVllHZEZfZHU2SVRIYmVpcW5ham5uTjRaRFhsVTYwdTVXMThtdw?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T16:00:09+00:00",
+          "title": "Road Trip: RAM & Dodge - Dodge Viper - Steam"
+        }
+      ]
+    },
+    {
+      "id": "aa8819775dac2f68c3b0ec8a",
+      "topic": "racing_games",
+      "title": "Inicia a sessão para veres notícias personalizadas - Steam",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUUZ4ekJxbWtrMHQ0ZkV1TWdUNldHdWpRRTNPN1RCTUN4UTlMbWFvU2N4Nl9vcjBjRE1DUFhDc1BnalBjTXJhTUs1ejhzdnFFRHd2eW5xZURTVkR6b0Ntc2FFaDNqaDZCNGViQVdJaWE3WjlNM2Q3V2oyaEpXdE4yNl9JRVRGSnptWDRmRGE2X1JiOC02RFhFdmNteEJEWFYwZnJxeHN3?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Inicia a sessão para veres notícias personalizadas Steam",
+      "published_utc": "2026-11-22T03:46:37+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUUZ4ekJxbWtrMHQ0ZkV1TWdUNldHdWpRRTNPN1RCTUN4UTlMbWFvU2N4Nl9vcjBjRE1DUFhDc1BnalBjTXJhTUs1ejhzdnFFRHd2eW5xZURTVkR6b0Ntc2FFaDNqaDZCNGViQVdJaWE3WjlNM2Q3V2oyaEpXdE4yNl9JRVRGSnptWDRmRGE2X1JiOC02RFhFdmNteEJEWFYwZnJxeHN3?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T03:46:37+00:00",
+          "title": "Inicia a sessão para veres notícias personalizadas - Steam"
+        }
+      ]
+    },
+    {
+      "id": "5b092efb3f23e53ae1ba990e",
+      "topic": "racing_games",
+      "title": "Steam 鉴赏家：Sim UK - Steam",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlbHpESXpucTJaWDlXTjd1aDNMeFYwMG1acXRaT1VxOGpWWDlUb0Y3VjFCMU9jVHNEdkhBUjFSaUg2S2hOZEhqbUxSQXQzNUItb0ExaDJlNjhwZ29wQ2ZDbmtja25TLUdJRjAtMUpSd3kwcXk1d0tCWVFvaFY?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Steam 鉴赏家：Sim UK Steam",
+      "published_utc": "2026-11-22T06:57:27+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlbHpESXpucTJaWDlXTjd1aDNMeFYwMG1acXRaT1VxOGpWWDlUb0Y3VjFCMU9jVHNEdkhBUjFSaUg2S2hOZEhqbUxSQXQzNUItb0ExaDJlNjhwZ29wQ2ZDbmtja25TLUdJRjAtMUpSd3kwcXk1d0tCWVFvaFY?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T06:57:27+00:00",
+          "title": "Steam 鉴赏家：Sim UK - Steam"
+        }
+      ]
+    },
+    {
+      "id": "c33e0243417525ca86dd2f60",
+      "topic": "emulators",
+      "title": "e8f4be2_canary_experimental",
+      "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/e8f4be2",
+      "source": "Xenia Canary",
+      "publisher": "xenia-canary/xenia-canary",
+      "description": "### Changes - [Kernel] Reimplement NtAllocateEncryptedMemory and NtFreeEncryptedMemory (`e8f4be2`) **Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/4ded40f...e8f4be2",
+      "published_utc": "2026-11-22T00:24:12+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "github_release_published",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "review",
+      "triage_reason": "開発ビルド・軽微変更の内容確認",
+      "sources": [
+        {
+          "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/e8f4be2",
+          "source": "Xenia Canary",
+          "publisher": "xenia-canary/xenia-canary",
+          "timestamp_basis": "github_release_published",
+          "published_utc": "2026-11-22T00:24:12+00:00",
+          "title": "e8f4be2_canary_experimental"
+        }
+      ],
+      "prerelease": false
+    },
+    {
+      "id": "99e5d0460730f1492aa51751",
+      "topic": "emulators",
+      "title": "e6b1dbd_canary_experimental",
+      "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/e6b1dbd",
+      "source": "Xenia Canary",
+      "publisher": "xenia-canary/xenia-canary",
+      "description": "### Changes - [GPU] Display the guest frame rate in the title and an optional overlay (`e6b1dbd`) - [UI] Stop taking input once the last ImGui dialog closes (`8fca96b`) **Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/8a9d2f1...e6b1dbd",
+      "published_utc": "2026-11-21T17:50:55+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "github_release_published",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "review",
+      "triage_reason": "開発ビルド・軽微変更の内容確認",
+      "sources": [
+        {
+          "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/e6b1dbd",
+          "source": "Xenia Canary",
+          "publisher": "xenia-canary/xenia-canary",
+          "timestamp_basis": "github_release_published",
+          "published_utc": "2026-11-21T17:50:55+00:00",
+          "title": "e6b1dbd_canary_experimental"
+        }
+      ],
+      "prerelease": false
+    },
+    {
+      "id": "0c3c83f19d3eb00636c1e0d1",
+      "topic": "emulators",
+      "title": "8a9d2f1_canary_experimental",
+      "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/8a9d2f1",
+      "source": "Xenia Canary",
+      "publisher": "xenia-canary/xenia-canary",
+      "description": "### Changes - [Base] Skip the timer throttling opt-out before Windows 11 (`8a9d2f1`) **Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/67b0c76...8a9d2f1",
+      "published_utc": "2026-11-21T17:02:36+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "github_release_published",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "review",
+      "triage_reason": "開発ビルド・軽微変更の内容確認",
+      "sources": [
+        {
+          "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/8a9d2f1",
+          "source": "Xenia Canary",
+          "publisher": "xenia-canary/xenia-canary",
+          "timestamp_basis": "github_release_published",
+          "published_utc": "2026-11-21T17:02:36+00:00",
+          "title": "8a9d2f1_canary_experimental"
+        }
+      ],
+      "prerelease": false
+    },
+    {
+      "id": "da3d4f31dbfbfd64f4c24c4e",
+      "topic": "emulators",
+      "title": "806e3db_canary_experimental",
+      "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/806e3db",
+      "source": "Xenia Canary",
+      "publisher": "xenia-canary/xenia-canary",
+      "description": "### Changes - [x64] Exclude branches inside a callee's frame from longjmp resolution (`806e3db`) - [GPU] Handle PM4_EVENT_WRITE_CFL as an EVENT_WRITE_SHD fence write (`28c265e`) **Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/e6b1dbd...806e3db",
+      "published_utc": "2026-11-21T20:39:54+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "github_release_published",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "review",
+      "triage_reason": "開発ビルド・軽微変更の内容確認",
+      "sources": [
+        {
+          "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/806e3db",
+          "source": "Xenia Canary",
+          "publisher": "xenia-canary/xenia-canary",
+          "timestamp_basis": "github_release_published",
+          "published_utc": "2026-11-21T20:39:54+00:00",
+          "title": "806e3db_canary_experimental"
+        }
+      ],
+      "prerelease": false
+    },
+    {
+      "id": "889ca564e50158283bfe7606",
+      "topic": "emulators",
+      "title": "67b0c76_canary_experimental",
+      "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/67b0c76",
+      "source": "Xenia Canary",
+      "publisher": "xenia-canary/xenia-canary",
+      "description": "### Changes - [APP] Don't throw on filesystem errors in zar cleanup and content deletion (`67b0c76`) - [App] Don't throw when deleting content already removed from disk (`44a79c2`) **Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/c0ea2c4...67b0c76",
+      "published_utc": "2026-11-21T16:18:42+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "github_release_published",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "review",
+      "triage_reason": "開発ビルド・軽微変更の内容確認",
+      "sources": [
+        {
+          "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/67b0c76",
+          "source": "Xenia Canary",
+          "publisher": "xenia-canary/xenia-canary",
+          "timestamp_basis": "github_release_published",
+          "published_utc": "2026-11-21T16:18:42+00:00",
+          "title": "67b0c76_canary_experimental"
+        }
+      ],
+      "prerelease": false
+    },
+    {
+      "id": "76c8faca1365873a454e6562",
+      "topic": "emulators",
+      "title": "4ded40f_canary_experimental",
+      "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/4ded40f",
+      "source": "Xenia Canary",
+      "publisher": "xenia-canary/xenia-canary",
+      "description": "### Changes - [Kernel] Start VdGlobalDevice null (`4ded40f`) - [Kernel] Return INVALID_PARAMETER for a wrong MmQueryStatistics size (`2f5ecff`) **Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/806e3db...4ded40f",
+      "published_utc": "2026-11-21T23:28:48+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "github_release_published",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "review",
+      "triage_reason": "開発ビルド・軽微変更の内容確認",
+      "sources": [
+        {
+          "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/4ded40f",
+          "source": "Xenia Canary",
+          "publisher": "xenia-canary/xenia-canary",
+          "timestamp_basis": "github_release_published",
+          "published_utc": "2026-11-21T23:28:48+00:00",
+          "title": "4ded40f_canary_experimental"
+        }
+      ],
+      "prerelease": false
+    },
+    {
+      "id": "9afd6a76e003608203fcbeaa",
+      "topic": "handhelds",
+      "title": "Merged PR #3684: Update kernel configs/device documentation",
+      "url": "https://github.com/ROCKNIX/distribution/pull/3684",
+      "source": "ROCKNIX merged PR",
+      "publisher": "ROCKNIX/distribution",
+      "description": "Automated changes by [create-pull-request]",
+      "published_utc": "2026-11-22T12:56:51+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "github_pr_merged",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "review",
+      "triage_reason": "開発ビルド・軽微変更の内容確認",
+      "sources": [
+        {
+          "url": "https://github.com/ROCKNIX/distribution/pull/3684",
+          "source": "ROCKNIX merged PR",
+          "publisher": "ROCKNIX/distribution",
+          "timestamp_basis": "github_pr_merged",
+          "published_utc": "2026-11-22T12:56:51+00:00",
+          "title": "Merged PR #3684: Update kernel configs/device documentation"
+        }
+      ]
+    },
+    {
+      "id": "840c38295853621373b03cce",
+      "topic": "handhelds",
+      "title": "Merged PR #3683: Tmp",
+      "url": "https://github.com/ROCKNIX/distribution/pull/3683",
+      "source": "ROCKNIX merged PR",
+      "publisher": "ROCKNIX/distribution",
+      "description": "## Summary Bump rk3566 to linux 7.3.5, enable RG DS imu, bump inputplumber v0.85.0",
+      "published_utc": "2026-11-22T11:44:20+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "github_pr_merged",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "review",
+      "triage_reason": "GitHub開発情報",
+      "sources": [
+        {
+          "url": "https://github.com/ROCKNIX/distribution/pull/3683",
+          "source": "ROCKNIX merged PR",
+          "publisher": "ROCKNIX/distribution",
+          "timestamp_basis": "github_pr_merged",
+          "published_utc": "2026-11-22T11:44:20+00:00",
+          "title": "Merged PR #3683: Tmp"
+        }
+      ]
+    },
+    {
+      "id": "6e49f98f1bea6e7bab922742",
+      "topic": "handhelds",
+      "title": "Merged PR #3677: armsx2-sa: bump to v2.9.5",
+      "url": "https://github.com/ROCKNIX/distribution/pull/3677",
+      "source": "ROCKNIX merged PR",
+      "publisher": "ROCKNIX/distribution",
+      "description": "## Summary ### What does this PR do? Updates ARMSX2 to version 2.9.5 from 2.9.1. Two package fixes were needed for the update to work: - `PATCHES_URL` pointed at the GitHub source archive of `pcsx2_patches`, whose entries are nested under `pcsx2_patches-latest/patches/`. ARMSX2 looks up `SERIAL_CRC.pnach` at the zip root, so the bundled patch datab",
+      "published_utc": "2026-11-22T11:30:10+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "github_pr_merged",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "priority",
+      "triage_reason": "GitHub開発情報",
+      "sources": [
+        {
+          "url": "https://github.com/ROCKNIX/distribution/pull/3677",
+          "source": "ROCKNIX merged PR",
+          "publisher": "ROCKNIX/distribution",
+          "timestamp_basis": "github_pr_merged",
+          "published_utc": "2026-11-22T11:30:10+00:00",
+          "title": "Merged PR #3677: armsx2-sa: bump to v2.9.5"
+        }
+      ]
+    },
+    {
+      "id": "3bf33fc59125f93b99ee7096",
+      "topic": "emulators",
+      "title": "Merged PR #14998: JitArm64: Convert NaN to 0x80000000 in fctiwx",
+      "url": "https://github.com/dolphin-emu/dolphin/pull/14998",
+      "source": "Dolphin merged PR",
+      "publisher": "dolphin-emu/dolphin",
+      "description": "On PowerPC, fctiw/fctiwz on a NaN writes 0x80000000 to the low word of frD (checked on a real Wii in GameCube mode). The interpreter does this explicitly, and Jit64 gets it from CVTPD2DQ. JitArm64 uses FCVTZS, which returns 0 for a NaN. Fixes https://bugs.dolphin-emu.org/issues/14136 (Super Monkey Ball: Banana Blitz). I don't have an ARM64 device, ",
+      "published_utc": "2026-11-22T14:58:03+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "github_pr_merged",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "priority",
+      "triage_reason": "GitHub開発情報",
+      "sources": [
+        {
+          "url": "https://github.com/dolphin-emu/dolphin/pull/14998",
+          "source": "Dolphin merged PR",
+          "publisher": "dolphin-emu/dolphin",
+          "timestamp_basis": "github_pr_merged",
+          "published_utc": "2026-11-22T14:58:03+00:00",
+          "title": "Merged PR #14998: JitArm64: Convert NaN to 0x80000000 in fctiwx"
+        }
+      ]
+    },
+    {
+      "id": "85f2766822829a89e07cb1cf",
+      "topic": "emulators",
+      "title": "Merged PR #15040: SDL: Minor fix and cleanups.",
+      "url": "https://github.com/dolphin-emu/dolphin/pull/15040",
+      "source": "Dolphin merged PR",
+      "publisher": "dolphin-emu/dolphin",
+      "description": "Fixed `SDL_RegisterEvents` error handling, cleaned up thread shutdown using `jthread`, and eliminated unnecessary `SDL_UpdateGamepads` call.",
+      "published_utc": "2026-11-21T23:06:33+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "github_pr_merged",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "priority",
+      "triage_reason": "GitHub開発情報",
+      "sources": [
+        {
+          "url": "https://github.com/dolphin-emu/dolphin/pull/15040",
+          "source": "Dolphin merged PR",
+          "publisher": "dolphin-emu/dolphin",
+          "timestamp_basis": "github_pr_merged",
+          "published_utc": "2026-11-21T23:06:33+00:00",
+          "title": "Merged PR #15040: SDL: Minor fix and cleanups."
+        }
+      ]
+    },
+    {
+      "id": "335e658317d663ce5b6441d8",
+      "topic": "handhelds",
+      "title": "Dokimon Frontier - Steam",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wTFQ1LWE2dndQWVgwbnRCZWp0TGxYd1NyWFJxek14X21XY3BTS2FuVnNrMDJ6X19jN2o1UG1vQlAydzFjbDFCbVAwM01XNDVVZ3huMHk5VmVWMkJOc2R0Ym9rZERiVkRuY0NsWg?oc=5",
+      "source": "Valve Steam Deck",
+      "publisher": "Steam",
+      "description": "Dokimon Frontier Steam",
+      "published_utc": "2026-11-21T23:11:30+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wTFQ1LWE2dndQWVgwbnRCZWp0TGxYd1NyWFJxek14X21XY3BTS2FuVnNrMDJ6X19jN2o1UG1vQlAydzFjbDFCbVAwM01XNDVVZ3huMHk5VmVWMkJOc2R0Ym9rZERiVkRuY0NsWg?oc=5",
+          "source": "Valve Steam Deck",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T23:11:30+00:00",
+          "title": "Dokimon Frontier - Steam"
+        }
+      ]
+    },
+    {
+      "id": "3a79f4ce8535bf848e68e83b",
+      "topic": "handhelds",
+      "title": "Crinimal Land - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fYUEzaGhsZ3pvUzBCb1FTeFVfRktTM0tPTmNDR1R4X0tYMWtEaXJsUmszT1c4UVUzTnBnSjBrYVl3VjFJMl90V3ppUndWTXRsRzI5bmFjRUJOUWdjQktjLVJlZzVKWEVB?oc=5",
+      "source": "Valve Steam Deck",
+      "publisher": "Steam",
+      "description": "Crinimal Land Steam",
+      "published_utc": "2026-11-22T08:00:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fYUEzaGhsZ3pvUzBCb1FTeFVfRktTM0tPTmNDR1R4X0tYMWtEaXJsUmszT1c4UVUzTnBnSjBrYVl3VjFJMl90V3ppUndWTXRsRzI5bmFjRUJOUWdjQktjLVJlZzVKWEVB?oc=5",
+          "source": "Valve Steam Deck",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T08:00:00+00:00",
+          "title": "Crinimal Land - Steam"
+        }
+      ]
+    },
+    {
+      "id": "c0117ba3dcad948c0d713f00",
+      "topic": "handhelds",
+      "title": "Who's NULL? - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XZzhNQ2pCSUlUc09LcU1la3F3MDNDSE1uQTB3dGx3dDJXaWhvWjdNd3FUdGVld2JMaW5ZVnNZclZuR1YwVnhZNENNWXJLN2hyV25OMjBoZy0xQTExWm5DY2p5RQ?oc=5",
+      "source": "Valve Steam Deck",
+      "publisher": "Steam",
+      "description": "Who's NULL? Steam",
+      "published_utc": "2026-11-22T14:03:46+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XZzhNQ2pCSUlUc09LcU1la3F3MDNDSE1uQTB3dGx3dDJXaWhvWjdNd3FUdGVld2JMaW5ZVnNZclZuR1YwVnhZNENNWXJLN2hyV25OMjBoZy0xQTExWm5DY2p5RQ?oc=5",
+          "source": "Valve Steam Deck",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T14:03:46+00:00",
+          "title": "Who's NULL? - Steam"
+        }
+      ]
+    },
+    {
+      "id": "0b97d503322212158c60b268",
+      "topic": "racing_games",
+      "title": "6h of Pelotas Street Circuit (year 1963 onwards) - Reviews - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRlZTRFVYOC16WjltOHZWZWJYWEctRXN5dWNzQUowUzgxUUhWYTI0R1dkdVU5bW5uVExFUXVRaEUwQS1uQVhaNzNfSkhoZ0ZQTWNjc3YxZHVFdEpVNzVKU2gxM21zMWdTYjJ1SVBYU3RtbHFQdHczQVFOaU9va0lYRnV5MG40UUV0RWJzUzQ3YWR4NVZDYjZJU2Vn?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "6h of Pelotas Street Circuit (year 1963 onwards) - Reviews overtake.gg",
+      "published_utc": "2026-11-22T10:54:19+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRlZTRFVYOC16WjltOHZWZWJYWEctRXN5dWNzQUowUzgxUUhWYTI0R1dkdVU5bW5uVExFUXVRaEUwQS1uQVhaNzNfSkhoZ0ZQTWNjc3YxZHVFdEpVNzVKU2gxM21zMWdTYjJ1SVBYU3RtbHFQdHczQVFOaU9va0lYRnV5MG40UUV0RWJzUzQ3YWR4NVZDYjZJU2Vn?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T10:54:19+00:00",
+          "title": "6h of Pelotas Street Circuit (year 1963 onwards) - Reviews - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "4c831223bdf28b49631bedaf",
+      "topic": "racing_games",
+      "title": "F1 2020 (MODULAR MOD) - 2026 Regulations Mod + Handling Overhaul and Damage Mod 2.1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVzBhbkdUMFhJa2ZvRmRTcFE3c3p4QUIxTnVzczBTUnNja2g4clVFSl9tM0ZpSGhHaG5wcFhiV2dfMW1YQ0lOd3ZUZ285eXJhX2owV2dra1RsdF8tLXNIOFcyMjllQ010NnNWX19jTGM2UEJhaXNkdlJzZEdxQXBWNHlxWWpqa0VUZWZRZG96NUNRVW9CNXpJTVF4TE5vcHVTeE1MTHJ0c3JxSE9kT3RWMWpwVjU?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "F1 2020 (MODULAR MOD) - 2026 Regulations Mod + Handling Overhaul and Damage Mod 2.1 overtake.gg",
+      "published_utc": "2026-11-21T23:48:28+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVzBhbkdUMFhJa2ZvRmRTcFE3c3p4QUIxTnVzczBTUnNja2g4clVFSl9tM0ZpSGhHaG5wcFhiV2dfMW1YQ0lOd3ZUZ285eXJhX2owV2dra1RsdF8tLXNIOFcyMjllQ010NnNWX19jTGM2UEJhaXNkdlJzZEdxQXBWNHlxWWpqa0VUZWZRZG96NUNRVW9CNXpJTVF4TE5vcHVTeE1MTHJ0c3JxSE9kT3RWMWpwVjU?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T23:48:28+00:00",
+          "title": "F1 2020 (MODULAR MOD) - 2026 Regulations Mod + Handling Overhaul and Damage Mod 2.1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "e7fd78218c7b81208003cfe4",
+      "topic": "racing_games",
+      "title": "attack assist (when your racing line assist is blocked) - Updates - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObnY5OExQYzI5TEVEbVpPQjQyZHhSVGFtVXVQOG1xR0NEeWtTQWtCNmxJdllFRWI3M0dIOHZBTDJ6dzVhNzRvODUyQU9tc1RXU1cyRkNlZ2FNb1ZsaEJwLWtNUjFRQ3NNaFBjc3g3NU1zdVlXZHFqSlpfVTVfbE5tWS1RZTFOS2dhcnNOakhIYnlvVHFyMWJWTWZaYU56QWZDUDR3?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "attack assist (when your racing line assist is blocked) - Updates overtake.gg",
+      "published_utc": "2026-11-22T14:02:12+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObnY5OExQYzI5TEVEbVpPQjQyZHhSVGFtVXVQOG1xR0NEeWtTQWtCNmxJdllFRWI3M0dIOHZBTDJ6dzVhNzRvODUyQU9tc1RXU1cyRkNlZ2FNb1ZsaEJwLWtNUjFRQ3NNaFBjc3g3NU1zdVlXZHFqSlpfVTVfbE5tWS1RZTFOS2dhcnNOakhIYnlvVHFyMWJWTWZaYU56QWZDUDR3?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T14:02:12+00:00",
+          "title": "attack assist (when your racing line assist is blocked) - Updates - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "065305efc341a5ebc6a581f2",
+      "topic": "racing_games",
+      "title": "SafariRally 2 Stages (WRC to ACR) 0.37 Ready! 1.5.pak - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZmxsSFROREVTbjJ1X0d3ZjF3V0ZtWkczcjF0dFdKUVpHQlNxekxidVpGVkVhN3ZBUExXVGFqMV9Kb0VWZHFFTWRUQXVqMXlCZ0lQUWVNZnVGZ2JrSER1RTFXVHQzM0lLZnphT0F2NXVmcjk5ZHAzNEk2MUVxSkFtem5jc3Fsc1Bmc3ZJ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "SafariRally 2 Stages (WRC to ACR) 0.37 Ready! 1.5.pak overtake.gg",
+      "published_utc": "2026-11-22T04:14:42+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZmxsSFROREVTbjJ1X0d3ZjF3V0ZtWkczcjF0dFdKUVpHQlNxekxidVpGVkVhN3ZBUExXVGFqMV9Kb0VWZHFFTWRUQXVqMXlCZ0lQUWVNZnVGZ2JrSER1RTFXVHQzM0lLZnphT0F2NXVmcjk5ZHAzNEk2MUVxSkFtem5jc3Fsc1Bmc3ZJ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T04:14:42+00:00",
+          "title": "SafariRally 2 Stages (WRC to ACR) 0.37 Ready! 1.5.pak - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "d9f2a329db3c99546ed74f48",
+      "topic": "racing_games",
+      "title": "PMR Gessy GT4 SUPERCUP - Reviews - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpUnpTczNQbk9tVHh5UzA3U2JGYWFidXh4cEFFVHpqRUtPVDMtNkZ2Q2dwYzg2VW5rYktPUEhjcklDel9JVmxZT1hqQUhLV21USExuM0hiRnNzTWVCSEgxeXo4SnNBWm9TTl9Zamc4dnRDRVlvSFdqNkFn?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "PMR Gessy GT4 SUPERCUP - Reviews overtake.gg",
+      "published_utc": "2026-11-21T21:10:16+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpUnpTczNQbk9tVHh5UzA3U2JGYWFidXh4cEFFVHpqRUtPVDMtNkZ2Q2dwYzg2VW5rYktPUEhjcklDel9JVmxZT1hqQUhLV21USExuM0hiRnNzTWVCSEgxeXo4SnNBWm9TTl9Zamc4dnRDRVlvSFdqNkFn?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T21:10:16+00:00",
+          "title": "PMR Gessy GT4 SUPERCUP - Reviews - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "875010c8a742da5da2d58045",
+      "topic": "racing_games",
+      "title": "[DELETED] - Reviews - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80Q2tjaGhWdkNhOUJQRlZUQUozaE5tMjhoeE9qaG14VzJZRjdqVFVNQ0kyRDN0Q1lFcnNjOUVrTTdsQUlNbnd0N211MXJBUDJ0U1pOTld2bE1hMU9qM0drUHA3YzY3UQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "[DELETED] - Reviews overtake.gg",
+      "published_utc": "2026-11-22T14:36:11+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80Q2tjaGhWdkNhOUJQRlZUQUozaE5tMjhoeE9qaG14VzJZRjdqVFVNQ0kyRDN0Q1lFcnNjOUVrTTdsQUlNbnd0N211MXJBUDJ0U1pOTld2bE1hMU9qM0drUHA3YzY3UQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T14:36:11+00:00",
+          "title": "[DELETED] - Reviews - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "13e5ee72f5edfc0ca250f61a",
+      "topic": "racing_games",
+      "title": "IZTECH RACING vFSAA IV Livery - History - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTktHa010YXZEbFpNRlJ6VDVjaGV3azNsS25mSDlEd1VWRjZhcWRiN0hiWlA3OUZQZXZFVF96U3hXTFgyNnpaZ21yZEZtanNiUHFoQkppSGY5VUFfQ25LTmFiRFQ3ZEstWllXTnhzV3dJb3RFM0FMWmFwa2tJbkhRdkJ4NA?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "IZTECH RACING vFSAA IV Livery - History overtake.gg",
+      "published_utc": "2026-11-22T04:38:12+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTktHa010YXZEbFpNRlJ6VDVjaGV3azNsS25mSDlEd1VWRjZhcWRiN0hiWlA3OUZQZXZFVF96U3hXTFgyNnpaZ21yZEZtanNiUHFoQkppSGY5VUFfQ25LTmFiRFQ3ZEstWllXTnhzV3dJb3RFM0FMWmFwa2tJbkhRdkJ4NA?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T04:38:12+00:00",
+          "title": "IZTECH RACING vFSAA IV Livery - History - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "2698685e4d8ea0f2d9678099",
+      "topic": "racing_games",
+      "title": "Ken Block racing suit - Helmet / Suit / Glooves / Boots v1.01 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWW9RTGZLZU9GSUF6Uzk4VUticUtDdUhzRVA3TTFnWEYxUURWLVlHMERqbjBfM0x5SXVEUWFxd3pldDl6ZkFSTXBvalJSSVR4TDFUSmVVMFZLdElQT1BlUWZnWjVlRVdkUVNTeHlMcC0wVTNmS2tySi1GbllESWVMazFjS3A5cHo2MEhuQUNlTTVGN0ZDMWgzV0N1Zw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Ken Block racing suit - Helmet / Suit / Glooves / Boots v1.01 overtake.gg",
+      "published_utc": "2026-11-21T16:09:09+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWW9RTGZLZU9GSUF6Uzk4VUticUtDdUhzRVA3TTFnWEYxUURWLVlHMERqbjBfM0x5SXVEUWFxd3pldDl6ZkFSTXBvalJSSVR4TDFUSmVVMFZLdElQT1BlUWZnWjVlRVdkUVNTeHlMcC0wVTNmS2tySi1GbllESWVMazFjS3A5cHo2MEhuQUNlTTVGN0ZDMWgzV0N1Zw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T16:09:09+00:00",
+          "title": "Ken Block racing suit - Helmet / Suit / Glooves / Boots v1.01 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "3ffcd4f445d8fe4b81dc58f1",
+      "topic": "racing_games",
+      "title": "My Team Macarena Wing – Red Bull Style [Swofty] v0.2.2 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnhvQnl4MVNKQ3FXUTBObDJpM3d6VDkxbGdTZGxmOG80MERJakF6Q3ZYZGVHWEQzUWNJNUJHMWdlWjI5RnhaV200Z1ZjMUZTUUlsdnhRWUFEc3J1aEFCVXM1bVozM2dKY2Ftc1p6RkJkdGpQSW02Vk5DYVpQZjdDVU5TNkJFM0MyM21XOTRpelo3VDJwcXZsWW9n?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "My Team Macarena Wing – Red Bull Style [Swofty] v0.2.2 overtake.gg",
+      "published_utc": "2026-11-22T06:57:05+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnhvQnl4MVNKQ3FXUTBObDJpM3d6VDkxbGdTZGxmOG80MERJakF6Q3ZYZGVHWEQzUWNJNUJHMWdlWjI5RnhaV200Z1ZjMUZTUUlsdnhRWUFEc3J1aEFCVXM1bVozM2dKY2Ftc1p6RkJkdGpQSW02Vk5DYVpQZjdDVU5TNkJFM0MyM21XOTRpelo3VDJwcXZsWW9n?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T06:57:05+00:00",
+          "title": "My Team Macarena Wing – Red Bull Style [Swofty] v0.2.2 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "ba086e744c6104739f56f81a",
+      "topic": "racing_games",
+      "title": "LANCIA DELTA S4 EVO2 MARTINI RACING INSPIRATION LANCIA ECV - History - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUkRQUndHcG1XREF3dDFIOTA1dU9GLVZNd3JXR2pVNHgtLTZnY0VHMUVqcU5RdFFRSlA2NmYwV0pyWE5ZYllzeFQtbl9pZTMxVnh5VWtlMzZXZ1cxNmRuR0xQa2ZaTGUwWG9IX3lJSDA2QUhDSHdGUjlHYzhZQzFwaXdXV0RucC1JbVJUZ004QUhZdHZWcURFZW1wNmhMV1NlMzI3UzZMekZtdw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "LANCIA DELTA S4 EVO2 MARTINI RACING INSPIRATION LANCIA ECV - History overtake.gg",
+      "published_utc": "2026-11-21T20:46:58+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUkRQUndHcG1XREF3dDFIOTA1dU9GLVZNd3JXR2pVNHgtLTZnY0VHMUVqcU5RdFFRSlA2NmYwV0pyWE5ZYllzeFQtbl9pZTMxVnh5VWtlMzZXZ1cxNmRuR0xQa2ZaTGUwWG9IX3lJSDA2QUhDSHdGUjlHYzhZQzFwaXdXV0RucC1JbVJUZ004QUhZdHZWcURFZW1wNmhMV1NlMzI3UzZMekZtdw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T20:46:58+00:00",
+          "title": "LANCIA DELTA S4 EVO2 MARTINI RACING INSPIRATION LANCIA ECV - History - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "637e7bab55ef56021cf252d0",
+      "topic": "racing_games",
+      "title": "Pontiac Racing TAKEOVERT RED BULL RACING - History - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE3dXJvSVBXbThMSllzN2dPc3VQdG5CNjJtSExBZ1VCazFIWVFJS3BIWUFqM2JzNXh1bFlSTk9md3dueFZOY19pS0FpQVBnbjdZMEhjQlJYc0xLVzhtbFU2NHpUdW5nSVl5R1EtVFhHTU1UelhRUVVxMDJYV0RBa29qTGcxSHQzQ0N3WEgtSmliUQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Pontiac Racing TAKEOVERT RED BULL RACING - History overtake.gg",
+      "published_utc": "2026-11-22T01:51:21+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE3dXJvSVBXbThMSllzN2dPc3VQdG5CNjJtSExBZ1VCazFIWVFJS3BIWUFqM2JzNXh1bFlSTk9md3dueFZOY19pS0FpQVBnbjdZMEhjQlJYc0xLVzhtbFU2NHpUdW5nSVl5R1EtVFhHTU1UelhRUVVxMDJYV0RBa29qTGcxSHQzQ0N3WEgtSmliUQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T01:51:21+00:00",
+          "title": "Pontiac Racing TAKEOVERT RED BULL RACING - History - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "db0a667f8e7069db96d99d6f",
+      "topic": "racing_games",
+      "title": "takeovert red bull racing - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UTGhwU1hhT3FpOGJFNXpOSlRUMXZVemVGTzU5X2VHTkstSUxCOEh3ZDhkUHR4eGpXV0dOSU1zNFpUelBnV3IxYXNjc0lRX1Bhai1Pa3NKUXExcjA0SUxWVHhzd3V0dw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "takeovert red bull racing overtake.gg",
+      "published_utc": "2026-11-22T01:43:36+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UTGhwU1hhT3FpOGJFNXpOSlRUMXZVemVGTzU5X2VHTkstSUxCOEh3ZDhkUHR4eGpXV0dOSU1zNFpUelBnV3IxYXNjc0lRX1Bhai1Pa3NKUXExcjA0SUxWVHhzd3V0dw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T01:43:36+00:00",
+          "title": "takeovert red bull racing - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "8539d5cd1451efc8cdfcfaa9",
+      "topic": "racing_games",
+      "title": "IZTECH RACING vFSAA IV Livery - Extra info - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSl91NHVPVkwtM252UV8xSmhtS3FwMzh5S296LXdaek9WMFpjcEhCLWtfMVFGVTdIVGhyM1BOYWxYQVZMdXJOc2ZwQXpVZGRQaWdVTC11QzNtbS1rZm56dF8wZktTRkhUVWdNYUFVbk1zMWtHNkNaeHdNRzFodGhBUDV0ZjEzODVyTGlxQW9uSklMYVZ4cGRJ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "IZTECH RACING vFSAA IV Livery - Extra info overtake.gg",
+      "published_utc": "2026-11-22T04:38:13+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSl91NHVPVkwtM252UV8xSmhtS3FwMzh5S296LXdaek9WMFpjcEhCLWtfMVFGVTdIVGhyM1BOYWxYQVZMdXJOc2ZwQXpVZGRQaWdVTC11QzNtbS1rZm56dF8wZktTRkhUVWdNYUFVbk1zMWtHNkNaeHdNRzFodGhBUDV0ZjEzODVyTGlxQW9uSklMYVZ4cGRJ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T04:38:13+00:00",
+          "title": "IZTECH RACING vFSAA IV Livery - Extra info - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "a6676c44d1e60083ed5a1182",
+      "topic": "racing_games",
+      "title": "Pontiac Racing TAKEOVERT RED BULL RACING - Extra info - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYUtrcnpsSVhFbjVCLTJ6dlZaOWJlLWpkWTdzbFRNT1d5aWVwY3FtemJlLUlCb29nNTNOZXI4QUhmSk12LTF3OGtVY3lDSmQzNzBvYkNmUTM5Y1lmczN5a1h6bmYtSEtsRFpsaGhkVWhBVWExX0d4YXNiUzZLbGJDUzgyM19zRi01TS1TdU1zLVZ3YTB1UE1TTWhXZ2tZbzlQWW9vVVln?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Pontiac Racing TAKEOVERT RED BULL RACING - Extra info overtake.gg",
+      "published_utc": "2026-11-22T01:43:22+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYUtrcnpsSVhFbjVCLTJ6dlZaOWJlLWpkWTdzbFRNT1d5aWVwY3FtemJlLUlCb29nNTNOZXI4QUhmSk12LTF3OGtVY3lDSmQzNzBvYkNmUTM5Y1lmczN5a1h6bmYtSEtsRFpsaGhkVWhBVWExX0d4YXNiUzZLbGJDUzgyM19zRi01TS1TdU1zLVZ3YTB1UE1TTWhXZ2tZbzlQWW9vVVln?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T01:43:22+00:00",
+          "title": "Pontiac Racing TAKEOVERT RED BULL RACING - Extra info - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "260ff186206110850306ec6f",
+      "topic": "racing_games",
+      "title": "F1 26 Race Engineer by Gallagheri (Free Version) 1.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTlVFdzdmbFVxUVlmUm4xZkdrdmcwZUhWVWwxOFNySkVBY1ZQQ2x6UENuTEw2bEVFVFFGWGkySm5scTU5MWlKdU5lWWVxM3pGeGJxVUNmeTZsVmR1TjFXTmlZVExkZGhxMG5POXRKcEZEa19icEFGc25feWtPMVBQWlcwWXppUEhBMkdWWU4yc1o?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "F1 26 Race Engineer by Gallagheri (Free Version) 1.0 overtake.gg",
+      "published_utc": "2026-11-21T23:42:06+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTlVFdzdmbFVxUVlmUm4xZkdrdmcwZUhWVWwxOFNySkVBY1ZQQ2x6UENuTEw2bEVFVFFGWGkySm5scTU5MWlKdU5lWWVxM3pGeGJxVUNmeTZsVmR1TjFXTmlZVExkZGhxMG5POXRKcEZEa19icEFGc25feWtPMVBQWlcwWXppUEhBMkdWWU4yc1o?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T23:42:06+00:00",
+          "title": "F1 26 Race Engineer by Gallagheri (Free Version) 1.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "436655b1a81816471c4145de",
+      "topic": "racing_games",
+      "title": "Lancia Delta Integrale \"Iaveris\" \"El-Em\" 39. Acropolis Rally 1992 2026-11-22 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZEtoWDVxMnBaVU5Gc1ZyWjFuVE95Q1IzcGoxdUkzdjRxd0NOQjFKaVV3TUJxeVg4blNiR0RYUmhhT1VYSks4ckFNVWZocjdUVy1ibGE5ZWJ0eWtDZ3JEVFRJVzh6bUk3YW92bEJBdjBGa2s0OU8zaV9qdkZ0elFuVFN6Nkc0b2hZTVZQOTF1MVhnQlo1ZXVKemQ2a1NrdkQya0JF?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Lancia Delta Integrale \"Iaveris\" \"El-Em\" 39. Acropolis Rally 1992 2026-11-22 overtake.gg",
+      "published_utc": "2026-11-22T09:02:32+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZEtoWDVxMnBaVU5Gc1ZyWjFuVE95Q1IzcGoxdUkzdjRxd0NOQjFKaVV3TUJxeVg4blNiR0RYUmhhT1VYSks4ckFNVWZocjdUVy1ibGE5ZWJ0eWtDZ3JEVFRJVzh6bUk3YW92bEJBdjBGa2s0OU8zaV9qdkZ0elFuVFN6Nkc0b2hZTVZQOTF1MVhnQlo1ZXVKemQ2a1NrdkQya0JF?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T09:02:32+00:00",
+          "title": "Lancia Delta Integrale \"Iaveris\" \"El-Em\" 39. Acropolis Rally 1992 2026-11-22 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "7dc4d5670895269a5c250814",
+      "topic": "racing_games",
+      "title": "Ken Block racing suit - Helmet / Suit / Glooves / Boots - History - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2RTNnpaZzNLdFFmcDRqNF93clVDbG5ZREtxNGZNbXpDbFZuS00zanFKcklwYjVVS3o0RUtMZ0Z4cXVlT09vcEhtNU9kOUdWdEtvbGQ1OXRtc2pFSzZZM1F4dW5saDFUUGtYRG41ZXNEOXJ0akdqVmlwZWVyaHltTEpxM0xPc21UYXFlV0hRN3NjMkhQc0ZjTnRKcw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Ken Block racing suit - Helmet / Suit / Glooves / Boots - History overtake.gg",
+      "published_utc": "2026-11-22T01:51:27+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2RTNnpaZzNLdFFmcDRqNF93clVDbG5ZREtxNGZNbXpDbFZuS00zanFKcklwYjVVS3o0RUtMZ0Z4cXVlT09vcEhtNU9kOUdWdEtvbGQ1OXRtc2pFSzZZM1F4dW5saDFUUGtYRG41ZXNEOXJ0akdqVmlwZWVyaHltTEpxM0xPc21UYXFlV0hRN3NjMkhQc0ZjTnRKcw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T01:51:27+00:00",
+          "title": "Ken Block racing suit - Helmet / Suit / Glooves / Boots - History - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "587a292c7f7bfa01ca84e535",
+      "topic": "racing_games",
+      "title": "Malfunction - Issue on Logitech PRO Racing Wheel Base DD11 + RS Wheel Hub - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMUFYNzJKUzZZWE1adXdscVNZZFFFeTlJeU42Wml0cmFOSzZTYi1TeGV1UmNlZlpwOXRkM0d2eVNsTkpZVUY4bll4T2tjT2tvbzhwVUZXM0o3R3JTb05zclNnRGhNd21sS3RZR01jR2VxVjI5bjBiNzlxMWdMS0p3ek5VVFR4c2N6UjUyOTdrRXI1clBleDh4VkpGalUyaTEzcjZra3BLZ0NNYnh6RHc?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Malfunction - Issue on Logitech PRO Racing Wheel Base DD11 + RS Wheel Hub overtake.gg",
+      "published_utc": "2026-11-22T03:37:33+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMUFYNzJKUzZZWE1adXdscVNZZFFFeTlJeU42Wml0cmFOSzZTYi1TeGV1UmNlZlpwOXRkM0d2eVNsTkpZVUY4bll4T2tjT2tvbzhwVUZXM0o3R3JTb05zclNnRGhNd21sS3RZR01jR2VxVjI5bjBiNzlxMWdMS0p3ek5VVFR4c2N6UjUyOTdrRXI1clBleDh4VkpGalUyaTEzcjZra3BLZ0NNYnh6RHc?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T03:37:33+00:00",
+          "title": "Malfunction - Issue on Logitech PRO Racing Wheel Base DD11 + RS Wheel Hub - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "44bdcbd5362644fc9ff8e299",
+      "topic": "racing_games",
+      "title": "Tracks - Dusk Drive WIP — matching Rivington Road to our 360° footage - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkw4clkyREgteGJpUFYtamNsSHZlNl9vc0VvRHd5b1kzR0xQZlMyTkh5U1VKZGxrc1RvNlRwQ3BkXzFDV2ZTam84VVpzRExMRGppT0JHbGJHUkFobGJyRy05d19qQW5lbG53ZUoyR0puZDJWdmx4X0tHMVJnV3FFX2VKeWRGTnZuMl9oT0FfRGFCMHg0QVIySU8tc1ZWVUwtTC1LVHF4SHR4UWR4Z3FLTmtyMA?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Tracks - Dusk Drive WIP — matching Rivington Road to our 360° footage overtake.gg",
+      "published_utc": "2026-11-22T12:26:56+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkw4clkyREgteGJpUFYtamNsSHZlNl9vc0VvRHd5b1kzR0xQZlMyTkh5U1VKZGxrc1RvNlRwQ3BkXzFDV2ZTam84VVpzRExMRGppT0JHbGJHUkFobGJyRy05d19qQW5lbG53ZUoyR0puZDJWdmx4X0tHMVJnV3FFX2VKeWRGTnZuMl9oT0FfRGFCMHg0QVIySU8tc1ZWVUwtTC1LVHF4SHR4UWR4Z3FLTmtyMA?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T12:26:56+00:00",
+          "title": "Tracks - Dusk Drive WIP — matching Rivington Road to our 360° footage - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "50847144b3dcebd8aebb851f",
+      "topic": "racing_games",
+      "title": "Misc - Assetto Corsa Rally PL- Spolszczenie v3.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQkpJNlBuM0RZLWNYUjBQTExPOUtuaVBnV3pNenFtUjNaXzNvR0hzQ0pIQ3pnNFZ6X0phck1sa05WRFY3S0l2eXpjckNmOHp0dTM1NEtYMzQ0clhhZHF2VDRUV1NlcnBUV1lLdkRmM1A4ZGRxWG9ReHBEWDRIMlRIa052Q3cxb2c?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Misc - Assetto Corsa Rally PL- Spolszczenie v3.0 overtake.gg",
+      "published_utc": "2026-11-21T15:26:15+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQkpJNlBuM0RZLWNYUjBQTExPOUtuaVBnV3pNenFtUjNaXzNvR0hzQ0pIQ3pnNFZ6X0phck1sa05WRFY3S0l2eXpjckNmOHp0dTM1NEtYMzQ0clhhZHF2VDRUV1NlcnBUV1lLdkRmM1A4ZGRxWG9ReHBEWDRIMlRIa052Q3cxb2c?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T15:26:15+00:00",
+          "title": "Misc - Assetto Corsa Rally PL- Spolszczenie v3.0 - overtake.gg"
+        }
+      ]
+    }
+  ],
+  "date_unknown": [],
+  "health": {}
+}

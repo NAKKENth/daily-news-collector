@@ -1,0 +1,64 @@
+{
+  "schema_version": 2,
+  "date_jst": "2026-11-20",
+  "group": "games_handhelds",
+  "title": "ゲーム・ハンドヘルド",
+  "status": "candidate_collection_only",
+  "items": [
+    {
+      "id": "56f348b5712afb7739b67cda",
+      "topic": "handhelds",
+      "title": "nightly-20261120",
+      "url": "https://github.com/ROCKNIX/distribution-nightly/releases/tag/nightly-20261120",
+      "source": "ROCKNIX nightly",
+      "publisher": "ROCKNIX/distribution-nightly",
+      "description": "Changelog since last nightly: ### 🐧 Kernel & Boot - linux: kernel config (@github-merge-queue[bot]) ([e63b1e7](https://github.com/ROCKNIX/distribution/commit/e63b1e731f3c6ab4a656e1732a9d7ce999081ee7)) ### 🎮 Emulators & Frontend - dsperate-sa: bump to v3.5.0 (@beebono) ([e3bbb84](https://github.com/ROCKNIX/distribution/commit/e3bbb8491433ebd818cbd2c",
+      "published_utc": "2026-11-20T13:01:37+00:00",
+      "date_jst": "2026-11-20",
+      "timestamp_basis": "github_release_published",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "review",
+      "triage_reason": "GitHub開発情報",
+      "sources": [
+        {
+          "url": "https://github.com/ROCKNIX/distribution-nightly/releases/tag/nightly-20261120",
+          "source": "ROCKNIX nightly",
+          "publisher": "ROCKNIX/distribution-nightly",
+          "timestamp_basis": "github_release_published",
+          "published_utc": "2026-11-20T13:01:37+00:00",
+          "title": "nightly-20261120"
+        }
+      ],
+      "prerelease": true
+    },
+    {
+      "id": "c98b955458096ff85e3a8305",
+      "topic": "emulators",
+      "title": "Merged PR #20133: rsx/fp: Fix typo in programmable blending shader",
+      "url": "https://github.com/RPCS3/rpcs3/pull/20133",
+      "source": "RPCS3 merged PR",
+      "publisher": "RPCS3/rpcs3",
+      "description": "Closes https://github.com/RPCS3/rpcs3/issues/20132 Closes https://github.com/RPCS3/rpcs3/issues/20108",
+      "published_utc": "2026-11-20T12:38:42+00:00",
+      "date_jst": "2026-11-20",
+      "timestamp_basis": "github_pr_merged",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "priority",
+      "triage_reason": "GitHub開発情報",
+      "sources": [
+        {
+          "url": "https://github.com/RPCS3/rpcs3/pull/20133",
+          "source": "RPCS3 merged PR",
+          "publisher": "RPCS3/rpcs3",
+          "timestamp_basis": "github_pr_merged",
+          "published_utc": "2026-11-20T12:38:42+00:00",
+          "title": "Merged PR #20133: rsx/fp: Fix typo in programmable blending shader"
+        }
+      ]
+    }
+  ],
+  "date_unknown": [],
+  "health": {}
+}

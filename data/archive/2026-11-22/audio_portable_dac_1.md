@@ -1,0 +1,5 @@
+# portable_dac / 2026-11-22 / 候補 1–3
+
+- [FiiO Community-FiiO forum - FiiO forum](https://news.google.com/rss/articles/CBMiggFBVV95cUxOOGFoSG1GTkdsdWtWWnBYZEswYnVUczJ3THN1MGtVYWhqMGoybUc1RG5kUGx6dVA1NVduVGh1QU5HQ0ZNaWZIYWVNVFdoRXFPdXVqUGVBRmJUa2pTNE1nbFJvUDFsVEViUnk1bmhNcmtXUGl1YlU2M050Tzd1OUlnNUdB?oc=5) — FiiO｜要確認｜2026-11-22T08:00:00+00:00 UTC｜discovery_index
+- [Interesting games for the evening on website - FiiO forum](https://news.google.com/rss/articles/CBMigwFBVV95cUxNR1lUYlJ5WjJPR3l3RGZwYTlZUVBZUUp6RmNzZlU0R0tVcGdXbmhoLXFieTZ6QlJucmpyTmNBQ3hrSmw3Z2Vfc0gwQ2tMTU9vbHhieDRqclVNNWU1VVVzSWNqX2I1WUM1Wlh3WWo2WXlBbkZyRlA0YnRJOG5ZUW95Q3JYRQ?oc=5) — FiiO｜要確認｜2026-11-22T11:50:43+00:00 UTC｜discovery_index
+- [Weiss DAC 501 MKII - Head-Fi.org](https://news.google.com/rss/articles/CBMib0FVX3lxTE5ReWljYUZoaWR4WXBNQnpGRnZrMUllUGhfR2Q5ald6UEhfU2UzdnRZdE1nbW9ZTGU5MHZUeU5yX1NBeGZlSjZOYk5VVG45WnNiQWZhRVoxRl9IVlpGc0JQOXBRNmZaLXUwLXZpTklXVQ?oc=5) — Head-Fi｜要確認｜2026-11-22T09:54:30+00:00 UTC｜discovery_index

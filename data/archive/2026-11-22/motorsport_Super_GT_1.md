@@ -1,0 +1,4 @@
+# Super GT / 2026-11-22 / 候補 1–2
+
+- [Team LeMans w/MOTOYAMA Racing Driver Satoshi Motoyama - Super GT](https://news.google.com/rss/articles/CBMid0FVX3lxTE1BdGJ6WkVaM3lVUmkxMG8yMzB5LWVJVzJIZEFLSFdVdXR3QzhpSEV0WDdnOVdOX0NZb3RHYkNaaURFR19tNkJ4dXRwekZrZk5xVm0zY3ZCV3NSZkoxa25VQWZ5Ymp1a0F3ZFIwVmZHT3pCUUFRamxR?oc=5) — Super GT Official｜要確認｜2026-11-21T16:20:33+00:00 UTC｜discovery_index
+- [【第8戦 もてぎ】決勝上位コメント／GT300 - Super GT](https://news.google.com/rss/articles/CBMilwJBVV95cUxPZVRSOWNmaWttMm9tWi1sUUQzQl82SXBXb0dCbHFvTFdRMEFkSm9XemRUa0tnTUpNdkVxaHdrUm5IQVFUd0pjWWNrTHMwYW8yZXk4eUo0TVRrYnlxcW1JcFBfUUtJaGJOQTZzdHYxeW4zNzZnOEpaQjhUbklYN3dPeGY0dE1FczZwRnN2M2JxVHAtaC13X0o4Vm9iazRYUGJtcnJZdjdJcF80SGp5emxyaWJZV05GZy1kNmhVUEROa0JzdFBJN1NSME1vMGp3MExWNlJ0Zzk2Yjl2MEVWclVmSnJxQ0MtS244TWRDbkMyRndoc1JqakxQQ080VkNqWHI4MVNmLUtSVC1ueGxyRXQ1V3U1YTBmVG8?oc=5) — Super GT Official｜要確認｜2026-11-21T18:34:46+00:00 UTC｜discovery_index

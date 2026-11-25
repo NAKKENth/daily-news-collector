@@ -1294,7 +1294,7 @@
       "url": "https://www.techpowerup.com/355141/intel-arc-g3-extreme-powered-onexplayer-x2-handheld-gets-limited-edition-evangelion-edition",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "One-Netbook, the maker of the OneXPlayer gaming handhelds and mini 2-in-1 laptops, like the X1 and X1 Pro, has officially announced the OneXPlayer X2 x Neon Genesis Evangelion Unit-02 Asuka Limited Edition handheld, giving the Intel Panther Lake-powered gaming handheld a new lick of paint...",
+      "description": "One-Netbook, the maker of the OneXPlayer gaming handhelds and mini 2-in-1 laptops, like the X1 and X1 Pro, has officially announced the OneXPlayer X2 x Neon Genesis Evangelion Unit-02 Asuka Limited Edition handheld, giving the Intel Panther Lake-powered gaming handheld a new lick of paint inspired by the iconic anime series. With the Neon Genesis E",
       "published_utc": "2026-11-23T22:48:16+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -1468,16 +1468,16 @@
     {
       "id": "d645ac6f91830f7c94454d53",
       "topic": "handhelds",
-      "title": "There's A Secret Super Mario Easter Egg Hidden In GTA VI With Hats As Rewards",
+      "title": "There's A Secret Super  Mario Easter Egg Hidden In GTA VI With Hats As Rewards",
       "url": "https://retrododo.com/theres-a-secret-super-mario-easter-egg-hidden-in-gta-vi-with-hats-as-rewards",
       "source": "Retro Dodo",
       "publisher": "Retro Dodo",
-      "description": "🤝 Don't want to see ads? Become a premium member for $3 a month and support an independent publication today! I've just managed to hit Chapter 2 in GTA VI and still have 80% of the game to go. I've only made a",
+      "description": "🤝Don't want to see ads? Become a premium member for $3 a month and support an independent publication today! I've just managed to hit Chapter 2 in GTA VI and still have 80% of the game to go. I've only made a small dent, and that's after 10 hours of gaming. It's a big game, but that's not stopping content creators from already completing it and sco",
       "published_utc": "2026-11-24T09:33:47+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1485,11 +1485,15 @@
           "url": "https://retrododo.com/theres-a-secret-super-mario-easter-egg-hidden-in-gta-vi-with-hats-as-rewards",
           "source": "Retro Dodo",
           "publisher": "Retro Dodo",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T09:33:47+00:00",
-          "title": "There's A Secret Super Mario Easter Egg Hidden In GTA VI With Hats As Rewards"
+          "title": "There's A Secret Super  Mario Easter Egg Hidden In GTA VI With Hats As Rewards"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T09:33:47.000Z",
+      "article_modified_raw": "2026-11-24T09:33:47.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "20853448e5b0b7fec144fef2",
@@ -3436,9 +3440,9 @@
   ],
   "date_unknown": [],
   "health": {
+    "deferred": 11,
     "partial": 4,
     "ok": 15,
-    "deferred": 11,
     "empty": 11,
     "manual": 4
   }

@@ -1,0 +1,593 @@
+{
+  "schema_version": 2,
+  "date_jst": "2026-11-21",
+  "group": "games_handhelds",
+  "title": "ゲーム・ハンドヘルド",
+  "status": "candidate_collection_only",
+  "items": [
+    {
+      "id": "433d55dc35143529d391e723",
+      "topic": "peripherals",
+      "title": "Win a Logitech G RS50 Wheel and Pedals With GTPlanet’s Rig Builder",
+      "url": "https://www.gtplanet.net/win-a-logitech-g-rs50-wheel-and-pedals-with-gtplanets-rig-builder-20261120",
+      "source": "GTPlanet",
+      "publisher": "GTPlanet",
+      "description": "GTPlanet and Logitech G are giving away an RS50 System and RS Pedals worth about $860...",
+      "published_utc": "2026-11-20T20:55:30+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "周辺機器候補",
+      "sources": [
+        {
+          "url": "https://www.gtplanet.net/win-a-logitech-g-rs50-wheel-and-pedals-with-gtplanets-rig-builder-20261120",
+          "source": "GTPlanet",
+          "publisher": "GTPlanet",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T20:55:30+00:00",
+          "title": "Win a Logitech G RS50 Wheel and Pedals With GTPlanet’s Rig Builder"
+        }
+      ]
+    },
+    {
+      "id": "bb9a62a4633a34686f83bc6f",
+      "topic": "racing_games",
+      "title": "Gran Turismo 7’s Autumn Ring West Layout Revealed With 32 Turns",
+      "url": "https://www.gtplanet.net/gran-turismo-7s-autumn-ring-west-layout-revealed-with-32-turns-20261120",
+      "source": "GTPlanet",
+      "publisher": "GTPlanet",
+      "description": "The race details for the Gran Turismo World Series World Finals reveal \"Autumn Ring - West\", a 6,350 m, 32-turn layout coming to Gran Turismo 7 in Spec IV Part 2...",
+      "published_utc": "2026-11-20T18:26:02+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://www.gtplanet.net/gran-turismo-7s-autumn-ring-west-layout-revealed-with-32-turns-20261120",
+          "source": "GTPlanet",
+          "publisher": "GTPlanet",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T18:26:02+00:00",
+          "title": "Gran Turismo 7’s Autumn Ring West Layout Revealed With 32 Turns"
+        }
+      ]
+    },
+    {
+      "id": "c5fe848d96d8ccfad6fba2e7",
+      "topic": "racing_games",
+      "title": "GTA 6’s vehicle damage sets phenomenal, metal crushing, new standards - Traxion.GG",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONUlxc0oxOElmWEpjbDR5OGJxdkN1RzJaM2RITHJGNjh1R0lPd1VWbzVsbFRudGVtSi1UN1JpbEtxd1cwWWRyQzFmYnNHQWJVOEoxekJ1emxrVGxWV01VdlFwQlNCQ2YwTjl3SENBSzV1QmhhbmNLc2kwZHpNOTVpaXVkVzNjYzVGYW1XeTNaZw?oc=5",
+      "source": "Traxion",
+      "publisher": "Traxion.GG",
+      "description": "GTA 6’s vehicle damage sets phenomenal, metal crushing, new standards Traxion.GG",
+      "published_utc": "2026-11-21T12:55:43+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONUlxc0oxOElmWEpjbDR5OGJxdkN1RzJaM2RITHJGNjh1R0lPd1VWbzVsbFRudGVtSi1UN1JpbEtxd1cwWWRyQzFmYnNHQWJVOEoxekJ1emxrVGxWV01VdlFwQlNCQ2YwTjl3SENBSzV1QmhhbmNLc2kwZHpNOTVpaXVkVzNjYzVGYW1XeTNaZw?oc=5",
+          "source": "Traxion",
+          "publisher": "Traxion.GG",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T12:55:43+00:00",
+          "title": "GTA 6’s vehicle damage sets phenomenal, metal crushing, new standards - Traxion.GG"
+        }
+      ]
+    },
+    {
+      "id": "75fb5965382089b02855c75f",
+      "topic": "racing_games",
+      "title": "Forza Horizon 6 - Steam",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZmx0c3ZxbFlnX2lzMXZVRE9VUWRvTFlVU2wtc3E5T0FTUlJfMFRUVTZZWFV6cTl6M2lKc1h6MTRleUNOaXF1TUpIN01iSnZEeC1KMERPc2tEc0hUZTdoRnhtVGZJRl9FUE5iM0hSc2hfbTNKVVIzNk5qeFNNRVJvek1GRDB5enM?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Forza Horizon 6 Steam",
+      "published_utc": "2026-11-21T12:37:14+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZmx0c3ZxbFlnX2lzMXZVRE9VUWRvTFlVU2wtc3E5T0FTUlJfMFRUVTZZWFV6cTl6M2lKc1h6MTRleUNOaXF1TUpIN01iSnZEeC1KMERPc2tEc0hUZTdoRnhtVGZJRl9FUE5iM0hSc2hfbTNKVVIzNk5qeFNNRVJvek1GRDB5enM?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T12:37:14+00:00",
+          "title": "Forza Horizon 6 - Steam"
+        }
+      ]
+    },
+    {
+      "id": "83402a84592f86b19fd58456",
+      "topic": "emulators",
+      "title": "c0ea2c4_canary_experimental",
+      "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/c0ea2c4",
+      "source": "Xenia Canary",
+      "publisher": "xenia-canary/xenia-canary",
+      "description": "### Changes - [x64] Pack a NaN as the field's minimum in vpkd3d128 (`c0ea2c4`) - [PPC] Set VSCR[SAT] when vpkd3d128 saturates (`6fc314d`) **Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/1ac5eb8...c0ea2c4",
+      "published_utc": "2026-11-21T13:03:41+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "github_release_published",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "review",
+      "triage_reason": "開発ビルド・軽微変更の内容確認",
+      "sources": [
+        {
+          "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/c0ea2c4",
+          "source": "Xenia Canary",
+          "publisher": "xenia-canary/xenia-canary",
+          "timestamp_basis": "github_release_published",
+          "published_utc": "2026-11-21T13:03:41+00:00",
+          "title": "c0ea2c4_canary_experimental"
+        }
+      ],
+      "prerelease": false
+    },
+    {
+      "id": "91bd98148e1a3ee6b85dafe6",
+      "topic": "emulators",
+      "title": "5fce020_canary_experimental",
+      "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/5fce020",
+      "source": "Xenia Canary",
+      "publisher": "xenia-canary/xenia-canary",
+      "description": "### Changes - [Kernel] Read stack arguments from their doubleword's low bytes (`5fce020`) - [Vulkan] Submit barriers before resolve readback copy (`a671574`) **Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/a4ef31c...5fce020",
+      "published_utc": "2026-11-21T12:13:59+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "github_release_published",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "review",
+      "triage_reason": "開発ビルド・軽微変更の内容確認",
+      "sources": [
+        {
+          "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/5fce020",
+          "source": "Xenia Canary",
+          "publisher": "xenia-canary/xenia-canary",
+          "timestamp_basis": "github_release_published",
+          "published_utc": "2026-11-21T12:13:59+00:00",
+          "title": "5fce020_canary_experimental"
+        }
+      ],
+      "prerelease": false
+    },
+    {
+      "id": "39a249ff33f0f41fb6e6dee3",
+      "topic": "emulators",
+      "title": "1ac5eb8_canary_experimental",
+      "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/1ac5eb8",
+      "source": "Xenia Canary",
+      "publisher": "xenia-canary/xenia-canary",
+      "description": "### Changes - [PPC] Set srad and sraw CA when every bit is shifted out (`1ac5eb8`) **Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/5fce020...1ac5eb8",
+      "published_utc": "2026-11-21T12:44:31+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "github_release_published",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "review",
+      "triage_reason": "開発ビルド・軽微変更の内容確認",
+      "sources": [
+        {
+          "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/1ac5eb8",
+          "source": "Xenia Canary",
+          "publisher": "xenia-canary/xenia-canary",
+          "timestamp_basis": "github_release_published",
+          "published_utc": "2026-11-21T12:44:31+00:00",
+          "title": "1ac5eb8_canary_experimental"
+        }
+      ],
+      "prerelease": false
+    },
+    {
+      "id": "382de94a78aa59821bbbbf50",
+      "topic": "emulators",
+      "title": "1867010_canary_experimental",
+      "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/1867010",
+      "source": "Xenia Canary",
+      "publisher": "xenia-canary/xenia-canary",
+      "description": "### Changes - [Kernel] Keep an object header's handle and pointer counts (`1867010`) - [Kernel] Point an object's header at its exported object type (`553f9d2`) **Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/680e9ae...1867010",
+      "published_utc": "2026-11-20T19:29:19+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "github_release_published",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "review",
+      "triage_reason": "開発ビルド・軽微変更の内容確認",
+      "sources": [
+        {
+          "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/1867010",
+          "source": "Xenia Canary",
+          "publisher": "xenia-canary/xenia-canary",
+          "timestamp_basis": "github_release_published",
+          "published_utc": "2026-11-20T19:29:19+00:00",
+          "title": "1867010_canary_experimental"
+        }
+      ],
+      "prerelease": false
+    },
+    {
+      "id": "68c9b23556fc0046773ff9e8",
+      "topic": "emulators",
+      "title": "fefed2f_canary_experimental",
+      "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/fefed2f",
+      "source": "Xenia Canary",
+      "publisher": "xenia-canary/xenia-canary",
+      "description": "### Changes - [Kernel] Queue DPCs until the IRQL drops below DISPATCH_LEVEL (`fefed2f`) **Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/d92b4a2...fefed2f",
+      "published_utc": "2026-11-20T18:24:02+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "github_release_published",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "review",
+      "triage_reason": "開発ビルド・軽微変更の内容確認",
+      "sources": [
+        {
+          "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/fefed2f",
+          "source": "Xenia Canary",
+          "publisher": "xenia-canary/xenia-canary",
+          "timestamp_basis": "github_release_published",
+          "published_utc": "2026-11-20T18:24:02+00:00",
+          "title": "fefed2f_canary_experimental"
+        }
+      ],
+      "prerelease": false
+    },
+    {
+      "id": "be4e66ecec5791bfc29b0a3d",
+      "topic": "emulators",
+      "title": "Azahar 2127.0 Release Candidate 5",
+      "url": "https://github.com/azahar-emu/azahar/releases/tag/2127.0-rc5",
+      "source": "Azahar",
+      "publisher": "azahar-emu/azahar",
+      "description": "⚠️Important Release Candidate Information⚠️ This is a release candidate. Please expand this drop-down to read more about what this means before installing. As a release candidate, this build is not yet considered a stable release, but is instead a build which could be promoted to a stable release if it is sufficiently tested with no major issues be",
+      "published_utc": "2026-11-21T02:41:39+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "github_release_published",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "priority",
+      "triage_reason": "GitHub開発情報",
+      "sources": [
+        {
+          "url": "https://github.com/azahar-emu/azahar/releases/tag/2127.0-rc5",
+          "source": "Azahar",
+          "publisher": "azahar-emu/azahar",
+          "timestamp_basis": "github_release_published",
+          "published_utc": "2026-11-21T02:41:39+00:00",
+          "title": "Azahar 2127.0 Release Candidate 5"
+        }
+      ],
+      "prerelease": true
+    },
+    {
+      "id": "eb353aa727f0ac922cba82bc",
+      "topic": "emulators",
+      "title": "Merged PR #19910: cellSaveData: Pass flags 0 for the functions without userdata",
+      "url": "https://github.com/RPCS3/rpcs3/pull/19910",
+      "source": "RPCS3 merged PR",
+      "publisher": "RPCS3/rpcs3",
+      "description": "Follow up to PR #19905 (that fixed #13792). Analysis, hwtest and fixes made by Opus 5.5. Tested by me. Bug: The six functions without userdata (ListSave, ListLoad, FixedSave, FixedLoad, AutoSave, AutoLoad) get flags 0 from the firmware, but RPCS3 passed 2. As a result, RPCS3 adds the 35 KB of sysSizeKB to their sizeKB and accepts a NULL funcFile. A",
+      "published_utc": "2026-11-21T14:19:25+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "github_pr_merged",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "priority",
+      "triage_reason": "GitHub開発情報",
+      "sources": [
+        {
+          "url": "https://github.com/RPCS3/rpcs3/pull/19910",
+          "source": "RPCS3 merged PR",
+          "publisher": "RPCS3/rpcs3",
+          "timestamp_basis": "github_pr_merged",
+          "published_utc": "2026-11-21T14:19:25+00:00",
+          "title": "Merged PR #19910: cellSaveData: Pass flags 0 for the functions without userdata"
+        }
+      ]
+    },
+    {
+      "id": "e86a8f29c9b6e2b23081f027",
+      "topic": "emulators",
+      "title": "Merged PR #20139: sys_rsx: Avoid vblank-intr starvation deadlock",
+      "url": "https://github.com/RPCS3/rpcs3/pull/20139",
+      "source": "RPCS3 merged PR",
+      "publisher": "RPCS3/rpcs3",
+      "description": "Closes https://github.com/RPCS3/rpcs3/issues/20128 Supersedes https://github.com/RPCS3/rpcs3/pull/20100. EDIT: Reportedly fixes the following: fixes https://github.com/RPCS3/rpcs3/issues/20103 fixes https://github.com/RPCS3/rpcs3/issues/20082 - Toy Story 3 fixes https://github.com/RPCS3/rpcs3/issues/20026 - LittleBigPlanet Karting fixes https://git",
+      "published_utc": "2026-11-21T12:40:07+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "github_pr_merged",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "priority",
+      "triage_reason": "GitHub開発情報",
+      "sources": [
+        {
+          "url": "https://github.com/RPCS3/rpcs3/pull/20139",
+          "source": "RPCS3 merged PR",
+          "publisher": "RPCS3/rpcs3",
+          "timestamp_basis": "github_pr_merged",
+          "published_utc": "2026-11-21T12:40:07+00:00",
+          "title": "Merged PR #20139: sys_rsx: Avoid vblank-intr starvation deadlock"
+        }
+      ]
+    },
+    {
+      "id": "86233745aca4f9db5fb50122",
+      "topic": "emulators",
+      "title": "Merged PR #20135: Qt: try to fix trophy popup crash",
+      "url": "https://github.com/RPCS3/rpcs3/pull/20135",
+      "source": "RPCS3 merged PR",
+      "publisher": "RPCS3/rpcs3",
+      "description": "- Do not use 'this' in the async call from main thread when opening Qt trophy popups. The calling object is destroyed right after construction. Maybe fixes https://github.com/RPCS3/rpcs3/issues/20134",
+      "published_utc": "2026-11-21T08:03:37+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "github_pr_merged",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "priority",
+      "triage_reason": "GitHub開発情報",
+      "sources": [
+        {
+          "url": "https://github.com/RPCS3/rpcs3/pull/20135",
+          "source": "RPCS3 merged PR",
+          "publisher": "RPCS3/rpcs3",
+          "timestamp_basis": "github_pr_merged",
+          "published_utc": "2026-11-21T08:03:37+00:00",
+          "title": "Merged PR #20135: Qt: try to fix trophy popup crash"
+        }
+      ]
+    },
+    {
+      "id": "fd071719ef39997d20417fa6",
+      "topic": "emulators",
+      "title": "Merged PR #15045: Remove installer leftovers",
+      "url": "https://github.com/dolphin-emu/dolphin/pull/15045",
+      "source": "Dolphin merged PR",
+      "publisher": "dolphin-emu/dolphin",
+      "description": "The Linux spec has been outdated for a long time now (it still references 32-bit builds,) while the Windows installer is also outdated and afaict isn't actually used anymore.",
+      "published_utc": "2026-11-21T01:36:36+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "github_pr_merged",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "review",
+      "triage_reason": "GitHub開発情報",
+      "sources": [
+        {
+          "url": "https://github.com/dolphin-emu/dolphin/pull/15045",
+          "source": "Dolphin merged PR",
+          "publisher": "dolphin-emu/dolphin",
+          "timestamp_basis": "github_pr_merged",
+          "published_utc": "2026-11-21T01:36:36+00:00",
+          "title": "Merged PR #15045: Remove installer leftovers"
+        }
+      ]
+    },
+    {
+      "id": "75827df41856bc634625a48f",
+      "topic": "emulators",
+      "title": "Merged PR #15008: HW/WiimoteReal: Fix crash when UI disconnects a Balance Board.",
+      "url": "https://github.com/dolphin-emu/dolphin/pull/15008",
+      "source": "Dolphin merged PR",
+      "publisher": "dolphin-emu/dolphin",
+      "description": "Toggling off `Real Balance Board` triggers `Config::OnConfigChanged` which invokes `~Wiimote()` which invoked `RemoveConfigChangedCallback`. Despite `s_callbacks_lock` being a `recursive_mutex`, `OnConfigChanged` is really not prepared for callbacks to be added/removed from within another callback and this will generally cause a crash from invalide",
+      "published_utc": "2026-11-21T04:11:45+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "github_pr_merged",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "priority",
+      "triage_reason": "GitHub開発情報",
+      "sources": [
+        {
+          "url": "https://github.com/dolphin-emu/dolphin/pull/15008",
+          "source": "Dolphin merged PR",
+          "publisher": "dolphin-emu/dolphin",
+          "timestamp_basis": "github_pr_merged",
+          "published_utc": "2026-11-21T04:11:45+00:00",
+          "title": "Merged PR #15008: HW/WiimoteReal: Fix crash when UI disconnects a Balance Board."
+        }
+      ]
+    },
+    {
+      "id": "31c5fa2227b796ca45540908",
+      "topic": "emulators",
+      "title": "Merged PR #14985: Common/Logging: Minor cleanups and optimizations.",
+      "url": "https://github.com/dolphin-emu/dolphin/pull/14985",
+      "source": "Dolphin merged PR",
+      "publisher": "dolphin-emu/dolphin",
+      "description": "",
+      "published_utc": "2026-11-21T01:37:07+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "github_pr_merged",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "review",
+      "triage_reason": "GitHub開発情報",
+      "sources": [
+        {
+          "url": "https://github.com/dolphin-emu/dolphin/pull/14985",
+          "source": "Dolphin merged PR",
+          "publisher": "dolphin-emu/dolphin",
+          "timestamp_basis": "github_pr_merged",
+          "published_utc": "2026-11-21T01:37:07+00:00",
+          "title": "Merged PR #14985: Common/Logging: Minor cleanups and optimizations."
+        }
+      ]
+    },
+    {
+      "id": "e75eeac060dabbcee21f91d8",
+      "topic": "handhelds",
+      "title": "GPD Win Mini Ultra Pricing Confirmed: Intel Arc G3 Extreme Handheld Starts at $1,699",
+      "url": "https://www.techpowerup.com/355075/gpd-win-mini-ultra-pricing-confirmed-intel-arc-g3-extreme-handheld-starts-at-usd-1-699",
+      "source": "TechPowerUp",
+      "publisher": "TechPowerUp",
+      "description": "GPD has officially published pricing details for the Win Mini Ultra, following the gaming handheld's spec sheet previously being published ahead of the full launch. According to a recent post on X , the Win Mini Ultra will initially be available with 32 GB of RAM and 1 TB of SSD storage, which will sell for $1,699 on Indiegogo . That version of the",
+      "published_utc": "2026-11-21T05:56:41+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "ハンドヘルド候補",
+      "sources": [
+        {
+          "url": "https://www.techpowerup.com/355075/gpd-win-mini-ultra-pricing-confirmed-intel-arc-g3-extreme-handheld-starts-at-usd-1-699",
+          "source": "TechPowerUp",
+          "publisher": "TechPowerUp",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-21T05:56:41+00:00",
+          "title": "GPD Win Mini Ultra Pricing Confirmed: Intel Arc G3 Extreme Handheld Starts at $1,699"
+        }
+      ]
+    },
+    {
+      "id": "a88e5e86f62787dc90dd64fc",
+      "topic": "handhelds",
+      "title": "Mangmi Air X Pro is coming, GPD Win Mini Ultra & Game Awards Nominees // Joey’s Retro Newscast",
+      "url": "https://www.joeysretrohandhelds.com/latest-news/mangmi-air-x-pro-is-coming-gpd-win-mini-ultra-game-awards-nominees-joeys-retro-newscast",
+      "source": "Joey Retro Handhelds",
+      "publisher": "Joey Retro Handhelds",
+      "description": "Sources Software News GammaOS Pico https://github.com/TheGammaSqueeze/GammaOSPico TurnipZ https://github.com/AlexSanz0902/turnip-sd865-z/releases Watermelon https://github.com/SapphireRhodonite/WatermelonDS/releases/tag/0.8.0.rc4 Device News Mangmi Air X Pro Lenovo Legion Go Beam https://www.windowslatest.com/2026/11/18/exclusive-lenovo-legion-go-b",
+      "published_utc": "2026-11-20T18:35:49+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "ハンドヘルド候補",
+      "sources": [
+        {
+          "url": "https://www.joeysretrohandhelds.com/latest-news/mangmi-air-x-pro-is-coming-gpd-win-mini-ultra-game-awards-nominees-joeys-retro-newscast",
+          "source": "Joey Retro Handhelds",
+          "publisher": "Joey Retro Handhelds",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-20T18:35:49+00:00",
+          "title": "Mangmi Air X Pro is coming, GPD Win Mini Ultra & Game Awards Nominees // Joey’s Retro Newscast"
+        }
+      ]
+    },
+    {
+      "id": "5e57ff36c760ffa412dbebdf",
+      "topic": "emulators",
+      "title": "d92b4a2_canary_experimental",
+      "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/d92b4a2",
+      "source": "Xenia Canary",
+      "publisher": "xenia-canary/xenia-canary",
+      "description": "### Changes - [Base] Keep a set manual-reset event's waiters released on POSIX (`d92b4a2`) - [Base] Abandon mutants whose owner exits on Linux (`e30cd98`) - [Base] End alertable waits and sleeps for user callbacks on Linux (`2c2280b`) **Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/b16f502...d92b4a2",
+      "published_utc": "2026-11-20T17:58:54+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "github_release_published",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "review",
+      "triage_reason": "開発ビルド・軽微変更の内容確認",
+      "sources": [
+        {
+          "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/d92b4a2",
+          "source": "Xenia Canary",
+          "publisher": "xenia-canary/xenia-canary",
+          "timestamp_basis": "github_release_published",
+          "published_utc": "2026-11-20T17:58:54+00:00",
+          "title": "d92b4a2_canary_experimental"
+        }
+      ],
+      "prerelease": false
+    },
+    {
+      "id": "30f02e176f25a9b675976e4c",
+      "topic": "emulators",
+      "title": "b16f502_canary_experimental",
+      "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/b16f502",
+      "source": "Xenia Canary",
+      "publisher": "xenia-canary/xenia-canary",
+      "description": "### Changes - [x64] Continue a guest longjmp in the setjmp function's own frame (`b16f502`) **Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/54386cb...b16f502",
+      "published_utc": "2026-11-20T16:48:41+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "github_release_published",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "review",
+      "triage_reason": "開発ビルド・軽微変更の内容確認",
+      "sources": [
+        {
+          "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/b16f502",
+          "source": "Xenia Canary",
+          "publisher": "xenia-canary/xenia-canary",
+          "timestamp_basis": "github_release_published",
+          "published_utc": "2026-11-20T16:48:41+00:00",
+          "title": "b16f502_canary_experimental"
+        }
+      ],
+      "prerelease": false
+    },
+    {
+      "id": "1bd4f7ca9b076eeacb52c57e",
+      "topic": "emulators",
+      "title": "a4ef31c_canary_experimental",
+      "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/a4ef31c",
+      "source": "Xenia Canary",
+      "publisher": "xenia-canary/xenia-canary",
+      "description": "### Changes - [APU] XmaContextNew: skip a decode position's start subframes (`a4ef31c`) **Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/1867010...a4ef31c",
+      "published_utc": "2026-11-20T20:09:31+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "github_release_published",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "review",
+      "triage_reason": "開発ビルド・軽微変更の内容確認",
+      "sources": [
+        {
+          "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/a4ef31c",
+          "source": "Xenia Canary",
+          "publisher": "xenia-canary/xenia-canary",
+          "timestamp_basis": "github_release_published",
+          "published_utc": "2026-11-20T20:09:31+00:00",
+          "title": "a4ef31c_canary_experimental"
+        }
+      ],
+      "prerelease": false
+    },
+    {
+      "id": "fcd3b5ffe478ae624130f0bd",
+      "topic": "emulators",
+      "title": "680e9ae_canary_experimental",
+      "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/680e9ae",
+      "source": "Xenia Canary",
+      "publisher": "xenia-canary/xenia-canary",
+      "description": "### Changes - [Kernel] Link loaded modules by InLoadOrderLinks (`680e9ae`) - [Kernel] Refuse a title DLL loaded without the title process flag (`f17625d`) - [Kernel] Fill in a module's name, sizes, load count and flags (`7088fb6`) **Full changelog**: https://github.com/xenia-canary/xenia-canary/compare/fefed2f...680e9ae",
+      "published_utc": "2026-11-20T18:51:52+00:00",
+      "date_jst": "2026-11-21",
+      "timestamp_basis": "github_release_published",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "review",
+      "triage_reason": "開発ビルド・軽微変更の内容確認",
+      "sources": [
+        {
+          "url": "https://github.com/xenia-canary/xenia-canary/releases/tag/680e9ae",
+          "source": "Xenia Canary",
+          "publisher": "xenia-canary/xenia-canary",
+          "timestamp_basis": "github_release_published",
+          "published_utc": "2026-11-20T18:51:52+00:00",
+          "title": "680e9ae_canary_experimental"
+        }
+      ],
+      "prerelease": false
+    }
+  ],
+  "date_unknown": [],
+  "health": {}
+}

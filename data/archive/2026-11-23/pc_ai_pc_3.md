@@ -1,0 +1,4 @@
+# pc / 2026-11-23 / 候補 101–102
+
+- [\[News\] High-Purity Submicron GaN Particles Successfully Synthesized - TrendForce](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMzF4bE5SQThpUVRkMmJ2SWxadVFBc3lkSjlPSlB2bzJ3QWNjUERCcnJqTVVRdnJnR2dOeWtnTXlZTkhaT0Q3U083SGdaR3ZnSllzZFVGekpDXzNjRlhIMDZ2LVNjalBQOHl5ck14NTNTWURTRWh3eFZNdUNIaXdGcHlOYUY3SjZFQ0Z6VGN3aE9QVWlaTXJybDVaX1RsSFhSNjJaUnR1Qzg4MHZLQ1E?oc=5) — TrendForce｜要確認｜2026-11-23T02:00:05+00:00 UTC｜discovery_index
+- [\[News\] Tesla Cuts AI4.5 Memory from 32GB to 24GB amid Soaring Costs; AI5 Reserved for Optimus - TrendForce](https://news.google.com/rss/articles/CBMizwFBVV95cUxPblNhc2oteXpxODlaWFBxUnZUYURCS1lwV0dFMW1jZl82bllxT001RWRvUDF2SE5lT29JMzNQWTV1N3hWZkdzWlc3NHJ5QTgzY2k1SlVnLXBXbUJ4dGF5VnVDN3FwZy1abE02YmFOQlRaNEtndDBkd1JIR0w4RWZDVlRGTFVRUUN2MmowWm1XMXZOVkNlaVVvdkRYM3NhLS1KMW1NSE1KVWJlN2VYNW5xNUU0MTFKUFgzRjRja0k2aE5xVTRJTVlkbU5qUU9Nd3M?oc=5) — TrendForce｜要確認｜2026-11-23T08:03:27+00:00 UTC｜discovery_index

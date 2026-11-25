@@ -1,0 +1,5 @@
+# portable_dac / 2026-11-23 / 候補 1–3
+
+- [SALE! Audio GD R-28 R2R Headphone DAC AMP/PREAMP - Head-Fi.org](https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUpTazNaUWVlMjE4dVNpX2ozQXp6QWpGbUVPQ3EtbnR0UHJpRXE4ZmNfeVNHVXhGamVObGsxTFlVZWZYQS0yd0dMTDAwdFQ5X3dSQmtsNzdKeFFzSVpEUWZCSV9VSlMtSlFMV1RMdG1GeDA1WTM4T205MXVFMFNIbFUwdGFOUGdwUk5sSTlNS2dYeXJhd3c?oc=5) — Head-Fi｜要確認｜2026-11-23T08:00:00+00:00 UTC｜discovery_index
+- [Topping D70s Balanced DAC – Silver - Head-Fi.org](https://news.google.com/rss/articles/CBMijwFBVV95cUxOWWlUaWs3YmZ4UThaRGxUdWdGeF9zMVF5RVZzMW1FYm9xdHJETXktRXgzdFlUbDlKeGZSUFNQRmYxeFBxYngxU2lyd0NLQTJBdTJ1X19Ld08zUFhsTExYQmRjWUl0Smt1UUY1MVg1ZDRoVmY1eTY1ZjV3SHVBajRCYWpJTmFRdVZrYnFqT1dlaw?oc=5) — Head-Fi｜要確認｜2026-11-23T09:57:20+00:00 UTC｜discovery_index
+- [iBasso DC Elite – Flagship Portable DAC/Amp - Head-Fi.org](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQW5mSlFuX1JseUJmUTcwTm5JOFRfTktIeEU4MlVBYndrTHNQNU5xcjlFS1BhNHV0Z3pIVnpBV1ZDbGFwSW9VQlF0SmhfMi1qWk83MWtQMExneEFyYnd1VkJWMHN6eVFKM28tRG5KdTRBUjlSY2tzN2tTa3REMUNWbDh3dzR4V2Fnek9IUnpmN0JsNWtKalU4Wm10NA?oc=5) — Head-Fi｜要確認｜2026-11-23T01:50:17+00:00 UTC｜discovery_index
