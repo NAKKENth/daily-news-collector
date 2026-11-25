@@ -51,7 +51,7 @@ class TestCollector(unittest.TestCase):
    root=Path(tmp)
    (root/'sources.json').write_text(json.dumps({'sources':[SOURCE]}),encoding='utf-8')
    fake=(parse_rss(MOCK_RSS,SOURCE,T),{'source_id':SOURCE['id'],'group':'audio','status':'ok','items':1,'method':'rss'})
-   with patch('collector.collect_one',return_value=fake):
+   with patch('collector.collect_one',return_value=fake), patch('collector.fetch',return_value=(b'<html></html>','https://example.org/news/1')):
     result=build('all','2026-11-25',root,workers=1)
    self.assertEqual(result['attempted_sources'],1)
    self.assertEqual(result['candidates_per_group']['audio'],1)
