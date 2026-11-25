@@ -45,15 +45,6 @@
     "reason": "対象外競技"
   },
   {
-    "id": "01e30de9657ff131bd1c5159",
-    "group": "motorsport",
-    "topic": "F1",
-    "title": "Salary dispute holding up Oliver Bearman’s new Haas F1 deal - Motorsport.com",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY2dSOGY2Smt1Vm5mMGVfYWpzV0hGaC1FalNZV04tQ3Q4SnlXb2tzdUV2OUhwMktzQ0hiamlEQ2J4YVlpVlhBUlNaZ1l5amU1dXhNZ1VBS0ladkt1ZG5Xc1RvNF80TExwaXA1cGwyeDI4STRpTE80WWx4SldtSjlMcXRlZE5aRkxKd2lyaXFEemg1ZmxiTnFuOXpkR3BmZlRIaHlQd0Z3?oc=5",
-    "triage": "exclude",
-    "reason": "通常セール・販促・中古"
-  },
-  {
     "id": "6c3fafcb32feca20e246ffba",
     "group": "motorsport",
     "topic": "F1",
@@ -178,6 +169,24 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ1k2c1FPb0Z4cEdDTmlFU3VUaWZMQmQwRXZKdmhsSXNtYUxvY3BVVi1JdlhUMnhhRktUQ2VJTm1xRmdvdzRmdDlIcDhJX0RCbVpOMjJrUEFRaDU0RkJOdDJVOUxiOE9KS2dmRUgwZ1Fxa0VVOVRjYzBnRDhjWWVUWDlnd0Y?oc=5",
     "triage": "exclude",
     "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "567560a9d6f0f43cbee96b4e",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "Sr. Product SCAN Engineer in Austin, Texas | Advanced Micro Devices, Inc - AMD",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBROXBwc2RCNHp3X3RtQlhBdGFFT1V0YkcyNHVZTGtJTUdmc01iUjhuY1Z6ZmQ2U0ZTR2VuR1FsYkxvcTZ2YzFxc3QyaUE4OWxRQzJ6Q3I5QWdyZERTcWRZS1B5dVVaRDZ6ekE?oc=5",
+    "triage": "exclude",
+    "reason": "求人・採用ページ"
+  },
+  {
+    "id": "52ce34ad388bb25400b873e6",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "Software Development Test Engineer Lead AI Platform in Santa Clara, California | Advanced Micro Devices, Inc - AMD",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGOExQM3M2aHNQckVBcWFBUkgtRFNySXQ5ci1SWEtuYlNydDNPcjJ2QUdxMmZrZWRoN0VRaV9TMUpjd2NBbHUyYWpPZnl4Q25ySU01dXZJWEVPdnB2ZGtuaW1KVnhIVktEMnc?oc=5",
+    "triage": "exclude",
+    "reason": "求人・採用ページ"
   },
   {
     "id": "51090896c4b3789ac6af42d4",
@@ -1110,7 +1119,7 @@
     "id": "688eb37e4be524bfb2cca8af",
     "group": "audio",
     "topic": "wired",
-    "title": "Gustard Presents U18ii: Next-Generation USB Audio Interface DDC - HiFiGo",
+    "title": "Gustard Presents U18ii: Next-Generation USB Audio Interface DDC",
     "url": "https://hifigo.com/blogs/news/gustard-presents-u18ii-next-generation-usb-audio-interface-ddc",
     "triage": "exclude",
     "reason": "据え置き/DAP/DDC候補"

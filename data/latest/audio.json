@@ -20,6 +20,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "オーディオへ再分類",
+      "possible_event_id": "6d0f4da2c856",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaHlLWkxaSGRCMzFRN0ZDMERGYktVVGt2TjlRV1NIRGtuYTVKNjU1QXNsQjJ6ejIycHUtMXliSlBRQzdXMHM4YWN2allKY0M1NXg3cmN0WEl1c19FUlRfMmxfc3htZG5tNkQyOEExNG1KcXZ1SzJpaFZnMkQyaXJyZnZvdE4?oc=5",
@@ -30,7 +31,8 @@
           "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription - The Verge"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "f83e8f374c30f942a9aaa800",
@@ -47,6 +49,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "オーディオへ再分類",
+      "possible_event_id": "6d0f4da2c856",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORklEbjlHdENmUFZnNE9ldVNLUmkyb2tQeGp2aVY3TEt6eEpzRlUxMi0xLWFkcjB5cUNjOVVoT00zRlZUSlZrbm8yd2w5enYycUpIbi1QR0s5V2U3MFA2U2ttSW9oVW1PN1VYYkpzM2s3cVAydEszT2Y2ZWlPQUxJM1lsSnNpR0hUaFZsc1o2Q0I5TG11YzFRUUZhbl85Qk9NVzBUQy12SklyQmlKZ2JBR1FadzB3OHp6YVpKVndhcEtyek94a01R?oc=5",
@@ -109,7 +112,8 @@
           "title": "Valencia MG - Reviews - Head-Fi.org"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "446a7578129e7811ba063e2f",
@@ -136,7 +140,8 @@
           "title": "Valencia MG - Head-Fi.org"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "8e44b698f6297cf060a22851",
@@ -164,7 +169,8 @@
           "title": "HEDDphone® DX – our new open-back dynamic headphone - Head-Fi.org"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "a31544d838a55cb078422144",
@@ -191,7 +197,8 @@
           "title": "UM Pentara - Head-Fi.org"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "a121092c345838e9e3eba553",
@@ -203,9 +210,9 @@
       "description": "EarFun Technologyは、Bose Corporationオーディオ技術部門と協力することで、ノイズキャンセリング機能を大幅に強化したという完全ワイヤレスイヤフォン「EarFun Air Pro 5」を2027年1月頃に発売予定。価格はオープン。独自のANC技術「QuietSmart 4.0」とAI適応型ハイブリッドANCによるノイズ低減効果が得られる。カラーはブラック、ホワイト、ブルー。",
       "published_utc": "2026-11-24T07:37:18+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "対象オーディオ候補",
       "sources": [
@@ -213,11 +220,15 @@
           "url": "https://av.watch.impress.co.jp/docs/news/2158778.html",
           "source": "AV Watch Audio",
           "publisher": "AV Watch Audio",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T07:37:18+00:00",
           "title": "EarFun、Boseと協力してノイキャン大幅強化「Air Pro 5」近日発売。QuietSmart 4.0"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T16:37:18+09:00",
+      "article_modified_raw": "2026-11-24T16:37:18+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "5b63a884428c16c0185ff605",
@@ -244,7 +255,8 @@
           "title": "I tested the Bose QuietComfort 2 headphones against the Sonos Ace, and these are better over-ears under $400 - SoundGuys"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "a69fafc7dad1cad03c7e5d57",
@@ -390,7 +402,9 @@
           "published_utc": "2026-11-23T16:00:00+00:00",
           "title": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://9to5mac.com/2026/11/23/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym"
     },
     {
       "id": "e34f5f0cfa0b623de3c3891a",
@@ -424,7 +438,9 @@
           "published_utc": "2026-11-23T15:18:39+00:00",
           "title": "AirPods Pro 3 were worth the upgrade for one standout feature"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://9to5mac.com/2026/11/23/airpods-pro-3-were-worth-the-upgrade-for-one-standout-feature"
     },
     {
       "id": "676be14484c8ecb680757331",
@@ -433,12 +449,12 @@
       "url": "https://www.macrumors.com/2026/11/24/apple-to-release-four-red-products",
       "source": "MacRumors",
       "publisher": "MacRumors",
-      "description": "Bloomberg 's Mark Gurman this week reported that Apple plans to release (PRODUCT)RED versions of the existing AirPods Max 2 and HomePod mini 2 on or around Tuesday, December 1, which is World AIDS Day. The new color will likely be the only change. AirPods Max 2 and HomePod mini 2 in (PRODUCT)RED (concept) Gurman said the (PRODUCT)RED version of the",
+      "description": "Bloomberg's Mark Gurman this week reported that Apple plans to release (PRODUCT)RED versions of the existing AirPods Max 2 and HomePod mini 2 on...",
       "published_utc": "2026-11-24T14:33:26+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -446,11 +462,15 @@
           "url": "https://www.macrumors.com/2026/11/24/apple-to-release-four-red-products",
           "source": "MacRumors",
           "publisher": "MacRumors",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T14:33:26+00:00",
           "title": "Apple to Release Four (RED) Products by Next Week"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T14:33:26+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "e930546656af4c6c755097f4",
@@ -477,7 +497,8 @@
           "title": "Nothing's first AI-native device is the Ear note, and here's our best look at how it works - Android Authority"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "3ccc5eb5807e5a43312209fb",
@@ -504,7 +525,8 @@
           "title": "Kodak’s SlideTag is a Find Hub tracker that doubles as a tiny E-Ink photo frame - Android Authority"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "6f26d5d94cb24f1152903f30",
@@ -531,7 +553,8 @@
           "title": "Pixel’s November update is still missing for some T-Mobile, Mint, and Tello users - Android Authority"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "5d2ffd77b0d594635880c394",
@@ -558,7 +581,8 @@
           "title": "SanDisk's tiny 1TB Extreme Fit USB-C drive hits a six-month low - Android Authority"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "656197a95681c781e16e18f1",
@@ -586,7 +610,8 @@
           "title": "HEDDphone® DX – our new open-back dynamic headphone - Head-Fi.org"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "c9f00be84243dbbd2b458395",
@@ -595,12 +620,12 @@
       "url": "https://www.computerbase.de/news/smart-home/product-red-apple-soll-mit-homepod-mini-und-airpods-max-wieder-rote-geraete-bringen.100486",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Zum Welt-Aids-Tag am 1. Dezember soll Apple rote Modelle der AirPods Max 2 und des HomePod mini 2 vorbereiten. Die beiden Ausführungen wären die ersten Geräte seit Jahren mit Product(RED) und damit den Kampf gegen Aids wieder unterstützen. Es wären zudem der erste HomePod und die ersten AirPods, die in Rot erscheinen.",
+      "description": "Apple soll rote Modelle der AirPods Max 2 sowie des HomePod mini 2 für den Welt-Aids-Tag am 1. Dezember vorbereiten.",
       "published_utc": "2026-11-24T08:00:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "オーディオへ再分類",
       "sources": [
@@ -608,11 +633,15 @@
           "url": "https://www.computerbase.de/news/smart-home/product-red-apple-soll-mit-homepod-mini-und-airpods-max-wieder-rote-geraete-bringen.100486",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T08:00:00+00:00",
           "title": "Product(RED): Apple soll erstmals AirPods und einen HomePod in Rot bringen"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T09:00:00+01:00",
+      "article_modified_raw": "2026-11-24T09:00:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "7b981bac1eaf84b6150da4dd",
@@ -638,7 +667,8 @@
           "published_utc": "2026-11-24T03:43:58+00:00",
           "title": "【#eイヤ名古屋大須店】11月28日土曜日はMUSIN OASEAR、iBassoAudio、SHANLING試聴会っ♪"
         }
-      ]
+      ],
+      "enrichment": "not_article"
     },
     {
       "id": "f95bbd9c49ed73542a5a1558",
@@ -665,7 +695,8 @@
           "title": "Eletech Ballad of Caesar Versa - Head-Fi.org"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "be7032e30a37552dc4ff7363",
@@ -718,7 +749,8 @@
           "title": "CrinEar Reference IEMs - Head-Fi.org"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "9edc3d1a75fb7f60a0b63828",
@@ -797,7 +829,8 @@
           "title": "OG Audeze LCD-5 - Head-Fi.org"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "d6b9596c088259100058f64e",
@@ -850,7 +883,8 @@
           "title": "[PD] Tube Sale 12AU7 & EL84 | NOS & New - Head-Fi.org"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "e39adabb31653e0f3f0180e9",
@@ -877,7 +911,8 @@
           "title": "Juzear Light Shuttle - Head-Fi.org"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "4bfc40d1b8f59d8b555d7c1b",
@@ -904,7 +939,8 @@
           "title": "Canpur Mona Lisa - Head-Fi.org"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "23632819a4e5f9927c02c993",
@@ -957,7 +993,8 @@
           "title": "first dac/amp - Head-Fi.org"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "487744a209c636594f698a2d",
@@ -1010,7 +1047,8 @@
           "title": "Ziigaat x Jay Audio Seraphim - Head-Fi.org"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "87397902801034cbfea89536",
@@ -1209,6 +1247,7 @@
       "date_quality": "feed_published",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "3feafbdbfaa0",
       "sources": [
         {
           "url": "http://www.phileweb.com/news/audio/202611/24/28433.html",
@@ -1261,6 +1300,7 @@
       "date_quality": "feed_published",
       "triage": "priority",
       "triage_reason": "対象オーディオ候補",
+      "possible_event_id": "42489f477329",
       "sources": [
         {
           "url": "http://www.phileweb.com/news/hobby/202611/24/8726.html",
@@ -1287,6 +1327,7 @@
       "date_quality": "feed_published",
       "triage": "priority",
       "triage_reason": "対象オーディオ候補",
+      "possible_event_id": "36e5735c566a",
       "sources": [
         {
           "url": "http://www.phileweb.com/news/d-av/202611/24/66451.html",
@@ -1339,6 +1380,7 @@
       "date_quality": "feed_published",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "4adf9a8be94e",
       "sources": [
         {
           "url": "http://www.phileweb.com/news/audio/202611/24/28430.html",
@@ -1479,14 +1521,506 @@
           "title": "LG、最大100万円キャッシュバックキャンペーン。テレビ・PCなど50製品以上対象"
         }
       ]
+    },
+    {
+      "id": "eb31ad92e2cf7a8fc5cc94cb",
+      "topic": "tws",
+      "title": "Red - iPhone 11 - Beats Earbuds - Beats Accessories - Apple",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14OF9LdjRWOWJaa2VBWktibXNmM3ZhNXZSZzEwc0JOQVdZMVFraU5kc0xQd0xKRnJqdWVFNTlhR216M1FOeHR3ZFhucHk0MjEzU1dlVmFpZC1fQWY0MDRONGU4OXVjcF9WTlhkUURWSk5vUVBQU2FFNE54OVRidw?oc=5",
+      "source": "Apple AirPods",
+      "publisher": "Apple",
+      "description": "Red - iPhone 11 - Beats Earbuds - Beats Accessories Apple",
+      "published_utc": "2026-11-24T05:31:20+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14OF9LdjRWOWJaa2VBWktibXNmM3ZhNXZSZzEwc0JOQVdZMVFraU5kc0xQd0xKRnJqdWVFNTlhR216M1FOeHR3ZFhucHk0MjEzU1dlVmFpZC1fQWY0MDRONGU4OXVjcF9WTlhkUURWSk5vUVBQU2FFNE54OVRidw?oc=5",
+          "source": "Apple AirPods",
+          "publisher": "Apple",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T05:31:20+00:00",
+          "title": "Red - iPhone 11 - Beats Earbuds - Beats Accessories - Apple"
+        }
+      ]
+    },
+    {
+      "id": "8d8d5b3aeae73ab3c06e24c2",
+      "topic": "wired",
+      "title": "iPad Pro 12.9-inch (6th generation) - iPhone 15 - Newest - Beats Headphones - Beats Accessories - Apple",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0pIcjdRNzZkb1YzejRPQlFuNzdnRmlpWWEwa0FhM2E3YXE3cnJGN2FJaWFEQ1NoWjZ1MzhabmZZOWFQNGF4VnZuWjV4TkR1Qlg2dEFmb01sa2hReXdGWDhZTkpvZ0pQN19lbHBRXy0xTmthMVAtQUdUT3ZuVHVfUkdkRTVaZXVHbVdHdHh0Q2RPVEh6RWlYRnp4UUNlNlVoUkhlb09jcWdvS0pkYmZzcQ?oc=5",
+      "source": "Apple AirPods",
+      "publisher": "Apple",
+      "description": "iPad Pro 12.9-inch (6th generation) - iPhone 15 - Newest - Beats Headphones - Beats Accessories Apple",
+      "published_utc": "2026-11-24T09:12:31+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0pIcjdRNzZkb1YzejRPQlFuNzdnRmlpWWEwa0FhM2E3YXE3cnJGN2FJaWFEQ1NoWjZ1MzhabmZZOWFQNGF4VnZuWjV4TkR1Qlg2dEFmb01sa2hReXdGWDhZTkpvZ0pQN19lbHBRXy0xTmthMVAtQUdUT3ZuVHVfUkdkRTVaZXVHbVdHdHh0Q2RPVEh6RWlYRnp4UUNlNlVoUkhlb09jcWdvS0pkYmZzcQ?oc=5",
+          "source": "Apple AirPods",
+          "publisher": "Apple",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T09:12:31+00:00",
+          "title": "iPad Pro 12.9-inch (6th generation) - iPhone 15 - Newest - Beats Headphones - Beats Accessories - Apple"
+        }
+      ]
+    },
+    {
+      "id": "6caf9a6f77ff2b5bb4e41ee7",
+      "topic": "tws",
+      "title": "King James Bible Audio - KJV - Apple",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbVVMWUwyS3JiM2JnVlREeXNsUDdXTUlwUnYyTDRUQXlPT0lXenBCQmRjNEFPR1BxYjY3STRyOXRlRUtXV3dMWTc4LUxmN2pfdVdVUE5lNUR1ZjJJU0d1LVlFYmpKeG1XdUJzU1hkZXUwT1RYY2REaUNtRnY0YWh2cTZoRGJUZGNJc0E?oc=5",
+      "source": "Apple AirPods",
+      "publisher": "Apple",
+      "description": "King James Bible Audio - KJV Apple",
+      "published_utc": "2026-11-24T05:21:18+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbVVMWUwyS3JiM2JnVlREeXNsUDdXTUlwUnYyTDRUQXlPT0lXenBCQmRjNEFPR1BxYjY3STRyOXRlRUtXV3dMWTc4LUxmN2pfdVdVUE5lNUR1ZjJJU0d1LVlFYmpKeG1XdUJzU1hkZXUwT1RYY2REaUNtRnY0YWh2cTZoRGJUZGNJc0E?oc=5",
+          "source": "Apple AirPods",
+          "publisher": "Apple",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T05:21:18+00:00",
+          "title": "King James Bible Audio - KJV - Apple"
+        }
+      ]
+    },
+    {
+      "id": "b641dd839613c16d02896e9b",
+      "topic": "tws",
+      "title": "Use your Beats 360 - Apple Support",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yNWROUlg2enBuVm1ya28zX0NrX0ZIaGQ5Y1dNQTByZEF6WHk1S21Oc0xlMDNFaVowVndrRTBKTEpYaFU2MGJSSTlxZ2Q5NVI2OGk4WHdCUmk0aWV0b1RzQTM3SXpIbUFMdWNHag?oc=5",
+      "source": "Apple AirPods",
+      "publisher": "Apple Support",
+      "description": "Use your Beats 360 Apple Support",
+      "published_utc": "2026-11-24T10:38:56+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yNWROUlg2enBuVm1ya28zX0NrX0ZIaGQ5Y1dNQTByZEF6WHk1S21Oc0xlMDNFaVowVndrRTBKTEpYaFU2MGJSSTlxZ2Q5NVI2OGk4WHdCUmk0aWV0b1RzQTM3SXpIbUFMdWNHag?oc=5",
+          "source": "Apple AirPods",
+          "publisher": "Apple Support",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T10:38:56+00:00",
+          "title": "Use your Beats 360 - Apple Support"
+        }
+      ]
+    },
+    {
+      "id": "7f2c8a9ebc7fc842c83ad57f",
+      "topic": "wired",
+      "title": "iPad Air 11-inch (M2) - Mac Studio (2023) - Beats Headphones - Beats Accessories - Apple",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVGttb2NLb2xrVHhCU1RRUTg1eWtkTlgtX1FFbUVxYzNPOE5rUEp1bTNWeXVEeWozVnhiRXFPMHhIMWtjek1JZk5KTjhzbnJGUjVUWGZWaTltaEF1QVlVdFdoZXlRZG9VcDljV3ZfZ2d6Y19SbmV5NVBVSFB4REVDQVJXMXNNVW9HVERqVjhDSkZObEt2dGs3T193?oc=5",
+      "source": "Apple AirPods",
+      "publisher": "Apple",
+      "description": "iPad Air 11-inch (M2) - Mac Studio (2023) - Beats Headphones - Beats Accessories Apple",
+      "published_utc": "2026-11-24T03:05:13+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVGttb2NLb2xrVHhCU1RRUTg1eWtkTlgtX1FFbUVxYzNPOE5rUEp1bTNWeXVEeWozVnhiRXFPMHhIMWtjek1JZk5KTjhzbnJGUjVUWGZWaTltaEF1QVlVdFdoZXlRZG9VcDljV3ZfZ2d6Y19SbmV5NVBVSFB4REVDQVJXMXNNVW9HVERqVjhDSkZObEt2dGs3T193?oc=5",
+          "source": "Apple AirPods",
+          "publisher": "Apple",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T03:05:13+00:00",
+          "title": "iPad Air 11-inch (M2) - Mac Studio (2023) - Beats Headphones - Beats Accessories - Apple"
+        }
+      ]
+    },
+    {
+      "id": "407bdf0f363a5b28d75df111",
+      "topic": "wired",
+      "title": "iPad mini (A20 Pro) - iPhone 16 Pro Max - Beats Headphones - Beats Accessories - Apple",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOODNXZFJyN2piVkpfdklyTFF1bVJVOGlKWUgyUkItaXNkWmpsN0RwOU1mVzdVRDRxUVRJdmdPS2xneTA1cTFLOUpwRGFfaTZPcUdpSUZ1NjJRMEV1NDBRaHlaT2dHRGQwejdQUjdpS2F2bWNscm1KU0ZFeXBQODFvMVdWenJIQzA5WWQzdlAxejBRWXpEclZaNVJR?oc=5",
+      "source": "Apple AirPods",
+      "publisher": "Apple",
+      "description": "iPad mini (A20 Pro) - iPhone 16 Pro Max - Beats Headphones - Beats Accessories Apple",
+      "published_utc": "2026-11-24T05:42:23+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOODNXZFJyN2piVkpfdklyTFF1bVJVOGlKWUgyUkItaXNkWmpsN0RwOU1mVzdVRDRxUVRJdmdPS2xneTA1cTFLOUpwRGFfaTZPcUdpSUZ1NjJRMEV1NDBRaHlaT2dHRGQwejdQUjdpS2F2bWNscm1KU0ZFeXBQODFvMVdWenJIQzA5WWQzdlAxejBRWXpEclZaNVJR?oc=5",
+          "source": "Apple AirPods",
+          "publisher": "Apple",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T05:42:23+00:00",
+          "title": "iPad mini (A20 Pro) - iPhone 16 Pro Max - Beats Headphones - Beats Accessories - Apple"
+        }
+      ]
+    },
+    {
+      "id": "543e07f097ea90b428cfaac0",
+      "topic": "wired",
+      "title": "iPhone 12 Pro - iMac (24-inch, M1, 2021) - Beats Headphones - Beats Accessories - Apple",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1NQSTZHRDV3c2dkUFE2WGV0aVN6blM3N0hGelgxaTRuYW9mT2RhTkFURTFzM0JXM2lBRzVFOW5nUzZzdlZMeEhWaG1tQ2RqTDZzMGpPUkZfUHZuQ1BwMFp4ajlDMDJNT1dOQ1MtZERjcWp4LVdyRGhnamJ2Y2pMeVF1b0xLM0t3X3MwOGtnT0VNc1JVN3FVUA?oc=5",
+      "source": "Apple AirPods",
+      "publisher": "Apple",
+      "description": "iPhone 12 Pro - iMac (24-inch, M1, 2021) - Beats Headphones - Beats Accessories Apple",
+      "published_utc": "2026-11-23T18:57:45+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1NQSTZHRDV3c2dkUFE2WGV0aVN6blM3N0hGelgxaTRuYW9mT2RhTkFURTFzM0JXM2lBRzVFOW5nUzZzdlZMeEhWaG1tQ2RqTDZzMGpPUkZfUHZuQ1BwMFp4ajlDMDJNT1dOQ1MtZERjcWp4LVdyRGhnamJ2Y2pMeVF1b0xLM0t3X3MwOGtnT0VNc1JVN3FVUA?oc=5",
+          "source": "Apple AirPods",
+          "publisher": "Apple",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T18:57:45+00:00",
+          "title": "iPhone 12 Pro - iMac (24-inch, M1, 2021) - Beats Headphones - Beats Accessories - Apple"
+        }
+      ]
+    },
+    {
+      "id": "d95c875f65c5627d3476696c",
+      "topic": "tws",
+      "title": "AirPods User Guide - Apple Support",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBITGI2UXhmeG1uUDVhUEFhRmJSRWxlR0JBRHhnZ0ZuRF9Gb3hDMTNISFNVb1RULUtkZjQ1Q05UZ21MbmtNVXZLZjNmQTlhY1lnSVl3VndrZ01XdXc2bk5VS0JLZw?oc=5",
+      "source": "Apple AirPods",
+      "publisher": "Apple Support",
+      "description": "AirPods User Guide Apple Support",
+      "published_utc": "2026-11-24T05:36:01+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBITGI2UXhmeG1uUDVhUEFhRmJSRWxlR0JBRHhnZ0ZuRF9Gb3hDMTNISFNVb1RULUtkZjQ1Q05UZ21MbmtNVXZLZjNmQTlhY1lnSVl3VndrZ01XdXc2bk5VS0JLZw?oc=5",
+          "source": "Apple AirPods",
+          "publisher": "Apple Support",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T05:36:01+00:00",
+          "title": "AirPods User Guide - Apple Support"
+        }
+      ]
+    },
+    {
+      "id": "84aa7cd5b896937c8cd2b0f2",
+      "topic": "tws",
+      "title": "iPad Pro 12.9” (4th generation) - iMac (24‑inch, M6, 2026) - Beats Earbuds - Beats Accessories - Apple",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQWIwaWQ3RVVIeHVNeVN6b3llYXBBQXBNR3Vfc0hFdWhETDFWY2x3dGoxdzhXakI4aEtBS0Y2bndaenc2UUwtN01Eb3NQaFZ6MEZUQXU1X3ROSHJPV1VHS0RLVXhScFpHclB4a04yVzQwZURzS0hHRVBnTjFNUE5OczZyUm1ZNV9KN3FkTmZPam9aUmtfUThvNnJkRkxoY1hLdzIwR2hfcUJzNGtIQ2FiN1VidGI?oc=5",
+      "source": "Apple AirPods",
+      "publisher": "Apple",
+      "description": "iPad Pro 12.9” (4th generation) - iMac (24‑inch, M6, 2026) - Beats Earbuds - Beats Accessories Apple",
+      "published_utc": "2026-11-24T14:51:26+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQWIwaWQ3RVVIeHVNeVN6b3llYXBBQXBNR3Vfc0hFdWhETDFWY2x3dGoxdzhXakI4aEtBS0Y2bndaenc2UUwtN01Eb3NQaFZ6MEZUQXU1X3ROSHJPV1VHS0RLVXhScFpHclB4a04yVzQwZURzS0hHRVBnTjFNUE5OczZyUm1ZNV9KN3FkTmZPam9aUmtfUThvNnJkRkxoY1hLdzIwR2hfcUJzNGtIQ2FiN1VidGI?oc=5",
+          "source": "Apple AirPods",
+          "publisher": "Apple",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T14:51:26+00:00",
+          "title": "iPad Pro 12.9” (4th generation) - iMac (24‑inch, M6, 2026) - Beats Earbuds - Beats Accessories - Apple"
+        }
+      ]
+    },
+    {
+      "id": "a713761561abadb528fc8684",
+      "topic": "tws",
+      "title": "Use your Beats 360 - Apple Support",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Fbk55UzNLNDFaRXJHVGtWZ0FqOUhDMXJUdEJSOWtRdGtqWnFQTGN2ODdzcDVRVzEwWTUxZE04X01MekJ0elEtTXp0Ny1JWV82RUJ4TjZzbUlOV1pobWhlWmVkRzJkVnRMdWYybUt2S2FKNWVq?oc=5",
+      "source": "Apple AirPods",
+      "publisher": "Apple Support",
+      "description": "Use your Beats 360 Apple Support",
+      "published_utc": "2026-11-23T23:48:25+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Fbk55UzNLNDFaRXJHVGtWZ0FqOUhDMXJUdEJSOWtRdGtqWnFQTGN2ODdzcDVRVzEwWTUxZE04X01MekJ0elEtTXp0Ny1JWV82RUJ4TjZzbUlOV1pobWhlWmVkRzJkVnRMdWYybUt2S2FKNWVq?oc=5",
+          "source": "Apple AirPods",
+          "publisher": "Apple Support",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T23:48:25+00:00",
+          "title": "Use your Beats 360 - Apple Support"
+        }
+      ]
+    },
+    {
+      "id": "b41903eada147522fcd6c0db",
+      "topic": "tws",
+      "title": "AirPods 4 with Active Noise Cancellation - iPhone 13 - Price: Low to High - Chargers & Adapters - All Accessories - Apple",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbUpmbFN3UVhmMGxuMFdleWVDLWlLeGFnOUw0RXk1Xzg2NHVaMEhyLWV3X3k1dWZ2QWVzMDljdWxPV0pLQ1NqWVZpb3RXdDdCa2JCMkJ4WWU3QmU1Yl9SSURTR3pVdFhCZzlLYU0tM2FQdGdhN2duaGYtQ2hqMmhLZzVlV1Z2VVo3WGZLZExDYjZJUVZuSEVmbjBtQVdCSFBFRDMydWp2ZGZtbVdoLVdiWk90eUQwWUxwc1VvdHFBSHRqQQ?oc=5",
+      "source": "Apple AirPods",
+      "publisher": "Apple",
+      "description": "AirPods 4 with Active Noise Cancellation - iPhone 13 - Price: Low to High - Chargers & Adapters - All Accessories Apple",
+      "published_utc": "2026-11-23T18:53:16+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbUpmbFN3UVhmMGxuMFdleWVDLWlLeGFnOUw0RXk1Xzg2NHVaMEhyLWV3X3k1dWZ2QWVzMDljdWxPV0pLQ1NqWVZpb3RXdDdCa2JCMkJ4WWU3QmU1Yl9SSURTR3pVdFhCZzlLYU0tM2FQdGdhN2duaGYtQ2hqMmhLZzVlV1Z2VVo3WGZLZExDYjZJUVZuSEVmbjBtQVdCSFBFRDMydWp2ZGZtbVdoLVdiWk90eUQwWUxwc1VvdHFBSHRqQQ?oc=5",
+          "source": "Apple AirPods",
+          "publisher": "Apple",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T18:53:16+00:00",
+          "title": "AirPods 4 with Active Noise Cancellation - iPhone 13 - Price: Low to High - Chargers & Adapters - All Accessories - Apple"
+        }
+      ]
+    },
+    {
+      "id": "011822b03a292b21757e5866",
+      "topic": "wired",
+      "title": "iPad Air 11-inch (M4) - iPhone 13 - Price: High to Low - Beats Headphones - Beats Accessories - Apple",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRnd1SlhiWEI2dDg3NGhORWxZU1p1aUlJUHQ5UF8wME0wVGJSTTNYektNQmtCb3JQdFJrZE1pNVRtQXNIOEpzcjZodnJ0dFdtVVZlUzRWZ016b0gxdm1mb18tMDBSOGRHSnctYlA1VkVJWkRkVllJb1NkMEhPRlZUOEhkcjNjMmtJbGhsTEEtR3VHLVdrUWRFTUZCV2pEZFk?oc=5",
+      "source": "Apple AirPods",
+      "publisher": "Apple",
+      "description": "iPad Air 11-inch (M4) - iPhone 13 - Price: High to Low - Beats Headphones - Beats Accessories Apple",
+      "published_utc": "2026-11-23T23:13:32+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRnd1SlhiWEI2dDg3NGhORWxZU1p1aUlJUHQ5UF8wME0wVGJSTTNYektNQmtCb3JQdFJrZE1pNVRtQXNIOEpzcjZodnJ0dFdtVVZlUzRWZ016b0gxdm1mb18tMDBSOGRHSnctYlA1VkVJWkRkVllJb1NkMEhPRlZUOEhkcjNjMmtJbGhsTEEtR3VHLVdrUWRFTUZCV2pEZFk?oc=5",
+          "source": "Apple AirPods",
+          "publisher": "Apple",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T23:13:32+00:00",
+          "title": "iPad Air 11-inch (M4) - iPhone 13 - Price: High to Low - Beats Headphones - Beats Accessories - Apple"
+        }
+      ]
+    },
+    {
+      "id": "13d7ff44403f9b357c5778c8",
+      "topic": "wired",
+      "title": "iPhone 12 Pro - MacBook Pro (14‑inch, 2023) - Beats Headphones - Beats Accessories - Apple",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbGlXOXdlenBlbUVpOF8wTnBDbk9JaDctZVhnX283MzZRSUxJTkNzV3NiTFdTV2VTRS1ZcFVhTjBwMWlQcjV2Wjg2ZGx5WFE1RU1kNGs4M3kzNFV2aHA4OFVoLU5lQ1k2cW1aVmRxUTZMa2ZHWXNLbUYwVmFxY0xCcUYwZ2pBZkgzOFc0aUx4WHgxWnIzcmNBZVlnTTFoUQ?oc=5",
+      "source": "Apple AirPods",
+      "publisher": "Apple",
+      "description": "iPhone 12 Pro - MacBook Pro (14‑inch, 2023) - Beats Headphones - Beats Accessories Apple",
+      "published_utc": "2026-11-24T04:49:04+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbGlXOXdlenBlbUVpOF8wTnBDbk9JaDctZVhnX283MzZRSUxJTkNzV3NiTFdTV2VTRS1ZcFVhTjBwMWlQcjV2Wjg2ZGx5WFE1RU1kNGs4M3kzNFV2aHA4OFVoLU5lQ1k2cW1aVmRxUTZMa2ZHWXNLbUYwVmFxY0xCcUYwZ2pBZkgzOFc0aUx4WHgxWnIzcmNBZVlnTTFoUQ?oc=5",
+          "source": "Apple AirPods",
+          "publisher": "Apple",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T04:49:04+00:00",
+          "title": "iPhone 12 Pro - MacBook Pro (14‑inch, 2023) - Beats Headphones - Beats Accessories - Apple"
+        }
+      ]
+    },
+    {
+      "id": "1efb4d526c852288744a180d",
+      "topic": "wired",
+      "title": "AVIOT、劇場版『チェンソーマン レゼ篇』コラボイヤホン。計10キャラ＋3パターンの掛け合いボイスを搭載",
+      "url": "https://www.phileweb.com/news/d-av/202611/24/66451.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "プレシードジャパンは、AVIOTブランドより完全ワイヤレスイヤホン「TE-V1R」と、劇場版『チェンソーマン レゼ篇』とのコラボモデル「TE-V1R-CSM」の予約販売を本日2026年11月24日（火）12時よりAVIOT ONLINE MALLにて開始した。",
+      "published_utc": "2026-11-24T08:10:24+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "possible_event_id": "36e5735c566a",
+      "sources": [
+        {
+          "url": "https://www.phileweb.com/news/d-av/202611/24/66451.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-24T08:10:24+00:00",
+          "title": "AVIOT、劇場版『チェンソーマン レゼ篇』コラボイヤホン。計10キャラ＋3パターンの掛け合いボイスを搭載"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T17:10:24+09:00",
+      "article_modified_raw": "2026-11-24T17:10:24+09:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "1a80332e383d4ce343cf7fd2",
+      "topic": "wired",
+      "title": "ヨドバシ、「2027年 夢のお年玉箱」抽選受付開始。iPhone Proやイヤーカフ型イヤホンなど",
+      "url": "https://www.phileweb.com/news/hobby/202611/24/8726.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "ヨドバシカメラは、会員限定で抽選販売を行う「夢のお年玉箱2027」の申し込みを11月30日（月）23時59分まで受け付けている。当選の発表は2026年12月2日（水）9時から。",
+      "published_utc": "2026-11-24T03:09:40+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "possible_event_id": "42489f477329",
+      "sources": [
+        {
+          "url": "https://www.phileweb.com/news/hobby/202611/24/8726.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-24T03:09:40+00:00",
+          "title": "ヨドバシ、「2027年 夢のお年玉箱」抽選受付開始。iPhone Proやイヤーカフ型イヤホンなど"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T12:09:40+09:00",
+      "article_modified_raw": "2026-11-24T12:09:40+09:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "f4c23aa3b09999cfc62e15ba",
+      "topic": "wired",
+      "title": "＜AAショウ＞ウィリアムス浩子さんがB&amp;W「801 D5」で圧巻の生ライブ！イベントのフィナーレを締めくくる",
+      "url": "https://www.phileweb.com/news/audio/202611/24/28428.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "11月21日（土）、22日（日）に浅草橋ヒューリックホール＆カンファレンスで開催された「ハイエンドオーディオ＆アクセサリーショウ2026」。その最終日となる22日、イベントの大トリを飾ったのが、ジャズシンガーのウィリアムス浩子さんによるトーク＆ライブパフォーマンスだ。",
+      "published_utc": "2026-11-24T06:03:26+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.phileweb.com/news/audio/202611/24/28428.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-24T06:03:26+00:00",
+          "title": "＜AAショウ＞ウィリアムス浩子さんがB&amp;W「801 D5」で圧巻の生ライブ！イベントのフィナーレを締めくくる"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T15:03:26+09:00",
+      "article_modified_raw": "2026-11-24T15:03:26+09:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "595db7c3a89a011a1b8f7e56",
+      "topic": "wired",
+      "title": "アバック新宿本店、「B＆W 800D5サラウンド試聴会」を11/28に開催。常設展示開始の「803 D5」などを使用",
+      "url": "https://www.phileweb.com/news/audio/202611/24/28430.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "アバック新宿本店は、Bowers ＆Wilkins（B＆W）のスピーカー「803 D5」の常設展示開始を記念し、試聴イベント「アバック新宿本店 B＆W 803D5 常設展示開始記念 B＆W 800 D5サラウンド試聴会」を11月28日（土）に開催する。",
+      "published_utc": "2026-11-24T02:13:09+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "4adf9a8be94e",
+      "sources": [
+        {
+          "url": "https://www.phileweb.com/news/audio/202611/24/28430.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-24T02:13:09+00:00",
+          "title": "アバック新宿本店、「B＆W 800D5サラウンド試聴会」を11/28に開催。常設展示開始の「803 D5」などを使用"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T11:13:09+09:00",
+      "article_modified_raw": "2026-11-24T11:13:09+09:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "7890eeabbca6f97d7849e154",
+      "topic": "wired",
+      "title": "HEGEL、フルアナログ構成のプリメイン「A200」。DACやデジタル入力を省きクリーンな信号伝送を追求",
+      "url": "https://www.phileweb.com/news/audio/202611/24/28433.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "ヒビノエレクトリは、同社取り扱いブランドHEGELから、フルアナログ構成のプリメインアンプ「A200」を発売した。",
+      "published_utc": "2026-11-24T09:41:34+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "3feafbdbfaa0",
+      "sources": [
+        {
+          "url": "https://www.phileweb.com/news/audio/202611/24/28433.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-24T09:41:34+00:00",
+          "title": "HEGEL、フルアナログ構成のプリメイン「A200」。DACやデジタル入力を省きクリーンな信号伝送を追求"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T18:41:34+09:00",
+      "article_modified_raw": "2026-11-24T18:41:34+09:00",
+      "enrichment": "article_metadata"
     }
   ],
   "date_unknown": [],
   "health": {
-    "ok": 10,
-    "empty": 3,
-    "partial": 5,
-    "failed": 24,
+    "partial": 11,
+    "ok": 9,
+    "deferred": 18,
+    "empty": 4,
     "manual": 2
   }
 }

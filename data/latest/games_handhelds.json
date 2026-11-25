@@ -38,12 +38,12 @@
       "url": "https://retrohandhelds.gg/play-what-cards-castles-and-arcade-detours",
       "source": "Retro Handhelds",
       "publisher": "Retro Handhelds",
-      "description": "A phat entry of Play What? with Dragon Ball Z, Captain Tsubasa, Sunshine tools, Star Fox, Rugrats and Glitch Blocks for Vita. The post Play What? Cards, Castles and Arcade Detours first appeared on Retro Handhelds .",
+      "description": "A phat entry of Play What? with Dragon Ball Z, Captain Tsubasa, Sunshine tools, Star Fox, Rugrats and Glitch Blocks for Vita.",
       "published_utc": "2026-11-24T03:23:42+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -51,25 +51,29 @@
           "url": "https://retrohandhelds.gg/play-what-cards-castles-and-arcade-detours",
           "source": "Retro Handhelds",
           "publisher": "Retro Handhelds",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T03:23:42+00:00",
           "title": "Play What? Cards, Castles and Arcade Detours"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-23T22:23:42-05:00",
+      "article_modified_raw": "2026-11-23T22:23:44-05:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "5e1103bc764bd2bbfeae5ee9",
       "topic": "handhelds",
-      "title": "ICYMI DIY: Cards, Controllers & Cheats",
+      "title": "ICYMI DIY: Cards, Controllers &amp; Cheats",
       "url": "https://retrohandhelds.gg/icymi-diy-cards-controllers-cheats",
       "source": "Retro Handhelds",
       "publisher": "Retro Handhelds",
-      "description": "Oodles of retro projects, from Dreamcast on Wii U and CHIP-8 hardware to Wi-Fi SNES saves, PSP tools and tidier game libraries. The post ICYMI DIY: Cards, Controllers & Cheats first appeared on Retro Handhelds .",
+      "description": "Oodles of retro projects, from Dreamcast on Wii U and CHIP-8 hardware to Wi-Fi SNES saves, PSP tools and tidier game libraries.",
       "published_utc": "2026-11-24T03:09:32+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -77,25 +81,29 @@
           "url": "https://retrohandhelds.gg/icymi-diy-cards-controllers-cheats",
           "source": "Retro Handhelds",
           "publisher": "Retro Handhelds",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T03:09:32+00:00",
-          "title": "ICYMI DIY: Cards, Controllers & Cheats"
+          "title": "ICYMI DIY: Cards, Controllers &amp; Cheats"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-23T22:09:32-05:00",
+      "article_modified_raw": "2026-11-23T22:09:35-05:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "ae28d0596097a6e718de1af3",
       "topic": "handhelds",
-      "title": "AYN Odin 3 Portal First Impressions: I Didn’t Want One Until Now",
+      "title": "AYN Odin 3 Portal First Impressions: I Didn&#8217;t Want One Until Now",
       "url": "https://retrohandhelds.gg/ayn-odin-3-portal-first-impressions",
       "source": "Retro Handhelds",
       "publisher": "Retro Handhelds",
-      "description": "We expected to overlook the Odin 3 Portal, but improved ergonomics, excellent performance, and fingerprint-resistant glass are making us reconsider. The post AYN Odin 3 Portal First Impressions: I Didn’t Want One Until Now first appeared on Retro Handhelds .",
+      "description": "We expected to overlook the Odin 3 Portal, but improved ergonomics, excellent performance, and fingerprint-resistant glass are making us reconsider.",
       "published_utc": "2026-11-24T02:27:10+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "ハンドヘルド候補",
       "sources": [
@@ -103,11 +111,15 @@
           "url": "https://retrohandhelds.gg/ayn-odin-3-portal-first-impressions",
           "source": "Retro Handhelds",
           "publisher": "Retro Handhelds",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T02:27:10+00:00",
-          "title": "AYN Odin 3 Portal First Impressions: I Didn’t Want One Until Now"
+          "title": "AYN Odin 3 Portal First Impressions: I Didn&#8217;t Want One Until Now"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-23T21:27:10-05:00",
+      "article_modified_raw": "2026-11-23T21:27:13-05:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "0a61b80306f9ee506fa3efb0",
@@ -240,33 +252,6 @@
       ]
     },
     {
-      "id": "a1a66c3022c504afc91210f8",
-      "topic": "racing_games",
-      "title": "Sim Global Expo moves to Excel London in February 2027 - Traxion.GG",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1STM2M0JCcFFiZUFyajZlYU9zbXVKMnA0ZHdfRl9YLUdSUGtXV2w5T1JHMzhJOVJtUm1maWJMdTJWLS1XRUg2QWxIRjJBZFAzeVRpXzhsX1pZTWw4S0tQODNENXUxMHAyaV9Hc0ZVczlxN2VJZEhQQWZCTHRxX2c?oc=5",
-      "source": "Traxion",
-      "publisher": "Traxion.GG",
-      "description": "Sim Global Expo moves to Excel London in February 2027 Traxion.GG",
-      "published_utc": "2026-11-24T13:00:48+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "possible_event_id": "8310d037f0ab",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1STM2M0JCcFFiZUFyajZlYU9zbXVKMnA0ZHdfRl9YLUdSUGtXV2w5T1JHMzhJOVJtUm1maWJMdTJWLS1XRUg2QWxIRjJBZFAzeVRpXzhsX1pZTWw4S0tQODNENXUxMHAyaV9Hc0ZVczlxN2VJZEhQQWZCTHRxX2c?oc=5",
-          "source": "Traxion",
-          "publisher": "Traxion.GG",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T13:00:48+00:00",
-          "title": "Sim Global Expo moves to Excel London in February 2027 - Traxion.GG"
-        }
-      ]
-    },
-    {
       "id": "c10587c975cb50acb13f5034",
       "topic": "racing_games",
       "title": "Martin Bigg - Traxion.GG",
@@ -291,7 +276,8 @@
           "title": "Martin Bigg - Traxion.GG"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "316a5a069a052bf9afd187a6",
@@ -344,7 +330,8 @@
           "title": "Launch Date Confirmed: Fanatec Podium Pedals GT To Be Available On Black Friday - overtake.gg"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "9ef890c63101abb8ac539d5e",
@@ -423,7 +410,8 @@
           "title": "Paddock Wire 0.4.4 (Early Access) - overtake.gg"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "50e08fb0a8bc1bfecb706fa7",
@@ -450,7 +438,8 @@
           "title": "Driver Display 1.2.16 - overtake.gg"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "0234fdccc71904a8b76e3822",
@@ -529,7 +518,8 @@
           "title": "ButtMeter 0.1.0 - overtake.gg"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "fad3cb21598956b9edf787a3",
@@ -608,7 +598,8 @@
           "title": "DiRT Rally 2.0 - Steam"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "3150fa5503cd61e38ba6459e",
@@ -890,7 +881,7 @@
       "timestamp_basis": "github_release_published",
       "link_role": "original",
       "date_quality": "github_event",
-      "triage": "review",
+      "triage": "priority",
       "triage_reason": "GitHub開発情報",
       "sources": [
         {
@@ -1303,7 +1294,7 @@
       "url": "https://www.techpowerup.com/355141/intel-arc-g3-extreme-powered-onexplayer-x2-handheld-gets-limited-edition-evangelion-edition",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "One-Netbook, the maker of the OneXPlayer gaming handhelds and mini 2-in-1 laptops, like the X1 and X1 Pro, has officially announced the OneXPlayer X2 x Neon Genesis Evangelion Unit-02 Asuka Limited Edition handheld, giving the Intel Panther Lake-powered gaming handheld a new lick of paint inspired by the iconic anime series. With the Neon Genesis E",
+      "description": "One-Netbook, the maker of the OneXPlayer gaming handhelds and mini 2-in-1 laptops, like the X1 and X1 Pro, has officially announced the OneXPlayer X2 x Neon Genesis Evangelion Unit-02 Asuka Limited Edition handheld, giving the Intel Panther Lake-powered gaming handheld a new lick of paint...",
       "published_utc": "2026-11-23T22:48:16+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -1320,7 +1311,11 @@
           "published_utc": "2026-11-23T22:48:16+00:00",
           "title": "Intel Arc G3 Extreme-Powered OneXPlayer X2 Handheld Gets Limited Edition Evangelion Edition"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "6cc58bd9974b2bca7843fb6b",
@@ -1329,12 +1324,12 @@
       "url": "https://www.computerbase.de/news/gaming/f1gamestation-linux-handheld-fuer-rund-25-dollar-zum-selber-bauen.100475",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Die F1GameStation ist ein offener Linux-Handheld zum Selbstbauen. Für rund 25 US-Dollar vereint das Projekt einen Allwinner F1C200s, ein 4,3-Zoll-Display und ein Gehäuse aus dem 3D-Drucker. Die Baupläne und Software sind frei verfügbar, auch die erste Hardware-Revision funktioniert, benötigt aber noch kleinere Nacharbeiten.",
+      "description": "Die F1GameStation ist ein offener Linux-Handheld zum Selbstbauen. Die benötigten Baupläne und die Software sind frei verfügbar.",
       "published_utc": "2026-11-23T16:33:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "ハンドヘルド候補",
       "sources": [
@@ -1342,11 +1337,15 @@
           "url": "https://www.computerbase.de/news/gaming/f1gamestation-linux-handheld-fuer-rund-25-dollar-zum-selber-bauen.100475",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-23T16:33:00+00:00",
           "title": "F1GameStation: Linux-Handheld für rund 25 Dollar zum selber bauen"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-23T17:33:00+01:00",
+      "article_modified_raw": "2026-11-23T17:33:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "f8cac1caf3c225f9956830db",
@@ -1355,12 +1354,12 @@
       "url": "https://retrododo.com/pokemon-rougerogue-brings-roguelite-features-38-elite-four-members-more",
       "source": "Retro Dodo",
       "publisher": "Retro Dodo",
-      "description": "🤝 Like our website? Support us as an independent publisher by tipping , joining our paid community or checking out our accessories brand GAMENOOK ! If you've been looking for an alternative to Emerald Rogue, then you just found it. Welcome to the cleverly named RougeRogue, a name I'",
+      "description": "🤝Like our website? Support us as an independent publisher by tipping, joining our paid community or checking out our accessories brand GAMENOOK! If you've been looking for an alternative to Emerald Rogue, then you just found it. Welcome to the cleverly named RougeRogue, a name I've had to correct three times already because it keeps tripping me up.",
       "published_utc": "2026-11-24T14:27:41+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1368,11 +1367,15 @@
           "url": "https://retrododo.com/pokemon-rougerogue-brings-roguelite-features-38-elite-four-members-more",
           "source": "Retro Dodo",
           "publisher": "Retro Dodo",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T14:27:41+00:00",
           "title": "Pokémon RougeRogue Brings Roguelite Features, 38 Elite Four Members, & More"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T14:27:41.000Z",
+      "article_modified_raw": "2026-11-24T14:27:41.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "a6f06e89c5cdc25e7d204fd7",
@@ -1381,12 +1384,12 @@
       "url": "https://retrododo.com/check-out-the-metal-gear-solid-2d-demake-you-can-play-for-free-in-your-browser",
       "source": "Retro Dodo",
       "publisher": "Retro Dodo",
-      "description": "🤝 Like our website? Support us as an independent publisher by tipping , joining our paid community or checking out our accessories brand GAMENOOK ! If you've already had enough of work and want something to mess around with in your browser instead of doing your boss's chores,",
+      "description": "🤝Like our website? Support us as an independent publisher by tipping, joining our paid community or checking out our accessories brand GAMENOOK! If you've already had enough of work and want something to mess around with in your browser instead of doing your boss's chores, then check out this 2D tribute to the stealth game genre. I mean, it's not h",
       "published_utc": "2026-11-24T13:33:18+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1394,11 +1397,15 @@
           "url": "https://retrododo.com/check-out-the-metal-gear-solid-2d-demake-you-can-play-for-free-in-your-browser",
           "source": "Retro Dodo",
           "publisher": "Retro Dodo",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T13:33:18+00:00",
           "title": "Check Out The Metal Gear Solid 2D Demake You Can Play For Free In Your Browser"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T13:33:18.000Z",
+      "article_modified_raw": "2026-11-24T13:33:18.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "4d19f050e119dbd5728502c8",
@@ -1407,12 +1414,12 @@
       "url": "https://retrododo.com/activision-calls-itself-the-home-of-banjo-kazooie-in-product-manager-job-listing",
       "source": "Retro Dodo",
       "publisher": "Retro Dodo",
-      "description": "🤝 Like our website? Support us as an independent publisher by tipping , joining our paid community or checking out our accessories brand GAMENOOK ! I've been a huge fan of Banjo-Kazooie since the game first came out in the 90s, and like many of the other fans around",
+      "description": "🤝Like our website? Support us as an independent publisher by tipping, joining our paid community or checking out our accessories brand GAMENOOK! I've been a huge fan of Banjo-Kazooie since the game first came out in the 90s, and like many of the other fans around the globe, I've been waiting 26 years for a proper sequel to Banjo-Tooie that makes me",
       "published_utc": "2026-11-24T12:44:12+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1420,20 +1427,24 @@
           "url": "https://retrododo.com/activision-calls-itself-the-home-of-banjo-kazooie-in-product-manager-job-listing",
           "source": "Retro Dodo",
           "publisher": "Retro Dodo",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T12:44:12+00:00",
           "title": "Activision Calls Itself 'The Home Of Banjo-Kazooie' In Product Manager Job Listing"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T12:44:12.000Z",
+      "article_modified_raw": "2026-11-24T12:44:12.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "a3797ed25131527c2758e820",
       "topic": "handhelds",
-      "title": "WoW Forever Is Now Playable On The AYN Thor With Dual-Screen Support - Retro Dodo",
+      "title": "WoW Forever Is Now Playable On The AYN Thor With Dual-Screen Support",
       "url": "https://retrododo.com/wow-forever-is-now-playable-on-the-ayn-thor-with-dual-screen-support",
       "source": "Retro Dodo",
       "publisher": "Retro Dodo",
-      "description": "WoW Forever Is Now Playable On The AYN Thor With Dual-Screen Support Retro Dodo",
+      "description": "🤝 Don't want to see ads? Become a premium member for $3 a month and support an independent publication today! If you've read our newsletters, you will know I'm stuck between playing The Legend of Zelda: Ocarina of Time and World of Warcraft:",
       "published_utc": "2026-11-24T10:15:37+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -1448,7 +1459,7 @@
           "publisher": "Retro Dodo",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-24T10:15:37+00:00",
-          "title": "WoW Forever Is Now Playable On The AYN Thor With Dual-Screen Support - Retro Dodo"
+          "title": "WoW Forever Is Now Playable On The AYN Thor With Dual-Screen Support"
         }
       ],
       "discovery_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOS1lQW8xMU1DaGo3SWFtR3hyWFlIY2I1b1I4UTU0Q2VfT0d0WWJiZmZaejJPamN1eUczaWM2QmpER0llbm5TbUdrZUV6alpMR0dic3V5M0VDQ1dYNkIzOTFJQzhRSWpxREFiR0ljNFRObFF2TDFUVXJEdl8tTllfU0NMOGpFZ2RtY2dBOWQ3RWFwUE5Pb3c?oc=5",
@@ -1487,12 +1498,12 @@
       "url": "https://retrododo.com/theres-a-new-craft-kit-that-lets-you-make-your-own-replica-cartridges-for-the-playgate",
       "source": "Retro Dodo",
       "publisher": "Retro Dodo",
-      "description": "🤝 Don't want to see ads? Become a premium member for $3 a month and support an independent publication today! Ever wanted to own a custom 1-of-1 version of Spud's Adventure to display on your desk or keys instead of slotting the real",
+      "description": "🤝Don't want to see ads? Become a premium member for $3 a month and support an independent publication today! Ever wanted to own a custom 1-of-1 version of Spud's Adventure to display on your desk or keys instead of slotting the real thing into your Game Boy? How about a Game Gear-esque cartridge dangling from your necklace like you're in the Beasti",
       "published_utc": "2026-11-23T16:34:54+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1500,11 +1511,15 @@
           "url": "https://retrododo.com/theres-a-new-craft-kit-that-lets-you-make-your-own-replica-cartridges-for-the-playgate",
           "source": "Retro Dodo",
           "publisher": "Retro Dodo",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-23T16:34:54+00:00",
           "title": "There's A New Craft Kit That Lets You Make Your Own Replica Cartridges For The PlayGate"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-23T16:34:54.000Z",
+      "article_modified_raw": "2026-11-23T16:34:54.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "25e18316ed89e2805869c106",
@@ -1513,12 +1528,12 @@
       "url": "https://retrododo.com/atari-reveals-gold-gamestation-go-handheld-to-celebrate-55th-anniversary",
       "source": "Retro Dodo",
       "publisher": "Retro Dodo",
-      "description": "🤝 Don't want to see ads? Become a premium member for $3 a month and support an independent publication today! The ATARI GameStation Go is alive and well, and yet again it's getting a new variant to please ATARI and handheld fans around the world.",
+      "description": "🤝Don't want to see ads? Become a premium member for $3 a month and support an independent publication today! The ATARI GameStation Go is alive and well, and yet again it's getting a new variant to please ATARI and handheld fans around the world. For those new to this handheld, it's a collaboration between ATARI and MyArcade. A handheld dedicated to",
       "published_utc": "2026-11-23T15:38:20+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "ハンドヘルド候補",
       "sources": [
@@ -1526,11 +1541,15 @@
           "url": "https://retrododo.com/atari-reveals-gold-gamestation-go-handheld-to-celebrate-55th-anniversary",
           "source": "Retro Dodo",
           "publisher": "Retro Dodo",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-23T15:38:20+00:00",
           "title": "ATARI Reveals Gold GameStation Go Handheld To Celebrate 55th Anniversary"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-23T15:38:20.000Z",
+      "article_modified_raw": "2026-11-23T15:38:20.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "fd6fbb7ed56559e39a1a15cd",
@@ -1539,12 +1558,12 @@
       "url": "https://retrododo.com/pokemon-team-rocket-jessie-james-finally-gets-an-english-translation-this-week",
       "source": "Retro Dodo",
       "publisher": "Retro Dodo",
-      "description": "🤝 Like our website? Support us as an independent publisher by tipping , joining our paid community or checking out our accessories brand GAMENOOK ! I love Pokémon ROM hacks, as you guys know, but there has always been one that I would have loved to have played that my",
+      "description": "🤝Like our website? Support us as an independent publisher by tipping, joining our paid community or checking out our accessories brand GAMENOOK! I love Pokémon ROM hacks, as you guys know, but there has always been one that I would have loved to have played that my knowledge of Spanish has kept me from enjoying. For those of you wondering, my knowl",
       "published_utc": "2026-11-23T15:16:22+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1552,11 +1571,15 @@
           "url": "https://retrododo.com/pokemon-team-rocket-jessie-james-finally-gets-an-english-translation-this-week",
           "source": "Retro Dodo",
           "publisher": "Retro Dodo",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-23T15:16:22+00:00",
           "title": "Pokémon Team Rocket Jessie & James Finally Gets An English Translation This Week"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-23T15:16:22.000Z",
+      "article_modified_raw": "2026-11-23T15:31:44.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "d0f460d78f5800415ab22c63",
@@ -1565,25 +1588,28 @@
       "url": "https://traxion.gg/sim-global-expo-moves-to-excel-london-in-february-2027",
       "source": "Traxion",
       "publisher": "Traxion",
-      "description": "The UK’s first dedicated sim racing expo was originally set to take place at the NEC Birmingham in January 2027. The post Sim Global Expo moves to Excel London in February 2027 appeared first on Traxion.GG .",
+      "description": "The UK’s first dedicated sim racing expo was originally set to take place at the NEC Birmingham in January 2027.",
       "published_utc": "2026-11-24T13:00:48+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
-      "possible_event_id": "8310d037f0ab",
       "sources": [
         {
           "url": "https://traxion.gg/sim-global-expo-moves-to-excel-london-in-february-2027",
           "source": "Traxion",
           "publisher": "Traxion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T13:00:48+00:00",
           "title": "Sim Global Expo moves to Excel London in February 2027"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T13:00:48+00:00",
+      "article_modified_raw": "2026-11-24T13:06:21+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "d6989f525d3cc614e75730d3",
@@ -1766,7 +1792,8 @@
           "title": "VRM Mate - Steam"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "89aaf93401ef92868cade6a0",
@@ -2079,7 +2106,8 @@
           "title": "Portal 2 - Steam"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "06c246b8bb8fa596bca6aee3",
@@ -2158,7 +2186,8 @@
           "title": "Garry's Mod - Steam"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "a0bccfccb5752681206feba3",
@@ -2211,7 +2240,8 @@
           "title": "Rust - Steam"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "f2a96669c3f287e64330a1ac",
@@ -2290,7 +2320,8 @@
           "title": "Bongo Cat - Steam"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "bd99ca64926b92eea9e3eaac",
@@ -2317,7 +2348,8 @@
           "title": "Save 70% on Coromon on Steam - Steam"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "36f868adc37a66f3fbc57fe3",
@@ -2448,7 +2480,8 @@
           "title": "THE FINALS - Steam"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "a9c7f764f498b5a4e87df8de",
@@ -2475,7 +2508,8 @@
           "title": "Aimlabs - Steam"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "12e927681bc67ec18180e826",
@@ -2658,7 +2692,8 @@
           "title": "CPM 2 - Steam"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "3ecf7e6a9e513dcdf65946c7",
@@ -2737,7 +2772,8 @@
           "title": "Save 10% on Dungeonbound on Steam - Steam"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "484369886cd9aab2c8145197",
@@ -3024,7 +3060,8 @@
           "title": "The Witness - Steam"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "1c0236951adf7de76efa3cee",
@@ -3051,7 +3088,8 @@
           "title": "Hi-Fi RUSH - Steam"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "334f990a8ea9d7ef8833490a",
@@ -3078,7 +3116,8 @@
           "title": "Foundation - Steam"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "6801ef41e9123b8e7d6c7643",
@@ -3365,7 +3404,8 @@
           "title": "ZERO Sievert - Steam"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "b83683546e9d67d4a86bc5a4",
@@ -3396,9 +3436,10 @@
   ],
   "date_unknown": [],
   "health": {
-    "ok": 19,
-    "empty": 13,
-    "partial": 9,
+    "partial": 4,
+    "ok": 15,
+    "deferred": 11,
+    "empty": 11,
     "manual": 4
   }
 }

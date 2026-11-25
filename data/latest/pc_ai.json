@@ -84,32 +84,6 @@
       ]
     },
     {
-      "id": "567560a9d6f0f43cbee96b4e",
-      "topic": "pc",
-      "title": "Sr. Product SCAN Engineer in Austin, Texas | Advanced Micro Devices, Inc - AMD",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBROXBwc2RCNHp3X3RtQlhBdGFFT1V0YkcyNHVZTGtJTUdmc01iUjhuY1Z6ZmQ2U0ZTR2VuR1FsYkxvcTZ2YzFxc3QyaUE4OWxRQzJ6Q3I5QWdyZERTcWRZS1B5dVVaRDZ6ekE?oc=5",
-      "source": "AMD",
-      "publisher": "AMD",
-      "description": "Sr. Product SCAN Engineer in Austin, Texas | Advanced Micro Devices, Inc AMD",
-      "published_utc": "2026-11-24T12:13:59+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBROXBwc2RCNHp3X3RtQlhBdGFFT1V0YkcyNHVZTGtJTUdmc01iUjhuY1Z6ZmQ2U0ZTR2VuR1FsYkxvcTZ2YzFxc3QyaUE4OWxRQzJ6Q3I5QWdyZERTcWRZS1B5dVVaRDZ6ekE?oc=5",
-          "source": "AMD",
-          "publisher": "AMD",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T12:13:59+00:00",
-          "title": "Sr. Product SCAN Engineer in Austin, Texas | Advanced Micro Devices, Inc - AMD"
-        }
-      ]
-    },
-    {
       "id": "1217c4047b58e8b0f47c6102",
       "topic": "pc",
       "title": "Bosch Rexroth Advances Industrial Automation with AMD - AMD",
@@ -132,32 +106,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T00:40:45+00:00",
           "title": "Bosch Rexroth Advances Industrial Automation with AMD - AMD"
-        }
-      ]
-    },
-    {
-      "id": "52ce34ad388bb25400b873e6",
-      "topic": "pc",
-      "title": "Software Development Test Engineer Lead AI Platform in Santa Clara, California | Advanced Micro Devices, Inc - AMD",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGOExQM3M2aHNQckVBcWFBUkgtRFNySXQ5ci1SWEtuYlNydDNPcjJ2QUdxMmZrZWRoN0VRaV9TMUpjd2NBbHUyYWpPZnl4Q25ySU01dXZJWEVPdnB2ZGtuaW1KVnhIVktEMnc?oc=5",
-      "source": "AMD",
-      "publisher": "AMD",
-      "description": "Software Development Test Engineer Lead AI Platform in Santa Clara, California | Advanced Micro Devices, Inc AMD",
-      "published_utc": "2026-11-24T08:22:19+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGOExQM3M2aHNQckVBcWFBUkgtRFNySXQ5ci1SWEtuYlNydDNPcjJ2QUdxMmZrZWRoN0VRaV9TMUpjd2NBbHUyYWpPZnl4Q25ySU01dXZJWEVPdnB2ZGtuaW1KVnhIVktEMnc?oc=5",
-          "source": "AMD",
-          "publisher": "AMD",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T08:22:19+00:00",
-          "title": "Software Development Test Engineer Lead AI Platform in Santa Clara, California | Advanced Micro Devices, Inc - AMD"
         }
       ]
     },
@@ -836,7 +784,8 @@
           "title": "[News] From “No Return” to “Unanimous Yes”: Huang’s NVIDIA Comeback — Key Dates and a New Playbook? - TrendForce"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "d01392fa234f35e17f91de07",
@@ -1029,24 +978,28 @@
       "url": "https://www.computerbase.de/news/smartphones/foldable-honor-stellt-faltbares-smartphone-ohne-knickfalte-in-aussicht.100496",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Nachdem Huawei das Mate X8 mit neuem Scharnier für eine fast ebene Falte auf dem inneren Display vorgestellt hat, stellt Honor ein Foldable „absolut ohne Falte“ für März 2027 in Aussicht. Das Foldable war bereits mehrfach in Leaks erwähnt worden, nun äußert sich Honor das erste Mal selbst zum neuen Foldable-Flaggschiff.",
+      "description": "Honor stellt ein faltbares Smartphone „absolut ohne Falte“ in Aussicht. Das Foldable geistert bereits länger durch die Gerüchte.",
       "published_utc": "2026-11-24T14:51:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "priority",
+      "date_quality": "article_metadata",
+      "triage": "review",
       "triage_reason": "スマートフォンへ分類",
       "sources": [
         {
           "url": "https://www.computerbase.de/news/smartphones/foldable-honor-stellt-faltbares-smartphone-ohne-knickfalte-in-aussicht.100496",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T14:51:00+00:00",
           "title": "Foldable: Honor stellt faltbares Smartphone ohne Knickfalte in Aussicht"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T15:51:00+01:00",
+      "article_modified_raw": "2026-11-24T15:51:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "106438f0131482f5a104e620",
@@ -1133,12 +1086,12 @@
       "url": "https://www.computerbase.de/news/smartphones/huawei-mate-x8-vorgestellt-foldable-will-die-falte-mit-neuem-scharnier-eliminieren.100492",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Huawei hat in China das Foldable Mate X8 vorgestellt. Ein neues magnetisches Scharnier soll die Falte des Innendisplays glätten und für erhebliche Verbesserungen sorgen. Die OLED-Displays erreichen bis zu 12.000 nits. Verkaufsstart in China ist der 4. Dezember. Eine internationale Verfügbarkeit ist bislang nicht angekündigt.",
+      "description": "Huawei hat das Mate X8 vorgestellt. Ein neues Scharnier sollte die Falte glätten, neue OLED-Displays sorgen für mehr Spitzenhelligkeit.",
       "published_utc": "2026-11-24T12:00:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "スマートフォンへ分類",
       "sources": [
@@ -1146,11 +1099,15 @@
           "url": "https://www.computerbase.de/news/smartphones/huawei-mate-x8-vorgestellt-foldable-will-die-falte-mit-neuem-scharnier-eliminieren.100492",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T12:00:00+00:00",
           "title": "Huawei Mate X8 vorgestellt: Foldable will die Falte mit neuem Scharnier eliminieren"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T13:00:00+01:00",
+      "article_modified_raw": "2026-11-24T13:00:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "e766458a1be595afec53432c",
@@ -1333,7 +1290,8 @@
           "title": "Jensen Huang Reinstated as Nvidia CEO Eleven Days After Resigning, With a New Security Committee Watching - Hardware Busters"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "5d13f65d0c2fee4c29e5e388",
@@ -1358,87 +1316,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T16:10:00+00:00",
           "title": "Aerobatics Atlas: Aerobatic Figures in 3D, Free - Hardware Busters"
-        }
-      ]
-    },
-    {
-      "id": "f6fd1dfe46f6d3a156a857af",
-      "topic": "pc",
-      "title": "HighPoint PAE Bundles Move 600W RTX PRO Blackwell GPUs to an External 1300W Enclosure Over PCIe Gen5 x16 - StorageReview.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEQwUlltaExnTXh2ekdza19NSm5IUlhuY1pVY3FrUm45cm9RVndldmpuN2dPWm1EbVRteHdRc2lVbFowOVdXamtpTFU4blBENjdEM2R3X2lpdEdndGltMW9oTkZjalpQOUJNeDAtMng2T0FwZ215aGlvenE3cF84d3puMERISHVtOGNITjdtUnU3NzlKVXIyLW9MOGVGMy15djB2eWxteU8wdjFKcEVManpzaG0wUdIBtgFBVV95cUxPaEQwUlltaExnTXh2ekdza19NSm5IUlhuY1pVY3FrUm45cm9RVndldmpuN2dPWm1EbVRteHdRc2lVbFowOVdXamtpTFU4blBENjdEM2R3X2lpdEdndGltMW9oTkZjalpQOUJNeDAtMng2T0FwZ215aGlvenE3cF84d3puMERISHVtOGNITjdtUnU3NzlKVXIyLW9MOGVGMy15djB2eWxteU8wdjFKcEVManpzaG0wUQ?oc=5",
-      "source": "StorageReview",
-      "publisher": "StorageReview.com",
-      "description": "HighPoint PAE Bundles Move 600W RTX PRO Blackwell GPUs to an External 1300W Enclosure Over PCIe Gen5 x16 StorageReview.com",
-      "published_utc": "2026-11-23T17:47:40+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "possible_event_id": "f714a5d9007b",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEQwUlltaExnTXh2ekdza19NSm5IUlhuY1pVY3FrUm45cm9RVndldmpuN2dPWm1EbVRteHdRc2lVbFowOVdXamtpTFU4blBENjdEM2R3X2lpdEdndGltMW9oTkZjalpQOUJNeDAtMng2T0FwZ215aGlvenE3cF84d3puMERISHVtOGNITjdtUnU3NzlKVXIyLW9MOGVGMy15djB2eWxteU8wdjFKcEVManpzaG0wUdIBtgFBVV95cUxPaEQwUlltaExnTXh2ekdza19NSm5IUlhuY1pVY3FrUm45cm9RVndldmpuN2dPWm1EbVRteHdRc2lVbFowOVdXamtpTFU4blBENjdEM2R3X2lpdEdndGltMW9oTkZjalpQOUJNeDAtMng2T0FwZ215aGlvenE3cF84d3puMERISHVtOGNITjdtUnU3NzlKVXIyLW9MOGVGMy15djB2eWxteU8wdjFKcEVManpzaG0wUQ?oc=5",
-          "source": "StorageReview",
-          "publisher": "StorageReview.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T17:47:40+00:00",
-          "title": "HighPoint PAE Bundles Move 600W RTX PRO Blackwell GPUs to an External 1300W Enclosure Over PCIe Gen5 x16 - StorageReview.com"
-        }
-      ]
-    },
-    {
-      "id": "9bac46526dd3f8623078940a",
-      "topic": "pc",
-      "title": "Podcast #157: Quantum’s Skip Levens on the Scalar i7 RAPTOR and 80PB of Tape in One Rack - StorageReview.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQW9KVG03SUpPcFJQOUVuQkk0Q3lsV2E4ZE45RkZUdXdjRkt5UkFJOVdrRzVlbHdGNFpKNGYyRjB1TmFzQ2lvWEJaTVFXZjkyLVRQeU9lNVZiQ2Y5MHFOeGl2Q1lobXRHSFpraVhjZFZTdHprSUk4alZ2OHE3SEJkbklEWWhndDVGTzY2elUxUFhjUHBtVjViNkhQd0M3UU9LQVdmUtIBpAFBVV95cUxPQW9KVG03SUpPcFJQOUVuQkk0Q3lsV2E4ZE45RkZUdXdjRkt5UkFJOVdrRzVlbHdGNFpKNGYyRjB1TmFzQ2lvWEJaTVFXZjkyLVRQeU9lNVZiQ2Y5MHFOeGl2Q1lobXRHSFpraVhjZFZTdHprSUk4alZ2OHE3SEJkbklEWWhndDVGTzY2elUxUFhjUHBtVjViNkhQd0M3UU9LQVdmUg?oc=5",
-      "source": "StorageReview",
-      "publisher": "StorageReview.com",
-      "description": "Podcast #157: Quantum’s Skip Levens on the Scalar i7 RAPTOR and 80PB of Tape in One Rack StorageReview.com",
-      "published_utc": "2026-11-23T16:29:03+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "possible_event_id": "ad5fcc1ed9fd",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQW9KVG03SUpPcFJQOUVuQkk0Q3lsV2E4ZE45RkZUdXdjRkt5UkFJOVdrRzVlbHdGNFpKNGYyRjB1TmFzQ2lvWEJaTVFXZjkyLVRQeU9lNVZiQ2Y5MHFOeGl2Q1lobXRHSFpraVhjZFZTdHprSUk4alZ2OHE3SEJkbklEWWhndDVGTzY2elUxUFhjUHBtVjViNkhQd0M3UU9LQVdmUtIBpAFBVV95cUxPQW9KVG03SUpPcFJQOUVuQkk0Q3lsV2E4ZE45RkZUdXdjRkt5UkFJOVdrRzVlbHdGNFpKNGYyRjB1TmFzQ2lvWEJaTVFXZjkyLVRQeU9lNVZiQ2Y5MHFOeGl2Q1lobXRHSFpraVhjZFZTdHprSUk4alZ2OHE3SEJkbklEWWhndDVGTzY2elUxUFhjUHBtVjViNkhQd0M3UU9LQVdmUg?oc=5",
-          "source": "StorageReview",
-          "publisher": "StorageReview.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T16:29:03+00:00",
-          "title": "Podcast #157: Quantum’s Skip Levens on the Scalar i7 RAPTOR and 80PB of Tape in One Rack - StorageReview.com"
-        }
-      ]
-    },
-    {
-      "id": "e2ede3a74331ea61d49112df",
-      "topic": "pc",
-      "title": "RENDA Nova8 Fits Eight 600W RTX PRO 6000 GPUs in 4U With Self-Contained Liquid Cooling for Air-Cooled Racks - StorageReview.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRVhIQmFad21QMWQ3Y1NvQ2JOZE5lN1NqTmUzc2VCVnNldEZ4QjVVY0w4ZXBsUmxnZWV3ZWZZUWw1YmhVZDRmSFdROWtZODZxQmZEYVQ3OExHdVVndkhFQ0Q2OHNXUnh0STQ3VTg2b0tZcUdJRUxtWmVLeGtWZ1VyZUl0RnFGWGVjT2JyS1pQbnl0QWpJc1kxYmNRLWJ1N1EySDVLTVFzZEJBU3JieTFyeHl30gGyAUFVX3lxTE9FWEhCYVp3bVAxZDdjU29DYk5kTmU3U2pOZTNzZUJWc2V0RnhCNVVjTDhlcGxSbGdlZXdlZllRbDViaFVkNGZIV1E5a1k4NnFCZkRhVDc4TEd1VWd2SEVDRDY4c1dSeHRJNDdVODZvS1lxR0lFTG1aZUt4a1ZnVXJlSXRGcUZYZWNPYnJLWlBueXRBaklzWTFiY1EtYnU3UTJINUtNUXNkQkFTcmJ5MXJ4eXc?oc=5",
-      "source": "StorageReview",
-      "publisher": "StorageReview.com",
-      "description": "RENDA Nova8 Fits Eight 600W RTX PRO 6000 GPUs in 4U With Self-Contained Liquid Cooling for Air-Cooled Racks StorageReview.com",
-      "published_utc": "2026-11-23T17:47:42+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "possible_event_id": "a5ec485c16a5",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRVhIQmFad21QMWQ3Y1NvQ2JOZE5lN1NqTmUzc2VCVnNldEZ4QjVVY0w4ZXBsUmxnZWV3ZWZZUWw1YmhVZDRmSFdROWtZODZxQmZEYVQ3OExHdVVndkhFQ0Q2OHNXUnh0STQ3VTg2b0tZcUdJRUxtWmVLeGtWZ1VyZUl0RnFGWGVjT2JyS1pQbnl0QWpJc1kxYmNRLWJ1N1EySDVLTVFzZEJBU3JieTFyeHl30gGyAUFVX3lxTE9FWEhCYVp3bVAxZDdjU29DYk5kTmU3U2pOZTNzZUJWc2V0RnhCNVVjTDhlcGxSbGdlZXdlZllRbDViaFVkNGZIV1E5a1k4NnFCZkRhVDc4TEd1VWd2SEVDRDY4c1dSeHRJNDdVODZvS1lxR0lFTG1aZUt4a1ZnVXJlSXRGcUZYZWNPYnJLWlBueXRBaklzWTFiY1EtYnU3UTJINUtNUXNkQkFTcmJ5MXJ4eXc?oc=5",
-          "source": "StorageReview",
-          "publisher": "StorageReview.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T17:47:42+00:00",
-          "title": "RENDA Nova8 Fits Eight 600W RTX PRO 6000 GPUs in 4U With Self-Contained Liquid Cooling for Air-Cooled Racks - StorageReview.com"
         }
       ]
     },
@@ -1649,7 +1526,8 @@
           "title": "Samsung Releases World’s First 1100 Hz Gaming Monitor That Also Operates At 600 Hz At QHD Resolution - Wccftech"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "40d91464964cd6b9e1a4bbbb",
@@ -1702,7 +1580,8 @@
           "title": "NVIDIA Employees Give Reinstated CEO, Jensen, A Hero’s Reception At Endeavor HQ, Hopes To Get An RTX Spark To Work On As His New PC - Wccftech"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "fa1418fa65824b16ccf4a7f3",
@@ -1755,7 +1634,8 @@
           "title": "Silent Hill 1 Gets New Native PC Port With Ray Tracing, HDR, AI Texture Upscaling, And Extensive Mod Support - Wccftech"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "2516fac672b430bb0d79200c",
@@ -2100,7 +1980,8 @@
           "title": "GTA VI Xbox executable released, PC recompilation projects can now begin testing - VideoCardz.com"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "b6ec49b71af7ff40f2ee2bca",
@@ -2153,7 +2034,8 @@
           "title": "Shuttle launches tiny 0.4-liter Wildcat Lake mini-PC - VideoCardz.com"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "f321a6ce9c20ed160761124c",
@@ -2206,7 +2088,8 @@
           "title": "OpenAI and Cisco introduce Shirudo - OpenAI"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "a313b4769d9bc94f80bd58cf",
@@ -2285,7 +2168,8 @@
           "title": "Building security review into your SDLC with Codex Security - OpenAI Developers"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "9fa1163eb921fd21097e1ddf",
@@ -3046,33 +2930,6 @@
       ]
     },
     {
-      "id": "812775da814fa515e2606e03",
-      "topic": "ai",
-      "title": "Meta prepares Apple Messages support for Muse AI agent - TestingCatalog AI News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSENyZ3ozVDlkNnM5TG5JRUlFMjNNRnZ6dlFSbURxRC1pdzh0U3VmcFgyUDlxV3VxaXV1MkZRTmJCMlE3S1VyQld6cGZQOUt1ZTNBLUljNVVxT0VmRC1fSHdISmVFWFRvd2ZjVTBvU2hEcEJSTGFKU1F3bFRPb1RvWUJHMzlfNFN1QmRTNDFBRQ?oc=5",
-      "source": "TestingCatalog",
-      "publisher": "TestingCatalog AI News",
-      "description": "Meta prepares Apple Messages support for Muse AI agent TestingCatalog AI News",
-      "published_utc": "2026-11-24T14:30:40+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "possible_event_id": "085610fbedaf",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSENyZ3ozVDlkNnM5TG5JRUlFMjNNRnZ6dlFSbURxRC1pdzh0U3VmcFgyUDlxV3VxaXV1MkZRTmJCMlE3S1VyQld6cGZQOUt1ZTNBLUljNVVxT0VmRC1fSHdISmVFWFRvd2ZjVTBvU2hEcEJSTGFKU1F3bFRPb1RvWUJHMzlfNFN1QmRTNDFBRQ?oc=5",
-          "source": "TestingCatalog",
-          "publisher": "TestingCatalog AI News",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T14:30:40+00:00",
-          "title": "Meta prepares Apple Messages support for Muse AI agent - TestingCatalog AI News"
-        }
-      ]
-    },
-    {
       "id": "930259daf3f2d9d1d8a7b962",
       "topic": "ai",
       "title": "OpenAI brings GPT-6.2 Sol to ChatGPT Chat and Dots to the EU - TestingCatalog AI News",
@@ -3099,61 +2956,6 @@
       ]
     },
     {
-      "id": "8a1ad4648db79ebf7280858c",
-      "topic": "ai",
-      "title": "Google adds task checklists to Antigravity and Carbon for Pro - TestingCatalog AI News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNUJNLWtBY0tfb1V1QjZUeFo4ck5VdVNabGVoTEs2UElFanZfQllmY3QxMDhxOUpxdEZMckNHSUpQcUJVeGE5M1ZqUE1MLWRYZGZpRHZHcUVIQjdrSUxZUEIwZTlrZFl2a3lZS29HbGR5UXpfaGVjNS00OUtyMEFrU3RZbmtRRnY1Vm5mbFNZRTY5aWs1NW9mdw?oc=5",
-      "source": "TestingCatalog",
-      "publisher": "TestingCatalog AI News",
-      "description": "Google adds task checklists to Antigravity and Carbon for Pro TestingCatalog AI News",
-      "published_utc": "2026-11-24T00:04:45+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "possible_event_id": "0b62a469a12a",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNUJNLWtBY0tfb1V1QjZUeFo4ck5VdVNabGVoTEs2UElFanZfQllmY3QxMDhxOUpxdEZMckNHSUpQcUJVeGE5M1ZqUE1MLWRYZGZpRHZHcUVIQjdrSUxZUEIwZTlrZFl2a3lZS29HbGR5UXpfaGVjNS00OUtyMEFrU3RZbmtRRnY1Vm5mbFNZRTY5aWs1NW9mdw?oc=5",
-          "source": "TestingCatalog",
-          "publisher": "TestingCatalog AI News",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T00:04:45+00:00",
-          "title": "Google adds task checklists to Antigravity and Carbon for Pro - TestingCatalog AI News"
-        }
-      ]
-    },
-    {
-      "id": "0cf60cdff645a3c1b3531c74",
-      "topic": "ai",
-      "title": "Anthropic launches Claude Ship to review and approve PRs - TestingCatalog AI News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcE9vRWhlb1Z0dnFuSWZwZXNIaVBTM3l5clRHYVllWlNZbXd2NHNuUWdpaF84T2NCb2hiZ2g4QUpZT2tIY3VSY0MxLXlJRUtIN1pfSXpWQ1UxU1hWenp4S1ZlMlNDak0xMnBJT0dUS1AybFl5andvRkJvZEZyNWcxTVhPdzBLNkRIYmZ6ZFNSeW8zUQ?oc=5",
-      "source": "TestingCatalog",
-      "publisher": "TestingCatalog AI News",
-      "description": "Anthropic launches Claude Ship to review and approve PRs TestingCatalog AI News",
-      "published_utc": "2026-11-23T23:29:45+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "priority",
-      "triage_reason": "AI候補",
-      "possible_event_id": "216910b4f7c9",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcE9vRWhlb1Z0dnFuSWZwZXNIaVBTM3l5clRHYVllWlNZbXd2NHNuUWdpaF84T2NCb2hiZ2g4QUpZT2tIY3VSY0MxLXlJRUtIN1pfSXpWQ1UxU1hWenp4S1ZlMlNDak0xMnBJT0dUS1AybFl5andvRkJvZEZyNWcxTVhPdzBLNkRIYmZ6ZFNSeW8zUQ?oc=5",
-          "source": "TestingCatalog",
-          "publisher": "TestingCatalog AI News",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T23:29:45+00:00",
-          "title": "Anthropic launches Claude Ship to review and approve PRs - TestingCatalog AI News"
-        }
-      ],
-      "enrichment": "failed"
-    },
-    {
       "id": "0c6caabd7cd2b814bdf1cf82",
       "topic": "ai",
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes - TechCrunch",
@@ -3168,6 +2970,7 @@
       "date_quality": "discovery_index",
       "triage": "priority",
       "triage_reason": "AI候補",
+      "possible_event_id": "8aa9246f74b4",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUdkSUFqUUdSaDIwclBOdjhNS2ltR3hsOW4tQTlMTzAzVjVrazZLN3J1eWJsYm02NDBOcUFlLXdoRV9CY3F2OHdwb215cm5mamdRZTBBS19keDhieXZiQ080SnJlTFVsNEpjNkEzMlBjOUhTSHNHTzZwNHJiYTBzSnpDemUwdFNxTXNDRHB3VEs5cnhIUTJpZ1FMd3Z1OTBXRG00Q0dlSmlqUW53eEd2dDJKaVJlRDVQdXFB?oc=5",
@@ -3178,7 +2981,8 @@
           "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes - TechCrunch"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "8b2e46a8e6207450a8992388",
@@ -3387,7 +3191,8 @@
           "title": "Claude AI can review pull requests and ship fixes on its own now - The Verge"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "46c941c7f333441c4e509a6e",
@@ -3604,12 +3409,12 @@
       "url": "https://9to5google.com/2026/11/24/openai-anthropic-new-models-safety-concerns-report",
       "source": "9to5Google",
       "publisher": "9to5Google",
-      "description": "Frontier AI models that have yet to be released by OpenAI and Anthropic are reportedly reaching the point where employees believe they cannot be safely released or controlled, employees reportedly say. more…",
+      "description": "Frontier AI models that have yet to be released by OpenAI and Anthropic are reportedly reaching the point where employees...",
       "published_utc": "2026-11-24T14:40:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "AI候補",
       "sources": [
@@ -3617,11 +3422,15 @@
           "url": "https://9to5google.com/2026/11/24/openai-anthropic-new-models-safety-concerns-report",
           "source": "9to5Google",
           "publisher": "9to5Google",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T14:40:00+00:00",
           "title": "New OpenAI and Anthropic models sound alarms on safety and control, report"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T14:40:00+00:00",
+      "article_modified_raw": "2026-11-24T14:56:01+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "3a5aabe6e4bc0653749dd93d",
@@ -3647,7 +3456,9 @@
           "published_utc": "2026-11-23T21:16:33+00:00",
           "title": "Gemini 4 Carbon is now available in Google Antigravity for AI Pro"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://9to5google.com/2026/11/23/antigravity-gemini-4-carbon"
     },
     {
       "id": "62a08146426ce7718e47a707",
@@ -3673,7 +3484,9 @@
           "published_utc": "2026-11-23T17:36:34+00:00",
           "title": "AI Mode adding Google Drive, Wallet, & Gemini app integration"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://9to5google.com/2026/11/23/ai-mode-wallet-gemini"
     },
     {
       "id": "6b00bfbbd9ac08049e613344",
@@ -3726,7 +3539,8 @@
           "title": "Introducing file slicing controls in the Gemini API - blog.google"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "0ebd5ae05f37578d0984fab5",
@@ -3934,7 +3748,9 @@
           "published_utc": "2026-11-24T13:19:08+00:00",
           "title": "CAD images suggest iPhone 18e will have an odd new camera design"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://9to5mac.com/2026/11/24/cad-images-suggest-iphone-18e-will-have-an-odd-new-camera-design"
     },
     {
       "id": "6a6c8311a274c3c194269361",
@@ -4090,7 +3906,9 @@
           "published_utc": "2026-11-23T21:05:00+00:00",
           "title": "Kodak SlideTag is a $35 AirTag alternative with an E-Ink display for your photos"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://9to5mac.com/2026/11/23/kodak-slidetag-e-ink-iphone-tracker-airtag"
     },
     {
       "id": "98e580ff66111bf55f0ef330",
@@ -4169,7 +3987,8 @@
           "title": "Honor’s new flagship camera smartphone debuts globally with 8,000 mAh battery and Arri cinema features - Notebookcheck"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "f9ad03077641b14014848787",
@@ -4248,7 +4067,8 @@
           "title": "Motorola Edge 70 Neo launches with 7,000 mAh battery and 5,200 nits display - Notebookcheck"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "3f063cfcafd90d3bf2e5cf1e",
@@ -4275,7 +4095,8 @@
           "title": "Anthropic launches Claude Ship to help developers ship code faster - Reuters"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "0c473e3efb980557913a4018",
@@ -4900,7 +4721,8 @@
           "title": "Samsung One UI 9 vs One UI 9.5: What's new, what's changed? - SamMobile"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "9fdd51378406e1f17032841f",
@@ -5109,7 +4931,8 @@
           "title": "HUAWEI Mate X8 launched with foldable hardware that embarrasses Samsung, Google - Android Authority"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "25355afb0f5eff5fe25fdac3",
@@ -5708,7 +5531,8 @@
           "title": "580.178.04 / X11: triangular black corruption after display standby; resetting the composition pipeline restores the picture - NVIDIA Developer Forums"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "fa3e0f7e58c6464ccbe16315",
@@ -5869,17 +5693,17 @@
     {
       "id": "fe3e9e79b771df9f0b6eeebf",
       "topic": "pc",
-      "title": "Rockstar Squashes \"Leonida,\" the Biggest GTA 6 PC Recompilation Effort - TechPowerUp",
+      "title": "Rockstar Squashes \"Leonida,\" the Biggest GTA 6 PC Recompilation Effort",
       "url": "https://www.techpowerup.com/355160/rockstar-squashes-leonida-the-biggest-gta-6-pc-recompilation-effort",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "Rockstar Squashes \"Leonida,\" the Biggest GTA 6 PC Recompilation Effort TechPowerUp",
+      "description": "Just days after its inception, Leonida, the fan-made project trying to get GTA 6 running on PC, is gone. Creator Not Rexed, who's apparently just 15 years old, announced on X that he was quitting, saying things \"outside his control\" kept getting in the way. After this, the project's 179,000-member Discord server and GitHub repository vanished and c",
       "published_utc": "2026-11-24T14:04:45+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
       "date_quality": "feed_published",
-      "triage": "review",
+      "triage": "priority",
       "triage_reason": "PC技術候補",
       "sources": [
         {
@@ -5888,7 +5712,7 @@
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-24T14:04:45+00:00",
-          "title": "Rockstar Squashes \"Leonida,\" the Biggest GTA 6 PC Recompilation Effort - TechPowerUp"
+          "title": "Rockstar Squashes \"Leonida,\" the Biggest GTA 6 PC Recompilation Effort"
         }
       ],
       "discovery_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcC15dlNjZ2lBY3BKQWpKV2tfdVFvWVVBTWs5bDBLamczd0dqMFlhMnlfOFBEV3Vhdmw0c3N6U2ZjTEFqaXBMaTY2NUh0ZzJaSTJRRDdITVNUalgzZnAteWNBOWRYejVfbl9Ldm9qN3lHc01QeUxqeHY5SWowQWxSeWRmVE5YVVhLX0RjWWFxZFpQMkllN3pWdGRHMmZSWmZsTDBLN9IBqgFBVV95cUxNZldkUncySlN1SUlqRUkxM2IxRVN3ODN2ZnF2MVNTVVk5WV9QNlFraV9kRW5ZWnBfWkNMN00tX2M1cEpaZ19XdzA4NmdiVHgzUHVzN1MyWmZvWWdSLWZ6UkpKWDVUb3FkR2d1azMtaWV2MGpBTzZzZ2o2VUxuRUEwVVV3RGJSWDQtZ2dHZ3F6MV9EYmh5bFQ2aldoRlVEZUNWZm53QzJvMHZ6dw?oc=5",
@@ -5897,17 +5721,17 @@
     {
       "id": "33d73430757dbd93bf3d6540",
       "topic": "pc",
-      "title": "AMD AGESA 1.3.0.1f Patch Arrives to Limit Max vCore on Ryzen 8000 Series - TechPowerUp",
+      "title": "AMD AGESA 1.3.0.1f Patch Arrives to Limit Max vCore on Ryzen 8000 Series",
       "url": "https://www.techpowerup.com/355153/amd-agesa-1-3-0-1f-patch-arrives-to-limit-max-vcore-on-ryzen-8000-series",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "AMD AGESA 1.3.0.1f Patch Arrives to Limit Max vCore on Ryzen 8000 Series TechPowerUp",
+      "description": "AMD has quietly released the AGESA ComboAM5 PI 1.3.0.1f Patch A, which primarily introduces a 1.4 V maximum core voltage limit for select Ryzen 8000-series processors. Motherboard manufacturers are starting to roll out BIOS updates that incorporate this change. Both ASUS and MSI have noted the restriction in their release notes for AM5 motherboards",
       "published_utc": "2026-11-24T13:31:02+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
       "date_quality": "feed_published",
-      "triage": "review",
+      "triage": "priority",
       "triage_reason": "PC技術候補",
       "sources": [
         {
@@ -5916,7 +5740,7 @@
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-24T13:31:02+00:00",
-          "title": "AMD AGESA 1.3.0.1f Patch Arrives to Limit Max vCore on Ryzen 8000 Series - TechPowerUp"
+          "title": "AMD AGESA 1.3.0.1f Patch Arrives to Limit Max vCore on Ryzen 8000 Series"
         }
       ],
       "discovery_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSWZpSDhCVkVpV2lQVTJMWTVWamUzTWI2VE5wWTJNWWpXZE80OGYyYTlPS3F2dU5iOFg1c2JOeFZ4dTdEOE1OeWdIQ3ZLLU90S25pajE2aC1ZVW1uSkZKdVU2NWtoZHdWOUZya0ZHUWIxQzVVd2ZXWW1saTFQR2J6QzlrS3dkbGN6bG9PUVZMbG9fNkRDdk5sTzZteHFTdWJXTXozdWJLMWlmV1XSAbABQVVfeXFMT3ZCNkV1aGUzLXRVSmNhTHk2Y3I4bXIzSDVDUUo1LWRFeHpwbTRURE9zWTNGMTJJREVFVXJXaTljV1NWM09kaVJfY3kzQkRuRk5HSXVwMHlBYTF6Q1JEbjVnUmFPejZZODV4djJ2OWJpMmNDZGExRXNRd1NGUUhkMFotdU4tdTM2NTk1UnVjZW84cTRYYzNpOHE5Z2tjY29DMkpTS2VSa2c0bGlMMHVNT2o?oc=5",
@@ -6059,7 +5883,7 @@
       "url": "https://www.techpowerup.com/355148/jetway-intros-mtx-ryz1-mini-itx-industrial-board-with-ryzen-7-pro-8845hs",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "Jetway has introduced the MTX-RYZ1 Mini-ITX industrial motherboard built around the Ryzen 7 PRO 8845HS . The AMD \"Hawk Point\" Zen 4 chip has 8 cores and 16 threads with a 3.8 GHz base clock, and it's aimed mostly at embedded systems and industrial applications. The two SO-DIMM slots support up to 96 GB of DDR5-5600, with both ECC and non-ECC module",
+      "description": "Jetway has introduced the MTX-RYZ1 Mini-ITX industrial motherboard built around the Ryzen 7 PRO 8845HS. The AMD \"Hawk Point\" Zen 4 chip has 8 cores and 16 threads with a 3.8 GHz base clock, and it's aimed mostly at embedded systems and industrial applications. The two SO-DIMM slots support up to...",
       "published_utc": "2026-11-24T00:54:45+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -6076,16 +5900,20 @@
           "published_utc": "2026-11-24T00:54:45+00:00",
           "title": "Jetway Intros MTX-RYZ1 Mini-ITX Industrial Board with Ryzen 7 PRO 8845HS"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "35cb07884a4f4475c506ca03",
       "topic": "pc",
-      "title": "GTA 6 Easter Egg Opens a Portal to the Original 2002 Vice City - TechPowerUp",
+      "title": "GTA 6 Easter Egg Opens a Portal to the Original 2002 Vice City",
       "url": "https://www.techpowerup.com/355136/gta-6-easter-egg-opens-a-portal-to-the-original-2002-vice-city",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "GTA 6 Easter Egg Opens a Portal to the Original 2002 Vice City TechPowerUp",
+      "description": "It's well known that Rockstar loves its Easter eggs, but this one might just be the best one yet. Apparently, there is a time-traveling Easter egg in GTA 6 that takes you back to the original Vice City from 2002. Australian YouTuber Memeio found the complex Easter egg and published a guide on how to solve it, unlocking a trip down memory lane strai",
       "published_utc": "2026-11-24T00:45:31+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -6100,7 +5928,7 @@
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-24T00:45:31+00:00",
-          "title": "GTA 6 Easter Egg Opens a Portal to the Original 2002 Vice City - TechPowerUp"
+          "title": "GTA 6 Easter Egg Opens a Portal to the Original 2002 Vice City"
         }
       ],
       "discovery_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORnk1Q2JVaU5IcTlua0Z1N2I1dXQ3WUdXanYzRzdEYTlVLUFaX0N2SFhlOFUzaFFWZXhURlJRS2t6QzVVdzFfbFVNZ0xUemxVbEtTNEY5UEZFbGZOTk5jaUFnYXFsNVFvUTJ4Q3YwcDhOZVpCMDB3emZGV2VXQ0VwMjNMZE5YNFhEUjltUGpoRFBfMkQySHpNaTREV1pkZ9IBowFBVV95cUxNa3BkRUNqSEN4d3UzR1hmNzJvTl9iV19RTUZ1TXd3U3pFTGg5TGt3cHhPOENrZm9OQTg3SkpKb3lxZkJnall0dzhpLVNMWjIzTEpWRXRBYmdjY01wdEROVWhGb1k4VzZxSDMzcUpaVFBLMExpeE8tc1diYUFHSW45ZW1lLTVfQ1Fua3FpUUxnTlpLN3F6bDR5Y3Y2S0pHQm9WWGNV?oc=5",
@@ -6135,11 +5963,11 @@
     {
       "id": "660d0556905dd207feaf7f67",
       "topic": "pc",
-      "title": "Experimental XNU Linux Project Boots macOS 27 Desktop on Linux - TechPowerUp",
+      "title": "Experimental XNU Linux Project Boots macOS 27 Desktop on Linux",
       "url": "https://www.techpowerup.com/355147/experimental-xnu-linux-project-boots-macos-27-desktop-on-linux",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "Experimental XNU Linux Project Boots macOS 27 Desktop on Linux TechPowerUp",
+      "description": "Unix software enthusiasts, rejoice! An experimental project called \"XNU Linux\" has successfully booted a complete macOS 27 desktop on an ARM64 Linux system. This breakthrough offers a new way to run Apple's operating system without relying on traditional virtualization methods. This is significant news for the community, as there is a large group o",
       "published_utc": "2026-11-24T00:08:42+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -6154,7 +5982,7 @@
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-24T00:08:42+00:00",
-          "title": "Experimental XNU Linux Project Boots macOS 27 Desktop on Linux - TechPowerUp"
+          "title": "Experimental XNU Linux Project Boots macOS 27 Desktop on Linux"
         }
       ],
       "discovery_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZXltZVFXOVU4TmJ1REx1M1lZUXJmdEZqaFZVc3FHRkFrUFdwbVNmaVVTVWxxRW1uNVprVjlZQ1YzZk4zSHAzaHVWcjFHTG01NDlsUnNzSE15UXl3SU5LZGpwS1Q0QWJUY1UycGV4SUE2SjlZYmxfM1RYTnFRTEpnZHgzZDFQZWFZZzdIcjFxakQtbFMzM0JYVDNXSWtBQdIBowFBVV95cUxNYWk5MXdnYW1MN3ZZcnlMOTA2b29yd182REl0LUdrZDR5VTFxUU5qY1JFTXVTOVFJYk5WSklkand6UXFSNllBV3NTV2tWbWZCOUpqcVV3M1Jsa3gweDBER2RZYi1OaDlvRU1ZZHNfeHJTUGpyU2t2MXB5ZlJNcThmeng5Wm55N1BEWjJNNDdZNHJkTTRXLS02c1h0SzkyZFRTZThr?oc=5",
@@ -6163,11 +5991,11 @@
     {
       "id": "3939ef06e4df49c56b4331fb",
       "topic": "pc",
-      "title": "Report: Samsung's 2027 DRAM Supply Is Effectively Sold Out - TechPowerUp",
+      "title": "Report: Samsung's 2027 DRAM Supply Is Effectively Sold Out",
       "url": "https://www.techpowerup.com/355146/report-samsungs-2027-dram-supply-is-effectively-sold-out",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "Report: Samsung's 2027 DRAM Supply Is Effectively Sold Out TechPowerUp",
+      "description": "If the global memory crisis wasn't already bad enough, it looks like relief is still quite a few years away. An exclusive report from South Korea's Economy Tribune says that most of Samsung's memory production capacity for 2027 through 2029 is already spoken for. The outlet says customers are already eyeing long-term agreements (LTAs) that run to 2",
       "published_utc": "2026-11-23T23:58:50+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -6182,7 +6010,7 @@
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-23T23:58:50+00:00",
-          "title": "Report: Samsung's 2027 DRAM Supply Is Effectively Sold Out - TechPowerUp"
+          "title": "Report: Samsung's 2027 DRAM Supply Is Effectively Sold Out"
         }
       ],
       "discovery_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObXJHUlI4eDI5djdGMzJzRzVzanVZX2Z6Zlc4ZzNiVWNSNkZSTGozNndBQjlmdnVzcFJVUHBqbzlCcjVrNHJmMVNlR3psSWRPSkxfNFl1ZTVPT1pQcmEwc0Itd20ya05qbjRDSE92QWUxSTFtSTI3UFFrMjlZMG9KNWRnaGE4VWNSdHNOd1RaNThkSkFGbGfSAZsBQVVfeXFMTVlLWThVa0VoaFdUOXk4ZTRUNlNaRlFYX0Jvd1VZVXZuWG5Ubk1tOWdrUmJobWR6aGxkQ3dkNEtkRERmSE1CUUt3WmNyZEdub0RjOHZIejREZDN0NXJfRVVyZDZadkVYZk9OS3RqRkxjQkQ4VFMxcWZYTnRoU0hZVjRCTm0tS2lKa0prSUNrc19fOVVsQW5Gc0pKMzA?oc=5",
@@ -6217,11 +6045,11 @@
     {
       "id": "91683ffc5a6811857cf1e599",
       "topic": "pc",
-      "title": "(PR) CyberPowerPC Expands AI Workstation Line with Compact AMD Ryzen AI Max+ 395 Powered Desktop",
+      "title": "CyberPowerPC Expands AI Workstation Line with Compact AMD Ryzen AI Max+ 395 Powered Desktop",
       "url": "https://www.techpowerup.com/355143/cyberpowerpc-expands-ai-workstation-line-with-compact-amd-ryzen-ai-max-395-powered-desktop",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "CyberPowerPC, a leading manufacturer of high-performance custom PCs, gaming rigs, and workstations, today announced its compact AI Workstation ASRock AI BOX-A395, powered by the AMD Ryzen AI Max+ 395 processor. The company also previewed its upcoming enterprise-grade AMD Ryzen AI Max+ PRO 495 AI Workstation Series, planned for release in Q4 2026. D",
+      "description": "CyberPowerPC, a leading manufacturer of high-performance custom PCs, gaming rigs, and workstations, today announced its compact AI Workstation ASRock AI BOX-A395, powered by the AMD Ryzen AI Max+ 395 processor. The company also previewed its upcoming enterprise-grade AMD Ryzen AI Max+ PRO 495 AI...",
       "published_utc": "2026-11-23T22:46:51+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -6236,18 +6064,22 @@
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-23T22:46:51+00:00",
-          "title": "(PR) CyberPowerPC Expands AI Workstation Line with Compact AMD Ryzen AI Max+ 395 Powered Desktop"
+          "title": "CyberPowerPC Expands AI Workstation Line with Compact AMD Ryzen AI Max+ 395 Powered Desktop"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "25a7d169e99a4577349b8043",
       "topic": "pc",
-      "title": "Wacom Goes Private in $860 Million Buyout Agreement - TechPowerUp",
+      "title": "Wacom Goes Private in $860 Million Buyout Agreement",
       "url": "https://www.techpowerup.com/355135/wacom-goes-private-in-usd-860-million-buyout-agreement",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "Wacom Goes Private in $860 Million Buyout Agreement TechPowerUp",
+      "description": "Wacom, arguably the industry leader in pen display tech for digital artists, and the maker of the EMR tech inside Samsung's S Pens, has officially declared that it is pursuing a buyout agreement to the tune of $860 million that would see the company return to private ownership. Currently, the Japanese tech maker is listed in the Tokyo Stock Exchang",
       "published_utc": "2026-11-23T22:19:19+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -6262,7 +6094,7 @@
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-23T22:19:19+00:00",
-          "title": "Wacom Goes Private in $860 Million Buyout Agreement - TechPowerUp"
+          "title": "Wacom Goes Private in $860 Million Buyout Agreement"
         }
       ],
       "discovery_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLXE4RXZyQ2ZPaFFoUW9RN1NKaWdWbnNOdEdYVXh3STJvQjFYSVZRWVNJVkNyT0JMTGtubU5ZcGdkaElhWFZlaHR4aHUxdkpFeGRJZkFqV3BVQ212Y1ZCM1VWNE5Mcms0UHdMNV9FMGZIQXlDNTVmbUk0X3NkdEZJRmF1SllBMFlNSDI3ZDVYYkt6MlHSAZgBQVVfeXFMUGVXRWplUXdKWEk3UFZNOGhlNTRubFQ4TU9Wdy14ZnlvSEhpYnBpbjR3RkNPeEVOc2ZzTjNKSkVpT3N3dzFaMlFmcDc4TEhtcFBsMDMxRWRiMWQ3M25EUGUyWVJsZTZieXpUQVFDaW9Oa015ZFQ5d0dDVDl2V01QVU54UDNSSWJYWS04RmJjRWxwdUJsNDBHbHE?oc=5",
@@ -6297,17 +6129,17 @@
     {
       "id": "2f29866ea51e9897844ff0fa",
       "topic": "pc",
-      "title": "HWiNFO Can Now Serve Sensor Readings to Phones and Tablets Over Your Network - TechPowerUp",
+      "title": "HWiNFO Can Now Serve Sensor Readings to Phones and Tablets Over Your Network",
       "url": "https://www.techpowerup.com/355134/hwinfo-can-now-serve-sensor-readings-to-phones-and-tablets-over-your-network",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "HWiNFO Can Now Serve Sensor Readings to Phones and Tablets Over Your Network TechPowerUp",
+      "description": "HWiNFO has released version 8.61 Beta (build 6125), which adds a built-in REST API server . That addition now allows HWiNFO to serve every tracked sensor as JSON over HTTP or HTTPS, along with details such as units, descriptions, and sensor groupings. This basically means that HWiNFO's sensor readings can now be viewed in a web browser on any devic",
       "published_utc": "2026-11-23T20:48:09+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
       "date_quality": "feed_published",
-      "triage": "review",
+      "triage": "priority",
       "triage_reason": "PC技術候補",
       "sources": [
         {
@@ -6316,7 +6148,7 @@
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-23T20:48:09+00:00",
-          "title": "HWiNFO Can Now Serve Sensor Readings to Phones and Tablets Over Your Network - TechPowerUp"
+          "title": "HWiNFO Can Now Serve Sensor Readings to Phones and Tablets Over Your Network"
         }
       ],
       "discovery_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWktIaEdEQUc5R0txUHkzSkVXOXBBOXNTNU5DT0dkUy1ObnBsSkNIWjJKV1lwYXhkWDBSc2RFbENCUVd2Z1owY3VCaDRnQ0ZkWWJyTGRSay1WUjBwbERSTHI4eGlFYnNWWTJMZW1QbEFNOGpINWJmMEo1aDUzcjFyVXhiN3NFSThXU1dxWnRSUFlXNnA3ZWlyaG83VVplVFpTbjZBbFFueExhY19nUzVEd9IBtgFBVV95cUxPQ1hVZEhudEE4Y0dFRzRhSFdKc3NGdkFmWFVkR1R4Qm5vRi1RTUVib1J0bnQyUzRpZ3h1RThfTWdESUVtQTA1aFdfTHlubEo4MWpYeUVfdUJYT3Y3TGgxWEluVVRMbGFRcElOMEJsUjVZeG1aQ1dmTnJkd1NNZFF5WGFPZTVMMVIyZWlVR3dnMWxrXzdWbnRPNzJ0V25EN3E1enpfaTZrWXRtWDhpN21mMmFhbkdGdw?oc=5",
@@ -6329,13 +6161,13 @@
       "url": "https://www.techpowerup.com/355133/asus-predicts-return-to-8-gb-of-ram-as-budget-pc-standard-soon",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "It's long been known that the RAM and general PC component crisis, and its related price increases , would continue for some time, but it appears as though things are getting dire, even for bigger PC OEMs, like ASUS. According to ASUS co-CEO, S.Y. Hsu, in the ASUS Q3 2026 earnings call ( via StockAnalysis ), ASUS may soon have to return to shipping",
+      "description": "It's long been known that the RAM and general PC component crisis, and its related price increases, would continue for some time, but it appears as though things are getting dire, even for bigger PC OEMs, like ASUS. According to ASUS co-CEO, S.Y. Hsu, in the ASUS Q3 2026 earnings call (via...",
       "published_utc": "2026-11-23T20:29:51+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
       "date_quality": "feed_published",
-      "triage": "priority",
+      "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
         {
@@ -6346,7 +6178,11 @@
           "published_utc": "2026-11-23T20:29:51+00:00",
           "title": "ASUS Predicts Return to 8 GB of RAM as Budget PC Standard Soon"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "bb1bae13e84e8d2774059cc0",
@@ -6485,7 +6321,7 @@
       "url": "https://www.techpowerup.com/355118/shuttle-launches-nw10u-ultra-compact-mini-pc-with-intel-wildcat-lake-processors",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "Shuttle has introduced the NW10U ultra-compact Mini PC based on Intel's \"Wildcat Lake\" platform. It supports Core 3, Core 5, and Core 7 processors with a 15 W TDP and up to 64 GB of DDR5-6400. The system measures 103 x 97 x 36.5 mm and has a volume of just 0.4 liters. Shuttle also equips the NW10U with an active heat-pipe cooling system and Smart F",
+      "description": "Shuttle has introduced the NW10U ultra-compact Mini PC based on Intel's \"Wildcat Lake\" platform. It supports Core 3, Core 5, and Core 7 processors with a 15 W TDP and up to 64 GB of DDR5-6400. The system measures 103 x 97 x 36.5 mm and has a volume of just 0.4 liters. Shuttle also equips the...",
       "published_utc": "2026-11-23T18:05:12+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -6502,7 +6338,11 @@
           "published_utc": "2026-11-23T18:05:12+00:00",
           "title": "Shuttle Launches NW10U Ultra-Compact Mini PC with Intel \"Wildcat Lake\" Processors"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "37fdaea5448d5554b7b414f2",
@@ -6667,12 +6507,12 @@
       "url": "https://www.tomshardware.com/monitors/gaming-monitors/samsung-just-launched-a-gaming-monitor-with-a-refresh-rate-higher-than-its-price-dual-mode-odyssey-g60h-offers-1-100-hz-in-hd",
       "source": "Tom’s Hardware",
       "publisher": "Tom’s Hardware",
-      "description": "Samsung's newly launched Odyssey G60H display is targeted squarely at serious competitive gamers with QHD 600Hz and HD 1100HZ display modes.",
+      "description": "The Odyssey G60H monitor breaks the 1 KHz barrier when flipped to HD mode.",
       "published_utc": "2026-11-24T13:12:57+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -6680,11 +6520,15 @@
           "url": "https://www.tomshardware.com/monitors/gaming-monitors/samsung-just-launched-a-gaming-monitor-with-a-refresh-rate-higher-than-its-price-dual-mode-odyssey-g60h-offers-1-100-hz-in-hd",
           "source": "Tom’s Hardware",
           "publisher": "Tom’s Hardware",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T13:12:57+00:00",
           "title": "Samsung just launched a gaming monitor with a refresh rate higher than its price — dual-mode Odyssey G60H offers 1,100 Hz in HD"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T13:12:57+00:00",
+      "article_modified_raw": "2026-11-24T13:12:57+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "d93488c7586e8719bede4ffc",
@@ -7138,9 +6982,9 @@
       "description": "高機能樹脂素材を採用しているという汎用マウスソール「PEEK」がGHOSTGLIDESから登場した。",
       "published_utc": "2026-11-24T08:05:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -7148,11 +6992,15 @@
           "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2157276.html",
           "source": "AKIBA PC Hotline",
           "publisher": "AKIBA PC Hotline",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T08:05:00+00:00",
           "title": "高耐久で安定した滑走性能を維持しやすい汎用マウスソール「GHOSTGLIDES PEEK」"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T17:05:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "89aa8110469c0678c119cbec",
@@ -7164,9 +7012,9 @@
       "description": "Venom 60 HEに対応したキースイッチを固定するためのプレート「Venom 60 HE Plates」が、遊舎工房に入荷。",
       "published_utc": "2026-11-24T06:30:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -7174,11 +7022,15 @@
           "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2157147.html",
           "source": "AKIBA PC Hotline",
           "publisher": "AKIBA PC Hotline",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T06:30:00+00:00",
           "title": "「Venom 60 HE」用のキースイッチ固定プレートが入荷"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T15:30:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "857809e90993e6f204146e93",
@@ -7190,9 +7042,9 @@
       "description": "安価なVlog用カメラ「ポケット VLOG カメラ」が、あきばお～八號店に入荷。",
       "published_utc": "2026-11-24T05:05:00+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -7200,11 +7052,15 @@
           "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2158381.html",
           "source": "AKIBA PC Hotline",
           "publisher": "AKIBA PC Hotline",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T05:05:00+00:00",
           "title": "ジンバルカメラ風デザインの安価なVlog向けカメラが5,500円"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T14:05:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "af26385334dea91683662396",
@@ -7235,11 +7091,11 @@
     {
       "id": "74fdf28c7be47264bf166e56",
       "topic": "pc",
-      "title": "EPYC Zen 6 vs Zen 1: Nine Years Bought 12.1x the Server Throughput, and Up to 133x in AI - Hardware Busters",
+      "title": "EPYC Zen 6 vs Zen 1: Nine Years Bought 12.1x the Server Throughput, and Up to 133x in AI",
       "url": "https://hwbusters.com/news/epyc-zen-6-vs-zen-1-nine-years-bought-12-1x-the-server-throughput-and-up-to-133x-in-ai",
       "source": "Hardware Busters",
       "publisher": "Hardware Busters",
-      "description": "EPYC Zen 6 vs Zen 1: Nine Years Bought 12.1x the Server Throughput, and Up to 133x in AI Hardware Busters",
+      "description": "Phoronix dusted off a 2017 Dell PowerEdge with two EPYC 7601 chips and ran it against AMD’s new Zen 6 flagships. Across more than 100 The post EPYC Zen 6 vs Zen 1: Nine Years Bought 12.1x the Server Throughput, and Up to 133x in AI appeared first on Hardware Busters .",
       "published_utc": "2026-11-24T13:12:15+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -7254,7 +7110,7 @@
           "publisher": "Hardware Busters",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-24T13:12:15+00:00",
-          "title": "EPYC Zen 6 vs Zen 1: Nine Years Bought 12.1x the Server Throughput, and Up to 133x in AI - Hardware Busters"
+          "title": "EPYC Zen 6 vs Zen 1: Nine Years Bought 12.1x the Server Throughput, and Up to 133x in AI"
         }
       ],
       "discovery_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGFiUDJnb0NVMmRXamUtX0pxcVBySGFGTWxPWHNWRVNvRGhraHhtQ1BqTVFOMm44VkczM3N4S1MtSkNsdDVabnhybHIyVGNDS2hFdnJQZ1lJOEhKcDRCd0VWM3NrREVYd3lyQUJic1ZrY0ZfSVJKMGdKNHhMZ3BqNEh4YXFlT3VtVFd1Y1J0RHNFZFFNUHdGM0sxc2RPNHpKWmFZckNSdDg4c214enEwcjZPV00?oc=5",
@@ -7263,11 +7119,11 @@
     {
       "id": "61498a58239f4b3b12e60fd0",
       "topic": "pc",
-      "title": "TCL CSOT Shows a Sub-1W Laptop Display Running at 120Hz Inside a Lenovo Yoga Pro Prototype - Hardware Busters",
+      "title": "TCL CSOT Shows a Sub-1W Laptop Display Running at 120Hz Inside a Lenovo Yoga Pro Prototype",
       "url": "https://hwbusters.com/news/tcl-csot-shows-a-sub-1w-laptop-display-running-at-120hz-inside-a-lenovo-yoga-pro-prototype",
       "source": "Hardware Busters",
       "publisher": "Hardware Busters",
-      "description": "TCL CSOT Shows a Sub-1W Laptop Display Running at 120Hz Inside a Lenovo Yoga Pro Prototype Hardware Busters",
+      "description": "TCL CSOT has a 14-inch, 120Hz laptop LCD whose entire module draws less than 1W, and it showed the panel running inside a Lenovo Yoga The post TCL CSOT Shows a Sub-1W Laptop Display Running at 120Hz Inside a Lenovo Yoga Pro Prototype appeared first on Hardware Busters .",
       "published_utc": "2026-11-24T10:09:14+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -7282,7 +7138,7 @@
           "publisher": "Hardware Busters",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-24T10:09:14+00:00",
-          "title": "TCL CSOT Shows a Sub-1W Laptop Display Running at 120Hz Inside a Lenovo Yoga Pro Prototype - Hardware Busters"
+          "title": "TCL CSOT Shows a Sub-1W Laptop Display Running at 120Hz Inside a Lenovo Yoga Pro Prototype"
         }
       ],
       "discovery_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ3RYUU96Y2tUbnhZX2lUU2ZiZzdLREVUUUpHckdxXzRTeTlYZFUwaFQ2dEZxREVWWkVxelpKeDBMUkR4ZWxUdFBncDl4X1B3N01zMXJBOU5uMjc4cE04WFNlcE9SQlprREFVUS1Vb29MdmI5T2JPWUNFYmxPOHgwY0JDbWtGOVNsVVc0b0JObVNsSkJ1TGFuR2VEQ2IwUW5wcTVzVGRPSVZJQ1NEWmdta1NfQnc3U0ZKZnc?oc=5",
@@ -7291,11 +7147,11 @@
     {
       "id": "5214d8c906383019d13e99cb",
       "topic": "pc",
-      "title": "Ladybird Browser Alpha Lands on macOS and Linux, With an Engine Nobody Forked - Hardware Busters",
+      "title": "Ladybird Browser Alpha Lands on macOS and Linux, With an Engine Nobody Forked",
       "url": "https://hwbusters.com/news/ladybird-browser-alpha-lands-on-macos-and-linux-with-an-engine-nobody-forked",
       "source": "Hardware Busters",
       "publisher": "Hardware Busters",
-      "description": "Ladybird Browser Alpha Lands on macOS and Linux, With an Engine Nobody Forked Hardware Busters",
+      "description": "The Ladybird browser alpha is out for macOS and Linux, running a web engine the team wrote from the ground up rather than forked from The post Ladybird Browser Alpha Lands on macOS and Linux, With an Engine Nobody Forked appeared first on Hardware Busters .",
       "published_utc": "2026-11-24T07:09:56+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -7310,7 +7166,7 @@
           "publisher": "Hardware Busters",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-24T07:09:56+00:00",
-          "title": "Ladybird Browser Alpha Lands on macOS and Linux, With an Engine Nobody Forked - Hardware Busters"
+          "title": "Ladybird Browser Alpha Lands on macOS and Linux, With an Engine Nobody Forked"
         }
       ],
       "discovery_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnpfTDhQbHFXenY1TElxNjM5T0l5U3cxMWVIRUlfeTB5cURpaUM1ZmlCeEV2NkprOVNWX2hyVTRmVUVIUk9YY1RtdGFlemZnR05ieTZndy1TZG9CNHFsVXFLR19NUlBSWldzNWpUcDFGcEF6bmxKbmZ0TE5wZm9qYnBkNHNETnFCc1VaWmpTcHVueHhPT2szLW5rc1NlbW44Z0huZk1MYw?oc=5",
@@ -7319,16 +7175,16 @@
     {
       "id": "45b2a873ada59926f45f70e4",
       "topic": "pc",
-      "title": "Logitech Rally Bar 2 & the New Meeting Room Lineup in Limassol",
+      "title": "Logitech Rally Bar 2 &#038; the New Meeting Room Lineup in Limassol",
       "url": "https://hwbusters.com/peripherals/logitech-rally-bar-2-limassol",
       "source": "Hardware Busters",
       "publisher": "Hardware Busters",
-      "description": "We attended the Logitech and ASBIS partner event in Limassol, where Logitech showed Rally Bar 2, explained which accessories carry over and outlined its next meeting room systems. The post Logitech Rally Bar 2 & the New Meeting Room Lineup in Limassol appeared first on Hardware Busters .",
+      "description": "At the Logitech and ASBIS event in Cyprus, we saw Rally Bar 2 and learned about room controls, Logitech Link, pricing and planned Android upgrades.",
       "published_utc": "2026-11-23T18:56:27+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -7336,11 +7192,15 @@
           "url": "https://hwbusters.com/peripherals/logitech-rally-bar-2-limassol",
           "source": "Hardware Busters",
           "publisher": "Hardware Busters",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-23T18:56:27+00:00",
-          "title": "Logitech Rally Bar 2 & the New Meeting Room Lineup in Limassol"
+          "title": "Logitech Rally Bar 2 &#038; the New Meeting Room Lineup in Limassol"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-23T18:56:27+00:00",
+      "article_modified_raw": "2026-11-23T20:08:34+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "4f44f3a3354ed2fcc228828b",
@@ -7349,12 +7209,12 @@
       "url": "https://benchlife.info/asus-mediconnect-ai-agent-platform",
       "source": "BenchLife",
       "publisher": "BenchLife",
-      "description": "華碩今宣布推出智慧醫療影像醫學流程優化平台（ASUS MediConnect AI Agent Pl […] 這篇文章 加速臨床流程！ASUS 推醫用超音波 AI Agent 平台 最早出現於 BenchLife.info 。",
+      "description": "華碩今宣布推出智慧醫療影像醫學流程優化平台（ASUS MediConnect AI Agent Pl […]",
       "published_utc": "2026-11-24T02:39:33+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "AI候補",
       "sources": [
@@ -7362,11 +7222,15 @@
           "url": "https://benchlife.info/asus-mediconnect-ai-agent-platform",
           "source": "BenchLife",
           "publisher": "BenchLife",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T02:39:33+00:00",
           "title": "加速臨床流程！ASUS 推醫用超音波 AI Agent 平台"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T02:39:33+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "cedee24e6f9a605b0fe00064",
@@ -7375,12 +7239,12 @@
       "url": "https://benchlife.info/where-winds-meet-add-nvidia-dlss-5",
       "source": "BenchLife",
       "publisher": "BenchLife",
-      "description": "包含最新的《燕雲十六州》，現在共計有 4 款遊戲支援 NVIDIA DLSS 5 技術。 《燕雲十六 […] 這篇文章 體驗更佳的遊戲視覺效果，《燕雲十六聲》加入 NVIDIA DLSS 5 技術 最早出現於 BenchLife.info 。",
+      "description": "包含最新的《燕雲十六州》，現在共計有 4 款遊戲支援 NVIDIA DLSS 5 技術。 《燕雲十六 […]",
       "published_utc": "2026-11-23T23:02:35+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -7388,11 +7252,15 @@
           "url": "https://benchlife.info/where-winds-meet-add-nvidia-dlss-5",
           "source": "BenchLife",
           "publisher": "BenchLife",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-23T23:02:35+00:00",
           "title": "體驗更佳的遊戲視覺效果，《燕雲十六聲》加入 NVIDIA DLSS 5 技術"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-23T23:02:35+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "94d65303ea4d55a6a6d783b6",
@@ -7409,7 +7277,6 @@
       "date_quality": "feed_published",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
-      "possible_event_id": "f714a5d9007b",
       "sources": [
         {
           "url": "https://www.storagereview.com/news/highpoint-pae-bundles-external-rtx-pro-blackwell-gpu-pcie-gen5-x16-copprlink",
@@ -7436,7 +7303,6 @@
       "date_quality": "feed_published",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
-      "possible_event_id": "a5ec485c16a5",
       "sources": [
         {
           "url": "https://www.storagereview.com/news/renda-nova8-eight-600w-rtx-pro-6000-gpus-4u-self-contained-liquid-cooling",
@@ -7463,7 +7329,6 @@
       "date_quality": "feed_published",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
-      "possible_event_id": "ad5fcc1ed9fd",
       "sources": [
         {
           "url": "https://www.storagereview.com/podcast/podcast-157-quantum-skip-levens-scalar-i7-raptor-lto-10-sc26",
@@ -7505,7 +7370,7 @@
           "publisher": "RTINGS Headphones",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-23T17:30:35+00:00",
-          "title": "Keychron Nape Pro Mouse Review"
+          "title": "Keychron Nape Pro Review"
         }
       ]
     },
@@ -8382,7 +8247,6 @@
       "date_quality": "feed_published",
       "triage": "review",
       "triage_reason": "AI候補",
-      "possible_event_id": "085610fbedaf",
       "sources": [
         {
           "url": "https://www.testingcatalog.com/meta-prepares-apple-messages-support-for-muse-ai-agent",
@@ -8401,12 +8265,12 @@
       "url": "https://www.testingcatalog.com/openai-brings-gpt-6-2-sol-to-chatgpt-chat-and-dots-to-eu",
       "source": "TestingCatalog",
       "publisher": "TestingCatalog",
-      "description": "OpenAI rolls out GPT-6.2 Sol in ChatGPT Chat and launches Dots in the EU, while users spot a Dots travel mode and a new ChatGPT design.",
+      "description": "GPT-6.2 Sol is rolling out in the ChatGPT Chat tab for Plus, Pro, Business and Enterprise, Dots launch in the EU, and users spot travel mode and a new design.",
       "published_utc": "2026-11-24T00:23:30+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "AI候補",
       "sources": [
@@ -8414,11 +8278,15 @@
           "url": "https://www.testingcatalog.com/openai-brings-gpt-6-2-sol-to-chatgpt-chat-and-dots-to-eu",
           "source": "TestingCatalog",
           "publisher": "TestingCatalog",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T00:23:30+00:00",
           "title": "OpenAI brings GPT-6.2 Sol to ChatGPT Chat and Dots to EU"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T00:23:30.000+00:00",
+      "article_modified_raw": "2026-11-24T00:23:30.000+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "b25399453a33dc0fd0735732",
@@ -8435,7 +8303,6 @@
       "date_quality": "feed_published",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
-      "possible_event_id": "0b62a469a12a",
       "sources": [
         {
           "url": "https://www.testingcatalog.com/google-adds-task-checklists-to-antigravity-and-carbon-for-pro",
@@ -8454,25 +8321,29 @@
       "url": "https://www.testingcatalog.com/anthropic-launches-claude-ship-to-review-and-approve-prs",
       "source": "TestingCatalog",
       "publisher": "TestingCatalog",
-      "description": "Anthropic launches Claude Ship in beta, pairing Code Review with PR Steward and Claude Approvals to fix and approve GitHub pull requests.",
+      "description": "Claude Ship is live in beta on Team and Enterprise plans, with a new /ship command in Claude Code and agents that fix PRs and approve them per team policy.",
       "published_utc": "2026-11-23T23:28:31+00:00",
       "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "AI候補",
-      "possible_event_id": "216910b4f7c9",
+      "possible_event_id": "8aa9246f74b4",
       "sources": [
         {
           "url": "https://www.testingcatalog.com/anthropic-launches-claude-ship-to-review-and-approve-prs",
           "source": "TestingCatalog",
           "publisher": "TestingCatalog",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-23T23:28:31+00:00",
           "title": "Anthropic launches Claude Ship to review and approve PRs"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-23T23:28:31.000+00:00",
+      "article_modified_raw": "2026-11-23T23:30:59.000+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "e29517f30073d89de0b24721",
@@ -8499,7 +8370,8 @@
           "title": "Manage Anthropic email updates for your organization members - Claude Help Center"
         }
       ],
-      "enrichment": "failed"
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "218bacf1fc0058e4b3014e02",
@@ -8529,7 +8401,7 @@
           "url": "https://www.notebookcheck.net/xTool-X1-review-When-55-W-of-CO2-power-meets-high-speed-galvo-and-UV-lasers.1449036.0.html",
           "source": "Notebookcheck Handheld",
           "publisher": "Notebookcheck Handheld",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T05:15:00+00:00",
           "title": "xTool X1 review: When 55 W of CO₂ power meets high-speed galvo and UV lasers"
         }
@@ -8585,7 +8457,9 @@
           "published_utc": "2026-11-23T20:32:31+00:00",
           "title": "Anthropic launches new Claude Ship feature for builders"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://9to5mac.com/2026/11/23/anthropic-launches-new-claude-ship-feature-for-builders"
     },
     {
       "id": "145708a2a7540a44fb1c1ceb",
@@ -8637,33 +8511,9 @@
           "published_utc": "2026-11-23T16:06:02+00:00",
           "title": "iOS 27.3 adds new features in six iPhone apps, details here"
         }
-      ]
-    },
-    {
-      "id": "5e8e4215eda08ffd9d8c9dee",
-      "topic": "smartphones",
-      "title": "20万円超の高値はむしろ“大チャンス”!? 携帯電話ショップ店員が見る「iPhone 18 Pro」の売れ行き",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2611/24/news071.html",
-      "source": "ITmedia Mobile",
-      "publisher": "ITmedia Mobile",
-      "description": "2026年9月の新型iPhone発表では、メインストリームを担う「iPhone 18」の投入が見送られた。このことで携帯電話ショップは痛手を被った……と思いきや、そのことがiPhone 18 Proを含むスマートフォンの販売面でプラスに働いている面があるという。一体どういうことなのか、現役店員たちに話を聞いた。",
-      "published_utc": "2026-11-24T10:00:00+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
-      "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "priority",
-      "triage_reason": "スマートフォンへ分類",
-      "sources": [
-        {
-          "url": "https://www.itmedia.co.jp/mobile/articles/2611/24/news071.html",
-          "source": "ITmedia Mobile",
-          "publisher": "ITmedia Mobile",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-24T10:00:00+00:00",
-          "title": "20万円超の高値はむしろ“大チャンス”!? 携帯電話ショップ店員が見る「iPhone 18 Pro」の売れ行き"
-        }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://9to5mac.com/2026/11/23/ios-27-3-adds-new-features-in-six-iphone-apps-details-here"
     },
     {
       "id": "8b49853c60f4a93eb08d0f84",
@@ -9682,13 +9532,41 @@
           "title": "Moscow accuses Estonia of hostile actions on 'verge of triggering open war' - Reuters"
         }
       ]
+    },
+    {
+      "id": "5e9ecf9917d5e67927e13f82",
+      "topic": "smartphones",
+      "title": "iPhone XS - Beats - Chargers & Adapters - All Accessories - Apple",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNUcxenA0Z1RVblNNWmlGQnhKUElYTWcxTmhWb0FLRzdybEE0Y2J2ZU5SVDhBNWp1eWhyMVZSTzNJWS1XWDRlTzhvNXhabmRheTRGcEtzeGdYMFIyUVM4MFQ3aUlzTm0tUlpWQmoxSUVLNENjTnBiaUwxREtybktrcGVIUXZmQQ?oc=5",
+      "source": "Apple AirPods",
+      "publisher": "Apple",
+      "description": "iPhone XS - Beats - Chargers & Adapters - All Accessories Apple",
+      "published_utc": "2026-11-24T01:39:14+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "スマートフォンへ分類",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNUcxenA0Z1RVblNNWmlGQnhKUElYTWcxTmhWb0FLRzdybEE0Y2J2ZU5SVDhBNWp1eWhyMVZSTzNJWS1XWDRlTzhvNXhabmRheTRGcEtzeGdYMFIyUVM4MFQ3aUlzTm0tUlpWQmoxSUVLNENjTnBiaUwxREtybktrcGVIUXZmQQ?oc=5",
+          "source": "Apple AirPods",
+          "publisher": "Apple",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T01:39:14+00:00",
+          "title": "iPhone XS - Beats - Chargers & Adapters - All Accessories - Apple"
+        }
+      ]
     }
   ],
   "date_unknown": [],
   "health": {
-    "ok": 34,
-    "empty": 4,
-    "partial": 5,
+    "ok": 23,
+    "partial": 1,
+    "failed": 1,
+    "deferred": 16,
+    "empty": 2,
     "manual": 3
   }
 }
