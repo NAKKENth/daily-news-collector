@@ -1,13 +1,13 @@
 # WEC / 2026-11-25 / 候補 1–11
 
 - [ACI to Run Porsche 911 GT4 R for Taylor, Miller](https://sportscar365.com/imsa/impc/aci-to-run-porsche-911-gt4-r-for-taylor-miller) — Sportscar365｜要確認｜2026-11-25T14:00:47+00:00 UTC｜feed_published
-- [AF Corse Announces First GTWC Europe Line-Up](https://www.dailysportscar.com/2026/11/25/af-corse-announces-first-gtwc-europe-line-up.html) — DailySportscar｜要確認｜2026-11-25T08:29:48+00:00 UTC｜feed_published
+- [AF Corse Announces First GTWC Europe Line-Up](https://www.dailysportscar.com/2026/11/25/af-corse-announces-first-gtwc-europe-line-up.html) — DailySportscar｜要確認｜2026-11-25T08:29:48+00:00 UTC｜article_metadata
 - [Abiteboul: Genesis “Needs to Grow” Staffing Levels](https://sportscar365.com/lemans/wec/abiteboul-genesis-needs-to-grow-staffing-levels) — Sportscar365｜要確認｜2026-11-25T11:00:51+00:00 UTC｜feed_published
 - [Browning Linked to Action Express Cadillac Rolex 24 Ride](https://sportscar365.com/imsa/iwsc/browning-linked-to-action-express-cadillac-rolex-24-ride) — Sportscar365｜要確認｜2026-11-25T11:45:59+00:00 UTC｜feed_published
 - [Leung To Step Back From WEC In &#8217;27, SRO Plans Coming Together](https://www.dailysportscar.com/2026/11/25/leung-to-step-back-from-wec-in-27-sro-plans-coming-together.html) — DailySportscar｜要確認｜2026-11-25T10:11:16+00:00 UTC｜article_metadata
 - [Rao Launches Unconventional Racing With Nielsen, Pratt Miller](https://sportscar365.com/lemans/elms/rao-launches-unconventional-racing-with-nielsen-pratt-miller) — Sportscar365｜要確認｜2026-11-24T15:22:40+00:00 UTC｜feed_published
-- [Robert Wickens Makes Full-Time IMSA GTD Debut With HMI](https://www.dailysportscar.com/2026/11/24/robert-wickens-makes-full-time-imsa-gtd-debut-with-hmi.html) — DailySportscar｜要確認｜2026-11-24T16:30:06+00:00 UTC｜feed_published
-- [Unconventional Racing Launches New Identity, 2027 LMP2 Programmes](https://www.dailysportscar.com/2026/11/24/unconventional-racing-launches-new-identity-2027-lmp2-programmes.html) — DailySportscar｜要確認｜2026-11-24T15:00:33+00:00 UTC｜feed_published
+- [Robert Wickens Makes Full-Time IMSA GTD Debut With HMI](https://www.dailysportscar.com/2026/11/24/robert-wickens-makes-full-time-imsa-gtd-debut-with-hmi.html) — DailySportscar｜要確認｜2026-11-24T16:30:06+00:00 UTC｜article_metadata
+- [Unconventional Racing Launches New Identity, 2027 LMP2 Programmes](https://www.dailysportscar.com/2026/11/24/unconventional-racing-launches-new-identity-2027-lmp2-programmes.html) — DailySportscar｜要確認｜2026-11-24T15:00:33+00:00 UTC｜article_metadata
 - [Watson Racing: The Birthplace Of The Mustang Challenge Dark Horse R](https://www.dailysportscar.com/2026/11/25/watson-racing-the-birthplace-of-mustang-challenges-dark-horse-rs.html) — DailySportscar｜要確認｜2026-11-25T14:38:47+00:00 UTC｜feed_published
 - [Wickens, Filippi Confirmed in Hanley BMW GTD Entry](https://sportscar365.com/imsa/iwsc/wickens-filippi-confirmed-in-hanley-bmw-gtd-entry) — Sportscar365｜要確認｜2026-11-24T16:29:16+00:00 UTC｜feed_published
 - [‘Like Father, Like Daughter’ Ep. 4: Never Give Up](https://sportscar365.com/videos/like-father-like-daughter-ep-4-never-give-up) — Sportscar365｜要確認｜2026-11-25T05:01:51+00:00 UTC｜feed_published

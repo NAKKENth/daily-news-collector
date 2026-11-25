@@ -2918,11 +2918,11 @@
     {
       "id": "ef2d3dda788171a35235f0da",
       "topic": "tws",
-      "title": "Apple AirPods Pro 3 disponíveis a um preço especial | TugaTech",
+      "title": "Apple AirPods Pro 3 disponíveis a um preço especial",
       "url": "https://tugatech.com.pt/t95210-apple-airpods-pro-3-disponiveis-a-um-preco-especial",
       "source": "VideoCardz",
       "publisher": "VideoCardz",
-      "description": "A procura por auriculares sem fios capazes de conciliar qualidade sonora de topo com funcionalidades de saúde e conforto prolongado tem uma nova referência. Os",
+      "description": "A procura por auriculares sem fios capazes de conciliar qualidade sonora de topo com funcionalidades de saúde e conforto prolongado tem uma nova referência. Os Apple AirPods Pro 3 chegam ao mercado com melhorias substanciais face à geração anterior e destacam-se sobretudo pelo cancelamento ativo de ruído reforçado e pela estreia da medição de frequ",
       "published_utc": "2026-11-25T14:42:19+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
@@ -2937,7 +2937,7 @@
           "publisher": "VideoCardz",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T14:42:19+00:00",
-          "title": "Apple AirPods Pro 3 disponíveis a um preço especial | TugaTech"
+          "title": "Apple AirPods Pro 3 disponíveis a um preço especial"
         }
       ],
       "discovery_url": null,
@@ -3317,7 +3317,7 @@
       "source": "Android Authority TWS",
       "publisher": "Android Authority",
       "description": "Managing Editor Android Authority",
-      "published_utc": "2026-11-25T04:36:55+00:00",
+      "published_utc": "2026-11-25T06:31:33+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -3330,7 +3330,7 @@
           "source": "Android Authority TWS",
           "publisher": "Android Authority",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T04:36:55+00:00",
+          "published_utc": "2026-11-25T06:31:33+00:00",
           "title": "Managing Editor - Android Authority"
         }
       ]
@@ -3612,6 +3612,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "6b507b96587f",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSHpWdG9SZEZydmg2RURqZmFUeFVvY2RpVFVlcXAxa3pqLUVpZTlYZlRSS0N0eVBmUGVuVUk3RkwxSmp0Z19IUDM3UjFIMTMzc3MwQllFeUkydk9XU3ZQSGZpTm9YckJoYjlyNUtPY1pEX1pPc05PN3hKTTE1RERFMkhqSW9ZSGQ3aV9VUGk2RkNUb1FKYmVZbG16ME15YVhiVWtGR25WOWd5MmprQTY3Xw?oc=5",
@@ -3726,14 +3727,146 @@
           "title": "Cannot Connect a Bluetooth Device | CineMate® 120 home theater system - Bose"
         }
       ]
+    },
+    {
+      "id": "1b099ed7355224cc973f9eaa",
+      "topic": "wired",
+      "title": "知ってた？ 日本のコンセントに「丸い穴」が空いているワケ",
+      "url": "http://www.phileweb.com/review/column/202611/26/3195.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "電化製品のプラグを見ると、先端近くに丸い穴があいています。そんなの当たり前といわれてしまうかもしれませんが、旅行のときヨーロッパで使う変換プラグの先端に穴はあいていませんよね。どうして日本で見かけるプラグには穴があいているのでしょう？",
+      "published_utc": "2026-11-25T08:15:31+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/review/column/202611/26/3195.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T08:15:31+00:00",
+          "title": "知ってた？ 日本のコンセントに「丸い穴」が空いているワケ"
+        }
+      ]
+    },
+    {
+      "id": "6dbd279d1d6e64643fd51de2",
+      "topic": "wired",
+      "title": "『季刊・オーディオアクセサリー 203号』本日11/26発売！特別付録CDはクラシック界の注目女性アーティスト6人の演奏",
+      "url": "http://www.phileweb.com/news/audio/202611/26/28438.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "本日11月26日（木）より、全国の書店／オンライン書店、ならびに小社の販売サイト「PHILE WEB.SHOP」にて、『季刊・オーディオアクセサリー 203号』が販売開始となります。",
+      "published_utc": "2026-11-25T05:52:52+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/audio/202611/26/28438.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T05:52:52+00:00",
+          "title": "『季刊・オーディオアクセサリー 203号』本日11/26発売！特別付録CDはクラシック界の注目女性アーティスト6人の演奏"
+        }
+      ]
+    },
+    {
+      "id": "ecb7d4d4ae19d2ff88b60d70",
+      "topic": "tws",
+      "title": "Apple, Samsung, and other phone makers don’t think they can sell as many phones in 2027 - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc0tvcHB1VXhRWm4wMUVuMkthblViUXFqclIzWDFDMUpWR0lIMHMtQ014RjVyeWpjVjljOXRpVU81SlZXR3dJc3FDUXFFbGRSVUdPNmRqOUdCa2FXYi1UR1R6Q21BWV9hcW16T3EwUnRQeDI1UjdZUlNuRnktY3drV1JUMFZLU2p2VnFBSzB4c0RJZw?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Apple, Samsung, and other phone makers don’t think they can sell as many phones in 2027 Android Authority",
+      "published_utc": "2026-11-25T09:11:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc0tvcHB1VXhRWm4wMUVuMkthblViUXFqclIzWDFDMUpWR0lIMHMtQ014RjVyeWpjVjljOXRpVU81SlZXR3dJc3FDUXFFbGRSVUdPNmRqOUdCa2FXYi1UR1R6Q21BWV9hcW16T3EwUnRQeDI1UjdZUlNuRnktY3drV1JUMFZLU2p2VnFBSzB4c0RJZw?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T09:11:00+00:00",
+          "title": "Apple, Samsung, and other phone makers don’t think they can sell as many phones in 2027 - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "dbda5f07dcdd113694b2d81d",
+      "topic": "tws",
+      "title": "Survey says nearly 3 in 5 readers are already on Android 17, despite low global numbers - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX0N0eTAzTzdUZEotTG5YbTE5N3o2QnltbllraWtjVVhyUHJ5Y01JbDNJVnIzeVlXdUtkZDNBZzZzWTQ1Ym91Z0w3M1N2VTczcWM3QU1DSGtXOXBndXUyRzZRaXlIallwa19RTUpmYTRncXhLMkVTODFJOWtTYUhpbnZ2OU1qdlB2WlAxLXNSOGphZzZhRnc?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Survey says nearly 3 in 5 readers are already on Android 17, despite low global numbers Android Authority",
+      "published_utc": "2026-11-25T09:02:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX0N0eTAzTzdUZEotTG5YbTE5N3o2QnltbllraWtjVVhyUHJ5Y01JbDNJVnIzeVlXdUtkZDNBZzZzWTQ1Ym91Z0w3M1N2VTczcWM3QU1DSGtXOXBndXUyRzZRaXlIallwa19RTUpmYTRncXhLMkVTODFJOWtTYUhpbnZ2OU1qdlB2WlAxLXNSOGphZzZhRnc?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T09:02:00+00:00",
+          "title": "Survey says nearly 3 in 5 readers are already on Android 17, despite low global numbers - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "fc6a1d4b42099124aeab1210",
+      "topic": "portable_dac",
+      "title": "Loxjie Wonky Display Issue Solved? - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWkkzU0NBT3c0cTcwMU0xQk5tT0ZzLVFFRC04VDcyeEV0RnYybk52YTFzNlVIQ01xem41eE9EdUdtczdzN2k0YVAtZ1lFamM1MXlzRW95YVdzOWh0TDktVWg4NkxQZmV0ejNkQkdSQkdUN1ZaVWtKNXhtZExad0xMV1o1ak1TTWU1Ym5RLTZVamM5Q3NGU3R4Q3d6TGZXMFp0?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "Loxjie Wonky Display Issue Solved? Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-25T14:08:24+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "6b507b96587f",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWkkzU0NBT3c0cTcwMU0xQk5tT0ZzLVFFRC04VDcyeEV0RnYybk52YTFzNlVIQ01xem41eE9EdUdtczdzN2k0YVAtZ1lFamM1MXlzRW95YVdzOWh0TDktVWg4NkxQZmV0ejNkQkdSQkdUN1ZaVWtKNXhtZExad0xMV1o1ak1TTWU1Ym5RLTZVamM5Q3NGU3R4Q3d6TGZXMFp0?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T14:08:24+00:00",
+          "title": "Loxjie Wonky Display Issue Solved? - Audio Science Review (ASR) Forum"
+        }
+      ]
     }
   ],
   "date_unknown": [],
   "health": {
-    "partial": 23,
-    "ok": 10,
-    "deferred": 5,
-    "empty": 4,
+    "partial": 16,
+    "ok": 12,
+    "empty": 1,
+    "deferred": 8,
+    "skipped": 5,
     "manual": 2
   }
 }

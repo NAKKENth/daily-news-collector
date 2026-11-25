@@ -29,7 +29,9 @@
           "published_utc": "2026-11-25T11:04:50+00:00",
           "title": "Opel and Citroen exit is not a betrayal of Formula E, but a major blow at the worst possible time"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "2f355b8f905c60678f8d1c40",
@@ -55,7 +57,9 @@
           "published_utc": "2026-11-25T10:50:43+00:00",
           "title": "Browning reveals hardest aspect of maiden Super Formula season"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "ee0c14b50121ca0781e94040",
@@ -81,7 +85,9 @@
           "published_utc": "2026-11-25T09:16:47+00:00",
           "title": "Alonso: “We can't be competitive with the power unit we have”"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://www.autosport.com/f1/news/fernando-alonso-we-cant-be-competitive-with-the-power-unit-we-have/10877607"
     },
     {
       "id": "8f5638db52120d8181a73e65",
@@ -107,7 +113,9 @@
           "published_utc": "2026-11-24T17:59:55+00:00",
           "title": "What's next for Herta after F1 2027 snub?"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "4e25cd1c50ae62267b989b54",
@@ -161,7 +169,9 @@
           "published_utc": "2026-11-24T15:01:18+00:00",
           "title": "Richards set to step down as Motorsport UK chairman"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "5d6720ec218179552fdf3a20",
@@ -907,7 +917,7 @@
       "source": "PlanetF1",
       "publisher": "PlanetF1",
       "description": "George Russell warned Max Verstappen ‘will beat the sh*t out of you’ amid new clash PlanetF1",
-      "published_utc": "2026-11-25T06:07:29+00:00",
+      "published_utc": "2026-11-25T06:36:32+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -920,7 +930,7 @@
           "source": "PlanetF1",
           "publisher": "PlanetF1",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T06:07:29+00:00",
+          "published_utc": "2026-11-25T06:36:32+00:00",
           "title": "George Russell warned Max Verstappen ‘will beat the sh*t out of you’ amid new clash - PlanetF1"
         }
       ]
@@ -1323,7 +1333,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Ryan Preece Archives NASCAR.com",
-      "published_utc": "2026-11-25T07:23:01+00:00",
+      "published_utc": "2026-11-25T06:23:01+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -1336,8 +1346,34 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T07:23:01+00:00",
+          "published_utc": "2026-11-25T06:23:01+00:00",
           "title": "Ryan Preece Archives - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "c7f34738962f5c26b6597e5e",
+      "topic": "NASCAR",
+      "title": "Ross Chastain Archives - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BM1RSQzd1Q0p1Z0Q1Xy12UFhmLXhDVjFXek82Z3lQbExKZkJBcHNfVlZoNFhGTGh3T0JSemxMcFFVZ1FFZTFDTEhzOS0zRGp6US0yb1puZ2cxSHRGVWszS1doUndNOUt4ZXA2ZGk5T04wUWs?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Ross Chastain Archives NASCAR.com",
+      "published_utc": "2026-11-25T13:38:40+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BM1RSQzd1Q0p1Z0Q1Xy12UFhmLXhDVjFXek82Z3lQbExKZkJBcHNfVlZoNFhGTGh3T0JSemxMcFFVZ1FFZTFDTEhzOS0zRGp6US0yb1puZ2cxSHRGVWszS1doUndNOUt4ZXA2ZGk5T04wUWs?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T13:38:40+00:00",
+          "title": "Ross Chastain Archives - NASCAR.com"
         }
       ]
     },
@@ -1765,7 +1801,7 @@
       "source": "IndyCar Official",
       "publisher": "INDYCAR.com",
       "description": "Latest NTT INDYCAR SERIES News and Results | Official Site of INDYCAR INDYCAR.com",
-      "published_utc": "2026-11-24T20:43:01+00:00",
+      "published_utc": "2026-11-24T21:41:14+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -1778,7 +1814,7 @@
           "source": "IndyCar Official",
           "publisher": "INDYCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T20:43:01+00:00",
+          "published_utc": "2026-11-24T21:41:14+00:00",
           "title": "Latest NTT INDYCAR SERIES News and Results | Official Site of INDYCAR - INDYCAR.com"
         }
       ]
@@ -2213,7 +2249,9 @@
           "published_utc": "2026-11-25T08:09:19+00:00",
           "title": "小林可夢偉が示したベテランの価値。前年無得点のSFトヨタ育成チームを入賞圏内まで押し上げ……担当エンジニアが語るフィードバック面での貢献"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "2cf535d391af4174569cd22f",
@@ -2295,7 +2333,9 @@
           "published_utc": "2026-11-25T03:14:39+00:00",
           "title": "「ミスが多すぎた」ベッツェッキ、タイトル絶好チャンス逃したシーズンを総括。マルケス復活劇から学び誓う"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://jp.motorsport.com/motogp/news/marco-bezzecchi-admits-to-too-many-mistakes-after-painful-motogp-title-loss/10877572"
     },
     {
       "id": "409bb3ead5063acd4884a503",
@@ -2649,7 +2689,7 @@
       "source": "Formula 1 Official",
       "publisher": "Formula 1",
       "description": "When is the earliest Antonelli could win the title? Formula 1",
-      "published_utc": "2026-11-24T22:13:10+00:00",
+      "published_utc": "2026-11-25T09:11:12+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -2662,7 +2702,7 @@
           "source": "Formula 1 Official",
           "publisher": "Formula 1",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T22:13:10+00:00",
+          "published_utc": "2026-11-25T09:11:12+00:00",
           "title": "When is the earliest Antonelli could win the title? - Formula 1"
         }
       ]
@@ -2805,7 +2845,7 @@
       "source": "Formula 1 Official",
       "publisher": "Formula 1",
       "description": "FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026 - full timetable | Formula 1® Formula 1",
-      "published_utc": "2026-11-24T20:16:35+00:00",
+      "published_utc": "2026-11-25T07:51:16+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -2818,7 +2858,7 @@
           "source": "Formula 1 Official",
           "publisher": "Formula 1",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T20:16:35+00:00",
+          "published_utc": "2026-11-25T07:51:16+00:00",
           "title": "FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026 - full timetable | Formula 1® - Formula 1"
         }
       ]
@@ -2989,7 +3029,7 @@
       "source": "Formula 1 Official",
       "publisher": "Formula 1",
       "description": "Jolyon Palmer's Analysis - Max's epic Vegas fight with Mercedes Formula 1",
-      "published_utc": "2026-11-24T15:14:08+00:00",
+      "published_utc": "2026-11-25T09:57:34+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -3002,7 +3042,7 @@
           "source": "Formula 1 Official",
           "publisher": "Formula 1",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T15:14:08+00:00",
+          "published_utc": "2026-11-25T09:57:34+00:00",
           "title": "Jolyon Palmer's Analysis - Max's epic Vegas fight with Mercedes - Formula 1"
         }
       ]
@@ -3629,9 +3669,9 @@
       "description": "Ferrari's Lewis Hamilton and Charles Leclerc have had several on-track incidents during the 2026 F1 season.",
       "published_utc": "2026-11-25T11:55:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -3639,11 +3679,15 @@
           "url": "https://racingnews365.com/ferrari-warned-over-bigger-worry-if-bust-ups-continue-into-2027",
           "source": "RacingNews365",
           "publisher": "RacingNews365",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T11:55:00+00:00",
           "title": "Ferrari warned over bigger 'worry' if bust-ups continue into 2027"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T12:55:00+01:00",
+      "article_modified_raw": "2026-11-25T15:18:51+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "050a773a6f774f8edcf7997d",
@@ -3681,9 +3725,9 @@
       "description": "Red Bull appears to be finishing off the current F1 season with the fastest car as it gears up for an improved campaign in 2027.",
       "published_utc": "2026-11-25T10:05:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -3691,11 +3735,15 @@
           "url": "https://racingnews365.com/major-mercedes-concern-raised-after-seismic-red-bull-f1-improvement",
           "source": "RacingNews365",
           "publisher": "RacingNews365",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T10:05:00+00:00",
           "title": "Major Mercedes concern raised after seismic Red Bull F1 improvement"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T11:05:00+01:00",
+      "article_modified_raw": "2026-11-25T15:18:26+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "eab46b7a792644e726df2f64",
@@ -3759,9 +3807,9 @@
       "description": "Lewis Hamilton and Charles Leclerc were involved in another on-track incident during the Las Vegas Grand Prix last weekend.",
       "published_utc": "2026-11-25T07:20:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -3769,11 +3817,15 @@
           "url": "https://racingnews365.com/ferrari-urged-to-change-f1-line-up-after-complete-disregard-for-the-team",
           "source": "RacingNews365",
           "publisher": "RacingNews365",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T07:20:00+00:00",
           "title": "Ferrari urged to change F1 line-up after 'complete disregard for the team'"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T08:20:00+01:00",
+      "article_modified_raw": "2026-11-24T14:57:49+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "18d1fb67a7e650e0c7c37c7c",
@@ -3811,9 +3863,9 @@
       "description": "A simple demand, but Lewis Hamilton hasn't made it of Ferrari... yet.",
       "published_utc": "2026-11-25T05:30:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -3821,11 +3873,15 @@
           "url": "https://racingnews365.com/lewis-hamilton-denies-making-ferrari-demand-despite-charles-leclerc-tension",
           "source": "RacingNews365",
           "publisher": "RacingNews365",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T05:30:00+00:00",
           "title": "Lewis Hamilton denies making Ferrari demand despite Charles Leclerc tension"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T06:30:00+01:00",
+      "article_modified_raw": "2026-11-25T09:59:27+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "1a5fb58010fd8958c3b63665",
@@ -3867,9 +3923,9 @@
       "description": "Colton Herta took on an exciting new challenge this year in a bid to reach the F1 grid in 2027.",
       "published_utc": "2026-11-24T19:00:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -3877,11 +3933,15 @@
           "url": "https://racingnews365.com/how-colton-hertas-bold-push-to-reach-f1-dramatically-fell-apart",
           "source": "RacingNews365",
           "publisher": "RacingNews365",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T19:00:00+00:00",
           "title": "How Colton Herta's bold push to reach F1 dramatically fell apart"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T20:00:00+01:00",
+      "article_modified_raw": "2026-11-24T13:27:46+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "2d362dfb20e31ddd964697ec",
@@ -3893,9 +3953,9 @@
       "description": "Liam Lawson's recent excellent strong run of performances came to an end for Racing Bulls in Las Vegas.",
       "published_utc": "2026-11-24T18:10:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -3903,11 +3963,15 @@
           "url": "https://racingnews365.com/liam-lawson-spies-racing-bulls-opportunity-despite-grand-prix-disaster",
           "source": "RacingNews365",
           "publisher": "RacingNews365",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T18:10:00+00:00",
           "title": "Liam Lawson spies Racing Bulls opportunity despite grand prix disaster"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T19:10:00+01:00",
+      "article_modified_raw": "2026-11-24T23:06:45+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "eb800f9cfc677e3aad30e89c",
@@ -4337,7 +4401,7 @@
       "source": "AMuS",
       "publisher": "Auto Motor und Sport",
       "description": "Ab 15 mit AM unterwegs: Was Cavaliers Eingriff beim Fiat Topolino rechtlich bedeutet Auto Motor und Sport",
-      "published_utc": "2026-11-25T08:40:15+00:00",
+      "published_utc": "2026-11-25T13:40:24+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -4350,7 +4414,7 @@
           "source": "AMuS",
           "publisher": "Auto Motor und Sport",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T08:40:15+00:00",
+          "published_utc": "2026-11-25T13:40:24+00:00",
           "title": "Ab 15 mit AM unterwegs: Was Cavaliers Eingriff beim Fiat Topolino rechtlich bedeutet - Auto Motor und Sport"
         }
       ]
@@ -4675,7 +4739,7 @@
       "source": "AMuS",
       "publisher": "Auto Motor und Sport",
       "description": "Suzuki Ignis Elektro Premiere: Neuer Suzuki greift Dacia Spring an Auto Motor und Sport",
-      "published_utc": "2026-11-25T09:35:24+00:00",
+      "published_utc": "2026-11-25T06:36:38+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -4688,7 +4752,7 @@
           "source": "AMuS",
           "publisher": "Auto Motor und Sport",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T09:35:24+00:00",
+          "published_utc": "2026-11-25T06:36:38+00:00",
           "title": "Suzuki Ignis Elektro Premiere: Neuer Suzuki greift Dacia Spring an - Auto Motor und Sport"
         }
       ]
@@ -4727,7 +4791,7 @@
       "source": "AMuS",
       "publisher": "Auto Motor und Sport",
       "description": "Der heimliche GTI: Neues ID.Cross Topmodell mit 226 PS Auto Motor und Sport",
-      "published_utc": "2026-11-25T11:05:24+00:00",
+      "published_utc": "2026-11-25T04:37:32+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -4740,7 +4804,7 @@
           "source": "AMuS",
           "publisher": "Auto Motor und Sport",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T11:05:24+00:00",
+          "published_utc": "2026-11-25T04:37:32+00:00",
           "title": "Der heimliche GTI: Neues ID.Cross Topmodell mit 226 PS - Auto Motor und Sport"
         }
       ]
@@ -4805,7 +4869,7 @@
       "source": "AMuS",
       "publisher": "Auto Motor und Sport",
       "description": "Formel 1: Verstappen spielt 40h GTA VI: Vegas-Sieg trotz Zocker-Marathon Auto Motor und Sport",
-      "published_utc": "2026-11-25T13:35:24+00:00",
+      "published_utc": "2026-11-25T04:46:19+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -4818,7 +4882,7 @@
           "source": "AMuS",
           "publisher": "Auto Motor und Sport",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T13:35:24+00:00",
+          "published_utc": "2026-11-25T04:46:19+00:00",
           "title": "Formel 1: Verstappen spielt 40h GTA VI: Vegas-Sieg trotz Zocker-Marathon - Auto Motor und Sport"
         }
       ]
@@ -4831,7 +4895,7 @@
       "source": "AMuS",
       "publisher": "Auto Motor und Sport",
       "description": "Formel-1-Piloten als Lego-Figuren: Dieser Audi-Sponsor wurde zensiert Auto Motor und Sport",
-      "published_utc": "2026-11-25T09:20:24+00:00",
+      "published_utc": "2026-11-25T06:21:06+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -4844,7 +4908,7 @@
           "source": "AMuS",
           "publisher": "Auto Motor und Sport",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T09:20:24+00:00",
+          "published_utc": "2026-11-25T06:21:06+00:00",
           "title": "Formel-1-Piloten als Lego-Figuren: Dieser Audi-Sponsor wurde zensiert - Auto Motor und Sport"
         }
       ]
@@ -5298,12 +5362,12 @@
       "url": "https://rallyjournal.com/major-hyundai-wrc-news-expected-thierry-neuville-plays-it-cool",
       "source": "RallyJournal",
       "publisher": "RallyJournal",
-      "description": "Thierry Neuville has yet to confirm reports surrounding Hyundai's WRC plans. Artikkeli Major Hyundai WRC news expected – Thierry Neuville plays it cool julkaistiin ensimmäisen kerran RallyJournal.com .",
+      "description": "Thierry Neuville has yet to confirm reports surrounding Hyundai's WRC plans.",
       "published_utc": "2026-11-25T11:55:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -5311,25 +5375,29 @@
           "url": "https://rallyjournal.com/major-hyundai-wrc-news-expected-thierry-neuville-plays-it-cool",
           "source": "RallyJournal",
           "publisher": "RallyJournal",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T11:55:00+00:00",
           "title": "Major Hyundai WRC news expected – Thierry Neuville plays it cool"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T11:55:00+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "f1676fae6c1992cba7b46c3a",
       "topic": "WRC",
-      "title": "New WRC team pursued Teemu Suninen – team boss sheds light on Finn’s future",
+      "title": "New WRC team pursued Teemu Suninen – team boss sheds light on Finn&#8217;s future",
       "url": "https://rallyjournal.com/new-wrc-team-pursued-teemu-suninen-team-boss-sheds-light-on-finns-future",
       "source": "RallyJournal",
       "publisher": "RallyJournal",
-      "description": "Teemu Suninen is not part of Project Rally One's plans for its debut WRC campaign next season. Artikkeli New WRC team pursued Teemu Suninen – team boss sheds light on Finn’s future julkaistiin ensimmäisen kerran RallyJournal.com .",
+      "description": "Teemu Suninen is not part of Project Rally One's plans for its debut WRC campaign next season.",
       "published_utc": "2026-11-25T09:21:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -5337,11 +5405,15 @@
           "url": "https://rallyjournal.com/new-wrc-team-pursued-teemu-suninen-team-boss-sheds-light-on-finns-future",
           "source": "RallyJournal",
           "publisher": "RallyJournal",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T09:21:00+00:00",
-          "title": "New WRC team pursued Teemu Suninen – team boss sheds light on Finn’s future"
+          "title": "New WRC team pursued Teemu Suninen – team boss sheds light on Finn&#8217;s future"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T09:21:00+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "892d8de64f38833893eb6cf9",
@@ -5615,7 +5687,7 @@
       "source": "PlanetF1",
       "publisher": "PlanetF1",
       "description": "George Russell backs hybrid power as F1 prepares for V8 engine return PlanetF1",
-      "published_utc": "2026-11-25T09:14:00+00:00",
+      "published_utc": "2026-11-25T06:13:51+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -5628,7 +5700,7 @@
           "source": "PlanetF1",
           "publisher": "PlanetF1",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T09:14:00+00:00",
+          "published_utc": "2026-11-25T06:13:51+00:00",
           "title": "George Russell backs hybrid power as F1 prepares for V8 engine return - PlanetF1"
         }
       ]
@@ -5693,7 +5765,7 @@
       "source": "PlanetF1",
       "publisher": "PlanetF1",
       "description": "Ferrari News, Results, Standings, Schedule & History PlanetF1",
-      "published_utc": "2026-11-25T08:27:19+00:00",
+      "published_utc": "2026-11-25T13:36:41+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -5706,7 +5778,7 @@
           "source": "PlanetF1",
           "publisher": "PlanetF1",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T08:27:19+00:00",
+          "published_utc": "2026-11-25T13:36:41+00:00",
           "title": "Ferrari News, Results, Standings, Schedule & History - PlanetF1"
         }
       ]
@@ -5719,7 +5791,7 @@
       "source": "PlanetF1",
       "publisher": "PlanetF1",
       "description": "George Russell and Max Verstappen Las Vegas clash under Toto Wolff microscope PlanetF1",
-      "published_utc": "2026-11-25T03:33:48+00:00",
+      "published_utc": "2026-11-25T04:24:06+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -5732,7 +5804,7 @@
           "source": "PlanetF1",
           "publisher": "PlanetF1",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T03:33:48+00:00",
+          "published_utc": "2026-11-25T04:24:06+00:00",
           "title": "George Russell and Max Verstappen Las Vegas clash under Toto Wolff microscope - PlanetF1"
         }
       ]
@@ -6151,7 +6223,9 @@
           "published_utc": "2026-11-25T14:00:47+00:00",
           "title": "ACI to Run Porsche 911 GT4 R for Taylor, Miller"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://sportscar365.com/imsa/impc/aci-to-run-porsche-911-gt4-r-for-taylor-miller"
     },
     {
       "id": "2fa80b80f9ddb93253ccdf9c",
@@ -6177,7 +6251,9 @@
           "published_utc": "2026-11-25T11:45:59+00:00",
           "title": "Browning Linked to Action Express Cadillac Rolex 24 Ride"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "2682101b12046627b2cb2474",
@@ -6203,7 +6279,9 @@
           "published_utc": "2026-11-25T11:00:51+00:00",
           "title": "Abiteboul: Genesis “Needs to Grow” Staffing Levels"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "0bc470245b743c0c2550521a",
@@ -6257,7 +6335,9 @@
           "published_utc": "2026-11-25T05:01:51+00:00",
           "title": "‘Like Father, Like Daughter’ Ep. 4: Never Give Up"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "d0c01eefab29b627e6d73096",
@@ -6283,7 +6363,9 @@
           "published_utc": "2026-11-24T16:29:16+00:00",
           "title": "Wickens, Filippi Confirmed in Hanley BMW GTD Entry"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "aba838702a9813476dbfa42e",
@@ -6309,7 +6391,9 @@
           "published_utc": "2026-11-24T15:22:40+00:00",
           "title": "Rao Launches Unconventional Racing With Nielsen, Pratt Miller"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "ae6106bf783745deb710d622",
@@ -6638,6 +6722,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "53b90b382720",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRZW1hRmFYSE1ZM085a3l0RXFTOXpDUXFHYmw4dGZKdnFsekdSZ3NUVDVxQkpuVHJaYjVTdXpsaS1QM0xDV1FBY1AxcHBEcEIyYlVqZzNXR3B2VWd0ZTFnZ2RsYXdSQWNYZUN4RHZPQW9hUlhlY0Jmc28wQk40Zw?oc=5",
@@ -7804,12 +7889,12 @@
       "url": "https://www.dailysportscar.com/2026/11/25/af-corse-announces-first-gtwc-europe-line-up.html",
       "source": "DailySportscar",
       "publisher": "DailySportscar",
-      "description": "AF Corse has confirmed its first entry for the 2027 GT World Challenge Europe season, with the team set to field a Ferrari 296 GT3 Evo in the Silver Cup. Rafael Durán will race full-time in the entry, with the Spaniard joined by Gilles Renmans and Leonardo Colavita in the Endurance Cup. Durán’s Sprint Cup […] The post AF Corse Announces First GTWC ",
+      "description": "AF Corse Announces First GTWC Europe Line-Up",
       "published_utc": "2026-11-25T08:29:48+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -7817,11 +7902,15 @@
           "url": "https://www.dailysportscar.com/2026/11/25/af-corse-announces-first-gtwc-europe-line-up.html",
           "source": "DailySportscar",
           "publisher": "DailySportscar",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T08:29:48+00:00",
           "title": "AF Corse Announces First GTWC Europe Line-Up"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T09:29:48+01:00",
+      "article_modified_raw": "2026-11-25T09:29:48+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "be2c832b01920d6f971d3b14",
@@ -7830,12 +7919,12 @@
       "url": "https://www.dailysportscar.com/2026/11/24/robert-wickens-makes-full-time-imsa-gtd-debut-with-hmi.html",
       "source": "DailySportscar",
       "publisher": "DailySportscar",
-      "description": "IMSA newcomer Hanley Motorsports Incorporated (HMI) has announced that Robert Wickens and Mason Filippi will drive the team’s #42 BMW M4 GT3 EVO in the 2027 IMSA WeatherTech SportsCar Championship GTD class. This will mark Wickens’ return to full-time racing and first full season in GTD after running two partial campaigns in the WeatherTech series ",
+      "description": "HMI has announced that Robert Wickens and Mason Filippi will drive the team's #42 BMW M4 GT3 EVO in the 2027 IMSA WeatherTech SportsCar Championship GTD class",
       "published_utc": "2026-11-24T16:30:06+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -7843,11 +7932,15 @@
           "url": "https://www.dailysportscar.com/2026/11/24/robert-wickens-makes-full-time-imsa-gtd-debut-with-hmi.html",
           "source": "DailySportscar",
           "publisher": "DailySportscar",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T16:30:06+00:00",
           "title": "Robert Wickens Makes Full-Time IMSA GTD Debut With HMI"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T17:30:06+01:00",
+      "article_modified_raw": "2026-11-25T08:50:55+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "54906757d7bbe9bc287d8be5",
@@ -7856,12 +7949,12 @@
       "url": "https://www.dailysportscar.com/2026/11/24/unconventional-racing-launches-new-identity-2027-lmp2-programmes.html",
       "source": "DailySportscar",
       "publisher": "DailySportscar",
-      "description": "Entrepreneur and racing driver Naveen Rao has announced the launch of Unconventional Racing, the new brand for Rao’s continued participation in international LMP2 competition across North America and Europe. The Unconventional Racing name will make its first appearance at the IMSA Sanctioned Test at Daytona International Speedway on 10 December. Pr",
+      "description": "Entrepreneur and racing driver Naveen Rao has announced the launch of Unconventional Racing, the new brand for Rao's continued participation in LMP2 competition",
       "published_utc": "2026-11-24T15:00:33+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -7869,11 +7962,15 @@
           "url": "https://www.dailysportscar.com/2026/11/24/unconventional-racing-launches-new-identity-2027-lmp2-programmes.html",
           "source": "DailySportscar",
           "publisher": "DailySportscar",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T15:00:33+00:00",
           "title": "Unconventional Racing Launches New Identity, 2027 LMP2 Programmes"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T16:00:33+01:00",
+      "article_modified_raw": "2026-11-25T08:52:56+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "7368be17523f2519bd5f2e05",
@@ -8013,7 +8110,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Front Row Motorsports Archives NASCAR.com",
-      "published_utc": "2026-11-25T07:20:59+00:00",
+      "published_utc": "2026-11-25T06:20:59+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -8026,7 +8123,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T07:20:59+00:00",
+          "published_utc": "2026-11-25T06:20:59+00:00",
           "title": "Front Row Motorsports Archives - NASCAR.com"
         }
       ]
@@ -8039,7 +8136,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "William Byron Archives NASCAR.com",
-      "published_utc": "2026-11-25T07:20:59+00:00",
+      "published_utc": "2026-11-25T06:20:59+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -8052,7 +8149,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T07:20:59+00:00",
+          "published_utc": "2026-11-25T06:20:59+00:00",
           "title": "William Byron Archives - NASCAR.com"
         }
       ]
@@ -8065,7 +8162,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Chase Briscoe Archives NASCAR.com",
-      "published_utc": "2026-11-25T08:23:01+00:00",
+      "published_utc": "2026-11-25T07:23:01+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -8078,7 +8175,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T08:23:01+00:00",
+          "published_utc": "2026-11-25T07:23:01+00:00",
           "title": "Chase Briscoe Archives - NASCAR.com"
         }
       ]
@@ -8091,7 +8188,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Team Penske Archives NASCAR.com",
-      "published_utc": "2026-11-25T09:05:18+00:00",
+      "published_utc": "2026-11-25T08:05:18+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -8104,7 +8201,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T09:05:18+00:00",
+          "published_utc": "2026-11-25T08:05:18+00:00",
           "title": "Team Penske Archives - NASCAR.com"
         }
       ]
@@ -8709,7 +8806,9 @@
           "published_utc": "2026-11-25T14:34:31+00:00",
           "title": "Top five roles on Motorsport Jobs this week"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "400bc27ec3648ba9737c4910",
@@ -8787,21 +8886,23 @@
           "published_utc": "2026-11-25T14:38:47+00:00",
           "title": "Watson Racing: The Birthplace Of The Mustang Challenge Dark Horse R"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "404 Client Error: Not Found for url: https://www.dailysportscar.com/2026/11/25/watson-racing-the-birthplace-of-mustang-challenges-dark-horse-rs.html"
     },
     {
       "id": "57ae17d13e6eb9bb1971616a",
       "topic": "F1",
-      "title": "Codice Rosso, Vasseur: “In Qatar dobbiamo reagire ed esprimerci al livello che ci aspettiamo da noi stessi”",
+      "title": "Codice Rosso, Vasseur: &#8220;In Qatar dobbiamo reagire ed esprimerci al livello che ci aspettiamo da noi stessi&#8221;",
       "url": "https://www.formulapassion.it/f1/f1-news/codice-rosso-vasseur-in-qatar-determinati-a-reagire-come-squadra-ferrari-esprimere-livello",
       "source": "FormulaPassion",
       "publisher": "FormulaPassion",
-      "description": "L'obiettivo principale espresso dal team principal della Ferrari per cancellare l'incubo dello scorso sabato sera a Las Vegas",
+      "description": "Senza far riferimento a quanto accaduto a Las Vegas, il team principal della Ferrari ha indicato quelli che dovranno essere gli obiettivi da raggiungere",
       "published_utc": "2026-11-25T14:15:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -8809,11 +8910,15 @@
           "url": "https://www.formulapassion.it/f1/f1-news/codice-rosso-vasseur-in-qatar-determinati-a-reagire-come-squadra-ferrari-esprimere-livello",
           "source": "FormulaPassion",
           "publisher": "FormulaPassion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T14:15:00+00:00",
-          "title": "Codice Rosso, Vasseur: “In Qatar dobbiamo reagire ed esprimerci al livello che ci aspettiamo da noi stessi”"
+          "title": "Codice Rosso, Vasseur: &#8220;In Qatar dobbiamo reagire ed esprimerci al livello che ci aspettiamo da noi stessi&#8221;"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T14:15:00+00:00",
+      "article_modified_raw": "2026-11-25T14:16:19+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "83c997d12691eff8542c5c53",
@@ -8844,16 +8949,16 @@
     {
       "id": "122644b92efe58902755ac5e",
       "topic": "F1",
-      "title": "Invenduta all’asta la Williams FW16B-01 di Ayrton Senna",
+      "title": "Invenduta all&#8217;asta la Williams FW16B-01 di Ayrton Senna",
       "url": "https://www.formulapassion.it/f1/f1-news/invenduta-asta-williams-fw16b-01-di-senna",
       "source": "FormulaPassion",
       "publisher": "FormulaPassion",
-      "description": "Le offerte non hanno raggiunto la soglia minima dell'attuale proprietario della vettura",
+      "description": "Nonostante la rarità della vettura, questa resta per ora invenduta.",
       "published_utc": "2026-11-25T13:00:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -8861,11 +8966,15 @@
           "url": "https://www.formulapassion.it/f1/f1-news/invenduta-asta-williams-fw16b-01-di-senna",
           "source": "FormulaPassion",
           "publisher": "FormulaPassion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T13:00:00+00:00",
-          "title": "Invenduta all’asta la Williams FW16B-01 di Ayrton Senna"
+          "title": "Invenduta all&#8217;asta la Williams FW16B-01 di Ayrton Senna"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T13:00:00+00:00",
+      "article_modified_raw": "2026-11-25T12:41:33+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "a10c8ad873bb48654f58ceb5",
@@ -8896,16 +9005,16 @@
     {
       "id": "943e60fc16680211033db07c",
       "topic": "F1",
-      "title": "La “febbre GTA” contagia pure Verstappen: a Las Vegas ha giocato per 40 ore e poi… ha vinto il GP",
+      "title": "La &#8220;febbre GTA&#8221; contagia pure Verstappen: a Las Vegas ha giocato per 40 ore e poi&#8230; ha vinto il GP",
       "url": "https://www.formulapassion.it/f1/f1-news/febbre-gta-6-contagiato-verstappen-las-vegas-giocato-40-ore-poi-ha-vinto-gp",
       "source": "FormulaPassion",
       "publisher": "FormulaPassion",
-      "description": "Max ha vinto un GP super teso subendo un sorpasso quasi a ogni giro. Ma era arrivato in pista molto rilassato...",
+      "description": "Verstappen ha svelato in una diretta streaming con i suoi amici di aver approfittato degli orari serali di Las Vegas per giocare a GTA VI",
       "published_utc": "2026-11-25T12:00:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -8913,11 +9022,15 @@
           "url": "https://www.formulapassion.it/f1/f1-news/febbre-gta-6-contagiato-verstappen-las-vegas-giocato-40-ore-poi-ha-vinto-gp",
           "source": "FormulaPassion",
           "publisher": "FormulaPassion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T12:00:00+00:00",
-          "title": "La “febbre GTA” contagia pure Verstappen: a Las Vegas ha giocato per 40 ore e poi… ha vinto il GP"
+          "title": "La &#8220;febbre GTA&#8221; contagia pure Verstappen: a Las Vegas ha giocato per 40 ore e poi&#8230; ha vinto il GP"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T12:00:00+00:00",
+      "article_modified_raw": "2026-11-25T11:39:09+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "fdda1401eaa6623d4f060662",
@@ -9004,12 +9117,12 @@
       "url": "https://www.formulapassion.it/auto/auto-news/unasca-giornata-violenza-donne-iniziativa",
       "source": "FormulaPassion",
       "publisher": "FormulaPassion",
-      "description": "Secondo l'associazione, la patente può essere uno strumento concreto di indipendenza e libertà di scelta",
+      "description": "Unasca scende in campo: secondo l'associazione, la patente può essere uno strumento concreto di indipendenza e libertà di scelta",
       "published_utc": "2026-11-25T09:16:38+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -9017,11 +9130,15 @@
           "url": "https://www.formulapassion.it/auto/auto-news/unasca-giornata-violenza-donne-iniziativa",
           "source": "FormulaPassion",
           "publisher": "FormulaPassion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T09:16:38+00:00",
           "title": "Unasca in campo contro la violenza sulle donne"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T09:16:38+00:00",
+      "article_modified_raw": "2026-11-25T09:16:42+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "4eaa63a03e88a8033992392f",
@@ -9156,16 +9273,16 @@
     {
       "id": "7996ba5dd6a4f4c97efdff9b",
       "topic": "F1",
-      "title": "Caos Ferrari, la BBC è sicura: “Leclerc ha inserito nel contratto il fatto di essere il pilota numero 1 del team”",
+      "title": "Caos Ferrari, la BBC è sicura: &#8220;Leclerc ha inserito nel contratto il fatto di essere il pilota numero 1 del team&#8221;",
       "url": "https://www.formulapassion.it/f1/f1-news/anarchia-ferrari-bbc-sicura-leclerc-prima-guida-per-contratto-hamilton-non-interessa",
       "source": "FormulaPassion",
       "publisher": "FormulaPassion",
-      "description": "Una giornalista dell'emittente inglese si è sbilanciata in merito al contratto del monegasco",
+      "description": "Secondo la BBC Charles Leclerc deve essere prima guida per contratto, clausola mai inserita in carriera da Lewis Hamilton",
       "published_utc": "2026-11-25T07:00:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -9173,11 +9290,15 @@
           "url": "https://www.formulapassion.it/f1/f1-news/anarchia-ferrari-bbc-sicura-leclerc-prima-guida-per-contratto-hamilton-non-interessa",
           "source": "FormulaPassion",
           "publisher": "FormulaPassion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T07:00:00+00:00",
-          "title": "Caos Ferrari, la BBC è sicura: “Leclerc ha inserito nel contratto il fatto di essere il pilota numero 1 del team”"
+          "title": "Caos Ferrari, la BBC è sicura: &#8220;Leclerc ha inserito nel contratto il fatto di essere il pilota numero 1 del team&#8221;"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T07:00:00+00:00",
+      "article_modified_raw": "2026-11-25T07:06:23+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "7a638d9590b0eebd32eb3d61",
@@ -9293,9 +9414,9 @@
       "description": "Show, sorpassi artificiali, sponsor ovunque e luci da luna park",
       "published_utc": "2026-11-25T04:04:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -9303,11 +9424,15 @@
           "url": "https://www.formulapassion.it/editoriale/se-a-las-vegas-la-f1-trova-il-suo-futuro",
           "source": "FormulaPassion",
           "publisher": "FormulaPassion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T04:04:00+00:00",
           "title": "Se a Las Vegas la F1 trova il suo futuro"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T04:04:00+00:00",
+      "article_modified_raw": "2026-11-24T17:07:36+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "7576069d9957afc02e14ff43",
@@ -9399,7 +9524,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Nathan Solomon NASCAR.com",
-      "published_utc": "2026-11-25T09:05:18+00:00",
+      "published_utc": "2026-11-25T08:05:18+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -9412,7 +9537,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T09:05:18+00:00",
+          "published_utc": "2026-11-25T08:05:18+00:00",
           "title": "Nathan Solomon - NASCAR.com"
         }
       ]
@@ -9730,6 +9855,58 @@
       ]
     },
     {
+      "id": "0e6104110e2db24d36e3aa6e",
+      "topic": "F1",
+      "title": "Williams issues statement after FIA cost cap breach announcement - PlanetF1",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CUEVrQ216RGRPanFKY1dnSFBhd09oOGpPdFV6QTNlem9zendMaW1HcjhqaXBndG1ZMVRkdF9YYWc1R1g1dDlBcmxrNHh4Z29FMS1mc2t6MW93MjA5eE8ycktsa1NJREdfSHlhX2lqSnRiY0t2alE?oc=5",
+      "source": "PlanetF1",
+      "publisher": "PlanetF1",
+      "description": "Williams issues statement after FIA cost cap breach announcement PlanetF1",
+      "published_utc": "2026-11-25T05:52:20+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CUEVrQ216RGRPanFKY1dnSFBhd09oOGpPdFV6QTNlem9zendMaW1HcjhqaXBndG1ZMVRkdF9YYWc1R1g1dDlBcmxrNHh4Z29FMS1mc2t6MW93MjA5eE8ycktsa1NJREdfSHlhX2lqSnRiY0t2alE?oc=5",
+          "source": "PlanetF1",
+          "publisher": "PlanetF1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T05:52:20+00:00",
+          "title": "Williams issues statement after FIA cost cap breach announcement - PlanetF1"
+        }
+      ]
+    },
+    {
+      "id": "e87b5d4015c7cea5a4af0e76",
+      "topic": "F1",
+      "title": "Final Sector Podcast: Gloves off in Verstappen vs Russell and Ferrari drama - PlanetF1",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ3RQUmRTS1NvekZIeGRFWjNRcF9jQ3ZQZWtHS3NsMDhGbHdBbzJQRldKbDBlZkpaTGRrYzFjalYwcVNLMThyc3VXZWN0eGlCMjRBOHU2RGp1WkRCSHloTkpST2RwYnNqa0NNN0FIWlA3Q0FnWDl3cm9MQXVwb0huU2lJb0dkeWZyY2pv?oc=5",
+      "source": "PlanetF1",
+      "publisher": "PlanetF1",
+      "description": "Final Sector Podcast: Gloves off in Verstappen vs Russell and Ferrari drama PlanetF1",
+      "published_utc": "2026-11-25T04:01:45+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ3RQUmRTS1NvekZIeGRFWjNRcF9jQ3ZQZWtHS3NsMDhGbHdBbzJQRldKbDBlZkpaTGRrYzFjalYwcVNLMThyc3VXZWN0eGlCMjRBOHU2RGp1WkRCSHloTkpST2RwYnNqa0NNN0FIWlA3Q0FnWDl3cm9MQXVwb0huU2lJb0dkeWZyY2pv?oc=5",
+          "source": "PlanetF1",
+          "publisher": "PlanetF1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T04:01:45+00:00",
+          "title": "Final Sector Podcast: Gloves off in Verstappen vs Russell and Ferrari drama - PlanetF1"
+        }
+      ]
+    },
+    {
       "id": "7d7edaf1734c057c37b2dbbd",
       "topic": "F1",
       "title": "McLaren: News, Results, Standings, Schedule - PlanetF1",
@@ -9752,6 +9929,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T09:37:19+00:00",
           "title": "McLaren: News, Results, Standings, Schedule - PlanetF1"
+        }
+      ]
+    },
+    {
+      "id": "3e9130e9bbe2e0da2c2ed407",
+      "topic": "F1",
+      "title": "Kimi Antonelli to be gifted rare Ayrton Senna F1 experience - PlanetF1",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02MloxaDVTdElrX0JRejNTOXlEeDZ2V01Qb3V2U25qQzNuRjAyWGxvVkE3SlRXV0ZEWE0zOEhCSGViZmk3QkpfWVB1Mkw2R3JJcDZJSF9MSFZkbFpLRWlNTWUxQmxqRVpCSzdUSWNMRWw3NWJxSlBaZ2JvRQ?oc=5",
+      "source": "PlanetF1",
+      "publisher": "PlanetF1",
+      "description": "Kimi Antonelli to be gifted rare Ayrton Senna F1 experience PlanetF1",
+      "published_utc": "2026-11-25T12:43:28+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02MloxaDVTdElrX0JRejNTOXlEeDZ2V01Qb3V2U25qQzNuRjAyWGxvVkE3SlRXV0ZEWE0zOEhCSGViZmk3QkpfWVB1Mkw2R3JJcDZJSF9MSFZkbFpLRWlNTWUxQmxqRVpCSzdUSWNMRWw3NWJxSlBaZ2JvRQ?oc=5",
+          "source": "PlanetF1",
+          "publisher": "PlanetF1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T12:43:28+00:00",
+          "title": "Kimi Antonelli to be gifted rare Ayrton Senna F1 experience - PlanetF1"
         }
       ]
     },
@@ -9856,32 +10059,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T00:01:08+00:00",
           "title": "Mit dem Tesla Model S P85 über die Alpen: Wie weit reicht der Akku? - Auto Motor und Sport"
-        }
-      ]
-    },
-    {
-      "id": "67c9e2255066c9139cc682d8",
-      "topic": "F1",
-      "title": "EU deckelt Hybridimporte aus China und weiteren Ländern - Auto Motor und Sport",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUWM3c0cyWkNTX1ltMnI5aTNkTUZZMUo0TWUwQ05hTHNBQjRxZm0yRGVNU3lfc3F4ekowNmd0SDJFMlp2dnNnWVZGY3YwZ3dKMjBjSFNSakE3aS1aS2hkQV9wbFo2X3Y5bS1hZXRaMWt2RWlCWDFHU1JycnRhNUtZYU5adWs5V203aDVvUC1LeDBCRGJRdkFLTUF5akRwOXl6MldxVTd0ZmpidEkyOEE?oc=5",
-      "source": "AMuS",
-      "publisher": "Auto Motor und Sport",
-      "description": "EU deckelt Hybridimporte aus China und weiteren Ländern Auto Motor und Sport",
-      "published_utc": "2026-11-24T23:56:52+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUWM3c0cyWkNTX1ltMnI5aTNkTUZZMUo0TWUwQ05hTHNBQjRxZm0yRGVNU3lfc3F4ekowNmd0SDJFMlp2dnNnWVZGY3YwZ3dKMjBjSFNSakE3aS1aS2hkQV9wbFo2X3Y5bS1hZXRaMWt2RWlCWDFHU1JycnRhNUtZYU5adWs5V203aDVvUC1LeDBCRGJRdkFLTUF5akRwOXl6MldxVTd0ZmpidEkyOEE?oc=5",
-          "source": "AMuS",
-          "publisher": "Auto Motor und Sport",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T23:56:52+00:00",
-          "title": "EU deckelt Hybridimporte aus China und weiteren Ländern - Auto Motor und Sport"
         }
       ]
     },
@@ -9997,7 +10174,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Zane Smith Archives NASCAR.com",
-      "published_utc": "2026-11-25T11:12:35+00:00",
+      "published_utc": "2026-11-25T10:12:35+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -10010,7 +10187,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T11:12:35+00:00",
+          "published_utc": "2026-11-25T10:12:35+00:00",
           "title": "Zane Smith Archives - NASCAR.com"
         }
       ]
@@ -10118,13 +10295,171 @@
           "title": "Dave alpern - RACER - Racing News"
         }
       ]
+    },
+    {
+      "id": "99f88bcccb64c140a625fd1d",
+      "topic": "other_motorsport",
+      "title": "【写真2】ルイス・ハミルトンとシャルル・ルクレール（フェラーリ） - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CVThJWEdJZHZuak1lVUE3Q0VxYUJLSW5wZGota3F0Y3hqVEhRUWZUOXVmRGVVWlZ5WmNNMjhxb2t5QVVaWXJWMW5KMUwxN1FlNVFodDdRdw?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真2】ルイス・ハミルトンとシャルル・ルクレール（フェラーリ） autosport web",
+      "published_utc": "2026-11-25T03:57:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "53b90b382720",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CVThJWEdJZHZuak1lVUE3Q0VxYUJLSW5wZGota3F0Y3hqVEhRUWZUOXVmRGVVWlZ5WmNNMjhxb2t5QVVaWXJWMW5KMUwxN1FlNVFodDdRdw?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T03:57:00+00:00",
+          "title": "【写真2】ルイス・ハミルトンとシャルル・ルクレール（フェラーリ） - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "e490e4aeb1ad873a74ee338c",
+      "topic": "other_motorsport",
+      "title": "第21戦ポルトガルGP ニュース - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTlBBQl91TDktOEpENzF0OUJUTVNKYkhjSXBjMEE2TFI0Rkt3a0p0MXVod3ZoTk9NYWgzb1l2UHkyU3QxY09URUZqTjdXcVJuRUNiYlJmdE1uU25QSUpWZk9Tc3dQVDFXRkdCa2NqUFZ6b3hjR1dpY1daR0dqSUVOTUxSYi01MFZZbVZkYUNsVUx3MlR1alVCMzAzeno1bk91Tnc?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "第21戦ポルトガルGP ニュース autosport web",
+      "published_utc": "2026-11-24T22:05:54+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTlBBQl91TDktOEpENzF0OUJUTVNKYkhjSXBjMEE2TFI0Rkt3a0p0MXVod3ZoTk9NYWgzb1l2UHkyU3QxY09URUZqTjdXcVJuRUNiYlJmdE1uU25QSUpWZk9Tc3dQVDFXRkdCa2NqUFZ6b3hjR1dpY1daR0dqSUVOTUxSYi01MFZZbVZkYUNsVUx3MlR1alVCMzAzeno1bk91Tnc?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:05:54+00:00",
+          "title": "第21戦ポルトガルGP ニュース - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "861eeb29f88878d61ae01448",
+      "topic": "F1",
+      "title": "Mclaren News, Results, Standings, Schedule & History - PlanetF1",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fWkhfSE1tS0lZQ181dG5iRkUySHhwS01tSFRlQzZiZF83Q1BUXy1CaEN2dmVYRUNSRk84bGZtZGJOZnRKeWpEa0hCZldEQQ?oc=5",
+      "source": "PlanetF1",
+      "publisher": "PlanetF1",
+      "description": "Mclaren News, Results, Standings, Schedule & History PlanetF1",
+      "published_utc": "2026-11-25T14:37:43+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fWkhfSE1tS0lZQ181dG5iRkUySHhwS01tSFRlQzZiZF83Q1BUXy1CaEN2dmVYRUNSRk84bGZtZGJOZnRKeWpEa0hCZldEQQ?oc=5",
+          "source": "PlanetF1",
+          "publisher": "PlanetF1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T14:37:43+00:00",
+          "title": "Mclaren News, Results, Standings, Schedule & History - PlanetF1"
+        }
+      ]
+    },
+    {
+      "id": "24e5c15450489845f20dee73",
+      "topic": "F1",
+      "title": "Max Verstappen News, Results, Career, Biography & Standings - PlanetF1",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zdTdkeHBDclpQUTJycHZxeE1lbEYtZ3p1TElEUWlxVFlkNV80UXlVaC1hYlNHazJKdmVQZ0NaTVZvT0IzSi1MODdSbkM0UEljNUVUU1hUOXY0UQ?oc=5",
+      "source": "PlanetF1",
+      "publisher": "PlanetF1",
+      "description": "Max Verstappen News, Results, Career, Biography & Standings PlanetF1",
+      "published_utc": "2026-11-25T08:08:31+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zdTdkeHBDclpQUTJycHZxeE1lbEYtZ3p1TElEUWlxVFlkNV80UXlVaC1hYlNHazJKdmVQZ0NaTVZvT0IzSi1MODdSbkM0UEljNUVUU1hUOXY0UQ?oc=5",
+          "source": "PlanetF1",
+          "publisher": "PlanetF1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:08:31+00:00",
+          "title": "Max Verstappen News, Results, Career, Biography & Standings - PlanetF1"
+        }
+      ]
+    },
+    {
+      "id": "21263410766cbbd877553367",
+      "topic": "F1",
+      "title": "Mercedes News, Results, Standings, Schedule & History - PlanetF1",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83elpGWUdkTU9RbHVNODA0S3B0eUd2SDQ3eEdyeGNoaUdTQXJ1OE80S20wWGxvWUFIc1VxTnVuWlhMUEd6c3pKa05yWm1YZW8?oc=5",
+      "source": "PlanetF1",
+      "publisher": "PlanetF1",
+      "description": "Mercedes News, Results, Standings, Schedule & History PlanetF1",
+      "published_utc": "2026-11-25T11:49:57+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83elpGWUdkTU9RbHVNODA0S3B0eUd2SDQ3eEdyeGNoaUdTQXJ1OE80S20wWGxvWUFIc1VxTnVuWlhMUEd6c3pKa05yWm1YZW8?oc=5",
+          "source": "PlanetF1",
+          "publisher": "PlanetF1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T11:49:57+00:00",
+          "title": "Mercedes News, Results, Standings, Schedule & History - PlanetF1"
+        }
+      ]
+    },
+    {
+      "id": "13da19116ee19d54217389ab",
+      "topic": "F1",
+      "title": "Destination Monaco: An F1 fan’s guide - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSkVqYTY2TlZxLV96LU5FRFF5bms3NmRNZXluRVNsT3Z2V25QWWJIRkNSTTVaZTVRLXNNaVJBWXROaWJNU1AwM3hIOVhSWmYyTnVfSjExX2Vja1VzLVZWM3YxZHR5SWJFNE9xcnJZX2lxbF9nZjhlMlJjWDQ5T0xkMmZCS0dobUFaSG9kUmJUTERWa3VUcDZRc3FseFBKR2t4c3Fr?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "Destination Monaco: An F1 fan’s guide Formula 1",
+      "published_utc": "2026-11-24T22:36:26+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSkVqYTY2TlZxLV96LU5FRFF5bms3NmRNZXluRVNsT3Z2V25QWWJIRkNSTTVaZTVRLXNNaVJBWXROaWJNU1AwM3hIOVhSWmYyTnVfSjExX2Vja1VzLVZWM3YxZHR5SWJFNE9xcnJZX2lxbF9nZjhlMlJjWDQ5T0xkMmZCS0dobUFaSG9kUmJUTERWa3VUcDZRc3FseFBKR2t4c3Fr?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:36:26+00:00",
+          "title": "Destination Monaco: An F1 fan’s guide - Formula 1"
+        }
+      ]
     }
   ],
   "date_unknown": [],
   "health": {
-    "ok": 23,
-    "partial": 4,
-    "deferred": 5,
-    "empty": 1
+    "ok": 13,
+    "partial": 8,
+    "deferred": 4,
+    "empty": 1,
+    "skipped": 7
   }
 }

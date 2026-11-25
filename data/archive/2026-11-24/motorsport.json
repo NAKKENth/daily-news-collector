@@ -2156,32 +2156,6 @@
       ]
     },
     {
-      "id": "c7f34738962f5c26b6597e5e",
-      "topic": "NASCAR",
-      "title": "Ross Chastain Archives - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BM1RSQzd1Q0p1Z0Q1Xy12UFhmLXhDVjFXek82Z3lQbExKZkJBcHNfVlZoNFhGTGh3T0JSemxMcFFVZ1FFZTFDTEhzOS0zRGp6US0yb1puZ2cxSHRGVWszS1doUndNOUt4ZXA2ZGk5T04wUWs?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "Ross Chastain Archives NASCAR.com",
-      "published_utc": "2026-11-24T02:28:37+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BM1RSQzd1Q0p1Z0Q1Xy12UFhmLXhDVjFXek82Z3lQbExKZkJBcHNfVlZoNFhGTGh3T0JSemxMcFFVZ1FFZTFDTEhzOS0zRGp6US0yb1puZ2cxSHRGVWszS1doUndNOUt4ZXA2ZGk5T04wUWs?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T02:28:37+00:00",
-          "title": "Ross Chastain Archives - NASCAR.com"
-        }
-      ]
-    },
-    {
       "id": "2387b37af31db3184cc386cc",
       "topic": "WRC",
       "title": "Madinat Zayed - Al Sila (314km) - 35 Abu Dhabi Desert Challenge - FIM 2026 - eWRC-results.com",
@@ -6019,32 +5993,6 @@
       ]
     },
     {
-      "id": "522f75783b6b4cb28f3c8a89",
-      "topic": "F1",
-      "title": "Charles Leclerc News, Results, Career, Biography & Standings - PlanetF1",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fdlBvUlR0QlN2a2ZKTF96ZE4zNTQ1bmVEblgzUUxkMjVqOHRQdDNPNXFUVjNIWjk4dUVGN0lNeGM3TUFCX0xiVWV1enFtRF83Nk44S2JWTF9weXM?oc=5",
-      "source": "PlanetF1",
-      "publisher": "PlanetF1",
-      "description": "Charles Leclerc News, Results, Career, Biography & Standings PlanetF1",
-      "published_utc": "2026-11-24T12:45:33+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fdlBvUlR0QlN2a2ZKTF96ZE4zNTQ1bmVEblgzUUxkMjVqOHRQdDNPNXFUVjNIWjk4dUVGN0lNeGM3TUFCX0xiVWV1enFtRF83Nk44S2JWTF9weXM?oc=5",
-          "source": "PlanetF1",
-          "publisher": "PlanetF1",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T12:45:33+00:00",
-          "title": "Charles Leclerc News, Results, Career, Biography & Standings - PlanetF1"
-        }
-      ]
-    },
-    {
       "id": "b44ddfb7a024762ef8f0543a",
       "topic": "F1",
       "title": "Oscar Piastri News, Results, Career, Biography & Standings - PlanetF1",
@@ -8872,6 +8820,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T06:43:32+00:00",
           "title": "Why the Barcelona-Catalunya Grand Prix is special - Formula 1"
+        }
+      ]
+    },
+    {
+      "id": "aef1ed479184d71e3278455c",
+      "topic": "other_motorsport",
+      "title": "【写真3】イゴール・オオムラ・フラガ（PONOS NAKAJIMA RACING） - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KaGxWb1FVNXlOdkVNTjVwbV9Fb3p3cmwyMC1BdHZUMFYweXQ1MkRFQk5MS2VIYUdNNXJHdjNuUG5rdEtpQS1PQnFFVWVuLTdOamRTMnQ0U3NJTzRQNVVRZzZseENYWHBBa0RGMg?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真3】イゴール・オオムラ・フラガ（PONOS NAKAJIMA RACING） autosport web",
+      "published_utc": "2026-11-24T07:15:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KaGxWb1FVNXlOdkVNTjVwbV9Fb3p3cmwyMC1BdHZUMFYweXQ1MkRFQk5MS2VIYUdNNXJHdjNuUG5rdEtpQS1PQnFFVWVuLTdOamRTMnQ0U3NJTzRQNVVRZzZseENYWHBBa0RGMg?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T07:15:00+00:00",
+          "title": "【写真3】イゴール・オオムラ・フラガ（PONOS NAKAJIMA RACING） - autosport web"
         }
       ]
     }

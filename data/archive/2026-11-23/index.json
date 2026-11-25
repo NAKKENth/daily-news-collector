@@ -1,10 +1,10 @@
 {
   "date_jst": "2026-11-23",
-  "generated_at_utc": "2026-11-25T21:21:12+00:00",
+  "generated_at_utc": "2026-11-25T22:07:44+00:00",
   "counts": {
-    "motorsport": 328,
+    "motorsport": 329,
     "pc_ai": 209,
-    "games_handhelds": 86,
+    "games_handhelds": 94,
     "audio": 90
   },
   "status": "candidate_collection_only"

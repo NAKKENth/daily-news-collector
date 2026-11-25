@@ -4,10 +4,10 @@
 
 - [ai 1–50件](pc_ai_ai_1.md)
 - [ai 51–100件](pc_ai_ai_2.md)
-- [ai 101–128件](pc_ai_ai_3.md)
+- [ai 101–127件](pc_ai_ai_3.md)
 - [pc 1–50件](pc_ai_pc_1.md)
 - [pc 51–100件](pc_ai_pc_2.md)
 - [pc 101–150件](pc_ai_pc_3.md)
 - [pc 151–200件](pc_ai_pc_4.md)
 - [pc 201–222件](pc_ai_pc_5.md)
-- [smartphones 1–40件](pc_ai_smartphones_1.md)
+- [smartphones 1–41件](pc_ai_smartphones_1.md)

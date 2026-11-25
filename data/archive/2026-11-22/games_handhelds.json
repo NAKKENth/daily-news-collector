@@ -1183,32 +1183,6 @@
       ]
     },
     {
-      "id": "3ffcd4f445d8fe4b81dc58f1",
-      "topic": "racing_games",
-      "title": "My Team Macarena Wing – Red Bull Style [Swofty] v0.2.2 - overtake.gg",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnhvQnl4MVNKQ3FXUTBObDJpM3d6VDkxbGdTZGxmOG80MERJakF6Q3ZYZGVHWEQzUWNJNUJHMWdlWjI5RnhaV200Z1ZjMUZTUUlsdnhRWUFEc3J1aEFCVXM1bVozM2dKY2Ftc1p6RkJkdGpQSW02Vk5DYVpQZjdDVU5TNkJFM0MyM21XOTRpelo3VDJwcXZsWW9n?oc=5",
-      "source": "OverTake",
-      "publisher": "overtake.gg",
-      "description": "My Team Macarena Wing – Red Bull Style [Swofty] v0.2.2 overtake.gg",
-      "published_utc": "2026-11-22T06:57:05+00:00",
-      "date_jst": "2026-11-22",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnhvQnl4MVNKQ3FXUTBObDJpM3d6VDkxbGdTZGxmOG80MERJakF6Q3ZYZGVHWEQzUWNJNUJHMWdlWjI5RnhaV200Z1ZjMUZTUUlsdnhRWUFEc3J1aEFCVXM1bVozM2dKY2Ftc1p6RkJkdGpQSW02Vk5DYVpQZjdDVU5TNkJFM0MyM21XOTRpelo3VDJwcXZsWW9n?oc=5",
-          "source": "OverTake",
-          "publisher": "overtake.gg",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-22T06:57:05+00:00",
-          "title": "My Team Macarena Wing – Red Bull Style [Swofty] v0.2.2 - overtake.gg"
-        }
-      ]
-    },
-    {
       "id": "ba086e744c6104739f56f81a",
       "topic": "racing_games",
       "title": "LANCIA DELTA S4 EVO2 MARTINI RACING INSPIRATION LANCIA ECV - History - overtake.gg",
@@ -1908,6 +1882,58 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-22T08:19:55+00:00",
           "title": "Iiboshi_touge_wide_style_VR46kazu Iiboshi_touge_wide_VR46kazu_V1.1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "fccb39846a6ccc92157d8c18",
+      "topic": "racing_games",
+      "title": "Utah Motorsports Campus – CSP Visual Enhancement - Reviews - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXR2ZmhCQl9iTWNjUzFmV3B5ZDZPN2FfelFwNVBjY2dtZHg0OUtMaFlVd3pyMzdlZkxnNURFSTZNZ0dDVjFzM0l2dU1QVXpldWxZaGdDN0kycHZlMTNZR19ZZFhxTVp1WWhKRk4zc3AxVVRmUUlCalJ5clM3QUQyT0EwZVhGTEhLd3ZTWWthVjRlekJiT3pZMmg0VFdJZFotaXBRdFRkaw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Utah Motorsports Campus – CSP Visual Enhancement - Reviews overtake.gg",
+      "published_utc": "2026-11-22T01:12:02+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXR2ZmhCQl9iTWNjUzFmV3B5ZDZPN2FfelFwNVBjY2dtZHg0OUtMaFlVd3pyMzdlZkxnNURFSTZNZ0dDVjFzM0l2dU1QVXpldWxZaGdDN0kycHZlMTNZR19ZZFhxTVp1WWhKRk4zc3AxVVRmUUlCalJ5clM3QUQyT0EwZVhGTEhLd3ZTWWthVjRlekJiT3pZMmg0VFdJZFotaXBRdFRkaw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T01:12:02+00:00",
+          "title": "Utah Motorsports Campus – CSP Visual Enhancement - Reviews - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "1a3d7f32127b200ecdc5af19",
+      "topic": "racing_games",
+      "title": "Ostrich Runner - PCGamingWiki",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01SkRINTNhVlVmOGZacEVEXzdiNi1zOFZhc2lLRFZMVmhDc2VjaGw0YVlpbXkyaU94Y2xZdGMyblNEdkU5dTJDUVpKb1d2UHNwZk1uLTlfSndScGtZ?oc=5",
+      "source": "PCGamingWiki",
+      "publisher": "PCGamingWiki",
+      "description": "Ostrich Runner PCGamingWiki",
+      "published_utc": "2026-11-22T08:00:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01SkRINTNhVlVmOGZacEVEXzdiNi1zOFZhc2lLRFZMVmhDc2VjaGw0YVlpbXkyaU94Y2xZdGMyblNEdkU5dTJDUVpKb1d2UHNwZk1uLTlfSndScGtZ?oc=5",
+          "source": "PCGamingWiki",
+          "publisher": "PCGamingWiki",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T08:00:00+00:00",
+          "title": "Ostrich Runner - PCGamingWiki"
         }
       ]
     }

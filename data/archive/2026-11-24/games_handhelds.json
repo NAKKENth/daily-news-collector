@@ -1850,32 +1850,6 @@
       ]
     },
     {
-      "id": "f490ab929e616da336d9ddfe",
-      "topic": "handhelds",
-      "title": "MOUSE: P.I. For Hire - Steam",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ca1RtSjVhRURrNS1oZ3ZUWmtrNDJxRTdrRWIzZHRkRHBlWm9ISnQ5bmFvcUc3UjlMMHR2TWFWVW5pRndmTnpGanhXZGJSbTBqc2o2NF9OVVVxV2FrRE1fWEFtUkx6TkNxc0FSbGtn?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "MOUSE: P.I. For Hire Steam",
-      "published_utc": "2026-11-24T14:40:52+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ca1RtSjVhRURrNS1oZ3ZUWmtrNDJxRTdrRWIzZHRkRHBlWm9ISnQ5bmFvcUc3UjlMMHR2TWFWVW5pRndmTnpGanhXZGJSbTBqc2o2NF9OVVVxV2FrRE1fWEFtUkx6TkNxc0FSbGtn?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T14:40:52+00:00",
-          "title": "MOUSE: P.I. For Hire - Steam"
-        }
-      ]
-    },
-    {
       "id": "092e8cafa710faaed133500f",
       "topic": "handhelds",
       "title": "HITMAN World of Assassination - Steam",
@@ -2008,86 +1982,6 @@
       ]
     },
     {
-      "id": "a0bccfccb5752681206feba3",
-      "topic": "handhelds",
-      "title": "Don't Starve Together - Steam",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwQUJVNHpSdHh1YmxkY1gyS1RtZ0djUUV4V3R4cmEwSDlGbFdLSVJQNkVndGxZOEJNWlpZWlE4ekc3THlYSDVqOHk5WkVrb1NyWTh6LU9hVlM3TXBIYUtKc2pmelh1MkZfZlRDUmpRc3I?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "Don't Starve Together Steam",
-      "published_utc": "2026-11-24T12:39:33+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwQUJVNHpSdHh1YmxkY1gyS1RtZ0djUUV4V3R4cmEwSDlGbFdLSVJQNkVndGxZOEJNWlpZWlE4ekc3THlYSDVqOHk5WkVrb1NyWTh6LU9hVlM3TXBIYUtKc2pmelh1MkZfZlRDUmpRc3I?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T12:39:33+00:00",
-          "title": "Don't Starve Together - Steam"
-        }
-      ]
-    },
-    {
-      "id": "ee3a771de13ca7478f70b512",
-      "topic": "handhelds",
-      "title": "Rust - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaSmdoSkRiUU1aWm5uMzRfbmFJWWJBSEFBYmo5c202dDZzazF0dEZnNUt5T25aeDFRU1RHN3NaMW9MZU9oc29Zd2Y5aHRSNzFqZHUteHVkZ0RBNEU?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "Rust Steam",
-      "published_utc": "2026-11-24T12:07:27+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaSmdoSkRiUU1aWm5uMzRfbmFJWWJBSEFBYmo5c202dDZzazF0dEZnNUt5T25aeDFRU1RHN3NaMW9MZU9oc29Zd2Y5aHRSNzFqZHUteHVkZ0RBNEU?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T12:07:27+00:00",
-          "title": "Rust - Steam"
-        }
-      ],
-      "enrichment": "failed",
-      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
-    },
-    {
-      "id": "f2a96669c3f287e64330a1ac",
-      "topic": "handhelds",
-      "title": "Save 50% on EA SPORTS FC™ 27 on Steam - Steam",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RaUVXNUlhU0NSYzdwdFhldkFnWng4SFEyYUN1c19MU3dLRjJucWlUOTFJTW4tVVpoSTZGazNmMlJaU04yUHV1MGVmNktLYU9rdzVCcFhXa0cxcTZYN25HeVhyYlQ2MlNPYzI0?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "Save 50% on EA SPORTS FC™ 27 on Steam Steam",
-      "published_utc": "2026-11-24T13:29:29+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RaUVXNUlhU0NSYzdwdFhldkFnWng4SFEyYUN1c19MU3dLRjJucWlUOTFJTW4tVVpoSTZGazNmMlJaU04yUHV1MGVmNktLYU9rdzVCcFhXa0cxcTZYN25HeVhyYlQ2MlNPYzI0?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T13:29:29+00:00",
-          "title": "Save 50% on EA SPORTS FC™ 27 on Steam - Steam"
-        }
-      ]
-    },
-    {
       "id": "db2b600cdc1074df34b7698b",
       "topic": "handhelds",
       "title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN - Steam",
@@ -2136,34 +2030,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T13:12:10+00:00",
           "title": "Bongo Cat - Steam"
-        }
-      ],
-      "enrichment": "failed",
-      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
-    },
-    {
-      "id": "bd99ca64926b92eea9e3eaac",
-      "topic": "handhelds",
-      "title": "Save 70% on Coromon on Steam - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hUkxzNlVEZDR4b29WaHBPSlFPVDdpcDJTNVBPdUlfT3dkMUNKOUdzLWFXRjJDbUZ6Zk1PQmp2eEdzMW5pOXNINnp1Rkh2Vjd2RUNRb3RxWlRKTDdCWjBDQQ?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "Save 70% on Coromon on Steam Steam",
-      "published_utc": "2026-11-24T12:46:14+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hUkxzNlVEZDR4b29WaHBPSlFPVDdpcDJTNVBPdUlfT3dkMUNKOUdzLWFXRjJDbUZ6Zk1PQmp2eEdzMW5pOXNINnp1Rkh2Vjd2RUNRb3RxWlRKTDdCWjBDQQ?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T12:46:14+00:00",
-          "title": "Save 70% on Coromon on Steam - Steam"
         }
       ],
       "enrichment": "failed",
@@ -2406,32 +2272,6 @@
       "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
-      "id": "3ecf7e6a9e513dcdf65946c7",
-      "topic": "handhelds",
-      "title": "NTE: Neverness to Everness - Steam",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kOXo4anZMN3BqckdoNFE5TzV6dW5SaFJOSmlMUW1uY3ZwVlpWZmFTWUc0NGgzZzFhQkRpY3oxZjA4Z0VtdWlfbmNneUhkVU8yQldKeEFkc1U3YWFYOHJISnJ4aFFMTVZRdkhwV1k4T1BFM3dzaGptMQ?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "NTE: Neverness to Everness Steam",
-      "published_utc": "2026-11-24T13:03:14+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kOXo4anZMN3BqckdoNFE5TzV6dW5SaFJOSmlMUW1uY3ZwVlpWZmFTWUc0NGgzZzFhQkRpY3oxZjA4Z0VtdWlfbmNneUhkVU8yQldKeEFkc1U3YWFYOHJISnJ4aFFMTVZRdkhwV1k4T1BFM3dzaGptMQ?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T13:03:14+00:00",
-          "title": "NTE: Neverness to Everness - Steam"
-        }
-      ]
-    },
-    {
       "id": "3e58fdd5cd8c9fa3aca78be5",
       "topic": "handhelds",
       "title": "Save 10% on Dungeonbound on Steam - Steam",
@@ -2590,6 +2430,32 @@
       ]
     },
     {
+      "id": "c3f6a8f8f68d995642482bb8",
+      "topic": "handhelds",
+      "title": "VOID/BREAKER on Steam - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxTkF4SUE1ZGZzd1M4ZmNRZmNEMm02VzFKcnJXUmdGSkNCeUc0MUxCY0VpU21idTR1YmtVWHFmMjhGMTBGTWE3dlh1WUhnci1iV1R2UTZ2RHFCMlRFZGFRRnBfMDFQZw?oc=5",
+      "source": "Valve Steam Deck",
+      "publisher": "Steam",
+      "description": "VOID/BREAKER on Steam Steam",
+      "published_utc": "2026-11-24T14:59:07+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxTkF4SUE1ZGZzd1M4ZmNRZmNEMm02VzFKcnJXUmdGSkNCeUc0MUxCY0VpU21idTR1YmtVWHFmMjhGMTBGTWE3dlh1WUhnci1iV1R2UTZ2RHFCMlRFZGFRRnBfMDFQZw?oc=5",
+          "source": "Valve Steam Deck",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T14:59:07+00:00",
+          "title": "VOID/BREAKER on Steam - Steam"
+        }
+      ]
+    },
+    {
       "id": "67afc760c905bd3ae6dce31f",
       "topic": "handhelds",
       "title": "The Usual, Please - Steam",
@@ -2724,42 +2590,14 @@
       "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
-      "id": "334f990a8ea9d7ef8833490a",
-      "topic": "handhelds",
-      "title": "Foundation - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01bDM1MmhoUWlXSWl5QVZkQkx4aXlCSmoteUJNVVFmYkdFWi02OXRyWkRveTB1TkFhQS1yczVSV24tVktYYW00UE9SRnotQUw1TWlOLUU1Wi1rbzQxdVhUdFVfbw?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "Foundation Steam",
-      "published_utc": "2026-11-23T20:50:10+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01bDM1MmhoUWlXSWl5QVZkQkx4aXlCSmoteUJNVVFmYkdFWi02OXRyWkRveTB1TkFhQS1yczVSV24tVktYYW00UE9SRnotQUw1TWlOLUU1Wi1rbzQxdVhUdFVfbw?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T20:50:10+00:00",
-          "title": "Foundation - Steam"
-        }
-      ],
-      "enrichment": "failed",
-      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
-    },
-    {
       "id": "6801ef41e9123b8e7d6c7643",
       "topic": "racing_games",
-      "title": "McLaren MCL39 Sound for Assetto Corsa 1.0.1 - overtake.gg",
+      "title": "McLaren MCL39 Sound for Assetto Corsa 1.0.2 - overtake.gg",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEx2ZzRnT0RCQXhSV3Q0LXFRQXpKNEk5MkRuMGhlUDlpZzZZN19EZzhTVXdNZ2JxWnEyenhxd3Y2bFZYZUlpSmFJRTBYczRFR0d1b3Vaa3E3MzRqQll6em5XSmVCUDdMRjZNdEw0Rml3Q3U3OVlLVFFJeHI0aEFSc1lMUFE?oc=5",
       "source": "OverTake",
       "publisher": "overtake.gg",
-      "description": "McLaren MCL39 Sound for Assetto Corsa 1.0.1 overtake.gg",
-      "published_utc": "2026-11-24T07:45:51+00:00",
+      "description": "McLaren MCL39 Sound for Assetto Corsa 1.0.2 overtake.gg",
+      "published_utc": "2026-11-23T17:37:06+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -2772,8 +2610,8 @@
           "source": "OverTake",
           "publisher": "overtake.gg",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T07:45:51+00:00",
-          "title": "McLaren MCL39 Sound for Assetto Corsa 1.0.1 - overtake.gg"
+          "published_utc": "2026-11-23T17:37:06+00:00",
+          "title": "McLaren MCL39 Sound for Assetto Corsa 1.0.2 - overtake.gg"
         }
       ]
     },
@@ -2956,32 +2794,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T12:16:30+00:00",
           "title": "Need for Speed™ Heat - Steam"
-        }
-      ]
-    },
-    {
-      "id": "b873f34cba74da90b890793b",
-      "topic": "racing_games",
-      "title": "Food Devils - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FczU4eVdUNTFtMnRZZlhQOFhzX3NIdnNRSzZ6WXp3ekltUEliMGs5eVUtT0Q5TFRYY09JZU9XX3ZiQ3pFNDNDbUVCbmhCV21yYWI0ZEtBelUxc1FsNWk2UEcweUxPQQ?oc=5",
-      "source": "Steam racing updates",
-      "publisher": "Steam",
-      "description": "Food Devils Steam",
-      "published_utc": "2026-11-24T12:33:56+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FczU4eVdUNTFtMnRZZlhQOFhzX3NIdnNRSzZ6WXp3ekltUEliMGs5eVUtT0Q5TFRYY09JZU9XX3ZiQ3pFNDNDbUVCbmhCV21yYWI0ZEtBelUxc1FsNWk2UEcweUxPQQ?oc=5",
-          "source": "Steam racing updates",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T12:33:56+00:00",
-          "title": "Food Devils - Steam"
         }
       ]
     },
@@ -3504,6 +3316,84 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T16:51:29+00:00",
           "title": "Road Atlanta 1970 (Opening race) 0.1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "dcd9f85711319fc61fae26e2",
+      "topic": "handhelds",
+      "title": "Stellaris: Willpower - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rSHZzV3ZTTzY4ajdjS28tdnR2cFlDXzJkZWJnZEFsMl9tNmpzTnhXYXdsQlJJSnZkX3JPMDdJZ0dCQ1pCNG5jdUx2eUV4dk9wcnhScTJn?oc=5",
+      "source": "Valve Steam Deck",
+      "publisher": "Steam",
+      "description": "Stellaris: Willpower Steam",
+      "published_utc": "2026-11-23T15:42:12+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rSHZzV3ZTTzY4ajdjS28tdnR2cFlDXzJkZWJnZEFsMl9tNmpzTnhXYXdsQlJJSnZkX3JPMDdJZ0dCQ1pCNG5jdUx2eUV4dk9wcnhScTJn?oc=5",
+          "source": "Valve Steam Deck",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T15:42:12+00:00",
+          "title": "Stellaris: Willpower - Steam"
+        }
+      ]
+    },
+    {
+      "id": "5ec978f606628c09e3e4fbce",
+      "topic": "handhelds",
+      "title": "Save 20% on Cinderia on Steam - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1naGMtYjc2WnF6UnJfdDNWdnhjanp2OUpzOTNJSlZXdE52RG1oUkpuU2hZalIzT1htMVN4eGltTTU3Zi1ORmI1LTVrRlJZTG9iRWt2Z0dGOFhUSXF5WTRaa2ZB?oc=5",
+      "source": "Valve Steam Deck",
+      "publisher": "Steam",
+      "description": "Save 20% on Cinderia on Steam Steam",
+      "published_utc": "2026-11-24T14:18:59+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1naGMtYjc2WnF6UnJfdDNWdnhjanp2OUpzOTNJSlZXdE52RG1oUkpuU2hZalIzT1htMVN4eGltTTU3Zi1ORmI1LTVrRlJZTG9iRWt2Z0dGOFhUSXF5WTRaa2ZB?oc=5",
+          "source": "Valve Steam Deck",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T14:18:59+00:00",
+          "title": "Save 20% on Cinderia on Steam - Steam"
+        }
+      ]
+    },
+    {
+      "id": "3c4fec65dc9eb18dda20336b",
+      "topic": "handhelds",
+      "title": "Pathos - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rbUdOZ0NhYWJhSDc1MjItcWpZVnp6M2NNUmRtd0g5WWlNMW5YZUFyMXVfSjdpQzJkYUh3VnlDWlYyZ0RIWm40UnpKalJrVmMxVTREZ3RSN18wQjVQUkRz?oc=5",
+      "source": "Valve Steam Deck",
+      "publisher": "Steam",
+      "description": "Pathos Steam",
+      "published_utc": "2026-11-24T00:23:17+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rbUdOZ0NhYWJhSDc1MjItcWpZVnp6M2NNUmRtd0g5WWlNMW5YZUFyMXVfSjdpQzJkYUh3VnlDWlYyZ0RIWm40UnpKalJrVmMxVTREZ3RSN18wQjVQUkRz?oc=5",
+          "source": "Valve Steam Deck",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T00:23:17+00:00",
+          "title": "Pathos - Steam"
         }
       ]
     }

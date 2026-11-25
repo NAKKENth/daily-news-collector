@@ -1650,32 +1650,6 @@
       ]
     },
     {
-      "id": "dc914a105aa13a646a556133",
-      "topic": "ai",
-      "title": "ChatGPT for Academic Researchers | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVUpRbVFTYzdEaUx0dDdXZGF0Ry1lMnF0U0dXQlRObGlOV3k2emx2THM1MVJ2anZjN1pxZF9sai1vOTRqS3FHeXd3TW55NldOaHlVZ21UUWpSNzN2RlRHNEI3SXJvNTBWeF9jX2hXQmlxV0UzcjlGUFZTZW9ybTUyazFwbw?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "ChatGPT for Academic Researchers | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-23T18:46:29+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVUpRbVFTYzdEaUx0dDdXZGF0Ry1lMnF0U0dXQlRObGlOV3k2emx2THM1MVJ2anZjN1pxZF9sai1vOTRqS3FHeXd3TW55NldOaHlVZ21UUWpSNzN2RlRHNEI3SXJvNTBWeF9jX2hXQmlxV0UzcjlGUFZTZW9ybTUyazFwbw?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T18:46:29+00:00",
-          "title": "ChatGPT for Academic Researchers | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
       "id": "bfdb725572b2ac7cfd0e46cd",
       "topic": "ai",
       "title": "Composer predictions in Codex | OpenAI Help Center - OpenAI Help Center",
@@ -7724,7 +7698,7 @@
       "source": "OpenAI",
       "publisher": "OpenAI Help Center",
       "description": "ChatGPT Work and Codex | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-23T17:08:27+00:00",
+      "published_utc": "2026-11-23T20:11:03+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -7737,7 +7711,7 @@
           "source": "OpenAI",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T17:08:27+00:00",
+          "published_utc": "2026-11-23T20:11:03+00:00",
           "title": "ChatGPT Work and Codex | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -7802,7 +7776,7 @@
       "source": "OpenAI",
       "publisher": "OpenAI Help Center",
       "description": "ChatGPT Desktop Referral Promotions OpenAI Help Center",
-      "published_utc": "2026-11-23T17:50:30+00:00",
+      "published_utc": "2026-11-23T20:41:47+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -7815,7 +7789,7 @@
           "source": "OpenAI",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T17:50:30+00:00",
+          "published_utc": "2026-11-23T20:41:47+00:00",
           "title": "ChatGPT Desktop Referral Promotions - OpenAI Help Center"
         }
       ]
@@ -10456,6 +10430,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T04:12:00+00:00",
           "title": "From horsepower to firepower, Japan draws auto suppliers into major arms buildup - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "a094f6080d6b223b42840522",
+      "topic": "smartphones",
+      "title": "Samsung hid some of One UI 9.5's coolest customization features: Here's how to try them - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeVVXWUxMb3hUTENfS3FOcVRLZWlGbTJySHJRUTZacjF5MmZxZVVDN1dudVRKd1htVVlUUjVvNU5fMzl0VHZQanhybDVUbEJ1ejY5R00xeEJXVUNwbDRRX04xbmcxZ2JScFNCQ0ZaMW1IS09DaHg1ZnNhanY0V3NYelpZbzQxa0pE?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Samsung hid some of One UI 9.5's coolest customization features: Here's how to try them Android Authority",
+      "published_utc": "2026-11-24T10:30:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "スマートフォンへ分類",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeVVXWUxMb3hUTENfS3FOcVRLZWlGbTJySHJRUTZacjF5MmZxZVVDN1dudVRKd1htVVlUUjVvNU5fMzl0VHZQanhybDVUbEJ1ejY5R00xeEJXVUNwbDRRX04xbmcxZ2JScFNCQ0ZaMW1IS09DaHg1ZnNhanY0V3NYelpZbzQxa0pE?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T10:30:00+00:00",
+          "title": "Samsung hid some of One UI 9.5's coolest customization features: Here's how to try them - Android Authority"
         }
       ]
     }

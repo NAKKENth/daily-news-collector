@@ -1522,18 +1522,18 @@
     {
       "id": "999194b93c9d0527d01f0821",
       "topic": "tws",
-      "title": "Galaxy Buds4 & 4 Pro - Wireless earbuds | Samsung Jordan - samsung.com",
+      "title": "Galaxy Buds4 Pro - samsung.com",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5QVNHSm9iUGQ2TWJNN2hHUkUtb2M1Ynh0c05KYmItQndiZl9kSVNhUXRsUjJDUTFFelJJa1BrSl96ZjNfYm82bDU0V0VRMlhnLUlMRzNLSm1XaDByay1rVU5KR3NjMUJBaWNwdml6dUFQUQ?oc=5",
       "source": "Samsung Audio",
       "publisher": "samsung.com",
-      "description": "Galaxy Buds4 & 4 Pro - Wireless earbuds | Samsung Jordan samsung.com",
+      "description": "Galaxy Buds4 Pro samsung.com",
       "published_utc": "2026-11-23T08:00:00+00:00",
       "date_jst": "2026-11-23",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
       "date_quality": "discovery_index",
       "triage": "review",
-      "triage_reason": "対象オーディオ候補",
+      "triage_reason": "関連性・新規性要確認",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5QVNHSm9iUGQ2TWJNN2hHUkUtb2M1Ynh0c05KYmItQndiZl9kSVNhUXRsUjJDUTFFelJJa1BrSl96ZjNfYm82bDU0V0VRMlhnLUlMRzNLSm1XaDByay1rVU5KR3NjMUJBaWNwdml6dUFQUQ?oc=5",
@@ -1541,7 +1541,7 @@
           "publisher": "samsung.com",
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T08:00:00+00:00",
-          "title": "Galaxy Buds4 & 4 Pro - Wireless earbuds | Samsung Jordan - samsung.com"
+          "title": "Galaxy Buds4 Pro - samsung.com"
         }
       ]
     },

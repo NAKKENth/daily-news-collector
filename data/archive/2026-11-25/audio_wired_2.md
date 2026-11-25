@@ -1,5 +1,7 @@
-# wired / 2026-11-25 / 候補 51–81
+# wired / 2026-11-25 / 候補 51–83
 
+- [FiiO UTWS5 2025 – 0,78 mm 2-pin - Head-Fi.org](https://news.google.com/rss/articles/CBMihgFBVV95cUxPX0FaSkRiVHAwQ0NKVW5WeEs0M0Q1bEdZbDNKNzJ6WENGRmEtM3BLR1JGd25FSHRKczdxaHBkZmdxQzJ1SFFSTjZnVHdQbmZucHVmTzlMU3NMc19ScXRhS2RsUHlCMXdTMVhUeTMtbFRlTmwtUDlkY0JERjU4UTJIYlFlZXF2QQ?oc=5) — Head-Fi｜要確認｜2026-11-24T19:18:21+00:00 UTC｜discovery_index
+- [Fiio K17 - Head-Fi.org](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQdlhEQ0hyUmFOQ2FnX2pjbUN1Y1VhUGpSQXdRUkdtZnZYSFZzdko1NnhQT2ZVeVF1TjhILWtwZjN2SkZBVWs4WjZWLU5ZRUFMLWFXSVNSMW8wZm9QcDc3S0VB?oc=5) — Head-Fi｜要確認｜2026-11-25T11:17:01+00:00 UTC｜discovery_index
 - [Fiio M15 - Head-Fi.org](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Ud3k1TTFlcTcwanQ3Y3Z1N3JpVnQyZ2lxd1p6XzRJTGhxMHp0OFBDU3lsc2pQc2FsdlpsRlJIRXpyVVVLblFSTVdsR2ZjcmJ6YWU5d3BGdlluVzZ1N29Hc0ln?oc=5) — Head-Fi｜要確認｜2026-11-24T21:59:53+00:00 UTC｜discovery_index
 - [Grado GH3 Limited Edition Headphones - Head-Fi.org](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZWtCZENlUXBUZk1CNm9CRnBma3NxNGtvSFFVTG5SR210WHVGMzZUTnlEZlhJUGNGQUtsOE1UY3YwX1NVZmJRX0syaUVRMlJVM2N5c0F0V1p2bk5KTXJtMkJRQmR1UzJqMFYyYTZSajJzc1FMOTk2SC1tTG1qVFJfS2VhSmFyRmc?oc=5) — Head-Fi｜要確認｜2026-11-25T11:19:06+00:00 UTC｜discovery_index
 - [Gustard X26 III - Head-Fi.org](https://news.google.com/rss/articles/CBMia0FVX3lxTE5HQ3A5RmJRcjdnRFRQTk9IVzBaU1VYOTlfUUZtUG5jcmZrSmVDaV9DcTYxMWgwci1QZm4yVmxtTElRMFRya3dXZVNmMXdGLW5WVXdORXlha2JKLWpaU2RDQlIyQ2lkaXZXYzlF?oc=5) — Head-Fi｜要確認｜2026-11-25T11:18:58+00:00 UTC｜discovery_index

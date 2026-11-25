@@ -1,5 +1,6 @@
-# ai / 2026-11-25 / 候補 201–218
+# ai / 2026-11-25 / 候補 201–219
 
+- [Tidal will start banning AI-generated music next month - The Verge](https://news.google.com/rss/articles/CBMic0FVX3lxTFBQelZURlllZ1MyUlNzRWRYYmgwWkJuWjM3MnRsdlNaTWlYMFVvYXhmQ2xGeDB1Vjh0UXlQOXpJOGIxc2F2Z1VPQUJkSDVNcS1jSC1VN2hyRjU5WnNtUEYxNkFmQVYwb3BpRU1pZHV3alprLVU?oc=5) — The Verge｜要確認｜2026-11-24T17:17:09+00:00 UTC｜discovery_index
 - [Topic: PhoneBox - Ars Technica](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iWC1USlFfVkE4ZU1iRDNoMUdBN0FiUTFtV3g1NVpOT2xfMENOUDR6a2ZnajNoa1RuVFBJTmMwVDJuMmdHR1BNekhIWk9hQQ?oc=5) — Ars Technica｜要確認｜2026-11-24T19:14:15+00:00 UTC｜discovery_index
 - [Troubleshooting Common Issues | OpenAI Help Center - OpenAI Help Center](https://news.google.com/rss/articles/CBMif0FVX3lxTE1nbzR1RUlYS0lDd040MW10MElBRXFyaUhKRXJHSlNibFhNbVdZRWMyRE41S05aaDAyMm9wZGdCN05BS3R4SWdRYzFPX0d6MDNWc2xBZ1hlVHFVYVRxVUFFdC02MG5lMlN1TkRYcEphSnBuaHBfMXhoUXVFQnB0bEk?oc=5) — OpenAI Help｜要確認｜2026-11-24T15:14:11+00:00 UTC｜discovery_index
 - [Trump set to add new sweeping tariffs, undeterred by midterms defeat - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxNNklFaE54bEV6OGdKT29ScUxHUlZwRDNyREJ0MzBSZzZGdnptTkVxaXNHeWx2WjFWYVMzMzdMeU92dC1PVmYyZ1BTT3lCTWVRVnJ5ODFEb0NXYWpDd1ZQUlg4bkZ5QVAyck9KQUhMbldjY2FqMmtsZGs3MTFUY0xLZm9wMWRRTFAyS3VvZUZ6Wnk0VzlxTjR3VS1GSkJ1S3VCU2xmZ09FX1E5dUVjTUhfR21wMG1pcktxdGc?oc=5) — Reuters AI｜要確認｜2026-11-24T16:19:00+00:00 UTC｜discovery_index

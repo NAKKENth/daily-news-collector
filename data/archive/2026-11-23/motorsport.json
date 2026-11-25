@@ -5282,32 +5282,6 @@
       ]
     },
     {
-      "id": "1b8878e9e4459bc5a0b7dc32",
-      "topic": "F1",
-      "title": "FIA announces grid penalty for Las Vegas Grand Prix collision - PlanetF1",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQTdYNzJHWGZZY0tqMHVuLWlqcG90Z25FSm8wMXZ6U0Rvc1M5NDg2T3hZaExEWTRvM1haR09FUjROSm1IdEdkLXhubEdfbGNFNDRBSVdZMG1YYmR3dUtXVldwUkx5S0pWcGZ3YUV2ZWhLaUFESVV1Yy0yNG5qWTh3QUlzYVpSazhZTlQw?oc=5",
-      "source": "PlanetF1",
-      "publisher": "PlanetF1",
-      "description": "FIA announces grid penalty for Las Vegas Grand Prix collision PlanetF1",
-      "published_utc": "2026-11-23T04:11:59+00:00",
-      "date_jst": "2026-11-23",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "priority",
-      "triage_reason": "競技名一致・新規性の確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQTdYNzJHWGZZY0tqMHVuLWlqcG90Z25FSm8wMXZ6U0Rvc1M5NDg2T3hZaExEWTRvM1haR09FUjROSm1IdEdkLXhubEdfbGNFNDRBSVdZMG1YYmR3dUtXVldwUkx5S0pWcGZ3YUV2ZWhLaUFESVV1Yy0yNG5qWTh3QUlzYVpSazhZTlQw?oc=5",
-          "source": "PlanetF1",
-          "publisher": "PlanetF1",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T04:11:59+00:00",
-          "title": "FIA announces grid penalty for Las Vegas Grand Prix collision - PlanetF1"
-        }
-      ]
-    },
-    {
       "id": "6627722632001ad7d7dd9d1a",
       "topic": "F1",
       "title": "Charles Leclerc apologises after ’embarrassing’ Hamilton Las Vegas clash - PlanetF1",
@@ -5382,32 +5356,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-22T19:59:36+00:00",
           "title": "Lando Norris makes bold Las Vegas claim after insane overtake stat emerges - PlanetF1"
-        }
-      ]
-    },
-    {
-      "id": "1809da3d5152ffee325433bd",
-      "topic": "F1",
-      "title": "FIA explains Charles Leclerc punishment after Lewis Hamilton Las Vegas GP incident - PlanetF1",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRFRxS2dqUTJpMmtOVmVPeUZvM0JudnhWN2xlNC1rUElqX3R1NVRSTFdNU2NGb25HWVkzSkprNjh4TjBWd3luc21JQUZINGk4MEVGNzIzLWtXVEQydG81OGRDTHVWdDE3Nm9BNHVjRjVGcGRyUjlfYncxdkZzMTg3MXZYV18xRW9LSnEwVUNWcGdXQTY2UGM1N3lIZzVwRFFpTTR3?oc=5",
-      "source": "PlanetF1",
-      "publisher": "PlanetF1",
-      "description": "FIA explains Charles Leclerc punishment after Lewis Hamilton Las Vegas GP incident PlanetF1",
-      "published_utc": "2026-11-23T03:46:42+00:00",
-      "date_jst": "2026-11-23",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技名一致・新規性の確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRFRxS2dqUTJpMmtOVmVPeUZvM0JudnhWN2xlNC1rUElqX3R1NVRSTFdNU2NGb25HWVkzSkprNjh4TjBWd3luc21JQUZINGk4MEVGNzIzLWtXVEQydG81OGRDTHVWdDE3Nm9BNHVjRjVGcGRyUjlfYncxdkZzMTg3MXZYV18xRW9LSnEwVUNWcGdXQTY2UGM1N3lIZzVwRFFpTTR3?oc=5",
-          "source": "PlanetF1",
-          "publisher": "PlanetF1",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T03:46:42+00:00",
-          "title": "FIA explains Charles Leclerc punishment after Lewis Hamilton Las Vegas GP incident - PlanetF1"
         }
       ]
     },
@@ -8568,6 +8516,84 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-22T23:47:01+00:00",
           "title": "F1 Mens Bags, F1 Backpacks - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "eedc87cb209f0f60c1c36773",
+      "topic": "other_motorsport",
+      "title": "【写真4】シャルル・ルクレール（フェラーリ） - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fLUN5ZUlJcUJHb0ZYTzVTX3J0NE03VnNkcTVqOTJPUWZSVVpEdS10ZEo3VnFoMEIwZWQ5cnJ0eEhJRWZWd1pGbG94NGpGSzVaamJyZUctc29ySzU4UWdZQ2NsaGl0SXUwcUtZNFJFeE9kSmhFRmFwOGJ3?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真4】シャルル・ルクレール（フェラーリ） autosport web",
+      "published_utc": "2026-11-23T00:06:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fLUN5ZUlJcUJHb0ZYTzVTX3J0NE03VnNkcTVqOTJPUWZSVVpEdS10ZEo3VnFoMEIwZWQ5cnJ0eEhJRWZWd1pGbG94NGpGSzVaamJyZUctc29ySzU4UWdZQ2NsaGl0SXUwcUtZNFJFeE9kSmhFRmFwOGJ3?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T00:06:00+00:00",
+          "title": "【写真4】シャルル・ルクレール（フェラーリ） - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "1886c54fcfbb34fc7fdc3ba5",
+      "topic": "other_motorsport",
+      "title": "【写真2】BMW M4 GT3エボ - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JRzZma0FOVkVNSm9IYWYzamRpVXFLd2xYMG9IRjN0ODFOVzFFa0hVS0hIQXBvaTZWNDV3ZHZYejAxaXJxc2dZelZ5VlZfZlk3UjZiSjl1ajZrdUF0UXlxaGRrXzhxcHc4?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真2】BMW M4 GT3エボ autosport web",
+      "published_utc": "2026-11-23T10:46:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JRzZma0FOVkVNSm9IYWYzamRpVXFLd2xYMG9IRjN0ODFOVzFFa0hVS0hIQXBvaTZWNDV3ZHZYejAxaXJxc2dZelZ5VlZfZlk3UjZiSjl1ajZrdUF0UXlxaGRrXzhxcHc4?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T10:46:00+00:00",
+          "title": "【写真2】BMW M4 GT3エボ - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "c4eed3df1740a00d62023bcf",
+      "topic": "WRC",
+      "title": "Schareina Tosha | 35 Abu Dhabi Desert Challenge - FIM 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON2x1VHJQVUtVYk56WlJLVWdpc1hhUk1KZDJHWXA3TkJ0TzBNM05pV3AyaU5sUHppeE1SN3pSZExHUHZCMkF0VXJtSmxORElQOVRSN21YUFVpREVXVkxvaGpfTEFtSC1nOUVMV1lGaU5xM2dkZ1FrZUh2SnFCeVlLemNkSnU1VE0xcGZRRnQzR1c?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Schareina Tosha | 35 Abu Dhabi Desert Challenge - FIM 2026 eWRC-results.com",
+      "published_utc": "2026-11-23T12:58:17+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON2x1VHJQVUtVYk56WlJLVWdpc1hhUk1KZDJHWXA3TkJ0TzBNM05pV3AyaU5sUHppeE1SN3pSZExHUHZCMkF0VXJtSmxORElQOVRSN21YUFVpREVXVkxvaGpfTEFtSC1nOUVMV1lGaU5xM2dkZ1FrZUh2SnFCeVlLemNkSnU1VE0xcGZRRnQzR1c?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T12:58:17+00:00",
+          "title": "Schareina Tosha | 35 Abu Dhabi Desert Challenge - FIM 2026 - eWRC-results.com"
         }
       ]
     }

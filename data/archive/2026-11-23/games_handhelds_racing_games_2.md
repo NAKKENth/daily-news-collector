@@ -1,0 +1,5 @@
+# racing_games / 2026-11-23 / 候補 51–53
+
+- [attack assist (when your racing line assist is blocked) 3.2.8 - overtake.gg](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeGVTTk5oVGpPSDV5M2llUkhIOTIwczNTTU9LQ3JMZDRObnRYQUJ3U3pTNHktRVczODZEZVNyWUJqSVpHUXpNWXlnUkszeElEVm9LYTN6MENrWW0yNC1kTU94TXFRTkEtQ3UyeTl2WU52U3dZdXRjZTU0T3I5VmtmQUIyamc0VlczNHd5SlotTWhoQkgwbFRNQUhB?oc=5) — OverTake｜要確認｜2026-11-23T13:32:02+00:00 UTC｜discovery_index
+- [livery lastreet (french music label) 1.0 - overtake.gg](https://news.google.com/rss/articles/CBMigAFBVV95cUxNX1h3UmJzT044TGd6ajUwVFlNSGVicmFmZlZGRXFuOFpDVUVvVG5RU2VVM0RkN0dDTXN0TFdUeVFUTk5tSnUySnI2TklxeTZRaTNMNVB1UGhjX3VJaE9BSEhlU0EtUmIzVnVXY3JJQ2tpbzJXZEVNZ01BYUNSZl9EMw?oc=5) — OverTake｜要確認｜2026-11-22T20:28:08+00:00 UTC｜discovery_index
+- [추천 뉴스 - Steam 뉴스 허브 - Steam](https://news.google.com/rss/articles/CBMipwFBVV95cUxNclZRTWtyM1QyY3BRM3YteUJQZmhEbXJNS2Z6MzdmNmd1NUdqQWRHTy10cE5SaVhVN3JJYkFZWjFEZkRpem5RZWlLMUdBV1RDRGRWUzRRMm9jbDRiOW9XaUs0cmt1emRfVGVNX3VJQWEyb0dvNG1HUkpDbjM2QjhueUZuSGwybTg1UDVETG0yWWpsRWp0cG52TnZyUVJnazRvZ0F1MXlIWQ?oc=5) — Steam racing updates｜要確認｜2026-11-22T20:51:33+00:00 UTC｜discovery_index
