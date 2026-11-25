@@ -311,32 +311,6 @@
       ]
     },
     {
-      "id": "f0641bd531e23295b7ea2aec",
-      "topic": "tws",
-      "title": "Bellevue - Bluetooth - Bluetooth® Technology Website",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV1l5SmFsNTQxaHN4TWxNNkRRVDE5dG9xOGp3ZnREVS1qS29LeGtWRVJVMGwxMXJkblBoRnZWdHZUby1GSEVMZ0l1MlY4X0RKbV90WFl2VzNUWTR0eVZrb1JfbXgyeTFNS1ktOTFBYm1faW1lbXJGbWdyTFVnNnNnQXhqbzU3VGxHallJUmtDN3BiWHZqaWttUE1DWU9IRU5mQzRsUVdlUEZDVXRp?oc=5",
-      "source": "Bluetooth SIG",
-      "publisher": "Bluetooth® Technology Website",
-      "description": "Bellevue - Bluetooth Bluetooth® Technology Website",
-      "published_utc": "2026-11-24T06:18:24+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV1l5SmFsNTQxaHN4TWxNNkRRVDE5dG9xOGp3ZnREVS1qS29LeGtWRVJVMGwxMXJkblBoRnZWdHZUby1GSEVMZ0l1MlY4X0RKbV90WFl2VzNUWTR0eVZrb1JfbXgyeTFNS1ktOTFBYm1faW1lbXJGbWdyTFVnNnNnQXhqbzU3VGxHallJUmtDN3BiWHZqaWttUE1DWU9IRU5mQzRsUVdlUEZDVXRp?oc=5",
-          "source": "Bluetooth SIG",
-          "publisher": "Bluetooth® Technology Website",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T06:18:24+00:00",
-          "title": "Bellevue - Bluetooth - Bluetooth® Technology Website"
-        }
-      ]
-    },
-    {
       "id": "b815f7bafb9bc70a8362671f",
       "topic": "tws",
       "title": "Apple releasing Product(RED) versions of two products soon, per report",
@@ -1627,6 +1601,448 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T15:52:00+00:00",
           "title": "Turn movie night into a theater with $270 off the JBL Bar 500MK2 - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "76a22710d5413648a7664558",
+      "topic": "portable_dac",
+      "title": "Digital crossover with a €60 USBStreamer and an €8 I2S DAC - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObGFWamNrSEZHQkhQeE1qYUhLQzBTdXdqT3kxVnZqNHhzeklmNmI2WndSTXU2bzJkVi1pcndJdFpQOER2UFJmMFdTZ2FoMTdmaG1zRjk5UmdGbG9BcVlUSEdKTXdxYlQzZzlTWnNQM091Tm82Y29wdklKUWNPelJrSzB3dVRCLVVCWXI3YUNuM2JocTFUbHNpWVJCYUkySDRYbWN2SWF5b1MzU192YmcyLUdBclZhblVBVjh1YVliMHJHak5DcDF1VE53Q01OTnprZ0RScEp2VQ?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "Digital crossover with a €60 USBStreamer and an €8 I2S DAC Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-23T20:34:45+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObGFWamNrSEZHQkhQeE1qYUhLQzBTdXdqT3kxVnZqNHhzeklmNmI2WndSTXU2bzJkVi1pcndJdFpQOER2UFJmMFdTZ2FoMTdmaG1zRjk5UmdGbG9BcVlUSEdKTXdxYlQzZzlTWnNQM091Tm82Y29wdklKUWNPelJrSzB3dVRCLVVCWXI3YUNuM2JocTFUbHNpWVJCYUkySDRYbWN2SWF5b1MzU192YmcyLUdBclZhblVBVjh1YVliMHJHak5DcDF1VE53Q01OTnprZ0RScEp2VQ?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T20:34:45+00:00",
+          "title": "Digital crossover with a €60 USBStreamer and an €8 I2S DAC - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "2c256f236b4360a1a8e71de7",
+      "topic": "portable_dac",
+      "title": "Bas12 - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fT1lvRm5QNFY1ai1ac2oweFF6V1hFVmJSanZ5bmFlZFVYY0czaVBleWJZLVFESVhMWGNYeE1CUTBidnhCZ3d3WWVUZlJ0UlozVHhPNHB2TTBXaXBTZkNrU3R4aWZEMHlzamNLYklrcTEzb2dmNUVvelVyNTQ?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "Bas12 Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-24T14:29:37+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fT1lvRm5QNFY1ai1ac2oweFF6V1hFVmJSanZ5bmFlZFVYY0czaVBleWJZLVFESVhMWGNYeE1CUTBidnhCZ3d3WWVUZlJ0UlozVHhPNHB2TTBXaXBTZkNrU3R4aWZEMHlzamNLYklrcTEzb2dmNUVvelVyNTQ?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T14:29:37+00:00",
+          "title": "Bas12 - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "bb5de23ea0c8a73626ae98e1",
+      "topic": "wired",
+      "title": "Best Headphones for Everyday Use: Need Recommendations - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaU5wUlk4WFRTa2E1LW02NXpxRUVJTjdIMGZnR1dncDRzbXdFeFVrMmpWTkQxQWlYalZJUUhDRFUyczBiLWlOMndhZ0FZME1Cd2FENDI1Qm9WTHJOaXpROVl0UDdINk9zTHpDSjFDOFVmQ3V1cHJNcGdvS1RKZXNzZk1rbFhXUF9vbmZka05FUjduWGk3SXVIQlFoZ09nNFM2T1ZNaC02UUlpR3BvRlN6V0wxVXV0dno5TEU4?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "Best Headphones for Everyday Use: Need Recommendations Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-24T06:27:12+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaU5wUlk4WFRTa2E1LW02NXpxRUVJTjdIMGZnR1dncDRzbXdFeFVrMmpWTkQxQWlYalZJUUhDRFUyczBiLWlOMndhZ0FZME1Cd2FENDI1Qm9WTHJOaXpROVl0UDdINk9zTHpDSjFDOFVmQ3V1cHJNcGdvS1RKZXNzZk1rbFhXUF9vbmZka05FUjduWGk3SXVIQlFoZ09nNFM2T1ZNaC02UUlpR3BvRlN6V0wxVXV0dno5TEU4?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T06:27:12+00:00",
+          "title": "Best Headphones for Everyday Use: Need Recommendations - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "3a366bcd4e6f73b03bb1ee3c",
+      "topic": "wired",
+      "title": "Will headphones measure higher THD with tube amps? - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb2htbVpKMXRrOVRKbTVZd2RfVlpiV2w0eWJFZ1ZmNU1tTGlpcGV3ZW16SzY5WXMzWWJOYmtYeUxaaDlYc3k3amRGbHQtcm1DX0hHNjVCVV9WX2xCWFM2bmttU0k0ZFltMmNKYjhRUGVZTWdZenVSUUx2Wm1kZmlZRVppdWlkYVczUlE5eDFiWTVfOWZPYzg4ZUxBZUFSODJRdFlLVEQ1QnNYVXpwcF9xcDVac0ltQQ?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "Will headphones measure higher THD with tube amps? Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-23T17:22:37+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb2htbVpKMXRrOVRKbTVZd2RfVlpiV2w0eWJFZ1ZmNU1tTGlpcGV3ZW16SzY5WXMzWWJOYmtYeUxaaDlYc3k3amRGbHQtcm1DX0hHNjVCVV9WX2xCWFM2bmttU0k0ZFltMmNKYjhRUGVZTWdZenVSUUx2Wm1kZmlZRVppdWlkYVczUlE5eDFiWTVfOWZPYzg4ZUxBZUFSODJRdFlLVEQ1QnNYVXpwcF9xcDVac0ltQQ?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T17:22:37+00:00",
+          "title": "Will headphones measure higher THD with tube amps? - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "fa3c0bd267653e316dd470b9",
+      "topic": "portable_dac",
+      "title": "OLLO audio X2 - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS2N2SHpSdHo0Zm5hanR2SVFYaDBFMVB0cFo5Y2hDd0huOHhXdmpUVXhHSHEwVG5aZWdtVkFCV0xNU1dJZVdLX0dteDJpdkc5b05HakdBSlhTajhkZmNwb0tEaFlXSWEzMlpqZXJkeVhzLWdfZmUyemRGNTFwMDhCa2x1WlhMZw?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "OLLO audio X2 Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-24T09:44:57+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS2N2SHpSdHo0Zm5hanR2SVFYaDBFMVB0cFo5Y2hDd0huOHhXdmpUVXhHSHEwVG5aZWdtVkFCV0xNU1dJZVdLX0dteDJpdkc5b05HakdBSlhTajhkZmNwb0tEaFlXSWEzMlpqZXJkeVhzLWdfZmUyemRGNTFwMDhCa2x1WlhMZw?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T09:44:57+00:00",
+          "title": "OLLO audio X2 - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "8f748ee48df5177f83c9339f",
+      "topic": "portable_dac",
+      "title": "Compact 5\" Studio Coax with DSP - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWXZ6aS1JamV6ZXAxZkFLLXQwR3Vib3ZKMFl0WVlYSl83T05ndjZzWjR6dXNFMkpKWnM0RDR1NFZQc2syZFRVdlhTQldCMWJVck95WU8tYWpqUTFJUUptbEl0Y1NHc3JFTzN1cWVWeElJcGt2UDV2c1MwZ2NXb3pTTzdGUlotSXR6ajY0ZnBGMXBTNHU3MS1selFQNFc?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "Compact 5\" Studio Coax with DSP Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-23T15:29:23+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWXZ6aS1JamV6ZXAxZkFLLXQwR3Vib3ZKMFl0WVlYSl83T05ndjZzWjR6dXNFMkpKWnM0RDR1NFZQc2syZFRVdlhTQldCMWJVck95WU8tYWpqUTFJUUptbEl0Y1NHc3JFTzN1cWVWeElJcGt2UDV2c1MwZ2NXb3pTTzdGUlotSXR6ajY0ZnBGMXBTNHU3MS1selFQNFc?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T15:29:23+00:00",
+          "title": "Compact 5\" Studio Coax with DSP - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "05836749059da4f0c2c83060",
+      "topic": "portable_dac",
+      "title": "Rotel RA-970BX Vintage Amplifier Review (ObjectAudio) - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMnFvSzY3ZU9zbHR1YjhESjd5aXhwblo4Z3UzM2NpU3NhODVjNTcwaFlTMjNPLWhqQ0dZLUtfUnZTZW85ZUVhanExZzlrX3c1M3lvMmZzRmNkYU8xN3FNRkg1Y1BaUi13NlpuX3I0TmhUbDR4bGNUOE91My1DUkotTmMyRnY2dl9OTlh2UUJDdDF4UjdVSVhtNHZDd3Q1dG16Y1BFNWlPLWhzWHhXTC16WDR1VmRYaTRy?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "Rotel RA-970BX Vintage Amplifier Review (ObjectAudio) Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-23T17:57:14+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMnFvSzY3ZU9zbHR1YjhESjd5aXhwblo4Z3UzM2NpU3NhODVjNTcwaFlTMjNPLWhqQ0dZLUtfUnZTZW85ZUVhanExZzlrX3c1M3lvMmZzRmNkYU8xN3FNRkg1Y1BaUi13NlpuX3I0TmhUbDR4bGNUOE91My1DUkotTmMyRnY2dl9OTlh2UUJDdDF4UjdVSVhtNHZDd3Q1dG16Y1BFNWlPLWhzWHhXTC16WDR1VmRYaTRy?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T17:57:14+00:00",
+          "title": "Rotel RA-970BX Vintage Amplifier Review (ObjectAudio) - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "9a096587796100c0385c98c3",
+      "topic": "portable_dac",
+      "title": "Bhutan produced playable vinyl records as postage stamps in the 1970s - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSUVOd2FycXRpdEZKT01Fc3ZWM3VTZVUwSkJrZ2VZS0lBWTdlMVFFczVCWFYxVURTREZJNktsVDB4bFJMV0RlYU9JSnkwUnV5WUFoSy1jSFJaOUNHMEZJMHdSWlhyeWUxZUdyN1VQdEpsT1B4UzE5NTM1dW5Vb0tsalJId3F4UWxVRThfeWpNQ0Q1YVBsZUpXTnhPbU9XUTNkYll4VThzRXlNT1JQVEdaS1E5amhCYm9zOUloVGg0bWpLemd5aURrWHFyR1FvZVhl?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "Bhutan produced playable vinyl records as postage stamps in the 1970s Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-23T18:13:58+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSUVOd2FycXRpdEZKT01Fc3ZWM3VTZVUwSkJrZ2VZS0lBWTdlMVFFczVCWFYxVURTREZJNktsVDB4bFJMV0RlYU9JSnkwUnV5WUFoSy1jSFJaOUNHMEZJMHdSWlhyeWUxZUdyN1VQdEpsT1B4UzE5NTM1dW5Vb0tsalJId3F4UWxVRThfeWpNQ0Q1YVBsZUpXTnhPbU9XUTNkYll4VThzRXlNT1JQVEdaS1E5amhCYm9zOUloVGg0bWpLemd5aURrWHFyR1FvZVhl?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T18:13:58+00:00",
+          "title": "Bhutan produced playable vinyl records as postage stamps in the 1970s - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "04d5b795ec343797d46970c6",
+      "topic": "portable_dac",
+      "title": "Bathys MG - Subjective Owner Review - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOUwwWmRUengzSWJGWHBaLXN6Smt5ZTgyeTd3STJ4WldoTXBGZlRiY3hXNTIza1dsdkNicEo5MkZZV1M1UlRvZWpyclVpWkdFWUFPd0w0MEw5Nmd3a05vM1BrQktpY0tEUF8yOGtXN0JYLWdsc3diQW9OOXZhbWV3U0syeFBTX3lZdmhKOTVPYnhpSmJRMzhPVTY5SWN5LVFm?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "Bathys MG - Subjective Owner Review Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-23T17:56:18+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOUwwWmRUengzSWJGWHBaLXN6Smt5ZTgyeTd3STJ4WldoTXBGZlRiY3hXNTIza1dsdkNicEo5MkZZV1M1UlRvZWpyclVpWkdFWUFPd0w0MEw5Nmd3a05vM1BrQktpY0tEUF8yOGtXN0JYLWdsc3diQW9OOXZhbWV3U0syeFBTX3lZdmhKOTVPYnhpSmJRMzhPVTY5SWN5LVFm?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T17:56:18+00:00",
+          "title": "Bathys MG - Subjective Owner Review - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "0ca1ce8e5e8b1a7bd6e36618",
+      "topic": "portable_dac",
+      "title": "OLLO audio X2 - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92WE9nNktneXBJbkdpOWlJT1Q2T3VadTQ3ZzMxUW5ZRXpfUjg5TXBITW1yUDFuLVY4THpVSUgxY3NEckN0ZXByVEpqMTVQMTUyc0VVRkpvaE11YWdsdlB0cEVQc3EzNGdBTC1pcC1nRFRYVE0?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "OLLO audio X2 Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-24T09:44:57+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92WE9nNktneXBJbkdpOWlJT1Q2T3VadTQ3ZzMxUW5ZRXpfUjg5TXBITW1yUDFuLVY4THpVSUgxY3NEckN0ZXByVEpqMTVQMTUyc0VVRkpvaE11YWdsdlB0cEVQc3EzNGdBTC1pcC1nRFRYVE0?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T09:44:57+00:00",
+          "title": "OLLO audio X2 - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "c51f8ffb8c6b30a3ce14bcc7",
+      "topic": "tws",
+      "title": "Product Detail - Bose",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3A5aUxEdDNsR0t3ZEY4RWRmNUg4bzJ5LVBsZWZEbjYwTU9TMGhCUVdhY1Bvejc5MzlFUjZnb01Na3dvRkJzOTRQT1ptanNDcW9QMzQ1WHJ4eGNrM0hXdnM0RVpDc3h3M2ZvTEZ3Mm8tVUZIRkllcGhnYzFVVXJqVHlsOGM2M1ZCWkdUVW9xVUNya3k1X0gxY09KNGZKWk1oVlE?oc=5",
+      "source": "Bose",
+      "publisher": "Bose",
+      "description": "Product Detail Bose",
+      "published_utc": "2026-11-24T13:53:22+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3A5aUxEdDNsR0t3ZEY4RWRmNUg4bzJ5LVBsZWZEbjYwTU9TMGhCUVdhY1Bvejc5MzlFUjZnb01Na3dvRkJzOTRQT1ptanNDcW9QMzQ1WHJ4eGNrM0hXdnM0RVpDc3h3M2ZvTEZ3Mm8tVUZIRkllcGhnYzFVVXJqVHlsOGM2M1ZCWkdUVW9xVUNya3k1X0gxY09KNGZKWk1oVlE?oc=5",
+          "source": "Bose",
+          "publisher": "Bose",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T13:53:22+00:00",
+          "title": "Product Detail - Bose"
+        }
+      ]
+    },
+    {
+      "id": "d46b628dce02c9c409ddeb4e",
+      "topic": "tws",
+      "title": "Product Detail - Bose",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONUZTbEt5ZjZRbU1CZVRoQWpwVVE0cjA1SEdyV3A5SWlaY2ltVTZ6UEZ4S3ZqSUVNdUpQY29oeWVEbHRhQ041eTdzTjd2YTUteEpxUWZ4OUJRQXhIcmdkdXA4ckgwaS0zbkZRX2ZTWjNkLU9MQjFkc3RkQzJYcnNjX28ycGJpN1duR0MyQjBXXzlFUQ?oc=5",
+      "source": "Bose",
+      "publisher": "Bose",
+      "description": "Product Detail Bose",
+      "published_utc": "2026-11-24T13:19:16+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONUZTbEt5ZjZRbU1CZVRoQWpwVVE0cjA1SEdyV3A5SWlaY2ltVTZ6UEZ4S3ZqSUVNdUpQY29oeWVEbHRhQ041eTdzTjd2YTUteEpxUWZ4OUJRQXhIcmdkdXA4ckgwaS0zbkZRX2ZTWjNkLU9MQjFkc3RkQzJYcnNjX28ycGJpN1duR0MyQjBXXzlFUQ?oc=5",
+          "source": "Bose",
+          "publisher": "Bose",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T13:19:16+00:00",
+          "title": "Product Detail - Bose"
+        }
+      ]
+    },
+    {
+      "id": "7782cb53dbcafbd02372eb12",
+      "topic": "tws",
+      "title": "Cannot Connect a Bluetooth Device | Lifestyle® 135 series II home entertainment system - Bose",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNkQ5Qlg1YWVFeGhwdGc1cU1MRkpKVXlJalIzbnN4c0lnNnEzb2pVWVhhbW51MDJFMjUwdDgxbmd5S29ZbDRtZGFCdGFuWWJPeG5iV1dRVnoyeE9KRDdLcENPWUN5b2gyUzg5UW5rNWRCMTNfZkxGUE9IeU1OZ2oydHJWUkFXcGdYdlBZ?oc=5",
+      "source": "Bose",
+      "publisher": "Bose",
+      "description": "Cannot Connect a Bluetooth Device | Lifestyle® 135 series II home entertainment system Bose",
+      "published_utc": "2026-11-24T14:48:37+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNkQ5Qlg1YWVFeGhwdGc1cU1MRkpKVXlJalIzbnN4c0lnNnEzb2pVWVhhbW51MDJFMjUwdDgxbmd5S29ZbDRtZGFCdGFuWWJPeG5iV1dRVnoyeE9KRDdLcENPWUN5b2gyUzg5UW5rNWRCMTNfZkxGUE9IeU1OZ2oydHJWUkFXcGdYdlBZ?oc=5",
+          "source": "Bose",
+          "publisher": "Bose",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T14:48:37+00:00",
+          "title": "Cannot Connect a Bluetooth Device | Lifestyle® 135 series II home entertainment system - Bose"
+        }
+      ]
+    },
+    {
+      "id": "b693ee57eeae3599928e1c80",
+      "topic": "tws",
+      "title": "Cannot Connect a Bluetooth Device | Lifestyle® 535 series II home entertainment system - Bose",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVUQ4Q1BPT2ZuMFhBaVI2cUxDbHVkY0k0dHZaR1oyYTl6Vl9JUUphVUxQcktqTk5rVGtPaHhRUGcyZVVKcjdNbXp4cy1LVU05RzZmcnI4SFJYSk5IRE9ZT3JCQzBtVHJCdG9JTjdXWGVaY2oxcTFlZ3ZqMnNpRk5VZzRSYW1DVlUxV0Jn?oc=5",
+      "source": "Bose",
+      "publisher": "Bose",
+      "description": "Cannot Connect a Bluetooth Device | Lifestyle® 535 series II home entertainment system Bose",
+      "published_utc": "2026-11-24T12:52:22+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVUQ4Q1BPT2ZuMFhBaVI2cUxDbHVkY0k0dHZaR1oyYTl6Vl9JUUphVUxQcktqTk5rVGtPaHhRUGcyZVVKcjdNbXp4cy1LVU05RzZmcnI4SFJYSk5IRE9ZT3JCQzBtVHJCdG9JTjdXWGVaY2oxcTFlZ3ZqMnNpRk5VZzRSYW1DVlUxV0Jn?oc=5",
+          "source": "Bose",
+          "publisher": "Bose",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T12:52:22+00:00",
+          "title": "Cannot Connect a Bluetooth Device | Lifestyle® 535 series II home entertainment system - Bose"
+        }
+      ]
+    },
+    {
+      "id": "b2c73445bd1c1f66ebccc66b",
+      "topic": "tws",
+      "title": "Cannot Connect a Bluetooth Device | Lifestyle® 525 series III home entertainment system - Bose",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNelQ1amxFMkpYSTY5dFV1MExGVnQtZFEzMWMwcXdmNEdtWk5RUnRSV1RQUEp2RlJfeXk4OHliY1M3ekVBWmRZMzluSVZvMzM3YVRKRXJxZU1LYWNzZnFqUlVJLVpna0JYei11SEVfck5iMmFzdnlyVlFRVWhJVmU1bEpRSC1mLUtLbjhvSw?oc=5",
+      "source": "Bose",
+      "publisher": "Bose",
+      "description": "Cannot Connect a Bluetooth Device | Lifestyle® 525 series III home entertainment system Bose",
+      "published_utc": "2026-11-24T13:08:22+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNelQ1amxFMkpYSTY5dFV1MExGVnQtZFEzMWMwcXdmNEdtWk5RUnRSV1RQUEp2RlJfeXk4OHliY1M3ekVBWmRZMzluSVZvMzM3YVRKRXJxZU1LYWNzZnFqUlVJLVpna0JYei11SEVfck5iMmFzdnlyVlFRVWhJVmU1bEpRSC1mLUtLbjhvSw?oc=5",
+          "source": "Bose",
+          "publisher": "Bose",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T13:08:22+00:00",
+          "title": "Cannot Connect a Bluetooth Device | Lifestyle® 525 series III home entertainment system - Bose"
+        }
+      ]
+    },
+    {
+      "id": "d6ebfa10bce2480c7b829629",
+      "topic": "tws",
+      "title": "Cannot Connect a Bluetooth Device | CineMate® 130 home theater system - Bose",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZmgxNFRjSzZjVE9TUWthSzV6NkQ3NjN1YlRzV1ozQmpCdGFCZmczMlNSNjVjbFhBcE5UcW5QUTgyVFZsRnFrY01MMVo3bWVpV3RaMjBNaXJ4cGxsazM5d1U3NHBuR2Y1VWJvWUFHQUVwRFV5UnVUS3BFYWRQYTBzVE12cmtZQQ?oc=5",
+      "source": "Bose",
+      "publisher": "Bose",
+      "description": "Cannot Connect a Bluetooth Device | CineMate® 130 home theater system Bose",
+      "published_utc": "2026-11-24T12:51:18+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZmgxNFRjSzZjVE9TUWthSzV6NkQ3NjN1YlRzV1ozQmpCdGFCZmczMlNSNjVjbFhBcE5UcW5QUTgyVFZsRnFrY01MMVo3bWVpV3RaMjBNaXJ4cGxsazM5d1U3NHBuR2Y1VWJvWUFHQUVwRFV5UnVUS3BFYWRQYTBzVE12cmtZQQ?oc=5",
+          "source": "Bose",
+          "publisher": "Bose",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T12:51:18+00:00",
+          "title": "Cannot Connect a Bluetooth Device | CineMate® 130 home theater system - Bose"
+        }
+      ]
+    },
+    {
+      "id": "7a2c2d19027febdd9b00c797",
+      "topic": "tws",
+      "title": "Cannot Connect a Bluetooth Device | Lifestyle® 235 series II home entertainment system - Bose",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbVZwRDd4YkhleXhtVHZtcVppRnRaQ3Bhb3lZZ0xCNWlhZVhJU3F4TDNLMUI4QUhYWDMweE1qNVdEZEozS3luWUVFM2JKM2cwNUlNcERUZEVFUmJNNmJQb0VMOVFOemhSMWE3NmVKc0tadHphMzZ1TXZtWXpCZ1ZNZXBzVkdXSFlwbGE0?oc=5",
+      "source": "Bose",
+      "publisher": "Bose",
+      "description": "Cannot Connect a Bluetooth Device | Lifestyle® 235 series II home entertainment system Bose",
+      "published_utc": "2026-11-24T14:17:07+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbVZwRDd4YkhleXhtVHZtcVppRnRaQ3Bhb3lZZ0xCNWlhZVhJU3F4TDNLMUI4QUhYWDMweE1qNVdEZEozS3luWUVFM2JKM2cwNUlNcERUZEVFUmJNNmJQb0VMOVFOemhSMWE3NmVKc0tadHphMzZ1TXZtWXpCZ1ZNZXBzVkdXSFlwbGE0?oc=5",
+          "source": "Bose",
+          "publisher": "Bose",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T14:17:07+00:00",
+          "title": "Cannot Connect a Bluetooth Device | Lifestyle® 235 series II home entertainment system - Bose"
         }
       ]
     }

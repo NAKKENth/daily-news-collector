@@ -18,6 +18,15 @@
     "reason": "一覧・ナビゲーション候補"
   },
   {
+    "id": "98e7356b8168d37682e97186",
+    "group": "motorsport",
+    "topic": "F1",
+    "title": "Careers - Federation Internationale de l'Automobile",
+    "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9NMjBWYm9WR0hvME5HVE1VQzM2c3o0TkN2cnFzdWJjSXBDa3ZSUEhlUFpTNnI5d2VJWjdCbQ?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
     "id": "dac8c7b906da41c8a44ce321",
     "group": "motorsport",
     "topic": "F1",
@@ -927,24 +936,6 @@
     "reason": "一覧・ナビゲーション候補"
   },
   {
-    "id": "c800f40b2bd6fbfc07d933a8",
-    "group": "audio",
-    "topic": "tws",
-    "title": "Member login - Bluetooth - Bluetooth® Technology Website",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DR3IyNFVtbFFOWDBSTFBuYkFWSzR6QlV4M05IYjE4Y2NVeFVyczBFRDRET3U2dnZiQmNkMFA1NEtVeVVrTXVNRzlzOGVZYmJjLWQ4N1V1RG5YVWttckI4cTZ1TTU?oc=5",
-    "triage": "exclude",
-    "reason": "一覧・ナビゲーション候補"
-  },
-  {
-    "id": "f139943ba66bc0dc4388b18d",
-    "group": "audio",
-    "topic": "tws",
-    "title": "Healthcare & wellness market blueprint - Bluetooth - Bluetooth® Technology Website",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15dmx0QTZOcjJyX0ltcEl6OEpkUnN0cnUzYVhMbHN3dGpleVNxNmxPTXBOeWdteF9xbWRtSS10N3V0aW04akZ0dWQyMlhtaTkwYjh1T2dRUFhWYnJ1MWRwc1Uta253aXB5RWZPQzd2Rmo?oc=5",
-    "triage": "exclude",
-    "reason": "中古・施設一覧・一般資料"
-  },
-  {
     "id": "c32e37f839958c96aedcde79",
     "group": "audio",
     "topic": "tws",
@@ -1301,15 +1292,6 @@
     "topic": "handhelds",
     "title": "AYANEO Just Launched Their Black Friday Deals With Up To 50% Off",
     "url": "https://retrododo.com/ayaneo-just-launched-their-black-friday-deals-with-up-to-50-off",
-    "triage": "exclude",
-    "reason": "通常セール・販促・中古"
-  },
-  {
-    "id": "ca31119ce243d96fe847db1a",
-    "group": "pc_ai",
-    "topic": "ai",
-    "title": "Retailers face rising AI cyberattack threat ahead of Black Friday, many uninsured - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQXpGTVZodUxhM09Jb0ZEQ1JXcmt0VkoxUndncmc3cXhoSWNmWlduNlJmRlA3VzhuRktZT2F6ZjJoTGZ5eVZEa01xZ3A2OHBaVjA4dDJkUTR4TkNNUnc5ay1XazlBcHAzSkVuQVpEVGtsMGlPVlNzLVM0X3F3WnJMZklqMTJnMWszSkxBMEZRLWx5cXgyRE9aSEJtSDlELWRCVjByTGhqT0hPQ200Ui03TUJfaGd1NXRjLUVVM21ObUlSSWd0bEktdmtua0VMWlpoRHFadg?oc=5",
     "triage": "exclude",
     "reason": "通常セール・販促・中古"
   },
@@ -2410,5 +2392,50 @@
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPemhpbXlqaHlyZHdZSGlJclhYWWpwRTdrVDZ6Z2RzR2ptaDlnOEpQNGdwbmVTWUZvYnVWNUhjVGdnQkpEenVsUHZueWg4WWp1YXM1bnhfamxpWUZSNXZhZlRmZG5oRHhZSnNGWlEtN2ZneERJbHZ5S21Jc1lQZEhvUUpxZ2xONUU?oc=5",
     "triage": "exclude",
     "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "078e00ca6c04cca9ba53301a",
+    "group": "audio",
+    "topic": "tws",
+    "title": "Cannot Connect a Bluetooth Device | LIFESTYLE 235 SERIES III, TWO SPEAKER HOME THEATER - Bose",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSjZIOHVkU2x3VzBDbXhmaU1rVG9uSXNhalJlSmhRc29XcktQaFQwTFN2ejY1NUFWMFRvWnJwVDk2YmpMTEpaVkVpSlBENjY1eHV3dGZtSVJidkY2aFhmNkp5ZGhMQWMyS2JkSHpsSEZIcmc2MDhSOWsteTZsRllCLWpLaGJGZklDLWxKWg?oc=5",
+    "triage": "exclude",
+    "reason": "対象外機器・サービス"
+  },
+  {
+    "id": "0c5b706ea61d4e5c6b72a2ca",
+    "group": "audio",
+    "topic": "tws",
+    "title": "JBL Xtreme 5 | Portable waterproof speaker with massive legendary JBL sound, ambient edge lighting, and a convenient shoulder strap - JBL",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdVRBcTJEVFd4TThmcS0tRGtudlJUTmxzLTNFR2hWOVo0ZlktRFFzbVc0SURQdTJPaWh6d3pIZW4zUWx6aXlQWWJxNXFyOUNyQW90M3h2dWU0SVVnTkJZRUk1ZEJkdF84U0xSTjBMai1VekFham44V2lLYU5SUl96dXFmREhibzlrUEtYdw?oc=5",
+    "triage": "exclude",
+    "reason": "対象外機器・サービス"
+  },
+  {
+    "id": "e310b64d9b21e88c7cca9425",
+    "group": "audio",
+    "topic": "tws",
+    "title": "JBL Charge 6 | Portable waterproof and drop-proof Bluetooth speaker - JBL",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTJZSEZKal9EYVlvcXBCdVhtQzBVeWtTd3otWldQYjNlR3lURE9IeGtUZl9uTXQ3a3M2WTZLSTJoUDFtb09BeGdRZ1V4NGRUend3WHBYNF9zRVV1eGhOVzFKb2NNcFZ6N21ERG5qelFCWTNCWThxb0t2N0g0cXc5Z0hCV0p4bkZDclJDY3N2UG8?oc=5",
+    "triage": "exclude",
+    "reason": "対象外機器・サービス"
+  },
+  {
+    "id": "52d7e5fc529c9f9ea8f58746",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBucWFEckZmSW14eDBXSm54UXFTUGRqX2N6QVZwNy1FbVlSWUp2cVRjSE1aaFFDeHlSN2VRMVMyMUdZRDRKYWtMRDA3bGdGQUdLUnZCRHlCTlRUYW9RTjNQVHBJRTRNUzQ2cW5nQjBBbXdlQ2JYb2UzTS13?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "d1c1d0ab740c506e15ff9782",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVmNKNF9tTjJuejZYSTFmVlJSQjdhcFdUbEFfeUtJRWRRQVRXd0tWTWFQR0V0REs5bHNBZWs3a25IWlNrMGRZeWV4Wm5FV2tqaTF5U3BfUnNVeEVhQ1I5UXBQSnlBYm1DMXNoeWd6V1kxV1RHTHR5SDJQSzdQZUg4YVFwYVFIM2xHazB0Uk9MbnljNlN1Tm1wMVZMS0hBWFFZNlhzTGJpemlndXBId1JvcWkyb0ktaHNjVEwyOGdKdw?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
   }
 ]

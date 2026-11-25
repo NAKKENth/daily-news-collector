@@ -1,6 +1,5 @@
-# IndyCar / 2026-11-24 / 候補 1–24
+# IndyCar / 2026-11-24 / 候補 1–23
 
-- [Latest NTT INDYCAR SERIES News and Results | Official Site of INDYCAR - INDYCAR.com](https://news.google.com/rss/articles/CBMiQEFVX3lxTFBxV01QMldQckhaUnZKejRaT2t0OHg5dEkxakZfS0pFSkpFclpVSUx4OUItQ1hrUlJFS3htczcwTUE?oc=5) — IndyCar Official｜優先｜2026-11-23T16:49:39+00:00 UTC｜discovery_index
 - [Il GP Las Vegas accende il dibattito, Wolff: “Un mix fra Nascar e Indycar. Bisogna avere una mentalità aperta”](https://autoracer.it/il-gp-di-las-vegas-accende-il-dibattito-wolff-un-mix-fra-nascar-e-indycar-bisogna-avere-una-mentalita-aperta) — AutoRacer｜要確認｜2026-11-24T09:22:24+00:00 UTC｜article_metadata
 - [Toto Wolff: Las Vegas was “Indy 500, NASCAR and Formula 1 mixed”](https://www.motorsport.com/f1/news/toto-wolff-las-vegas-was-indy-500-and-nascar-and-formula-1-mixed/10877232) — Motorsport EN F1｜要確認｜2026-11-23T18:10:17+00:00 UTC｜feed_published
 - [30-hour endurance test - RACER - Racing News](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fM21GOWFKamJYQzM2OTZHVS1PZ244X0Vud25jNzVOVGlDeHNGNElVaWItakN3Z0oyc0hPanQ4MTltOUsyVmpkTVNFRnVPcTRLSlZ1UmJFdUQxZ0hpaHc?oc=5) — RACER｜要確認｜2026-11-24T13:46:54+00:00 UTC｜discovery_index

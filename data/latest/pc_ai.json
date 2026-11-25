@@ -868,16 +868,16 @@
     {
       "id": "7231e632f8b8ad9077b2c82e",
       "topic": "pc",
-      "title": "AMD's Radeon RX 9060 XT sets new GPU frequency world record of 4.837 GHz",
+      "title": "Radeon RX 9060 XT sets new GPU frequency world record of 4.837 GHz — AMD overclocking team pushes mid-range RDNA 4 GPU to the max under liquid nitrogen",
       "url": "https://www.tomshardware.com/pc-components/gpus/radeon-rx-9060-xt-sets-new-gpu-frequency-world-record-of-4-837-ghz-amd-overclocking-team-pushes-mid-range-rdna-4-gpu-to-the-max-under-liquid-nitrogen",
       "source": "Tom’s Hardware",
       "publisher": "Tom’s Hardware",
-      "description": "AMD's Radeon RX 9060 XT has reached a new GPU frequency world record of 4,837 MHz. AMD VP Jack Huynh and veteran overclocker Bill Alverson used liquid nitrogen cooling to help the smaller RDNA 4 GPU open a 48MHz gap over the previous world record run.",
+      "description": "AMD's smaller RDNA 4 GPU gets one step closer to 5 GHz.",
       "published_utc": "2026-11-25T11:30:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -885,11 +885,15 @@
           "url": "https://www.tomshardware.com/pc-components/gpus/radeon-rx-9060-xt-sets-new-gpu-frequency-world-record-of-4-837-ghz-amd-overclocking-team-pushes-mid-range-rdna-4-gpu-to-the-max-under-liquid-nitrogen",
           "source": "Tom’s Hardware",
           "publisher": "Tom’s Hardware",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T11:30:00+00:00",
-          "title": "AMD's Radeon RX 9060 XT sets new GPU frequency world record of 4.837 GHz"
+          "title": "Radeon RX 9060 XT sets new GPU frequency world record of 4.837 GHz — AMD overclocking team pushes mid-range RDNA 4 GPU to the max under liquid nitrogen"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T11:30:00+00:00",
+      "article_modified_raw": "2026-11-25T11:30:00+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "b0cfb7039b11def31afe576b",
@@ -972,16 +976,16 @@
     {
       "id": "c5ebe73c4e912bb11074e4be",
       "topic": "pc",
-      "title": "New CPU benchmark tool promises 40 years of compatibility, with support as far back as i386, Windows 95",
+      "title": "New CPU benchmark tool promises 40 years of compatibility, with support as far back as i386, Windows 95 — CrystalMark CPUix tested on NEC PC-98 21Bs, Pentium 100, and more",
       "url": "https://www.tomshardware.com/pc-components/cpus/new-cpu-benchmark-tool-promises-40-years-of-compatibility-with-support-as-far-back-as-i386-windows-95-crystalmark-cpuix-tested-on-nec-pc-98-21bs-pentium-100-and-more",
       "source": "Tom’s Hardware",
       "publisher": "Tom’s Hardware",
-      "description": "There's a new CPU benchmark on the way designed to span 40 years of personal computer chipmaking from the i386 to the present day.",
+      "description": "Want to directly compare your Duron 900, Pentium G3258, and Core i9-9990XE CPUs? CPUiX is scheduled for release on March 31, 2027.",
       "published_utc": "2026-11-25T10:00:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -989,11 +993,15 @@
           "url": "https://www.tomshardware.com/pc-components/cpus/new-cpu-benchmark-tool-promises-40-years-of-compatibility-with-support-as-far-back-as-i386-windows-95-crystalmark-cpuix-tested-on-nec-pc-98-21bs-pentium-100-and-more",
           "source": "Tom’s Hardware",
           "publisher": "Tom’s Hardware",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T10:00:00+00:00",
-          "title": "New CPU benchmark tool promises 40 years of compatibility, with support as far back as i386, Windows 95"
+          "title": "New CPU benchmark tool promises 40 years of compatibility, with support as far back as i386, Windows 95 — CrystalMark CPUix tested on NEC PC-98 21Bs, Pentium 100, and more"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T10:00:00+00:00",
+      "article_modified_raw": "2026-11-25T10:00:00+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "1bb3ca3654209deb3055cddf",
@@ -1024,16 +1032,16 @@
     {
       "id": "0688a07020ad1679e6c6bbf3",
       "topic": "ai",
-      "title": "Frontier AI employees alarmed that unseen Open AI and Anthropic models are too powerful to release, report claims",
+      "title": "Frontier AI employees alarmed that unseen Open AI and Anthropic models are too powerful to release, report claims — worry spreads that executives are ‘out of touch’ with severity of risks, will choose profit over safety",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/frontier-ai-employees-alarmed-that-unseen-open-ai-and-anthropic-models-are-too-powerful-to-release-report-claims-worry-spreads-that-executives-are-out-of-touch-with-severity-of-risks-will-choose-profit-over-safety",
       "source": "Tom’s Hardware",
       "publisher": "Tom’s Hardware",
-      "description": "Researchers are still looking for ways to contain and control unreleased models, but one source said that these could trick human testers successfully.",
+      "description": "Is this the beginning of Skynet?",
       "published_utc": "2026-11-24T21:00:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "AI候補",
       "sources": [
@@ -1041,11 +1049,15 @@
           "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/frontier-ai-employees-alarmed-that-unseen-open-ai-and-anthropic-models-are-too-powerful-to-release-report-claims-worry-spreads-that-executives-are-out-of-touch-with-severity-of-risks-will-choose-profit-over-safety",
           "source": "Tom’s Hardware",
           "publisher": "Tom’s Hardware",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T21:00:00+00:00",
-          "title": "Frontier AI employees alarmed that unseen Open AI and Anthropic models are too powerful to release, report claims"
+          "title": "Frontier AI employees alarmed that unseen Open AI and Anthropic models are too powerful to release, report claims — worry spreads that executives are ‘out of touch’ with severity of risks, will choose profit over safety"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T21:00:00+00:00",
+      "article_modified_raw": "2026-11-24T21:00:00+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "c266c414b3362426398f75ff",
@@ -1076,16 +1088,16 @@
     {
       "id": "67c60ed34730dd3a04b139a7",
       "topic": "pc",
-      "title": "These are the four cheapest 32GB DDR5 memory kits we’ve found",
+      "title": "These are the four cheapest 32GB DDR5 memory kits we’ve found — save up to $110 on kits available from Patriot, Team Group, and V-Color up to DDR5-6400",
       "url": "https://www.tomshardware.com/pc-components/ram/these-are-the-four-cheapest-32gb-ddr5-memory-kits-weve-found-save-up-to-usd110-on-kits-available-from-patriot-team-group-and-v-color-up-to-ddr5-6400",
       "source": "Tom’s Hardware",
       "publisher": "Tom’s Hardware",
-      "description": "DDR5 prices are still high, but we found four DDR5 kits that are the cheapest options available right now.",
+      "description": "Prices are still high, but these are the cheapest kits we could find.",
       "published_utc": "2026-11-24T19:50:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -1093,11 +1105,15 @@
           "url": "https://www.tomshardware.com/pc-components/ram/these-are-the-four-cheapest-32gb-ddr5-memory-kits-weve-found-save-up-to-usd110-on-kits-available-from-patriot-team-group-and-v-color-up-to-ddr5-6400",
           "source": "Tom’s Hardware",
           "publisher": "Tom’s Hardware",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T19:50:00+00:00",
-          "title": "These are the four cheapest 32GB DDR5 memory kits we’ve found"
+          "title": "These are the four cheapest 32GB DDR5 memory kits we’ve found — save up to $110 on kits available from Patriot, Team Group, and V-Color up to DDR5-6400"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T19:50:00+00:00",
+      "article_modified_raw": "2026-11-24T19:50:00+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "1992efa4c0008ca628b634f3",
@@ -1132,24 +1148,28 @@
       "url": "https://www.tomshardware.com/pc-components/air-cooling/legendary-cooler-master-hyper-212-halo-cpu-air-cooler-drops-to-an-all-time-low-of-usd15-keep-your-amd-or-intel-processor-running-cool-on-the-cheap",
       "source": "Tom’s Hardware",
       "publisher": "Tom’s Hardware",
-      "description": "Cooler Master's Hyper 212 Halo air cooler is on sale for $15, making it one of the most affordable name-brandnd tower-style CPU coolers available right now.",
+      "description": "Some case fans are more expensive than this cooler.",
       "published_utc": "2026-11-24T18:53:17+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "priority",
+      "date_quality": "article_metadata",
+      "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
         {
           "url": "https://www.tomshardware.com/pc-components/air-cooling/legendary-cooler-master-hyper-212-halo-cpu-air-cooler-drops-to-an-all-time-low-of-usd15-keep-your-amd-or-intel-processor-running-cool-on-the-cheap",
           "source": "Tom’s Hardware",
           "publisher": "Tom’s Hardware",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T18:53:17+00:00",
           "title": "Legendary Cooler Master Hyper 212 Halo CPU air cooler drops to an all-time low of $15 — keep your AMD or Intel processor running cool on the cheap"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T18:53:17+00:00",
+      "article_modified_raw": "2026-11-24T18:53:17+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "7e6baccb5b95d9fdff04e941",
@@ -1256,14 +1276,14 @@
       ]
     },
     {
-      "id": "f7d31a698a6bd2a1c47033a3",
+      "id": "252b5abe2c9613a724ec12f4",
       "topic": "pc",
-      "title": "Deep Underground, Intel-Powered Robots Help Make Underground Mining Safer - Intel",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONTNBdng3dnJMX3JTVVV6eW12YTNLMmxMTWVpU29XRUNKQTZRdzlwTG9KMW1YLUVTWlZKRTNqZmdQeGpGYkZrNUExdkFUWDJYalI5Y2hSUk1IUmkxemozN19DZ3YxUUU5RndSak1nUFhzTVJVcnJ5OGR0Q3RObXFsZ1ZEemJjRERGTEFra3BnOXdXaHZCUnh1RHN0cnNuU2xLQ05ncEJsekd2U3BWLXJrOGtGdjhwU0E2NlVOTFhIdVlUeVFQTkozcE13QQ?oc=5",
+      "title": "Congratulations to Intel AI Global Impact Festival Winners - Intel",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcU9wTk1aajNBOW1yRkllankxbGRaQ0ZWbTV3TVhXdDhobXp4ZVVXNUs5aS1Hdl91V0NBdnlXWGxGMGg4VkxOV2NkWm5YbXI4SlBXb3J2TldJSFNnZXlDOWN0Nm1YYmJRUENyLWJkbW9tN2VVTmtfcmFHYV9WdVB5anVvTUdfZHdPaFZSUWdPeEh2a1psX2pYWmlMcGxxcjNJM08tNlIwcUw3V1pxOW1nUGZtREt0WlZrc3ZKT1hn?oc=5",
       "source": "Intel",
       "publisher": "Intel",
-      "description": "Deep Underground, Intel-Powered Robots Help Make Underground Mining Safer Intel",
-      "published_utc": "2026-11-25T11:02:40+00:00",
+      "description": "Congratulations to Intel AI Global Impact Festival Winners Intel",
+      "published_utc": "2026-11-25T14:49:13+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -1272,12 +1292,12 @@
       "triage_reason": "PC技術候補",
       "sources": [
         {
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONTNBdng3dnJMX3JTVVV6eW12YTNLMmxMTWVpU29XRUNKQTZRdzlwTG9KMW1YLUVTWlZKRTNqZmdQeGpGYkZrNUExdkFUWDJYalI5Y2hSUk1IUmkxemozN19DZ3YxUUU5RndSak1nUFhzTVJVcnJ5OGR0Q3RObXFsZ1ZEemJjRERGTEFra3BnOXdXaHZCUnh1RHN0cnNuU2xLQ05ncEJsekd2U3BWLXJrOGtGdjhwU0E2NlVOTFhIdVlUeVFQTkozcE13QQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcU9wTk1aajNBOW1yRkllankxbGRaQ0ZWbTV3TVhXdDhobXp4ZVVXNUs5aS1Hdl91V0NBdnlXWGxGMGg4VkxOV2NkWm5YbXI4SlBXb3J2TldJSFNnZXlDOWN0Nm1YYmJRUENyLWJkbW9tN2VVTmtfcmFHYV9WdVB5anVvTUdfZHdPaFZSUWdPeEh2a1psX2pYWmlMcGxxcjNJM08tNlIwcUw3V1pxOW1nUGZtREt0WlZrc3ZKT1hn?oc=5",
           "source": "Intel",
           "publisher": "Intel",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T11:02:40+00:00",
-          "title": "Deep Underground, Intel-Powered Robots Help Make Underground Mining Safer - Intel"
+          "published_utc": "2026-11-25T14:49:13+00:00",
+          "title": "Congratulations to Intel AI Global Impact Festival Winners - Intel"
         }
       ]
     },
@@ -3250,32 +3270,6 @@
       ]
     },
     {
-      "id": "f4937c4878d0b538ee79b321",
-      "topic": "ai",
-      "title": "Release notes | Claude Help Center - Claude Help Center",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rRlZwOW9YUnZUWTA0ak9DdGZNbURzZDg2aGFHNHhLbjNCWXV1QmxMUUZwdEx2bUhidFhxMEV0RVpKTk5LSHhkVUQyWmNnQnAxYkVYSDBKZGxsdXNGZXo3RXdxSDA3UTgtTEdhc1ln?oc=5",
-      "source": "Claude Help",
-      "publisher": "Claude Help Center",
-      "description": "Release notes | Claude Help Center Claude Help Center",
-      "published_utc": "2026-11-25T11:46:34+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "priority",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rRlZwOW9YUnZUWTA0ak9DdGZNbURzZDg2aGFHNHhLbjNCWXV1QmxMUUZwdEx2bUhidFhxMEV0RVpKTk5LSHhkVUQyWmNnQnAxYkVYSDBKZGxsdXNGZXo3RXdxSDA3UTgtTEdhc1ln?oc=5",
-          "source": "Claude Help",
-          "publisher": "Claude Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T11:46:34+00:00",
-          "title": "Release notes | Claude Help Center - Claude Help Center"
-        }
-      ]
-    },
-    {
       "id": "de0ea9f7416dd898c82d3d95",
       "topic": "ai",
       "title": "How Claude marks AI-generated content | Claude Help Center - Claude Help Center",
@@ -3909,7 +3903,7 @@
       "source": "9to5Google",
       "publisher": "9to5Google",
       "description": "Google is rolling out new privacy settings for the Gemini app that will let you “keep your history while independently controlling generative AI model training.” more…",
-      "published_utc": "2026-11-24T21:11:00+00:00",
+      "published_utc": "2026-11-24T21:11:31+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
@@ -3922,7 +3916,7 @@
           "source": "9to5Google",
           "publisher": "9to5Google",
           "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-24T21:11:00+00:00",
+          "published_utc": "2026-11-24T21:11:31+00:00",
           "title": "New Gemini setting lets you keep chat history, but turn off AI training [U]"
         }
       ],
@@ -4135,7 +4129,9 @@
           "published_utc": "2026-11-24T23:58:47+00:00",
           "title": "9to5Mac Daily: November 24, 2026 – Apple Product(RED) gear is coming soon"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "a02286469ba2b36e02f61c11",
@@ -4249,7 +4245,9 @@
           "published_utc": "2026-11-24T19:53:22+00:00",
           "title": "AirTag 2 has two big improvements that make it worth the upgrade"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "834cc14cb5f76071928480a4",
@@ -4275,7 +4273,9 @@
           "published_utc": "2026-11-24T18:43:54+00:00",
           "title": "Apple Home accessories: Here are my five top picks for your smart home"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "a124ab27cf2d37df7540bacf",
@@ -5548,6 +5548,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "PC技術候補",
+      "possible_event_id": "d5b58dcdcd41",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZldPZEttaWdQZ1dPMWtNbUhRaWM4Tks1OHk4Z1Rqem1ZTkhDb3B4WVZacF9yRkRBUHhGTDMtZUdRa3NCTjB6MEhaTXc1alNLanBhenA1LVZzNGRIMURMZndkSnRmMGh1YTQxSzRJa1gxcW1aRHFoenFmTHRLME1ZY0NUNjlOeUFNUEE?oc=5",
@@ -5790,6 +5791,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T09:57:44+00:00",
           "title": "nvidia cmx - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "bed59c1b47bc6831d8a873cd",
+      "topic": "pc",
+      "title": "SRAM Layout Design Engineer - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zNFp5X0xxR1VsRXJGNEhrUi1UTGpEcFRCZTY2ZzdPa1NDVXI2Y2E5UTRMWTNGUTE1WU04WlBQTzlIVkdlTGZoZXVzTngtTDV5ZDByc2xRWGYzNFI4SDJ0OGI5eVRFOUZCMGxmVTdJYlBmcmc?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "SRAM Layout Design Engineer NVIDIA",
+      "published_utc": "2026-11-25T03:58:03+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zNFp5X0xxR1VsRXJGNEhrUi1UTGpEcFRCZTY2ZzdPa1NDVXI2Y2E5UTRMWTNGUTE1WU04WlBQTzlIVkdlTGZoZXVzTngtTDV5ZDByc2xRWGYzNFI4SDJ0OGI5eVRFOUZCMGxmVTdJYlBmcmc?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T03:58:03+00:00",
+          "title": "SRAM Layout Design Engineer - NVIDIA"
         }
       ]
     },
@@ -8161,6 +8188,32 @@
       ]
     },
     {
+      "id": "8ae4f83c7a6573d58f2f2e9d",
+      "topic": "pc",
+      "title": "Max Out Your Gen 4 Slot: Predator GM7 NVMe SSD (Up to 7400 MB/s)",
+      "url": "https://www.techpowerup.com/354313/max-out-your-gen-4-slot-predator-gm7-nvme-ssd-up-to-7400-mb-s",
+      "source": "TechPowerUp",
+      "publisher": "TechPowerUp",
+      "description": "If you've been waiting for the Black Friday sales to upgrade your rig, expand your PS5 storage, or give your laptop a massive speed boost, the award-winning Predator GM7 PCIe 4.0 SSD is built to deliver top-tier performance without the top-tier heat. Powered by the highly efficient Maxio MAP1602 controller and fast 3D TLC NAND flash, this award-win",
+      "published_utc": "2026-11-25T14:54:43+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://www.techpowerup.com/354313/max-out-your-gen-4-slot-predator-gm7-nvme-ssd-up-to-7400-mb-s",
+          "source": "TechPowerUp",
+          "publisher": "TechPowerUp",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T14:54:43+00:00",
+          "title": "Max Out Your Gen 4 Slot: Predator GM7 NVMe SSD (Up to 7400 MB/s)"
+        }
+      ]
+    },
+    {
       "id": "bb70f4ee3a52e1367eedd9a4",
       "topic": "pc",
       "title": "(PR) Cuts to Chinese CSP Demand Expecting to Slow Memory Industry Revenue Growth in 2027",
@@ -8298,7 +8351,7 @@
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
       "description": "Typing faster is useful, but what if practice could also teach you something? Typing 365 is a free native Windows app that combines structured typing lessons, educational content, and competitive challenges. With over 100,000 installs and nearly 4 million typing races completed worldwide , Typing 365 has grown into more than a speed test. Its Album",
-      "published_utc": "2026-11-25T13:56:14+00:00",
+      "published_utc": "2026-11-25T12:56:55+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
@@ -8311,7 +8364,7 @@
           "source": "TechPowerUp",
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-25T13:56:14+00:00",
+          "published_utc": "2026-11-25T12:56:55+00:00",
           "title": "Typing 365 Turns PC Building, Technology and More into Typing Practice"
         }
       ]
@@ -8349,7 +8402,7 @@
       "url": "https://www.techpowerup.com/355186/amds-jack-huynh-sets-a-new-gpu-clock-speed-record-with-the-radeon-rx-9060-xt",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "AMD's Senior Vice President and General Manager of Computing and Graphics, Jack Huynh, has added another accolade to his already impressive resume. The AMD exec is now a GPU overclocking world record holder, as he broke the GPU clock speed record at the new Micro Center store in Austin, Texas. Huynh teamed up with AMD overclocker Bill \"Sampson\" Alv",
+      "description": "AMD's Senior Vice President and General Manager of Computing and Graphics, Jack Huynh, has added another accolade to his already impressive resume. The AMD exec is now a GPU overclocking world record holder, as he broke the GPU clock speed record at the new Micro Center store in Austin, Texas....",
       "published_utc": "2026-11-24T23:57:51+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
@@ -8366,33 +8419,11 @@
           "published_utc": "2026-11-24T23:57:51+00:00",
           "title": "AMD's Jack Huynh Sets a New GPU Clock Speed Record With the Radeon RX 9060 XT"
         }
-      ]
-    },
-    {
-      "id": "b163b883342c15d54fb4caa1",
-      "topic": "pc",
-      "title": "Revopoint Launches MIRACO 2 on Kickstarter: Scan in One, Create with Agents",
-      "url": "https://www.techpowerup.com/354886/revopoint-launches-miraco-2-on-kickstarter-scan-in-one-create-with-agents",
-      "source": "TechPowerUp",
-      "publisher": "TechPowerUp",
-      "description": "An all-in-one 3D scanner combining high-precision capture, powerful onboard computing, and AI-driven workflows—with Super Early Bird pricing starting at $1,425. The Offer is available from today, November 18 on Kickstarter . Grab the Super Early Bird Offer, with up to 38% off, starting at $1,425 . Back MIRACO 2 on Kickstarter Read full story",
-      "published_utc": "2026-11-25T07:12:37+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
-      "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://www.techpowerup.com/354886/revopoint-launches-miraco-2-on-kickstarter-scan-in-one-create-with-agents",
-          "source": "TechPowerUp",
-          "publisher": "TechPowerUp",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-25T07:12:37+00:00",
-          "title": "Revopoint Launches MIRACO 2 on Kickstarter: Scan in One, Create with Agents"
-        }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "a734a6576c0c891f4a407cdd",
@@ -8453,7 +8484,7 @@
       "url": "https://www.techpowerup.com/355183/maxsun-launches-ms-terminator-z890-c-wifi-motherboard",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "Maxsun has introduced the MS-Terminator Z890-C WIFI, an ATX motherboard for Intel LGA1851 processors. The board measures 305 x 245 mm, has a 10+1+1 phase power delivery system, and an eight-layer PCB. The four DDR5 DIMM slots support up to 256 GB of memory with up to 8,800 MT/s (OC). Expansion options include one PCIe 5.0 x16 slot with support for ",
+      "description": "Maxsun has introduced the MS-Terminator Z890-C WIFI, an ATX motherboard for Intel LGA1851 processors. The board measures 305 x 245 mm, has a 10+1+1 phase power delivery system, and an eight-layer PCB. The four DDR5 DIMM slots support up to 256 GB of memory with up to 8,800 MT/s (OC). Expansion...",
       "published_utc": "2026-11-24T22:53:10+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
@@ -8470,7 +8501,11 @@
           "published_utc": "2026-11-24T22:53:10+00:00",
           "title": "Maxsun Launches MS-Terminator Z890-C WIFI Motherboard"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "49625c683d53df19298666af",
@@ -8557,7 +8592,7 @@
       "url": "https://www.techpowerup.com/355173/ubuntu-26-10-improves-intel-panther-lake-igpu-performance-on-linux",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "There was much excitement when Intel's Panther Lake CPUs launched with the powerful new Arc B390 iGPUs , and although Linux gaming performance was impressive on those systems , it always takes time for mainstream distributions, like Ubuntu, to catch up to bleeding edge hardware. For Ubuntu, it seems as though the 26.10 update has taken a pretty sub",
+      "description": "There was much excitement when Intel's Panther Lake CPUs launched with the powerful new Arc B390 iGPUs, and although Linux gaming performance was impressive on those systems, it always takes time for mainstream distributions, like Ubuntu, to catch up to bleeding edge hardware. For Ubuntu, it...",
       "published_utc": "2026-11-24T18:00:39+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
@@ -8574,7 +8609,11 @@
           "published_utc": "2026-11-24T18:00:39+00:00",
           "title": "Ubuntu 26.10 Improves Intel Panther Lake iGPU Performance on Linux"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "4350dd6c2e39bea099dc1346",
@@ -8687,7 +8726,7 @@
       "url": "https://www.techpowerup.com/355166/nvidia-geforce-621-40-whql-game-ready-drivers-released",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "NVIDIA today released the latest version of its GeForce Game Ready drivers. Version 621.40 WHQL introduces an important fix to a system bug caused by previous versions of GeForce WHQL drivers, which caused the graphics driver to excessively write to the file \"nvlog.nvlstg,\" sometimes at rates as high as 9 MB/s, eating into the finite write enduranc",
+      "description": "NVIDIA today released the latest version of its GeForce Game Ready drivers. Version 621.40 WHQL introduces an important fix to a system bug caused by previous versions of GeForce WHQL drivers, which caused the graphics driver to excessively write to the file \"nvlog.nvlstg,\" sometimes at rates as...",
       "published_utc": "2026-11-24T15:48:15+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
@@ -8704,7 +8743,11 @@
           "published_utc": "2026-11-24T15:48:15+00:00",
           "title": "NVIDIA GeForce 621.40 WHQL Game Ready Drivers Released"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "5f38c8f7b7cc938ec6190ee9",
@@ -8735,16 +8778,16 @@
     {
       "id": "ad6d956f67470eeb7b78b48c",
       "topic": "pc",
-      "title": "Resourceful PC owner repurposes CPU watercooler with dead pump as standalone LCD hardware monitor, vibecodes new software for module",
+      "title": "Resourceful PC owner repurposes CPU watercooler with dead pump as standalone LCD hardware monitor, vibecodes new software for module — NZXT Kraken’s LCD and controller board combined with 3D-printed stand for second chance at life",
       "url": "https://www.tomshardware.com/pc-components/liquid-cooling/resourceful-pc-owner-repurposes-cpu-watercooler-with-dead-pump-as-standalone-lcd-hardware-monitor-vibecodes-new-software-for-module-nzxt-krakens-lcd-and-controller-board-combined-with-3d-printed-stand-for-second-chance-at-life",
       "source": "Tom’s Hardware",
       "publisher": "Tom’s Hardware",
-      "description": "The Redditor salvaged the LCD and controller board, 3D-printed a stand, and used AI to develop a custom software to turn the screen into a standalone PC monitoring display.",
+      "description": "A clever way to save a dead cooler's LCD.",
       "published_utc": "2026-11-25T14:03:51+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -8752,11 +8795,15 @@
           "url": "https://www.tomshardware.com/pc-components/liquid-cooling/resourceful-pc-owner-repurposes-cpu-watercooler-with-dead-pump-as-standalone-lcd-hardware-monitor-vibecodes-new-software-for-module-nzxt-krakens-lcd-and-controller-board-combined-with-3d-printed-stand-for-second-chance-at-life",
           "source": "Tom’s Hardware",
           "publisher": "Tom’s Hardware",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T14:03:51+00:00",
-          "title": "Resourceful PC owner repurposes CPU watercooler with dead pump as standalone LCD hardware monitor, vibecodes new software for module"
+          "title": "Resourceful PC owner repurposes CPU watercooler with dead pump as standalone LCD hardware monitor, vibecodes new software for module — NZXT Kraken’s LCD and controller board combined with 3D-printed stand for second chance at life"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T14:03:51+00:00",
+      "article_modified_raw": "2026-11-25T14:03:51+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "7d226fb75eb7f5b94aa75349",
@@ -9025,16 +9072,16 @@
     {
       "id": "e17422a6bd328f02d820f2f6",
       "topic": "pc",
-      "title": "2,500枚限定生産の高速ガラスマウスパッド「DYSPHORIA R&R」",
+      "title": "2,500枚限定生産の高速ガラスマウスパッド「DYSPHORIA R&amp;R」",
       "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2158385.html",
       "source": "AKIBA PC Hotline",
       "publisher": "AKIBA PC Hotline",
       "description": "DYSPHORIAのガラスゲーミングマウスパッド「R&R」の店頭販売がスタート。世界限定2,500枚という限定生産品で、店頭価格は17,799円。",
       "published_utc": "2026-11-25T04:30:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -9042,11 +9089,15 @@
           "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2158385.html",
           "source": "AKIBA PC Hotline",
           "publisher": "AKIBA PC Hotline",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T04:30:00+00:00",
-          "title": "2,500枚限定生産の高速ガラスマウスパッド「DYSPHORIA R&R」"
+          "title": "2,500枚限定生産の高速ガラスマウスパッド「DYSPHORIA R&amp;R」"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T13:30:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "8b5b29c3724d6b9ca5ead288",
@@ -9058,9 +9109,9 @@
       "description": "片手で使えるミシン「NEKO ミニ電動式ミシン（NK-336）」が、あきばお～八號店に入荷。",
       "published_utc": "2026-11-25T04:05:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -9068,11 +9119,15 @@
           "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2158368.html",
           "source": "AKIBA PC Hotline",
           "publisher": "AKIBA PC Hotline",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T04:05:00+00:00",
           "title": "片手で使える「NEKO ミニ電動式ミシン」が1,500円"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T13:05:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "19b2fc27a787cc23808bf77b",
@@ -9084,9 +9139,9 @@
       "description": "QNAPのNASに対応した10GbE LANカード「QXG-10G1TD」が、オリオスペックに入荷。",
       "published_utc": "2026-11-25T03:05:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -9094,11 +9149,15 @@
           "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2158340.html",
           "source": "AKIBA PC Hotline",
           "publisher": "AKIBA PC Hotline",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T03:05:00+00:00",
           "title": "QNAP NASにも対応した10GbE LANカード「QXG-10G1TD」が入荷"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T12:05:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "03405e402348be9395f73ab3",
@@ -9110,9 +9169,9 @@
       "description": "腕時計風デザインのトイカメラ「スマートウォッチ型TOYカメラ2」が、あきばお～弐號店に入荷。",
       "published_utc": "2026-11-25T01:30:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -9120,11 +9179,15 @@
           "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2158380.html",
           "source": "AKIBA PC Hotline",
           "publisher": "AKIBA PC Hotline",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T01:30:00+00:00",
           "title": "腕時計風デザインのトイカメラ「スマートウォッチ型TOYカメラ2」が800円"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T10:30:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "dc679269af8ca48a3a53413c",
@@ -9136,9 +9199,9 @@
       "description": "75%サイズのゲーミングキーボード「VGN N75 V2」が秋葉原の一部ショップに入荷。ラインアップは、Glacier Proスイッチ搭載の「Pink-Blue gradation」、Dynamic Goldスイッチ搭載の「Orange」と「SeaSalt」で計3種類。",
       "published_utc": "2026-11-25T01:05:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -9146,11 +9209,15 @@
           "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2157952.html",
           "source": "AKIBA PC Hotline",
           "publisher": "AKIBA PC Hotline",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T01:05:00+00:00",
           "title": "有線/無線両対応の75%ゲーミングキーボード「VGN N75 V2」が入荷、計3モデル"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T10:05:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "c4ade9ae882ae55382c4814c",
@@ -9445,7 +9512,7 @@
       "url": "https://hwbusters.com/freestyle/ai-data-center-psu-efficiency-certification",
       "source": "Hardware Busters",
       "publisher": "Hardware Busters",
-      "description": "AI data centers may use about 945 TWh by 2030, yet no law requires independent data center PSU efficiency certification. Here is how to fix that. The post Nobody Has to Certify the PSUs Powering AI Data Centers appeared first on Hardware Busters .",
+      "description": "Data centers, driven by AI, may use about 945 TWh by 2030, yet no law requires independent data center PSU efficiency certification. Here is how to fix that. The post Nobody Has to Certify the PSUs Powering AI Data Centers appeared first on Hardware Busters .",
       "published_utc": "2026-11-25T10:45:01+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
@@ -9676,7 +9743,7 @@
           "publisher": "RTINGS Headphones",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-24T20:29:58+00:00",
-          "title": "Roborock H60 Hub Ultra Vacuum Review"
+          "title": "Roborock H60 Hub Ultra Review"
         }
       ]
     },
@@ -9744,7 +9811,7 @@
           "publisher": "RTINGS Headphones",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-24T19:19:45+00:00",
-          "title": "On Cloudsurfer 3 Running Shoe Review"
+          "title": "On Cloudsurfer 3 Review"
         }
       ]
     },
@@ -9807,7 +9874,7 @@
       "url": "https://www.nichepcgamer.com/archives/post-134254.html",
       "source": "NichePCGamer",
       "publisher": "NichePCGamer",
-      "description": "1スロット仕様のGeForce RTX 5060 Ti 16GBが日本国内で発売されました。 [shudoxxx] INNO3D GeForce RTX 5060 Ti 16GB PRO 発売されたのはINNO3Dの『G […]",
+      "description": "1スロット仕様のGeForce RTX 5060 Ti 16GBが日本国内で発売されました。 INNO3D GeForce RTX 5060 Ti 16GB PRO 発売されたのはINNO3Dの『G...",
       "published_utc": "2026-11-25T12:54:00+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
@@ -9824,7 +9891,11 @@
           "published_utc": "2026-11-25T12:54:00+00:00",
           "title": "1スロット仕様のGeForce RTX 5060 Ti 16GBが国内発売。INNO3Dから『GeForce RTX 5060 Ti PRO Single Slot』"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026/11/25",
+      "article_modified_raw": "2026/11/25",
+      "enrichment": "url_only"
     },
     {
       "id": "001b023ece9ff7cab3e7cef5",
@@ -9833,7 +9904,7 @@
       "url": "https://www.nichepcgamer.com/archives/geforce-driver-621-40.html",
       "source": "NichePCGamer",
       "publisher": "NichePCGamer",
-      "description": "『Warhammer 40,000: Dawn of War IV』『Assetto Corsa Rally』『風燕伝：Where Winds Meet』に最適化したGeForce Game Readyドライバ 621. […]",
+      "description": "『Warhammer 40,000: Dawn of War IV』『Assetto Corsa Rally』『風燕伝：Where Winds Meet』に最適化したGeForce Game Rea...",
       "published_utc": "2026-11-24T15:03:09+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
@@ -9849,6 +9920,66 @@
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-24T15:03:09+00:00",
           "title": "GeForce Game Readyドライバ 621.40 WHQL公開。SSD過剰書き込みの不具合をさらに修正 ［Update 1］"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026/11/25",
+      "article_modified_raw": "2026/11/25",
+      "enrichment": "url_only"
+    },
+    {
+      "id": "6ca1d2cb5abda58bbdfcaa57",
+      "topic": "pc",
+      "title": "Amazon Music Unlimited、3か月分3540円が無料キャンペーン中",
+      "url": "https://www.nichepcgamer.com/archives/post-134081.html",
+      "source": "NichePCGamer",
+      "publisher": "NichePCGamer",
+      "description": "Amazonにて、1億曲以上が聴ける定額制音楽ストリーミングサービス『Amazon Music Unlimited』の長期無料キャンペーンが開催されています。通常、Amazon Music Unlimitedは月額1,1 […]",
+      "published_utc": "2026-11-25T10:52:30+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.nichepcgamer.com/archives/post-134081.html",
+          "source": "NichePCGamer",
+          "publisher": "NichePCGamer",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T10:52:30+00:00",
+          "title": "Amazon Music Unlimited、3か月分3540円が無料キャンペーン中"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026/11/24",
+      "article_modified_raw": "2026/11/24",
+      "enrichment": "url_only"
+    },
+    {
+      "id": "cf3d2803cf1a2cfad345cae7",
+      "topic": "pc",
+      "title": "Audible 3か月分4500円が297円！さらに500円分のアマギフ付き",
+      "url": "https://www.nichepcgamer.com/archives/post-134114.html",
+      "source": "NichePCGamer",
+      "publisher": "NichePCGamer",
+      "description": "Amazonにて、通常月額1,500円のところ、最初の3か月間は月額99円(3か月で297円)で『Audibleプレミアムプラン』を利用できるキャンペーンが開催されています。さらに、本キャンペーンに申し込むと、500円分 […]",
+      "published_utc": "2026-11-24T15:00:27+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.nichepcgamer.com/archives/post-134114.html",
+          "source": "NichePCGamer",
+          "publisher": "NichePCGamer",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-24T15:00:27+00:00",
+          "title": "Audible 3か月分4500円が297円！さらに500円分のアマギフ付き"
         }
       ]
     },
@@ -11003,7 +11134,7 @@
       "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed",
       "source": "TechCrunch",
       "publisher": "TechCrunch",
-      "description": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+      "description": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
       "published_utc": "2026-11-25T13:00:00+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
@@ -11961,16 +12092,16 @@
     {
       "id": "9218e6186a317e1eeefafb2a",
       "topic": "ai",
-      "title": "「Claude」で作ったアプリをMac／Windowsにインストール可能に 全プランでβ提供",
+      "title": "「Claude」で作ったアプリをMac／Windowsにインストール可能に　全プランでβ提供",
       "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003431",
       "source": "ITmedia Mobile",
       "publisher": "ITmedia Mobile",
       "description": "Anthropicは、AIアシスタント「Claude」で作成したアーティファクトをMac／Windows向けのデスクトップアプリとして導入できる「Install as app」を全プラン向けにβ提供すると発表した。専用ウィンドウで動作し、通知やメニューバー表示、許可に応じたファイル操作にも対応する。",
-      "published_utc": "2026-11-25T01:07:00+00:00",
+      "published_utc": "2026-11-25T10:07:59+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "AI候補",
       "sources": [
@@ -11978,11 +12109,15 @@
           "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003431",
           "source": "ITmedia Mobile",
           "publisher": "ITmedia Mobile",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-25T01:07:00+00:00",
-          "title": "「Claude」で作ったアプリをMac／Windowsにインストール可能に 全プランでβ提供"
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-25T10:07:59+00:00",
+          "title": "「Claude」で作ったアプリをMac／Windowsにインストール可能に　全プランでβ提供"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T10:07:59Z",
+      "article_modified_raw": "2026-11-25T10:07:59Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "8ea21910012f3f6ff145dcc1",
@@ -12285,12 +12420,12 @@
       "url": "https://www.gsmarena.com/honor_magic9_lite_breaks_cover_with_9530mah_battery_new_chipset-news-75628.php",
       "source": "GSMArena",
       "publisher": "GSMArena",
-      "description": "The Honor Magic9 Lite+ is not official yet – but it is on sale! Italian retailer MediaWorld is selling the phone at €700 and is offering a €100 discount, a transparent case and a 45W charger. That’s nice and all, but Honor is yet to officially unveil the phone. Well, kind of – the official MagicOS 11 upgrade plan says that the Magic9 Lite+ will get",
+      "description": "It hasn't been officially unveiled yet, but one retailer decided that it couldn't wait any longer. Specs show much improved battery life and faster charging.",
       "published_utc": "2026-11-25T10:44:02+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -12298,11 +12433,15 @@
           "url": "https://www.gsmarena.com/honor_magic9_lite_breaks_cover_with_9530mah_battery_new_chipset-news-75628.php",
           "source": "GSMArena",
           "publisher": "GSMArena",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T10:44:02+00:00",
           "title": "Honor Magic9 Lite+ breaks cover with 9,530mAh battery, new chipset"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T11:44:02+01:00",
+      "article_modified_raw": "2026-11-25T11:44:02+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "bfae7ce46933f983c3bd1bad",
@@ -12519,12 +12658,12 @@
       "url": "https://www.gsmarena.com/iphone_18e_is_reportedly_getting_a_redesigned_camera_island-news-75613.php",
       "source": "GSMArena",
       "publisher": "GSMArena",
-      "description": "Apple launched the iPhone 17e in March, and Bloomberg's Mark Gurman recently said the iPhone 18e should arrive in the February-March time frame. Now, Engadget says it has seen CAD images of the upcoming device, and they show a pretty big design change on its back. The images reportedly come from a source who previously leaked accurate color details",
+      "description": "It's going to look a lot more like its pricier siblings. Apple launched the iPhone 17e in March, and Bloomberg's Mark Gurman recently said the iPhone 18e...",
       "published_utc": "2026-11-24T23:09:03+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "スマートフォンへ分類",
       "sources": [
@@ -12532,11 +12671,15 @@
           "url": "https://www.gsmarena.com/iphone_18e_is_reportedly_getting_a_redesigned_camera_island-news-75613.php",
           "source": "GSMArena",
           "publisher": "GSMArena",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T23:09:03+00:00",
           "title": "iPhone 18e is reportedly getting a redesigned camera island"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T00:09:03+01:00",
+      "article_modified_raw": "2026-11-25T00:09:03+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "1946b3e0426e50e3aec8fce2",
@@ -12597,12 +12740,12 @@
       "url": "https://www.gsmarena.com/samsung_brings_new_health_features_to_the_galaxy_watch8_series_with_one_ui_9_watch_update-news-75617.php",
       "source": "GSMArena",
       "publisher": "GSMArena",
-      "description": "Samsung announced that it started seeding the One UI 9 Watch update to the Galaxy Watch8 series. The new OS update brings new health features, other functionalities and customization options. The One UI 9 Watch OS debuted with this year's Galaxy Watch9 series and the Galaxy Watch Ultra2, introducing new health tracking features. Now, the Galaxy Wat",
+      "description": "The update is already being distributed in some markets. Samsung announced that it started seeding the One UI 9 Watch update to the Galaxy Watch8 series....",
       "published_utc": "2026-11-24T17:49:02+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "スマートフォンへ分類",
       "sources": [
@@ -12610,25 +12753,29 @@
           "url": "https://www.gsmarena.com/samsung_brings_new_health_features_to_the_galaxy_watch8_series_with_one_ui_9_watch_update-news-75617.php",
           "source": "GSMArena",
           "publisher": "GSMArena",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T17:49:02+00:00",
           "title": "Samsung brings new health features to the Galaxy Watch8 series with One UI 9 Watch update"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T18:49:02+01:00",
+      "article_modified_raw": "2026-11-24T18:49:02+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "4dabed8f56ebdef292cba3b5",
       "topic": "smartphones",
-      "title": "Huawei Mate X8 launches with a magnetic controlled flattening hinge system",
+      "title": "Huawei Mate X8 launches with a magnetic controlled flattening hinge system ",
       "url": "https://www.gsmarena.com/huawei_mate_x8_launches_with_a_magnetic_controlled_flattening_hinge_system_-news-75620.php",
       "source": "GSMArena",
       "publisher": "GSMArena",
-      "description": "The Huawei Mate X8 has gone official in China with an innovative hinge technology and several improvements over its predecessor. It also supports the company’s Ruiying Z10 modular camera accessory that has its own 1-inch 50MP sensor. The Huawei Mate X8 features an 8.2-inch LTPO OLED display on the inside with a 1:1 aspect ratio, 8,000 nits peak bri",
+      "description": "It gets an 8.2-inch inner display and is powered by the Kirin 9050 Pro chipset. The Huawei Mate X8 has gone official in China with an innovative hinge...",
       "published_utc": "2026-11-24T16:39:02+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "スマートフォンへ分類",
       "sources": [
@@ -12636,11 +12783,15 @@
           "url": "https://www.gsmarena.com/huawei_mate_x8_launches_with_a_magnetic_controlled_flattening_hinge_system_-news-75620.php",
           "source": "GSMArena",
           "publisher": "GSMArena",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T16:39:02+00:00",
-          "title": "Huawei Mate X8 launches with a magnetic controlled flattening hinge system"
+          "title": "Huawei Mate X8 launches with a magnetic controlled flattening hinge system "
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T17:39:02+01:00",
+      "article_modified_raw": "2026-11-24T17:39:02+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "b9874ae4d638786153b27674",
@@ -14257,11 +14408,11 @@
     {
       "id": "b2433c1a22076d4b382ee75b",
       "topic": "pc",
-      "title": "(PR) Samsung Display Makes Strategic Push into Next-Generation Ultra-Small MicroLED Technology",
+      "title": "Samsung Display Makes Strategic Push into Next-Generation Ultra-Small MicroLED Technology",
       "url": "https://www.techpowerup.com/355202/samsung-display-makes-strategic-push-into-next-generation-ultra-small-microled-technology",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "Samsung Display announced today that it has signed an investment agreement to acquire a 9.1% equity interest in ams OSRAM for approximately EUR 210 million. Under the agreement, Samsung Display will acquire 9,984,439 newly issued shares of ams OSRAM and is expected to become its largest shareholder upon closing. Separately, the two companies have a",
+      "description": "Samsung Display announced today that it has signed an investment agreement to acquire a 9.1% equity interest in ams OSRAM for approximately EUR 210 million. Under the agreement, Samsung Display will acquire 9,984,439 newly issued shares of ams OSRAM and is expected to become its largest...",
       "published_utc": "2026-11-25T14:39:57+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
@@ -14276,9 +14427,13 @@
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T14:39:57+00:00",
-          "title": "(PR) Samsung Display Makes Strategic Push into Next-Generation Ultra-Small MicroLED Technology"
+          "title": "Samsung Display Makes Strategic Push into Next-Generation Ultra-Small MicroLED Technology"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "fdf77ee10a894e7db7e2d138",
@@ -15169,12 +15324,12 @@
       "url": "https://www.gsmarena.com/the_samsung_galaxy_s27_ultra_gets_certified_with_60w_charging-news-75631.php",
       "source": "GSMArena",
       "publisher": "GSMArena",
-      "description": "This year, Samsung launched the Galaxy S26 Ultra, its first smartphone with 60W charging. Actually, its first mobile device if we include tablets but not laptops. This was the first major jump since the S20 Ultra in 2020, which had 45W charging (strangely, the S21 Ultra dipped to 25W, but the S22 Ultra went back up to 45W). The Galaxy S27 Ultra rec",
+      "description": "This is the same rating as the S26 Ultra. The new model will have a bigger battery than the 2026 phone, however. This year, Samsung launched the Galaxy S26...",
       "published_utc": "2026-11-25T14:57:02+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "スマートフォンへ分類",
       "sources": [
@@ -15182,11 +15337,15 @@
           "url": "https://www.gsmarena.com/the_samsung_galaxy_s27_ultra_gets_certified_with_60w_charging-news-75631.php",
           "source": "GSMArena",
           "publisher": "GSMArena",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T14:57:02+00:00",
           "title": "The Samsung Galaxy S27 Ultra gets certified with 60W charging"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T15:57:02+01:00",
+      "article_modified_raw": "2026-11-25T15:57:02+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "644ae53a2e457fd109626ff1",
@@ -15238,7 +15397,9 @@
           "published_utc": "2026-11-25T14:51:05+00:00",
           "title": "(PR) Seoul Semiconductor Enables Beyond-OLED Picture Quality with LCD"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://www.techpowerup.com/355205/seoul-semiconductor-enables-beyond-oled-picture-quality-with-lcd"
     },
     {
       "id": "faa1082ec2ced947e9c4fd3b",
@@ -16072,6 +16233,501 @@
           "title": "Google Messages gets Gemini Tasks integration for delivery updates, price alerts, and more - Android Authority"
         }
       ]
+    },
+    {
+      "id": "0e55b3959650944c0ed97697",
+      "topic": "smartphones",
+      "title": "「AIだけでは変革しない」directが“現場OS”へ L is B横井社長が3社協業の「BIM基盤構想」発表",
+      "url": "https://built.itmedia.co.jp/bt/articles/2611/25/news072.html",
+      "source": "ITmedia Mobile",
+      "publisher": "ITmedia Mobile",
+      "description": "L is Bはユーザーイベント「LUC2026」で新たな事業戦略を発表した。導入1万社を超えた「direct」をAI搭載の「現場OS」へと進化させ、近々提供を予定する「directアシスタント」やグループ3社協業で構築するBIM活用基盤「BIM LENS」の構想をレポート形式で詳報する。",
+      "published_utc": "2026-11-25T14:45:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://built.itmedia.co.jp/bt/articles/2611/25/news072.html",
+          "source": "ITmedia Mobile",
+          "publisher": "ITmedia Mobile",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T14:45:00+00:00",
+          "title": "「AIだけでは変革しない」directが“現場OS”へ L is B横井社長が3社協業の「BIM基盤構想」発表"
+        }
+      ]
+    },
+    {
+      "id": "0390aa698447f609c5ca0b8c",
+      "topic": "ai",
+      "title": "Antigravity CLI vs Pi: Coding Agent Comparison - Artificial Analysis",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbUZtWTVqSnNDNzA5alV2eEtpc0kzR3V1d1VDYXRPVUtud2V2SEpFel85aWY2LXVkUEJ5VlFhWUR6eVJEdzJ0Ql9tWDRjUk5tOWhMTndIRmhpX1VackhrNUc4TGFEUnRzc2RtX0JBWVRzelVJLTFPTnUzdHRLUUtXdEhsTFIyRkJyYnNoMA?oc=5",
+      "source": "Artificial Analysis",
+      "publisher": "Artificial Analysis",
+      "description": "Antigravity CLI vs Pi: Coding Agent Comparison Artificial Analysis",
+      "published_utc": "2026-11-24T22:57:49+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbUZtWTVqSnNDNzA5alV2eEtpc0kzR3V1d1VDYXRPVUtud2V2SEpFel85aWY2LXVkUEJ5VlFhWUR6eVJEdzJ0Ql9tWDRjUk5tOWhMTndIRmhpX1VackhrNUc4TGFEUnRzc2RtX0JBWVRzelVJLTFPTnUzdHRLUUtXdEhsTFIyRkJyYnNoMA?oc=5",
+          "source": "Artificial Analysis",
+          "publisher": "Artificial Analysis",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:57:49+00:00",
+          "title": "Antigravity CLI vs Pi: Coding Agent Comparison - Artificial Analysis"
+        }
+      ]
+    },
+    {
+      "id": "29d154c59caf49df14b5d2e9",
+      "topic": "ai",
+      "title": "Claude Code vs Qwen Code: Coding Agent Comparison - Artificial Analysis",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQXJ2VmRUeVltSzYzTDJ0dFNNczczZzYzN0RpMm91YndFVG9DYXRuUGJxUGhDVzBmcTVlTl9sdWJPSWQ3RnhqMnJvZnQ3QTktOHVkcVA2RWstS3FtLXFsQUZsdjcyQzgta2ZjTElmYlNVQW9pc3RmSVgyb0hHMEdpdzJWY0dtc01nUlVINkVkM3I?oc=5",
+      "source": "Artificial Analysis",
+      "publisher": "Artificial Analysis",
+      "description": "Claude Code vs Qwen Code: Coding Agent Comparison Artificial Analysis",
+      "published_utc": "2026-11-24T22:57:48+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQXJ2VmRUeVltSzYzTDJ0dFNNczczZzYzN0RpMm91YndFVG9DYXRuUGJxUGhDVzBmcTVlTl9sdWJPSWQ3RnhqMnJvZnQ3QTktOHVkcVA2RWstS3FtLXFsQUZsdjcyQzgta2ZjTElmYlNVQW9pc3RmSVgyb0hHMEdpdzJWY0dtc01nUlVINkVkM3I?oc=5",
+          "source": "Artificial Analysis",
+          "publisher": "Artificial Analysis",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:57:48+00:00",
+          "title": "Claude Code vs Qwen Code: Coding Agent Comparison - Artificial Analysis"
+        }
+      ]
+    },
+    {
+      "id": "201f3ac0df929d8dc687336d",
+      "topic": "ai",
+      "title": "Codex vs mini-swe-agent: Coding Agent Comparison - Artificial Analysis",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR0YwZlkzVEF6TGo2MU9lNEk5cUxCS0J4clVqOW9FLUtCQjhTMHY5VFE0OVpWbGpWaGpiT2FPdmZuelR2Q21YMTdlaEVrbGpiTkg3SURoeWoxdkxTSHk3SEtoMVNRZGxfQUp6SDI1SjdpeGphYi1QT1MweHhRdWxPTlZSMWgtWEZqcGpEOEhDVQ?oc=5",
+      "source": "Artificial Analysis",
+      "publisher": "Artificial Analysis",
+      "description": "Codex vs mini-swe-agent: Coding Agent Comparison Artificial Analysis",
+      "published_utc": "2026-11-24T22:57:48+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR0YwZlkzVEF6TGo2MU9lNEk5cUxCS0J4clVqOW9FLUtCQjhTMHY5VFE0OVpWbGpWaGpiT2FPdmZuelR2Q21YMTdlaEVrbGpiTkg3SURoeWoxdkxTSHk3SEtoMVNRZGxfQUp6SDI1SjdpeGphYi1QT1MweHhRdWxPTlZSMWgtWEZqcGpEOEhDVQ?oc=5",
+          "source": "Artificial Analysis",
+          "publisher": "Artificial Analysis",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:57:48+00:00",
+          "title": "Codex vs mini-swe-agent: Coding Agent Comparison - Artificial Analysis"
+        }
+      ]
+    },
+    {
+      "id": "c8dc8bd0150ccd489d7445fe",
+      "topic": "ai",
+      "title": "Offer linked billing in your platform | Claude Help Center - Claude Help Center",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUkFqUEd4VzhDZGVROHQ2VzRxSFZiOEVwemd3T2EwbnZHRFRsNzNkV050QkZ6SU9FSUhHRzJJSTRSYVFGYVFIdl9YMi1rUGdKaUc3LUNncUR0OVRNdmMxYzRzSEE1cUxJOE85QWx3LXd2aEJTSDYtZU93Y2txMHhtcGZBUGY0STM3VGJUTmVB?oc=5",
+      "source": "Claude Help",
+      "publisher": "Claude Help Center",
+      "description": "Offer linked billing in your platform | Claude Help Center Claude Help Center",
+      "published_utc": "2026-11-24T21:43:35+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUkFqUEd4VzhDZGVROHQ2VzRxSFZiOEVwemd3T2EwbnZHRFRsNzNkV050QkZ6SU9FSUhHRzJJSTRSYVFGYVFIdl9YMi1rUGdKaUc3LUNncUR0OVRNdmMxYzRzSEE1cUxJOE85QWx3LXd2aEJTSDYtZU93Y2txMHhtcGZBUGY0STM3VGJUTmVB?oc=5",
+          "source": "Claude Help",
+          "publisher": "Claude Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T21:43:35+00:00",
+          "title": "Offer linked billing in your platform | Claude Help Center - Claude Help Center"
+        }
+      ]
+    },
+    {
+      "id": "712d7935c92dfe84072b71b9",
+      "topic": "ai",
+      "title": "OpenAI CSAM Image Classifier access and data retention - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbE93TUNyazVpU3U0VGNScXdoOTBPVWhxZjFvMFlkR2gwNERfNlJnSWQ1MVpoS2VhRnBOaUEzZFNqRDE1dTV4NEZtOGZsTWlDVEk5NDk4aHhpaUJ6bGkwWFNxbFlsbGNkeDJqMFBTd3NvRVZXUV90YS1lVmtxTUI3ZXk4V0s4bEJuNE1KSF9QTXc0REgwR2ZDSGNCcUlWTldO?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "OpenAI CSAM Image Classifier access and data retention OpenAI Help Center",
+      "published_utc": "2026-11-25T01:14:56+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbE93TUNyazVpU3U0VGNScXdoOTBPVWhxZjFvMFlkR2gwNERfNlJnSWQ1MVpoS2VhRnBOaUEzZFNqRDE1dTV4NEZtOGZsTWlDVEk5NDk4aHhpaUJ6bGkwWFNxbFlsbGNkeDJqMFBTd3NvRVZXUV90YS1lVmtxTUI3ZXk4V0s4bEJuNE1KSF9QTXc0REgwR2ZDSGNCcUlWTldO?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T01:14:56+00:00",
+          "title": "OpenAI CSAM Image Classifier access and data retention - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "2a5a8fa6a8c22c7fa35ea09b",
+      "topic": "pc",
+      "title": "Staff Physical Design Engineer (CPU Cores) in Cork, Ireland | Advanced Micro Devices, Inc - AMD",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uZHdzOF9qRk9lYkJCUXM2VEdINXl4SjBtTE9aSGlUY1oxNHJQQXBLN283QVhGOXppVFJwVDJQRDRsTlpJWHMzMU9rX2Nqd1RaRF9DLWdkVnBJQ0N4XzRjOEVNb2hLUzQ5X0E?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "Staff Physical Design Engineer (CPU Cores) in Cork, Ireland | Advanced Micro Devices, Inc AMD",
+      "published_utc": "2026-11-25T13:07:44+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "possible_event_id": "d5b58dcdcd41",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uZHdzOF9qRk9lYkJCUXM2VEdINXl4SjBtTE9aSGlUY1oxNHJQQXBLN283QVhGOXppVFJwVDJQRDRsTlpJWHMzMU9rX2Nqd1RaRF9DLWdkVnBJQ0N4XzRjOEVNb2hLUzQ5X0E?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T13:07:44+00:00",
+          "title": "Staff Physical Design Engineer (CPU Cores) in Cork, Ireland | Advanced Micro Devices, Inc - AMD"
+        }
+      ]
+    },
+    {
+      "id": "029edb93f2147e2c333374ef",
+      "topic": "pc",
+      "title": "Product Development Engineer Failure analysis (Shift Role) in Singapore, Singapore | Advanced Micro Devices, Inc - AMD",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5seVNrVVY0aEZITjBUYlp5SmU0MDNZLUp2TlNmMzZURU1ndDhVcGlGMmQ0ZzV0M2JCWlZJa2JHSEUwTVFMZlVMSDhoM0JUOWJMeEY2UGJTNk15c1N3c0ViWU8yNWF6SkQyZlcw?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "Product Development Engineer Failure analysis (Shift Role) in Singapore, Singapore | Advanced Micro Devices, Inc AMD",
+      "published_utc": "2026-11-25T07:45:54+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5seVNrVVY0aEZITjBUYlp5SmU0MDNZLUp2TlNmMzZURU1ndDhVcGlGMmQ0ZzV0M2JCWlZJa2JHSEUwTVFMZlVMSDhoM0JUOWJMeEY2UGJTNk15c1N3c0ViWU8yNWF6SkQyZlcw?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T07:45:54+00:00",
+          "title": "Product Development Engineer Failure analysis (Shift Role) in Singapore, Singapore | Advanced Micro Devices, Inc - AMD"
+        }
+      ]
+    },
+    {
+      "id": "d4b8c0fa66a1e653e44df142",
+      "topic": "pc",
+      "title": "All emails within a subfolder are gone. - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUHZTeFktN3VEYktoTXh0Y2lTWFg4WUFVTnRZTVZ3RjdBOXV0c0ZYdnl2LU1sRHZSYXI1SDFQeUlzOHFjU291NmZYVmZvRmg4UTl5bmJpWHcyOXJXMVZvR0t1UVducmZ4RHMtdHdXSjR4SE95b3R5TGY1c2dCWTl2ZnE4dGVzbWNQTWtOd2ZiU1FMTTVfb1J2VGxlWEVqVFU?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "All emails within a subfolder are gone. Microsoft Learn",
+      "published_utc": "2026-11-25T14:14:27+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUHZTeFktN3VEYktoTXh0Y2lTWFg4WUFVTnRZTVZ3RjdBOXV0c0ZYdnl2LU1sRHZSYXI1SDFQeUlzOHFjU291NmZYVmZvRmg4UTl5bmJpWHcyOXJXMVZvR0t1UVducmZ4RHMtdHdXSjR4SE95b3R5TGY1c2dCWTl2ZnE4dGVzbWNQTWtOd2ZiU1FMTTVfb1J2VGxlWEVqVFU?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T14:14:27+00:00",
+          "title": "All emails within a subfolder are gone. - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "f4cfb96680691958e2026893",
+      "topic": "pc",
+      "title": "Active $200 Azure Startup Sponsorship – Unable to Provision Azure Subscription - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcUVnaVowUFhXam5rbnhFb2Nrb2JzX0pyZkVyZ0dURDEtbmkwUUV6cEtIVUtrOTFsWVhTSDN6V0J1NEhWcVBnS2lPM2VfWkExYUVrOFlVZkE1X0N4OGFnVFBTMTE1X2ZjcVF2RzNOR19JcG9US18yYS1jUmgwZzFVLUNNdTlNcW56SDR1YXlVWS1RN1BTdXQ4MDBjaEhnV2xTdXlhdXZIU25MZ0Q0S3lB?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "Active $200 Azure Startup Sponsorship – Unable to Provision Azure Subscription Microsoft Learn",
+      "published_utc": "2026-11-25T14:57:20+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcUVnaVowUFhXam5rbnhFb2Nrb2JzX0pyZkVyZ0dURDEtbmkwUUV6cEtIVUtrOTFsWVhTSDN6V0J1NEhWcVBnS2lPM2VfWkExYUVrOFlVZkE1X0N4OGFnVFBTMTE1X2ZjcVF2RzNOR19JcG9US18yYS1jUmgwZzFVLUNNdTlNcW56SDR1YXlVWS1RN1BTdXQ4MDBjaEhnV2xTdXlhdXZIU25MZ0Q0S3lB?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T14:57:20+00:00",
+          "title": "Active $200 Azure Startup Sponsorship – Unable to Provision Azure Subscription - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "298c62cd198671af217c2c2d",
+      "topic": "pc",
+      "title": "Windows for home/windows 11/wi dows update - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMkE2c3ZKUjFiMU5UTG1RRTEydzBnZUlZRXRQZ2RyWUVzUW9yS0pETXMtUE1qdXg1azNRNVVyMW8yOV8zSW9ZM0dsMkNWYjB1QWVtaFU1Y09Pdjh1eFd5Rm9xUUt0Ty1HTXhLYVpkYTdzdHJhdEE0OERjOThTT1RMaF9oTG1LWkxncUFwVy1pRHdrTV9SV1RjaXBVQ3M5NkdRVlczSg?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "Windows for home/windows 11/wi dows update Microsoft Learn",
+      "published_utc": "2026-11-25T14:57:20+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMkE2c3ZKUjFiMU5UTG1RRTEydzBnZUlZRXRQZ2RyWUVzUW9yS0pETXMtUE1qdXg1azNRNVVyMW8yOV8zSW9ZM0dsMkNWYjB1QWVtaFU1Y09Pdjh1eFd5Rm9xUUt0Ty1HTXhLYVpkYTdzdHJhdEE0OERjOThTT1RMaF9oTG1LWkxncUFwVy1pRHdrTV9SV1RjaXBVQ3M5NkdRVlczSg?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T14:57:20+00:00",
+          "title": "Windows for home/windows 11/wi dows update - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "a7ef5c9a0eb4af73d1f4e088",
+      "topic": "pc",
+      "title": "Microsoft Word Keeps Crashing – Repair Now Error - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeTg4UkI4eURCUV82THMyak5DRzlRRHdWVjNRUXktVTJsWkZTS0VsMFpTZS1NV3U0eGNxUTd0VUtfeHIxNEtUOVQ0elIxWFZHdFpQLUhQU0llRnhRSDljc1JZSDl0VDRtcENpQlkyUFZtdWJodkl4Y2RQMUlyRWhPc2pTbE9Dc3dFLUlsWlAwMkJNSThQMks4b0dRdUM1X19mVkR2SkFvOHlBZw?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "Microsoft Word Keeps Crashing – Repair Now Error Microsoft Learn",
+      "published_utc": "2026-11-25T14:57:20+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeTg4UkI4eURCUV82THMyak5DRzlRRHdWVjNRUXktVTJsWkZTS0VsMFpTZS1NV3U0eGNxUTd0VUtfeHIxNEtUOVQ0elIxWFZHdFpQLUhQU0llRnhRSDljc1JZSDl0VDRtcENpQlkyUFZtdWJodkl4Y2RQMUlyRWhPc2pTbE9Dc3dFLUlsWlAwMkJNSThQMks4b0dRdUM1X19mVkR2SkFvOHlBZw?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T14:57:20+00:00",
+          "title": "Microsoft Word Keeps Crashing – Repair Now Error - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "52b6fc14634a9893e455546e",
+      "topic": "pc",
+      "title": "You deleted Word - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU0pkRV9XcVdqWFh5N1BjZm5faXdpM2UzVmFWOVBrNDNKVUxDbGljYUZtLWRWYWYtRGhGUWdEdjF3emNYTE9DNWtSOV9qZWs5QjZNS1lHZ0VvWks4bEp0eXJsel82MHlhSWMwMWN4VEdJOGhTTk4waXhhY1FTNThfY2JR?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "You deleted Word Microsoft Learn",
+      "published_utc": "2026-11-25T07:12:59+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU0pkRV9XcVdqWFh5N1BjZm5faXdpM2UzVmFWOVBrNDNKVUxDbGljYUZtLWRWYWYtRGhGUWdEdjF3emNYTE9DNWtSOV9qZWs5QjZNS1lHZ0VvWks4bEp0eXJsel82MHlhSWMwMWN4VEdJOGhTTk4waXhhY1FTNThfY2JR?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T07:12:59+00:00",
+          "title": "You deleted Word - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "c6706931f89cd296f3221623",
+      "topic": "pc",
+      "title": "UNAUTHORIZED CHARGES ON MY CREDIT CARD - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQm9tSHoxalVRVmZXR3BQeUZIaFdMOFVDeU5iQVBWTTJFbHA2elRfMjEyVUdJRnZqZlhsZHA5M3QtcUlTb1BfWFhGZjVvSTREbkpoRkhiM3FKU0IzcEpfSGVlMEwyQ2JBQzcwdnBUNFM2bFllZUtYUXVRTnNQbEZNWUI1YTJqa0ZEQmQ5WnQyVy1ndUVmSzBmZFZrNkt0NGM?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "UNAUTHORIZED CHARGES ON MY CREDIT CARD Microsoft Learn",
+      "published_utc": "2026-11-25T14:57:20+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQm9tSHoxalVRVmZXR3BQeUZIaFdMOFVDeU5iQVBWTTJFbHA2elRfMjEyVUdJRnZqZlhsZHA5M3QtcUlTb1BfWFhGZjVvSTREbkpoRkhiM3FKU0IzcEpfSGVlMEwyQ2JBQzcwdnBUNFM2bFllZUtYUXVRTnNQbEZNWUI1YTJqa0ZEQmQ5WnQyVy1ndUVmSzBmZFZrNkt0NGM?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T14:57:20+00:00",
+          "title": "UNAUTHORIZED CHARGES ON MY CREDIT CARD - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "747a9fb6cb5950395b9cb031",
+      "topic": "pc",
+      "title": "daily limit - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tTkppSW81ejZGVWZLSDdpUHlfcE5mZmJ2dXptWFoyeHJ0UFFQZHk4eXNyeUhpYWF1NklxR1d5QUpsdEpTem1EMHlVeHgtaGp5RUk4VWx0aF85bVo3TW1kRk9xNzh5VkhwNHFtZVZhSjBCRk8wbmwzRHhCVQ?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "daily limit Microsoft Learn",
+      "published_utc": "2026-11-25T12:57:06+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tTkppSW81ejZGVWZLSDdpUHlfcE5mZmJ2dXptWFoyeHJ0UFFQZHk4eXNyeUhpYWF1NklxR1d5QUpsdEpTem1EMHlVeHgtaGp5RUk4VWx0aF85bVo3TW1kRk9xNzh5VkhwNHFtZVZhSjBCRk8wbmwzRHhCVQ?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T12:57:06+00:00",
+          "title": "daily limit - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "94f28be8728912d0d9f3f16c",
+      "topic": "pc",
+      "title": "How do i fix Error: Microsoft.Exchange.Data.Directory.ADDriverStoreAccessNonLocalException - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVGhLOFVJbWNSRGxWb2RVbnBqNlphMWp0VVVYWld6T2U3Z1M5MjNVcDVXQzVBYlFweFZxMFBVY1RPTzI2QmxEOG5LdnF0ZTNoZmhObzlDY21mRW5ScC1kRTN6Y21jaThmNzdBeno4Q2RCcnFaa0ZVbTJ5enVtZWYtaFpSWFo1dnM5WEtBNzc2Q3hQcGdTTGhjTnZqY3VROUVGRmx1U3F5THVmQV9DdnBz?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "How do i fix Error: Microsoft.Exchange.Data.Directory.ADDriverStoreAccessNonLocalException Microsoft Learn",
+      "published_utc": "2026-11-25T12:12:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVGhLOFVJbWNSRGxWb2RVbnBqNlphMWp0VVVYWld6T2U3Z1M5MjNVcDVXQzVBYlFweFZxMFBVY1RPTzI2QmxEOG5LdnF0ZTNoZmhObzlDY21mRW5ScC1kRTN6Y21jaThmNzdBeno4Q2RCcnFaa0ZVbTJ5enVtZWYtaFpSWFo1dnM5WEtBNzc2Q3hQcGdTTGhjTnZqY3VROUVGRmx1U3F5THVmQV9DdnBz?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T12:12:00+00:00",
+          "title": "How do i fix Error: Microsoft.Exchange.Data.Directory.ADDriverStoreAccessNonLocalException - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "6e3c496301f82092d62bee90",
+      "topic": "ai",
+      "title": "Kazakhstan also seeks higher oil output capacity estimate ahead of 2027 OPEC+ quota debate, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUmZkWG52MVRvamtENGF3YmViWno3ckhhV1JIeFBzcnVTeG5ueG55S0M1amhYa1c3U1NVUldNV3c3UTRzTG9lcnVsUmJoYzV2ckJsY2c2cmtFdFlLckpLRk91NTdnSEtJQ3lDSVlYNzEwdklnUkFvb1R6dUpZLWV2TnM5d0dldC00NnBCWkZ1RVRjQ0NqMFA2OEp2SThlVlQ5OXZNbDVHN2tLVjFjbmJhSHlPUGZCSXR0aUxLZGQ3RjZIdWlwOElBWmZPUQ?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Kazakhstan also seeks higher oil output capacity estimate ahead of 2027 OPEC+ quota debate, sources say Reuters",
+      "published_utc": "2026-11-25T14:18:48+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUmZkWG52MVRvamtENGF3YmViWno3ckhhV1JIeFBzcnVTeG5ueG55S0M1amhYa1c3U1NVUldNV3c3UTRzTG9lcnVsUmJoYzV2ckJsY2c2cmtFdFlLckpLRk91NTdnSEtJQ3lDSVlYNzEwdklnUkFvb1R6dUpZLWV2TnM5d0dldC00NnBCWkZ1RVRjQ0NqMFA2OEp2SThlVlQ5OXZNbDVHN2tLVjFjbmJhSHlPUGZCSXR0aUxLZGQ3RjZIdWlwOElBWmZPUQ?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T14:18:48+00:00",
+          "title": "Kazakhstan also seeks higher oil output capacity estimate ahead of 2027 OPEC+ quota debate, sources say - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "c6f9174aeaf6cd4ad1151ba1",
+      "topic": "ai",
+      "title": "Buy the stock dip? Options market signals say wait - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0dOWTF0OFdPY3R6M1VaWklxVjlwaGkzcDk3d1U4WXp2Q1dNX3FfYW5qYmMzZG1MbDUtRGg5elI1RUEwZzBVaGVZZnV1LUptczdWQU1teXhlVkN5cWVXNjZneXcxMkxPcEJtbVltV3VjWkVrN2pWTmNhTC1zby1sNWdDbGtCOVEyMEdXemdLNXRydHVv?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Buy the stock dip? Options market signals say wait Reuters",
+      "published_utc": "2026-11-25T10:25:50+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0dOWTF0OFdPY3R6M1VaWklxVjlwaGkzcDk3d1U4WXp2Q1dNX3FfYW5qYmMzZG1MbDUtRGg5elI1RUEwZzBVaGVZZnV1LUptczdWQU1teXhlVkN5cWVXNjZneXcxMkxPcEJtbVltV3VjWkVrN2pWTmNhTC1zby1sNWdDbGtCOVEyMEdXemdLNXRydHVv?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T10:25:50+00:00",
+          "title": "Buy the stock dip? Options market signals say wait - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "95d0668db16c2f132fc34d25",
+      "topic": "ai",
+      "title": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEY3TVFidy1CMzFaVE9HN09yYWVNX25JZ0hKNkhmVmJYMFhNdDQyd2k5TzFHWkhhUjFrbzBiSkIxWkZZREdEZ2Z2b2QwVFhDVEtEYzNuc19LWGd4SkdaMjRuZFVWVjJjMXR0MGwyNWRvOFZCVjdPYUVCaUJzbEpkVmtNWjJQalR2UlVfVVdEUElpZTR1Z0FnVW51alF3SkppOXdWNThkUU84bEgxalNDeTRkaVR5QQ?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says Reuters",
+      "published_utc": "2026-11-24T22:55:43+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEY3TVFidy1CMzFaVE9HN09yYWVNX25JZ0hKNkhmVmJYMFhNdDQyd2k5TzFHWkhhUjFrbzBiSkIxWkZZREdEZ2Z2b2QwVFhDVEtEYzNuc19LWGd4SkdaMjRuZFVWVjJjMXR0MGwyNWRvOFZCVjdPYUVCaUJzbEpkVmtNWjJQalR2UlVfVVdEUElpZTR1Z0FnVW51alF3SkppOXdWNThkUU84bEgxalNDeTRkaVR5QQ?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:55:43+00:00",
+          "title": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says - Reuters"
+        }
+      ]
     }
   ],
   "date_unknown": [
@@ -16154,14 +16810,40 @@
           "title": "ChatGPT/Codex usage limits：ページ変更を観測（要差分確認）"
         }
       ]
+    },
+    {
+      "id": "b62740a2bdf00d18cd854ed2",
+      "topic": "ai",
+      "title": "Model Release Notes：ページ変更を観測（要差分確認）",
+      "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help",
+      "description": "前回観測 2026-11-25T19:12:35+00:00 → 今回観測 2026-11-25T21:21:12+00:00。変更内容・発生日は未確定。",
+      "published_utc": null,
+      "date_jst": null,
+      "timestamp_basis": "page_change_observed",
+      "link_role": "monitor_page",
+      "date_quality": "observed_change",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "d4e216700c35",
+      "sources": [
+        {
+          "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help",
+          "timestamp_basis": "page_change_observed",
+          "published_utc": null,
+          "title": "Model Release Notes：ページ変更を観測（要差分確認）"
+        }
+      ]
     }
   ],
   "health": {
-    "ok": 19,
-    "deferred": 3,
-    "partial": 4,
+    "ok": 32,
+    "partial": 6,
     "empty": 2,
-    "skipped": 15,
+    "deferred": 3,
     "manual": 3
   }
 }

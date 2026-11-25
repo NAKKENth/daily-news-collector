@@ -1455,6 +1455,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "8d00d2e3c372",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVVFOV0dDSlhCdVFocS14MWxLTGRTdHh6d1k1cEptV1lUSG5DaVMxczI2VW5PZm1RMzhrUk52N2FtcDVPUnhNY0R3MnVlcER5dkowcmpYVnJIZ2NxRmp5eEFpUjMtdS1sWDZCYVhHeG11OVlRUHZMdlo2QWJnWl9UQ2JZQmRuTjVFazNB?oc=5",
@@ -1801,6 +1802,449 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T08:00:00+00:00",
           "title": "Might and Magic The Card Game - Steam"
+        }
+      ]
+    },
+    {
+      "id": "ff2b2945ad002f0be392aa82",
+      "topic": "racing_games",
+      "title": "Game Over App Simracing 1.0.9 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpR1p3TllWZWNhTGZtVXFOUjNla3VHVHpDOUR2Uk5yRG1xRGgtMHlycFg1VDltOXNtZWlJN0VZUmtyU2VVeGMyamhsYmVEZnJReV9mVDZpZi0zQm1hTGVPN1FjUHVQSTRBcExxMWVfd1ZWQQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Game Over App Simracing 1.0.9 overtake.gg",
+      "published_utc": "2026-11-22T17:21:42+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpR1p3TllWZWNhTGZtVXFOUjNla3VHVHpDOUR2Uk5yRG1xRGgtMHlycFg1VDltOXNtZWlJN0VZUmtyU2VVeGMyamhsYmVEZnJReV9mVDZpZi0zQm1hTGVPN1FjUHVQSTRBcExxMWVfd1ZWQQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T17:21:42+00:00",
+          "title": "Game Over App Simracing 1.0.9 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "f1947e04319404d610cba9cf",
+      "topic": "racing_games",
+      "title": "Setup Assistant 1.28.1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnUF8wS0ZJT2s2SzBEZUlueHZuSnl1WG44YVNvMUFRLVZaQ2hOY3VKWEw3VWN5ZWxDWkhYQ1ZBSGdZSVRIX1FVenowbm9LQlliazBqblFpbncySXhVM1owN3dlWUw1WUE?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Setup Assistant 1.28.1 overtake.gg",
+      "published_utc": "2026-11-23T11:16:30+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnUF8wS0ZJT2s2SzBEZUlueHZuSnl1WG44YVNvMUFRLVZaQ2hOY3VKWEw3VWN5ZWxDWkhYQ1ZBSGdZSVRIX1FVenowbm9LQlliazBqblFpbncySXhVM1owN3dlWUw1WUE?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T11:16:30+00:00",
+          "title": "Setup Assistant 1.28.1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "484889b819a754d6e7092618",
+      "topic": "racing_games",
+      "title": "PitStop Manager 1.0.9 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xcHEzT01zd3RwQnczeU0zT1pUQ3lLMWRqNGlMYkFJdW0zcmVKMXZZZTFNTkc2Wmx5WC1PRE1NeDQ5b2NwNW9qRF9HTXlHUklvVFB0cUk2cTc5Mk5UbVRYTnVTZmlHbEk?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "PitStop Manager 1.0.9 overtake.gg",
+      "published_utc": "2026-11-23T08:47:11+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xcHEzT01zd3RwQnczeU0zT1pUQ3lLMWRqNGlMYkFJdW0zcmVKMXZZZTFNTkc2Wmx5WC1PRE1NeDQ5b2NwNW9qRF9HTXlHUklvVFB0cUk2cTc5Mk5UbVRYTnVTZmlHbEk?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T08:47:11+00:00",
+          "title": "PitStop Manager 1.0.9 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "db13e21527cf0ab31bafca4c",
+      "topic": "racing_games",
+      "title": "How is the Car Handling in GTA 6? - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLbEJLdmZmQ1djUW44dkd0dXVWU2FMSmhKZTc0V01CUVkwT3Fua0tyaFA1dEZPbUpacDB5ZElsZUdmNzRrSm5iVGFibXdkcVNZdW9qTWxhZVE?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "How is the Car Handling in GTA 6? overtake.gg",
+      "published_utc": "2026-11-22T18:00:01+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "8d00d2e3c372",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLbEJLdmZmQ1djUW44dkd0dXVWU2FMSmhKZTc0V01CUVkwT3Fua0tyaFA1dEZPbUpacDB5ZElsZUdmNzRrSm5iVGFibXdkcVNZdW9qTWxhZVE?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T18:00:01+00:00",
+          "title": "How is the Car Handling in GTA 6? - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "584243d319f9681209a97e13",
+      "topic": "racing_games",
+      "title": "Immersive Pitstops - Updates - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91b0xGN2U2cUwxWXp1MTMtYVVsb3FTM2J2MUk4ZlBpbXk4Z3Y0N1czbUt4TXRaaldocC1zNUgtMDd0bnljWXR2UVRRNW40MVpRa20zaU9tb1hKS3FhbmpnS3d6b25ZRXVLZV9uY0l6cUdmaWQ1?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Immersive Pitstops - Updates overtake.gg",
+      "published_utc": "2026-11-23T14:19:10+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91b0xGN2U2cUwxWXp1MTMtYVVsb3FTM2J2MUk4ZlBpbXk4Z3Y0N1czbUt4TXRaaldocC1zNUgtMDd0bnljWXR2UVRRNW40MVpRa20zaU9tb1hKS3FhbmpnS3d6b25ZRXVLZV9uY0l6cUdmaWQ1?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T14:19:10+00:00",
+          "title": "Immersive Pitstops - Updates - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "4b0bf09f3865195c734d26c8",
+      "topic": "racing_games",
+      "title": "Auburn 851 Supercharged Speedster 1935 1.2 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMWlvdjlnUmFmdXgxMF9veFR1dEZBMl9LaEY3clRwZ3huX1RhRV9mMExFbXlYeDlOM3dUak9uVk1uMl9McWpBVGxnaDN3SlBEXzdEaHl3TGh0YTNFcUtxZ0swR2NtbFYyNW4tdHVELXdWQzFFREtHRjBHR1ZnOGdkLU01RTRydw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Auburn 851 Supercharged Speedster 1935 1.2 overtake.gg",
+      "published_utc": "2026-11-23T05:09:18+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMWlvdjlnUmFmdXgxMF9veFR1dEZBMl9LaEY3clRwZ3huX1RhRV9mMExFbXlYeDlOM3dUak9uVk1uMl9McWpBVGxnaDN3SlBEXzdEaHl3TGh0YTNFcUtxZ0swR2NtbFYyNW4tdHVELXdWQzFFREtHRjBHR1ZnOGdkLU01RTRydw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T05:09:18+00:00",
+          "title": "Auburn 851 Supercharged Speedster 1935 1.2 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "d617d9ea0c5cf1642c716c8e",
+      "topic": "racing_games",
+      "title": "Risan Rally Stage Timer – Assetto Corsa Rally SimHub Dashboard - Updates - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOHZ0N2EyWUVtczVBbTV0QmU1anFGZlZmbklBX0RBYlJWblZrOHJOLXlia3RyTTNURm8zdlFvdnJmWVF5dnk1encwd0dMcGc0ekVQMkYzaUhDOV93RDJPUVBIMHlITENTM21TMGRTdTE5cWpnWndibG5aV2JEbEoxYk41Sl8wZjRIZ1A2dm1NWnVoVTNPOFBOc1FJVnJvckdEUWpzajBKNW9lak5uVzVnMHpYMG9wV1YzTUE?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Risan Rally Stage Timer – Assetto Corsa Rally SimHub Dashboard - Updates overtake.gg",
+      "published_utc": "2026-11-22T17:46:35+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOHZ0N2EyWUVtczVBbTV0QmU1anFGZlZmbklBX0RBYlJWblZrOHJOLXlia3RyTTNURm8zdlFvdnJmWVF5dnk1encwd0dMcGc0ekVQMkYzaUhDOV93RDJPUVBIMHlITENTM21TMGRTdTE5cWpnWndibG5aV2JEbEoxYk41Sl8wZjRIZ1A2dm1NWnVoVTNPOFBOc1FJVnJvckdEUWpzajBKNW9lak5uVzVnMHpYMG9wV1YzTUE?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T17:46:35+00:00",
+          "title": "Risan Rally Stage Timer – Assetto Corsa Rally SimHub Dashboard - Updates - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "6586689c2ee504095e33b9fe",
+      "topic": "racing_games",
+      "title": "Has Automobilista 2's Biggest Problem Been FIXED? - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaW9XWG4tUnc3VXJkYzhXNmVpbzZlLVFwa0V6aXhBWnR2bGRaQUVidEdVbGRjTXhrbjlkZmIzNmU2Y3cwTlBLTUdYZVEwWnpCU1d2YWtsbzNrSnhfZ2l1X3BabUFqYTNVY2k0SWdDSG94MTNHd3lETEl0cjA1VlFvWERpSHZVMWhjamt3?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Has Automobilista 2's Biggest Problem Been FIXED? overtake.gg",
+      "published_utc": "2026-11-23T08:35:32+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaW9XWG4tUnc3VXJkYzhXNmVpbzZlLVFwa0V6aXhBWnR2bGRaQUVidEdVbGRjTXhrbjlkZmIzNmU2Y3cwTlBLTUdYZVEwWnpCU1d2YWtsbzNrSnhfZ2l1X3BabUFqYTNVY2k0SWdDSG94MTNHd3lETEl0cjA1VlFvWERpSHZVMWhjamt3?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T08:35:32+00:00",
+          "title": "Has Automobilista 2's Biggest Problem Been FIXED? - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "04597f8ec5fdc1323d637ca8",
+      "topic": "racing_games",
+      "title": "Game Over iRacing 2.0.3 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03cnJoZkM2RXFpSl9jTzlqUkRuOXhqb0NzOXNyUF82NmhKc1BsZm9aSTl2Y3pXODN6bWZzUlE2NlU3cmFLcW1Db1VtZ0loNVZrNVRpTTFlUFVMdy1BaVBTd01TRnowTWd3NkE?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Game Over iRacing 2.0.3 overtake.gg",
+      "published_utc": "2026-11-22T17:12:02+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03cnJoZkM2RXFpSl9jTzlqUkRuOXhqb0NzOXNyUF82NmhKc1BsZm9aSTl2Y3pXODN6bWZzUlE2NlU3cmFLcW1Db1VtZ0loNVZrNVRpTTFlUFVMdy1BaVBTd01TRnowTWd3NkE?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T17:12:02+00:00",
+          "title": "Game Over iRacing 2.0.3 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "ec23a00da34a3066de898d80",
+      "topic": "racing_games",
+      "title": "ReplayCamSuite — Advanced Replay Camera Editor for Assetto Corsa Rally 5.0 (beta) - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUWtyOUl3Wkh3ZUtCZWdSSnlPb3F6NjF1dGh1NTVUOUo4RjJBYmt1NzNwYmpHb21sRDgtZktKeVdSbmh3U1AwWWthbVgtZFRQOWI1MzVPQjhZMDRIOVNhUElOTHlyX2tkUGhvT0VZRUhMaTBGaV9Td3pSZzgxbVBGQVZ3LUR3d1cwbWlBQlhiSEppbmMtZk1qUlE0c3Nfdk5NLU5CdnJSYnhBWTY3dEZZWHdvOXVWMm9kcy1j?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "ReplayCamSuite — Advanced Replay Camera Editor for Assetto Corsa Rally 5.0 (beta) overtake.gg",
+      "published_utc": "2026-11-22T20:59:59+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUWtyOUl3Wkh3ZUtCZWdSSnlPb3F6NjF1dGh1NTVUOUo4RjJBYmt1NzNwYmpHb21sRDgtZktKeVdSbmh3U1AwWWthbVgtZFRQOWI1MzVPQjhZMDRIOVNhUElOTHlyX2tkUGhvT0VZRUhMaTBGaV9Td3pSZzgxbVBGQVZ3LUR3d1cwbWlBQlhiSEppbmMtZk1qUlE0c3Nfdk5NLU5CdnJSYnhBWTY3dEZZWHdvOXVWMm9kcy1j?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T20:59:59+00:00",
+          "title": "ReplayCamSuite — Advanced Replay Camera Editor for Assetto Corsa Rally 5.0 (beta) - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "28aebdcc555638c8e67eed1d",
+      "topic": "racing_games",
+      "title": "Danube River GP Circuit 0.1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QUzh1U0ZZWV9TS1A1R2JJZHdWZWUyb1ZlY3VDSmFNTmNXVEZ0YWg1czZjSzZUdV8tcV9oTG5CdEZJbHFSMkJwN2Z4ZnBuZUFWdjJjeUhvTGVOTF9PWmppMDZ1R2VRUXU1SzB4bE12Q05iUQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Danube River GP Circuit 0.1 overtake.gg",
+      "published_utc": "2026-11-22T23:31:06+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QUzh1U0ZZWV9TS1A1R2JJZHdWZWUyb1ZlY3VDSmFNTmNXVEZ0YWg1czZjSzZUdV8tcV9oTG5CdEZJbHFSMkJwN2Z4ZnBuZUFWdjJjeUhvTGVOTF9PWmppMDZ1R2VRUXU1SzB4bE12Q05iUQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T23:31:06+00:00",
+          "title": "Danube River GP Circuit 0.1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "cf3f24839f0a80721eba9002",
+      "topic": "racing_games",
+      "title": "2026-27 Formula E Season Grid Preset | RSS FIA Formula E GEN4 v1.0 Preseason - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbHhWbkQwYXI5aVFCbm4weDRyRlZjSU9ZWjB4QmVZOUY5UmZlcmJnYlFMbWI2RWNGMWU4dWl2SFA4SW1aRWk0c0trTWVQWUtsNm1IVW9oOE1YTUNNWXhQbTZmV2xFWXRsX0JyZDdnVmlXbEVjSE5Nc0gzZk92NVhZLWtWWi1OX0tDVzlVenRmYUFaU0VKX2JlbktEdTEtNnRqVGc?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "2026-27 Formula E Season Grid Preset | RSS FIA Formula E GEN4 v1.0 Preseason overtake.gg",
+      "published_utc": "2026-11-23T04:41:06+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbHhWbkQwYXI5aVFCbm4weDRyRlZjSU9ZWjB4QmVZOUY5UmZlcmJnYlFMbWI2RWNGMWU4dWl2SFA4SW1aRWk0c0trTWVQWUtsNm1IVW9oOE1YTUNNWXhQbTZmV2xFWXRsX0JyZDdnVmlXbEVjSE5Nc0gzZk92NVhZLWtWWi1OX0tDVzlVenRmYUFaU0VKX2JlbktEdTEtNnRqVGc?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T04:41:06+00:00",
+          "title": "2026-27 Formula E Season Grid Preset | RSS FIA Formula E GEN4 v1.0 Preseason - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "a9685a3db794c4040ae184e4",
+      "topic": "racing_games",
+      "title": "HEINEKEN | LAS VEGAS GRAND PRIX 2026 2.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN2hfX1Iyd2M4TUdSTnR4WUYwdWs1aXkwc1FFWDNxWnZUNGtELVo5YXlkUFhxX1VyeE95Y25jdGVkTDRQVTdyVE0wa2lJaExCTzcxUlhoOS1rMDlfendJWnZyVERJT2txSXd3Nlhpd3ZGTWRwS05kWFZWUHVYZEhWSQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "HEINEKEN | LAS VEGAS GRAND PRIX 2026 2.0 overtake.gg",
+      "published_utc": "2026-11-23T14:38:49+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN2hfX1Iyd2M4TUdSTnR4WUYwdWs1aXkwc1FFWDNxWnZUNGtELVo5YXlkUFhxX1VyeE95Y25jdGVkTDRQVTdyVE0wa2lJaExCTzcxUlhoOS1rMDlfendJWnZyVERJT2txSXd3Nlhpd3ZGTWRwS05kWFZWUHVYZEhWSQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T14:38:49+00:00",
+          "title": "HEINEKEN | LAS VEGAS GRAND PRIX 2026 2.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "631c0406486b29d0aec9bcd6",
+      "topic": "racing_games",
+      "title": "Misc - GTR2 Hxk7 FreeCam - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HbmJfOEV6UDJVcDdqMkVMRnpOTl9nR1Q4dUllQVhvUEdLU0NYNGV0NWFvTG56NXFadXZIbWxiRHFxeXB4MExKYk9uOHlUdnk4QTRlS3JIM1N5OVZ2M3dxU3ZBUlZKXzRR?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Misc - GTR2 Hxk7 FreeCam overtake.gg",
+      "published_utc": "2026-11-23T12:53:41+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HbmJfOEV6UDJVcDdqMkVMRnpOTl9nR1Q4dUllQVhvUEdLU0NYNGV0NWFvTG56NXFadXZIbWxiRHFxeXB4MExKYk9uOHlUdnk4QTRlS3JIM1N5OVZ2M3dxU3ZBUlZKXzRR?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T12:53:41+00:00",
+          "title": "Misc - GTR2 Hxk7 FreeCam - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "c8fb09598c1431b6612b40e0",
+      "topic": "racing_games",
+      "title": "SMART GRID - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nWFBfXzdibDlrYjBqSU9Wc1lYT0w0WnR3U3JlYlZDa29kV3llbWl0NXc3YkFVT1BoSFB4OHpOZFUtbnp4M19ZTDNpYk9Xb0tiY0dSdEF0dk1RRlBxODVCVg?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "SMART GRID overtake.gg",
+      "published_utc": "2026-11-22T20:11:37+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nWFBfXzdibDlrYjBqSU9Wc1lYT0w0WnR3U3JlYlZDa29kV3llbWl0NXc3YkFVT1BoSFB4OHpOZFUtbnp4M19ZTDNpYk9Xb0tiY0dSdEF0dk1RRlBxODVCVg?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T20:11:37+00:00",
+          "title": "SMART GRID - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "ea3c6d3bae98a0329f401fb6",
+      "topic": "racing_games",
+      "title": "attack assist (when your racing line assist is blocked) 3.2.8 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeGVTTk5oVGpPSDV5M2llUkhIOTIwczNTTU9LQ3JMZDRObnRYQUJ3U3pTNHktRVczODZEZVNyWUJqSVpHUXpNWXlnUkszeElEVm9LYTN6MENrWW0yNC1kTU94TXFRTkEtQ3UyeTl2WU52U3dZdXRjZTU0T3I5VmtmQUIyamc0VlczNHd5SlotTWhoQkgwbFRNQUhB?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "attack assist (when your racing line assist is blocked) 3.2.8 overtake.gg",
+      "published_utc": "2026-11-23T13:32:02+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeGVTTk5oVGpPSDV5M2llUkhIOTIwczNTTU9LQ3JMZDRObnRYQUJ3U3pTNHktRVczODZEZVNyWUJqSVpHUXpNWXlnUkszeElEVm9LYTN6MENrWW0yNC1kTU94TXFRTkEtQ3UyeTl2WU52U3dZdXRjZTU0T3I5VmtmQUIyamc0VlczNHd5SlotTWhoQkgwbFRNQUhB?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T13:32:02+00:00",
+          "title": "attack assist (when your racing line assist is blocked) 3.2.8 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "dc1a28f18dcb20beab0c1829",
+      "topic": "racing_games",
+      "title": "Game Over Assetto Corsa EVO - Updates - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMzJVYzJMQmkybG5nSzg1M0VCYTBwWXBER3htQjAxMURSN2VSSzdIWXFPZFVQUHRLTEhmZjhmTTUwM0tSMXBVcHprQy1EclpuNzcwYU1sd1A5WlRpMG9lZi1LZGp6MmlWX0J5ZmkxMkVBV3BjbkQya3VyOV9rYVRfNw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Game Over Assetto Corsa EVO - Updates overtake.gg",
+      "published_utc": "2026-11-22T17:10:37+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMzJVYzJMQmkybG5nSzg1M0VCYTBwWXBER3htQjAxMURSN2VSSzdIWXFPZFVQUHRLTEhmZjhmTTUwM0tSMXBVcHprQy1EclpuNzcwYU1sd1A5WlRpMG9lZi1LZGp6MmlWX0J5ZmkxMkVBV3BjbkQya3VyOV9rYVRfNw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T17:10:37+00:00",
+          "title": "Game Over Assetto Corsa EVO - Updates - overtake.gg"
         }
       ]
     }

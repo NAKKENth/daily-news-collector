@@ -8,16 +8,16 @@
     {
       "id": "5138060d89fc47d87d831fe4",
       "topic": "wired",
-      "title": "【本日みつけたお買い得品】オーテクのノイキャン搭載イヤフォンが3,800円引きで販売中",
+      "title": "オーテクのノイキャン搭載イヤフォンが3,800円引きで販売中",
       "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2158989.html",
       "source": "PC Watch",
       "publisher": "PC Watch",
       "description": "Amazonにおいて、オーディオテクニカのアクティブノイズキャンセリング機能を備えるワイヤレスイヤフォン「ATH-TWX9MK3 BK (E)」が、直近価格から3,800円引きとなる3万8,000円で販売されている。",
       "published_utc": "2026-11-25T02:20:09+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "オーディオへ再分類",
       "sources": [
@@ -25,11 +25,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2158989.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T02:20:09+00:00",
-          "title": "【本日みつけたお買い得品】オーテクのノイキャン搭載イヤフォンが3,800円引きで販売中"
+          "title": "オーテクのノイキャン搭載イヤフォンが3,800円引きで販売中"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T11:20:09+09:00",
+      "article_modified_raw": "2026-11-25T11:20:09+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "c261951c396f797d00310a2b",
@@ -82,6 +86,7 @@
       "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "対象オーディオ候補",
+      "possible_event_id": "4b819c4b7ffb",
       "sources": [
         {
           "url": "https://headfonics.com/hedd-audio-heddphone-dx-review",
@@ -620,16 +625,16 @@
     {
       "id": "50fd73378f3adb4ed9cc0ddd",
       "topic": "wired",
-      "title": "e☆イヤホン仙台駅前店、'27年1月末で営業終了",
+      "title": "e☆イヤホン仙台駅前店、&#039;27年1月末で営業終了",
       "url": "https://av.watch.impress.co.jp/docs/news/2159179.html",
       "source": "AV Watch Audio",
       "publisher": "AV Watch Audio",
       "description": "イヤフォン・ヘッドフォン専門店のe☆イヤホンは、「仙台駅前EBeanS」内で営業している仙台駅前店について、賃貸借契約満了に伴い、2027年1月31日で営業を終了する。",
       "published_utc": "2026-11-25T07:36:35+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "対象オーディオ候補",
       "sources": [
@@ -637,11 +642,15 @@
           "url": "https://av.watch.impress.co.jp/docs/news/2159179.html",
           "source": "AV Watch Audio",
           "publisher": "AV Watch Audio",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T07:36:35+00:00",
-          "title": "e☆イヤホン仙台駅前店、'27年1月末で営業終了"
+          "title": "e☆イヤホン仙台駅前店、&#039;27年1月末で営業終了"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T16:36:35+09:00",
+      "article_modified_raw": "2026-11-25T16:36:36+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "ec75a60a433d24c655c50b70",
@@ -653,9 +662,9 @@
       "description": "ヒビノエレクトリは、HEGELのフルアナログ構成インテグレーテッドアンプ「A200」を、11月20日に発売した。価格は693,000円、カラーはブラック。",
       "published_utc": "2026-11-25T06:00:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -663,11 +672,15 @@
           "url": "https://av.watch.impress.co.jp/docs/news/2159000.html",
           "source": "AV Watch Audio",
           "publisher": "AV Watch Audio",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T06:00:00+00:00",
           "title": "HEGEL、「純粋な伝送経路を大切にするオーディオファンのために設計」したフルアナログアンプ"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T15:00:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "c69bbae41f29d513b9da1fb5",
@@ -1090,58 +1103,6 @@
       ]
     },
     {
-      "id": "5db7f7e63c8a769351e8470d",
-      "topic": "tws",
-      "title": "Automotive blueprint - Bluetooth - Bluetooth® Technology Website",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KM3Q0SWZ6QXhEek83QldOdGF3Y3JTNy1Fc3RIaUJtRlE4VXM2WndXZk1vOXlucF9rcEpRTTRPajJvNWgyNzBFX1V2SFZ3WkdnTjExM1V3eXZXcTBHdkJkSVQ1c2o?oc=5",
-      "source": "Bluetooth SIG",
-      "publisher": "Bluetooth® Technology Website",
-      "description": "Automotive blueprint - Bluetooth Bluetooth® Technology Website",
-      "published_utc": "2026-11-24T19:24:29+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KM3Q0SWZ6QXhEek83QldOdGF3Y3JTNy1Fc3RIaUJtRlE4VXM2WndXZk1vOXlucF9rcEpRTTRPajJvNWgyNzBFX1V2SFZ3WkdnTjExM1V3eXZXcTBHdkJkSVQ1c2o?oc=5",
-          "source": "Bluetooth SIG",
-          "publisher": "Bluetooth® Technology Website",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T19:24:29+00:00",
-          "title": "Automotive blueprint - Bluetooth - Bluetooth® Technology Website"
-        }
-      ]
-    },
-    {
-      "id": "344cfbb9203b18829db4c472",
-      "topic": "tws",
-      "title": "Working Group events calendar - Bluetooth - Bluetooth® Technology Website",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SN0RYR094UXNOMTdLTDhDWWVadUotZEU1UnltNkxKQUdrRFdRQ09XT1ZVaDZuVFB6Vi1vQW1DZ2I1bG1NYmFWaU9rSkRuSkZ0UGQ5eXlmNFVUWnowdjRrOUhHa0pWc2s?oc=5",
-      "source": "Bluetooth SIG",
-      "publisher": "Bluetooth® Technology Website",
-      "description": "Working Group events calendar - Bluetooth Bluetooth® Technology Website",
-      "published_utc": "2026-11-24T19:23:34+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SN0RYR094UXNOMTdLTDhDWWVadUotZEU1UnltNkxKQUdrRFdRQ09XT1ZVaDZuVFB6Vi1vQW1DZ2I1bG1NYmFWaU9rSkRuSkZ0UGQ5eXlmNFVUWnowdjRrOUhHa0pWc2s?oc=5",
-          "source": "Bluetooth SIG",
-          "publisher": "Bluetooth® Technology Website",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T19:23:34+00:00",
-          "title": "Working Group events calendar - Bluetooth - Bluetooth® Technology Website"
-        }
-      ]
-    },
-    {
       "id": "3c2d9b08e62c339b00aed4c3",
       "topic": "tws",
       "title": "CarPlay Ultra coming to these cars, according to Apple",
@@ -1165,7 +1126,9 @@
           "published_utc": "2026-11-24T16:41:59+00:00",
           "title": "CarPlay Ultra coming to these cars, according to Apple"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "200ef319d4b845562d07b2fa",
@@ -1200,12 +1163,12 @@
       "url": "https://www.macrumors.com/2026/11/24/airtag-in-productred",
       "source": "MacRumors",
       "publisher": "MacRumors",
-      "description": "Apple reportedly plans to release four (PRODUCT)RED products by December 1, and there might be a fifth. 9to5Mac 's Chance Miller this week reported that he heard from a source that Apple has also developed a (PRODUCT)RED version of its AirTag item tracker. However, he said that \"whether it's released alongside the AirPods Max 2 and HomePod mini rem",
+      "description": "Apple reportedly plans to release four (PRODUCT)RED products by December 1, and there might be a fifth. 9to5Mac's Chance Miller this week...",
       "published_utc": "2026-11-24T15:37:22+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1213,11 +1176,15 @@
           "url": "https://www.macrumors.com/2026/11/24/airtag-in-productred",
           "source": "MacRumors",
           "publisher": "MacRumors",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T15:37:22+00:00",
           "title": "AirTag in (PRODUCT)RED?"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T15:37:22+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "dc78d9fa158dbdc19ee7644a",
@@ -1538,12 +1505,12 @@
       "url": "https://www.gsmarena.com/apple_could_launch_product_red_versions_of_homepod_mini_2_airpods_max_2_soon-news-75627.php",
       "source": "GSMArena",
       "publisher": "GSMArena",
-      "description": "According to a new report by Bloomberg's Mark Gurman, Apple plans to launch several new (Product) Red variants of its devices as early as next week. Notably, December 1 marks World AIDS Day. Citing people familiar with the matter, Gurman claims that Apple will introduce red color options for the recently launched HomePod mini 2 and AirPods Max 2. T",
+      "description": "Meanwhile, a red AirPods Wrist Strap and Watch Sport Band are also coming. According to a new report by Bloomberg's Mark Gurman, Apple plans to launch...",
       "published_utc": "2026-11-25T13:51:02+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "オーディオへ再分類",
       "sources": [
@@ -1551,11 +1518,15 @@
           "url": "https://www.gsmarena.com/apple_could_launch_product_red_versions_of_homepod_mini_2_airpods_max_2_soon-news-75627.php",
           "source": "GSMArena",
           "publisher": "GSMArena",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T13:51:02+00:00",
           "title": "Apple to launch (Product) Red versions of HomePod mini 2, AirPods Max 2 soon"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T14:51:02+01:00",
+      "article_modified_raw": "2026-11-25T14:51:02+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "a1cf2776fba7dda681fc2055",
@@ -1635,7 +1606,8 @@
           "published_utc": "2026-11-25T01:00:00+00:00",
           "title": "【12月1日より金利条件が変わります】JACCSのWeb完結型ショッピングクレジットWeBBy(ウェビー)"
         }
-      ]
+      ],
+      "enrichment": "not_article"
     },
     {
       "id": "bd38d5c95081be652a070f4e",
@@ -2314,18 +2286,18 @@
       ]
     },
     {
-      "id": "14874b92b9c10f96f45755f0",
+      "id": "54f5319fd81b0d76e5ecf2cf",
       "topic": "wired",
       "title": "シマムセン、ESOTERIC新製品「Grandioso K1XE」「T-01」試聴会を12/12・13に開催",
-      "url": "http://www.phileweb.com/news/audio/202611/25/28440.html",
+      "url": "https://www.phileweb.com/news/audio/202611/25/28440.html",
       "source": "PHILE WEB",
       "publisher": "PHILE WEB",
       "description": "シマムセンは、ESOTERICの新製品を体験できる試聴イベント「ESOTERIC 新製品試聴会」を、12月12日（土）と13日（日）の2日間にわたり、CYMA Event Room（シマムセン別館2F）で開催する。",
       "published_utc": "2026-11-25T02:29:51+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2336,8 +2308,20 @@
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T02:29:51+00:00",
           "title": "シマムセン、ESOTERIC新製品「Grandioso K1XE」「T-01」試聴会を12/12・13に開催"
+        },
+        {
+          "url": "https://www.phileweb.com/news/audio/202611/25/28440.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-25T02:29:51+00:00",
+          "title": "シマムセン、ESOTERIC新製品「Grandioso K1XE」「T-01」試聴会を12/12・13に開催"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T11:29:51+09:00",
+      "article_modified_raw": "2026-11-25T11:29:51+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "bf1fa484ff57a3f36580e8bc",
@@ -2822,12 +2806,12 @@
       "url": "https://www.soundguys.com/jbl-tune-530c-deal-166790",
       "source": "SoundGuys",
       "publisher": "SoundGuys",
-      "description": "Save $10 on JBL's plug-and-play USB-C on-ears with Hi-Res Audio, now matching their lowest price on Amazon.",
+      "description": "The JBL Tune 530C drop to $34.95 on Amazon, a 22% saving on wired USB-C headphones with Hi-Res Audio and built-in EQ presets.",
       "published_utc": "2026-11-25T10:40:28+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "対象オーディオ候補",
       "sources": [
@@ -2835,11 +2819,15 @@
           "url": "https://www.soundguys.com/jbl-tune-530c-deal-166790",
           "source": "SoundGuys",
           "publisher": "SoundGuys",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T10:40:28+00:00",
           "title": "JBL Tune 530C USB-C wired headphones are back at their low"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T10:40:28+00:00",
+      "article_modified_raw": "2026-11-25T10:40:28+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "09040808572914e167c278bc",
@@ -2848,12 +2836,12 @@
       "url": "https://www.soundguys.com/hyperx-cloud-jet-deal-166775",
       "source": "SoundGuys",
       "publisher": "SoundGuys",
-      "description": "Save $50 on a dual wireless headset that hops between a 2.4GHz dongle and Bluetooth, now at its lowest price.",
+      "description": "The HyperX Cloud Jet is 63% off on Amazon, a record low for this dual wireless gaming headset for PS5, PC, and your phone.",
       "published_utc": "2026-11-24T15:23:02+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2861,11 +2849,15 @@
           "url": "https://www.soundguys.com/hyperx-cloud-jet-deal-166775",
           "source": "SoundGuys",
           "publisher": "SoundGuys",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T15:23:02+00:00",
           "title": "HyperX Cloud Jet falls under $30 for console and phone gaming"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T15:23:02+00:00",
+      "article_modified_raw": "2026-11-24T15:23:02+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "53ca2ff1d59cf3b961f49d48",
@@ -2926,11 +2918,11 @@
     {
       "id": "ef2d3dda788171a35235f0da",
       "topic": "tws",
-      "title": "Apple AirPods Pro 3 disponíveis a um preço especial",
+      "title": "Apple AirPods Pro 3 disponíveis a um preço especial | TugaTech",
       "url": "https://tugatech.com.pt/t95210-apple-airpods-pro-3-disponiveis-a-um-preco-especial",
       "source": "VideoCardz",
       "publisher": "VideoCardz",
-      "description": "A procura por auriculares sem fios capazes de conciliar qualidade sonora de topo com funcionalidades de saúde e conforto prolongado tem uma nova referência. Os Apple AirPods Pro 3 chegam ao mercado com melhorias substanciais face à geração anterior e destacam-se sobretudo pelo cancelamento ativo de ruído reforçado e pela estreia da medição de frequ",
+      "description": "A procura por auriculares sem fios capazes de conciliar qualidade sonora de topo com funcionalidades de saúde e conforto prolongado tem uma nova referência. Os",
       "published_utc": "2026-11-25T14:42:19+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
@@ -2945,9 +2937,13 @@
           "publisher": "VideoCardz",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T14:42:19+00:00",
-          "title": "Apple AirPods Pro 3 disponíveis a um preço especial"
+          "title": "Apple AirPods Pro 3 disponíveis a um preço especial | TugaTech"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "bac6b05fc49d827438669388",
@@ -3468,15 +3464,276 @@
           "title": "Alienware's 34-inch curved gaming monitor drops $130 to a record low - Android Authority"
         }
       ]
+    },
+    {
+      "id": "8a4b9fe182c458d8cf64cab1",
+      "topic": "wired",
+      "title": "HEDDphone DX Headphone Review - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbGFneXlVS2l1MDVPS3BfTFJlbGlENDFRdWZmSHdLSEJMckswX1g3QjNfMjRNRGx3dVlveEpkeEtxa1R5TFV1eF9vb1YtenU5R29QdjRGLWx6NzJBS1BtLVJzeWJycFdQa0g4c1B0T0Y5ckgyX0RQbDJhR2hWMXlCMjNIbjhaWWQxaFdrWUhhWDVXbWFwdVBPOGpVUQ?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "HEDDphone DX Headphone Review Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-25T05:08:55+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "possible_event_id": "4b819c4b7ffb",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbGFneXlVS2l1MDVPS3BfTFJlbGlENDFRdWZmSHdLSEJMckswX1g3QjNfMjRNRGx3dVlveEpkeEtxa1R5TFV1eF9vb1YtenU5R29QdjRGLWx6NzJBS1BtLVJzeWJycFdQa0g4c1B0T0Y5ckgyX0RQbDJhR2hWMXlCMjNIbjhaWWQxaFdrWUhhWDVXbWFwdVBPOGpVUQ?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T05:08:55+00:00",
+          "title": "HEDDphone DX Headphone Review - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "a12481964d000dfa75f82052",
+      "topic": "portable_dac",
+      "title": "smsl - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yd1llSTBRaDV4d3pueWc2UmxqZ041dEdtZ3c1OTlrQzl6cnBqcXVJY2dWVEhibnlyX0d2YnM2d3RGT0xzbzU2aW9KQW1nT3pkczBZQjREV0FqV0JFeVJkMGJIaHg5YTYtWXNzSGVn?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "smsl Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-24T18:06:23+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yd1llSTBRaDV4d3pueWc2UmxqZ041dEdtZ3c1OTlrQzl6cnBqcXVJY2dWVEhibnlyX0d2YnM2d3RGT0xzbzU2aW9KQW1nT3pkczBZQjREV0FqV0JFeVJkMGJIaHg5YTYtWXNzSGVn?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T18:06:23+00:00",
+          "title": "smsl - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "529beada02d3153be1956859",
+      "topic": "wired",
+      "title": "HEDDphone DX Headphone Review | Page 2 - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcUZzdW1LVktwbGNtRS1KR0Q0cEdWSGtBNnpfZHcyTnRwMDdGU2FrNFZZYllycU5jOG1GTk5hN1dZckhnRUFsR1gySmNGcmFIM0l5XzdFbkpYVjRaWWFqQS16Z3RuQ2N6UDc2WlVyMkR5NjVwNG5WMTdEbXFzY25LVEFNNE1mVTNLZmlHVEYxR1h5a3c4S2NwVmJvRVFpNHFFOTZJ?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "HEDDphone DX Headphone Review | Page 2 Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-25T05:08:55+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "possible_event_id": "4b819c4b7ffb",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcUZzdW1LVktwbGNtRS1KR0Q0cEdWSGtBNnpfZHcyTnRwMDdGU2FrNFZZYllycU5jOG1GTk5hN1dZckhnRUFsR1gySmNGcmFIM0l5XzdFbkpYVjRaWWFqQS16Z3RuQ2N6UDc2WlVyMkR5NjVwNG5WMTdEbXFzY25LVEFNNE1mVTNLZmlHVEYxR1h5a3c4S2NwVmJvRVFpNHFFOTZJ?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T05:08:55+00:00",
+          "title": "HEDDphone DX Headphone Review | Page 2 - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "25cd9b62a1c2ddc354c5d401",
+      "topic": "portable_dac",
+      "title": "Super happy with my new Electrocompaniet amp - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS0JUa3lILUhnLXFnenlTMFQ4UnV5M0g4VjljTnZvV0tiNG40Zk9NejR6R2psNEVzZW5NWWdFM2R0R1dlcmUtMnBOcGVlN3RMMTlwa1M5X3JFUTZxNUdWWHZDV0g3bkpEbTlTdC1vakJVYzRxVEJ3RzR2UEhKY0kzaW4zaWlYaDM1T3hHem12NVQtTVRmQnhfa2NlTF9MNWJiMi00WVI0QndRSjVnbF8wUkdrcjNZZms?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "Super happy with my new Electrocompaniet amp Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-24T19:40:19+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS0JUa3lILUhnLXFnenlTMFQ4UnV5M0g4VjljTnZvV0tiNG40Zk9NejR6R2psNEVzZW5NWWdFM2R0R1dlcmUtMnBOcGVlN3RMMTlwa1M5X3JFUTZxNUdWWHZDV0g3bkpEbTlTdC1vakJVYzRxVEJ3RzR2UEhKY0kzaW4zaWlYaDM1T3hHem12NVQtTVRmQnhfa2NlTF9MNWJiMi00WVI0QndRSjVnbF8wUkdrcjNZZms?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T19:40:19+00:00",
+          "title": "Super happy with my new Electrocompaniet amp - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "eea251b9a1a8baa6bed924f3",
+      "topic": "portable_dac",
+      "title": "Topping PEQ Q Definition - REW usage - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQlRXbXBXX25sSHBzWmlYaUdIX0hESFBDQ0lpLVBhQkFjcEhvRU9MMEdHenVBa0U4N2JQeGNzdFh0R1l5eGt5U3BFdTlQMWZWcGxocVV5S1ladlllSGk0MVAtS1JyVWN5M0k3LVN4VUM1NlZhVGVxdm53cFJHdUwybGJURElmbXdLYm5xeE5COFg4NHJFc1ZydlFzdGdITnRiRFBOcDBUUnllQQ?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "Topping PEQ Q Definition - REW usage Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-24T18:53:56+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQlRXbXBXX25sSHBzWmlYaUdIX0hESFBDQ0lpLVBhQkFjcEhvRU9MMEdHenVBa0U4N2JQeGNzdFh0R1l5eGt5U3BFdTlQMWZWcGxocVV5S1ladlllSGk0MVAtS1JyVWN5M0k3LVN4VUM1NlZhVGVxdm53cFJHdUwybGJURElmbXdLYm5xeE5COFg4NHJFc1ZydlFzdGdITnRiRFBOcDBUUnllQQ?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T18:53:56+00:00",
+          "title": "Topping PEQ Q Definition - REW usage - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "89d15ea8fc41f092c6133e66",
+      "topic": "portable_dac",
+      "title": "Loxjie Wonky Display Issue Solved? - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSHpWdG9SZEZydmg2RURqZmFUeFVvY2RpVFVlcXAxa3pqLUVpZTlYZlRSS0N0eVBmUGVuVUk3RkwxSmp0Z19IUDM3UjFIMTMzc3MwQllFeUkydk9XU3ZQSGZpTm9YckJoYjlyNUtPY1pEX1pPc05PN3hKTTE1RERFMkhqSW9ZSGQ3aV9VUGk2RkNUb1FKYmVZbG16ME15YVhiVWtGR25WOWd5MmprQTY3Xw?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "Loxjie Wonky Display Issue Solved? Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-25T14:08:24+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSHpWdG9SZEZydmg2RURqZmFUeFVvY2RpVFVlcXAxa3pqLUVpZTlYZlRSS0N0eVBmUGVuVUk3RkwxSmp0Z19IUDM3UjFIMTMzc3MwQllFeUkydk9XU3ZQSGZpTm9YckJoYjlyNUtPY1pEX1pPc05PN3hKTTE1RERFMkhqSW9ZSGQ3aV9VUGk2RkNUb1FKYmVZbG16ME15YVhiVWtGR25WOWd5MmprQTY3Xw?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T14:08:24+00:00",
+          "title": "Loxjie Wonky Display Issue Solved? - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "f480fade0a56d95b3c4956d7",
+      "topic": "portable_dac",
+      "title": "O²AT v0.2: open Layer-2 optical audio transport over 1G SFP. Requesting technical review - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONWdQOURQSUZBMFVBdTZQbGVwTzMwa2ZYTkw4T0dvYzRxLUhZbTBCS1BQd2JpYVprVjB0ZjZTWnlLV21tX1N0SDdsLVFXa1lDLU1TZENXODFNeXZRTHJNQ3hqcHlsQjd2bkdWN1daaExVZGszYTZCdTRMV09uQk1Rc252bW9ETXJYSG1mMWVYMGgwZW5Ba1FIUWp3YURLa1RjcENhVzF4TmVyQ3g1STRqVWVYaHE0MmZrX1lxRGt5Tm5raVJmU0QwVVNlYXdvajJfX3dXd0dqR0pEVzVzekpIaHdwa1AwOU5NbkxPMHhaaGpVLVRJWmxSdWlaOEZnQQ?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "O²AT v0.2: open Layer-2 optical audio transport over 1G SFP. Requesting technical review Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-24T20:39:49+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONWdQOURQSUZBMFVBdTZQbGVwTzMwa2ZYTkw4T0dvYzRxLUhZbTBCS1BQd2JpYVprVjB0ZjZTWnlLV21tX1N0SDdsLVFXa1lDLU1TZENXODFNeXZRTHJNQ3hqcHlsQjd2bkdWN1daaExVZGszYTZCdTRMV09uQk1Rc252bW9ETXJYSG1mMWVYMGgwZW5Ba1FIUWp3YURLa1RjcENhVzF4TmVyQ3g1STRqVWVYaHE0MmZrX1lxRGt5Tm5raVJmU0QwVVNlYXdvajJfX3dXd0dqR0pEVzVzekpIaHdwa1AwOU5NbkxPMHhaaGpVLVRJWmxSdWlaOEZnQQ?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T20:39:49+00:00",
+          "title": "O²AT v0.2: open Layer-2 optical audio transport over 1G SFP. Requesting technical review - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "064a24a1ba6af9c50f7776bf",
+      "topic": "tws",
+      "title": "Cannot Connect a Bluetooth Device | Lifestyle® 535 series III home entertainment system - Bose",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdlZzRGprTHZIc0pEQUNNZkJ5MVVWVzJWd2ZRSHg5REFZYm5GOHNsV2NOT3QwMGdPODZxN1BVVDlmZFR2bzRFTDE2QTJwUC1DSWlYNllDbXNfdzBwUGROZjByTkUzbTQtOFFVR2NqVFNodEhNQlBwQUx2TkdmaWlqS1ZHRnFLMXQteHpXOA?oc=5",
+      "source": "Bose",
+      "publisher": "Bose",
+      "description": "Cannot Connect a Bluetooth Device | Lifestyle® 535 series III home entertainment system Bose",
+      "published_utc": "2026-11-24T15:19:09+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdlZzRGprTHZIc0pEQUNNZkJ5MVVWVzJWd2ZRSHg5REFZYm5GOHNsV2NOT3QwMGdPODZxN1BVVDlmZFR2bzRFTDE2QTJwUC1DSWlYNllDbXNfdzBwUGROZjByTkUzbTQtOFFVR2NqVFNodEhNQlBwQUx2TkdmaWlqS1ZHRnFLMXQteHpXOA?oc=5",
+          "source": "Bose",
+          "publisher": "Bose",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T15:19:09+00:00",
+          "title": "Cannot Connect a Bluetooth Device | Lifestyle® 535 series III home entertainment system - Bose"
+        }
+      ]
+    },
+    {
+      "id": "e5093fbbccfe271062f9b44d",
+      "topic": "tws",
+      "title": "Cannot Connect a Bluetooth Device | Lifestyle® 525 series II home entertainment system - Bose",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZFhjeWpkajl2NjJxQ0FOTGRFZklHR3FxZHp6bDV3UE53OGd2b3I2TzJfVzdsenpJcTRvdTJ5STlTT0k3NzkxekEtcDhqTENDMktkTjNwY3RaMm1LQmRNaXcyNVg4YzlOZmxyY0dmaUpaNl9WZDBoZWdJdmFYYW5IeHhyZ2puSDFqXy1v?oc=5",
+      "source": "Bose",
+      "publisher": "Bose",
+      "description": "Cannot Connect a Bluetooth Device | Lifestyle® 525 series II home entertainment system Bose",
+      "published_utc": "2026-11-24T15:46:57+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZFhjeWpkajl2NjJxQ0FOTGRFZklHR3FxZHp6bDV3UE53OGd2b3I2TzJfVzdsenpJcTRvdTJ5STlTT0k3NzkxekEtcDhqTENDMktkTjNwY3RaMm1LQmRNaXcyNVg4YzlOZmxyY0dmaUpaNl9WZDBoZWdJdmFYYW5IeHhyZ2puSDFqXy1v?oc=5",
+          "source": "Bose",
+          "publisher": "Bose",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T15:46:57+00:00",
+          "title": "Cannot Connect a Bluetooth Device | Lifestyle® 525 series II home entertainment system - Bose"
+        }
+      ]
+    },
+    {
+      "id": "b5132483f3169c90cf750617",
+      "topic": "tws",
+      "title": "Cannot Connect a Bluetooth Device | CineMate® 120 home theater system - Bose",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYzM3ak42WUJiQ0ROU0N2dHlrVXhCTWpGZ1ZfeGZ5ZzB6X0dqRTRlNHpYZE9Rbm5vSzZnTlh2cTh1QVgyUzcxMkVHM1JNVmFUQTVRTXFrZDlzVHQ0VTJBVWNhNXA1TTVCNFFieHhEUHZRZTZxbEZORFhvM3pFZ2dZejNyWlV4dw?oc=5",
+      "source": "Bose",
+      "publisher": "Bose",
+      "description": "Cannot Connect a Bluetooth Device | CineMate® 120 home theater system Bose",
+      "published_utc": "2026-11-24T15:18:39+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYzM3ak42WUJiQ0ROU0N2dHlrVXhCTWpGZ1ZfeGZ5ZzB6X0dqRTRlNHpYZE9Rbm5vSzZnTlh2cTh1QVgyUzcxMkVHM1JNVmFUQTVRTXFrZDlzVHQ0VTJBVWNhNXA1TTVCNFFieHhEUHZRZTZxbEZORFhvM3pFZ2dZejNyWlV4dw?oc=5",
+          "source": "Bose",
+          "publisher": "Bose",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T15:18:39+00:00",
+          "title": "Cannot Connect a Bluetooth Device | CineMate® 120 home theater system - Bose"
+        }
+      ]
     }
   ],
   "date_unknown": [],
   "health": {
-    "partial": 15,
-    "ok": 12,
-    "empty": 1,
-    "deferred": 9,
-    "skipped": 5,
+    "partial": 23,
+    "ok": 10,
+    "deferred": 5,
+    "empty": 4,
     "manual": 2
   }
 }

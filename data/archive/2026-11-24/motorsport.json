@@ -397,32 +397,6 @@
       "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
-      "id": "ed8204e57d97b68a4977fe96",
-      "topic": "F1",
-      "title": "PALMER: Where do Ferrari go from here after Las Vegas clash? - Formula 1",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOemMyb2RKeVUxRkUzV2l5b2pVY0pmV0Z4VFpwVFdBTUhsdEpGTTRHdFJaekhOUXhYb1NROGVHcS1CV2RjaUdQX1M1RS05OU83cVI2SUozQUZuLWZWb213c1dzamxnUXA3TFE4bWtWbkNtbTJ4c0FtRnBmWmlmS2QwQS1oZEhZX1BuVU1SYjRFM1JOT3RIODBub0FQc1A1enBONmxpa2RaaFFJTm40MWpQcXkyUGZORTJPeUNqSWo4WndCUUtMZlFMR1d1alFncW8?oc=5",
-      "source": "Formula 1 Official",
-      "publisher": "Formula 1",
-      "description": "PALMER: Where do Ferrari go from here after Las Vegas clash? Formula 1",
-      "published_utc": "2026-11-24T11:53:08+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技名一致・新規性の確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOemMyb2RKeVUxRkUzV2l5b2pVY0pmV0Z4VFpwVFdBTUhsdEpGTTRHdFJaekhOUXhYb1NROGVHcS1CV2RjaUdQX1M1RS05OU83cVI2SUozQUZuLWZWb213c1dzamxnUXA3TFE4bWtWbkNtbTJ4c0FtRnBmWmlmS2QwQS1oZEhZX1BuVU1SYjRFM1JOT3RIODBub0FQc1A1enBONmxpa2RaaFFJTm40MWpQcXkyUGZORTJPeUNqSWo4WndCUUtMZlFMR1d1alFncW8?oc=5",
-          "source": "Formula 1 Official",
-          "publisher": "Formula 1",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T11:53:08+00:00",
-          "title": "PALMER: Where do Ferrari go from here after Las Vegas clash? - Formula 1"
-        }
-      ]
-    },
-    {
       "id": "dd550a25ef6bd16694391425",
       "topic": "F1",
       "title": "The timeline of Verstappen and Russell’s long rivalry - Formula 1",
@@ -2085,7 +2059,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Tracks Archives NASCAR.com",
-      "published_utc": "2026-11-23T20:16:31+00:00",
+      "published_utc": "2026-11-24T14:16:31+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -2098,7 +2072,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T20:16:31+00:00",
+          "published_utc": "2026-11-24T14:16:31+00:00",
           "title": "Tracks Archives - NASCAR.com"
         }
       ]
@@ -2137,7 +2111,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Zack Albert NASCAR.com",
-      "published_utc": "2026-11-23T20:08:33+00:00",
+      "published_utc": "2026-11-24T14:08:33+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -2150,7 +2124,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T20:08:33+00:00",
+          "published_utc": "2026-11-24T14:08:33+00:00",
           "title": "Zack Albert - NASCAR.com"
         }
       ]
@@ -2412,32 +2386,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T23:36:27+00:00",
           "title": "Latest News - INDYCAR.com"
-        }
-      ]
-    },
-    {
-      "id": "a2a3c1f6b5e977d9ce519fdb",
-      "topic": "IndyCar",
-      "title": "Latest NTT INDYCAR SERIES News and Results | Official Site of INDYCAR - INDYCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBxV01QMldQckhaUnZKejRaT2t0OHg5dEkxakZfS0pFSkpFclpVSUx4OUItQ1hrUlJFS3htczcwTUE?oc=5",
-      "source": "IndyCar Official",
-      "publisher": "INDYCAR.com",
-      "description": "Latest NTT INDYCAR SERIES News and Results | Official Site of INDYCAR INDYCAR.com",
-      "published_utc": "2026-11-23T16:49:39+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "priority",
-      "triage_reason": "競技名一致・新規性の確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBxV01QMldQckhaUnZKejRaT2t0OHg5dEkxakZfS0pFSkpFclpVSUx4OUItQ1hrUlJFS3htczcwTUE?oc=5",
-          "source": "IndyCar Official",
-          "publisher": "INDYCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T16:49:39+00:00",
-          "title": "Latest NTT INDYCAR SERIES News and Results | Official Site of INDYCAR - INDYCAR.com"
         }
       ]
     },
@@ -3301,34 +3249,6 @@
           "title": "F1 Lando Norris Kids Home Decor, Formula 1 Office Accessories - F1 Store"
         }
       ]
-    },
-    {
-      "id": "b43768f736aa22cfa3b3a265",
-      "topic": "F1",
-      "title": "Rafael Camara - F1 Driver for Haas - Formula 1",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SWmRDSkRJZ3N1TUJ2VWhlSFh6SncyMk9Yc0hBTnJXZm5VSnhId0Q0OFJUNXhoZ2Q5Q1JoYS1Yemo1eEtNUlBEMllFUUxxY3hITk9TRlIwdEJCNGpudlE?oc=5",
-      "source": "Formula 1 Official",
-      "publisher": "Formula 1",
-      "description": "Rafael Camara - F1 Driver for Haas Formula 1",
-      "published_utc": "2026-11-24T12:45:16+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技名一致・新規性の確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SWmRDSkRJZ3N1TUJ2VWhlSFh6SncyMk9Yc0hBTnJXZm5VSnhId0Q0OFJUNXhoZ2Q5Q1JoYS1Yemo1eEtNUlBEMllFUUxxY3hITk9TRlIwdEJCNGpudlE?oc=5",
-          "source": "Formula 1 Official",
-          "publisher": "Formula 1",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T12:45:16+00:00",
-          "title": "Rafael Camara - F1 Driver for Haas - Formula 1"
-        }
-      ],
-      "enrichment": "failed",
-      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "df87b347d23b57360a1d04a3",
@@ -4697,6 +4617,32 @@
       ]
     },
     {
+      "id": "aa239103f37476556cb557d8",
+      "topic": "F1",
+      "title": "Abgasnorm Euro 7: Wann lässt sich das Auto nicht mehr starten? - Auto Motor und Sport",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGMtenZYNUlfcjkxWkVVd2U2TEtzR0hlaDdrZFliUExDeGZ1d0NZR1UydHp1MDFhanM3MWtvWmMycFRXN25DaGl1SkZLaE41RDNQUHYtc2xyZks4NlQ3WUJzUUkzZ19vYzhDZ3k3cGxKc2VWZS1MWlllTGNpZS1uR2FycjNnUmdPc21jRnpsTHBfTm1JTVJSbzZESFRMaUx0VXExYjJEZ1JTS1JJSWRMTQ?oc=5",
+      "source": "AMuS",
+      "publisher": "Auto Motor und Sport",
+      "description": "Abgasnorm Euro 7: Wann lässt sich das Auto nicht mehr starten? Auto Motor und Sport",
+      "published_utc": "2026-11-24T13:00:24+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGMtenZYNUlfcjkxWkVVd2U2TEtzR0hlaDdrZFliUExDeGZ1d0NZR1UydHp1MDFhanM3MWtvWmMycFRXN25DaGl1SkZLaE41RDNQUHYtc2xyZks4NlQ3WUJzUUkzZ19vYzhDZ3k3cGxKc2VWZS1MWlllTGNpZS1uR2FycjNnUmdPc21jRnpsTHBfTm1JTVJSbzZESFRMaUx0VXExYjJEZ1JTS1JJSWRMTQ?oc=5",
+          "source": "AMuS",
+          "publisher": "Auto Motor und Sport",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T13:00:24+00:00",
+          "title": "Abgasnorm Euro 7: Wann lässt sich das Auto nicht mehr starten? - Auto Motor und Sport"
+        }
+      ]
+    },
+    {
       "id": "4b651c858af65108a944e041",
       "topic": "F1",
       "title": "G 300 der Bundeswehr gestohlen: Die Truppe hätte gerne Ihren \"Greenliner\" wieder - Auto Motor und Sport",
@@ -4782,7 +4728,7 @@
       "source": "AMuS",
       "publisher": "Auto Motor und Sport",
       "description": "VW-Tarifrunde startet: Diese Forderungen liegen auf dem Tisch Auto Motor und Sport",
-      "published_utc": "2026-11-24T10:42:32+00:00",
+      "published_utc": "2026-11-24T07:43:55+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -4795,7 +4741,7 @@
           "source": "AMuS",
           "publisher": "Auto Motor und Sport",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T10:42:32+00:00",
+          "published_utc": "2026-11-24T07:43:55+00:00",
           "title": "VW-Tarifrunde startet: Diese Forderungen liegen auf dem Tisch - Auto Motor und Sport"
         }
       ]
@@ -4808,7 +4754,7 @@
       "source": "AMuS",
       "publisher": "Auto Motor und Sport",
       "description": "Warum Europas E-Auto-Markt zulegt, während China und Nordamerika unter Druck stehen Auto Motor und Sport",
-      "published_utc": "2026-11-24T10:35:30+00:00",
+      "published_utc": "2026-11-24T06:36:30+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -4821,7 +4767,7 @@
           "source": "AMuS",
           "publisher": "Auto Motor und Sport",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T10:35:30+00:00",
+          "published_utc": "2026-11-24T06:36:30+00:00",
           "title": "Warum Europas E-Auto-Markt zulegt, während China und Nordamerika unter Druck stehen - Auto Motor und Sport"
         }
       ]
@@ -5302,7 +5248,7 @@
       "source": "AMuS",
       "publisher": "Auto Motor und Sport",
       "description": "Park and Ride-Plätze im Test: Ist es in Ihrer Stadt auch so mies? Auto Motor und Sport",
-      "published_utc": "2026-11-24T10:27:32+00:00",
+      "published_utc": "2026-11-24T06:28:57+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -5315,7 +5261,7 @@
           "source": "AMuS",
           "publisher": "Auto Motor und Sport",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T10:27:32+00:00",
+          "published_utc": "2026-11-24T06:28:57+00:00",
           "title": "Park and Ride-Plätze im Test: Ist es in Ihrer Stadt auch so mies? - Auto Motor und Sport"
         }
       ]
@@ -8145,6 +8091,32 @@
       ]
     },
     {
+      "id": "5c578c4d40771b711dcea5e6",
+      "topic": "NASCAR",
+      "title": "NASCAR Cup Series Chase Archives - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHBIMzNhNmFJR3ZWRWl0ZDBkZ3k0Q1hfck85X0lSV201clpYeHJVbDVrOUE0elZabkpZYkpINTV4RVR4eGpwdzI4aXBKZlVKNmlMalRnZFlaa0JwYUI4OTRJYnFiMVVFRW5FZU56RGlmUS1PTjdIY3A1aEhmVVVkWUxLT0dac2JKYTFRUUtUcjE4VWdkUGRZ?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "NASCAR Cup Series Chase Archives NASCAR.com",
+      "published_utc": "2026-11-24T14:35:06+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHBIMzNhNmFJR3ZWRWl0ZDBkZ3k0Q1hfck85X0lSV201clpYeHJVbDVrOUE0elZabkpZYkpINTV4RVR4eGpwdzI4aXBKZlVKNmlMalRnZFlaa0JwYUI4OTRJYnFiMVVFRW5FZU56RGlmUS1PTjdIY3A1aEhmVVVkWUxLT0dac2JKYTFRUUtUcjE4VWdkUGRZ?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T14:35:06+00:00",
+          "title": "NASCAR Cup Series Chase Archives - NASCAR.com"
+        }
+      ]
+    },
+    {
       "id": "245a5fd52a81fa66306c4ba3",
       "topic": "WEC",
       "title": "Peugeot WEC team axed, Citroen and Opel Formula E squads to close after 2027 - RaceFans",
@@ -8822,6 +8794,84 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T01:00:31+00:00",
           "title": "Brandu - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "c590d3b17ef48028b680f548",
+      "topic": "F1",
+      "title": "What makes the Abu Dhabi Grand Prix special – and why you should see it - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYVF6cE1zOE1laXlkd3NibEpZWjFic3ZvMm9GUFZjQkdKbGlqM0haMVNEVklfTXEyZzhsczNKdnFyd0dxVTB1OFpCUXR0V25Leno0SU1jTWlLTWJXeE1IYm1TdHRqcGs4d3hXUkRsS3V1RzEwcm84NXJaUGM1Szk5TWIyMUZyTXExMHJDV1QxUDdjYVlBX1pGSlFRbjBaWFZfRThjZnROOEVQdWk4bFJvakZpbDhSSk12b0RHTUx1RWYwTVpoMmpmcUUzRjA5RlNI?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "What makes the Abu Dhabi Grand Prix special – and why you should see it Formula 1",
+      "published_utc": "2026-11-24T10:06:35+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYVF6cE1zOE1laXlkd3NibEpZWjFic3ZvMm9GUFZjQkdKbGlqM0haMVNEVklfTXEyZzhsczNKdnFyd0dxVTB1OFpCUXR0V25Leno0SU1jTWlLTWJXeE1IYm1TdHRqcGs4d3hXUkRsS3V1RzEwcm84NXJaUGM1Szk5TWIyMUZyTXExMHJDV1QxUDdjYVlBX1pGSlFRbjBaWFZfRThjZnROOEVQdWk4bFJvakZpbDhSSk12b0RHTUx1RWYwTVpoMmpmcUUzRjA5RlNI?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T10:06:35+00:00",
+          "title": "What makes the Abu Dhabi Grand Prix special – and why you should see it - Formula 1"
+        }
+      ]
+    },
+    {
+      "id": "e6d79d3781763f5bf6e07353",
+      "topic": "F1",
+      "title": "F1 Glossary (K-O) - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmpCalBVcHphVUJ2aHdEOWRucnhtdlg0UDJTbVluSGRjNy13dHVhell2MHRiODVaYUNpZkw2WndiZEhlMGl4ZmhwZnBXc0tGdk43bHVwclRsa3BhMU03YndTM05RM2VxVFhkMnFHa1dreUZVdDRPUXVoUVZuc3dsX3hneEhBbkQz?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "F1 Glossary (K-O) Formula 1",
+      "published_utc": "2026-11-24T10:10:43+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmpCalBVcHphVUJ2aHdEOWRucnhtdlg0UDJTbVluSGRjNy13dHVhell2MHRiODVaYUNpZkw2WndiZEhlMGl4ZmhwZnBXc0tGdk43bHVwclRsa3BhMU03YndTM05RM2VxVFhkMnFHa1dreUZVdDRPUXVoUVZuc3dsX3hneEhBbkQz?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T10:10:43+00:00",
+          "title": "F1 Glossary (K-O) - Formula 1"
+        }
+      ]
+    },
+    {
+      "id": "c0b1f7152d2d96ac30c2fcdc",
+      "topic": "F1",
+      "title": "Why the Barcelona-Catalunya Grand Prix is special - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcVpiRC1WMVl1UGg0SDdHQ3JrMkNOeWJrU2d0RENzWWtXOXpLLVpXUVo2OGh5Mmh4VmFwdWRnd2wwX0xjM1U2VnpnRzdBeHRVcmtWeDlDazVLNkxOcF9UZFNkUEM2dkprazA3YkNpX3RSU0FzSU81bGxhbFlwMEVzWE8xeDVKTkozNlpGZU41dUhPVmpQMEF1eHVmRjk0MGNobk1sTkxDLWItMFRmVXdJbmJSM3pCZDhqWm5OS1p6YV9pOUZOVGRYUTVMOGR4QU5JTExWYkt5NEpnUQ?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "Why the Barcelona-Catalunya Grand Prix is special Formula 1",
+      "published_utc": "2026-11-24T06:43:32+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcVpiRC1WMVl1UGg0SDdHQ3JrMkNOeWJrU2d0RENzWWtXOXpLLVpXUVo2OGh5Mmh4VmFwdWRnd2wwX0xjM1U2VnpnRzdBeHRVcmtWeDlDazVLNkxOcF9UZFNkUEM2dkprazA3YkNpX3RSU0FzSU81bGxhbFlwMEVzWE8xeDVKTkozNlpGZU41dUhPVmpQMEF1eHVmRjk0MGNobk1sTkxDLWItMFRmVXdJbmJSM3pCZDhqWm5OS1p6YV9pOUZOVGRYUTVMOGR4QU5JTExWYkt5NEpnUQ?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T06:43:32+00:00",
+          "title": "Why the Barcelona-Catalunya Grand Prix is special - Formula 1"
         }
       ]
     }

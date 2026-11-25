@@ -370,32 +370,6 @@
       ]
     },
     {
-      "id": "252b5abe2c9613a724ec12f4",
-      "topic": "pc",
-      "title": "Congratulations to Intel AI Global Impact Festival Winners - Intel",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcU9wTk1aajNBOW1yRkllankxbGRaQ0ZWbTV3TVhXdDhobXp4ZVVXNUs5aS1Hdl91V0NBdnlXWGxGMGg4VkxOV2NkWm5YbXI4SlBXb3J2TldJSFNnZXlDOWN0Nm1YYmJRUENyLWJkbW9tN2VVTmtfcmFHYV9WdVB5anVvTUdfZHdPaFZSUWdPeEh2a1psX2pYWmlMcGxxcjNJM08tNlIwcUw3V1pxOW1nUGZtREt0WlZrc3ZKT1hn?oc=5",
-      "source": "Intel",
-      "publisher": "Intel",
-      "description": "Congratulations to Intel AI Global Impact Festival Winners Intel",
-      "published_utc": "2026-11-23T22:43:14+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "PC技術候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcU9wTk1aajNBOW1yRkllankxbGRaQ0ZWbTV3TVhXdDhobXp4ZVVXNUs5aS1Hdl91V0NBdnlXWGxGMGg4VkxOV2NkWm5YbXI4SlBXb3J2TldJSFNnZXlDOWN0Nm1YYmJRUENyLWJkbW9tN2VVTmtfcmFHYV9WdVB5anVvTUdfZHdPaFZSUWdPeEh2a1psX2pYWmlMcGxxcjNJM08tNlIwcUw3V1pxOW1nUGZtREt0WlZrc3ZKT1hn?oc=5",
-          "source": "Intel",
-          "publisher": "Intel",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T22:43:14+00:00",
-          "title": "Congratulations to Intel AI Global Impact Festival Winners - Intel"
-        }
-      ]
-    },
-    {
       "id": "e58d8dae74f5e7b98755ae81",
       "topic": "pc",
       "title": "Intelligent Classroom Platform Powered by Edge AI Technologies - Intel® Industry Solution Builders",
@@ -2386,6 +2360,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T18:01:40+00:00",
           "title": "What are artifacts and how do I use them? | Claude Help Center - Claude Help Center"
+        }
+      ]
+    },
+    {
+      "id": "f4937c4878d0b538ee79b321",
+      "topic": "ai",
+      "title": "Release notes | Claude Help Center - Claude Help Center",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rRlZwOW9YUnZUWTA0ak9DdGZNbURzZDg2aGFHNHhLbjNCWXV1QmxMUUZwdEx2bUhidFhxMEV0RVpKTk5LSHhkVUQyWmNnQnAxYkVYSDBKZGxsdXNGZXo3RXdxSDA3UTgtTEdhc1ln?oc=5",
+      "source": "Claude Help",
+      "publisher": "Claude Help Center",
+      "description": "Release notes | Claude Help Center Claude Help Center",
+      "published_utc": "2026-11-24T08:00:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rRlZwOW9YUnZUWTA0ak9DdGZNbURzZDg2aGFHNHhLbjNCWXV1QmxMUUZwdEx2bUhidFhxMEV0RVpKTk5LSHhkVUQyWmNnQnAxYkVYSDBKZGxsdXNGZXo3RXdxSDA3UTgtTEdhc1ln?oc=5",
+          "source": "Claude Help",
+          "publisher": "Claude Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T08:00:00+00:00",
+          "title": "Release notes | Claude Help Center - Claude Help Center"
         }
       ]
     },
@@ -5133,32 +5133,6 @@
       ]
     },
     {
-      "id": "bed59c1b47bc6831d8a873cd",
-      "topic": "pc",
-      "title": "SRAM Layout Design Engineer - NVIDIA",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zNFp5X0xxR1VsRXJGNEhrUi1UTGpEcFRCZTY2ZzdPa1NDVXI2Y2E5UTRMWTNGUTE1WU04WlBQTzlIVkdlTGZoZXVzTngtTDV5ZDByc2xRWGYzNFI4SDJ0OGI5eVRFOUZCMGxmVTdJYlBmcmc?oc=5",
-      "source": "NVIDIA",
-      "publisher": "NVIDIA",
-      "description": "SRAM Layout Design Engineer NVIDIA",
-      "published_utc": "2026-11-24T07:20:03+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zNFp5X0xxR1VsRXJGNEhrUi1UTGpEcFRCZTY2ZzdPa1NDVXI2Y2E5UTRMWTNGUTE1WU04WlBQTzlIVkdlTGZoZXVzTngtTDV5ZDByc2xRWGYzNFI4SDJ0OGI5eVRFOUZCMGxmVTdJYlBmcmc?oc=5",
-          "source": "NVIDIA",
-          "publisher": "NVIDIA",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T07:20:03+00:00",
-          "title": "SRAM Layout Design Engineer - NVIDIA"
-        }
-      ]
-    },
-    {
       "id": "d1738f66356a0a795a40ee50",
       "topic": "pc",
       "title": "Need Help: Uploaded the wrong resume for NVIDIA 2027 internship applications - NVIDIA Developer Forums",
@@ -7119,7 +7093,7 @@
       "url": "https://www.storagereview.com/news/highpoint-pae-bundles-external-rtx-pro-blackwell-gpu-pcie-gen5-x16-copprlink",
       "source": "StorageReview",
       "publisher": "StorageReview",
-      "description": "HighPoint PAE bundles connect a 600W RTX PRO Blackwell GPU over PCIe Gen5 x16 CopprLink to an external enclosure with a 1300W supply.",
+      "description": "HighPoint Technologies has packaged its external PCIe Gen5 hardware into three PCIe Accelerator Expansion (PAE) bundles that move an NVIDIA RTX PRO Blackwell Workstation Edition GPU out of the server or workstation chassis. Each bundle pairs a single-width host adapter with a RocketStor 8631D enclosure over a PCIe Gen5 x16 CopprLink cable, and the ",
       "published_utc": "2026-11-23T17:47:55+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -7149,7 +7123,7 @@
       "url": "https://www.storagereview.com/news/renda-nova8-eight-600w-rtx-pro-6000-gpus-4u-self-contained-liquid-cooling",
       "source": "StorageReview",
       "publisher": "StorageReview",
-      "description": "RENDA Nova8 runs eight 600W RTX PRO 6000 Blackwell GPUs in 4U with self-contained liquid cooling and a claimed 55,000 tokens per second.",
+      "description": "Nexalus and RENDA have built a 4U AI server that runs eight NVIDIA RTX PRO 6000 Blackwell GPUs at their full 600W rating inside a standard air-cooled rack. The RENDA Nova8 carries a self-contained liquid loop for every GPU and the CPU, so the companies say an operator can swap it into an existing 19-inch The post RENDA Nova8 Fits Eight 600W RTX PRO",
       "published_utc": "2026-11-23T17:47:28+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -7175,11 +7149,11 @@
     {
       "id": "ae8b5fd769330b91ce7ba632",
       "topic": "pc",
-      "title": "Podcast #157: Quantum's Skip Levens on the Scalar i7 RAPTOR and 80PB of Tape in One Rack",
+      "title": "Podcast #157: Quantum’s Skip Levens on the Scalar i7 RAPTOR and 80PB of Tape in One Rack",
       "url": "https://www.storagereview.com/podcast/podcast-157-quantum-skip-levens-scalar-i7-raptor-lto-10-sc26",
       "source": "StorageReview",
       "publisher": "StorageReview",
-      "description": "Podcast #157: Quantum's Skip Levens on the Scalar i7 RAPTOR, with 2,000 LTO-10 cartridges and 80PB in one rack, and tape as a warm tier.",
+      "description": "Brian caught up with Skip Levens, Head of Product Marketing at Quantum, at the company’s SC26 booth in Chicago for a short episode recorded in front of the Scalar i7 RAPTOR tape library. The subject was why tape demand is climbing again as AI and HPC sites pile up data, and the answer ran through The post Podcast #157: Quantum’s Skip Levens on the ",
       "published_utc": "2026-11-23T16:28:49+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "source_feed_published",
@@ -7194,7 +7168,7 @@
           "publisher": "StorageReview",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-23T16:28:49+00:00",
-          "title": "Podcast #157: Quantum's Skip Levens on the Scalar i7 RAPTOR and 80PB of Tape in One Rack"
+          "title": "Podcast #157: Quantum’s Skip Levens on the Scalar i7 RAPTOR and 80PB of Tape in One Rack"
         }
       ],
       "discovery_url": null,
@@ -7205,7 +7179,7 @@
     {
       "id": "7803ef082904acace371cdd6",
       "topic": "pc",
-      "title": "Keychron Nape Pro Review",
+      "title": "Keychron Nape Pro Mouse Review",
       "url": "https://www.rtings.com/mouse/reviews/keychron/nape-pro",
       "source": "RTINGS Monitor",
       "publisher": "RTINGS Monitor",
@@ -7224,7 +7198,7 @@
           "publisher": "RTINGS Monitor",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-23T17:30:35+00:00",
-          "title": "Keychron Nape Pro Review"
+          "title": "Keychron Nape Pro Mouse Review"
         },
         {
           "url": "https://www.rtings.com/mouse/reviews/keychron/nape-pro",
@@ -7397,36 +7371,6 @@
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-23T15:03:26+00:00",
           "title": "GPU-Z 2.72.0公開。NVIDIA RTX Sparkをサポートなど"
-        }
-      ],
-      "discovery_url": null,
-      "article_published_raw": "2026/11/24",
-      "article_modified_raw": "2026/11/24",
-      "enrichment": "url_only"
-    },
-    {
-      "id": "6ca1d2cb5abda58bbdfcaa57",
-      "topic": "pc",
-      "title": "Amazon Music Unlimited、3か月分3540円が無料キャンペーン中",
-      "url": "https://www.nichepcgamer.com/archives/post-134081.html",
-      "source": "NichePCGamer",
-      "publisher": "NichePCGamer",
-      "description": "Amazonにて、1億曲以上が聴ける定額制音楽ストリーミングサービス『Amazon Music Unlimited』の長期無料キャンペーンが開催されています。通常、Amazon Music Unli...",
-      "published_utc": "2026-11-23T15:02:30+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
-      "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://www.nichepcgamer.com/archives/post-134081.html",
-          "source": "NichePCGamer",
-          "publisher": "NichePCGamer",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-23T15:02:30+00:00",
-          "title": "Amazon Music Unlimited、3か月分3540円が無料キャンペーン中"
         }
       ],
       "discovery_url": null,
@@ -7773,6 +7717,32 @@
       ]
     },
     {
+      "id": "348123e2ac32f1a4f1c92c03",
+      "topic": "ai",
+      "title": "ChatGPT Work and Codex | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hdmNxc1ZRV1ZUazhMY3VGR2NDeEtvTk96ZkJMRHhYczhuZ29tSVJfNnJXN1ZzanVFVFN0dE5pMGg5ZTJiU3Yzb1hFM1czamFpdkxIaFdla2d1UVo2LVZiVTV3cnN5ZmJkeU9LLXp0Z0hvY2pyR0E?oc=5",
+      "source": "OpenAI",
+      "publisher": "OpenAI Help Center",
+      "description": "ChatGPT Work and Codex | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-23T17:08:27+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hdmNxc1ZRV1ZUazhMY3VGR2NDeEtvTk96ZkJMRHhYczhuZ29tSVJfNnJXN1ZzanVFVFN0dE5pMGg5ZTJiU3Yzb1hFM1czamFpdkxIaFdla2d1UVo2LVZiVTV3cnN5ZmJkeU9LLXp0Z0hvY2pyR0E?oc=5",
+          "source": "OpenAI",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T17:08:27+00:00",
+          "title": "ChatGPT Work and Codex | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
       "id": "9c66527ab55c4abdc1982522",
       "topic": "ai",
       "title": "Moving to the new ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center",
@@ -7806,7 +7776,7 @@
       "source": "OpenAI",
       "publisher": "OpenAI Help Center",
       "description": "OpenAI Daybreak - Trusted Access for Cyber overview | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-23T16:44:01+00:00",
+      "published_utc": "2026-11-23T19:45:04+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -7819,8 +7789,34 @@
           "source": "OpenAI",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T16:44:01+00:00",
+          "published_utc": "2026-11-23T19:45:04+00:00",
           "title": "OpenAI Daybreak - Trusted Access for Cyber overview | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "e9510e1394dd2c7bf4e17784",
+      "topic": "ai",
+      "title": "ChatGPT Desktop Referral Promotions - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcWVweF9lTVJ4SWYyS214VjlvWl92dFhYMmp2VkJRV0l1bHpzTm8wT1B6SXc4VXRlMHVneW45dWVKU2xHT1ZNZkpBQnV2TmQxVWxyeDhKYTlpVHVULThxSHhlWTZMMlYwVjdhcklnancwaV9BbV9iSm52MGhpNG5oaXdiNGVxaGs?oc=5",
+      "source": "OpenAI",
+      "publisher": "OpenAI Help Center",
+      "description": "ChatGPT Desktop Referral Promotions OpenAI Help Center",
+      "published_utc": "2026-11-23T17:50:30+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcWVweF9lTVJ4SWYyS214VjlvWl92dFhYMmp2VkJRV0l1bHpzTm8wT1B6SXc4VXRlMHVneW45dWVKU2xHT1ZNZkpBQnV2TmQxVWxyeDhKYTlpVHVULThxSHhlWTZMMlYwVjdhcklnancwaV9BbV9iSm52MGhpNG5oaXdiNGVxaGs?oc=5",
+          "source": "OpenAI",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T17:50:30+00:00",
+          "title": "ChatGPT Desktop Referral Promotions - OpenAI Help Center"
         }
       ]
     },
@@ -10356,6 +10352,110 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T06:56:00+00:00",
           "title": "Gemini’s next trick could be custom sticker packs for WhatsApp and Telegram - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "661c6a862d6184b6d39d0502",
+      "topic": "ai",
+      "title": "AIモデルとAPIプロバイダーの分析 - Artificial Analysis",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ZY2o1ekxCbXRyeVJFRGlyQ3RnNVJIbnUwVy1rX3dQajczU0NXYk5wblQzOEVIMzNfQ3drQkQ2dmU3ZGtUR2Y0?oc=5",
+      "source": "Artificial Analysis",
+      "publisher": "Artificial Analysis",
+      "description": "AIモデルとAPIプロバイダーの分析 Artificial Analysis",
+      "published_utc": "2026-11-24T08:00:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ZY2o1ekxCbXRyeVJFRGlyQ3RnNVJIbnUwVy1rX3dQajczU0NXYk5wblQzOEVIMzNfQ3drQkQ2dmU3ZGtUR2Y0?oc=5",
+          "source": "Artificial Analysis",
+          "publisher": "Artificial Analysis",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T08:00:00+00:00",
+          "title": "AIモデルとAPIプロバイダーの分析 - Artificial Analysis"
+        }
+      ]
+    },
+    {
+      "id": "7a33ca7bc062721f95fd2b4a",
+      "topic": "ai",
+      "title": "View usage analytics for Team and Enterprise plans | Claude Help Center - Claude Help Center",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcVE0alFlY1RPamFSR0FvZnlFd1lzN1AyRmE5MjczQk9sa1Q1eU4xYy1zRTJadGVOMmx4ZkRFTWNKRlFjOUprY00tZlUxN0tESHRHUkF6V1p4Y21ILUIzVGlqNzBka3VnRDhiWnpNeVpiSFB6X0cwZFh0UzNmUk02U1dfeEZma05BdkxubnczTERXeW1WYVl2TnRjUTdBRE0?oc=5",
+      "source": "Claude Help",
+      "publisher": "Claude Help Center",
+      "description": "View usage analytics for Team and Enterprise plans | Claude Help Center Claude Help Center",
+      "published_utc": "2026-11-23T17:17:15+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcVE0alFlY1RPamFSR0FvZnlFd1lzN1AyRmE5MjczQk9sa1Q1eU4xYy1zRTJadGVOMmx4ZkRFTWNKRlFjOUprY00tZlUxN0tESHRHUkF6V1p4Y21ILUIzVGlqNzBka3VnRDhiWnpNeVpiSFB6X0cwZFh0UzNmUk02U1dfeEZma05BdkxubnczTERXeW1WYVl2TnRjUTdBRE0?oc=5",
+          "source": "Claude Help",
+          "publisher": "Claude Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T17:17:15+00:00",
+          "title": "View usage analytics for Team and Enterprise plans | Claude Help Center - Claude Help Center"
+        }
+      ]
+    },
+    {
+      "id": "6425e1890f971e214835bba7",
+      "topic": "pc",
+      "title": "Faster MRI, Same Code: How AOCL-FFTZ Accelerates Medical Image Reconstruction - AMD",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLVVGQnAtNmZpX1hPRTg0WEVoWlNtemRIVXA1RksxQXdOTEplVFkwSEZYYXF2ckY4RmU4aGpKbVctT28tNVUxQmNlNkY3c193QzF2Zk0ya3RnaGU3UEN3QXFtRExDWjNpMnhuZWNwYUotUFpkWnV0SmRMS0dWdnlGajJuYTVyUlEwdFpNUUFid2U5elh5UGZIdENxUnBpTWhBRDh3QzdQYkhrOWNVb1E1X0dOc3FwZUlKcEozeGwtS0R5ZURz?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "Faster MRI, Same Code: How AOCL-FFTZ Accelerates Medical Image Reconstruction AMD",
+      "published_utc": "2026-11-23T20:30:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLVVGQnAtNmZpX1hPRTg0WEVoWlNtemRIVXA1RksxQXdOTEplVFkwSEZYYXF2ckY4RmU4aGpKbVctT28tNVUxQmNlNkY3c193QzF2Zk0ya3RnaGU3UEN3QXFtRExDWjNpMnhuZWNwYUotUFpkWnV0SmRMS0dWdnlGajJuYTVyUlEwdFpNUUFid2U5elh5UGZIdENxUnBpTWhBRDh3QzdQYkhrOWNVb1E1X0dOc3FwZUlKcEozeGwtS0R5ZURz?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T20:30:00+00:00",
+          "title": "Faster MRI, Same Code: How AOCL-FFTZ Accelerates Medical Image Reconstruction - AMD"
+        }
+      ]
+    },
+    {
+      "id": "9933e146a99235b1334de4c4",
+      "topic": "ai",
+      "title": "From horsepower to firepower, Japan draws auto suppliers into major arms buildup - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdUZzM0tBSzRyTkV6ZEQ0a21iaXQweDdPV1p2SW03amU0RVlEZ215OEstR1V3ZkhwR0xRTzVIcVRJdTFVQmxoYURsXzJhSnNxb0JCUjF4RW9aQnMwaTFBS0p4cVAzZS1xbW1tRkxWNFlqWmN6VTdzQXh2MnBLMV9YbUcxcy12NWFVSl84Z1JRUWlSTVF2TFF1TS05c3cwY2dMcGMwTzd1eGdSUFNnQXB6S3REZnRoMGVPdkVJQ3VCMWJORlo0SVVDeU9MdGdPYld3S2tN?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "From horsepower to firepower, Japan draws auto suppliers into major arms buildup Reuters",
+      "published_utc": "2026-11-24T04:12:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdUZzM0tBSzRyTkV6ZEQ0a21iaXQweDdPV1p2SW03amU0RVlEZ215OEstR1V3ZkhwR0xRTzVIcVRJdTFVQmxoYURsXzJhSnNxb0JCUjF4RW9aQnMwaTFBS0p4cVAzZS1xbW1tRkxWNFlqWmN6VTdzQXh2MnBLMV9YbUcxcy12NWFVSl84Z1JRUWlSTVF2TFF1TS05c3cwY2dMcGMwTzd1eGdSUFNnQXB6S3REZnRoMGVPdkVJQ3VCMWJORlo0SVVDeU9MdGdPYld3S2tN?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T04:12:00+00:00",
+          "title": "From horsepower to firepower, Japan draws auto suppliers into major arms buildup - Reuters"
         }
       ]
     }

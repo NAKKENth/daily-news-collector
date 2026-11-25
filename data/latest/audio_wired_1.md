@@ -1,28 +1,30 @@
 # wired / 2026-11-25 / 候補 1–50
 
-- [HEDD Audio HEDDphone DX Review &mdash; Headfonics](https://headfonics.com/hedd-audio-heddphone-dx-review) — Headfonics｜優先｜2026-11-25T10:59:07+00:00 UTC｜article_metadata
+- [HEDD Audio HEDDphone DX Review &mdash; Headfonics](https://headfonics.com/hedd-audio-heddphone-dx-review) — Headfonics｜優先｜2026-11-25T10:59:07+00:00 UTC｜article_metadata｜同一話題候補 4b819c4b7ffb
 - [aune audio、より手頃な価格の大口径開放型ヘッドホン「AR3000」](https://www.phileweb.com/news/d-av/202611/25/66457.html) — PHILE WEB｜優先｜2026-11-25T07:48:34+00:00 UTC｜article_metadata
 - [aune audio、振動板／磁気回路を改良した大口径開放型ヘッドホン「AR5000MK2」](https://www.phileweb.com/news/d-av/202611/25/66456.html) — PHILE WEB｜優先｜2026-11-25T06:51:26+00:00 UTC｜article_metadata
 - [【11/28発売】aune audioからドライバー内部のエアフローが特徴のヘッドホン AR3000/AR5000 MK2 が登場！](https://e-earphone.blog/?p=1562285) — e earphone｜優先｜2026-11-25T02:00:00+00:00 UTC｜feed_published
 - [ホームシアターで培った独自技術を搭載！ヤマハの映像コンテンツ向けワイヤレスヘッドホンが33％オフ](https://www.phileweb.com/news/hobby/202611/25/8730.html) — PHILE WEB｜優先｜2026-11-25T04:13:18+00:00 UTC｜article_metadata
+- [HEDDphone DX Headphone Review - Audio Science Review (ASR) Forum](https://news.google.com/rss/articles/CBMimwFBVV95cUxPbGFneXlVS2l1MDVPS3BfTFJlbGlENDFRdWZmSHdLSEJMckswX1g3QjNfMjRNRGx3dVlveEpkeEtxa1R5TFV1eF9vb1YtenU5R29QdjRGLWx6NzJBS1BtLVJzeWJycFdQa0g4c1B0T0Y5ckgyX0RQbDJhR2hWMXlCMjNIbjhaWWQxaFdrWUhhWDVXbWFwdVBPOGpVUQ?oc=5) — Audio Science Review｜優先｜2026-11-25T05:08:55+00:00 UTC｜discovery_index｜同一話題候補 4b819c4b7ffb
+- [HEDDphone DX Headphone Review | Page 2 - Audio Science Review (ASR) Forum](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcUZzdW1LVktwbGNtRS1KR0Q0cEdWSGtBNnpfZHcyTnRwMDdGU2FrNFZZYllycU5jOG1GTk5hN1dZckhnRUFsR1gySmNGcmFIM0l5XzdFbkpYVjRaWWFqQS16Z3RuQ2N6UDc2WlVyMkR5NjVwNG5WMTdEbXFzY25LVEFNNE1mVTNLZmlHVEYxR1h5a3c4S2NwVmJvRVFpNHFFOTZJ?oc=5) — Audio Science Review｜優先｜2026-11-25T05:08:55+00:00 UTC｜discovery_index｜同一話題候補 4b819c4b7ffb
 - [HEDDphone® DX – our new open-back dynamic headphone - Thread Gallery - Head-Fi.org](https://news.google.com/rss/articles/CBMirwFBVV95cUxOXzBqeG5MbFV0YVF6TU1Falp0N2YwSFJHLVhGbmE4aGdEVlViTjNxOTZXeDM0akVMQ3hvdUtLT08xV2ZNci1TVVYyV2R5NnJTLUhJUEZkZzktVFJUM2U5SFBNeUFBX3FzbWNBRTV1aHU4bDV5blZjMzIxREl5dFJXaVJOaVE4Uk5ocDZwdzRNUUZrdVh1bXJCcTN4V1VXRXRyWlVURm8ybG04bFY5ODln?oc=5) — Head-Fi｜優先｜2026-11-25T10:45:55+00:00 UTC｜discovery_index
 - [AsciLab、低歪なデンマーク製ユニットで統一した最上位ブックシェルフスピーカー「S6B」](http://www.phileweb.com/news/audio/202611/25/28448.html) — PHILE WEB｜要確認｜2026-11-25T10:25:13+00:00 UTC｜feed_published
 - [B＆W「802D5」試聴会、逸品館新店舗1号館にて11/28・29に開催](http://www.phileweb.com/news/audio/202611/25/28443.html) — PHILE WEB｜要確認｜2026-11-25T02:46:43+00:00 UTC｜feed_published
 - [Estelonのサウンドを体感できる「Estelon Experience Week」、11/26・28に六本木で開催。「XB Diamond MkII」など展示](http://www.phileweb.com/news/audio/202611/25/28450.html) — PHILE WEB｜要確認｜2026-11-25T10:26:31+00:00 UTC｜feed_published
-- [HEGEL、「純粋な伝送経路を大切にするオーディオファンのために設計」したフルアナログアンプ](https://av.watch.impress.co.jp/docs/news/2159000.html) — AV Watch Audio｜要確認｜2026-11-25T06:00:00+00:00 UTC｜feed_published
+- [HEGEL、「純粋な伝送経路を大切にするオーディオファンのために設計」したフルアナログアンプ](https://av.watch.impress.co.jp/docs/news/2159000.html) — AV Watch Audio｜要確認｜2026-11-25T06:00:00+00:00 UTC｜article_metadata
 - [Higo Beat、国産木材スピーカーを試聴できる東京初ポップアップ。代官山 蔦屋書店で12/1から](http://www.phileweb.com/news/audio/202611/25/28444.html) — PHILE WEB｜要確認｜2026-11-25T03:24:29+00:00 UTC｜feed_published
-- [JBL Tune 530C USB-C wired headphones are back at their low](https://www.soundguys.com/jbl-tune-530c-deal-166790) — SoundGuys｜要確認｜2026-11-25T10:40:28+00:00 UTC｜feed_published
+- [JBL Tune 530C USB-C wired headphones are back at their low](https://www.soundguys.com/jbl-tune-530c-deal-166790) — SoundGuys｜要確認｜2026-11-25T10:40:28+00:00 UTC｜article_metadata
 - [LINN、DACアップグレードサービスやMAJIKシステム10％オフの「ウィンタープロモーション2026」](http://www.phileweb.com/news/audio/202611/25/28441.html) — PHILE WEB｜要確認｜2026-11-25T02:53:04+00:00 UTC｜feed_published
 - [TIDALが完全AI生成楽曲を12/9から全面禁止。既存の約2700万曲を削除へ](http://www.phileweb.com/news/audio/202611/25/28445.html) — PHILE WEB｜要確認｜2026-11-25T04:29:26+00:00 UTC｜feed_published
 - [TVer、番組の盛り上がった瞬間を縦スワイプで探せる「シーン機能」提供開始。シームレスに全編視聴へ移行](http://www.phileweb.com/news/hobby/202611/25/8729.html) — PHILE WEB｜要確認｜2026-11-25T03:28:24+00:00 UTC｜feed_published
 - [audiolab、最大768kHz/32bit・DSD 22.5MHz対応のD/Aコンバーター「D9」](http://www.phileweb.com/news/audio/202611/25/28449.html) — PHILE WEB｜要確認｜2026-11-25T10:19:27+00:00 UTC｜feed_published
-- [e☆イヤホン仙台駅前店、'27年1月末で営業終了](https://av.watch.impress.co.jp/docs/news/2159179.html) — AV Watch Audio｜要確認｜2026-11-25T07:36:35+00:00 UTC｜feed_published
+- [e☆イヤホン仙台駅前店、&#039;27年1月末で営業終了](https://av.watch.impress.co.jp/docs/news/2159179.html) — AV Watch Audio｜要確認｜2026-11-25T07:36:35+00:00 UTC｜article_metadata
 - [“対称性”を追求する国産ケーブルブランド「Symmetrical Connection」登場。第1弾は純銀ケーブル「Reference Standard」](https://www.phileweb.com/news/audio/202611/25/28431.html) — PHILE WEB｜要確認｜2026-11-25T03:53:09+00:00 UTC｜article_metadata
 - [「VGP2027」特設サイトが公開！ この冬のベストバイは？](http://www.phileweb.com/news/d-av/202611/25/66450.html) — PHILE WEB｜要確認｜2026-11-25T03:58:47+00:00 UTC｜feed_published
 - [【12月1日より金利条件が変わります】JACCSのWeb完結型ショッピングクレジットWeBBy(ウェビー)](https://e-earphone.blog/?p=1556973) — e earphone｜要確認｜2026-11-25T01:00:00+00:00 UTC｜feed_published
 - [【moraアニソンランキング】JO1「IGNITE」が約2か月ぶり再度トップに！2位は“再始動”のsupercell「夜と青」](http://www.phileweb.com/news/d-av/202611/25/66454.html) — PHILE WEB｜要確認｜2026-11-25T02:51:50+00:00 UTC｜feed_published
-- [【本日みつけたお買い得品】オーテクのノイキャン搭載イヤフォンが3,800円引きで販売中](https://pc.watch.impress.co.jp/docs/news/todays_sales/2158989.html) — PC Watch｜要確認｜2026-11-25T02:20:09+00:00 UTC｜feed_published
-- [シマムセン、ESOTERIC新製品「Grandioso K1XE」「T-01」試聴会を12/12・13に開催](http://www.phileweb.com/news/audio/202611/25/28440.html) — PHILE WEB｜要確認｜2026-11-25T02:29:51+00:00 UTC｜feed_published
+- [オーテクのノイキャン搭載イヤフォンが3,800円引きで販売中](https://pc.watch.impress.co.jp/docs/news/todays_sales/2158989.html) — PC Watch｜要確認｜2026-11-25T02:20:09+00:00 UTC｜article_metadata
+- [シマムセン、ESOTERIC新製品「Grandioso K1XE」「T-01」試聴会を12/12・13に開催](https://www.phileweb.com/news/audio/202611/25/28440.html) — PHILE WEB｜要確認｜2026-11-25T02:29:51+00:00 UTC｜article_metadata
 - [ニトリ、「すみずみクッキリパネル」採用の新4K Mini LED液晶テレビ。明るさ向上し輝度ムラも低減](http://www.phileweb.com/news/d-av/202611/25/66458.html) — PHILE WEB｜要確認｜2026-11-25T06:58:25+00:00 UTC｜feed_published
 - [バッファロー、使用量メーター付きテレビ録画用外付けHDD「HDV-SAMU3-Aシリーズ」に6TBモデルを追加](http://www.phileweb.com/news/d-av/202611/25/66459.html) — PHILE WEB｜要確認｜2026-11-25T10:22:02+00:00 UTC｜feed_published
 - [神木隆之介が石田三成に。2029年NHK大河ドラマ『三成のうた』発表](http://www.phileweb.com/news/hobby/202611/25/8731.html) — PHILE WEB｜要確認｜2026-11-25T08:58:28+00:00 UTC｜feed_published
@@ -48,5 +50,3 @@
 - [FiiO LC-RE Gold-Silver-Copper Modular IEM MMCX Cable + Free 2-Pin Adapters) - Head-Fi.org](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRF9oZXROUnBiSEdSaGE1QkMyWTc5X1VnbTBUX2VaanI4S0paT0RvX0s1RU5fZHhZZjBZRlZobTJ3X19JYmVxa0VuTlJWLUpUT29Hc2VYUTVOZlNodGJUa1VZdW5OZ3JRX0pwWmpRZjZscG9NZmlfY0hyb0hsTF9CRUgzeDgwYzV2cVZJeWczZmpDNFdrbkduZ25KV0Y5TExUY3RpajhGZ1BrbU5VdFV4MVZfXzhpYnM?oc=5) — Head-Fi｜要確認｜2026-11-25T11:17:02+00:00 UTC｜discovery_index
 - [FiiO UTWS5 2025 – 0,78 mm 2-pin - Head-Fi.org](https://news.google.com/rss/articles/CBMihgFBVV95cUxPX0FaSkRiVHAwQ0NKVW5WeEs0M0Q1bEdZbDNKNzJ6WENGRmEtM3BLR1JGd25FSHRKczdxaHBkZmdxQzJ1SFFSTjZnVHdQbmZucHVmTzlMU3NMc19ScXRhS2RsUHlCMXdTMVhUeTMtbFRlTmwtUDlkY0JERjU4UTJIYlFlZXF2QQ?oc=5) — Head-Fi｜要確認｜2026-11-24T19:18:21+00:00 UTC｜discovery_index
 - [Fiio K17 - Head-Fi.org](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQdlhEQ0hyUmFOQ2FnX2pjbUN1Y1VhUGpSQXdRUkdtZnZYSFZzdko1NnhQT2ZVeVF1TjhILWtwZjN2SkZBVWs4WjZWLU5ZRUFMLWFXSVNSMW8wZm9QcDc3S0VB?oc=5) — Head-Fi｜要確認｜2026-11-25T11:17:01+00:00 UTC｜discovery_index
-- [Fiio M15 - Head-Fi.org](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Ud3k1TTFlcTcwanQ3Y3Z1N3JpVnQyZ2lxd1p6XzRJTGhxMHp0OFBDU3lsc2pQc2FsdlpsRlJIRXpyVVVLblFSTVdsR2ZjcmJ6YWU5d3BGdlluVzZ1N29Hc0ln?oc=5) — Head-Fi｜要確認｜2026-11-24T21:59:53+00:00 UTC｜discovery_index
-- [Grado GH3 Limited Edition Headphones - Head-Fi.org](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZWtCZENlUXBUZk1CNm9CRnBma3NxNGtvSFFVTG5SR210WHVGMzZUTnlEZlhJUGNGQUtsOE1UY3YwX1NVZmJRX0syaUVRMlJVM2N5c0F0V1p2bk5KTXJtMkJRQmR1UzJqMFYyYTZSajJzc1FMOTk2SC1tTG1qVFJfS2VhSmFyRmc?oc=5) — Head-Fi｜要確認｜2026-11-25T11:19:06+00:00 UTC｜discovery_index

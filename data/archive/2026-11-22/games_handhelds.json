@@ -384,6 +384,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "c23cfb3d0f3c",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80MzJFaTRzM192ZHZ1Z053dXBERGgtSkt0enFLa0VSV3NHWVJKYk1OTDZpWHk0V0VFNUp3ei1aR05xWHBUS004cEFCN1BFVmVBT1RXQ3JxTjVKZmdkZ2xFdUMtZEVMdkpOXzdpd3Z3ak5XclNZQmJ1WUR6SUlPS1U?oc=5",
@@ -1620,6 +1621,293 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-21T21:50:03+00:00",
           "title": "Dungeon Tavern - Steam"
+        }
+      ]
+    },
+    {
+      "id": "e21cc73c45e7aa5893254f1e",
+      "topic": "racing_games",
+      "title": "Racing Club Event Of The Week: The Vice City 200 In rFactor 2 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORnJNM2YwMjlPTU1hS0w4Yktsa2FCZm5ERUh5M3Z0anBCVWludUxabmVLc1JjVjZzbFJ1WnplWGFpcFdkUnpzanhhSzJBLU9GS2F6SVlLa0JlMldxemZiRjZHZENkVVU4eFZKeVZkTW1UZEx4Wm9QNHV6a3Bfd0Z6SV9MdHh1WDdXeERBQy1Sd3VxVHBucFpwUDFsWQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Racing Club Event Of The Week: The Vice City 200 In rFactor 2 overtake.gg",
+      "published_utc": "2026-11-22T08:00:01+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORnJNM2YwMjlPTU1hS0w4Yktsa2FCZm5ERUh5M3Z0anBCVWludUxabmVLc1JjVjZzbFJ1WnplWGFpcFdkUnpzanhhSzJBLU9GS2F6SVlLa0JlMldxemZiRjZHZENkVVU4eFZKeVZkTW1UZEx4Wm9QNHV6a3Bfd0Z6SV9MdHh1WDdXeERBQy1Sd3VxVHBucFpwUDFsWQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T08:00:01+00:00",
+          "title": "Racing Club Event Of The Week: The Vice City 200 In rFactor 2 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "461f8e2ffe34d9a1461d083c",
+      "topic": "racing_games",
+      "title": "MAD Formula Team MFT02 - Updates - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMX1FpMjY5RThpUWlFTXJzSEdmZ25yb3R5UG1DRWlpeDFhNDBQdTZGWm5uYTNEM0JHakhvdkhjTjVLMjVTVTBVVVZYOTlvcHJRbjZBN2dLRVZ3MVhWOWtxaHQ4LWhneVJIT1pkVkRiR29BNmZzWTY0bmh3?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "MAD Formula Team MFT02 - Updates overtake.gg",
+      "published_utc": "2026-11-22T12:51:28+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMX1FpMjY5RThpUWlFTXJzSEdmZ25yb3R5UG1DRWlpeDFhNDBQdTZGWm5uYTNEM0JHakhvdkhjTjVLMjVTVTBVVVZYOTlvcHJRbjZBN2dLRVZ3MVhWOWtxaHQ4LWhneVJIT1pkVkRiR29BNmZzWTY0bmh3?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T12:51:28+00:00",
+          "title": "MAD Formula Team MFT02 - Updates - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "49c882febe5609fc25e07ca4",
+      "topic": "racing_games",
+      "title": "Torino 1955 2026-11-22 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01dXdBX0dUNDRLclVQTFY4RVBHU3ZXcTIwTFRxU2hjRjM3RlVLVnRvaUloanROVUVfa201ZTdnN1QyTi00bnN0TEFlb0hrZ29jU3c2c2RZWXB1NllVd3N4czZR?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Torino 1955 2026-11-22 overtake.gg",
+      "published_utc": "2026-11-22T06:34:28+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01dXdBX0dUNDRLclVQTFY4RVBHU3ZXcTIwTFRxU2hjRjM3RlVLVnRvaUloanROVUVfa201ZTdnN1QyTi00bnN0TEFlb0hrZ29jU3c2c2RZWXB1NllVd3N4czZR?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T06:34:28+00:00",
+          "title": "Torino 1955 2026-11-22 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "6948e165a3b5d8ec4d090da5",
+      "topic": "racing_games",
+      "title": "Lancia Delta HF BigBabol - Reviews - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4ycDVUQy1jMUhPcmxDNy1CTXRucUl1VjltWEVtdEZMa3dFUWpZbFFWOE1aLVdKRWNHODc1ZlBzbHFlNlFrejhXbG9rXzVqbXhybFhGTFRIWWk4M0xTNWR6WWEzc1MzSnlrTWlENnM0NnlPWUwtdTRZZ19VZlQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Lancia Delta HF BigBabol - Reviews overtake.gg",
+      "published_utc": "2026-11-22T08:57:58+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4ycDVUQy1jMUhPcmxDNy1CTXRucUl1VjltWEVtdEZMa3dFUWpZbFFWOE1aLVdKRWNHODc1ZlBzbHFlNlFrejhXbG9rXzVqbXhybFhGTFRIWWk4M0xTNWR6WWEzc1MzSnlrTWlENnM0NnlPWUwtdTRZZ19VZlQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T08:57:58+00:00",
+          "title": "Lancia Delta HF BigBabol - Reviews - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "85a4e7569386e8119d1ff391",
+      "topic": "racing_games",
+      "title": "Pit Start Indicator - Updates - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aV1VOTk1kWWFaNGhsaHRfYWxEZk90VDd3OUhsQlEtYlhISzFLWUNCLWhnaldBdDNrdmJQMUFsYmZDSEc0YjUtNjBkVTFYY1U1dXRQZmoybWFDQy10SkQ4SUNPRnpkT3dxRUUzV201WnFubkk2NEE?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Pit Start Indicator - Updates overtake.gg",
+      "published_utc": "2026-11-21T23:08:21+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aV1VOTk1kWWFaNGhsaHRfYWxEZk90VDd3OUhsQlEtYlhISzFLWUNCLWhnaldBdDNrdmJQMUFsYmZDSEc0YjUtNjBkVTFYY1U1dXRQZmoybWFDQy10SkQ4SUNPRnpkT3dxRUUzV201WnFubkk2NEE?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T23:08:21+00:00",
+          "title": "Pit Start Indicator - Updates - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "5ce7a1a0ff2c7dc29806c3de",
+      "topic": "racing_games",
+      "title": "MMCM SimConnect – AC EVO: One Career, Two Worlds – Single Player Meets Multiplayer Ver.2.0.7 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeXk3Qk43SnBmQVZsV0lTczRKN05JeXBUdTFqU2pQTHJQb193NTFIY2lxRnJHdXpQdktCMmZvbVQ0N3FOcWc3QzlZbVBtX0tnaFhqWE9tYUFKd0tMNWFCbkVVYUp4OHdPaC1IVFladXhEQUFTNmZHZWJLSjV4TEliSXM1bWIwajF3d2FSUFltb3Q0OVZYZlFQS2pJbmRkbWFNNW1NMDhDXzZGT2pOQldoS0owZkxmSWk0WmwwUnZvMlBmUXBvVFM2X2NRX0xKdW9HTERv?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "MMCM SimConnect – AC EVO: One Career, Two Worlds – Single Player Meets Multiplayer Ver.2.0.7 overtake.gg",
+      "published_utc": "2026-11-22T13:23:42+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeXk3Qk43SnBmQVZsV0lTczRKN05JeXBUdTFqU2pQTHJQb193NTFIY2lxRnJHdXpQdktCMmZvbVQ0N3FOcWc3QzlZbVBtX0tnaFhqWE9tYUFKd0tMNWFCbkVVYUp4OHdPaC1IVFladXhEQUFTNmZHZWJLSjV4TEliSXM1bWIwajF3d2FSUFltb3Q0OVZYZlFQS2pJbmRkbWFNNW1NMDhDXzZGT2pOQldoS0owZkxmSWk0WmwwUnZvMlBmUXBvVFM2X2NRX0xKdW9HTERv?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T13:23:42+00:00",
+          "title": "MMCM SimConnect – AC EVO: One Career, Two Worlds – Single Player Meets Multiplayer Ver.2.0.7 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "40444b3a44085136a37f2b6c",
+      "topic": "racing_games",
+      "title": "SafariRally 2 Stages (WRC to ACR) 0.7 ready! - Reviews - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV002UGtfbVA2V2F3NVk4RkliMkdrVGIyM05Xc01NZWRKblZqMmtNRG80ekJJTzZKWjQxNFNzLTd2VjRVN1YydnBZMGotaWo4MkIyeW4yQmNORnA3U1dhY3E0NnpSV2JVTVBlNnA2R095Sy0zSW9vWktUSlBjLUlkUkJ5ZDRkX0lneHZNM0FXdFlWcGc?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "SafariRally 2 Stages (WRC to ACR) 0.7 ready! - Reviews overtake.gg",
+      "published_utc": "2026-11-22T04:14:42+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV002UGtfbVA2V2F3NVk4RkliMkdrVGIyM05Xc01NZWRKblZqMmtNRG80ekJJTzZKWjQxNFNzLTd2VjRVN1YydnBZMGotaWo4MkIyeW4yQmNORnA3U1dhY3E0NnpSV2JVTVBlNnA2R095Sy0zSW9vWktUSlBjLUlkUkJ5ZDRkX0lneHZNM0FXdFlWcGc?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T04:14:42+00:00",
+          "title": "SafariRally 2 Stages (WRC to ACR) 0.7 ready! - Reviews - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "a70ba58de463d096d8387154",
+      "topic": "racing_games",
+      "title": "RRCA – Rob's Race Crew Advanced | Crew Chief 4.0 AI Extension - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQalVfY0hHUWctclNhdHY0MW1aWVJvZmRYRFlBMHhwWEJfZzdRc3J5NlhZY2FBa054dkVsM0xORWFTVHRMY3FFc3g3U212NmxCNV9BQW1SMHZtWHZqNVFXY3AwT2stTklSdVZMNnhTX1M2UzJ0Q0Y3NkFCX1YwNVhvVFZjd0VEdTRiWEpZSE1Gdm9DY19ZT29DeUxyOWszN0Y3bmJBaDhoWHI4TjA?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "RRCA – Rob's Race Crew Advanced | Crew Chief 4.0 AI Extension overtake.gg",
+      "published_utc": "2026-11-21T22:36:42+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQalVfY0hHUWctclNhdHY0MW1aWVJvZmRYRFlBMHhwWEJfZzdRc3J5NlhZY2FBa054dkVsM0xORWFTVHRMY3FFc3g3U212NmxCNV9BQW1SMHZtWHZqNVFXY3AwT2stTklSdVZMNnhTX1M2UzJ0Q0Y3NkFCX1YwNVhvVFZjd0VEdTRiWEpZSE1Gdm9DY19ZT29DeUxyOWszN0Y3bmJBaDhoWHI4TjA?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T22:36:42+00:00",
+          "title": "RRCA – Rob's Race Crew Advanced | Crew Chief 4.0 AI Extension - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "03af60c3f53582f93680e236",
+      "topic": "racing_games",
+      "title": "Pajko's track editor - Updates - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wMTFudVdhanlnWlcxbkFpckhTcFNkQm5wUVdDX3pRWVpybEVSejNrSzRha29SenJyb2pnVVRYdU9WVHNBOVQ1QWVKYXJVS2J5VHFSNnBQUEZ3MjBhQTNBWlZYdWFQanhOYVZZeUdsQVlwb25la2c?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Pajko's track editor - Updates overtake.gg",
+      "published_utc": "2026-11-21T21:56:08+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wMTFudVdhanlnWlcxbkFpckhTcFNkQm5wUVdDX3pRWVpybEVSejNrSzRha29SenJyb2pnVVRYdU9WVHNBOVQ1QWVKYXJVS2J5VHFSNnBQUEZ3MjBhQTNBWlZYdWFQanhOYVZZeUdsQVlwb25la2c?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T21:56:08+00:00",
+          "title": "Pajko's track editor - Updates - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "ab68e48236becf7793fc341f",
+      "topic": "racing_games",
+      "title": "Resources by Carlito1964 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnRkl6Q3hoM082ekpLX0hfM3JmbkJTV2ZQOVZLb09qaTlBYmdxVzlBazVVUzBJdTY0VG1xX1NDSFJTNkwyZnk2YnVkR0FFNENraXRRLUpPNEJicUloWGZhYjFSRVAxb2RnalpwR3lFVQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Resources by Carlito1964 overtake.gg",
+      "published_utc": "2026-11-21T17:02:57+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnRkl6Q3hoM082ekpLX0hfM3JmbkJTV2ZQOVZLb09qaTlBYmdxVzlBazVVUzBJdTY0VG1xX1NDSFJTNkwyZnk2YnVkR0FFNENraXRRLUpPNEJicUloWGZhYjFSRVAxb2RnalpwR3lFVQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T17:02:57+00:00",
+          "title": "Resources by Carlito1964 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "a42b513f1d59d37bfe69d0ac",
+      "topic": "racing_games",
+      "title": "Iiboshi_touge_wide_style_VR46kazu Iiboshi_touge_wide_VR46kazu_V1.1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNVd3U0pGa2JWZVRNUDNtSG9yX0ktNGw0eXpPZF9Na2lWcG05SFo4TS1FbWJfYVR5SzQxUzlLUHk3Y1A5SlY4a0pSWXU2MmdRYk14WEhlM3hUaTRnOGsyWVRnclVpa0tWcVJjcUhmMWtMdjN0RXRIRXRaazVkeS05cWZ3ei1PNEd0?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Iiboshi_touge_wide_style_VR46kazu Iiboshi_touge_wide_VR46kazu_V1.1 overtake.gg",
+      "published_utc": "2026-11-22T08:19:55+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "c23cfb3d0f3c",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNVd3U0pGa2JWZVRNUDNtSG9yX0ktNGw0eXpPZF9Na2lWcG05SFo4TS1FbWJfYVR5SzQxUzlLUHk3Y1A5SlY4a0pSWXU2MmdRYk14WEhlM3hUaTRnOGsyWVRnclVpa0tWcVJjcUhmMWtMdjN0RXRIRXRaazVkeS05cWZ3ei1PNEd0?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T08:19:55+00:00",
+          "title": "Iiboshi_touge_wide_style_VR46kazu Iiboshi_touge_wide_VR46kazu_V1.1 - overtake.gg"
         }
       ]
     }

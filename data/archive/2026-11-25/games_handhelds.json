@@ -180,16 +180,16 @@
     {
       "id": "c997c623c9de5da1582dbfb8",
       "topic": "racing_games",
-      "title": "Igor Fraga’s Wild 2026 Brings Third in Super Formula and First GT500 Podium",
+      "title": "Igor Fraga&#8217;s Wild 2026 Brings Third in Super Formula and First GT500 Podium",
       "url": "https://www.gtplanet.net/igor-fragas-wild-2026-brings-third-in-super-formula-and-first-gt500-podium-20261124",
       "source": "GTPlanet",
       "publisher": "GTPlanet",
       "description": "Igor Fraga has finished third in the 2026 Super Formula championship after a season of two wins and two poles, and he's now headed to the Gran Turismo World Series World Finals in Tokyo...",
       "published_utc": "2026-11-24T20:53:35+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -197,11 +197,15 @@
           "url": "https://www.gtplanet.net/igor-fragas-wild-2026-brings-third-in-super-formula-and-first-gt500-podium-20261124",
           "source": "GTPlanet",
           "publisher": "GTPlanet",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T20:53:35+00:00",
-          "title": "Igor Fraga’s Wild 2026 Brings Third in Super Formula and First GT500 Podium"
+          "title": "Igor Fraga&#8217;s Wild 2026 Brings Third in Super Formula and First GT500 Podium"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T15:53:35-05:00",
+      "article_modified_raw": "2026-11-24T16:05:22-05:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "747b00b2383ed015649a240d",
@@ -296,6 +300,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "レースゲーム候補",
+      "possible_event_id": "6ac7b6f5066f",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNblNFcjZTVUhxM3RVWlRnYXd2NDNfWFBPOTBjRHZqMlRIVEhleGxmVkZycTVoS1h5bUxjRVNxM3FsbUNLXzU4cVV0d3dFTzhsZzBMbTQyREtQck1DcmxoY3Z0ZWtiNFhQSEphbjFEc3IwTGtieHlrU2dKZzlGT3FnbG9uRkNDNG5DZ2F3ekxTSnpudXlaUW5iaTBUNGZJM2ZHbmQyNThjdXB3QW9iMDQ5bll6cGswMXBRekE?oc=5",
@@ -384,6 +389,34 @@
           "title": "APEX HUD 1.0.0 - overtake.gg"
         }
       ]
+    },
+    {
+      "id": "b8ac2f6ce45958076a0167ab",
+      "topic": "racing_games",
+      "title": "Paddock Wire 0.5.0 (Early Access) - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wb0hPU3NJYl9uNktVRUl6eTdyN2N2WnQweFdMYWR3aHdLV2dnSmN2T25pU3J0Yzhjam1Pa2lNUV83SEZXVFpuX1doS1pOemFYbHN1c2FGMFppazl6Y2NVSW5fUQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Paddock Wire 0.5.0 (Early Access) overtake.gg",
+      "published_utc": "2026-11-24T18:07:01+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wb0hPU3NJYl9uNktVRUl6eTdyN2N2WnQweFdMYWR3aHdLV2dnSmN2T25pU3J0Yzhjam1Pa2lNUV83SEZXVFpuX1doS1pOemFYbHN1c2FGMFppazl6Y2NVSW5fUQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T18:07:01+00:00",
+          "title": "Paddock Wire 0.5.0 (Early Access) - overtake.gg"
+        }
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "af81baa8a48e6b3d5d057a90",
@@ -902,12 +935,12 @@
       "url": "https://traxion.gg/mario-kart-world-adds-eight-new-tracks-and-replay-mode-in-free-update",
       "source": "Traxion",
       "publisher": "Traxion",
-      "description": "Mario Kart World’s latest update also adds two new Knockout Tour routes. The post Mario Kart World adds eight new tracks and replay mode in free update appeared first on Traxion.GG .",
+      "description": "Mario Kart World’s latest update also adds two new Knockout Tour routes.",
       "published_utc": "2026-11-25T12:46:10+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -915,25 +948,29 @@
           "url": "https://traxion.gg/mario-kart-world-adds-eight-new-tracks-and-replay-mode-in-free-update",
           "source": "Traxion",
           "publisher": "Traxion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T12:46:10+00:00",
           "title": "Mario Kart World adds eight new tracks and replay mode in free update"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T12:46:10+00:00",
+      "article_modified_raw": "2026-11-25T12:46:17+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "0b8a73de2c644727c55620a3",
       "topic": "racing_games",
-      "title": "GTA 6: Where to find Brian O’Conner’s Mitsubishi Eclipse clone",
+      "title": "GTA 6: Where to find Brian O&#8217;Conner’s Mitsubishi Eclipse clone",
       "url": "https://traxion.gg/grand-theft-auto-vi-where-to-find-brian-oconners-the-fast-and-the-furious-mitsubishi-eclipse-clone",
       "source": "Traxion",
       "publisher": "Traxion",
-      "description": "Find out where to locate Brian O'Conner's iconic Mitsubishi Eclipse clone in GTA 6. The post GTA 6: Where to find Brian O’Conner’s Mitsubishi Eclipse clone appeared first on Traxion.GG .",
+      "description": "Find out where to locate Brian O'Conner's iconic Mitsubishi Eclipse clone in GTA 6.",
       "published_utc": "2026-11-25T12:15:53+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -941,11 +978,15 @@
           "url": "https://traxion.gg/grand-theft-auto-vi-where-to-find-brian-oconners-the-fast-and-the-furious-mitsubishi-eclipse-clone",
           "source": "Traxion",
           "publisher": "Traxion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T12:15:53+00:00",
-          "title": "GTA 6: Where to find Brian O’Conner’s Mitsubishi Eclipse clone"
+          "title": "GTA 6: Where to find Brian O&#8217;Conner’s Mitsubishi Eclipse clone"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T12:15:53+00:00",
+      "article_modified_raw": "2026-11-25T13:44:41+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "ccbb233990af3b2bab80f7f5",
@@ -954,12 +995,12 @@
       "url": "https://traxion.gg/grand-theft-auto-vi-is-the-biggest-game-launch-in-playstation-history-with-over-39-million-players",
       "source": "Traxion",
       "publisher": "Traxion",
-      "description": "PS5 console sales have also skyrocketed thanks to GTA VI. The post GTA VI is the “biggest game launch in PlayStation history” with over 39 million players on PS5 appeared first on Traxion.GG .",
+      "description": "PS5 console sales have also skyrocketed thanks to GTA VI.",
       "published_utc": "2026-11-25T10:33:58+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -967,25 +1008,29 @@
           "url": "https://traxion.gg/grand-theft-auto-vi-is-the-biggest-game-launch-in-playstation-history-with-over-39-million-players",
           "source": "Traxion",
           "publisher": "Traxion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T10:33:58+00:00",
           "title": "GTA VI is the “biggest game launch in PlayStation history” with over 39 million players on PS5"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T10:33:58+00:00",
+      "article_modified_raw": "2026-11-25T10:39:11+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "875083def9d35c089d8bf682",
       "topic": "racing_games",
-      "title": "The one where we talk about GTA VI (but also AC Rally, GT7 and iRacing) – Traxion Control Podcast",
+      "title": "The one where we talk about GTA VI (but also AC Rally, GT7 and iRacing) &#8211; Traxion Control Podcast",
       "url": "https://traxion.gg/the-one-where-we-talk-about-gta-vi",
       "source": "Traxion",
       "publisher": "Traxion",
-      "description": "The Traxion team has been playing GTA VI and is amazed by its car and damage detail… but it’s not all about that game… honest! The post The one where we talk about GTA VI (but also AC Rally, GT7 and iRacing) – Traxion Control Podcast appeared first on Traxion.GG .",
+      "description": "The Traxion team has been playing GTA VI and is amazed by its car and damage detail… but it’s not all about that game… honest!",
       "published_utc": "2026-11-25T09:00:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "レースゲーム候補",
       "sources": [
@@ -993,11 +1038,15 @@
           "url": "https://traxion.gg/the-one-where-we-talk-about-gta-vi",
           "source": "Traxion",
           "publisher": "Traxion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T09:00:00+00:00",
-          "title": "The one where we talk about GTA VI (but also AC Rally, GT7 and iRacing) – Traxion Control Podcast"
+          "title": "The one where we talk about GTA VI (but also AC Rally, GT7 and iRacing) &#8211; Traxion Control Podcast"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T09:00:00+00:00",
+      "article_modified_raw": "2026-11-25T11:07:17+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "0fca61fbddac3343c2fb56b4",
@@ -1066,12 +1115,12 @@
       "url": "https://traxion.gg/gran-turismo-world-series-finals-to-showcase-three-cars-yet-to-appear-in-gt7",
       "source": "Traxion",
       "publisher": "Traxion",
-      "description": "These three cars on display at the World Series Final could join Gran Turismo 7’s vehicle roster in the future. The post Gran Turismo World Series Final to showcase three cars yet to appear in GT7 appeared first on Traxion.GG .",
+      "description": "These cars on display at the World Series Final could join Gran Turismo 7’s vehicle roster in the future.",
       "published_utc": "2026-11-24T15:22:03+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "レースゲーム候補",
       "sources": [
@@ -1079,11 +1128,15 @@
           "url": "https://traxion.gg/gran-turismo-world-series-finals-to-showcase-three-cars-yet-to-appear-in-gt7",
           "source": "Traxion",
           "publisher": "Traxion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T15:22:03+00:00",
           "title": "Gran Turismo World Series Final to showcase three cars yet to appear in GT7"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T15:22:03+00:00",
+      "article_modified_raw": "2026-11-25T11:13:03+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "58aab2d663db205aafa32ead",
@@ -1092,12 +1145,12 @@
       "url": "https://traxion.gg/grand-theft-auto-6-infinite-money-glitch",
       "source": "Traxion",
       "publisher": "Traxion",
-      "description": "If you’re reading this, you are likely playing Grand Theft Auto VI and struggling to find enough cash to progress through the story. No doubt you’ve browsed social media and seen several ways to make a quick buck in the game, and below we’ll explain where to find one such money-making location. GTA 6: Infinite... Continue reading \"Grand Theft Auto ",
+      "description": "Check out our GTA VI guide on how to find a glitched-out warehouse with infinite money. Just because you can do it, doesn't mean you should, however...",
       "published_utc": "2026-11-24T15:01:52+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1105,11 +1158,15 @@
           "url": "https://traxion.gg/grand-theft-auto-6-infinite-money-glitch",
           "source": "Traxion",
           "publisher": "Traxion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T15:01:52+00:00",
           "title": "Grand Theft Auto 6: How to get infinite money (via a glitch)"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T15:01:52+00:00",
+      "article_modified_raw": "2026-11-24T16:38:04+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "320a8187dfd36af2cfcb3667",
@@ -4318,6 +4375,319 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T16:35:26+00:00",
           "title": "Forever Ago - Steam"
+        }
+      ]
+    },
+    {
+      "id": "f339786e20f0c553202018d9",
+      "topic": "racing_games",
+      "title": "Tool Stint Manager 8.3 - ACC, Le Mans Ultimate & Assetto Corsa EVO - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY0ROQUl6NnY4dnp5ZkgtLW1jYTVDaHVXSjdOdmJQQWlWRmlIbmtrT0o4eE5JY21UakVFallwdDBpbXp1TG9yVzl3QndqVnBDbHp4U044eXFMZEduSU5JQnl4b2JzMFcxd0pLMnBfMkhyd3dCUkZpbmlJUTdJZ0ZocHJNSlloOUIxbXAxTG9ld0l6ZXBWSThDMWZ5QURINzU3eS1NSA?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Tool Stint Manager 8.3 - ACC, Le Mans Ultimate & Assetto Corsa EVO overtake.gg",
+      "published_utc": "2026-11-24T22:04:09+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY0ROQUl6NnY4dnp5ZkgtLW1jYTVDaHVXSjdOdmJQQWlWRmlIbmtrT0o4eE5JY21UakVFallwdDBpbXp1TG9yVzl3QndqVnBDbHp4U044eXFMZEduSU5JQnl4b2JzMFcxd0pLMnBfMkhyd3dCUkZpbmlJUTdJZ0ZocHJNSlloOUIxbXAxTG9ld0l6ZXBWSThDMWZ5QURINzU3eS1NSA?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:04:09+00:00",
+          "title": "Tool Stint Manager 8.3 - ACC, Le Mans Ultimate & Assetto Corsa EVO - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "6b03939c1cd77a679cbdc948",
+      "topic": "racing_games",
+      "title": "PitSetup for AC Rally 0.7 - a full setup for every car on all 60 stages - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOUdqdm9fc0dDOFJxdnJpRC1PS0M4VzVNLU5MUjlKQkJIbk44c25iR0NpbTNNd2N2RTlya1dVOGpKZ3puREc0d2YybFZsV0dJbnl1RVV2enVpSnZ2MXJxbkNQcW1tMGlCOElocnF0UEcybll4djlIQVVmdzRUR0VLM09HY1FCWXpxSHo4elhoTDctWmZvcjJYalptd1pYWXlfVlZac0l2YTNtbmVTNFBJ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "PitSetup for AC Rally 0.7 - a full setup for every car on all 60 stages overtake.gg",
+      "published_utc": "2026-11-24T16:20:13+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOUdqdm9fc0dDOFJxdnJpRC1PS0M4VzVNLU5MUjlKQkJIbk44c25iR0NpbTNNd2N2RTlya1dVOGpKZ3puREc0d2YybFZsV0dJbnl1RVV2enVpSnZ2MXJxbkNQcW1tMGlCOElocnF0UEcybll4djlIQVVmdzRUR0VLM09HY1FCWXpxSHo4elhoTDctWmZvcjJYalptd1pYWXlfVlZac0l2YTNtbmVTNFBJ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T16:20:13+00:00",
+          "title": "PitSetup for AC Rally 0.7 - a full setup for every car on all 60 stages - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "e49dd910da2696cc11c17db4",
+      "topic": "racing_games",
+      "title": "APEX HUD - Extra info - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwZUxoa2hoUzJySWpCUTVrTFQwbXlBc01rc2JSaHBzemktUnlFcVRxRmFMUlFEV1V2R2wzS3d6aHVNVzlUaEkzT05fbUd4XzJ0OGh1a3F4ZlRQQTF6WEY3Njdkb3dRUGxYQUsyamxydU9qcGpkWGFFclM5cw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "APEX HUD - Extra info overtake.gg",
+      "published_utc": "2026-11-24T18:17:16+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwZUxoa2hoUzJySWpCUTVrTFQwbXlBc01rc2JSaHBzemktUnlFcVRxRmFMUlFEV1V2R2wzS3d6aHVNVzlUaEkzT05fbUd4XzJ0OGh1a3F4ZlRQQTF6WEY3Njdkb3dRUGxYQUsyamxydU9qcGpkWGFFclM5cw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T18:17:16+00:00",
+          "title": "APEX HUD - Extra info - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "03bd402795dffa6945326fef",
+      "topic": "racing_games",
+      "title": "GTR2 Hxk7 FX DLL 2026-11-24 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kUDhpNDdyYnN5bDlDbmRXSU95cUg3UkQ1SnUwREpuUDZYXzhlQ0lEZ2tMRG5iQTZveVpiY0hKQ0RjeW1ka2xPWTdNaEEtZ2pWRGJabmo2alBCeVpKVFhNSUQ5ZGdWd2N6?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "GTR2 Hxk7 FX DLL 2026-11-24 overtake.gg",
+      "published_utc": "2026-11-24T20:48:10+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kUDhpNDdyYnN5bDlDbmRXSU95cUg3UkQ1SnUwREpuUDZYXzhlQ0lEZ2tMRG5iQTZveVpiY0hKQ0RjeW1ka2xPWTdNaEEtZ2pWRGJabmo2alBCeVpKVFhNSUQ5ZGdWd2N6?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T20:48:10+00:00",
+          "title": "GTR2 Hxk7 FX DLL 2026-11-24 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "5984494a7d9fd4e5f4efcb5c",
+      "topic": "racing_games",
+      "title": "APEX HUD - History - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96bWlQSS1KLWhuUHNXeERXaDBfVjZuTTVTM0ROTXdhWUh5S01NMTFpS1V3YTROelpLQlJ3cmFrdDM4dWRMU2x4ZVFJZ1hRRnZyRU1kaFVmQUJIdGV0NEJ2dU5qcmtGdFk?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "APEX HUD - History overtake.gg",
+      "published_utc": "2026-11-24T18:17:16+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96bWlQSS1KLWhuUHNXeERXaDBfVjZuTTVTM0ROTXdhWUh5S01NMTFpS1V3YTROelpLQlJ3cmFrdDM4dWRMU2x4ZVFJZ1hRRnZyRU1kaFVmQUJIdGV0NEJ2dU5qcmtGdFk?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T18:17:16+00:00",
+          "title": "APEX HUD - History - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "0aae65fa09ec42bd1539c391",
+      "topic": "racing_games",
+      "title": "ButtMeter - Extra info - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wa0Z2ajAzLUswdExKcmFfQnRYeHVQRWZBWmlLSHVZakRTRHBEd2tQZHdYQ3M4VGpuU1RYb2NnZl82ZE9ZOUhFbzFUT2llTDlmTnMtU1VRWk1Ibmp1TFNwVWlNNHB5NC10dmctWWpEbFdkdFMxbkV6RUZmc1M?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "ButtMeter - Extra info overtake.gg",
+      "published_utc": "2026-11-24T23:22:16+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wa0Z2ajAzLUswdExKcmFfQnRYeHVQRWZBWmlLSHVZakRTRHBEd2tQZHdYQ3M4VGpuU1RYb2NnZl82ZE9ZOUhFbzFUT2llTDlmTnMtU1VRWk1Ibmp1TFNwVWlNNHB5NC10dmctWWpEbFdkdFMxbkV6RUZmc1M?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T23:22:16+00:00",
+          "title": "ButtMeter - Extra info - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "203bd07521cdcb59007a32df",
+      "topic": "racing_games",
+      "title": "Cielo Vista Dr 1.07 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ra2M5MktOaVJCR3NLaWMzLXRCQjFnNWdlZVBzY0k3dXlFTXlnUW5zaWlBM2VHZWhzcmlfOHlwNDB0TUpLTDBwd1ZhS0xWVXJZNFQ4eWNsajh3d2xfOFpIeFJzeHEtUQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Cielo Vista Dr 1.07 overtake.gg",
+      "published_utc": "2026-11-24T22:45:39+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ra2M5MktOaVJCR3NLaWMzLXRCQjFnNWdlZVBzY0k3dXlFTXlnUW5zaWlBM2VHZWhzcmlfOHlwNDB0TUpLTDBwd1ZhS0xWVXJZNFQ4eWNsajh3d2xfOFpIeFJzeHEtUQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:45:39+00:00",
+          "title": "Cielo Vista Dr 1.07 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "9be78b7b6f92dc27f0660904",
+      "topic": "racing_games",
+      "title": "Community Poll: Do Your Favorite Real-Life Series Affect What You Race In Sim Racing? - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Wc2JJOW5Lbnl1SmJSc2lzZnVaX0d1RjU0d1Z6RmNaYXB5enZ6TjkxRzk0OGlCVmlvWmlRQ3pUYUVsaDN4ZDgzVmQyVjRlRFAwMUZITDdXVjQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Community Poll: Do Your Favorite Real-Life Series Affect What You Race In Sim Racing? overtake.gg",
+      "published_utc": "2026-11-24T16:00:01+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "possible_event_id": "6ac7b6f5066f",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Wc2JJOW5Lbnl1SmJSc2lzZnVaX0d1RjU0d1Z6RmNaYXB5enZ6TjkxRzk0OGlCVmlvWmlRQ3pUYUVsaDN4ZDgzVmQyVjRlRFAwMUZITDdXVjQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T16:00:01+00:00",
+          "title": "Community Poll: Do Your Favorite Real-Life Series Affect What You Race In Sim Racing? - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "033ad81ccfe1e8998bf83d83",
+      "topic": "racing_games",
+      "title": "DiRT Legends 2026-11-24 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IV19aNFBGYWdTeWhUa3lMZGhxVUxBYnFRWmM1Z1ZpOTRvUnViWXZnNjlVZXNGRjduSFhJS0tMd1Y1QTIyMWF3el92bjlRYmhpVERsaFNLS01hS2NpMFpoV1VIVQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "DiRT Legends 2026-11-24 overtake.gg",
+      "published_utc": "2026-11-24T21:22:59+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IV19aNFBGYWdTeWhUa3lMZGhxVUxBYnFRWmM1Z1ZpOTRvUnViWXZnNjlVZXNGRjduSFhJS0tMd1Y1QTIyMWF3el92bjlRYmhpVERsaFNLS01hS2NpMFpoV1VIVQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T21:22:59+00:00",
+          "title": "DiRT Legends 2026-11-24 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "991b2609633ed7875f5c164f",
+      "topic": "racing_games",
+      "title": "DiRT Legends 2026-11-24 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9halk1Z0h1Y1QzbnZ3bkRtTWRSeHd0bFA2d3U3TDBxeFBhRGV1MjZqUnV4RTNDcHZGSkJKSFhqXzJqSE1fUnQ1RmF5cUxCd0V1b3JBY3psQnBCeFd3RkFEbE5PNHpzM0xlR3dJdA?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "DiRT Legends 2026-11-24 overtake.gg",
+      "published_utc": "2026-11-24T21:22:59+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9halk1Z0h1Y1QzbnZ3bkRtTWRSeHd0bFA2d3U3TDBxeFBhRGV1MjZqUnV4RTNDcHZGSkJKSFhqXzJqSE1fUnQ1RmF5cUxCd0V1b3JBY3psQnBCeFd3RkFEbE5PNHpzM0xlR3dJdA?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T21:22:59+00:00",
+          "title": "DiRT Legends 2026-11-24 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "620f5b7ef573ce56f129b99a",
+      "topic": "racing_games",
+      "title": "AC Apps Mods & Downloads | Page 45 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnMGdfYWZVdEprRWFXa1JMWnQ0Z0xZVDF3UEgzd2Vka1RPNlZnc08yUzZYSndvSk5ibWJKY1JkcFhfTjM3dXVCR0RQY0EwRDBWcjdJbS1sZnhtVzNpWEJSNS1vUmM1MVQ0N1h2NDd0blk?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "AC Apps Mods & Downloads | Page 45 overtake.gg",
+      "published_utc": "2026-11-25T07:01:29+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnMGdfYWZVdEprRWFXa1JMWnQ0Z0xZVDF3UEgzd2Vka1RPNlZnc08yUzZYSndvSk5ibWJKY1JkcFhfTjM3dXVCR0RQY0EwRDBWcjdJbS1sZnhtVzNpWEJSNS1vUmM1MVQ0N1h2NDd0blk?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T07:01:29+00:00",
+          "title": "AC Apps Mods & Downloads | Page 45 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "8873ab0d7cc8dca792a34b13",
+      "topic": "racing_games",
+      "title": "Mercedes-Benz SS Erdmann & Rossi 1930 1.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbDdBR3dyRnNUUXBuZUhRYTFvOVlDdVhTRHdBQU9JYzlkenVxVjFXdzB3a0pDZ0tHaXNvdGszV3daSU9EVEhpVktDY2U2Z0p3b1lFekM3UWVjdlRkcnVBWlJwaGIzam04WE5VN0NNYUNaT0ZIeFRVbFdXWnhpT0xtN3VR?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Mercedes-Benz SS Erdmann & Rossi 1930 1.0 overtake.gg",
+      "published_utc": "2026-11-25T04:44:06+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbDdBR3dyRnNUUXBuZUhRYTFvOVlDdVhTRHdBQU9JYzlkenVxVjFXdzB3a0pDZ0tHaXNvdGszV3daSU9EVEhpVktDY2U2Z0p3b1lFekM3UWVjdlRkcnVBWlJwaGIzam04WE5VN0NNYUNaT0ZIeFRVbFdXWnhpT0xtN3VR?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T04:44:06+00:00",
+          "title": "Mercedes-Benz SS Erdmann & Rossi 1930 1.0 - overtake.gg"
         }
       ]
     }

@@ -412,34 +412,6 @@
       ]
     },
     {
-      "id": "b8ac2f6ce45958076a0167ab",
-      "topic": "racing_games",
-      "title": "Paddock Wire 0.4.4 (Early Access) - overtake.gg",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wb0hPU3NJYl9uNktVRUl6eTdyN2N2WnQweFdMYWR3aHdLV2dnSmN2T25pU3J0Yzhjam1Pa2lNUV83SEZXVFpuX1doS1pOemFYbHN1c2FGMFppazl6Y2NVSW5fUQ?oc=5",
-      "source": "OverTake",
-      "publisher": "overtake.gg",
-      "description": "Paddock Wire 0.4.4 (Early Access) overtake.gg",
-      "published_utc": "2026-11-23T16:19:09+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wb0hPU3NJYl9uNktVRUl6eTdyN2N2WnQweFdMYWR3aHdLV2dnSmN2T25pU3J0Yzhjam1Pa2lNUV83SEZXVFpuX1doS1pOemFYbHN1c2FGMFppazl6Y2NVSW5fUQ?oc=5",
-          "source": "OverTake",
-          "publisher": "overtake.gg",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T16:19:09+00:00",
-          "title": "Paddock Wire 0.4.4 (Early Access) - overtake.gg"
-        }
-      ],
-      "enrichment": "failed",
-      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
-    },
-    {
       "id": "50e08fb0a8bc1bfecb706fa7",
       "topic": "racing_games",
       "title": "Driver Display 1.2.16 - overtake.gg",
@@ -3246,6 +3218,292 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T14:27:30+00:00",
           "title": "Ys X: Proud Nordics - Steam"
+        }
+      ]
+    },
+    {
+      "id": "2d68c7404648e79116803650",
+      "topic": "racing_games",
+      "title": "Helmet russel las vegas 2026 - RHP 2026-11-24 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RUmJpd1hUQVRLNElNVng3THdhbkZPOE5LUEppSHQ1bVBlVXZPSjlYSm9ObHRPcTJYUURhZGk1eG5neXltMDdYWDhuVGhLNXhHSTc4RU9SbExSSlk2ZHlYNW84RnM2cHlGdkpJcEkyWng0T3kzaEdPbjhsRUhFQQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Helmet russel las vegas 2026 - RHP 2026-11-24 overtake.gg",
+      "published_utc": "2026-11-24T02:46:58+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RUmJpd1hUQVRLNElNVng3THdhbkZPOE5LUEppSHQ1bVBlVXZPSjlYSm9ObHRPcTJYUURhZGk1eG5neXltMDdYWDhuVGhLNXhHSTc4RU9SbExSSlk2ZHlYNW84RnM2cHlGdkpJcEkyWng0T3kzaEdPbjhsRUhFQQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T02:46:58+00:00",
+          "title": "Helmet russel las vegas 2026 - RHP 2026-11-24 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "5cb781d19547961fe6cadc2d",
+      "topic": "racing_games",
+      "title": "Pit Wall 2.4.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sZHJBdlFmQ1hXX0g1ZkY1VnhWd2NseHN5OXh2cTNRV0ExVlh6WlE4OVVrRElNdkdsb1lGdC1lTW1zSEVTQ1g2Yi1CSU8wZDRLVGhLbkRJU1RIVWprd3c?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Pit Wall 2.4.0 overtake.gg",
+      "published_utc": "2026-11-23T21:45:32+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sZHJBdlFmQ1hXX0g1ZkY1VnhWd2NseHN5OXh2cTNRV0ExVlh6WlE4OVVrRElNdkdsb1lGdC1lTW1zSEVTQ1g2Yi1CSU8wZDRLVGhLbkRJU1RIVWprd3c?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T21:45:32+00:00",
+          "title": "Pit Wall 2.4.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "618474a1d66672dccf04e04d",
+      "topic": "racing_games",
+      "title": "F1 World Series | Epson Toyota F1 Team | Formula Hybrid® V12-R 2026 1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVlNWRGRKUm1wU3U3QkJ3a09GenZxb0RZdXVqdXVoVENCNWlmeEhOLWxZdnY3cW05TDFFaGRmVHlQekpoXzVxd0NvTzZWQUNOR1BzaExOR3NadDFfbFA0bUEtV3ZpSHRGNS01Mmg4WkFPOXJvS0VySzVJUkFkSDdlX3poc3FSYVdESG9rMEVINmI1OGU0ZVcxbllsWkVack1vdHFEdlM4ZW5EYWp5X2c?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "F1 World Series | Epson Toyota F1 Team | Formula Hybrid® V12-R 2026 1 overtake.gg",
+      "published_utc": "2026-11-24T12:03:07+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVlNWRGRKUm1wU3U3QkJ3a09GenZxb0RZdXVqdXVoVENCNWlmeEhOLWxZdnY3cW05TDFFaGRmVHlQekpoXzVxd0NvTzZWQUNOR1BzaExOR3NadDFfbFA0bUEtV3ZpSHRGNS01Mmg4WkFPOXJvS0VySzVJUkFkSDdlX3poc3FSYVdESG9rMEVINmI1OGU0ZVcxbllsWkVack1vdHFEdlM4ZW5EYWp5X2c?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T12:03:07+00:00",
+          "title": "F1 World Series | Epson Toyota F1 Team | Formula Hybrid® V12-R 2026 1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "2979304f825054a8a21cab46",
+      "topic": "racing_games",
+      "title": "Pit Start Indicator 0.9 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CT0hiVWNKTmlndU0yaS1jMlpxbUJyQXMtQmdOZWx4QlNJMFYwQ0JPWElNaEtVTEZqRktsVEQ4WlRqMDV6aEp6ZGlGV1FNYm54YnFRRk16ek9hWFdlWjJ0SHhsbEQ3NzFuZzZaeA?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Pit Start Indicator 0.9 overtake.gg",
+      "published_utc": "2026-11-24T06:50:15+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CT0hiVWNKTmlndU0yaS1jMlpxbUJyQXMtQmdOZWx4QlNJMFYwQ0JPWElNaEtVTEZqRktsVEQ4WlRqMDV6aEp6ZGlGV1FNYm54YnFRRk16ek9hWFdlWjJ0SHhsbEQ3NzFuZzZaeA?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T06:50:15+00:00",
+          "title": "Pit Start Indicator 0.9 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "fd527642a895b6593572b04e",
+      "topic": "racing_games",
+      "title": "Dunsfold Drift (Test & Train) By RealDrift v1.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQek9MWDRYX1JsdXREM3lXVFBOY1NuTUdfMDROUjA1R1ZtNmV3SU9aM1hCZnV0UHktUkowbWhhX1hIVHZJSndCRFFON2F3UFVrdlN3S2hhZjRMclBfblZZNzE4bXJkU0NFYjkyWnJ4V3ZYQjRCRFZuYlQtSDFmb1ZDNDRzcjdVdw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Dunsfold Drift (Test & Train) By RealDrift v1.0 overtake.gg",
+      "published_utc": "2026-11-24T08:42:55+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQek9MWDRYX1JsdXREM3lXVFBOY1NuTUdfMDROUjA1R1ZtNmV3SU9aM1hCZnV0UHktUkowbWhhX1hIVHZJSndCRFFON2F3UFVrdlN3S2hhZjRMclBfblZZNzE4bXJkU0NFYjkyWnJ4V3ZYQjRCRFZuYlQtSDFmb1ZDNDRzcjdVdw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T08:42:55+00:00",
+          "title": "Dunsfold Drift (Test & Train) By RealDrift v1.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "e148c02d4273860eb3208e82",
+      "topic": "racing_games",
+      "title": "womens trophy - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0N1BIdTkwQ0lvQjB2YWl6cFpwNmc4UENnS3JDdVM1WXl1X3ZGdzNGaVY2dWZ6ekV1dXFDNkFwMnRnMDFXVmszREQ2QW1OaEh0eFhTYUZ3?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "womens trophy overtake.gg",
+      "published_utc": "2026-11-24T05:41:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0N1BIdTkwQ0lvQjB2YWl6cFpwNmc4UENnS3JDdVM1WXl1X3ZGdzNGaVY2dWZ6ekV1dXFDNkFwMnRnMDFXVmszREQ2QW1OaEh0eFhTYUZ3?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T05:41:00+00:00",
+          "title": "womens trophy - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "02e93198234512d173b73fb2",
+      "topic": "racing_games",
+      "title": "McLaren MCL39 Sound for Assetto Corsa - Updates - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFZpU3hMdVRyTHVQUW9pU2MyenZxVEFnZ1Q3R0pCTjNRdUlsT0N6Zm1uWTVZemt2R0s1ZlhDZHpMRzhFenNRYWlGMldpc1BpdTMyTHR3U01McnlkRTRvQ2lGdGFBY290VWlpdXk5cnZJYy15UUtUaEZSeVBlUndnT3J6WHpFSkFFN3RMdWNB?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "McLaren MCL39 Sound for Assetto Corsa - Updates overtake.gg",
+      "published_utc": "2026-11-24T07:47:21+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFZpU3hMdVRyTHVQUW9pU2MyenZxVEFnZ1Q3R0pCTjNRdUlsT0N6Zm1uWTVZemt2R0s1ZlhDZHpMRzhFenNRYWlGMldpc1BpdTMyTHR3U01McnlkRTRvQ2lGdGFBY290VWlpdXk5cnZJYy15UUtUaEZSeVBlUndnT3J6WHpFSkFFN3RMdWNB?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T07:47:21+00:00",
+          "title": "McLaren MCL39 Sound for Assetto Corsa - Updates - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "cd04e295e9ab843e696cbdaa",
+      "topic": "racing_games",
+      "title": "Martini Racing - H. Toivonen/N. Wilson - Lombard RAC Rally 1985 1.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdHdvd1QzampTYW9GdEViQVN6RzE3dWtKTGJOWlVwZENWWHpJQ1lpQXlmdHpDbXJuSXozcFVLN3BfZ0djZnpIaGlmTUlBOVRuUVNXU0g1aE5EUlRNR1VDdFRyV2lWbU9fOXR1MV8wSThhaFF6TmhiWlRrblVNMGtLRklXOXNNdWFSR3FoSlByaFlpWE1FODd0aWFDcUhBTnM?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Martini Racing - H. Toivonen/N. Wilson - Lombard RAC Rally 1985 1.0 overtake.gg",
+      "published_utc": "2026-11-23T16:45:52+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdHdvd1QzampTYW9GdEViQVN6RzE3dWtKTGJOWlVwZENWWHpJQ1lpQXlmdHpDbXJuSXozcFVLN3BfZ0djZnpIaGlmTUlBOVRuUVNXU0g1aE5EUlRNR1VDdFRyV2lWbU9fOXR1MV8wSThhaFF6TmhiWlRrblVNMGtLRklXOXNNdWFSR3FoSlByaFlpWE1FODd0aWFDcUhBTnM?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T16:45:52+00:00",
+          "title": "Martini Racing - H. Toivonen/N. Wilson - Lombard RAC Rally 1985 1.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "24ee588e1a3ca6363d393057",
+      "topic": "racing_games",
+      "title": "Paddock Wire 0.5.0 (Early Access) - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tVE96bnE5TkdRWjQyX2ZBRnVqWURRdC1CTW9OMzJHOHR6TEpJbWh6VGF4UWZkRUpTTTgyNVZtWlBYdkFmUVpJNnZnRU5ST09mY0NHa3FMdFZkaTVzbWZTckd2WFBBcTZvblBYYQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Paddock Wire 0.5.0 (Early Access) overtake.gg",
+      "published_utc": "2026-11-23T16:19:09+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tVE96bnE5TkdRWjQyX2ZBRnVqWURRdC1CTW9OMzJHOHR6TEpJbWh6VGF4UWZkRUpTTTgyNVZtWlBYdkFmUVpJNnZnRU5ST09mY0NHa3FMdFZkaTVzbWZTckd2WFBBcTZvblBYYQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T16:19:09+00:00",
+          "title": "Paddock Wire 0.5.0 (Early Access) - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "64fb0979cc5d4190c303e528",
+      "topic": "racing_games",
+      "title": "Road atlanta 1971-1980 0.1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mOHJzcnU4N0Z5TEdadGhFZGo0enpyLW1JXzA4MlNVNzVTUFdsT0ZZdXk2VExUeHcxelpxR0ZCQlB6YTVVc2hNNFFLSkVvOU8wZ3hQaFBKd2JpSXVTdVA1dHc1MVpYVnU3MkllX2dHbDA?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Road atlanta 1971-1980 0.1 overtake.gg",
+      "published_utc": "2026-11-23T17:02:56+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mOHJzcnU4N0Z5TEdadGhFZGo0enpyLW1JXzA4MlNVNzVTUFdsT0ZZdXk2VExUeHcxelpxR0ZCQlB6YTVVc2hNNFFLSkVvOU8wZ3hQaFBKd2JpSXVTdVA1dHc1MVpYVnU3MkllX2dHbDA?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T17:02:56+00:00",
+          "title": "Road atlanta 1971-1980 0.1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "a48da9783952c90e24086dce",
+      "topic": "racing_games",
+      "title": "Road Atlanta 1970 (Opening race) 0.1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xY0FRLVpUMHZOS212TWt2a2E3b0dHOTBNLW1SS3FQSWRnR2RtaUZtNF9tU2FFbFNpNHkyN2VmWlZXY2ZZeE14VVRGQklqUDhfQnNMRDRWc0VvUU53VVlKNGhnaHNDYkVnRkhRTWdhc0xDZ05kbkExY1B1Yw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Road Atlanta 1970 (Opening race) 0.1 overtake.gg",
+      "published_utc": "2026-11-23T16:51:29+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xY0FRLVpUMHZOS212TWt2a2E3b0dHOTBNLW1SS3FQSWRnR2RtaUZtNF9tU2FFbFNpNHkyN2VmWlZXY2ZZeE14VVRGQklqUDhfQnNMRDRWc0VvUU53VVlKNGhnaHNDYkVnRkhRTWdhc0xDZ05kbkExY1B1Yw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T16:51:29+00:00",
+          "title": "Road Atlanta 1970 (Opening race) 0.1 - overtake.gg"
         }
       ]
     }

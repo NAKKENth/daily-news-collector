@@ -4530,7 +4530,7 @@
       "source": "AMuS",
       "publisher": "Auto Motor und Sport",
       "description": "H7-LED nachrüsten: Auch die Nummer am Scheinwerfer muss zur Freigabe passen Auto Motor und Sport",
-      "published_utc": "2026-11-23T05:48:10+00:00",
+      "published_utc": "2026-11-23T09:47:19+00:00",
       "date_jst": "2026-11-23",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -4543,7 +4543,7 @@
           "source": "AMuS",
           "publisher": "Auto Motor und Sport",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T05:48:10+00:00",
+          "published_utc": "2026-11-23T09:47:19+00:00",
           "title": "H7-LED nachrüsten: Auch die Nummer am Scheinwerfer muss zur Freigabe passen - Auto Motor und Sport"
         }
       ]
@@ -4641,6 +4641,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "e3917236381b",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVjN6dnJTcXpVOXBqMU0wWXZiX1ZHOGF4bHAzRnh3UWo5cmhjUTRoYzFkNXRfMG84N0JKdVFzUEZnTWZTbS1yNS02VGF1eFc3V0VTbnBKSHRRZ2V0NmNfRjRYdVlEN04wM0g4TVB5OGMwS3hneVBIOWhiZU50YXh4dmpHVWtMVEk1?oc=5",
@@ -4693,6 +4694,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "6c929da91d9d",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeVVHNjdmSW81SjU4NVdoZkk1eGdOLW9XSDFLQ2J1SExGV19LSVBmYXN4VEdTenhnLUZkUUtjdmFaUkZ4TTJpdFdjc0lJWEJnTFFWNkI4WUh6MU9UaUFfeWNDV3VhOXBKZHNMOTBCc0FtZHpCdDZjMFJFcjE1UF90TWdNQXU?oc=5",
@@ -4771,6 +4773,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "5c111d0d6a60",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZzEtaHljOFN4U2V2c2E5NzJjMEpMVFFYNml5UEptVkhxaGwtUmFNOXpRZlJob1kxaG10TlRGdWwzTEtGY2VYVi1LaEpIQmVtOThPbG9vVWlfOFFjMUFIbkRPNGwxQlVvZ25aUXh4QXR5OVpkMWxQZHVNSjFuMWlhTlhOX004b08zSUFF?oc=5",
@@ -4849,6 +4852,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "02b74389fec7",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa29ZYm81N0RocHRnWGhTZThNeVFuZ0dFOEVLeFU4TDVYcG1Zb29QVnlzc0hZQlVxSDBwMFNCSng3OTR0THhVZVdKVnNfeGwtRklnbndKbEFQaGYtdlVwTWpET3cxNHUzTTVBbDFrRWU3Z3E0X0dMODQ0YWdVSHBWX0ZvTlZLZGFQ?oc=5",
@@ -7956,6 +7960,614 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T01:57:02+00:00",
           "title": "Gallina Jean-Louis - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "5df5571eab3a24cf89e254f9",
+      "topic": "F1",
+      "title": "Geheimes Gutachten zur Pkw-Maut: Wie konkret sind die Pläne für Deutschland? - Auto Motor und Sport",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ0drSGg3S1g0UW1uOVRtVTdBX3pGUG4tam1UTGs5STJBRml2dEtBMTdJdkQ2UVRwQUY1ZWVaLTFzSDl6czRyM3N5MjA4dTlscXlqM1pfTDRUMks4VXNQWTY4bE5YWnY1RWJSRHZiT2RDXzZFaFp6dlFOcVRXRUlGYWZJZzVpNGJ5THp5bUtmN3lRRjdrTzE0WUQzUHJ6aHktb2s5VHlqa3hhQTFhaTA0Z0wwamhRdS1lQVlkRjJn?oc=5",
+      "source": "AMuS",
+      "publisher": "Auto Motor und Sport",
+      "description": "Geheimes Gutachten zur Pkw-Maut: Wie konkret sind die Pläne für Deutschland? Auto Motor und Sport",
+      "published_utc": "2026-11-23T12:28:04+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ0drSGg3S1g0UW1uOVRtVTdBX3pGUG4tam1UTGs5STJBRml2dEtBMTdJdkQ2UVRwQUY1ZWVaLTFzSDl6czRyM3N5MjA4dTlscXlqM1pfTDRUMks4VXNQWTY4bE5YWnY1RWJSRHZiT2RDXzZFaFp6dlFOcVRXRUlGYWZJZzVpNGJ5THp5bUtmN3lRRjdrTzE0WUQzUHJ6aHktb2s5VHlqa3hhQTFhaTA0Z0wwamhRdS1lQVlkRjJn?oc=5",
+          "source": "AMuS",
+          "publisher": "Auto Motor und Sport",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T12:28:04+00:00",
+          "title": "Geheimes Gutachten zur Pkw-Maut: Wie konkret sind die Pläne für Deutschland? - Auto Motor und Sport"
+        }
+      ]
+    },
+    {
+      "id": "363ed2437283bb64c3e29c30",
+      "topic": "F1",
+      "title": "USS Theodore Roosevelt & Co: Diese „Autos“ fahren auf Flugzeugträgern – eines ist deutsch - Auto Motor und Sport",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdk1EUnlRcEhIUFBldnpXUG45dW5sTHM4SzRuVFZkV0x1Y2RmSnYxaWYwZ2NDYWp6M0JRUmtDVTBjLWY0aHFpZzhFRDE0T3ZfdWswTjRPYUNCazQ1OGMwR3A2Q3lfZ25IRDV5eUpQY0VlWTgybVpUd0hfeFYweFFXRnd0TnVLaHFCZmhjU1ZwZkdaUDFOZ3dMeThaWW9RWFhqRjNLVjB0bU5EbDl2Q2ZOaEtEbWNMS2ZSdi1McUtQa2hreV9vVzFj?oc=5",
+      "source": "AMuS",
+      "publisher": "Auto Motor und Sport",
+      "description": "USS Theodore Roosevelt & Co: Diese „Autos“ fahren auf Flugzeugträgern – eines ist deutsch Auto Motor und Sport",
+      "published_utc": "2026-11-23T11:10:55+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdk1EUnlRcEhIUFBldnpXUG45dW5sTHM4SzRuVFZkV0x1Y2RmSnYxaWYwZ2NDYWp6M0JRUmtDVTBjLWY0aHFpZzhFRDE0T3ZfdWswTjRPYUNCazQ1OGMwR3A2Q3lfZ25IRDV5eUpQY0VlWTgybVpUd0hfeFYweFFXRnd0TnVLaHFCZmhjU1ZwZkdaUDFOZ3dMeThaWW9RWFhqRjNLVjB0bU5EbDl2Q2ZOaEtEbWNMS2ZSdi1McUtQa2hreV9vVzFj?oc=5",
+          "source": "AMuS",
+          "publisher": "Auto Motor und Sport",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T11:10:55+00:00",
+          "title": "USS Theodore Roosevelt & Co: Diese „Autos“ fahren auf Flugzeugträgern – eines ist deutsch - Auto Motor und Sport"
+        }
+      ]
+    },
+    {
+      "id": "fc4da0a2be1f97fe6a08214b",
+      "topic": "F1",
+      "title": "Geely Monjaro EM-i im Test: Macht Spaß - bis man bremsen muss - Auto Motor und Sport",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbjVXMDFoOWk0M3NjYlJxWWRtektCQ3pOVHJIYUsyWDM3TGs1RG5zNEVEMW4xN1FNVFVQNWtBZUtuVlFrcWl2UlVMQmt0cFFSVW5MeF9YWTJ5dUVON3M5V1FRVmJfTzN6cXhNMDgtaEJyMmtHU1hjakNCNW1IaGp6Uzh3ZzNQSDVUa3Q1cF9yVTNOTE1wTDg5MlliV24?oc=5",
+      "source": "AMuS",
+      "publisher": "Auto Motor und Sport",
+      "description": "Geely Monjaro EM-i im Test: Macht Spaß - bis man bremsen muss Auto Motor und Sport",
+      "published_utc": "2026-11-23T07:57:19+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbjVXMDFoOWk0M3NjYlJxWWRtektCQ3pOVHJIYUsyWDM3TGs1RG5zNEVEMW4xN1FNVFVQNWtBZUtuVlFrcWl2UlVMQmt0cFFSVW5MeF9YWTJ5dUVON3M5V1FRVmJfTzN6cXhNMDgtaEJyMmtHU1hjakNCNW1IaGp6Uzh3ZzNQSDVUa3Q1cF9yVTNOTE1wTDg5MlliV24?oc=5",
+          "source": "AMuS",
+          "publisher": "Auto Motor und Sport",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T07:57:19+00:00",
+          "title": "Geely Monjaro EM-i im Test: Macht Spaß - bis man bremsen muss - Auto Motor und Sport"
+        }
+      ]
+    },
+    {
+      "id": "2798ca2d377a3f9805ec3401",
+      "topic": "F1",
+      "title": "Performance-Paket inklusive: So tritt der Ford Mustang GTD 1901 an - Auto Motor und Sport",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNek54UFBqNHN3SzQxb0xGanNhWFpHRmZKMXN3Qnl1WVpKSnpkZFU0UTJkcnh0QWZMN1RSMGFpdklvaGFBeGEtQTBEb1Iwa0M1Q3NMbWRpcEVYMi1qRXJYUEV4ZEJic1RVRGRuQUFXdExWSjkwTDZ5MmUtd1N1RkpLQWhQenpHMjBFSVgzNlB4MDhuQ1BvRUpCaGFGZTU0bzV3R2d0VWpNY1ZNelg1?oc=5",
+      "source": "AMuS",
+      "publisher": "Auto Motor und Sport",
+      "description": "Performance-Paket inklusive: So tritt der Ford Mustang GTD 1901 an Auto Motor und Sport",
+      "published_utc": "2026-11-23T09:44:36+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNek54UFBqNHN3SzQxb0xGanNhWFpHRmZKMXN3Qnl1WVpKSnpkZFU0UTJkcnh0QWZMN1RSMGFpdklvaGFBeGEtQTBEb1Iwa0M1Q3NMbWRpcEVYMi1qRXJYUEV4ZEJic1RVRGRuQUFXdExWSjkwTDZ5MmUtd1N1RkpLQWhQenpHMjBFSVgzNlB4MDhuQ1BvRUpCaGFGZTU0bzV3R2d0VWpNY1ZNelg1?oc=5",
+          "source": "AMuS",
+          "publisher": "Auto Motor und Sport",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T09:44:36+00:00",
+          "title": "Performance-Paket inklusive: So tritt der Ford Mustang GTD 1901 an - Auto Motor und Sport"
+        }
+      ]
+    },
+    {
+      "id": "3627bf48fed4d7c0bd8342ef",
+      "topic": "F1",
+      "title": "Sternzeichen Zwillinge: Charakter, Stärken und Fahrstil - Auto Motor und Sport",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcnZBcEJXTlcxTnF0N0dkcXpBMjhBRGd1Qk5zSnFqbUFUS19DblZoU3R0NjNCM1VFR1g3N3ZSb0ZZc3VndHZscS0tLU1PQ2JXLTlOSllXU0psS1pVd3djb0I3UEgxWHlmdVN1bHNtbkIxR2FNZ3lwd0VHNlQ5TjgxS0hmeU1hYkhydnc?oc=5",
+      "source": "AMuS",
+      "publisher": "Auto Motor und Sport",
+      "description": "Sternzeichen Zwillinge: Charakter, Stärken und Fahrstil Auto Motor und Sport",
+      "published_utc": "2026-11-23T03:34:49+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "6709672883cc",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcnZBcEJXTlcxTnF0N0dkcXpBMjhBRGd1Qk5zSnFqbUFUS19DblZoU3R0NjNCM1VFR1g3N3ZSb0ZZc3VndHZscS0tLU1PQ2JXLTlOSllXU0psS1pVd3djb0I3UEgxWHlmdVN1bHNtbkIxR2FNZ3lwd0VHNlQ5TjgxS0hmeU1hYkhydnc?oc=5",
+          "source": "AMuS",
+          "publisher": "Auto Motor und Sport",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T03:34:49+00:00",
+          "title": "Sternzeichen Zwillinge: Charakter, Stärken und Fahrstil - Auto Motor und Sport"
+        }
+      ]
+    },
+    {
+      "id": "e2bd623ba7f186db85ed6820",
+      "topic": "F1",
+      "title": "Sternzeichen Löwe: Charakter, Stärken und Fahrstil - Auto Motor und Sport",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRWFiWmw5RXkwcnRQUGtjeUE2MTdTanRYak5WcDFCcUhoRnVoSWpseWQ5UE9mV0Z6YWFONVFyNGFUbmZTaTMtdk4xZXNENl9OckRoZFpXY0JxNzExaG9QUGxMYmdaUWlhQmxEMmtYc0ZLaGdNZzFPcTZlcmRaMFhFc1ZjZ0Q?oc=5",
+      "source": "AMuS",
+      "publisher": "Auto Motor und Sport",
+      "description": "Sternzeichen Löwe: Charakter, Stärken und Fahrstil Auto Motor und Sport",
+      "published_utc": "2026-11-23T02:08:33+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "e57f52034382",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRWFiWmw5RXkwcnRQUGtjeUE2MTdTanRYak5WcDFCcUhoRnVoSWpseWQ5UE9mV0Z6YWFONVFyNGFUbmZTaTMtdk4xZXNENl9OckRoZFpXY0JxNzExaG9QUGxMYmdaUWlhQmxEMmtYc0ZLaGdNZzFPcTZlcmRaMFhFc1ZjZ0Q?oc=5",
+          "source": "AMuS",
+          "publisher": "Auto Motor und Sport",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T02:08:33+00:00",
+          "title": "Sternzeichen Löwe: Charakter, Stärken und Fahrstil - Auto Motor und Sport"
+        }
+      ]
+    },
+    {
+      "id": "e900e39d36cdddb541ada297",
+      "topic": "F1",
+      "title": "Sternzeichen Fische: Charakter, Stärken und Fahrstil - Auto Motor und Sport",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZWM0UFN3LVNuMVByc09FUU14RnowUzN3MkM2aHVQTVI3WEY1MXp5X0pHajExdHp3QXh1Y25kdkpNOWZ1QzRtWUVITXZ2TUpTR0NXN0RfQnhfZDVQRWhIYzFIOTMzc1JGbFlJRmNxdTEyREt1TTdmcldJUVBfV0g3UndfdkZCQQ?oc=5",
+      "source": "AMuS",
+      "publisher": "Auto Motor und Sport",
+      "description": "Sternzeichen Fische: Charakter, Stärken und Fahrstil Auto Motor und Sport",
+      "published_utc": "2026-11-23T01:52:31+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "c237511fbdc5",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZWM0UFN3LVNuMVByc09FUU14RnowUzN3MkM2aHVQTVI3WEY1MXp5X0pHajExdHp3QXh1Y25kdkpNOWZ1QzRtWUVITXZ2TUpTR0NXN0RfQnhfZDVQRWhIYzFIOTMzc1JGbFlJRmNxdTEyREt1TTdmcldJUVBfV0g3UndfdkZCQQ?oc=5",
+          "source": "AMuS",
+          "publisher": "Auto Motor und Sport",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T01:52:31+00:00",
+          "title": "Sternzeichen Fische: Charakter, Stärken und Fahrstil - Auto Motor und Sport"
+        }
+      ]
+    },
+    {
+      "id": "ed01c469092e08777a52a818",
+      "topic": "F1",
+      "title": "Sternzeichen Wassermann: Charakter, Stärken und Fahrstil - Auto Motor und Sport",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV2wwS3VWUWxMVmNzZzB0TlJySjZWWDRmaGVTRGlhX3BVQm1GeVRObWFNaXRLc1NBY3dPN0NEaUlYZUp3UnFyQVJNXzJwcGwzM052dVg0bVdCMV9DNlAyX2NZdWR5VUxvM3ozTnpvVUFUS1lYdlJrSjllSFNRUGVqZGhRX0JoWW1wakE?oc=5",
+      "source": "AMuS",
+      "publisher": "Auto Motor und Sport",
+      "description": "Sternzeichen Wassermann: Charakter, Stärken und Fahrstil Auto Motor und Sport",
+      "published_utc": "2026-11-23T03:10:21+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "5c111d0d6a60",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV2wwS3VWUWxMVmNzZzB0TlJySjZWWDRmaGVTRGlhX3BVQm1GeVRObWFNaXRLc1NBY3dPN0NEaUlYZUp3UnFyQVJNXzJwcGwzM052dVg0bVdCMV9DNlAyX2NZdWR5VUxvM3ozTnpvVUFUS1lYdlJrSjllSFNRUGVqZGhRX0JoWW1wakE?oc=5",
+          "source": "AMuS",
+          "publisher": "Auto Motor und Sport",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T03:10:21+00:00",
+          "title": "Sternzeichen Wassermann: Charakter, Stärken und Fahrstil - Auto Motor und Sport"
+        }
+      ]
+    },
+    {
+      "id": "654be91efebfc09da52453fa",
+      "topic": "F1",
+      "title": "Sternzeichen Löwe: Charakter, Stärken und Fahrstil - Auto Motor und Sport",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVkxuSm1PNmc4R1o1ajhDaEh1Sk9HWFdsYVZ5ejg2NXFKb19GRzNXZmZ5aGoxWS1UNHgtaU8wZjhRVzd0dGZqMDJaa19YLXl0UzMzajVKaUhxeS1UQXQ5WkpYS19OQWNRekdaNGFyaTUyTl91R3BRV2xaOVlZTWpIWDVBaw?oc=5",
+      "source": "AMuS",
+      "publisher": "Auto Motor und Sport",
+      "description": "Sternzeichen Löwe: Charakter, Stärken und Fahrstil Auto Motor und Sport",
+      "published_utc": "2026-11-23T02:04:08+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "e57f52034382",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVkxuSm1PNmc4R1o1ajhDaEh1Sk9HWFdsYVZ5ejg2NXFKb19GRzNXZmZ5aGoxWS1UNHgtaU8wZjhRVzd0dGZqMDJaa19YLXl0UzMzajVKaUhxeS1UQXQ5WkpYS19OQWNRekdaNGFyaTUyTl91R3BRV2xaOVlZTWpIWDVBaw?oc=5",
+          "source": "AMuS",
+          "publisher": "Auto Motor und Sport",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T02:04:08+00:00",
+          "title": "Sternzeichen Löwe: Charakter, Stärken und Fahrstil - Auto Motor und Sport"
+        }
+      ]
+    },
+    {
+      "id": "c13cbaffe7a123c9f66adbda",
+      "topic": "F1",
+      "title": "Mercedes VLE 300 im Härtetest von Reichweite bis Lade-Tempo - Auto Motor und Sport",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN0VMN1h5WGd3c3ZDNnZhRXYwbGJjNnpWeDNJTmZjVTJEcG94Z2VqQjRsQUJ0SXNaME1uZ1REWDRJZm9kUW9uajRIc2ZLckpIQjZsbkh2ZkZOVnZndUFpSi11aXpMcmc1M3FWRU1mOXN2OHEyTWNMUzVVWUd4VF8xSkY3TnFBakpVa3g4d21XcWUzc19TLU5V?oc=5",
+      "source": "AMuS",
+      "publisher": "Auto Motor und Sport",
+      "description": "Mercedes VLE 300 im Härtetest von Reichweite bis Lade-Tempo Auto Motor und Sport",
+      "published_utc": "2026-11-22T16:09:43+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN0VMN1h5WGd3c3ZDNnZhRXYwbGJjNnpWeDNJTmZjVTJEcG94Z2VqQjRsQUJ0SXNaME1uZ1REWDRJZm9kUW9uajRIc2ZLckpIQjZsbkh2ZkZOVnZndUFpSi11aXpMcmc1M3FWRU1mOXN2OHEyTWNMUzVVWUd4VF8xSkY3TnFBakpVa3g4d21XcWUzc19TLU5V?oc=5",
+          "source": "AMuS",
+          "publisher": "Auto Motor und Sport",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T16:09:43+00:00",
+          "title": "Mercedes VLE 300 im Härtetest von Reichweite bis Lade-Tempo - Auto Motor und Sport"
+        }
+      ]
+    },
+    {
+      "id": "ee72601e3398cfa279530fe5",
+      "topic": "F1",
+      "title": "Sternzeichen Schütze: Charakter, Stärken und Fahrstil - Auto Motor und Sport",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeC1OVGdEcGd3UWlscVQ0Y25peVl4Y2c2cDVGaGVwS3BZNGNfMkVFb3AwakhvRU5BMG1BSGFuQnZJblI3LW1JWVpRSzVNeW1MSlJDMWlpMHhMS21JVU1jM1dDZmV2WG9YTEJfaTZXUUUtRGtITU5vM0doT0RZSmVQdXRuRFZ2ajg?oc=5",
+      "source": "AMuS",
+      "publisher": "Auto Motor und Sport",
+      "description": "Sternzeichen Schütze: Charakter, Stärken und Fahrstil Auto Motor und Sport",
+      "published_utc": "2026-11-23T06:26:40+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "02b74389fec7",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeC1OVGdEcGd3UWlscVQ0Y25peVl4Y2c2cDVGaGVwS3BZNGNfMkVFb3AwakhvRU5BMG1BSGFuQnZJblI3LW1JWVpRSzVNeW1MSlJDMWlpMHhMS21JVU1jM1dDZmV2WG9YTEJfaTZXUUUtRGtITU5vM0doT0RZSmVQdXRuRFZ2ajg?oc=5",
+          "source": "AMuS",
+          "publisher": "Auto Motor und Sport",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T06:26:40+00:00",
+          "title": "Sternzeichen Schütze: Charakter, Stärken und Fahrstil - Auto Motor und Sport"
+        }
+      ]
+    },
+    {
+      "id": "60b65f3827be863feac5103e",
+      "topic": "F1",
+      "title": "H&R Fahrwerkskomponenten für den Mercedes Benz GLC 53 AMG - Auto Motor und Sport",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPekpIcjFRcGlKVWVIaDZDV3dsVDlreTJUM2Z5NGNValRYcEhMd3hLWmcxeGdoM0VTMnRQVkNFWnZ0VVBIemZPanE1ZXlWcjJnWkNfejBYNVhKRzF2Z3M3MDhPV1R2MGV2aXZ5Y2hiTDRob2J4MXRONWtJS2s4VGJHajdRMkk2aUVaOUtMLUtwbkFpd3h4V1IwRktvM2p3d28?oc=5",
+      "source": "AMuS",
+      "publisher": "Auto Motor und Sport",
+      "description": "H&R Fahrwerkskomponenten für den Mercedes Benz GLC 53 AMG Auto Motor und Sport",
+      "published_utc": "2026-11-23T01:24:43+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPekpIcjFRcGlKVWVIaDZDV3dsVDlreTJUM2Z5NGNValRYcEhMd3hLWmcxeGdoM0VTMnRQVkNFWnZ0VVBIemZPanE1ZXlWcjJnWkNfejBYNVhKRzF2Z3M3MDhPV1R2MGV2aXZ5Y2hiTDRob2J4MXRONWtJS2s4VGJHajdRMkk2aUVaOUtMLUtwbkFpd3h4V1IwRktvM2p3d28?oc=5",
+          "source": "AMuS",
+          "publisher": "Auto Motor und Sport",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T01:24:43+00:00",
+          "title": "H&R Fahrwerkskomponenten für den Mercedes Benz GLC 53 AMG - Auto Motor und Sport"
+        }
+      ]
+    },
+    {
+      "id": "6350e6fe6dff4ad1164a1787",
+      "topic": "F1",
+      "title": "Sportlicher VW im Check: Ist der T-Roc R 59.990 Euro wert? - Auto Motor und Sport",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHI3cmlISnBJZ1REV1pjVEVkZVVvYkE2QUV1Rnc0Vk1RdURaeE9MOXVlMkp5N0NPTHpzSVI0WHZtVE5BZTl3ek84a2I3cG5HWmc5UFMzZkROcG50ZTJrb2w0U1NPaG15NEduUEl1MDlhb0JRaWJsVzRQVXJyOXE1b0JkZmozdWZSR0VlakpwTlFyMjVnM1ExdnZTXzh6dnBZcVZVOA?oc=5",
+      "source": "AMuS",
+      "publisher": "Auto Motor und Sport",
+      "description": "Sportlicher VW im Check: Ist der T-Roc R 59.990 Euro wert? Auto Motor und Sport",
+      "published_utc": "2026-11-23T09:17:19+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHI3cmlISnBJZ1REV1pjVEVkZVVvYkE2QUV1Rnc0Vk1RdURaeE9MOXVlMkp5N0NPTHpzSVI0WHZtVE5BZTl3ek84a2I3cG5HWmc5UFMzZkROcG50ZTJrb2w0U1NPaG15NEduUEl1MDlhb0JRaWJsVzRQVXJyOXE1b0JkZmozdWZSR0VlakpwTlFyMjVnM1ExdnZTXzh6dnBZcVZVOA?oc=5",
+          "source": "AMuS",
+          "publisher": "Auto Motor und Sport",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T09:17:19+00:00",
+          "title": "Sportlicher VW im Check: Ist der T-Roc R 59.990 Euro wert? - Auto Motor und Sport"
+        }
+      ]
+    },
+    {
+      "id": "d250ced7326b8b53633fcefd",
+      "topic": "F1",
+      "title": "Sternzeichen Zwillinge: Charakter, Stärken und Fahrstil - Auto Motor und Sport",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdG0zU3VFanN1MWZ6SVJKYnVudUdyNjBVNzFXSGxIeUN3NzYxQlRiYnBGV0FsOW1ERXB3YzhVRmcySE9GTWVlVXlrdEpnTlkxR1VKMC12a2o3T0V3ZlRicG01aHRENnpSS1hSTmNOcFBJRTVMVDRpTGdqekp1XzI3bXQ5bWRwblh1?oc=5",
+      "source": "AMuS",
+      "publisher": "Auto Motor und Sport",
+      "description": "Sternzeichen Zwillinge: Charakter, Stärken und Fahrstil Auto Motor und Sport",
+      "published_utc": "2026-11-23T02:08:56+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "6709672883cc",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdG0zU3VFanN1MWZ6SVJKYnVudUdyNjBVNzFXSGxIeUN3NzYxQlRiYnBGV0FsOW1ERXB3YzhVRmcySE9GTWVlVXlrdEpnTlkxR1VKMC12a2o3T0V3ZlRicG01aHRENnpSS1hSTmNOcFBJRTVMVDRpTGdqekp1XzI3bXQ5bWRwblh1?oc=5",
+          "source": "AMuS",
+          "publisher": "Auto Motor und Sport",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T02:08:56+00:00",
+          "title": "Sternzeichen Zwillinge: Charakter, Stärken und Fahrstil - Auto Motor und Sport"
+        }
+      ]
+    },
+    {
+      "id": "bf3d1688dbaf3d68c42037bf",
+      "topic": "F1",
+      "title": "Sternzeichen Skorpion: Charakter, Stärken und Fahrstil - Auto Motor und Sport",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNVhxT3hfZ005ZnJuWEZQbjZCdDBOY3I2RnRRcER4RUJ2UzU3Yzk2NHZnc0lQOEV2UFhJRWpBdzZsakJIaHJGcUNfM3FXOHNtMkRNYlNfTGs4aHF6Zk05bk03RG81X2E2eGxVRHo2QkNVV0dzZ3hRYkQ4OURXUVUwVmpURm9jS3c?oc=5",
+      "source": "AMuS",
+      "publisher": "Auto Motor und Sport",
+      "description": "Sternzeichen Skorpion: Charakter, Stärken und Fahrstil Auto Motor und Sport",
+      "published_utc": "2026-11-23T06:26:39+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "e3917236381b",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNVhxT3hfZ005ZnJuWEZQbjZCdDBOY3I2RnRRcER4RUJ2UzU3Yzk2NHZnc0lQOEV2UFhJRWpBdzZsakJIaHJGcUNfM3FXOHNtMkRNYlNfTGs4aHF6Zk05bk03RG81X2E2eGxVRHo2QkNVV0dzZ3hRYkQ4OURXUVUwVmpURm9jS3c?oc=5",
+          "source": "AMuS",
+          "publisher": "Auto Motor und Sport",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T06:26:39+00:00",
+          "title": "Sternzeichen Skorpion: Charakter, Stärken und Fahrstil - Auto Motor und Sport"
+        }
+      ]
+    },
+    {
+      "id": "bbb02bd8c9d0212081477edb",
+      "topic": "F1",
+      "title": "Sternzeichen Waage: Charakter, Stärken und Fahrstil - Auto Motor und Sport",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQam9rVVRtZ0Vsc2VBOVpwRlQxMjBYQmEyVUhYWDdrdEF2dUJiY0FTQVRCM3lLMmZCLXY2VXFKZzROdWp2aTBObGplTFpwcV9FdmxEZGJvVUZZNnNzeEp4ZEdWQzhKVEpVV0xWS25sQWd0cnFkLWVhNUpOZmVJbHZGUEM0TQ?oc=5",
+      "source": "AMuS",
+      "publisher": "Auto Motor und Sport",
+      "description": "Sternzeichen Waage: Charakter, Stärken und Fahrstil Auto Motor und Sport",
+      "published_utc": "2026-11-23T06:26:39+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "6c929da91d9d",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQam9rVVRtZ0Vsc2VBOVpwRlQxMjBYQmEyVUhYWDdrdEF2dUJiY0FTQVRCM3lLMmZCLXY2VXFKZzROdWp2aTBObGplTFpwcV9FdmxEZGJvVUZZNnNzeEp4ZEdWQzhKVEpVV0xWS25sQWd0cnFkLWVhNUpOZmVJbHZGUEM0TQ?oc=5",
+          "source": "AMuS",
+          "publisher": "Auto Motor und Sport",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T06:26:39+00:00",
+          "title": "Sternzeichen Waage: Charakter, Stärken und Fahrstil - Auto Motor und Sport"
+        }
+      ]
+    },
+    {
+      "id": "2fd1a6fee247e20db710c3c8",
+      "topic": "F1",
+      "title": "Zwei Türen sagen wenig über den Platz in BYDs Kleinstwagen-Entwurf - Auto Motor und Sport",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1MzTk5wd045QnZsSURudkRMbVU0Zmh3U2lra3JmdV85c01yUmlHV0U0VEtkREFJN3pYUlNHdmJhR2o0d1owZzNVdkI1VDg0bWRIcjBUc3V6bHJtdEptUnN0bTk3ZDl5SnEtUWgxeXdEUUtsaGduU1haZUVXTlhWY0N3UmxIb1pKVUpCR3dRcjU1X0drYlJZaVM4eGxlczk1Wk5pWVN2TXFQcFNzb1E?oc=5",
+      "source": "AMuS",
+      "publisher": "Auto Motor und Sport",
+      "description": "Zwei Türen sagen wenig über den Platz in BYDs Kleinstwagen-Entwurf Auto Motor und Sport",
+      "published_utc": "2026-11-22T17:12:19+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1MzTk5wd045QnZsSURudkRMbVU0Zmh3U2lra3JmdV85c01yUmlHV0U0VEtkREFJN3pYUlNHdmJhR2o0d1owZzNVdkI1VDg0bWRIcjBUc3V6bHJtdEptUnN0bTk3ZDl5SnEtUWgxeXdEUUtsaGduU1haZUVXTlhWY0N3UmxIb1pKVUpCR3dRcjU1X0drYlJZaVM4eGxlczk1Wk5pWVN2TXFQcFNzb1E?oc=5",
+          "source": "AMuS",
+          "publisher": "Auto Motor und Sport",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T17:12:19+00:00",
+          "title": "Zwei Türen sagen wenig über den Platz in BYDs Kleinstwagen-Entwurf - Auto Motor und Sport"
+        }
+      ]
+    },
+    {
+      "id": "07a0920c940ab981b1582cc6",
+      "topic": "F1",
+      "title": "Euro 6 trotz früher Schäden: Subaru entwickelte den Boxer-Diesel weiter - Auto Motor und Sport",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1R0ekZfVDFUNGViNlFpcEZCeUZPeWNmUHVPT2tGR2xmaF84eFBOS2Zaam9ROElCaVhfWFBJLVZRY0RjNXVja0VDa0x6WFNFNGx3UGJaMWJtTnVEUFZNdTg5dHd5RnprQndRcF9kcWdaSDVLUEVnQzQxX2xOUEJpTFBabXRzYld6dEYwekVmOUFpc0pPZFdfNkJlOUxnTWR1TW4zSTRzYXF2ZVFNMjRJUUdJcw?oc=5",
+      "source": "AMuS",
+      "publisher": "Auto Motor und Sport",
+      "description": "Euro 6 trotz früher Schäden: Subaru entwickelte den Boxer-Diesel weiter Auto Motor und Sport",
+      "published_utc": "2026-11-22T15:12:19+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1R0ekZfVDFUNGViNlFpcEZCeUZPeWNmUHVPT2tGR2xmaF84eFBOS2Zaam9ROElCaVhfWFBJLVZRY0RjNXVja0VDa0x6WFNFNGx3UGJaMWJtTnVEUFZNdTg5dHd5RnprQndRcF9kcWdaSDVLUEVnQzQxX2xOUEJpTFBabXRzYld6dEYwekVmOUFpc0pPZFdfNkJlOUxnTWR1TW4zSTRzYXF2ZVFNMjRJUUdJcw?oc=5",
+          "source": "AMuS",
+          "publisher": "Auto Motor und Sport",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T15:12:19+00:00",
+          "title": "Euro 6 trotz früher Schäden: Subaru entwickelte den Boxer-Diesel weiter - Auto Motor und Sport"
+        }
+      ]
+    },
+    {
+      "id": "3376da51582ce704d0a9a58e",
+      "topic": "F1",
+      "title": "Millionen unterm Hammer: Die 12 teuersten Auktions-Autos 2026 - Auto Motor und Sport",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVHBnMzRzM2NCYUlUUzRNLXhPRnBPbTBuRHBYbDl6MGNWX0UxV3dvUUlzaWYtMDRoT1dQa1RJajRUWjdkRzlCYlRaN0lub1k0OGRUekRrUFJELVBnZnBkdnloQTVFWU0tS3JnOXFpMk1iZmZfOHlmald0OVBjME43ZFlIa0h5RmpKcnY5VFZmbUtTWHVQVmRhQmlXYVI1aGJZWlE?oc=5",
+      "source": "AMuS",
+      "publisher": "Auto Motor und Sport",
+      "description": "Millionen unterm Hammer: Die 12 teuersten Auktions-Autos 2026 Auto Motor und Sport",
+      "published_utc": "2026-11-23T07:07:19+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVHBnMzRzM2NCYUlUUzRNLXhPRnBPbTBuRHBYbDl6MGNWX0UxV3dvUUlzaWYtMDRoT1dQa1RJajRUWjdkRzlCYlRaN0lub1k0OGRUekRrUFJELVBnZnBkdnloQTVFWU0tS3JnOXFpMk1iZmZfOHlmald0OVBjME43ZFlIa0h5RmpKcnY5VFZmbUtTWHVQVmRhQmlXYVI1aGJZWlE?oc=5",
+          "source": "AMuS",
+          "publisher": "Auto Motor und Sport",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T07:07:19+00:00",
+          "title": "Millionen unterm Hammer: Die 12 teuersten Auktions-Autos 2026 - Auto Motor und Sport"
+        }
+      ]
+    },
+    {
+      "id": "518afebeaaeb54c53b5b2ba2",
+      "topic": "F1",
+      "title": "Sternzeichen Fische: Charakter, Stärken und Fahrstil - Auto Motor und Sport",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2MxZXlrcHB5NF9vWTEzN3VrVEJVX2IxbU13TmRfUGxmX29HM29NUVQ0UXFEZ1k1b3ktMHpNMmhKLXZpdENhRVhOTWltN2lXVjhSdWJkNTBkODNjZXFXd2k5T1NhRlRUdURVRmN2MEIwU2tyZl94Qlo2NFUzUkp0UEJ5MXc?oc=5",
+      "source": "AMuS",
+      "publisher": "Auto Motor und Sport",
+      "description": "Sternzeichen Fische: Charakter, Stärken und Fahrstil Auto Motor und Sport",
+      "published_utc": "2026-11-23T01:52:31+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "c237511fbdc5",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2MxZXlrcHB5NF9vWTEzN3VrVEJVX2IxbU13TmRfUGxmX29HM29NUVQ0UXFEZ1k1b3ktMHpNMmhKLXZpdENhRVhOTWltN2lXVjhSdWJkNTBkODNjZXFXd2k5T1NhRlRUdURVRmN2MEIwU2tyZl94Qlo2NFUzUkp0UEJ5MXc?oc=5",
+          "source": "AMuS",
+          "publisher": "Auto Motor und Sport",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T01:52:31+00:00",
+          "title": "Sternzeichen Fische: Charakter, Stärken und Fahrstil - Auto Motor und Sport"
+        }
+      ]
+    },
+    {
+      "id": "549d32e7b070b0c01978e6a3",
+      "topic": "F1",
+      "title": "Williams Grand Prix Engineering Limited Public Summary ABA / Article D8.10.5 An Accepted Breach Agreement (“ABA”) dated 23 N - Federation Internationale de l'Automobile",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeHBHRVlNZkItakFkb25Ta1hVSFZkVTJNRGxqOEVLcDRCNWlVWUc3QWtEX0g3YmJLQzhkY0ZDYzFibzVUWFBtWUpucUpJRVV2QjNKSFZpNFJBWEN0UkRrS1ZBU2VtWHRQNlJLMTM3ZkFxTjJ1ZGowekZPMUxaamRydlRnUTdidmVXaF90bkZNYw?oc=5",
+      "source": "FIA",
+      "publisher": "Federation Internationale de l'Automobile",
+      "description": "Williams Grand Prix Engineering Limited Public Summary ABA / Article D8.10.5 An Accepted Breach Agreement (“ABA”) dated 23 N Federation Internationale de l'Automobile",
+      "published_utc": "2026-11-23T08:00:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeHBHRVlNZkItakFkb25Ta1hVSFZkVTJNRGxqOEVLcDRCNWlVWUc3QWtEX0g3YmJLQzhkY0ZDYzFibzVUWFBtWUpucUpJRVV2QjNKSFZpNFJBWEN0UkRrS1ZBU2VtWHRQNlJLMTM3ZkFxTjJ1ZGowekZPMUxaamRydlRnUTdidmVXaF90bkZNYw?oc=5",
+          "source": "FIA",
+          "publisher": "Federation Internationale de l'Automobile",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T08:00:00+00:00",
+          "title": "Williams Grand Prix Engineering Limited Public Summary ABA / Article D8.10.5 An Accepted Breach Agreement (“ABA”) dated 23 N - Federation Internationale de l'Automobile"
+        }
+      ]
+    },
+    {
+      "id": "1eec33d7ae5387bbafb3dcb3",
+      "topic": "F1",
+      "title": "F1 F1 x Lisa , Formula 1 F1 x Lisa - F1 US Store",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdWlSRmdFY1F0UUhmZGVqTzBUdHpWRHlrTVNnTmcwQXJFU1ZfSDI4ZWpBSkR3bFQtTFJqMDlIU180eXRhU05fLXFTRExDUzg3RE5odU9BNk40Z3o4bThES2NwNTlEdzlpaHExZzlDbnRRVmdUYmZYcnR0Mlp1OW1nREx6QWJMMEN1UVFpTGlsenIxR0RjWm5zSWRB?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "F1 US Store",
+      "description": "F1 F1 x Lisa , Formula 1 F1 x Lisa F1 US Store",
+      "published_utc": "2026-11-23T03:36:05+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdWlSRmdFY1F0UUhmZGVqTzBUdHpWRHlrTVNnTmcwQXJFU1ZfSDI4ZWpBSkR3bFQtTFJqMDlIU180eXRhU05fLXFTRExDUzg3RE5odU9BNk40Z3o4bThES2NwNTlEdzlpaHExZzlDbnRRVmdUYmZYcnR0Mlp1OW1nREx6QWJMMEN1UVFpTGlsenIxR0RjWm5zSWRB?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "F1 US Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T03:36:05+00:00",
+          "title": "F1 F1 x Lisa , Formula 1 F1 x Lisa - F1 US Store"
+        }
+      ]
+    },
+    {
+      "id": "b3ce14bbf4ba1bffb8bdc954",
+      "topic": "F1",
+      "title": "F1 Mens Bags, F1 Backpacks - F1 Store",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORVdiRlotMUxEazFUVHI1QXRhNTYtY1BuWDFEeWZhZFpNMEg5Uk9JQWctXzJSTndadWkta3Q0bTlOODNiNXppaTlUZ3lCel9MQmdhYk5US2E3cVBqY3FkeHhidjl6QVRwWG1kZ2d3VjZESWg2TDZlR2tJQkZxQ1ZoZUZwSWQ2UkZnWU8wY3VSaGRIdzJzMVlueVh0RHVQNG5wRGYwakhrV2Jjb05kalRZTW54V1gtbXo4YkQtSE4yaVh0SmdhbHpPY3BYQVo5ZWlGUzNSYWlONzFWVi10bmM5Vmp5Qnl3UUNyWFpwbEgtV2o4R0pDUEszR0FtSQ?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "F1 Store",
+      "description": "F1 Mens Bags, F1 Backpacks F1 Store",
+      "published_utc": "2026-11-22T23:47:01+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORVdiRlotMUxEazFUVHI1QXRhNTYtY1BuWDFEeWZhZFpNMEg5Uk9JQWctXzJSTndadWkta3Q0bTlOODNiNXppaTlUZ3lCel9MQmdhYk5US2E3cVBqY3FkeHhidjl6QVRwWG1kZ2d3VjZESWg2TDZlR2tJQkZxQ1ZoZUZwSWQ2UkZnWU8wY3VSaGRIdzJzMVlueVh0RHVQNG5wRGYwakhrV2Jjb05kalRZTW54V1gtbXo4YkQtSE4yaVh0SmdhbHpPY3BYQVo5ZWlGUzNSYWlONzFWVi10bmM5Vmp5Qnl3UUNyWFpwbEgtV2o4R0pDUEszR0FtSQ?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "F1 Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T23:47:01+00:00",
+          "title": "F1 Mens Bags, F1 Backpacks - F1 Store"
         }
       ]
     }

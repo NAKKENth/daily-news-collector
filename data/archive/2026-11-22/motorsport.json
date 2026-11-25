@@ -3096,6 +3096,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
+      "possible_event_id": "391e0e39d826",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tV3drSUNFTnhzMUd0cS14WUp0Qlc4VDlacU5PbFB0djBKMVhTSWpuOTlEUjBzRWhadVVCWkpldmx0ajQtYjB5d2w0Ykdobjkwd2l2Y0xETnMyU3liWm96emRTcGZkOGl6TG9JaWlINVBpQ0Z1eFVLVzBCR2V6elU?oc=5",
@@ -3687,7 +3688,7 @@
       "source": "Formula 1 Official",
       "publisher": "Formula 1",
       "description": "2026 Las Vegas Grand Prix: Perez and Camara collide Formula 1",
-      "published_utc": "2026-11-22T05:47:05+00:00",
+      "published_utc": "2026-11-22T05:08:00+00:00",
       "date_jst": "2026-11-22",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -3700,7 +3701,7 @@
           "source": "Formula 1 Official",
           "publisher": "Formula 1",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-22T05:47:05+00:00",
+          "published_utc": "2026-11-22T05:08:00+00:00",
           "title": "2026 Las Vegas Grand Prix: Perez and Camara collide - Formula 1"
         }
       ]
@@ -9684,6 +9685,189 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-22T14:40:30+00:00",
           "title": "Hakkers Wilco / Wesselink Klaas | 3 ACtronics Berkelland Rally 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "bd1cd67f72630326eb865745",
+      "topic": "F1",
+      "title": "'We could have had a podium' - Lewis Hamilton on Ferrari's difficult Las Vegas GP - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUXFLWjVjU2toWTVFUDNxeWNxSnZnSE5uNjRPeG5JUmZpTlhVUTZSZlhQSWk2TjhBUjNJUzZheGl6WkZQNV9tbzlJZ1AyWVRERnNabWZha2p4ZWVXYUdTaTlNU1dZRmJaUVY4dGt6cXhaWlRTN1BjaHkzOEN4ejJ5OUFHZ2NlWVlHYmR6d01zcU9NUVlweHVadm9rbElqY0ZtVVhxalNBczM5TUtUZ1pUVnRoeTBYV0t5X3BrZ3QwZnIySnBKQTVnX0d3?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "'We could have had a podium' - Lewis Hamilton on Ferrari's difficult Las Vegas GP Formula 1",
+      "published_utc": "2026-11-22T08:05:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUXFLWjVjU2toWTVFUDNxeWNxSnZnSE5uNjRPeG5JUmZpTlhVUTZSZlhQSWk2TjhBUjNJUzZheGl6WkZQNV9tbzlJZ1AyWVRERnNabWZha2p4ZWVXYUdTaTlNU1dZRmJaUVY4dGt6cXhaWlRTN1BjaHkzOEN4ejJ5OUFHZ2NlWVlHYmR6d01zcU9NUVlweHVadm9rbElqY0ZtVVhxalNBczM5TUtUZ1pUVnRoeTBYV0t5X3BrZ3QwZnIySnBKQTVnX0d3?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T08:05:00+00:00",
+          "title": "'We could have had a podium' - Lewis Hamilton on Ferrari's difficult Las Vegas GP - Formula 1"
+        }
+      ]
+    },
+    {
+      "id": "ff2ae8429559f4cd937afd71",
+      "topic": "F1",
+      "title": "The Official Home of Formula 1® Racing - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZy1HbVNSWDdyQk85dmpuVkEwV0Q0cG9hYWRDQ2ZLNzIxdkdVbzh4S0ViRUwybFpsa25rNGYzd2phM0pTZ1o1LUxvcTBBakc4aVFEZkx2aFBHSXhjLVdESk5xLXM0LUVxQ1JCLWh5cklSeVdweC04N05BeURNMTJ2REJwdHA?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "The Official Home of Formula 1® Racing Formula 1",
+      "published_utc": "2026-11-22T06:17:08+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "possible_event_id": "391e0e39d826",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZy1HbVNSWDdyQk85dmpuVkEwV0Q0cG9hYWRDQ2ZLNzIxdkdVbzh4S0ViRUwybFpsa25rNGYzd2phM0pTZ1o1LUxvcTBBakc4aVFEZkx2aFBHSXhjLVdESk5xLXM0LUVxQ1JCLWh5cklSeVdweC04N05BeURNMTJ2REJwdHA?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T06:17:08+00:00",
+          "title": "The Official Home of Formula 1® Racing - Formula 1"
+        }
+      ]
+    },
+    {
+      "id": "dccd5bda73852344ee9b4aca",
+      "topic": "F1",
+      "title": "'The podium was there' - P5 Gasly 'very happy' after 'incredible' Las Vegas GP - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFFGV01oczVmQ1gzQ2pyX0NLenFJZjNPbkdsN3BTSUpJR2V6ckU0RksxaFEwS0laUGhHNV9ySEw3OXp0dG9pUU5QQzllVGJxS3kyZFVYY041UFpZNGQzcjVLamNQbDlwcUVqcnZHVEtwQnJGMlJUQlR4cGlfc1hwLXFXU0MzTUNlVWVZS2NMZXEwMnRpeGtPNVJTOGpFdkxQMzNrTGsxUloteTF2SU1tSFZOZGNqa2JkbTNjOUp6UnpvUQ?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "'The podium was there' - P5 Gasly 'very happy' after 'incredible' Las Vegas GP Formula 1",
+      "published_utc": "2026-11-22T07:30:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFFGV01oczVmQ1gzQ2pyX0NLenFJZjNPbkdsN3BTSUpJR2V6ckU0RksxaFEwS0laUGhHNV9ySEw3OXp0dG9pUU5QQzllVGJxS3kyZFVYY041UFpZNGQzcjVLamNQbDlwcUVqcnZHVEtwQnJGMlJUQlR4cGlfc1hwLXFXU0MzTUNlVWVZS2NMZXEwMnRpeGtPNVJTOGpFdkxQMzNrTGsxUloteTF2SU1tSFZOZGNqa2JkbTNjOUp6UnpvUQ?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T07:30:00+00:00",
+          "title": "'The podium was there' - P5 Gasly 'very happy' after 'incredible' Las Vegas GP - Formula 1"
+        }
+      ]
+    },
+    {
+      "id": "1bf2842b41730858eaa60a87",
+      "topic": "F1",
+      "title": "'Nice to be battling' - Camara reflects on 'positive' Las Vegas GP - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0doRU92TGJDeEZCMnFKR25sNGRIdVRqRldyZ0lfZHlEQnp1dThSNjdOZFROTUFPbEh3TjM4VWozSERzOTd1S2xHVWdHaUV1dzlzTkVmUjF6UGNwYUVhYVBNUjZFYTFXRkVyNVNDWnpQaDZ6bDdfWm84N3h6dGotTmdiMVFzS3J4dVJHQU82YkJXbmVEc2RmbDF1UWhmOU5kTkhoTHlBMFQ3Y1ZYTEMtUkRlLUo?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "'Nice to be battling' - Camara reflects on 'positive' Las Vegas GP Formula 1",
+      "published_utc": "2026-11-22T08:16:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0doRU92TGJDeEZCMnFKR25sNGRIdVRqRldyZ0lfZHlEQnp1dThSNjdOZFROTUFPbEh3TjM4VWozSERzOTd1S2xHVWdHaUV1dzlzTkVmUjF6UGNwYUVhYVBNUjZFYTFXRkVyNVNDWnpQaDZ6bDdfWm84N3h6dGotTmdiMVFzS3J4dVJHQU82YkJXbmVEc2RmbDF1UWhmOU5kTkhoTHlBMFQ3Y1ZYTEMtUkRlLUo?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T08:16:00+00:00",
+          "title": "'Nice to be battling' - Camara reflects on 'positive' Las Vegas GP - Formula 1"
+        }
+      ]
+    },
+    {
+      "id": "50ca10b64f4eb640892178dc",
+      "topic": "F1",
+      "title": "'We need a lot more horsepower' – Lance Stroll on Aston Martin's Las Vegas GP struggles - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZTNCNkRhRjBabzE4MVBpQlNibWZuVkJYRXlacUV1MGU3YWxILXdFTktFUi1NWnRTd2tET21qbVM3Nzgxb1VNRjE3bmVrQk9IbGUyVklLNFMzVG1tYnFZaWFDUFdjLVJ6NmphbURHWWFsaXRTVVhYZHAzZEtKLTUxVDJvRU1Rcm15Uzc3elVKUW5Da2FOZW5wTmJwU2pXY0xvdnh2WEZLdGRJVENSMjlpZ21yaVhBOU1pSE0wb1hEY2RFMDQ2cF9PempHNGhEa2hTVHc?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "'We need a lot more horsepower' – Lance Stroll on Aston Martin's Las Vegas GP struggles Formula 1",
+      "published_utc": "2026-11-22T06:09:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZTNCNkRhRjBabzE4MVBpQlNibWZuVkJYRXlacUV1MGU3YWxILXdFTktFUi1NWnRTd2tET21qbVM3Nzgxb1VNRjE3bmVrQk9IbGUyVklLNFMzVG1tYnFZaWFDUFdjLVJ6NmphbURHWWFsaXRTVVhYZHAzZEtKLTUxVDJvRU1Rcm15Uzc3elVKUW5Da2FOZW5wTmJwU2pXY0xvdnh2WEZLdGRJVENSMjlpZ21yaVhBOU1pSE0wb1hEY2RFMDQ2cF9PempHNGhEa2hTVHc?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T06:09:00+00:00",
+          "title": "'We need a lot more horsepower' – Lance Stroll on Aston Martin's Las Vegas GP struggles - Formula 1"
+        }
+      ]
+    },
+    {
+      "id": "36c5c8041b1bdd878f27d115",
+      "topic": "F1",
+      "title": "Colapinto: 'Both Alpines in top six is very positive' - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOclgyWEdhNWM3NklLVnVXWlJ0ZlQzWVI3ZG1FNmlNMmpESXViM2lhM0xFTXI4c0JsWDVsZXRWWkI5MmlYRHZGN0NSaTJLdDJBTURSQW9nV0dVMHFLVWxyOS1HcnI2NkNpYWg5VlBqZTZjNWZ1YjRuY2JhM3dUN0dsOC03bXJtZzI3cVc2bVhqY0hUMXBPSWc3dXcwdE1laFAtLUV6Ml82QQ?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "Colapinto: 'Both Alpines in top six is very positive' Formula 1",
+      "published_utc": "2026-11-22T06:52:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOclgyWEdhNWM3NklLVnVXWlJ0ZlQzWVI3ZG1FNmlNMmpESXViM2lhM0xFTXI4c0JsWDVsZXRWWkI5MmlYRHZGN0NSaTJLdDJBTURSQW9nV0dVMHFLVWxyOS1HcnI2NkNpYWg5VlBqZTZjNWZ1YjRuY2JhM3dUN0dsOC03bXJtZzI3cVc2bVhqY0hUMXBPSWc3dXcwdE1laFAtLUV6Ml82QQ?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T06:52:00+00:00",
+          "title": "Colapinto: 'Both Alpines in top six is very positive' - Formula 1"
+        }
+      ]
+    },
+    {
+      "id": "77b936d96b52bf3e53139f31",
+      "topic": "F1",
+      "title": "Perez debriefs with Camara after unavoidable Las Vegas collision - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMHhxaFlGeWV0b3N5azJiaXlORFM1S2tJVGhUVFZRaXlibWJ4b09xZlBjWV9WcWJmQ09nbnVNTllYN1NmcG1OUUlMVjhCTWM0N0g1TzZYWmhIeVk0MUZXdUhEVFFsMkQ3elN6WDRiOXhGNDhRdjRJZ0dmWERQRWQxdkJKUTMxaS0zV3FDR1dEbVlqc2tGSUtNWmpUMlRadWFTVUFjTVQtM0gwMHVQRVVYOEVUa0w3R05aNlE?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "Perez debriefs with Camara after unavoidable Las Vegas collision Formula 1",
+      "published_utc": "2026-11-22T06:14:10+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMHhxaFlGeWV0b3N5azJiaXlORFM1S2tJVGhUVFZRaXlibWJ4b09xZlBjWV9WcWJmQ09nbnVNTllYN1NmcG1OUUlMVjhCTWM0N0g1TzZYWmhIeVk0MUZXdUhEVFFsMkQ3elN6WDRiOXhGNDhRdjRJZ0dmWERQRWQxdkJKUTMxaS0zV3FDR1dEbVlqc2tGSUtNWmpUMlRadWFTVUFjTVQtM0gwMHVQRVVYOEVUa0w3R05aNlE?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T06:14:10+00:00",
+          "title": "Perez debriefs with Camara after unavoidable Las Vegas collision - Formula 1"
         }
       ]
     }

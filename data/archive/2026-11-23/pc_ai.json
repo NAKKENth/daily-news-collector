@@ -953,7 +953,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Making purchases with ChatGPT Wallet | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-22T18:36:05+00:00",
+      "published_utc": "2026-11-22T20:35:48+00:00",
       "date_jst": "2026-11-23",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -966,7 +966,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-22T18:36:05+00:00",
+          "published_utc": "2026-11-22T20:35:48+00:00",
           "title": "Making purchases with ChatGPT Wallet | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -1083,7 +1083,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "API credits benefit for eligible ChatGPT subscriptions | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-22T18:03:30+00:00",
+      "published_utc": "2026-11-22T20:40:49+00:00",
       "date_jst": "2026-11-23",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -1096,7 +1096,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-22T18:03:30+00:00",
+          "published_utc": "2026-11-22T20:40:49+00:00",
           "title": "API credits benefit for eligible ChatGPT subscriptions | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -3109,32 +3109,6 @@
       ]
     },
     {
-      "id": "cf3d2803cf1a2cfad345cae7",
-      "topic": "pc",
-      "title": "Audible 3か月分4500円が297円！さらに500円分のアマギフ付き",
-      "url": "https://www.nichepcgamer.com/archives/post-134114.html",
-      "source": "NichePCGamer",
-      "publisher": "NichePCGamer",
-      "description": "Amazonにて、通常月額1,500円のところ、最初の3か月間は月額99円(3か月で297円)で『Audibleプレミアムプラン』を利用できるキャンペーンが開催されています。さらに、本キャンペーンに申し込むと、500円分 […]",
-      "published_utc": "2026-11-23T01:12:27+00:00",
-      "date_jst": "2026-11-23",
-      "timestamp_basis": "source_feed_published",
-      "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://www.nichepcgamer.com/archives/post-134114.html",
-          "source": "NichePCGamer",
-          "publisher": "NichePCGamer",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-23T01:12:27+00:00",
-          "title": "Audible 3か月分4500円が297円！さらに500円分のアマギフ付き"
-        }
-      ]
-    },
-    {
       "id": "18366194cb6d522fa95e43f5",
       "topic": "pc",
       "title": "Intel’s 12 And 10 P-Core Bartlett Lake CPUs Now Reportedly Run Out Of The Box On MSI Z690 And Z790 Boards With Power Limits Unlocked - Wccftech",
@@ -3655,32 +3629,6 @@
       ]
     },
     {
-      "id": "348123e2ac32f1a4f1c92c03",
-      "topic": "ai",
-      "title": "ChatGPT Work and Codex | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hdmNxc1ZRV1ZUazhMY3VGR2NDeEtvTk96ZkJMRHhYczhuZ29tSVJfNnJXN1ZzanVFVFN0dE5pMGg5ZTJiU3Yzb1hFM1czamFpdkxIaFdla2d1UVo2LVZiVTV3cnN5ZmJkeU9LLXp0Z0hvY2pyR0E?oc=5",
-      "source": "OpenAI",
-      "publisher": "OpenAI Help Center",
-      "description": "ChatGPT Work and Codex | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-23T14:04:17+00:00",
-      "date_jst": "2026-11-23",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hdmNxc1ZRV1ZUazhMY3VGR2NDeEtvTk96ZkJMRHhYczhuZ29tSVJfNnJXN1ZzanVFVFN0dE5pMGg5ZTJiU3Yzb1hFM1czamFpdkxIaFdla2d1UVo2LVZiVTV3cnN5ZmJkeU9LLXp0Z0hvY2pyR0E?oc=5",
-          "source": "OpenAI",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T14:04:17+00:00",
-          "title": "ChatGPT Work and Codex | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
       "id": "f1762d4218fb1abf882c4f2d",
       "topic": "ai",
       "title": "Connecting and managing app accounts in ChatGPT | OpenAI Help Center - OpenAI Help Center",
@@ -3688,7 +3636,7 @@
       "source": "OpenAI",
       "publisher": "OpenAI Help Center",
       "description": "Connecting and managing app accounts in ChatGPT | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-22T16:58:11+00:00",
+      "published_utc": "2026-11-22T20:13:30+00:00",
       "date_jst": "2026-11-23",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -3701,34 +3649,8 @@
           "source": "OpenAI",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-22T16:58:11+00:00",
+          "published_utc": "2026-11-22T20:13:30+00:00",
           "title": "Connecting and managing app accounts in ChatGPT | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
-      "id": "e9510e1394dd2c7bf4e17784",
-      "topic": "ai",
-      "title": "ChatGPT Desktop Referral Promotions - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcWVweF9lTVJ4SWYyS214VjlvWl92dFhYMmp2VkJRV0l1bHpzTm8wT1B6SXc4VXRlMHVneW45dWVKU2xHT1ZNZkpBQnV2TmQxVWxyeDhKYTlpVHVULThxSHhlWTZMMlYwVjdhcklnancwaV9BbV9iSm52MGhpNG5oaXdiNGVxaGs?oc=5",
-      "source": "OpenAI",
-      "publisher": "OpenAI Help Center",
-      "description": "ChatGPT Desktop Referral Promotions OpenAI Help Center",
-      "published_utc": "2026-11-23T11:31:50+00:00",
-      "date_jst": "2026-11-23",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcWVweF9lTVJ4SWYyS214VjlvWl92dFhYMmp2VkJRV0l1bHpzTm8wT1B6SXc4VXRlMHVneW45dWVKU2xHT1ZNZkpBQnV2TmQxVWxyeDhKYTlpVHVULThxSHhlWTZMMlYwVjdhcklnancwaV9BbV9iSm52MGhpNG5oaXdiNGVxaGs?oc=5",
-          "source": "OpenAI",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T11:31:50+00:00",
-          "title": "ChatGPT Desktop Referral Promotions - OpenAI Help Center"
         }
       ]
     },
@@ -3740,7 +3662,7 @@
       "source": "OpenAI",
       "publisher": "OpenAI Help Center",
       "description": "Using locked chats in ChatGPT | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-22T16:27:23+00:00",
+      "published_utc": "2026-11-22T19:31:02+00:00",
       "date_jst": "2026-11-23",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -3753,7 +3675,7 @@
           "source": "OpenAI",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-22T16:27:23+00:00",
+          "published_utc": "2026-11-22T19:31:02+00:00",
           "title": "Using locked chats in ChatGPT | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -5476,6 +5398,58 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T14:13:00+00:00",
           "title": "Galaxy S23 Ultra root module adds AirDrop and 18 other features from newer Galaxy phones - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "af8abefc86e6b77c162dec75",
+      "topic": "pc",
+      "title": "INT8/INT16 Quantization for Ryzen AI - AMD Quark",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHkwZ0FTYlpmQWo0RWVEVlhnTVlaSjBGOUNJNUk4YW5BX1E4Rm1qaFk1R014eGdIQVRBWUpONHBZcWRldHlEYmxCZi13WVBjU21HcDVMUVV2NXpZdUtyX1RsYjN2U1NaNUZRandEVGpNOWExRWpfel9oeXdSeWRObmZEMWpGbWxCRUM5TEZ4S3V5YTZhcmVRTQ?oc=5",
+      "source": "AMD",
+      "publisher": "AMD Quark",
+      "description": "INT8/INT16 Quantization for Ryzen AI AMD Quark",
+      "published_utc": "2026-11-23T08:00:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHkwZ0FTYlpmQWo0RWVEVlhnTVlaSjBGOUNJNUk4YW5BX1E4Rm1qaFk1R014eGdIQVRBWUpONHBZcWRldHlEYmxCZi13WVBjU21HcDVMUVV2NXpZdUtyX1RsYjN2U1NaNUZRandEVGpNOWExRWpfel9oeXdSeWRObmZEMWpGbWxCRUM5TEZ4S3V5YTZhcmVRTQ?oc=5",
+          "source": "AMD",
+          "publisher": "AMD Quark",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T08:00:00+00:00",
+          "title": "INT8/INT16 Quantization for Ryzen AI - AMD Quark"
+        }
+      ]
+    },
+    {
+      "id": "a4b193dd732ad5a5df6ea018",
+      "topic": "pc",
+      "title": "EX-FILING FEES - AMD",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ2NVeUZ0N2NRdFZSUGlTd0tDd2I5Uy1UZmNwblhQcEdvTzRuZEJDYk82T2FKWGFfV2Q4Z0xXWTNBT3ZDeDFZTkdMT2pfbkVhYXNKaU1xaVpVOXRpa3lVSl9YNjN0dGp3cGJfMm1fa21OcVdBbDNvakdEY1Y1MkU0NmVqdXIxTHQtcm5UcVBWSTNMUnN6M08zMHhfb1I2bVpxbzloLXRvYThJdw?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "EX-FILING FEES AMD",
+      "published_utc": "2026-11-23T08:00:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ2NVeUZ0N2NRdFZSUGlTd0tDd2I5Uy1UZmNwblhQcEdvTzRuZEJDYk82T2FKWGFfV2Q4Z0xXWTNBT3ZDeDFZTkdMT2pfbkVhYXNKaU1xaVpVOXRpa3lVSl9YNjN0dGp3cGJfMm1fa21OcVdBbDNvakdEY1Y1MkU0NmVqdXIxTHQtcm5UcVBWSTNMUnN6M08zMHhfb1I2bVpxbzloLXRvYThJdw?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T08:00:00+00:00",
+          "title": "EX-FILING FEES - AMD"
         }
       ]
     }
