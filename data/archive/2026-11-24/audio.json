@@ -1265,6 +1265,370 @@
       "article_published_raw": "2026-11-24T11:13:09+09:00",
       "article_modified_raw": "2026-11-24T11:13:09+09:00",
       "enrichment": "article_metadata"
+    },
+    {
+      "id": "42be98d994e8156b7daa5085",
+      "topic": "wired",
+      "title": "Closed: - no more for sell - - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WdXpzQmt6Yl96MnIybzBzUGJlZGtSbU9feFh1WjAtemRib3Nhc0FpeFMyQjlGZ2dZLTM1a053TWpUUW5Gb2pMdnhFT1pDWC1nQTZZbmxyakg1NHVpY2xPaTNRSGlkMkJsZDNQTA?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Closed: - no more for sell - Head-Fi.org",
+      "published_utc": "2026-11-24T08:00:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WdXpzQmt6Yl96MnIybzBzUGJlZGtSbU9feFh1WjAtemRib3Nhc0FpeFMyQjlGZ2dZLTM1a053TWpUUW5Gb2pMdnhFT1pDWC1nQTZZbmxyakg1NHVpY2xPaTNRSGlkMkJsZDNQTA?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T08:00:00+00:00",
+          "title": "Closed: - no more for sell - - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "57dce5d171d7f840e300ee24",
+      "topic": "wired",
+      "title": "Tubulus Concentus I2S Cable V2 or Argentus I2S Cable V2 - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT1NkejZZNG5YeGZsVGdNazBrZkI0VTBvcUdzVkVteDNObkRTUERmSHhYZ0xlLU5HN2tOQ3lGQXJTSmRseml0RG9TTUdXQWxmRTVjSlBrb1d5TEliczJQOG15NnpUOEV1V1RqTEdtbDNyYXdMN1VLdlV4X216LWQ0enJURXhVN0Q3cXl1WHR2cjRTR2JvS2VneVNVeW54al9z?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Tubulus Concentus I2S Cable V2 or Argentus I2S Cable V2 Head-Fi.org",
+      "published_utc": "2026-11-23T22:42:57+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT1NkejZZNG5YeGZsVGdNazBrZkI0VTBvcUdzVkVteDNObkRTUERmSHhYZ0xlLU5HN2tOQ3lGQXJTSmRseml0RG9TTUdXQWxmRTVjSlBrb1d5TEliczJQOG15NnpUOEV1V1RqTEdtbDNyYXdMN1VLdlV4X216LWQ0enJURXhVN0Q3cXl1WHR2cjRTR2JvS2VneVNVeW54al9z?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T22:42:57+00:00",
+          "title": "Tubulus Concentus I2S Cable V2 or Argentus I2S Cable V2 - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "4dcc75c299d69d77f5d6e79b",
+      "topic": "wired",
+      "title": "Linear Tube Audio (LTA) Ultralinear+ Integrated Tube Speaker Amplifier & Headphone Amplifier - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTDk3dDRRbEtuLWtkOG16cUZrZ0VySld3LXdsbDZGNmZrZUh0MndENFQ3eDh1ck91U1BCT2JyclVuNm1FQ3N1QzdNVEg3dlhneEYwd2FNS2ZPR190WHVIaE5KdUsxcXhzOVlFczEyQndBajVQT1BvQThlYm5nS3J1OVJTUFo1aUFxXy14NXBZdnp4N2t6RnFrMHVsRkpoNjVsc3NPMzlkNEZNVGF5a21USXRKUTBoZGZFMWFpUWxqdlQ4WjRFdjZsYnFFOA?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Linear Tube Audio (LTA) Ultralinear+ Integrated Tube Speaker Amplifier & Headphone Amplifier Head-Fi.org",
+      "published_utc": "2026-11-24T08:00:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTDk3dDRRbEtuLWtkOG16cUZrZ0VySld3LXdsbDZGNmZrZUh0MndENFQ3eDh1ck91U1BCT2JyclVuNm1FQ3N1QzdNVEg3dlhneEYwd2FNS2ZPR190WHVIaE5KdUsxcXhzOVlFczEyQndBajVQT1BvQThlYm5nS3J1OVJTUFo1aUFxXy14NXBZdnp4N2t6RnFrMHVsRkpoNjVsc3NPMzlkNEZNVGF5a21USXRKUTBoZGZFMWFpUWxqdlQ4WjRFdjZsYnFFOA?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T08:00:00+00:00",
+          "title": "Linear Tube Audio (LTA) Ultralinear+ Integrated Tube Speaker Amplifier & Headphone Amplifier - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "20c7a155becdd24a321f83eb",
+      "topic": "wired",
+      "title": "Closed: Hiby R3 pro II - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vOGYxOUhXVXZkTXpNTDRwUmpIWFpLOVE3bWxtUjJpUnF5bGdmczI2U1VDZ2t2TmlscldROTJRRmlYcC1QUFR4Y1F5b3pLYXdpdF9JZ0FkeWxIR0FIRkducTFyNm5ick9VT1E?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Closed: Hiby R3 pro II Head-Fi.org",
+      "published_utc": "2026-11-24T08:00:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vOGYxOUhXVXZkTXpNTDRwUmpIWFpLOVE3bWxtUjJpUnF5bGdmczI2U1VDZ2t2TmlscldROTJRRmlYcC1QUFR4Y1F5b3pLYXdpdF9JZ0FkeWxIR0FIRkducTFyNm5ick9VT1E?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T08:00:00+00:00",
+          "title": "Closed: Hiby R3 pro II - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "0c5504faf5f03bbe0443428f",
+      "topic": "wired",
+      "title": "Closed: [FINAL PD] Eletech Cartone 4.4mm 2pin IEM Cable - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDA1MkNBMW5zUmJ1LThwUk52MFdxbWp3RW5mcmlfbUlnU1BJdW14OWxZblNDOU9zQjY5WXpXelhZR0pJdE1Gd0o3SUs4YS1fUFJnNDVydHphSzlQTVhHMWdJcng4Ml9rVk5xSEQ5Y1RwQmQwYlVOZ0FsbVNzSHhVQW1sb0Judkd4aXJsZExJOWwtTjQ?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Closed: [FINAL PD] Eletech Cartone 4.4mm 2pin IEM Cable Head-Fi.org",
+      "published_utc": "2026-11-24T01:45:05+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDA1MkNBMW5zUmJ1LThwUk52MFdxbWp3RW5mcmlfbUlnU1BJdW14OWxZblNDOU9zQjY5WXpXelhZR0pJdE1Gd0o3SUs4YS1fUFJnNDVydHphSzlQTVhHMWdJcng4Ml9rVk5xSEQ5Y1RwQmQwYlVOZ0FsbVNzSHhVQW1sb0Judkd4aXJsZExJOWwtTjQ?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T01:45:05+00:00",
+          "title": "Closed: [FINAL PD] Eletech Cartone 4.4mm 2pin IEM Cable - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "7e853a7d895971a20f64d767",
+      "topic": "tws",
+      "title": "Galaxy Buds4 Pro vs Galaxy Buds3 Pro: Which one should you choose? - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSlM5RHlMRk51NGp2Q2c4YkZ6MkswWDZzMWdfMjRpUzBELUx4Wm1ZT2NkSVVvUjNCZXdod3pDRTBmWnFEaWxmSmc3Z0kxa1JjdHRjUDdjOWhmb2xmaS1rOHZXZEduNnkyUFdoRE92TFJDVlJiVzRLNkJVYnJzcDNwWUlIOWtUUDBjTFNqQWVDcENiM0poSF9uV3FQMEZ5UQ?oc=5",
+      "source": "Samsung Audio",
+      "publisher": "samsung.com",
+      "description": "Galaxy Buds4 Pro vs Galaxy Buds3 Pro: Which one should you choose? samsung.com",
+      "published_utc": "2026-11-24T08:12:18+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSlM5RHlMRk51NGp2Q2c4YkZ6MkswWDZzMWdfMjRpUzBELUx4Wm1ZT2NkSVVvUjNCZXdod3pDRTBmWnFEaWxmSmc3Z0kxa1JjdHRjUDdjOWhmb2xmaS1rOHZXZEduNnkyUFdoRE92TFJDVlJiVzRLNkJVYnJzcDNwWUlIOWtUUDBjTFNqQWVDcENiM0poSF9uV3FQMEZ5UQ?oc=5",
+          "source": "Samsung Audio",
+          "publisher": "samsung.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T08:12:18+00:00",
+          "title": "Galaxy Buds4 Pro vs Galaxy Buds3 Pro: Which one should you choose? - samsung.com"
+        }
+      ]
+    },
+    {
+      "id": "3ae3f3abb39b3d69bbc28551",
+      "topic": "tws",
+      "title": "YouTube Music could finally let you pin your favorite playlists and albums where they belong - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DbVZvbklhTGRDcGxuZmoyVzNQSnFQMF9MVFUxWi10MG1iblFXOFB4RmI4Mkd5c283UndwcEpwTHNlY2hPNGNPV29KMXhZczhuTlpObUxKSFZZaHBrQmtackk0aXJJV2tqcHZwdWpMZ3NpanpFdEVrZ0p0OA?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "YouTube Music could finally let you pin your favorite playlists and albums where they belong Android Authority",
+      "published_utc": "2026-11-24T13:54:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DbVZvbklhTGRDcGxuZmoyVzNQSnFQMF9MVFUxWi10MG1iblFXOFB4RmI4Mkd5c283UndwcEpwTHNlY2hPNGNPV29KMXhZczhuTlpObUxKSFZZaHBrQmtackk0aXJJV2tqcHZwdWpMZ3NpanpFdEVrZ0p0OA?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T13:54:00+00:00",
+          "title": "YouTube Music could finally let you pin your favorite playlists and albums where they belong - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "040e5e0d2caa3083897605b2",
+      "topic": "tws",
+      "title": "Dev behind top PS3 emulator on Android releases ARMFlash, bringing tons of Flash games to Android - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Ed0JrbENkNlR3NHV3NG1KNkJVSFZqME9pZXBITUFQZDVRX1JycGs3YzRDYThuVjg1eVRRWi1VcXZZbll2UlhvU0N6ZmtZQnlWWW12dHp0c1JSalFOdzlWVUViNWMxUkNmZDFodGE5X2ZpR2hVaEVhem9B?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Dev behind top PS3 emulator on Android releases ARMFlash, bringing tons of Flash games to Android Android Authority",
+      "published_utc": "2026-11-24T09:02:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Ed0JrbENkNlR3NHV3NG1KNkJVSFZqME9pZXBITUFQZDVRX1JycGs3YzRDYThuVjg1eVRRWi1VcXZZbll2UlhvU0N6ZmtZQnlWWW12dHp0c1JSalFOdzlWVUViNWMxUkNmZDFodGE5X2ZpR2hVaEVhem9B?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T09:02:00+00:00",
+          "title": "Dev behind top PS3 emulator on Android releases ARMFlash, bringing tons of Flash games to Android - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "0048f432708e012f9139f420",
+      "topic": "tws",
+      "title": "Google gives publishers more visibility in AI Mode with new 'Dive Deeper' links - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeHlXd0FWV0pQdGlaYXViZUZ2ekxpNG1JbmhDOExQSGt6Y1JiS2xYR0NWaEVlRWNmRjYxeThHT1JtQ0d6TGptRlV3QmRSNDNLcVdWUUVZMDFZOEVLZnVtTTM4U0dvcTJqUmZlczlYbERheWhJeDlHWmU2b1B0VnlSUlREXy1meFA4MkVB?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Google gives publishers more visibility in AI Mode with new 'Dive Deeper' links Android Authority",
+      "published_utc": "2026-11-24T05:33:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeHlXd0FWV0pQdGlaYXViZUZ2ekxpNG1JbmhDOExQSGt6Y1JiS2xYR0NWaEVlRWNmRjYxeThHT1JtQ0d6TGptRlV3QmRSNDNLcVdWUUVZMDFZOEVLZnVtTTM4U0dvcTJqUmZlczlYbERheWhJeDlHWmU2b1B0VnlSUlREXy1meFA4MkVB?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T05:33:00+00:00",
+          "title": "Google gives publishers more visibility in AI Mode with new 'Dive Deeper' links - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "f41495ef35bbd13951b2cd74",
+      "topic": "tws",
+      "title": "Features & Opinions - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BeE9BaGgwUV85VXJPc3VFMEFUZ25naUtfWmRfb3BqVDBaNXZTUHJxVkZIZURzbUpEMnF2X0FCT196RnlXVnA5NnZiQ01LaVlOaFVQUQ?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Features & Opinions Android Authority",
+      "published_utc": "2026-11-24T10:42:39+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BeE9BaGgwUV85VXJPc3VFMEFUZ25naUtfWmRfb3BqVDBaNXZTUHJxVkZIZURzbUpEMnF2X0FCT196RnlXVnA5NnZiQ01LaVlOaFVQUQ?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T10:42:39+00:00",
+          "title": "Features & Opinions - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "ec9a0471763d668a26bf8f65",
+      "topic": "tws",
+      "title": "Sony WF-1000XM6 earbuds hit a record low with $82 off - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tWEZVNjFSa0JIQUtOZzlNUmI4Smh2b2JnVUw3bXJzaG9HRzBxclB0VWY4bUQ2aTR6cVFpRkROcFhjaFFBZEMzbU1RVV9yRjNkZHlNd19pMUUzVEpqNGpaMlRNbWVZdDg5ald3cGhqcw?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Sony WF-1000XM6 earbuds hit a record low with $82 off Android Authority",
+      "published_utc": "2026-11-24T12:17:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tWEZVNjFSa0JIQUtOZzlNUmI4Smh2b2JnVUw3bXJzaG9HRzBxclB0VWY4bUQ2aTR6cVFpRkROcFhjaFFBZEMzbU1RVV9yRjNkZHlNd19pMUUzVEpqNGpaMlRNbWVZdDg5ald3cGhqcw?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T12:17:00+00:00",
+          "title": "Sony WF-1000XM6 earbuds hit a record low with $82 off - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "5b5d5fcff52241cfe33677d2",
+      "topic": "tws",
+      "title": "Soundcore Liberty 5 Pro earbuds drop to a record low $129.99 - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUTVd2Z3V0eHlHNjlGZ0tFNzc5ZUxYakVWaDcteGdIX1R5ZnFRSERDcHpoV0RpVmJCYUx1UGNBWWZaSnJuVGpFX0ZwYWpITm93bFZuUDZ1clFMalloMHlfMXZRVEhHSEdmQmVxdkhsQUFNR05ZbEFHOWR1RW4?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Soundcore Liberty 5 Pro earbuds drop to a record low $129.99 Android Authority",
+      "published_utc": "2026-11-24T11:30:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUTVd2Z3V0eHlHNjlGZ0tFNzc5ZUxYakVWaDcteGdIX1R5ZnFRSERDcHpoV0RpVmJCYUx1UGNBWWZaSnJuVGpFX0ZwYWpITm93bFZuUDZ1clFMalloMHlfMXZRVEhHSEdmQmVxdkhsQUFNR05ZbEFHOWR1RW4?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T11:30:00+00:00",
+          "title": "Soundcore Liberty 5 Pro earbuds drop to a record low $129.99 - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "6ae8f5325392ebaf63ce4f8b",
+      "topic": "tws",
+      "title": "Go paperless for less with $150 off this reMarkable 2 bundle - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1dW5zcTFySWE3QUtQTlJybmxzN2lPX2tfLVFEVFRJSVFLTFRqeFp1Z1NYa3A0TXg5Zi01VlF4UUVid3pmVzQxUURsbVpoY0RKeDdVODZ2Z20xRzBnNnRtSmFOdVJ5VTZXOGJZWjZtenlGMXpn?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Go paperless for less with $150 off this reMarkable 2 bundle Android Authority",
+      "published_utc": "2026-11-23T17:33:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1dW5zcTFySWE3QUtQTlJybmxzN2lPX2tfLVFEVFRJSVFLTFRqeFp1Z1NYa3A0TXg5Zi01VlF4UUVid3pmVzQxUURsbVpoY0RKeDdVODZ2Z20xRzBnNnRtSmFOdVJ5VTZXOGJZWjZtenlGMXpn?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T17:33:00+00:00",
+          "title": "Go paperless for less with $150 off this reMarkable 2 bundle - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "afdfbaf2f2e53cfe31711ed7",
+      "topic": "tws",
+      "title": "Turn movie night into a theater with $270 off the JBL Bar 500MK2 - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52b2ZPQkdNMDNtejA2R2lhaFlnOE1HM0dGaXp1NDJwZzRjUlNPZ1RRS0w3ZWFmeDNKaHdVZW54dmlnRTMxWUZXWHVDNDZLZzZZejBKZmsySmlFZlJfR19PYlE1cWp2a1hXSTVtanJB?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Turn movie night into a theater with $270 off the JBL Bar 500MK2 Android Authority",
+      "published_utc": "2026-11-23T15:52:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52b2ZPQkdNMDNtejA2R2lhaFlnOE1HM0dGaXp1NDJwZzRjUlNPZ1RRS0w3ZWFmeDNKaHdVZW54dmlnRTMxWUZXWHVDNDZLZzZZejBKZmsySmlFZlJfR19PYlE1cWp2a1hXSTVtanJB?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T15:52:00+00:00",
+          "title": "Turn movie night into a theater with $270 off the JBL Bar 500MK2 - Android Authority"
+        }
+      ]
     }
   ],
   "date_unknown": [],

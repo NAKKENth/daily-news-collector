@@ -1676,6 +1676,32 @@
       ]
     },
     {
+      "id": "dc914a105aa13a646a556133",
+      "topic": "ai",
+      "title": "ChatGPT for Academic Researchers | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVUpRbVFTYzdEaUx0dDdXZGF0Ry1lMnF0U0dXQlRObGlOV3k2emx2THM1MVJ2anZjN1pxZF9sai1vOTRqS3FHeXd3TW55NldOaHlVZ21UUWpSNzN2RlRHNEI3SXJvNTBWeF9jX2hXQmlxV0UzcjlGUFZTZW9ybTUyazFwbw?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "ChatGPT for Academic Researchers | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-23T18:46:29+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVUpRbVFTYzdEaUx0dDdXZGF0Ry1lMnF0U0dXQlRObGlOV3k2emx2THM1MVJ2anZjN1pxZF9sai1vOTRqS3FHeXd3TW55NldOaHlVZ21UUWpSNzN2RlRHNEI3SXJvNTBWeF9jX2hXQmlxV0UzcjlGUFZTZW9ybTUyazFwbw?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T18:46:29+00:00",
+          "title": "ChatGPT for Academic Researchers | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
       "id": "bfdb725572b2ac7cfd0e46cd",
       "topic": "ai",
       "title": "Composer predictions in Codex | OpenAI Help Center - OpenAI Help Center",
@@ -5211,32 +5237,6 @@
       ]
     },
     {
-      "id": "3270e1440df5275dc764404c",
-      "topic": "pc",
-      "title": "Strategic Financial Analyst - AI Compute - NVIDIA",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jaUFjb2NYSnBDRUREVzMyLU5vbmVtMUxoUzNWZl9WNDdKRktQWmdSOHdCX0d0YlpLcVhDeExjN0ZkY1AwWjNRcThvVmYyOXQ0Nmx3Ym9wSlp5Ml9PVkNUU3htcS04QmVIeDBhdFpydw?oc=5",
-      "source": "NVIDIA",
-      "publisher": "NVIDIA",
-      "description": "Strategic Financial Analyst - AI Compute NVIDIA",
-      "published_utc": "2026-11-24T10:40:53+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jaUFjb2NYSnBDRUREVzMyLU5vbmVtMUxoUzNWZl9WNDdKRktQWmdSOHdCX0d0YlpLcVhDeExjN0ZkY1AwWjNRcThvVmYyOXQ0Nmx3Ym9wSlp5Ml9PVkNUU3htcS04QmVIeDBhdFpydw?oc=5",
-          "source": "NVIDIA",
-          "publisher": "NVIDIA",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T10:40:53+00:00",
-          "title": "Strategic Financial Analyst - AI Compute - NVIDIA"
-        }
-      ]
-    },
-    {
       "id": "2c2dd716f5d0dc4209bfc609",
       "topic": "pc",
       "title": "AI Workspace not enough space - NVIDIA Developer Forums",
@@ -7773,6 +7773,58 @@
       ]
     },
     {
+      "id": "9c66527ab55c4abdc1982522",
+      "topic": "ai",
+      "title": "Moving to the new ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd3ZsMThuLTFaT3VEYTRxQ1NoOXpwZTkzYU1lSDJSc3h2cFhOeFZCUk5UejVvMjV2NFhfcHZNTGUzVW0yTmVBeGFOWVhuTmk3NU1xTFQ3a1REdXpOZXVNWVpiajlhRHJ2OWlvYzNSQXZoRGJReEZfSXFxZU8tREdKbXpLdHdIajc5Nmc?oc=5",
+      "source": "OpenAI",
+      "publisher": "OpenAI Help Center",
+      "description": "Moving to the new ChatGPT desktop app | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-23T15:45:03+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd3ZsMThuLTFaT3VEYTRxQ1NoOXpwZTkzYU1lSDJSc3h2cFhOeFZCUk5UejVvMjV2NFhfcHZNTGUzVW0yTmVBeGFOWVhuTmk3NU1xTFQ3a1REdXpOZXVNWVpiajlhRHJ2OWlvYzNSQXZoRGJReEZfSXFxZU8tREdKbXpLdHdIajc5Nmc?oc=5",
+          "source": "OpenAI",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T15:45:03+00:00",
+          "title": "Moving to the new ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "29898084a4b7f50279425872",
+      "topic": "ai",
+      "title": "OpenAI Daybreak - Trusted Access for Cyber overview | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUZyTVZSX0RHejBVWktHR2xpY2dUbWFuZXNHN3R5S1dOMGxuQ0YySndSSDMzWUVRakpadzlKMWNNbTRxWWpVdlhvUkFhb0tXUy1XWlFQdGdhNEUtZFJZeU9JYTM4eThFamtsWjhxdFRaV0lnOXA0R0t3STlHUklvdi13Q3RiT1ZxLWI2V05aNXMyeU1Wbk8wdU9n?oc=5",
+      "source": "OpenAI",
+      "publisher": "OpenAI Help Center",
+      "description": "OpenAI Daybreak - Trusted Access for Cyber overview | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-23T16:44:01+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUZyTVZSX0RHejBVWktHR2xpY2dUbWFuZXNHN3R5S1dOMGxuQ0YySndSSDMzWUVRakpadzlKMWNNbTRxWWpVdlhvUkFhb0tXUy1XWlFQdGdhNEUtZFJZeU9JYTM4eThFamtsWjhxdFRaV0lnOXA0R0t3STlHUklvdi13Q3RiT1ZxLWI2V05aNXMyeU1Wbk8wdU9n?oc=5",
+          "source": "OpenAI",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T16:44:01+00:00",
+          "title": "OpenAI Daybreak - Trusted Access for Cyber overview | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
       "id": "811cdb47b197d3a9d8dda4bb",
       "topic": "ai",
       "title": "GPT-6.2 destroyed what made ChatGPT feel alive - OpenAI Developer Community",
@@ -8596,6 +8648,32 @@
       ]
     },
     {
+      "id": "1e374668a2d3acd01e5311a7",
+      "topic": "pc",
+      "title": "PODCAST: Trump's Nvidia intervention, Ukraine war spreads to Libya and AI rally fizzles - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDQ4VmpuUGp3SW9fRFdmaWowcnNZTXZkNl9ZX3NyTHhid1ZkYldlYWtkeGJ0VnRucTR3MDJoUzN4NnJ5ckdBdnRIT0c0UG82djYyQklKTUM3NG1ianZlUkNOUjVOU2xMYldsU1Y5cEI1R0ludFFaekQxRkc0RkM4OXhYOWxNOTBVdFJXS2txcjhXcnpzX0cwT1lBWnlEZmtaVVE?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "PODCAST: Trump's Nvidia intervention, Ukraine war spreads to Libya and AI rally fizzles Reuters",
+      "published_utc": "2026-11-24T11:30:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDQ4VmpuUGp3SW9fRFdmaWowcnNZTXZkNl9ZX3NyTHhid1ZkYldlYWtkeGJ0VnRucTR3MDJoUzN4NnJ5ckdBdnRIT0c0UG82djYyQklKTUM3NG1ianZlUkNOUjVOU2xMYldsU1Y5cEI1R0ludFFaekQxRkc0RkM4OXhYOWxNOTBVdFJXS2txcjhXcnpzX0cwT1lBWnlEZmtaVVE?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T11:30:00+00:00",
+          "title": "PODCAST: Trump's Nvidia intervention, Ukraine war spreads to Libya and AI rally fizzles - Reuters"
+        }
+      ]
+    },
+    {
       "id": "6f6f78e8fe154753d6677624",
       "topic": "ai",
       "title": "Virginia, Oregon sue Musk's SpaceX over Grok AI's creation of child sexual abuse images - Reuters",
@@ -9116,6 +9194,32 @@
       ]
     },
     {
+      "id": "c2abc0ade9a213733f0b9662",
+      "topic": "pc",
+      "title": "COMMENTARY: Trump's Nvidia intervention rips up Wall Street playbook - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQczdXX09VbktzSHB2LWVWdy1ZR3d0OTlhbGpndW9HU3ZzWjU0VXZwNzI5M0pFYXhXM0pOSS01REQxeG9rUG9kekdqbzdQdEttaDZ1YUVqSjFBc0xCSk45SnlyQ3ZHeXNlX2RYLUk1aVhuSU9hLTAxMjFoc3pYS3loNWZDLXdIUXFKd2xqcVJOMFVUMFhlOXA1TDd5UVgySHU1d3hwZ3BhTlFxOVc5OEl0UGVfRnUtVEJvZE5zZW82SXU3RmViQnp6Zl9kdkRYZw?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "COMMENTARY: Trump's Nvidia intervention rips up Wall Street playbook Reuters",
+      "published_utc": "2026-11-24T14:04:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQczdXX09VbktzSHB2LWVWdy1ZR3d0OTlhbGpndW9HU3ZzWjU0VXZwNzI5M0pFYXhXM0pOSS01REQxeG9rUG9kekdqbzdQdEttaDZ1YUVqSjFBc0xCSk45SnlyQ3ZHeXNlX2RYLUk1aVhuSU9hLTAxMjFoc3pYS3loNWZDLXdIUXFKd2xqcVJOMFVUMFhlOXA1TDd5UVgySHU1d3hwZ3BhTlFxOVc5OEl0UGVfRnUtVEJvZE5zZW82SXU3RmViQnp6Zl9kdkRYZw?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T14:04:00+00:00",
+          "title": "COMMENTARY: Trump's Nvidia intervention rips up Wall Street playbook - Reuters"
+        }
+      ]
+    },
+    {
       "id": "309db3bcf9fdb4da72cb7dcd",
       "topic": "pc",
       "title": "Pound claws above 19-month low, as dollar pauses after Nvidia-driven rally - Reuters",
@@ -9630,6 +9734,630 @@
       "article_published_raw": "2026-11-23T21:58:34+00:00",
       "article_modified_raw": "2026-11-24T14:09:08+00:00",
       "enrichment": "article_metadata"
+    },
+    {
+      "id": "169c507d7550335404e32211",
+      "topic": "ai",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+      "source": "Google DeepMind",
+      "publisher": "Google DeepMind",
+      "description": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "published_utc": "2026-11-24T13:07:53+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+          "source": "Google DeepMind",
+          "publisher": "Google DeepMind",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-24T13:07:53+00:00",
+          "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity"
+        }
+      ]
+    },
+    {
+      "id": "4504d306f99c14d5b4808ffb",
+      "topic": "pc",
+      "title": "Samsung Odyssey G60H",
+      "url": "https://tftcentral.co.uk/reviews/samsung-odyssey-g60h",
+      "source": "TFTCentral",
+      "publisher": "TFTCentral",
+      "description": "Samsung's new 27\" 1440p IPS LCD with a 600Hz native refresh rate and a dual-mode function supporting up to 1,100Hz for competitive gaming Category: Reviews Courtesy of TFTCentral",
+      "published_utc": "2026-11-23T15:59:36+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://tftcentral.co.uk/reviews/samsung-odyssey-g60h",
+          "source": "TFTCentral",
+          "publisher": "TFTCentral",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-23T15:59:36+00:00",
+          "title": "Samsung Odyssey G60H"
+        }
+      ]
+    },
+    {
+      "id": "ab915c0ad48344a6ed98cfea",
+      "topic": "ai",
+      "title": "Healthcare model configurations in the OpenAI API - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXpWTkV1Tjh5Z25WNzUwMDl2bTk4QjJCcWhDOUVVVVA1cGxDZk9IX3lsRm1PWXhWTndZN2t1U21EZVF0azJybXp5Z1ZWVHRCdzBBRzVDOFRpdVRXWmExZ05OVm5sSmRRVHVWbWZqRW1PTWN4Q2tfUWpUWEF3MVlDa0xMb3lVdVVCU1JpSlRKaVNfWlhEZXNUczJB?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "Healthcare model configurations in the OpenAI API OpenAI Help Center",
+      "published_utc": "2026-11-24T01:37:18+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXpWTkV1Tjh5Z25WNzUwMDl2bTk4QjJCcWhDOUVVVVA1cGxDZk9IX3lsRm1PWXhWTndZN2t1U21EZVF0azJybXp5Z1ZWVHRCdzBBRzVDOFRpdVRXWmExZ05OVm5sSmRRVHVWbWZqRW1PTWN4Q2tfUWpUWEF3MVlDa0xMb3lVdVVCU1JpSlRKaVNfWlhEZXNUczJB?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T01:37:18+00:00",
+          "title": "Healthcare model configurations in the OpenAI API - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "bd2e9661c0121a9abcb2e422",
+      "topic": "pc",
+      "title": "Posts by Pavel Tcherniaev - ROCm™ Blogs",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tSWdITTlGZjRxWGRqVHRaWFFKM0UxSHZxVU5fdEUxM0hLOVQxZzlJaGxvRjVXbWh6WFFuUG51X2NDdTE1OExtOEhDLXpXVGF0N0w1WlFFUGFRQ3NxNlMtQ1BUemVOU25LTXNoTQ?oc=5",
+      "source": "AMD",
+      "publisher": "ROCm™ Blogs",
+      "description": "Posts by Pavel Tcherniaev ROCm™ Blogs",
+      "published_utc": "2026-11-24T01:11:59+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tSWdITTlGZjRxWGRqVHRaWFFKM0UxSHZxVU5fdEUxM0hLOVQxZzlJaGxvRjVXbWh6WFFuUG51X2NDdTE1OExtOEhDLXpXVGF0N0w1WlFFUGFRQ3NxNlMtQ1BUemVOU25LTXNoTQ?oc=5",
+          "source": "AMD",
+          "publisher": "ROCm™ Blogs",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T01:11:59+00:00",
+          "title": "Posts by Pavel Tcherniaev - ROCm™ Blogs"
+        }
+      ]
+    },
+    {
+      "id": "6845881018874f949663e630",
+      "topic": "pc",
+      "title": "Staff Technical Program Manager, Signal Integrity (Hardware Development) - AMD",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jLWNwY3pydFpMSW9rV00wSDhWV255YV9YYWRGQ253ZWJwZ1ZiY3ZrYzNGYkthQ3l5SXFSODFQZW9LczA0ODR4bXllZk1weHB3cWtoMWxBSEVEc2s?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "Staff Technical Program Manager, Signal Integrity (Hardware Development) AMD",
+      "published_utc": "2026-11-23T19:08:13+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jLWNwY3pydFpMSW9rV00wSDhWV255YV9YYWRGQ253ZWJwZ1ZiY3ZrYzNGYkthQ3l5SXFSODFQZW9LczA0ODR4bXllZk1weHB3cWtoMWxBSEVEc2s?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T19:08:13+00:00",
+          "title": "Staff Technical Program Manager, Signal Integrity (Hardware Development) - AMD"
+        }
+      ]
+    },
+    {
+      "id": "1579d2a52e3c365a92742a5c",
+      "topic": "pc",
+      "title": "CPU Core Physical Design Engineer in Boxborough, Massachusetts | Advanced Micro Devices, Inc - AMD",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT0l5NnBxWDNWYXdYQ2I4Vk8wVXE1dVh4Q2F5VnpoZWQzdS1HZGZrZS1oRlBxb3ZPODFNeUxiMDhabVI2dE5BcXdJSkxfU3BTSDBLWDFUbXhHVmxQOEJHM3laMll5NFlsODZDUmVFNmZqOUNEbU0xUDl0SmcteVF1bzRHYktIRmN1SXctVkxmR3RzTGRvcmlZQUp3UnQ?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "CPU Core Physical Design Engineer in Boxborough, Massachusetts | Advanced Micro Devices, Inc AMD",
+      "published_utc": "2026-11-24T14:26:02+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT0l5NnBxWDNWYXdYQ2I4Vk8wVXE1dVh4Q2F5VnpoZWQzdS1HZGZrZS1oRlBxb3ZPODFNeUxiMDhabVI2dE5BcXdJSkxfU3BTSDBLWDFUbXhHVmxQOEJHM3laMll5NFlsODZDUmVFNmZqOUNEbU0xUDl0SmcteVF1bzRHYktIRmN1SXctVkxmR3RzTGRvcmlZQUp3UnQ?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T14:26:02+00:00",
+          "title": "CPU Core Physical Design Engineer in Boxborough, Massachusetts | Advanced Micro Devices, Inc - AMD"
+        }
+      ]
+    },
+    {
+      "id": "fc04e90dc8e840399667fd2d",
+      "topic": "pc",
+      "title": "Run local models in your .NET apps with Llama on Windows - Microsoft Dev Blogs",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEZXJXY2djY0IxUFo3NTY2MG9uSnNhcFFtY251MjZlS1Q5VkgyTjU4RFZKaEQwTk9QMmQ2WkhpVmVVanRWME5seGZ2V2tXdFhpdFJ4X3RnQWQ0X0xUdm9vSFZlbWhPdEtBWFl1SjZFLXpLV3VOSjIxMGN0djk?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Dev Blogs",
+      "description": "Run local models in your .NET apps with Llama on Windows Microsoft Dev Blogs",
+      "published_utc": "2026-11-23T18:05:48+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEZXJXY2djY0IxUFo3NTY2MG9uSnNhcFFtY251MjZlS1Q5VkgyTjU4RFZKaEQwTk9QMmQ2WkhpVmVVanRWME5seGZ2V2tXdFhpdFJ4X3RnQWQ0X0xUdm9vSFZlbWhPdEtBWFl1SjZFLXpLV3VOSjIxMGN0djk?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Dev Blogs",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T18:05:48+00:00",
+          "title": "Run local models in your .NET apps with Llama on Windows - Microsoft Dev Blogs"
+        }
+      ]
+    },
+    {
+      "id": "3bc47abb7978f3ebe0a4752d",
+      "topic": "pc",
+      "title": "Developer technologies - Microsoft Q&A - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzMzZQSnBpM25TSUNLRTlENEdDWGtMVWxkWDA5cDA2cW14X2JsT1VtRjJ0Rk8tLTZNMDJLRkFzWl9mUkloNGI1NzR2UmdyRGY3VERjLWVNc201R2JBV0RNV2t0bE9ScXNqSDlPOV9GY0tmMUNpZXNyVFBRcGlVZw?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft",
+      "description": "Developer technologies - Microsoft Q&A Microsoft",
+      "published_utc": "2026-11-24T05:00:54+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzMzZQSnBpM25TSUNLRTlENEdDWGtMVWxkWDA5cDA2cW14X2JsT1VtRjJ0Rk8tLTZNMDJLRkFzWl9mUkloNGI1NzR2UmdyRGY3VERjLWVNc201R2JBV0RNV2t0bE9ScXNqSDlPOV9GY0tmMUNpZXNyVFBRcGlVZw?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T05:00:54+00:00",
+          "title": "Developer technologies - Microsoft Q&A - Microsoft"
+        }
+      ]
+    },
+    {
+      "id": "c482112730f08749a5578a7a",
+      "topic": "pc",
+      "title": "Set up Power BI Desktop for Apps (preview) - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNnotbDk1WGhrak0tSk9hMVJmTWJpQVR1SE4yWTZFZ254YmJYXzFSS2lzQmZfc3NFRXFJNHdPUFNkNzFzYWYwNmRpM0FkcndXaDFyVVBRYzhyRHZRSmgtdnpvTG9lZnktSGlFREdjZUlEU1FHS3J0U3hqT1IyMUU3cXk1T20yX3M?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "Set up Power BI Desktop for Apps (preview) Microsoft Learn",
+      "published_utc": "2026-11-24T08:00:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNnotbDk1WGhrak0tSk9hMVJmTWJpQVR1SE4yWTZFZ254YmJYXzFSS2lzQmZfc3NFRXFJNHdPUFNkNzFzYWYwNmRpM0FkcndXaDFyVVBRYzhyRHZRSmgtdnpvTG9lZnktSGlFREdjZUlEU1FHS3J0U3hqT1IyMUU3cXk1T20yX3M?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T08:00:00+00:00",
+          "title": "Set up Power BI Desktop for Apps (preview) - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "5b6b8d726283a3d2f09910c9",
+      "topic": "pc",
+      "title": "The problem with the Discord nitro quest - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ3BNWlc1OE1Tb3NiLS12WEtfM0cwRXBLdGRPbzJzcm5hODYwR0QzWGl0MnZBSjg2dXRGT0VZZ2kzeWxjd3VtVEdXMU13TUcxM2s2Mmo3aE9ZcHplRTd3c29iVGFGZDZJR3E3SWt6a2FPWFhFR01zMmtyVWt1c3RYRi0zSWtWbFFLY0JjSmZnYWRfbTVXQWVHU3VkUkJQWGtCZ1E?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "The problem with the Discord nitro quest Microsoft Learn",
+      "published_utc": "2026-11-24T11:40:02+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ3BNWlc1OE1Tb3NiLS12WEtfM0cwRXBLdGRPbzJzcm5hODYwR0QzWGl0MnZBSjg2dXRGT0VZZ2kzeWxjd3VtVEdXMU13TUcxM2s2Mmo3aE9ZcHplRTd3c29iVGFGZDZJR3E3SWt6a2FPWFhFR01zMmtyVWt1c3RYRi0zSWtWbFFLY0JjSmZnYWRfbTVXQWVHU3VkUkJQWGtCZ1E?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T11:40:02+00:00",
+          "title": "The problem with the Discord nitro quest - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "0f8844c79479a7e35e7a96e3",
+      "topic": "pc",
+      "title": "Fabric on-demand billing and Zero-provisioned (F0) Capacity (Preview) - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVFAxdlN6ckNBd21SVGxBRFlTODBXZDhIZS04OVBWQWFnREtfeU8yREN5MnhHckJ4LXdoQXI2R3RfelhER3BPQ1N5dDdRWTVGZV94OTVGaGYzLWdHS19LOHJwUU1uSEotaVlHWUl5VUxPR1JIcU9mck9ZQlFMd3dJdE5abmx5RjROMDZib2lBQ2xac0d2VzhCMUZUMm5nTzJVNTdxOEdrNm9lMGZBcHhnM3JOTlp4LXRPSTBhQlpjY3AybWVQczNBRTJSVmVuRlRrMC1qUGJiMA?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft",
+      "description": "Fabric on-demand billing and Zero-provisioned (F0) Capacity (Preview) Microsoft",
+      "published_utc": "2026-11-23T19:39:33+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVFAxdlN6ckNBd21SVGxBRFlTODBXZDhIZS04OVBWQWFnREtfeU8yREN5MnhHckJ4LXdoQXI2R3RfelhER3BPQ1N5dDdRWTVGZV94OTVGaGYzLWdHS19LOHJwUU1uSEotaVlHWUl5VUxPR1JIcU9mck9ZQlFMd3dJdE5abmx5RjROMDZib2lBQ2xac0d2VzhCMUZUMm5nTzJVNTdxOEdrNm9lMGZBcHhnM3JOTlp4LXRPSTBhQlpjY3AybWVQczNBRTJSVmVuRlRrMC1qUGJiMA?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T19:39:33+00:00",
+          "title": "Fabric on-demand billing and Zero-provisioned (F0) Capacity (Preview) - Microsoft"
+        }
+      ]
+    },
+    {
+      "id": "aaa2921741e75a82d88250d8",
+      "topic": "pc",
+      "title": "Trending games - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYXlxNkdSUklMVHF2M3M3Mm9VcE5NVTNEeG1xUFB2ZXlVVGdneWZWTTZWUHdLb2RCOEVMUENqcEh5d3VCQjdIYlNQdDlLcC02ZjY3cTVGdjF5SFNGcEh5SXlBckVuYnAwb3lGd2YzbmtkT1huUktmZEZRNHVfQjB2anV3RHoyaTVkc1g0?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft",
+      "description": "Trending games Microsoft",
+      "published_utc": "2026-11-23T17:12:26+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYXlxNkdSUklMVHF2M3M3Mm9VcE5NVTNEeG1xUFB2ZXlVVGdneWZWTTZWUHdLb2RCOEVMUENqcEh5d3VCQjdIYlNQdDlLcC02ZjY3cTVGdjF5SFNGcEh5SXlBckVuYnAwb3lGd2YzbmtkT1huUktmZEZRNHVfQjB2anV3RHoyaTVkc1g0?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T17:12:26+00:00",
+          "title": "Trending games - Microsoft"
+        }
+      ]
+    },
+    {
+      "id": "c84353e4a4e139ac709da075",
+      "topic": "pc",
+      "title": "OneMouse - Free download and install on Windows - Microsoft Store",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FRy10dzV0S3UwcmYwZXRza1JPX3U1RHdOSFhIZXpUQ25sVVA5aExwX0ZUMHpYSWpRUV9udXNrbndYLVZwTDhwZFpMMG1aQU11allNZWlnTnpJaUYzeU5zejRaNHJxelJ4eWtRazBR?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Store",
+      "description": "OneMouse - Free download and install on Windows Microsoft Store",
+      "published_utc": "2026-11-24T10:17:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FRy10dzV0S3UwcmYwZXRza1JPX3U1RHdOSFhIZXpUQ25sVVA5aExwX0ZUMHpYSWpRUV9udXNrbndYLVZwTDhwZFpMMG1aQU11allNZWlnTnpJaUYzeU5zejRaNHJxelJ4eWtRazBR?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T10:17:00+00:00",
+          "title": "OneMouse - Free download and install on Windows - Microsoft Store"
+        }
+      ]
+    },
+    {
+      "id": "383756b0d496a7cb3102dc2a",
+      "topic": "pc",
+      "title": "Top paid apps - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0RUYllGVGlnWm9yZUdhYTBKOE1ud1lWN2ZJYTIzTkZPOHNSOGhyTzRYMEVZdk9LSzQ1cWxWTG1RZjk3dkFhc3NuN25aclhJSEp1Z0IyTVo5VWVfWGJvRlg3dG02WXhfT1M3VGZSYW5Ha3h2WGJoamtzZndSbnI2SFBKWGRseVQwOC1KVVlBZkVmZ0RFdlR0SDcwcDlHUlU?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft",
+      "description": "Top paid apps Microsoft",
+      "published_utc": "2026-11-24T01:25:03+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0RUYllGVGlnWm9yZUdhYTBKOE1ud1lWN2ZJYTIzTkZPOHNSOGhyTzRYMEVZdk9LSzQ1cWxWTG1RZjk3dkFhc3NuN25aclhJSEp1Z0IyTVo5VWVfWGJvRlg3dG02WXhfT1M3VGZSYW5Ha3h2WGJoamtzZndSbnI2SFBKWGRseVQwOC1KVVlBZkVmZ0RFdlR0SDcwcDlHUlU?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T01:25:03+00:00",
+          "title": "Top paid apps - Microsoft"
+        }
+      ]
+    },
+    {
+      "id": "49377eb2f56e33a50d5b469e",
+      "topic": "pc",
+      "title": "Monthly compliance - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQUF5X2JUSC1VQWY4bi1NY2xGTlBOeVJGcWJvWm5sVV9XQjJ5Zm5FN2doc3Q5b1lMWEpzcm1rSnk0VTRjU2VzTmVoN1RrVnJQd2pJbjF6SjZKRTBVeU5aWWtRZ0Y1cy1zS0w4eGt4clQ4ZTRoTXBwckRqa1VXbTdaUWtoM1N4d2UxQjhTbll6bmdhTkM2LWlhZXp4bDVnakotd3NPSC1leHRnVkJLVmZyMA?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft",
+      "description": "Monthly compliance Microsoft",
+      "published_utc": "2026-11-24T08:31:16+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQUF5X2JUSC1VQWY4bi1NY2xGTlBOeVJGcWJvWm5sVV9XQjJ5Zm5FN2doc3Q5b1lMWEpzcm1rSnk0VTRjU2VzTmVoN1RrVnJQd2pJbjF6SjZKRTBVeU5aWWtRZ0Y1cy1zS0w4eGt4clQ4ZTRoTXBwckRqa1VXbTdaUWtoM1N4d2UxQjhTbll6bmdhTkM2LWlhZXp4bDVnakotd3NPSC1leHRnVkJLVmZyMA?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T08:31:16+00:00",
+          "title": "Monthly compliance - Microsoft"
+        }
+      ]
+    },
+    {
+      "id": "e525457965ed68144fc2c02d",
+      "topic": "ai",
+      "title": "Microsoft Copilot Notebooks: Building an AI Workspace Around Your Project - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQTN4RWdGcGl5LXhrT1dRWXRDcnZiRldOV2pwQTQwMENmNHJJTHFlanIzMUl6WlRCdGRCbEhfcWt4eGNxN0hfdnU3QlV3WHFhTDg1dHo5clF0enhJUlZXRXBXVGxla2hvdVB1WnI3eS1jNmxYWlBBcWdGQ2c4OWNxVjJhaHdUODJYN0U5eUFTTXdSMGoxXzdRWk9iWmhYU0VvRnFzQlJSdlZ0Y1ZNVURLTnpFUlMxRTJKVXlSLTNqQXNaOGUxd2o4LWplMmRkX2E2NHhmNzQzdDFtcGMxR0NR?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Community Hub",
+      "description": "Microsoft Copilot Notebooks: Building an AI Workspace Around Your Project Microsoft Community Hub",
+      "published_utc": "2026-11-23T16:15:24+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQTN4RWdGcGl5LXhrT1dRWXRDcnZiRldOV2pwQTQwMENmNHJJTHFlanIzMUl6WlRCdGRCbEhfcWt4eGNxN0hfdnU3QlV3WHFhTDg1dHo5clF0enhJUlZXRXBXVGxla2hvdVB1WnI3eS1jNmxYWlBBcWdGQ2c4OWNxVjJhaHdUODJYN0U5eUFTTXdSMGoxXzdRWk9iWmhYU0VvRnFzQlJSdlZ0Y1ZNVURLTnpFUlMxRTJKVXlSLTNqQXNaOGUxd2o4LWplMmRkX2E2NHhmNzQzdDFtcGMxR0NR?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Community Hub",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T16:15:24+00:00",
+          "title": "Microsoft Copilot Notebooks: Building an AI Workspace Around Your Project - Microsoft Community Hub"
+        }
+      ]
+    },
+    {
+      "id": "2b4857fd259ffd0f12a6d823",
+      "topic": "pc",
+      "title": "nemotron-3-ultra-pb7 - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaXVQeDdZX0lwck4zTmpKNk5YMmxWbUNKRU83bGs5MnVBRTE5dllBN04taUFuYjJpZGllRzlZdFdWanJYY2lQeGMyOFhoTWJBcmR5eFNOVXVFZWxManpDcmVWeG1xNkFlcFNiUTlqeTUzSVdXN29YRmo2dDZoMTBtMWVjRGN1REg5VlFkYjFPaUtXaXZrdU90eGpJVXROUXEzMnp0YXJuTXZ1clJRMlE?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "nemotron-3-ultra-pb7 NVIDIA",
+      "published_utc": "2026-11-24T08:00:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaXVQeDdZX0lwck4zTmpKNk5YMmxWbUNKRU83bGs5MnVBRTE5dllBN04taUFuYjJpZGllRzlZdFdWanJYY2lQeGMyOFhoTWJBcmR5eFNOVXVFZWxManpDcmVWeG1xNkFlcFNiUTlqeTUzSVdXN29YRmo2dDZoMTBtMWVjRGN1REg5VlFkYjFPaUtXaXZrdU90eGpJVXROUXEzMnp0YXJuTXZ1clJRMlE?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T08:00:00+00:00",
+          "title": "nemotron-3-ultra-pb7 - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "ccc27a7a3e2164fa2b5218ba",
+      "topic": "pc",
+      "title": "What is DAQIRI? - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVjJXcGpIbXJxT1YyRUpVU3FpaHZUR0JXSG5YYU5jZGNHN0F4c1ZOVG5HYmVsM1hXOHRSZ0hVZ2lQN1BoY2FNQ2JoWGQ3R2s0QTFwR3BVWGR0cWpFZl9aMUg5RkpYdFJTSlg5ckNIbUpUbklITjl4c2pnd08yMjNLNUUtRQ?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "What is DAQIRI? NVIDIA",
+      "published_utc": "2026-11-24T06:10:44+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVjJXcGpIbXJxT1YyRUpVU3FpaHZUR0JXSG5YYU5jZGNHN0F4c1ZOVG5HYmVsM1hXOHRSZ0hVZ2lQN1BoY2FNQ2JoWGQ3R2s0QTFwR3BVWGR0cWpFZl9aMUg5RkpYdFJTSlg5ckNIbUpUbklITjl4c2pnd08yMjNLNUUtRQ?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T06:10:44+00:00",
+          "title": "What is DAQIRI? - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "d48b2466cad0de31fa60f73c",
+      "topic": "ai",
+      "title": "Sanofi's $41 billion Insmed bet charts life beyond Dupixent - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdWdIeVloUTlfMmVFX2VlV3NycWRzei00N3V1MnNHVlhHbVdySVlsb1BjSmxfTFA5VUo2Z1RfM044alZxYzVaUVNiZmtqUjhMVnBvN0NiMWhHVWVWempLTlhmaGEtQUNHcDIwTG1XaUpnVEJtTGVuX25ETGxocWlvUEdIMExSQVlFS1VnNUJwMDdPbGh2?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Sanofi's $41 billion Insmed bet charts life beyond Dupixent Reuters",
+      "published_utc": "2026-11-24T06:36:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdWdIeVloUTlfMmVFX2VlV3NycWRzei00N3V1MnNHVlhHbVdySVlsb1BjSmxfTFA5VUo2Z1RfM044alZxYzVaUVNiZmtqUjhMVnBvN0NiMWhHVWVWempLTlhmaGEtQUNHcDIwTG1XaUpnVEJtTGVuX25ETGxocWlvUEdIMExSQVlFS1VnNUJwMDdPbGh2?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T06:36:00+00:00",
+          "title": "Sanofi's $41 billion Insmed bet charts life beyond Dupixent - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "d9dbc8a40560860ded216fb1",
+      "topic": "pc",
+      "title": "Trump tells CNBC he was represented at Nvidia board, spoke to Huang - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa3pYc1MzQXZDVUNIbmZKWjQxRXBNeWtHRlllMWc2TWVNSkJuU2dIUS1MQkxseVVRam11MERTY1JucUxKNGhjdUlyQml3WFpucGljS2I5dnNDY05jd3NmeG85bkdZNmplNzltOC1waVFJaUdvWEYxNDVncmFKWXNGUTJBQmFDWW1pT2VOS3VFLWQwR0VwVS1ST1F2Y1VlVkJ4NG9xaDRrRnZIbWM?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Trump tells CNBC he was represented at Nvidia board, spoke to Huang Reuters",
+      "published_utc": "2026-11-23T16:06:09+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa3pYc1MzQXZDVUNIbmZKWjQxRXBNeWtHRlllMWc2TWVNSkJuU2dIUS1MQkxseVVRam11MERTY1JucUxKNGhjdUlyQml3WFpucGljS2I5dnNDY05jd3NmeG85bkdZNmplNzltOC1waVFJaUdvWEYxNDVncmFKWXNGUTJBQmFDWW1pT2VOS3VFLWQwR0VwVS1ST1F2Y1VlVkJ4NG9xaDRrRnZIbWM?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T16:06:09+00:00",
+          "title": "Trump tells CNBC he was represented at Nvidia board, spoke to Huang - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "a5e82feae0bec97c2731894e",
+      "topic": "smartphones",
+      "title": "The iPhone 18 Pro tempted me for weeks, but the Galaxy S26 Ultra wins where it counts - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWF92S1k0WkRwaTRPMTBrc2FXa2sxa1NPaVFfZGZrWldMcnFjd1Myb201TzBLdmszRWx5YVpHRE5QbXJxaC1WLW9Tc1R5VUdVTGxHZ3JoeFJ5NnBLOXZJdjFSa0RLUm5RWThyZDNJc0g0MXZBaWpnQjhoaWxKSDZ0RGpZeUUwMXFjSGZPRG8zb1dmaWM?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "The iPhone 18 Pro tempted me for weeks, but the Galaxy S26 Ultra wins where it counts Android Authority",
+      "published_utc": "2026-11-24T09:30:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "スマートフォンへ分類",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWF92S1k0WkRwaTRPMTBrc2FXa2sxa1NPaVFfZGZrWldMcnFjd1Myb201TzBLdmszRWx5YVpHRE5QbXJxaC1WLW9Tc1R5VUdVTGxHZ3JoeFJ5NnBLOXZJdjFSa0RLUm5RWThyZDNJc0g0MXZBaWpnQjhoaWxKSDZ0RGpZeUUwMXFjSGZPRG8zb1dmaWM?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T09:30:00+00:00",
+          "title": "The iPhone 18 Pro tempted me for weeks, but the Galaxy S26 Ultra wins where it counts - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "dcee8b3214ab79a0eee15f64",
+      "topic": "smartphones",
+      "title": "Android Canary 2611 hides an iPhone-style scroll-to-top shortcut, and we got it working - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWHo1WG5WZzBzMm1jOHdfU2tOOVdvVU1PWHY3TDR0NUk5M2hNOWlaYmx1TVNTTmc5SXk1R1dLV2ppbEY2ajlkMGJiX1lHbkRxdDgxSlRONm91RmdicXJYaFhkcGxuZldsYjVlQUlTbWcwa3hiaXI4dFJGTU1pVTE1ZzB3M2xrU1JWZzNJdVdyNDU5WEhGVVRUVHBpTW8?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Android Canary 2611 hides an iPhone-style scroll-to-top shortcut, and we got it working Android Authority",
+      "published_utc": "2026-11-24T11:50:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "スマートフォンへ分類",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWHo1WG5WZzBzMm1jOHdfU2tOOVdvVU1PWHY3TDR0NUk5M2hNOWlaYmx1TVNTTmc5SXk1R1dLV2ppbEY2ajlkMGJiX1lHbkRxdDgxSlRONm91RmdicXJYaFhkcGxuZldsYjVlQUlTbWcwa3hiaXI4dFJGTU1pVTE1ZzB3M2xrU1JWZzNJdVdyNDU5WEhGVVRUVHBpTW8?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T11:50:00+00:00",
+          "title": "Android Canary 2611 hides an iPhone-style scroll-to-top shortcut, and we got it working - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "8425d6b6a95e5d6e890bcf7c",
+      "topic": "ai",
+      "title": "Gemini for Home is winning praise from new users as opinions begin to shift - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wRHJrUlNXRmU5Y1RYMm9QdFlsQVJGcEJ5RThLOXhfclF6UzU4aXN4ak9hdjBmNnhVMUVSTjc0X3A1cDBUcjJWVjk0cnViR1JYQ3NQUFpwSDU2aVhEM0tQVWw1T2drSWp3TWNIQklZbWpXNDczVVVwZE5rcw?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Gemini for Home is winning praise from new users as opinions begin to shift Android Authority",
+      "published_utc": "2026-11-23T17:25:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wRHJrUlNXRmU5Y1RYMm9QdFlsQVJGcEJ5RThLOXhfclF6UzU4aXN4ak9hdjBmNnhVMUVSTjc0X3A1cDBUcjJWVjk0cnViR1JYQ3NQUFpwSDU2aVhEM0tQVWw1T2drSWp3TWNIQklZbWpXNDczVVVwZE5rcw?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T17:25:00+00:00",
+          "title": "Gemini for Home is winning praise from new users as opinions begin to shift - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "461d564a94d871830e590114",
+      "topic": "ai",
+      "title": "Gemini’s next trick could be custom sticker packs for WhatsApp and Telegram - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNmZnSGVVRFEzVHl5OW1iWUszdkV3bDg0b0ZkTHF2Q3lCM25faVlDQ0pwdExPOE5ROWtBdVpUZm5QSHdmamZlczJSMWo4RHFObGYwYnVuQkhFYVVzU0VsY0tHeEFJLW41alQ5QjVpcDFhazZfSUhJTE5vOGhyeXRQOTFlMm1vai1RT05DWHFR?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Gemini’s next trick could be custom sticker packs for WhatsApp and Telegram Android Authority",
+      "published_utc": "2026-11-24T06:56:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNmZnSGVVRFEzVHl5OW1iWUszdkV3bDg0b0ZkTHF2Q3lCM25faVlDQ0pwdExPOE5ROWtBdVpUZm5QSHdmamZlczJSMWo4RHFObGYwYnVuQkhFYVVzU0VsY0tHeEFJLW41alQ5QjVpcDFhazZfSUhJTE5vOGhyeXRQOTFlMm1vai1RT05DWHFR?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T06:56:00+00:00",
+          "title": "Gemini’s next trick could be custom sticker packs for WhatsApp and Telegram - Android Authority"
+        }
+      ]
     }
   ],
   "date_unknown": [],

@@ -500,32 +500,6 @@
       ]
     },
     {
-      "id": "03f24fc58991b9121111212a",
-      "topic": "racing_games",
-      "title": "SubtlyReal - Photorealistic reshade preset 2.1 - overtake.gg",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQW5VVFNBUU0wR1hSeHBsZDdpd0ZPbnhYNmpncU15Y04xdU0xQmJOeHUwSE03d2NTb1NpNUlHTHJPYWFWSV9OMUlzeFBydnBCOVAxZnA4NC1sdEJPYU4zVkg2clhCaVdFVENELVdLamw3ZW53VHJ5Xy1JdzA4MTk0M1dJLXpERTNV?oc=5",
-      "source": "OverTake",
-      "publisher": "overtake.gg",
-      "description": "SubtlyReal - Photorealistic reshade preset 2.1 overtake.gg",
-      "published_utc": "2026-11-22T03:13:23+00:00",
-      "date_jst": "2026-11-22",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQW5VVFNBUU0wR1hSeHBsZDdpd0ZPbnhYNmpncU15Y04xdU0xQmJOeHUwSE03d2NTb1NpNUlHTHJPYWFWSV9OMUlzeFBydnBCOVAxZnA4NC1sdEJPYU4zVkg2clhCaVdFVENELVdLamw3ZW53VHJ5Xy1JdzA4MTk0M1dJLXpERTNV?oc=5",
-          "source": "OverTake",
-          "publisher": "overtake.gg",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-22T03:13:23+00:00",
-          "title": "SubtlyReal - Photorealistic reshade preset 2.1 - overtake.gg"
-        }
-      ]
-    },
-    {
       "id": "a8adfbf37c47725648235097",
       "topic": "racing_games",
       "title": "WRC Generations – The FIA WRC Official Game - Steam",
@@ -1366,11 +1340,11 @@
     {
       "id": "260ff186206110850306ec6f",
       "topic": "racing_games",
-      "title": "F1 26 Race Engineer by Gallagheri (Free Version) 1.0 - overtake.gg",
+      "title": "F1 26 Race Engineer by Gallagheri (Free Version) v1.0.1 - overtake.gg",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTlVFdzdmbFVxUVlmUm4xZkdrdmcwZUhWVWwxOFNySkVBY1ZQQ2x6UENuTEw2bEVFVFFGWGkySm5scTU5MWlKdU5lWWVxM3pGeGJxVUNmeTZsVmR1TjFXTmlZVExkZGhxMG5POXRKcEZEa19icEFGc25feWtPMVBQWlcwWXppUEhBMkdWWU4yc1o?oc=5",
       "source": "OverTake",
       "publisher": "overtake.gg",
-      "description": "F1 26 Race Engineer by Gallagheri (Free Version) 1.0 overtake.gg",
+      "description": "F1 26 Race Engineer by Gallagheri (Free Version) v1.0.1 overtake.gg",
       "published_utc": "2026-11-21T23:42:06+00:00",
       "date_jst": "2026-11-22",
       "timestamp_basis": "google_news_index",
@@ -1385,7 +1359,7 @@
           "publisher": "overtake.gg",
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-21T23:42:06+00:00",
-          "title": "F1 26 Race Engineer by Gallagheri (Free Version) 1.0 - overtake.gg"
+          "title": "F1 26 Race Engineer by Gallagheri (Free Version) v1.0.1 - overtake.gg"
         }
       ]
     },
@@ -1516,6 +1490,136 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-21T15:26:15+00:00",
           "title": "Misc - Assetto Corsa Rally PL- Spolszczenie v3.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "57b6ab7ec5688324154733b1",
+      "topic": "racing_games",
+      "title": "LANCIA DELTA S4 EVO2 MARTINI RACING INSPIRATION LANCIA ECV - Reviews - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeG0wNHBvMzhZQkhPSDlxWWhkZ01BZXBvVVNVWXFzLTlqanA0b0dQcWxPMmpvTVI2bVF3Nmk3UWwtVkRxZzFyX3c2NENrRjBZMG9wNjZlZEFPVks4cV9RQzExcnlzdFA3RGo1NEpnY3NiZEVlak1sYi1aOTN2d0xkQTMzaE5kSzc1YnNmZ1NUaVdIMjNnT0RQby1pOFRGQUtrUmk0X0J6UXl4Zw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "LANCIA DELTA S4 EVO2 MARTINI RACING INSPIRATION LANCIA ECV - Reviews overtake.gg",
+      "published_utc": "2026-11-21T20:19:59+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeG0wNHBvMzhZQkhPSDlxWWhkZ01BZXBvVVNVWXFzLTlqanA0b0dQcWxPMmpvTVI2bVF3Nmk3UWwtVkRxZzFyX3c2NENrRjBZMG9wNjZlZEFPVks4cV9RQzExcnlzdFA3RGo1NEpnY3NiZEVlak1sYi1aOTN2d0xkQTMzaE5kSzc1YnNmZ1NUaVdIMjNnT0RQby1pOFRGQUtrUmk0X0J6UXl4Zw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T20:19:59+00:00",
+          "title": "LANCIA DELTA S4 EVO2 MARTINI RACING INSPIRATION LANCIA ECV - Reviews - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "3efacd23ffd3677510e14326",
+      "topic": "racing_games",
+      "title": "Ignition - PCGamingWiki",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83d1NPTjNzZjV3MDYyMERaZzdoLUgtd0lZRDVPZVJBT0daaXpEQ3FYT3BDSzk1NHlwN0Q1d1IyS2dhRWRSZ1hTNHhJYkVLMGE4NU11Sw?oc=5",
+      "source": "PCGamingWiki",
+      "publisher": "PCGamingWiki",
+      "description": "Ignition PCGamingWiki",
+      "published_utc": "2026-11-22T08:00:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83d1NPTjNzZjV3MDYyMERaZzdoLUgtd0lZRDVPZVJBT0daaXpEQ3FYT3BDSzk1NHlwN0Q1d1IyS2dhRWRSZ1hTNHhJYkVLMGE4NU11Sw?oc=5",
+          "source": "PCGamingWiki",
+          "publisher": "PCGamingWiki",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T08:00:00+00:00",
+          "title": "Ignition - PCGamingWiki"
+        }
+      ]
+    },
+    {
+      "id": "c568ef666f24089294af407b",
+      "topic": "racing_games",
+      "title": "Forza Horizon 4 - PCGamingWiki",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5elloUWVld2RwSTlOb2pVT29XMUtOVjdSb1RZeFYzTWFJdDhtOUxncnExS09XVXQ1OVNwcEFoRnp6bGJoaVlRTHEyQm9BSmNQT2E0eFhJNnYtZ0RuV1E?oc=5",
+      "source": "PCGamingWiki",
+      "publisher": "PCGamingWiki",
+      "description": "Forza Horizon 4 PCGamingWiki",
+      "published_utc": "2026-11-22T08:00:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5elloUWVld2RwSTlOb2pVT29XMUtOVjdSb1RZeFYzTWFJdDhtOUxncnExS09XVXQ1OVNwcEFoRnp6bGJoaVlRTHEyQm9BSmNQT2E0eFhJNnYtZ0RuV1E?oc=5",
+          "source": "PCGamingWiki",
+          "publisher": "PCGamingWiki",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T08:00:00+00:00",
+          "title": "Forza Horizon 4 - PCGamingWiki"
+        }
+      ]
+    },
+    {
+      "id": "8f5da7f7cbd09c342066dfa0",
+      "topic": "racing_games",
+      "title": "Storie da curatori in evidenza - Steam",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXdkljbFh5TENTa3AwNUtzZG5yaE9LMEJDd0tLRWEzQ0p4S3Q0R0ZIbXBveGRGMThCOWU0aEd4OXd4NVVzejE5MWxVUkpiYjNNSUp1QzhBOHNYeDd1OG1ySzJ6NkRGLV9qQk9zbE8xNGRqb3ZxaFJyNA?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Storie da curatori in evidenza Steam",
+      "published_utc": "2026-11-21T23:33:18+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXdkljbFh5TENTa3AwNUtzZG5yaE9LMEJDd0tLRWEzQ0p4S3Q0R0ZIbXBveGRGMThCOWU0aEd4OXd4NVVzejE5MWxVUkpiYjNNSUp1QzhBOHNYeDd1OG1ySzJ6NkRGLV9qQk9zbE8xNGRqb3ZxaFJyNA?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T23:33:18+00:00",
+          "title": "Storie da curatori in evidenza - Steam"
+        }
+      ]
+    },
+    {
+      "id": "39503cadbc8b6b055b0e18d7",
+      "topic": "handhelds",
+      "title": "Dungeon Tavern - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43ZlNkVnJRSEFOa09aVExKY09RWnk4WEpPN2ZRV2w0cExUT3AwR0w2cVZnY0gwV1lIM0pqbHJsS3ZKemcyQmplN0I3Y0dKRlFkaFRqOGZ5WDNjWnI3anRPM0JxaXg5aTFud2c?oc=5",
+      "source": "Valve Steam Deck",
+      "publisher": "Steam",
+      "description": "Dungeon Tavern Steam",
+      "published_utc": "2026-11-21T21:50:03+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43ZlNkVnJRSEFOa09aVExKY09RWnk4WEpPN2ZRV2w0cExUT3AwR0w2cVZnY0gwV1lIM0pqbHJsS3ZKemcyQmplN0I3Y0dKRlFkaFRqOGZ5WDNjWnI3anRPM0JxaXg5aTFud2c?oc=5",
+          "source": "Valve Steam Deck",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-21T21:50:03+00:00",
+          "title": "Dungeon Tavern - Steam"
         }
       ]
     }

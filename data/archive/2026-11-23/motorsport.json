@@ -1938,32 +1938,6 @@
       ]
     },
     {
-      "id": "f47f8f78452362a4f41b757a",
-      "topic": "NASCAR",
-      "title": "NASCAR Local Racing Series Archives - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQkxHTnlZNUJZUmtwbGpVOUZ6Y3pGd0QtQl9NRlhCakJpUzExQTRyUFhsNWlQeUM5Q3ZfUUlCS180bGsybDVCOEs4ci1lMnVtbzRNejFtTnh1WlpTNldEek5oeXQxVmc4UUc0cy11SVM2NTNvZS11VlRJLS1hR3dKYVBMYw?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "NASCAR Local Racing Series Archives NASCAR.com",
-      "published_utc": "2026-11-23T14:43:54+00:00",
-      "date_jst": "2026-11-23",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技名一致・新規性の確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQkxHTnlZNUJZUmtwbGpVOUZ6Y3pGd0QtQl9NRlhCakJpUzExQTRyUFhsNWlQeUM5Q3ZfUUlCS180bGsybDVCOEs4ci1lMnVtbzRNejFtTnh1WlpTNldEek5oeXQxVmc4UUc0cy11SVM2NTNvZS11VlRJLS1hR3dKYVBMYw?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T14:43:54+00:00",
-          "title": "NASCAR Local Racing Series Archives - NASCAR.com"
-        }
-      ]
-    },
-    {
       "id": "84c930ceb9e30305d9975b25",
       "topic": "NASCAR",
       "title": "Noah Gragson Archives - NASCAR.com",
@@ -2380,32 +2354,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T08:58:36+00:00",
           "title": "FIA Looks For Reductions In Torque Sensor Tech Costs - dailysportscar.com"
-        }
-      ]
-    },
-    {
-      "id": "a2a3c1f6b5e977d9ce519fdb",
-      "topic": "IndyCar",
-      "title": "Latest NTT INDYCAR SERIES News and Results | Official Site of INDYCAR - INDYCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBxV01QMldQckhaUnZKejRaT2t0OHg5dEkxakZfS0pFSkpFclpVSUx4OUItQ1hrUlJFS3htczcwTUE?oc=5",
-      "source": "IndyCar Official",
-      "publisher": "INDYCAR.com",
-      "description": "Latest NTT INDYCAR SERIES News and Results | Official Site of INDYCAR INDYCAR.com",
-      "published_utc": "2026-11-23T11:57:50+00:00",
-      "date_jst": "2026-11-23",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "priority",
-      "triage_reason": "競技名一致・新規性の確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBxV01QMldQckhaUnZKejRaT2t0OHg5dEkxakZfS0pFSkpFclpVSUx4OUItQ1hrUlJFS3htczcwTUE?oc=5",
-          "source": "IndyCar Official",
-          "publisher": "INDYCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T11:57:50+00:00",
-          "title": "Latest NTT INDYCAR SERIES News and Results | Official Site of INDYCAR - INDYCAR.com"
         }
       ]
     },
@@ -7388,32 +7336,6 @@
       ]
     },
     {
-      "id": "be34ffd6945d78ae001c4ab2",
-      "topic": "NASCAR",
-      "title": "Team Penske Archives - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PcUN5X1Btamg0QkpFVGVOdHNJbTdKalVTc2JHTE10TlNqVm9mYlluaW1QbTNZUDBnUlBBX3BDVTQ0M0JEdUNuN1dSUV9BVXFmaWdmd0UwZGNNS2Zxc2ZQamhMZi1rU0pRRVRZaDlR?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "Team Penske Archives NASCAR.com",
-      "published_utc": "2026-11-23T14:47:53+00:00",
-      "date_jst": "2026-11-23",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PcUN5X1Btamg0QkpFVGVOdHNJbTdKalVTc2JHTE10TlNqVm9mYlluaW1QbTNZUDBnUlBBX3BDVTQ0M0JEdUNuN1dSUV9BVXFmaWdmd0UwZGNNS2Zxc2ZQamhMZi1rU0pRRVRZaDlR?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T14:47:53+00:00",
-          "title": "Team Penske Archives - NASCAR.com"
-        }
-      ]
-    },
-    {
       "id": "21183804abe02511798c4c94",
       "topic": "NASCAR",
       "title": "Tommy Bahama - NASCAR Shop - NASCAR Shop",
@@ -7774,6 +7696,266 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T14:16:00+00:00",
           "title": "From racetracks to a global network: The Motorsports Club of Clubs Conference - RACER - Racing News"
+        }
+      ]
+    },
+    {
+      "id": "340166e0b025405264498cce",
+      "topic": "NASCAR",
+      "title": "First time for everything! Relive Hocevar’s special ‘Dega celebration - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT0V4S1gxekUyN1VaM3lqX2dHeDZLOFRkQTRXVGdaMU04M3ctYW1nNHczcm91REJmZFVjV0oyUExUQjB6RDJZQzZxZFlTX3dvVktNVUxrZEFDWXpSVnlJRmZJVEMzVzNHcFlHTFpTWF8xd1B6U0RLdDB4TUJUdEd2ckJNUTUwRUwySENZcEp5UEN3Q0ZvQVkxUnZEMTB2Sl9WRVhMamRCVFVqVmwyUFo2aGVCSzBvWXZfb0VWVjB1bUdPTXZETjZqcg?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "First time for everything! Relive Hocevar’s special ‘Dega celebration NASCAR.com",
+      "published_utc": "2026-11-23T08:00:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT0V4S1gxekUyN1VaM3lqX2dHeDZLOFRkQTRXVGdaMU04M3ctYW1nNHczcm91REJmZFVjV0oyUExUQjB6RDJZQzZxZFlTX3dvVktNVUxrZEFDWXpSVnlJRmZJVEMzVzNHcFlHTFpTWF8xd1B6U0RLdDB4TUJUdEd2ckJNUTUwRUwySENZcEp5UEN3Q0ZvQVkxUnZEMTB2Sl9WRVhMamRCVFVqVmwyUFo2aGVCSzBvWXZfb0VWVjB1bUdPTXZETjZqcg?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T08:00:00+00:00",
+          "title": "First time for everything! Relive Hocevar’s special ‘Dega celebration - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "561738978328fb92e3f95e4e",
+      "topic": "NASCAR",
+      "title": "Carson Hocevar through the years - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tVXRBMnZmWEsyMExBeG9JWmhuUkQ2ZUdiNTN2SlBDVlNPMUtzV1ZURkVHM3g3amdBSkZWNmxfUTRkSVZZM2ZrNFNjM3hsaXhOM0I3TmE2WmFXNGMxdl9qUkJ0a040cFNiS2x4MW1yLXlXdw?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Carson Hocevar through the years NASCAR.com",
+      "published_utc": "2026-11-23T08:00:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tVXRBMnZmWEsyMExBeG9JWmhuUkQ2ZUdiNTN2SlBDVlNPMUtzV1ZURkVHM3g3amdBSkZWNmxfUTRkSVZZM2ZrNFNjM3hsaXhOM0I3TmE2WmFXNGMxdl9qUkJ0a040cFNiS2x4MW1yLXlXdw?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T08:00:00+00:00",
+          "title": "Carson Hocevar through the years - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "4ba01a6d500e73a8402ccb26",
+      "topic": "IndyCar",
+      "title": "What is a green-white-checker? - RACER - Racing News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jdFhtdDFxZXV6RUh6OF93QmRoOXJhRnBzM0xTQkx1OUMzSloyUF9TeVZBZ0RwU09Tb2FpTm0yR3VlVXNENjhqd3VMQzNOcW5LZW5vbGRreTRfSDMwOGhqWnpfWWtnM08yLXBWYm9rZEFYU19TUUF3Wg?oc=5",
+      "source": "RACER",
+      "publisher": "RACER - Racing News",
+      "description": "What is a green-white-checker? RACER - Racing News",
+      "published_utc": "2026-11-22T15:01:26+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jdFhtdDFxZXV6RUh6OF93QmRoOXJhRnBzM0xTQkx1OUMzSloyUF9TeVZBZ0RwU09Tb2FpTm0yR3VlVXNENjhqd3VMQzNOcW5LZW5vbGRreTRfSDMwOGhqWnpfWWtnM08yLXBWYm9rZEFYU19TUUF3Wg?oc=5",
+          "source": "RACER",
+          "publisher": "RACER - Racing News",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T15:01:26+00:00",
+          "title": "What is a green-white-checker? - RACER - Racing News"
+        }
+      ]
+    },
+    {
+      "id": "14ebf92c7f612d9bf0002e04",
+      "topic": "WRC",
+      "title": "Penalties V-Power Swakopmund Rally - Challenge 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVTlRc3J6NHQ1eHNQa0lpbkVaSnJ3QkJVdFVLekR0d2pKUHVUajlmcWpZWGlsaGNnZ2l4ajhFWFFNX21yYjUtZUw2MTJsSDRrLXQ3Y01jVnQydzZMejhoQTNPX25MZEZIQXpkQ3VjS2lKN3dySnVvTlZKOVJlblV2VFB6bjVENGRSazBQMzBn?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Penalties V-Power Swakopmund Rally - Challenge 2026 eWRC-results.com",
+      "published_utc": "2026-11-23T00:44:14+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVTlRc3J6NHQ1eHNQa0lpbkVaSnJ3QkJVdFVLekR0d2pKUHVUajlmcWpZWGlsaGNnZ2l4ajhFWFFNX21yYjUtZUw2MTJsSDRrLXQ3Y01jVnQydzZMejhoQTNPX25MZEZIQXpkQ3VjS2lKN3dySnVvTlZKOVJlblV2VFB6bjVENGRSazBQMzBn?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T00:44:14+00:00",
+          "title": "Penalties V-Power Swakopmund Rally - Challenge 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "b697b382402c3152c237503c",
+      "topic": "WRC",
+      "title": "Final Results V-Power Swakop Rally - Challenge 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRTZ2Y1RJOEdZWFlyb0lub1A3ZEZMNy1jUEdnSGd4QmFObk5ieEdZM3VHTWxOSkF6bEhHcTdhZ2dONVZ0U3k2OS1XYzhWVEF4bFVCc2xZYXJYVmZEb2JBVWVZN1JabzlpbU1jNDEyeDcyN0xlVEhJazFqcDRhM3dGbjZUazFWZ3Rnc2NiUnJnYnA?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Final Results V-Power Swakop Rally - Challenge 2026 eWRC-results.com",
+      "published_utc": "2026-11-23T11:59:09+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRTZ2Y1RJOEdZWFlyb0lub1A3ZEZMNy1jUEdnSGd4QmFObk5ieEdZM3VHTWxOSkF6bEhHcTdhZ2dONVZ0U3k2OS1XYzhWVEF4bFVCc2xZYXJYVmZEb2JBVWVZN1JabzlpbU1jNDEyeDcyN0xlVEhJazFqcDRhM3dGbjZUazFWZ3Rnc2NiUnJnYnA?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T11:59:09+00:00",
+          "title": "Final Results V-Power Swakop Rally - Challenge 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "a800af1b64041e868f4c90d1",
+      "topic": "WRC",
+      "title": "Braceras David | 35 Abu Dhabi Desert Challenge - FIM 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdGhIdURMcUNXY01Ta0pPbTN1Z0xrZ3pSOEtjQl9FQkRiZk1NTGtuaTBTb3puVUNuVERocGlGZjU0MW50S2tuQmhFdWZHc2lkeG9qemV4SDhxV2RSR0tBOUdZQ2NVMXh2VzhoeDB2Rlhab1JVTUZXeE5VdGJYN3RZei1leVBlTDYwYzRRdG9fR3k?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Braceras David | 35 Abu Dhabi Desert Challenge - FIM 2026 eWRC-results.com",
+      "published_utc": "2026-11-23T12:58:17+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdGhIdURMcUNXY01Ta0pPbTN1Z0xrZ3pSOEtjQl9FQkRiZk1NTGtuaTBTb3puVUNuVERocGlGZjU0MW50S2tuQmhFdWZHc2lkeG9qemV4SDhxV2RSR0tBOUdZQ2NVMXh2VzhoeDB2Rlhab1JVTUZXeE5VdGJYN3RZei1leVBlTDYwYzRRdG9fR3k?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T12:58:17+00:00",
+          "title": "Braceras David | 35 Abu Dhabi Desert Challenge - FIM 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "d579cd32e49498d595a79ad1",
+      "topic": "WRC",
+      "title": "Docherty Michael | 35 Abu Dhabi Desert Challenge - FIM 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORzhCeHFTeWNrMXBHZTdvbUFMSnZHOTZsYkRuRjZfVGpEUno3VjBpcm1UNnVyQUo5QVhudElOdVdEc01wemRwLXl3RVBmTXZaTGZZU0psWnEwWHV2bXQ4Z2xMNmg4czN6Y2RfNkI2TXlUSk56ZndWeUwzVnVCT1dhVnNqV3NfUFpqMVZlRE8yWnY?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Docherty Michael | 35 Abu Dhabi Desert Challenge - FIM 2026 eWRC-results.com",
+      "published_utc": "2026-11-23T12:58:16+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORzhCeHFTeWNrMXBHZTdvbUFMSnZHOTZsYkRuRjZfVGpEUno3VjBpcm1UNnVyQUo5QVhudElOdVdEc01wemRwLXl3RVBmTXZaTGZZU0psWnEwWHV2bXQ4Z2xMNmg4czN6Y2RfNkI2TXlUSk56ZndWeUwzVnVCT1dhVnNqV3NfUFpqMVZlRE8yWnY?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T12:58:16+00:00",
+          "title": "Docherty Michael | 35 Abu Dhabi Desert Challenge - FIM 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "fc59d2dde8b933d8577be23e",
+      "topic": "WRC",
+      "title": "Final Results V-Power Swakop Rally 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb3hiRWJfaXF3V2ZhLVhWZjNEdFkwME9ONE52SzZIQUxkdmQ5bEpHamZLb0ZlU19PRWI5WHFVc2pSVUJWTkdqQ3l4a2NpQmMydUpRY05Tb09ablZ2b28wZ1loQzFFb2lScFVJUjdmRmItcy05aHJLOWxXOEZoSWlFLXJvQQ?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Final Results V-Power Swakop Rally 2026 eWRC-results.com",
+      "published_utc": "2026-11-23T11:59:09+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb3hiRWJfaXF3V2ZhLVhWZjNEdFkwME9ONE52SzZIQUxkdmQ5bEpHamZLb0ZlU19PRWI5WHFVc2pSVUJWTkdqQ3l4a2NpQmMydUpRY05Tb09ablZ2b28wZ1loQzFFb2lScFVJUjdmRmItcy05aHJLOWxXOEZoSWlFLXJvQQ?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T11:59:09+00:00",
+          "title": "Final Results V-Power Swakop Rally 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "74ccf637cb65007dc4714ddd",
+      "topic": "WRC",
+      "title": "Barão 3 (9.6km) - Rally Integração 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96YnhNRmw4ZDQwQVVrMC1wTlVyS19fRGdLVzhYOFo2ZENtd2NGYVU3b2gxTFc5VnZKWGJFUVZOTDdpa1JxbDM3VzRmS1hlUmExVXFHVWtBTmpkYW1HUldJOTRaRlpZZ2wxd20zR1gybHI3RUxUR2Fpc2Y0U1ZYZFk?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Barão 3 (9.6km) - Rally Integração 2026 eWRC-results.com",
+      "published_utc": "2026-11-23T00:44:14+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96YnhNRmw4ZDQwQVVrMC1wTlVyS19fRGdLVzhYOFo2ZENtd2NGYVU3b2gxTFc5VnZKWGJFUVZOTDdpa1JxbDM3VzRmS1hlUmExVXFHVWtBTmpkYW1HUldJOTRaRlpZZ2wxd20zR1gybHI3RUxUR2Fpc2Y0U1ZYZFk?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T00:44:14+00:00",
+          "title": "Barão 3 (9.6km) - Rally Integração 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "6e8f3177fdc0f868870f2ff4",
+      "topic": "WRC",
+      "title": "Gallina Jean-Louis - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CUU1BRVBXeFdsNGx4WDRKR25Zc2ZwbEVoRk4wX2I1cFZsakY3bk9jbDhCc1NXXzV5TC1KdzR4NG4yMHJZcnNtYTlWU0trb0NuXzhrbWhqZTJlZzVvRmlZWGtNX2pIMHozc3c?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Gallina Jean-Louis eWRC-results.com",
+      "published_utc": "2026-11-23T01:57:02+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CUU1BRVBXeFdsNGx4WDRKR25Zc2ZwbEVoRk4wX2I1cFZsakY3bk9jbDhCc1NXXzV5TC1KdzR4NG4yMHJZcnNtYTlWU0trb0NuXzhrbWhqZTJlZzVvRmlZWGtNX2pIMHozc3c?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T01:57:02+00:00",
+          "title": "Gallina Jean-Louis - eWRC-results.com"
         }
       ]
     }

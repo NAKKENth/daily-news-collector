@@ -176,6 +176,7 @@
       "date_quality": "discovery_index",
       "triage": "priority",
       "triage_reason": "PC技術候補",
+      "possible_event_id": "d402beb48b15",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQkRYb0VjdDVxZ2RVbWpGR2FZV0tpZkJoWTVyY0dmMW1pNkhVd0dXbHlZUVlKWHlFbV9aNTVVb0FtMU1ORTczajljZWxvOGZOaGVrZzlwRzZNOHBSRW5WaWZWVUZOeUg1STZFVjZob3RRV0VVUU9xRWhET0xpaV9OWHFDeW9EVFBxay0zTURsdzAybklHWjZpNW05VW1qckRnSDh1eFdfWUk2LTZX?oc=5",
@@ -488,6 +489,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "PC技術候補",
+      "possible_event_id": "d52e5c983b03",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGJHQ19VSDk0cEt5am1zSWFhVnFPWldiZlZLYkY2akY5N0ZlQVBpclpDQnNqMjhvdUpnVG9XODBGaVVMNVpHWEd5TWtGM1puX1Jmal90X3pZcGNOSHljN05tVkxsUWZKYnZfZnZXWUk2b2NBbnVlbEVheExFNW96ZDkxZU9xd2dnZExLeVhVb3ZjNk1UWml2aW1lMm0zV01ZcnB3?oc=5",
@@ -892,32 +894,6 @@
       ]
     },
     {
-      "id": "dc914a105aa13a646a556133",
-      "topic": "ai",
-      "title": "ChatGPT for Academic Researchers | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVUpRbVFTYzdEaUx0dDdXZGF0Ry1lMnF0U0dXQlRObGlOV3k2emx2THM1MVJ2anZjN1pxZF9sai1vOTRqS3FHeXd3TW55NldOaHlVZ21UUWpSNzN2RlRHNEI3SXJvNTBWeF9jX2hXQmlxV0UzcjlGUFZTZW9ybTUyazFwbw?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "ChatGPT for Academic Researchers | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-23T12:34:22+00:00",
-      "date_jst": "2026-11-23",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVUpRbVFTYzdEaUx0dDdXZGF0Ry1lMnF0U0dXQlRObGlOV3k2emx2THM1MVJ2anZjN1pxZF9sai1vOTRqS3FHeXd3TW55NldOaHlVZ21UUWpSNzN2RlRHNEI3SXJvNTBWeF9jX2hXQmlxV0UzcjlGUFZTZW9ybTUyazFwbw?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T12:34:22+00:00",
-          "title": "ChatGPT for Academic Researchers | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
       "id": "55e7738804c09b3877b9781a",
       "topic": "ai",
       "title": "Using ChatGPT for accounting work | OpenAI Help Center - OpenAI Help Center",
@@ -966,6 +942,58 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T11:41:24+00:00",
           "title": "Claiming ad credits with ChatGPT Business | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "943dffa0e5a1f3bafecd65b7",
+      "topic": "ai",
+      "title": "Making purchases with ChatGPT Wallet | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelJhRTJ5YjExZkJKUllxcWI5TVZnUEp4MGpTSDdXMGQzbGt1dHJ5dkFkM1dqaHpkRkNjcFR0LXJ2SS1FTTJJbE5EU1dKZGFLTXF6eGlnMEQyVkROb3piVEwzUk94NnZnZWtWMzN6dlJQTnVUQUVHYl9aNkJSc3dqQkdZXzdOeE9J?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "Making purchases with ChatGPT Wallet | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-22T18:36:05+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelJhRTJ5YjExZkJKUllxcWI5TVZnUEp4MGpTSDdXMGQzbGt1dHJ5dkFkM1dqaHpkRkNjcFR0LXJ2SS1FTTJJbE5EU1dKZGFLTXF6eGlnMEQyVkROb3piVEwzUk94NnZnZWtWMzN6dlJQTnVUQUVHYl9aNkJSc3dqQkdZXzdOeE9J?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T18:36:05+00:00",
+          "title": "Making purchases with ChatGPT Wallet | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "5136200f3261bff07d6bb43b",
+      "topic": "ai",
+      "title": "Retiring Advanced and Standard Voice in ChatGPT | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbW83bUFGTFBpOGlVOEZkWEwtbHMwcklsN3BwRzJtZjhTbVpkcXMzNVFFcDdZcXNpelpGcHpQTmFXLWF6YnNpYTQtYUV5Wm5EeFZRdDVHa0diNlppdXp3emotUlZNMmdXcnVCWVlPZmdGSmFRSk9MYXBfbDVfbVhWa1RrR0pYeTFwMmkwejZqdGZEVXZZTGJn?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "Retiring Advanced and Standard Voice in ChatGPT | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-22T18:30:53+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbW83bUFGTFBpOGlVOEZkWEwtbHMwcklsN3BwRzJtZjhTbVpkcXMzNVFFcDdZcXNpelpGcHpQTmFXLWF6YnNpYTQtYUV5Wm5EeFZRdDVHa0diNlppdXp3emotUlZNMmdXcnVCWVlPZmdGSmFRSk9MYXBfbDVfbVhWa1RrR0pYeTFwMmkwejZqdGZEVXZZTGJn?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T18:30:53+00:00",
+          "title": "Retiring Advanced and Standard Voice in ChatGPT | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -1044,6 +1072,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T14:50:12+00:00",
           "title": "Setting up a Sponsored Business Agent in Ads Manager | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "35be23e3be545a970f18a701",
+      "topic": "ai",
+      "title": "API credits benefit for eligible ChatGPT subscriptions | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUWVvSWd3Zkx2eUUxdTFBdHFOSTF2U2x6U3pqNXYyelVLUHVxSF9EY0Vlbkoxc2xkSjFYR0Nla1RlWDdhNWFTS29jcTl5RFFUc3hOdkFFaVpFbGE2bi00Tzh2VUVJcDRNd0lHTlhBUEdaNlBNUTVXU005bVBVaUs2TXBxX0pfQVdyd2duYy1fR0NWZkpHUnI3Q3dLNmt6YXN3?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "API credits benefit for eligible ChatGPT subscriptions | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-22T18:03:30+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUWVvSWd3Zkx2eUUxdTFBdHFOSTF2U2x6U3pqNXYyelVLUHVxSF9EY0Vlbkoxc2xkSjFYR0Nla1RlWDdhNWFTS29jcTl5RFFUc3hOdkFFaVpFbGE2bi00Tzh2VUVJcDRNd0lHTlhBUEdaNlBNUTVXU005bVBVaUs2TXBxX0pfQVdyd2duYy1fR0NWZkpHUnI3Q3dLNmt6YXN3?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T18:03:30+00:00",
+          "title": "API credits benefit for eligible ChatGPT subscriptions | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -3575,6 +3629,32 @@
       ]
     },
     {
+      "id": "10348de9a3307b1ba61bba74",
+      "topic": "ai",
+      "title": "ChatGPT Go India trial renewals and continuation offers | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVDVNLVBqS2d0VUtYSnI4NTFiODVaLXpRRF96SVFHYm9lb1lodHNEQjMzN2JPNUQ4M2NoRzRVMGpZbmtzUldBazByQ09xRXVZMU40SGZHaUlnSkhhY1h2ZVNvU1UwRXRyS0tIMUthYUNxNXZSbTctT3RNbEJTNlM1TnVCajhka1VMSzVXRXBKZUp4SkdhNl8xWkliY29hLXJHYXc?oc=5",
+      "source": "OpenAI",
+      "publisher": "OpenAI Help Center",
+      "description": "ChatGPT Go India trial renewals and continuation offers | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-22T16:15:10+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVDVNLVBqS2d0VUtYSnI4NTFiODVaLXpRRF96SVFHYm9lb1lodHNEQjMzN2JPNUQ4M2NoRzRVMGpZbmtzUldBazByQ09xRXVZMU40SGZHaUlnSkhhY1h2ZVNvU1UwRXRyS0tIMUthYUNxNXZSbTctT3RNbEJTNlM1TnVCajhka1VMSzVXRXBKZUp4SkdhNl8xWkliY29hLXJHYXc?oc=5",
+          "source": "OpenAI",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T16:15:10+00:00",
+          "title": "ChatGPT Go India trial renewals and continuation offers | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
       "id": "348123e2ac32f1a4f1c92c03",
       "topic": "ai",
       "title": "ChatGPT Work and Codex | OpenAI Help Center - OpenAI Help Center",
@@ -3582,7 +3662,7 @@
       "source": "OpenAI",
       "publisher": "OpenAI Help Center",
       "description": "ChatGPT Work and Codex | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-23T11:12:27+00:00",
+      "published_utc": "2026-11-23T14:04:17+00:00",
       "date_jst": "2026-11-23",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -3595,46 +3675,20 @@
           "source": "OpenAI",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T11:12:27+00:00",
+          "published_utc": "2026-11-23T14:04:17+00:00",
           "title": "ChatGPT Work and Codex | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
     {
-      "id": "9c66527ab55c4abdc1982522",
+      "id": "f1762d4218fb1abf882c4f2d",
       "topic": "ai",
-      "title": "Moving to the new ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd3ZsMThuLTFaT3VEYTRxQ1NoOXpwZTkzYU1lSDJSc3h2cFhOeFZCUk5UejVvMjV2NFhfcHZNTGUzVW0yTmVBeGFOWVhuTmk3NU1xTFQ3a1REdXpOZXVNWVpiajlhRHJ2OWlvYzNSQXZoRGJReEZfSXFxZU8tREdKbXpLdHdIajc5Nmc?oc=5",
+      "title": "Connecting and managing app accounts in ChatGPT | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaHlQODlTejFuYXktdElnTW5ORVA2M2ZmblRYQjBINjA1VFZIWERKam9nUTB6OXZVZEx3NFlSdm5kVHBGVkhrSjhoY25Cb0toanRiaXJQYmFiTVRVT1RnSEh0eUg2TGxCZVFqSW9talU4UUU2M0cwaGJNdm1KeC10am1Idk9ZbDB2SVBSR0FLUzdfSnUyQWZF?oc=5",
       "source": "OpenAI",
       "publisher": "OpenAI Help Center",
-      "description": "Moving to the new ChatGPT desktop app | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-23T09:49:23+00:00",
-      "date_jst": "2026-11-23",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "priority",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd3ZsMThuLTFaT3VEYTRxQ1NoOXpwZTkzYU1lSDJSc3h2cFhOeFZCUk5UejVvMjV2NFhfcHZNTGUzVW0yTmVBeGFOWVhuTmk3NU1xTFQ3a1REdXpOZXVNWVpiajlhRHJ2OWlvYzNSQXZoRGJReEZfSXFxZU8tREdKbXpLdHdIajc5Nmc?oc=5",
-          "source": "OpenAI",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T09:49:23+00:00",
-          "title": "Moving to the new ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
-      "id": "29898084a4b7f50279425872",
-      "topic": "ai",
-      "title": "OpenAI Daybreak - Trusted Access for Cyber overview | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUZyTVZSX0RHejBVWktHR2xpY2dUbWFuZXNHN3R5S1dOMGxuQ0YySndSSDMzWUVRakpadzlKMWNNbTRxWWpVdlhvUkFhb0tXUy1XWlFQdGdhNEUtZFJZeU9JYTM4eThFamtsWjhxdFRaV0lnOXA0R0t3STlHUklvdi13Q3RiT1ZxLWI2V05aNXMyeU1Wbk8wdU9n?oc=5",
-      "source": "OpenAI",
-      "publisher": "OpenAI Help Center",
-      "description": "OpenAI Daybreak - Trusted Access for Cyber overview | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-23T13:35:35+00:00",
+      "description": "Connecting and managing app accounts in ChatGPT | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-22T16:58:11+00:00",
       "date_jst": "2026-11-23",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -3643,12 +3697,12 @@
       "triage_reason": "AI候補",
       "sources": [
         {
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUZyTVZSX0RHejBVWktHR2xpY2dUbWFuZXNHN3R5S1dOMGxuQ0YySndSSDMzWUVRakpadzlKMWNNbTRxWWpVdlhvUkFhb0tXUy1XWlFQdGdhNEUtZFJZeU9JYTM4eThFamtsWjhxdFRaV0lnOXA0R0t3STlHUklvdi13Q3RiT1ZxLWI2V05aNXMyeU1Wbk8wdU9n?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaHlQODlTejFuYXktdElnTW5ORVA2M2ZmblRYQjBINjA1VFZIWERKam9nUTB6OXZVZEx3NFlSdm5kVHBGVkhrSjhoY25Cb0toanRiaXJQYmFiTVRVT1RnSEh0eUg2TGxCZVFqSW9talU4UUU2M0cwaGJNdm1KeC10am1Idk9ZbDB2SVBSR0FLUzdfSnUyQWZF?oc=5",
           "source": "OpenAI",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T13:35:35+00:00",
-          "title": "OpenAI Daybreak - Trusted Access for Cyber overview | OpenAI Help Center - OpenAI Help Center"
+          "published_utc": "2026-11-22T16:58:11+00:00",
+          "title": "Connecting and managing app accounts in ChatGPT | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -3679,6 +3733,32 @@
       ]
     },
     {
+      "id": "048704cef30e565495385595",
+      "topic": "ai",
+      "title": "Using locked chats in ChatGPT | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OaXFlekxiYk1nMWJRelNPLUVCd3pvOFhMRUFmUXJudGJ6OWhPNno5OW5pYlk1UXhhMXdzRDNTaElreWM3VmtXZzBBZlF5Tzh5cV9IV25VUkt6OTFzZVI3dnlma18yV1ItcmJRbTdMWFVOR2QzeEd3aUlZVTQ0cm8?oc=5",
+      "source": "OpenAI",
+      "publisher": "OpenAI Help Center",
+      "description": "Using locked chats in ChatGPT | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-22T16:27:23+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OaXFlekxiYk1nMWJRelNPLUVCd3pvOFhMRUFmUXJudGJ6OWhPNno5OW5pYlk1UXhhMXdzRDNTaElreWM3VmtXZzBBZlF5Tzh5cV9IV25VUkt6OTFzZVI3dnlma18yV1ItcmJRbTdMWFVOR2QzeEd3aUlZVTQ0cm8?oc=5",
+          "source": "OpenAI",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T16:27:23+00:00",
+          "title": "Using locked chats in ChatGPT | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
       "id": "1c004056727102065c8d86f5",
       "topic": "ai",
       "title": "Ads Manager Account Setup | OpenAI Help Center - OpenAI Help Center",
@@ -3701,6 +3781,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T11:19:57+00:00",
           "title": "Ads Manager Account Setup | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "39d1fa9538d4c79b83c48ef8",
+      "topic": "ai",
+      "title": "Custom GPT retirement and migration FAQ | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMzU2eXpCVGpLbE92cU9rWlYwbGtnWjk0MDlBRFRVVmVHaUNuVDBpaW5mY1h5cjRGOE44YlpZSFdzMnVBYThXdEMzTXJuRzVETlItWmgzRHBETmJ4MWwxWkN1S1hKamw2eElfQ2xNWkxJeFNRS2J3ZzV2eDM0ODRIUWpnbjZOMDFyNTk5eA?oc=5",
+      "source": "OpenAI",
+      "publisher": "OpenAI Help Center",
+      "description": "Custom GPT retirement and migration FAQ | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-22T15:50:21+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMzU2eXpCVGpLbE92cU9rWlYwbGtnWjk0MDlBRFRVVmVHaUNuVDBpaW5mY1h5cjRGOE44YlpZSFdzMnVBYThXdEMzTXJuRzVETlItWmgzRHBETmJ4MWwxWkN1S1hKamw2eElfQ2xNWkxJeFNRS2J3ZzV2eDM0ODRIUWpnbjZOMDFyNTk5eA?oc=5",
+          "source": "OpenAI",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T15:50:21+00:00",
+          "title": "Custom GPT retirement and migration FAQ | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -4744,6 +4850,632 @@
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-23T08:00:00+00:00",
           "title": "Richpanel helps companies automate 50% of support in 30 days"
+        }
+      ]
+    },
+    {
+      "id": "14c93662693137763205da7f",
+      "topic": "pc",
+      "title": "Monitor Launch Tracker",
+      "url": "https://tftcentral.co.uk/updates/monitor-launch-tracker",
+      "source": "TFTCentral",
+      "publisher": "TFTCentral",
+      "description": "Recent Changelog 23 November 2026 – updated availability for the Gigabyte AORUS ELITE FO27Q28G, ASRock Taichi TCO27QXA, ASRock Taichi TCO27QXB and the ASRock Taichi TCO27USA 04 November 2026 – Asus ROG Strix XG259QWPG Ace, Asus ROG Swift PG259QWS Ace, MSI MAG 271QP X32 and the MSI MEG X moved from upcoming launches list to latest releases list 02 N",
+      "published_utc": "2026-11-23T11:30:26+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://tftcentral.co.uk/updates/monitor-launch-tracker",
+          "source": "TFTCentral",
+          "publisher": "TFTCentral",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-23T11:30:26+00:00",
+          "title": "Monitor Launch Tracker"
+        }
+      ]
+    },
+    {
+      "id": "7eb89c7d71ff165c92f31004",
+      "topic": "pc",
+      "title": "The Asus OLED Buying Guide – Gaming, Content Creation and Productivity",
+      "url": "https://tftcentral.co.uk/articles/the-asus-oled-buying-guide-gaming-content-creation-and-productivity",
+      "source": "TFTCentral",
+      "publisher": "TFTCentral",
+      "description": "If you're considering an OLED monitor, we break down the benefits and improvements in various use-cases and segments and provide some recommendation from Asus' extensive monitor range Category: Articles Courtesy of TFTCentral",
+      "published_utc": "2026-11-23T09:55:21+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "PC技術候補",
+      "possible_event_id": "d52e5c983b03",
+      "sources": [
+        {
+          "url": "https://tftcentral.co.uk/articles/the-asus-oled-buying-guide-gaming-content-creation-and-productivity",
+          "source": "TFTCentral",
+          "publisher": "TFTCentral",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-23T09:55:21+00:00",
+          "title": "The Asus OLED Buying Guide – Gaming, Content Creation and Productivity"
+        }
+      ]
+    },
+    {
+      "id": "15383a523df9cdbe11951e2f",
+      "topic": "ai",
+      "title": "Using the ChatGPT mobile app (classic experience) | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSlVKNVZDU2dwMmtoXzUzVjZSdXZiRlVYRjAxUUpiR3VXMHFPSnV5ZnFJSlYtbmFYOU5EYUVPRmlOd2FOTFZHLTRnVWJTUWZxYmwwRWtjeG45T1hQZEp1VktjaDhtRWJRRlpISGdOdERVQUp4OGR6Z1FMdVJHRnR2NmpPN1BEcmNKRzRYcFY1cmRxSURDLXc?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "Using the ChatGPT mobile app (classic experience) | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-22T16:05:07+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSlVKNVZDU2dwMmtoXzUzVjZSdXZiRlVYRjAxUUpiR3VXMHFPSnV5ZnFJSlYtbmFYOU5EYUVPRmlOd2FOTFZHLTRnVWJTUWZxYmwwRWtjeG45T1hQZEp1VktjaDhtRWJRRlpISGdOdERVQUp4OGR6Z1FMdVJHRnR2NmpPN1BEcmNKRzRYcFY1cmRxSURDLXc?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T16:05:07+00:00",
+          "title": "Using the ChatGPT mobile app (classic experience) | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "7007530f198c72e6a12921be",
+      "topic": "pc",
+      "title": "November 23, 2026 - S-3ASR: Automatic shelf registration statement of securities of well-known seasoned issuers - AMD",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOXzhtV1RqdVFpSHF0bXl4VmRoN3RvbkNWem5LSHZUM0l3WG4zcVp2YmNrOEVkMXdVTHltc1BXRG40VWJyNlhwUWhDLUlNXzBQSTFUUVpud2h1OHFIWEJobXhoQngzMUNBV25PS1UyMnc4S0tSS05fQ3Z1Smc4MHo4T3FmYmNrZU5wZjI3eWFWN3loa1E1M2VCY0IyT190UFdY?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "November 23, 2026 - S-3ASR: Automatic shelf registration statement of securities of well-known seasoned issuers AMD",
+      "published_utc": "2026-11-23T08:00:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOXzhtV1RqdVFpSHF0bXl4VmRoN3RvbkNWem5LSHZUM0l3WG4zcVp2YmNrOEVkMXdVTHltc1BXRG40VWJyNlhwUWhDLUlNXzBQSTFUUVpud2h1OHFIWEJobXhoQngzMUNBV25PS1UyMnc4S0tSS05fQ3Z1Smc4MHo4T3FmYmNrZU5wZjI3eWFWN3loa1E1M2VCY0IyT190UFdY?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T08:00:00+00:00",
+          "title": "November 23, 2026 - S-3ASR: Automatic shelf registration statement of securities of well-known seasoned issuers - AMD"
+        }
+      ]
+    },
+    {
+      "id": "783bbdf623d7213fe844c818",
+      "topic": "pc",
+      "title": "Research Engineer / Scientist (SLAM) in San Francisco, California | Advanced Micro Devices, Inc - AMD",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbzJkSEhVZ3RtRUduWkExeklURm55THB5Qi1yS0M4c3JNVEVvcl9nR21oYU1xeHlRZ0E1RHlxcnRRUjRHSUYtaUZCNUFhTXZrWG5aOXNZM0FmYnRVR2QwRDR5UnNQQVdVRmV3?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "Research Engineer / Scientist (SLAM) in San Francisco, California | Advanced Micro Devices, Inc AMD",
+      "published_utc": "2026-11-22T16:55:51+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FbzJkSEhVZ3RtRUduWkExeklURm55THB5Qi1yS0M4c3JNVEVvcl9nR21oYU1xeHlRZ0E1RHlxcnRRUjRHSUYtaUZCNUFhTXZrWG5aOXNZM0FmYnRVR2QwRDR5UnNQQVdVRmV3?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T16:55:51+00:00",
+          "title": "Research Engineer / Scientist (SLAM) in San Francisco, California | Advanced Micro Devices, Inc - AMD"
+        }
+      ]
+    },
+    {
+      "id": "a65fae898cfb27ea355da102",
+      "topic": "pc",
+      "title": "Why don't we get a GPU sag support for every GPU that requires one? - AMD",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU2V6bEI4Y2FwMGRNazVpWXRUbTRDd0FubGhFSmtqYlVkUTB6U21EQ2ducWRrMnJmTE50WUpmdGdSYVFSUW5MY1FzTUVSdEZQYUh4ekpycDlMSEx2Z3RyQkJKQ3huWWZob2p2YU14anNJbFdrd1cycFZRVWNobG02LXZodmdVbGRZLW9QZDZsdmRCQTVFTkswd0Z4VWhLWW9SMC0zQTNnS01ieEYydld4VFpsQmxvdGtidm1J?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "Why don't we get a GPU sag support for every GPU that requires one? AMD",
+      "published_utc": "2026-11-23T11:04:57+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU2V6bEI4Y2FwMGRNazVpWXRUbTRDd0FubGhFSmtqYlVkUTB6U21EQ2ducWRrMnJmTE50WUpmdGdSYVFSUW5MY1FzTUVSdEZQYUh4ekpycDlMSEx2Z3RyQkJKQ3huWWZob2p2YU14anNJbFdrd1cycFZRVWNobG02LXZodmdVbGRZLW9QZDZsdmRCQTVFTkswd0Z4VWhLWW9SMC0zQTNnS01ieEYydld4VFpsQmxvdGtidm1J?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T11:04:57+00:00",
+          "title": "Why don't we get a GPU sag support for every GPU that requires one? - AMD"
+        }
+      ]
+    },
+    {
+      "id": "bf63e7724f246b8d35369daf",
+      "topic": "pc",
+      "title": "Widget - AMD",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wbTZXdjFYVXpvRVZ4TlpTU1hBX0F2UGh5R0NsSjNMdUJPd1hXR3RyYWJGMjFmU05iZkJlTXNJaFNYbGdKWnloZ0wtN3loYWNuVWhVSWo3aVlMT2Y5M0FmcnFuZU0wLW9LeUdoTnB5VEVRWjFLM3pZTzhRX0Q?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "Widget AMD",
+      "published_utc": "2026-11-23T07:01:37+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wbTZXdjFYVXpvRVZ4TlpTU1hBX0F2UGh5R0NsSjNMdUJPd1hXR3RyYWJGMjFmU05iZkJlTXNJaFNYbGdKWnloZ0wtN3loYWNuVWhVSWo3aVlMT2Y5M0FmcnFuZU0wLW9LeUdoTnB5VEVRWjFLM3pZTzhRX0Q?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T07:01:37+00:00",
+          "title": "Widget - AMD"
+        }
+      ]
+    },
+    {
+      "id": "27c8fceefeb054df4388e169",
+      "topic": "pc",
+      "title": "EX-5.1 - AMD",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeHFlQkhXTVhZTjlHXzFjUk90Q0RKUnJnVHdVMlpQSlQzT25DbUZvTlZVcnRCZkQ1TldtS3AtZ0VIYk9hT1Z4VEdudWgwdDNxR3hqYk1mTkVvQThFbDF4VTYyNG9EcTNpNENoa1l4a05xNGVQcVA2TV8xNTdfVnkwRnBoRTJUYXo3MUdsN05ucG5lYUNsaVN5eXQ0THZ4SE0?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "EX-5.1 AMD",
+      "published_utc": "2026-11-23T08:00:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeHFlQkhXTVhZTjlHXzFjUk90Q0RKUnJnVHdVMlpQSlQzT25DbUZvTlZVcnRCZkQ1TldtS3AtZ0VIYk9hT1Z4VEdudWgwdDNxR3hqYk1mTkVvQThFbDF4VTYyNG9EcTNpNENoa1l4a05xNGVQcVA2TV8xNTdfVnkwRnBoRTJUYXo3MUdsN05ucG5lYUNsaVN5eXQ0THZ4SE0?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T08:00:00+00:00",
+          "title": "EX-5.1 - AMD"
+        }
+      ]
+    },
+    {
+      "id": "6a40d14776f85a0e88f20666",
+      "topic": "pc",
+      "title": "Vivado 2026.1 synth_design ORs both arms of a priority mux when a 1-bit condition is written (|c): netlist differs from RTL - AMD",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQV0Q5aW0wZjhkN2JWLTBVMW9qN3BVWDNDeFZzWU1VRDRqQ2ZsY2JRSmhCempEXzFzcmtUVjVHRmE4emJJQ21jYWVCLTlrTDBkdG91OVhGdnBJYk1fNXloT1VTaWZaS05PYUpmbHlqRTUtU0pvVXM1R0JMTUZOUENEZ2I5c3RkWmJVa2YwRlBSQUJkZFpsS2NDY2prQUZSTTFOeldYcDRnMDJIdUVqdWR1TXMzbGJ1d1JFMHZnWEdJeEh6U1JVWnhXb3U2WEdqMzBnUWc4TWZXM1NTVTZ4bmdNLUREUU9Dd0xZa0VDRk50cm9ySUlpY1I4R3plOE9keTA3Yk52cXkxbEg0cktjelMyeVUyRnFRTXRzWmpfbW5n?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "Vivado 2026.1 synth_design ORs both arms of a priority mux when a 1-bit condition is written (|c): netlist differs from RTL AMD",
+      "published_utc": "2026-11-23T08:59:22+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQV0Q5aW0wZjhkN2JWLTBVMW9qN3BVWDNDeFZzWU1VRDRqQ2ZsY2JRSmhCempEXzFzcmtUVjVHRmE4emJJQ21jYWVCLTlrTDBkdG91OVhGdnBJYk1fNXloT1VTaWZaS05PYUpmbHlqRTUtU0pvVXM1R0JMTUZOUENEZ2I5c3RkWmJVa2YwRlBSQUJkZFpsS2NDY2prQUZSTTFOeldYcDRnMDJIdUVqdWR1TXMzbGJ1d1JFMHZnWEdJeEh6U1JVWnhXb3U2WEdqMzBnUWc4TWZXM1NTVTZ4bmdNLUREUU9Dd0xZa0VDRk50cm9ySUlpY1I4R3plOE9keTA3Yk52cXkxbEg0cktjelMyeVUyRnFRTXRzWmpfbW5n?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T08:59:22+00:00",
+          "title": "Vivado 2026.1 synth_design ORs both arms of a priority mux when a 1-bit condition is written (|c): netlist differs from RTL - AMD"
+        }
+      ]
+    },
+    {
+      "id": "cc32d98b9ba193590436c03f",
+      "topic": "pc",
+      "title": "Introducing Modern Comments in Microsoft Word - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZVYycTEtcVZxU1gzRGQ2N2dmMmVkekdTR1pNZ3Jad3RqT0FUWjloQjYtTmx5Q3FMcUdmQ0JIQVhSczd4YlM4OF9aM2ZsOUZNSGl6Y3NDUW9hZkt5SDVfbmRBZkpaYnVJendsSHFOb3gwVUREZG9wLU1yRTlwRXMxUGFkQlBsc21lcHEwWXNsbzhpMnlfaHRrM0JpbzVpd0NHYnMzc1JNb2xMYXgwdFlIZEhzWHE3WS1DSVEyX0V3ZUs5SVgyMklF?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Community Hub",
+      "description": "Introducing Modern Comments in Microsoft Word Microsoft Community Hub",
+      "published_utc": "2026-11-22T21:58:17+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZVYycTEtcVZxU1gzRGQ2N2dmMmVkekdTR1pNZ3Jad3RqT0FUWjloQjYtTmx5Q3FMcUdmQ0JIQVhSczd4YlM4OF9aM2ZsOUZNSGl6Y3NDUW9hZkt5SDVfbmRBZkpaYnVJendsSHFOb3gwVUREZG9wLU1yRTlwRXMxUGFkQlBsc21lcHEwWXNsbzhpMnlfaHRrM0JpbzVpd0NHYnMzc1JNb2xMYXgwdFlIZEhzWHE3WS1DSVEyX0V3ZUs5SVgyMklF?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Community Hub",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T21:58:17+00:00",
+          "title": "Introducing Modern Comments in Microsoft Word - Microsoft Community Hub"
+        }
+      ]
+    },
+    {
+      "id": "c8f8b16fb94aee3f1478cd26",
+      "topic": "pc",
+      "title": "Windows 11 Update Failed with Error Code 0x800f0922 - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaDhQdy15NGdyYXVoZWxlNzluU0VleE9hV1ZRRW0wT212YllzcThrcmxXVXdPdGRocklWU04zbDJCVnlBNnVxMmE4TnVfSnVnSG5EbGIyZmJDZVJadXRRdG9na0czNlAtcDFWa2gzZFB4cHdBem5Ybl9HOHRIVmQ1R28zeDRia2hRWjhPa0pmcUt0eEhyWE5tVGdCS09Cb3g3cUhTcDhLVmZ6SVlxTGpWQmV1eDVQNnNp?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Community Hub",
+      "description": "Windows 11 Update Failed with Error Code 0x800f0922 Microsoft Community Hub",
+      "published_utc": "2026-11-23T10:03:40+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaDhQdy15NGdyYXVoZWxlNzluU0VleE9hV1ZRRW0wT212YllzcThrcmxXVXdPdGRocklWU04zbDJCVnlBNnVxMmE4TnVfSnVnSG5EbGIyZmJDZVJadXRRdG9na0czNlAtcDFWa2gzZFB4cHdBem5Ybl9HOHRIVmQ1R28zeDRia2hRWjhPa0pmcUt0eEhyWE5tVGdCS09Cb3g3cUhTcDhLVmZ6SVlxTGpWQmV1eDVQNnNp?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Community Hub",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T10:03:40+00:00",
+          "title": "Windows 11 Update Failed with Error Code 0x800f0922 - Microsoft Community Hub"
+        }
+      ]
+    },
+    {
+      "id": "9039e91ec5311e4545463737",
+      "topic": "pc",
+      "title": "How to create OneDrive on my new computer - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMDk4RG5PYzlWcG5YcXNVOW1BVi1WRHJzdFUydG5lR2xnVjJTX0ptY3VQcVFJcXBqSlFaZDBla3hqN2tfT1BoQUtSbHdodF9FYlh4MHd2NXJqb29BNGUxUFFpX0ZSS2NoV0xua2RKbEFTUW1iTXpYb190Mzh1Q0VPeWNFNXRSODZkbWJXcEhPX0pxQTA4WHk0UWdES2ZxZHpDOVRR?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "How to create OneDrive on my new computer Microsoft Learn",
+      "published_utc": "2026-11-22T16:17:50+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMDk4RG5PYzlWcG5YcXNVOW1BVi1WRHJzdFUydG5lR2xnVjJTX0ptY3VQcVFJcXBqSlFaZDBla3hqN2tfT1BoQUtSbHdodF9FYlh4MHd2NXJqb29BNGUxUFFpX0ZSS2NoV0xua2RKbEFTUW1iTXpYb190Mzh1Q0VPeWNFNXRSODZkbWJXcEhPX0pxQTA4WHk0UWdES2ZxZHpDOVRR?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T16:17:50+00:00",
+          "title": "How to create OneDrive on my new computer - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "72e35831314455a8a3fbe50e",
+      "topic": "pc",
+      "title": "OneDrive won't allow installation on fixed D: drive - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOWpTRUFKWFpyeTFmYkZzUkY1UTFkS0loV0hPWTlCTHY2dDlrbm16c2Y5djFaaHZITmJyU25nYkswYlhDLUdvbG9fbkxKM0R0UHc3SkxGY1hkcXp1UFFOUFVVRmwwYjJTYXptT1pObWJnemdTU3lDSmM0cWdQVi1DSzMzTkNMYXRIZzRKRTh2QUItVzlRRUZTU2hpMHpUU0FTWU5ZZE9KLTAtM3NkdUVPT3l5VkFTeDgxVEhNdUtQSXVOelRwalR6SGkzNTZFektzUERDVll6RDM?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Community Hub",
+      "description": "OneDrive won't allow installation on fixed D: drive Microsoft Community Hub",
+      "published_utc": "2026-11-23T05:59:56+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOWpTRUFKWFpyeTFmYkZzUkY1UTFkS0loV0hPWTlCTHY2dDlrbm16c2Y5djFaaHZITmJyU25nYkswYlhDLUdvbG9fbkxKM0R0UHc3SkxGY1hkcXp1UFFOUFVVRmwwYjJTYXptT1pObWJnemdTU3lDSmM0cWdQVi1DSzMzTkNMYXRIZzRKRTh2QUItVzlRRUZTU2hpMHpUU0FTWU5ZZE9KLTAtM3NkdUVPT3l5VkFTeDgxVEhNdUtQSXVOelRwalR6SGkzNTZFektzUERDVll6RDM?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Community Hub",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T05:59:56+00:00",
+          "title": "OneDrive won't allow installation on fixed D: drive - Microsoft Community Hub"
+        }
+      ]
+    },
+    {
+      "id": "bc48c405aaf7b43bb02b862e",
+      "topic": "pc",
+      "title": "Automate and manage Azure AD tasks at scale with the Microsoft Graph PowerShell SDK - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOODc1d3pFZHFNQVNET2NsZ2xJdHJKaDNuQ3pXZEpnaWRmSUdqNmdFUHROMzFCUlVHM19XUEUtYlIwWTlrNHhrRjlyd2FFMjAwMGxlc2VxbU5qSXBGRzludnQ5SEpMUVVXeXdqTTJGcGhYR1kxdGE4OHlhLXdleUtqVWlid1RRNlZ4dzVvVnJRWGVETlgyMUFndTdrYzRMenV1UkVtd0NNVzJRZ3QyRGlQUmlreHZubk9Ka3ZCb2RmRmZIbThZSlRiYkdSVDVwQXZURzd0bXVYbUdYNmRRcXdicHdxQmNQVEdNSDViMFNrcTdRVGM2dDRJbGZB?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Community Hub",
+      "description": "Automate and manage Azure AD tasks at scale with the Microsoft Graph PowerShell SDK Microsoft Community Hub",
+      "published_utc": "2026-11-23T08:50:24+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOODc1d3pFZHFNQVNET2NsZ2xJdHJKaDNuQ3pXZEpnaWRmSUdqNmdFUHROMzFCUlVHM19XUEUtYlIwWTlrNHhrRjlyd2FFMjAwMGxlc2VxbU5qSXBGRzludnQ5SEpMUVVXeXdqTTJGcGhYR1kxdGE4OHlhLXdleUtqVWlid1RRNlZ4dzVvVnJRWGVETlgyMUFndTdrYzRMenV1UkVtd0NNVzJRZ3QyRGlQUmlreHZubk9Ka3ZCb2RmRmZIbThZSlRiYkdSVDVwQXZURzd0bXVYbUdYNmRRcXdicHdxQmNQVEdNSDViMFNrcTdRVGM2dDRJbGZB?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Community Hub",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T08:50:24+00:00",
+          "title": "Automate and manage Azure AD tasks at scale with the Microsoft Graph PowerShell SDK - Microsoft Community Hub"
+        }
+      ]
+    },
+    {
+      "id": "3d050383155085aca71f7c33",
+      "topic": "pc",
+      "title": "Microsoft Update Catalog - Microsoft Update Catalog",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hVWxDNlBUeEZja1RxbWZ5QzMzYXJ4Z2ViZUUxUF85cVBHMTlPZWl2RUJTV2w2SVIzX3NHbkN5cXRJb1NjUHFxRkllWHZJaGNPcWFvYVR2bExmS3NxV2RyRmN5ZWJvVWVMTVZlTQ?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Update Catalog",
+      "description": "Microsoft Update Catalog Microsoft Update Catalog",
+      "published_utc": "2026-11-22T23:02:11+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hVWxDNlBUeEZja1RxbWZ5QzMzYXJ4Z2ViZUUxUF85cVBHMTlPZWl2RUJTV2w2SVIzX3NHbkN5cXRJb1NjUHFxRkllWHZJaGNPcWFvYVR2bExmS3NxV2RyRmN5ZWJvVWVMTVZlTQ?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Update Catalog",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T23:02:11+00:00",
+          "title": "Microsoft Update Catalog - Microsoft Update Catalog"
+        }
+      ]
+    },
+    {
+      "id": "423615ab35695599b287b2da",
+      "topic": "pc",
+      "title": "A blank dialog window appears when you open an Office application - Microsoft Support",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUGpwZEY1WWdQR3pDaGVXcGE3cTYtdEwzYVlXS3VMcjB6ZFlybi13UkpUd1NRNDlpS2VvTy1aTHBNNXYzUUFvcWxTZE1KXzcxRlkyd2w0MXZqM2JYUTFWNkZwdXFVdEZleXJFeXJWenhMNEVZcWJPU0d6ZDRnejVhQTR4ejU3UUZNWXZCUW5Id3VRRy1Xb2JrSg?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Support",
+      "description": "A blank dialog window appears when you open an Office application Microsoft Support",
+      "published_utc": "2026-11-23T08:00:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUGpwZEY1WWdQR3pDaGVXcGE3cTYtdEwzYVlXS3VMcjB6ZFlybi13UkpUd1NRNDlpS2VvTy1aTHBNNXYzUUFvcWxTZE1KXzcxRlkyd2w0MXZqM2JYUTFWNkZwdXFVdEZleXJFeXJWenhMNEVZcWJPU0d6ZDRnejVhQTR4ejU3UUZNWXZCUW5Id3VRRy1Xb2JrSg?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Support",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T08:00:00+00:00",
+          "title": "A blank dialog window appears when you open an Office application - Microsoft Support"
+        }
+      ]
+    },
+    {
+      "id": "57216d592d539a3f100749ff",
+      "topic": "ai",
+      "title": "Introducing unified tasks and plans for Copilot and Microsoft 365 - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxON055LXRQZ1REN0RTMjVoNm9Sa21tTXZTaHEzeWNleDVCa2llYkc4ZTI2NW1OZUdPYnlGNTFaX0FkUU9TT3VIYWNRa0ozcDI1VUxzVGxfTTFSTUctME4tN2o2d3h1S3JYUTAzaTZLbEN0ekpLWV8ySi1JdU5pM1d1NGlXdmNvanBtSE9ON0dsMDNYS0dFMkFiOWlyay1ZV0xxOFZhNnlibHFQVlFOb0FBNzVscjV2LWtIS1lYLWN2QjFFYlpoM2pzWnBBbDZNYXpKdE1RNjMwZGZWQQ?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Community Hub",
+      "description": "Introducing unified tasks and plans for Copilot and Microsoft 365 Microsoft Community Hub",
+      "published_utc": "2026-11-23T03:47:48+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxON055LXRQZ1REN0RTMjVoNm9Sa21tTXZTaHEzeWNleDVCa2llYkc4ZTI2NW1OZUdPYnlGNTFaX0FkUU9TT3VIYWNRa0ozcDI1VUxzVGxfTTFSTUctME4tN2o2d3h1S3JYUTAzaTZLbEN0ekpLWV8ySi1JdU5pM1d1NGlXdmNvanBtSE9ON0dsMDNYS0dFMkFiOWlyay1ZV0xxOFZhNnlibHFQVlFOb0FBNzVscjV2LWtIS1lYLWN2QjFFYlpoM2pzWnBBbDZNYXpKdE1RNjMwZGZWQQ?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Community Hub",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T03:47:48+00:00",
+          "title": "Introducing unified tasks and plans for Copilot and Microsoft 365 - Microsoft Community Hub"
+        }
+      ]
+    },
+    {
+      "id": "4b4c9004a9969106212008a4",
+      "topic": "pc",
+      "title": "Microsoft Ignite 2026: 3 key takeaways for startups - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWWdKeWFxaFBXQ3F4VEp2ZXIxOHVXVTNhNDRPVEVSaVB3OE55VmlaSk95ZWFNZEExOGd1TmN2ZEFrYU1CdkdndW1KWDBvZk5jZDRmRHo1SFBYUmwwc2ZDVVktS2dRQkNzTmtGRXpIaENCTUJkeXdZQk42NkI3VXNJdUlpakRRLVdpaHVsMktEbmsyaDZqU2FGQXhmNm9KbkxYR1NEem94RHd3NFMtTDBldlpyRFdKNVNGVW8tZlc2OFNuU2NCZDNCaVl6N0M?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft",
+      "description": "Microsoft Ignite 2026: 3 key takeaways for startups Microsoft",
+      "published_utc": "2026-11-23T14:00:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWWdKeWFxaFBXQ3F4VEp2ZXIxOHVXVTNhNDRPVEVSaVB3OE55VmlaSk95ZWFNZEExOGd1TmN2ZEFrYU1CdkdndW1KWDBvZk5jZDRmRHo1SFBYUmwwc2ZDVVktS2dRQkNzTmtGRXpIaENCTUJkeXdZQk42NkI3VXNJdUlpakRRLVdpaHVsMktEbmsyaDZqU2FGQXhmNm9KbkxYR1NEem94RHd3NFMtTDBldlpyRFdKNVNGVW8tZlc2OFNuU2NCZDNCaVl6N0M?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T14:00:00+00:00",
+          "title": "Microsoft Ignite 2026: 3 key takeaways for startups - Microsoft"
+        }
+      ]
+    },
+    {
+      "id": "bbcb9341af82657d916c6aac",
+      "topic": "pc",
+      "title": "Thermal Drift: Sunset Valley - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WUWVzckF1UkVZaFpuenh6QTJ4MDJNcm96bDYyUFBpSGxocjdEQk1xaDRpUEE2Y213MEFwUE8wZGF5d2I3VWptUWhYU1U4SklBNjhoYm1mRWdSdXZiWlVlcWJURUVHMzh0ekdjN0ZqdENlakxkWUNtRjg3Z0xKNTg?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft",
+      "description": "Thermal Drift: Sunset Valley Microsoft",
+      "published_utc": "2026-11-22T16:37:59+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WUWVzckF1UkVZaFpuenh6QTJ4MDJNcm96bDYyUFBpSGxocjdEQk1xaDRpUEE2Y213MEFwUE8wZGF5d2I3VWptUWhYU1U4SklBNjhoYm1mRWdSdXZiWlVlcWJURUVHMzh0ekdjN0ZqdENlakxkWUNtRjg3Z0xKNTg?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T16:37:59+00:00",
+          "title": "Thermal Drift: Sunset Valley - Microsoft"
+        }
+      ]
+    },
+    {
+      "id": "9b1f51adeb8a68f5ef395506",
+      "topic": "pc",
+      "title": "Who decided that Unpin from taskbar should sometimes close the app? - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT041ZEJVNXNTSmE0ZTJjaGl3TGRzY2drcEZNQ01xNjh6UGJLS240N3JLSmlfS2drYXQ5dzRldXBaZThvSTBBUWxhdVdYRm9QN1ZzU2tqMnd6LWp0b0RtM1NJaWtFMlRqUG5pc1B0alFLN2hWWlhkTy0zem5hSUU0bnFIeGREV1RwbnU5cjZZcVM4cDVraVZKT0tXZGh2alRFMVlpR1pCdlcxbjJPWnFDcnJialVRdjBkb3ZDd1ZhNW1lQQ?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Community Hub",
+      "description": "Who decided that Unpin from taskbar should sometimes close the app? Microsoft Community Hub",
+      "published_utc": "2026-11-23T07:12:18+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT041ZEJVNXNTSmE0ZTJjaGl3TGRzY2drcEZNQ01xNjh6UGJLS240N3JLSmlfS2drYXQ5dzRldXBaZThvSTBBUWxhdVdYRm9QN1ZzU2tqMnd6LWp0b0RtM1NJaWtFMlRqUG5pc1B0alFLN2hWWlhkTy0zem5hSUU0bnFIeGREV1RwbnU5cjZZcVM4cDVraVZKT0tXZGh2alRFMVlpR1pCdlcxbjJPWnFDcnJialVRdjBkb3ZDd1ZhNW1lQQ?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Community Hub",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T07:12:18+00:00",
+          "title": "Who decided that Unpin from taskbar should sometimes close the app? - Microsoft Community Hub"
+        }
+      ]
+    },
+    {
+      "id": "91fc3d91b77d1aa7175eda22",
+      "topic": "pc",
+      "title": "Warhammer 40,000: Dawn of War IV and Where Winds Meet GeForce and RTX Spark Game Ready Driver Released - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMjRlS3VFZFhrbldwVnFoTnNyLTZhSjRWcUhxTEIxZDlZaTRiSVhoWUtSWS1fMXdhcE1CZ082OUxhMDlmeWFoSmV5SUZ4WXhZNF80U1F1T0RSRzFSeS1BbHRMMzIzSmZLT3hTQmlNekl5MXUzdklJZUgxTmJHS3VOWDNLcS1hbzhaS08tMHltY3ZuaHdRX21iODcwNGZ6bXE3SUtHZE9UWHo2cmpF?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "Warhammer 40,000: Dawn of War IV and Where Winds Meet GeForce and RTX Spark Game Ready Driver Released NVIDIA",
+      "published_utc": "2026-11-23T08:00:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "PC技術候補",
+      "possible_event_id": "d402beb48b15",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMjRlS3VFZFhrbldwVnFoTnNyLTZhSjRWcUhxTEIxZDlZaTRiSVhoWUtSWS1fMXdhcE1CZ082OUxhMDlmeWFoSmV5SUZ4WXhZNF80U1F1T0RSRzFSeS1BbHRMMzIzSmZLT3hTQmlNekl5MXUzdklJZUgxTmJHS3VOWDNLcS1hbzhaS08tMHltY3ZuaHdRX21iODcwNGZ6bXE3SUtHZE9UWHo2cmpF?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T08:00:00+00:00",
+          "title": "Warhammer 40,000: Dawn of War IV and Where Winds Meet GeForce and RTX Spark Game Ready Driver Released - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "dad9ab164046be4a1a5cfd4b",
+      "topic": "pc",
+      "title": "Linux-aarch64 (ARM64) Display Driver 580.196.11 | Linux aarch64 - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wMTJ4MHFxRjNvRFNCMDBqUDBCamVGYkE2ejJJaXgwckFUczRXWnRmX21EcjdNS05BVDdlWDdKNUNtcUdNNUpsb0VJMnNYRkVsSDVzVk5CS2lIcUwwNjBDbFFn?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "Linux-aarch64 (ARM64) Display Driver 580.196.11 | Linux aarch64 NVIDIA",
+      "published_utc": "2026-11-23T08:00:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wMTJ4MHFxRjNvRFNCMDBqUDBCamVGYkE2ejJJaXgwckFUczRXWnRmX21EcjdNS05BVDdlWDdKNUNtcUdNNUpsb0VJMnNYRkVsSDVzVk5CS2lIcUwwNjBDbFFn?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T08:00:00+00:00",
+          "title": "Linux-aarch64 (ARM64) Display Driver 580.196.11 | Linux aarch64 - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "367ecf873ba532e6f49e0b2d",
+      "topic": "ai",
+      "title": "Changzhou Microintelligence seeks up to $74.62 million in revived Hong Kong IPO - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmZyWE82TzlYOEw5T2NrdWNXVXRGRG8xb1oyVnBQNzc5V1Aydy1CRjNpX0VYZVhlbHFXTGVvV3NTOGdNajRPVTRVREpTanMxVnMxNEdXM0p2TzN1TzRYV3RDMkFZM2l3N2NTZ2lNV2cyN2hJaDJicFk4RnNYRnZUaDlWU2lVbGhuS2JNdDhpQkh1U0dHWjhaSGp5U1dFV2psd3piRjRxb2hObTJpN2x0U2kxOU14LVZwQnc?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Changzhou Microintelligence seeks up to $74.62 million in revived Hong Kong IPO Reuters",
+      "published_utc": "2026-11-23T00:28:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmZyWE82TzlYOEw5T2NrdWNXVXRGRG8xb1oyVnBQNzc5V1Aydy1CRjNpX0VYZVhlbHFXTGVvV3NTOGdNajRPVTRVREpTanMxVnMxNEdXM0p2TzN1TzRYV3RDMkFZM2l3N2NTZ2lNV2cyN2hJaDJicFk4RnNYRnZUaDlWU2lVbGhuS2JNdDhpQkh1U0dHWjhaSGp5U1dFV2psd3piRjRxb2hObTJpN2x0U2kxOU14LVZwQnc?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T00:28:00+00:00",
+          "title": "Changzhou Microintelligence seeks up to $74.62 million in revived Hong Kong IPO - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "c3ec756d45f4384179b48526",
+      "topic": "smartphones",
+      "title": "Galaxy S23 Ultra root module adds AirDrop and 18 other features from newer Galaxy phones - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcHQ5dTdFVlBmd3NHc29tUzgyYWdURXRmZ1pHa2lZYzBxdFQyX0dNUVFQUjlld2tGLXJRSXBOek5UakJkLTlFdURMTi13UjV4TjVEMVRTY0twZjlaY2NrbTlMenBaMXdRYjIwdUZ0clp2bjQ3YTN6LWlCVi02cTRoUkU3MkdQbGZDamxSNkFLZXRmNWQ1?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Galaxy S23 Ultra root module adds AirDrop and 18 other features from newer Galaxy phones Android Authority",
+      "published_utc": "2026-11-23T14:13:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "スマートフォンへ分類",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcHQ5dTdFVlBmd3NHc29tUzgyYWdURXRmZ1pHa2lZYzBxdFQyX0dNUVFQUjlld2tGLXJRSXBOek5UakJkLTlFdURMTi13UjV4TjVEMVRTY0twZjlaY2NrbTlMenBaMXdRYjIwdUZ0clp2bjQ3YTN6LWlCVi02cTRoUkU3MkdQbGZDamxSNkFLZXRmNWQ1?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T14:13:00+00:00",
+          "title": "Galaxy S23 Ultra root module adds AirDrop and 18 other features from newer Galaxy phones - Android Authority"
         }
       ]
     }

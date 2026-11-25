@@ -968,6 +968,32 @@
           "title": "Audio Software Development Engineer — Apple Products - Apple"
         }
       ]
+    },
+    {
+      "id": "cd0a3497d958572c6f859650",
+      "topic": "tws",
+      "title": "Galaxy Buds4 - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12TTJ3Sk5lMllfSUxSZk84WmdNR1phNkF2SjgySmJ6RFNmZW5rRDh5a2l2RElQTmg3QWNPWFJrU0pKalpCYjdLMFRyWThaS2N2OHpRNldBWEEybnp6MzR4T29JSkxSWG1TUmZzTjZ1dHU?oc=5",
+      "source": "Samsung Audio",
+      "publisher": "samsung.com",
+      "description": "Galaxy Buds4 samsung.com",
+      "published_utc": "2026-11-22T11:47:18+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12TTJ3Sk5lMllfSUxSZk84WmdNR1phNkF2SjgySmJ6RFNmZW5rRDh5a2l2RElQTmg3QWNPWFJrU0pKalpCYjdLMFRyWThaS2N2OHpRNldBWEEybnp6MzR4T29JSkxSWG1TUmZzTjZ1dHU?oc=5",
+          "source": "Samsung Audio",
+          "publisher": "samsung.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T11:47:18+00:00",
+          "title": "Galaxy Buds4 - samsung.com"
+        }
+      ]
     }
   ],
   "date_unknown": [],

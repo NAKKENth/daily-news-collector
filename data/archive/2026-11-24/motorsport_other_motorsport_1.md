@@ -1,4 +1,4 @@
-# other_motorsport / 2026-11-24 / 候補 1–24
+# other_motorsport / 2026-11-24 / 候補 1–25
 
 - [Autosport Business Awards open nominations to recognise excellence across global motorsport industry](https://www.autosport.com/autosport-awards/news/autosport-business-awards-open-nominations-to-recognise-excellence-across-global-motorsport-industry/10877252) — Autosport all｜要確認｜2026-11-23T15:38:17+00:00 UTC｜feed_published
 - [Slater to replace Camara for rest of F2 season as Tsolov becomes title favourite](https://www.autosport.com/formula2/news/slater-replaces-camara-in-f2/10877445) — Autosport all｜要確認｜2026-11-24T12:32:26+00:00 UTC｜feed_published
@@ -11,6 +11,7 @@
 - [「追い抜くためには、攻撃的になるしかない」現代GT3の“リスクの高さ”にマカオ王者が警鐘 - autosport web](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvWXlvdXNzZkhEcUpObjE3UG5aQ3dWUGZ0SHY3V2FVdUxsZWROZ0xMbEJpNTBOYVRZb3ptbXQ2RXV3RmJrZUcxWjBLZFRLTmNLS0E?oc=5) — AUTOSPORT web｜要確認｜2026-11-24T09:39:00+00:00 UTC｜discovery_index
 - [【タイム結果】フォーミュラE、GEN4初の合同テストが終了。ニッサンのマローニが最速タイムを記録 - autosport web](https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wejdQOC1VZFdlYUhvMUpyY1ZPVFFGSmxjWWxtUHJPbkhndXhKaWJVeDVsWjVGLWpnNl9zNHZXcWwxRjdKTGNteVhtWEg1OGc?oc=5) — AUTOSPORT web｜要確認｜2026-11-24T07:44:00+00:00 UTC｜discovery_index
 - [【写真1】ダン・タウリスCEO（キャデラック） - autosport web](https://news.google.com/rss/articles/CBMibkFVX3lxTE9LRjlhQWlpWHctVHZJRFpkY3RIajB5YWdYQ3FGXzBrSWswZU1pUmtIRHlhaEJpM2U2LS1qNUluT2Z4UHNSalkwamxhZEh0TDkxWmlSaS1lbzFpdUwtWTBRM1ZWQXpjVEU4alp4dnJ3?oc=5) — AUTOSPORT web｜要確認｜2026-11-24T06:38:00+00:00 UTC｜discovery_index
+- [【写真1】佐藤蓮（PONOS NAKAJIMA RACING） - autosport web](https://news.google.com/rss/articles/CBMicEFVX3lxTE9uSnRIZ3RoZ2Q2RHhsRlkwbmhlbFFtamIxY1NkT3dRc05pNDAyWDFVWEIyNXNmVWNvSnU3VHJQbUhxZmdQU29oNW53amJzTDdGMUVoSlZ1NENiZXN5Q0RRdXI2eTdVX2ctTnA0SnJqYlA?oc=5) — AUTOSPORT web｜要確認｜2026-11-24T07:15:00+00:00 UTC｜discovery_index
 - [【写真2】ケルビン・ファン・デル・リンデ - autosport web](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xODI4aTExQTZWOEVHc2Y2RVR4ZGMzZkNJdTY1NmZYb3M1VDlxbDRwUTdoekx5RjA4TGhvUTdic3hhX1EyblM4Wk5MdkRWc1NVLVFwYTZjNA?oc=5) — AUTOSPORT web｜要確認｜2026-11-24T09:24:00+00:00 UTC｜discovery_index
 - [【写真2】セルジオ・ペレス（キャデラック） - autosport web](https://news.google.com/rss/articles/CBMibkFVX3lxTE80M2Y0YjlFYmJBOXZfLUZUUGhCbkh3a1VRSUhUMlNXeWlYSXVMNHZlOGFXS1ZGek44amlOZVNFUkttcS1uRWJTeGZyNUtwVlZxMkZmdEVPNVYzajNGVThxaDVwR0k0ODl2MjZTV213?oc=5) — AUTOSPORT web｜要確認｜2026-11-24T07:21:00+00:00 UTC｜discovery_index
 - [【写真2】福住仁嶺（NTT docomo Business ROOKIE） - autosport web](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GVkQ3b0VfZWpMUFdic2xsTlhHZVpvYksxTXlwWG1DRFpIejN1THFzR2NXMXNFTHR2MlVsQTY5b2Z0bFJpNDhZeWpzUXNLeTFIVGRVV0p3cw?oc=5) — AUTOSPORT web｜要確認｜2026-11-24T06:42:00+00:00 UTC｜discovery_index

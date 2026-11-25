@@ -1059,6 +1059,32 @@
       ]
     },
     {
+      "id": "74ab21df5e212cf07203a2fa",
+      "topic": "F1",
+      "title": "George Russell ‘all mouth no trousers’ as Buxton recalls Verstappen request - PlanetF1",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd1ZlSzdHSW82Y1owTFNUVWkxdlJJM1FfNFlkUFo1cmxxQTJieDVIUUVqcWZ3NVhDWTJuTmtMNUVMazFHcHZTOFhfbi1lME9xY2dGRGJOZC1QSnVkX0RPOWpmUXc0dkRGcEprSzlPZjQ2MmIwUVVIMllZT0trbU1fNnVPa29Ydk0?oc=5",
+      "source": "PlanetF1",
+      "publisher": "PlanetF1",
+      "description": "George Russell ‘all mouth no trousers’ as Buxton recalls Verstappen request PlanetF1",
+      "published_utc": "2026-11-24T12:08:51+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd1ZlSzdHSW82Y1owTFNUVWkxdlJJM1FfNFlkUFo1cmxxQTJieDVIUUVqcWZ3NVhDWTJuTmtMNUVMazFHcHZTOFhfbi1lME9xY2dGRGJOZC1QSnVkX0RPOWpmUXc0dkRGcEprSzlPZjQ2MmIwUVVIMllZT0trbU1fNnVPa29Ydk0?oc=5",
+          "source": "PlanetF1",
+          "publisher": "PlanetF1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T12:08:51+00:00",
+          "title": "George Russell ‘all mouth no trousers’ as Buxton recalls Verstappen request - PlanetF1"
+        }
+      ]
+    },
+    {
       "id": "5384e5f9b931b9e3b281e63b",
       "topic": "F1",
       "title": "Honda receives eye-opening Stroll request after Las Vegas GP - PlanetF1",
@@ -1185,32 +1211,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T09:46:03+00:00",
           "title": "Max Verstappen masterclass, Ferrari folly: Full Las Vegas GP driver ratings - PlanetF1"
-        }
-      ]
-    },
-    {
-      "id": "8ba463fb04aa4f84bc62c3e1",
-      "topic": "F1",
-      "title": "Rare Ayrton Senna Williams fails to sell at auction - PlanetF1",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YbTFiZ3QzWVgxeUFNUURHOTdOV2daYWJlUzR4RERvWEpmV1NrbXNNd1R0aWsxN0ZyNENKRTEwa2xnYmVTTktzcUtPVGg4a3NETzdkQ2ZzRlZ1YlBsQmZpdlh5MUViT2I3bWJUVTNGQWx1QQ?oc=5",
-      "source": "PlanetF1",
-      "publisher": "PlanetF1",
-      "description": "Rare Ayrton Senna Williams fails to sell at auction PlanetF1",
-      "published_utc": "2026-11-24T14:28:31+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YbTFiZ3QzWVgxeUFNUURHOTdOV2daYWJlUzR4RERvWEpmV1NrbXNNd1R0aWsxN0ZyNENKRTEwa2xnYmVTTktzcUtPVGg4a3NETzdkQ2ZzRlZ1YlBsQmZpdlh5MUViT2I3bWJUVTNGQWx1QQ?oc=5",
-          "source": "PlanetF1",
-          "publisher": "PlanetF1",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T14:28:31+00:00",
-          "title": "Rare Ayrton Senna Williams fails to sell at auction - PlanetF1"
         }
       ]
     },
@@ -1713,11 +1713,11 @@
     {
       "id": "04b5d3abcde166239ef4030b",
       "topic": "IndyCar",
-      "title": "Herbst continues to heal wrist, forearm injuries as he starts a new chapter with Legacy Motor Club - Racer",
+      "title": "Herbst continues to heal wrist, forearm injuries as he starts a new chapter with Legacy Motor Club - RACER - Racing News",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOUw1Nnk4c3BveDhWRm5MSDZGMmpJaFRuaFVBTEwtWXhvYzhMOXpCdko3dXI0c2ZWWnJ5bHRkZTJaZGk4VnpZU0VUMnV0X0dqOUhNVkdZSjFRbWg3SGRRcDVWX0NCN3lGTzlueEVFRGhVcU1TSGw5MW4tZVhhY04yS0t2elFQaVBXakdVYTRWTWYyQVAxcjU5X3FfbnFzdEFMNEF3MmVHdmQxbWt2dDFZNFJYNUc2ajZsTEhoWm1WS3lJZWdE?oc=5",
       "source": "RACER",
       "publisher": "Racer",
-      "description": "Herbst continues to heal wrist, forearm injuries as he starts a new chapter with Legacy Motor Club Racer",
+      "description": "Herbst continues to heal wrist, forearm injuries as he starts a new chapter with Legacy Motor Club RACER - Racing News",
       "published_utc": "2026-11-23T21:12:00+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
@@ -1732,7 +1732,7 @@
           "publisher": "Racer",
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T21:12:00+00:00",
-          "title": "Herbst continues to heal wrist, forearm injuries as he starts a new chapter with Legacy Motor Club - Racer"
+          "title": "Herbst continues to heal wrist, forearm injuries as he starts a new chapter with Legacy Motor Club - RACER - Racing News"
         }
       ]
     },
@@ -1883,6 +1883,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "9e5b010b8a77",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbm0wVTAzcDJ0OVFzdmVRX2JzSUZLTVNCYWI2WHNSTUNiN1NsUjhtVXEzSnZDZFlfZ096OThQSlBHNmQycmJpdTJRbDMxU3Y0a194QnZ5YzJnWFJzX2lLbHV0RGRVVVBESnI4a3AwS2V6cmZ0QnA2cG9QOGd0VzRRaUMyVU1va29LRktsZU9DLXdFWDRNRmJ4ZjhLdTM3Y3dPSmc?oc=5",
@@ -1980,7 +1981,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "NASCAR CRAFTSMAN Truck Series Archives NASCAR.com",
-      "published_utc": "2026-11-23T16:01:57+00:00",
+      "published_utc": "2026-11-24T05:01:57+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -1993,34 +1994,8 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T16:01:57+00:00",
+          "published_utc": "2026-11-24T05:01:57+00:00",
           "title": "NASCAR CRAFTSMAN Truck Series Archives - NASCAR.com"
-        }
-      ]
-    },
-    {
-      "id": "0692eee0a56c4ffde62faf1f",
-      "topic": "NASCAR",
-      "title": "Austin Cindric Archives - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54ZVFJaHpGMXpVV0Q4M1VZYjlOb3NhcmZLaVFYcV9iYUVIXzRVZUNsY3hLdEJJS2dRMjhYWXh3VWdkb1hXX3o2ZDE1U2g1TmNqd2MwN3F4VzlOQ3NsRTdXME9zZHl1RzhWR3p3OTFzWDNLd25k?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "Austin Cindric Archives NASCAR.com",
-      "published_utc": "2026-11-24T04:53:58+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54ZVFJaHpGMXpVV0Q4M1VZYjlOb3NhcmZLaVFYcV9iYUVIXzRVZUNsY3hLdEJJS2dRMjhYWXh3VWdkb1hXX3o2ZDE1U2g1TmNqd2MwN3F4VzlOQ3NsRTdXME9zZHl1RzhWR3p3OTFzWDNLd25k?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T04:53:58+00:00",
-          "title": "Austin Cindric Archives - NASCAR.com"
         }
       ]
     },
@@ -2032,7 +2007,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Reid Spencer NASCAR.com",
-      "published_utc": "2026-11-23T15:37:52+00:00",
+      "published_utc": "2026-11-24T04:37:52+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -2045,7 +2020,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T15:37:52+00:00",
+          "published_utc": "2026-11-24T04:37:52+00:00",
           "title": "Reid Spencer - NASCAR.com"
         }
       ]
@@ -2073,32 +2048,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T00:06:41+00:00",
           "title": "Chase Elliott Archives - NASCAR.com"
-        }
-      ]
-    },
-    {
-      "id": "c0a773e7e0a6c13ef88e4418",
-      "topic": "NASCAR",
-      "title": "Ryan Preece Archives - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yRmgxUEU1WDc0WGFfdFBMUXNWLURKRHJBSGxhcWhwQlp2aVVYekgtbWlxWFdBTUJ3VmU5eEVVSU1VcmdvbXlVN1dWMWZPNkM1SUdYWmh4OTc1dVlSM0NTcXpMM1VhQVQ0Tm5ZekdlME8?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "Ryan Preece Archives NASCAR.com",
-      "published_utc": "2026-11-23T15:07:40+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yRmgxUEU1WDc0WGFfdFBMUXNWLURKRHJBSGxhcWhwQlp2aVVYekgtbWlxWFdBTUJ3VmU5eEVVSU1VcmdvbXlVN1dWMWZPNkM1SUdYWmh4OTc1dVlSM0NTcXpMM1VhQVQ0Tm5ZekdlME8?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T15:07:40+00:00",
-          "title": "Ryan Preece Archives - NASCAR.com"
         }
       ]
     },
@@ -2136,7 +2085,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Tracks Archives NASCAR.com",
-      "published_utc": "2026-11-24T02:16:31+00:00",
+      "published_utc": "2026-11-23T20:16:31+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -2149,7 +2098,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T02:16:31+00:00",
+          "published_utc": "2026-11-23T20:16:31+00:00",
           "title": "Tracks Archives - NASCAR.com"
         }
       ]
@@ -2188,7 +2137,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Zack Albert NASCAR.com",
-      "published_utc": "2026-11-24T01:08:33+00:00",
+      "published_utc": "2026-11-23T20:08:33+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -2201,7 +2150,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T01:08:33+00:00",
+          "published_utc": "2026-11-23T20:08:33+00:00",
           "title": "Zack Albert - NASCAR.com"
         }
       ]
@@ -2463,6 +2412,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T23:36:27+00:00",
           "title": "Latest News - INDYCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "a2a3c1f6b5e977d9ce519fdb",
+      "topic": "IndyCar",
+      "title": "Latest NTT INDYCAR SERIES News and Results | Official Site of INDYCAR - INDYCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBxV01QMldQckhaUnZKejRaT2t0OHg5dEkxakZfS0pFSkpFclpVSUx4OUItQ1hrUlJFS3htczcwTUE?oc=5",
+      "source": "IndyCar Official",
+      "publisher": "INDYCAR.com",
+      "description": "Latest NTT INDYCAR SERIES News and Results | Official Site of INDYCAR INDYCAR.com",
+      "published_utc": "2026-11-23T16:49:39+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBxV01QMldQckhaUnZKejRaT2t0OHg5dEkxakZfS0pFSkpFclpVSUx4OUItQ1hrUlJFS3htczcwTUE?oc=5",
+          "source": "IndyCar Official",
+          "publisher": "INDYCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T16:49:39+00:00",
+          "title": "Latest NTT INDYCAR SERIES News and Results | Official Site of INDYCAR - INDYCAR.com"
         }
       ]
     },
@@ -8047,7 +8022,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Layne Riggs Archives NASCAR.com",
-      "published_utc": "2026-11-23T15:25:49+00:00",
+      "published_utc": "2026-11-24T04:25:49+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -8060,7 +8035,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T15:25:49+00:00",
+          "published_utc": "2026-11-24T04:25:49+00:00",
           "title": "Layne Riggs Archives - NASCAR.com"
         }
       ]
@@ -8092,84 +8067,6 @@
       ]
     },
     {
-      "id": "20d2388fb9d396c2c95e0a5c",
-      "topic": "NASCAR",
-      "title": "Front Row Motorsports Archives - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IUGZWRnVvUDdOenJjYWtqbmh1c0hvNjNqWUhPckhtRzMwT3ZlTm55MjRielA3cDYzNXRaOU5keUFRSzZNWEw4Wk5WM2FfTGtoc3pMT3VDSGdzRFBobGN5RzZIeERvOXJ4emt4WlhKXzlfUE00YWcyS2Jxaw?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "Front Row Motorsports Archives NASCAR.com",
-      "published_utc": "2026-11-23T15:17:41+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IUGZWRnVvUDdOenJjYWtqbmh1c0hvNjNqWUhPckhtRzMwT3ZlTm55MjRielA3cDYzNXRaOU5keUFRSzZNWEw4Wk5WM2FfTGtoc3pMT3VDSGdzRFBobGN5RzZIeERvOXJ4emt4WlhKXzlfUE00YWcyS2Jxaw?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T15:17:41+00:00",
-          "title": "Front Row Motorsports Archives - NASCAR.com"
-        }
-      ]
-    },
-    {
-      "id": "25f781dfbcbf6cee17987c7d",
-      "topic": "NASCAR",
-      "title": "William Byron Archives - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WMGtldzVwT05vNS1QbTh1ZUNaYVVON2NYWExBMU0yZXRyVnhXcjE4UE5nbjVac0J6eWkxYURVNVdIYnE3TW9pUnVHYk4za1FocDE5am0xX3pSU29XbGRTVXhrUm5TbzBYbW45VV9RTHRkbW8?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "William Byron Archives NASCAR.com",
-      "published_utc": "2026-11-23T16:01:57+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WMGtldzVwT05vNS1QbTh1ZUNaYVVON2NYWExBMU0yZXRyVnhXcjE4UE5nbjVac0J6eWkxYURVNVdIYnE3TW9pUnVHYk4za1FocDE5am0xX3pSU29XbGRTVXhrUm5TbzBYbW45VV9RTHRkbW8?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T16:01:57+00:00",
-          "title": "William Byron Archives - NASCAR.com"
-        }
-      ]
-    },
-    {
-      "id": "5f15ebf2eb66f46222118892",
-      "topic": "NASCAR",
-      "title": "Chase Briscoe Archives - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82cXBvUVQzQnNHVFNKVlc4UmpOWlZWNEo0SDN3RFVLcThGaUllV1B2MnVlVE96SGFNZkp3SmticFdCMnNwYjlIWUJqVmxVeWtwa2xINjVKQkFhYmVFZU5reHBKVmpIOWktZDUxTjA4RW9vY28?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "Chase Briscoe Archives NASCAR.com",
-      "published_utc": "2026-11-23T15:09:39+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82cXBvUVQzQnNHVFNKVlc4UmpOWlZWNEo0SDN3RFVLcThGaUllV1B2MnVlVE96SGFNZkp3SmticFdCMnNwYjlIWUJqVmxVeWtwa2xINjVKQkFhYmVFZU5reHBKVmpIOWktZDUxTjA4RW9vY28?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T15:09:39+00:00",
-          "title": "Chase Briscoe Archives - NASCAR.com"
-        }
-      ]
-    },
-    {
       "id": "67e2bdec48ba8edd665aa405",
       "topic": "NASCAR",
       "title": "Tricon Garage Archives - NASCAR.com",
@@ -8177,7 +8074,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Tricon Garage Archives NASCAR.com",
-      "published_utc": "2026-11-23T15:37:52+00:00",
+      "published_utc": "2026-11-24T04:37:52+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -8190,7 +8087,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T15:37:52+00:00",
+          "published_utc": "2026-11-24T04:37:52+00:00",
           "title": "Tricon Garage Archives - NASCAR.com"
         }
       ]
@@ -8244,32 +8141,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T06:32:53+00:00",
           "title": "Ricky Stenhouse Jr Archives - NASCAR.com"
-        }
-      ]
-    },
-    {
-      "id": "5c578c4d40771b711dcea5e6",
-      "topic": "NASCAR",
-      "title": "NASCAR Cup Series Chase Archives - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHBIMzNhNmFJR3ZWRWl0ZDBkZ3k0Q1hfck85X0lSV201clpYeHJVbDVrOUE0elZabkpZYkpINTV4RVR4eGpwdzI4aXBKZlVKNmlMalRnZFlaa0JwYUI4OTRJYnFiMVVFRW5FZU56RGlmUS1PTjdIY3A1aEhmVVVkWUxLT0dac2JKYTFRUUtUcjE4VWdkUGRZ?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "NASCAR Cup Series Chase Archives NASCAR.com",
-      "published_utc": "2026-11-24T01:08:33+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技名一致・新規性の確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHBIMzNhNmFJR3ZWRWl0ZDBkZ3k0Q1hfck85X0lSV201clpYeHJVbDVrOUE0elZabkpZYkpINTV4RVR4eGpwdzI4aXBKZlVKNmlMalRnZFlaa0JwYUI4OTRJYnFiMVVFRW5FZU56RGlmUS1PTjdIY3A1aEhmVVVkWUxLT0dac2JKYTFRUUtUcjE4VWdkUGRZ?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T01:08:33+00:00",
-          "title": "NASCAR Cup Series Chase Archives - NASCAR.com"
         }
       ]
     },
@@ -8794,6 +8665,163 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T16:20:42+00:00",
           "title": "IMSA class guide - RACER - Racing News"
+        }
+      ]
+    },
+    {
+      "id": "a3c3a7efc23ff2b2d86d6826",
+      "topic": "NASCAR",
+      "title": "Turkey Derby at Wall Stadium: Entry list, schedule, more for 2026 race - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjluc0Rib2FIZDlCaVF1LS0ydmxtN1R1bGNBMHJ5U2dGcUNPWURvamFsTXdINl9PelRkOE9ET2VoLUZpTXNpSWlYTVdlZFNYNVlfWjk3ek8wcC15RzVVcDVrOWJnZnFnbnJqYlE1ajlmcEc4YjByTFVScFUyX0JicVExR2pEaFdEek1xUVFVazhlQWk1alE?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Turkey Derby at Wall Stadium: Entry list, schedule, more for 2026 race NASCAR.com",
+      "published_utc": "2026-11-23T22:28:32+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "9e5b010b8a77",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjluc0Rib2FIZDlCaVF1LS0ydmxtN1R1bGNBMHJ5U2dGcUNPWURvamFsTXdINl9PelRkOE9ET2VoLUZpTXNpSWlYTVdlZFNYNVlfWjk3ek8wcC15RzVVcDVrOWJnZnFnbnJqYlE1ajlmcEc4YjByTFVScFUyX0JicVExR2pEaFdEek1xUVFVazhlQWk1alE?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T22:28:32+00:00",
+          "title": "Turkey Derby at Wall Stadium: Entry list, schedule, more for 2026 race - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "664907c15e0801b80e1e5c1e",
+      "topic": "NASCAR",
+      "title": "Drivers Archives - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wX1FKeUxoV1hFTE5PNVNPTGFHNUJwcWw0WmhtNkhSRm9lZGxoaW4teHkzaDlpV3lpQzNELXpQWHZYSTdmOUtrTV9HdjE3cVBSZlZ1RGRsUU43SlplNmE0TA?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Drivers Archives NASCAR.com",
+      "published_utc": "2026-11-24T14:43:08+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wX1FKeUxoV1hFTE5PNVNPTGFHNUJwcWw0WmhtNkhSRm9lZGxoaW4teHkzaDlpV3lpQzNELXpQWHZYSTdmOUtrTV9HdjE3cVBSZlZ1RGRsUU43SlplNmE0TA?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T14:43:08+00:00",
+          "title": "Drivers Archives - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "127de5d86c086daad46e3b95",
+      "topic": "NASCAR",
+      "title": "Racing Teams Archives - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PS010ZG53RmY5Z1dvcy1jbjZ4UjJhRXFlVGluZ2REYlpMZVU5WlhvUE9UbUhpN3g3QzBVLXA3SHdzaWpMOW5UaTJGclpEemduZHlpT2ZRbWRWQnJuXzJodFNWQXpDNXhNNWRNQW5PUQ?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Racing Teams Archives NASCAR.com",
+      "published_utc": "2026-11-24T14:20:59+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PS010ZG53RmY5Z1dvcy1jbjZ4UjJhRXFlVGluZ2REYlpMZVU5WlhvUE9UbUhpN3g3QzBVLXA3SHdzaWpMOW5UaTJGclpEemduZHlpT2ZRbWRWQnJuXzJodFNWQXpDNXhNNWRNQW5PUQ?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T14:20:59+00:00",
+          "title": "Racing Teams Archives - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "63dc2d9bd225ce20a6b409d0",
+      "topic": "other_motorsport",
+      "title": "【写真1】佐藤蓮（PONOS NAKAJIMA RACING） - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uSnRIZ3RoZ2Q2RHhsRlkwbmhlbFFtamIxY1NkT3dRc05pNDAyWDFVWEIyNXNmVWNvSnU3VHJQbUhxZmdQU29oNW53amJzTDdGMUVoSlZ1NENiZXN5Q0RRdXI2eTdVX2ctTnA0SnJqYlA?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真1】佐藤蓮（PONOS NAKAJIMA RACING） autosport web",
+      "published_utc": "2026-11-24T07:15:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uSnRIZ3RoZ2Q2RHhsRlkwbmhlbFFtamIxY1NkT3dRc05pNDAyWDFVWEIyNXNmVWNvSnU3VHJQbUhxZmdQU29oNW53amJzTDdGMUVoSlZ1NENiZXN5Q0RRdXI2eTdVX2ctTnA0SnJqYlA?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T07:15:00+00:00",
+          "title": "【写真1】佐藤蓮（PONOS NAKAJIMA RACING） - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "34092733c1dcd8d9d761b948",
+      "topic": "WRC",
+      "title": "Spa 1 (12.37km) - 11 Spa Rally 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QV2x6UlVJSzAyOGZyRmR4Sl9lY3dSQmpaWF85SUN2WWRjT25QNkg4dVZ0NXpNZGV4RnJVX3R6MUIxSzNSVGRjTUFjQ3REbklLTDlsUHN3VWFLWDBrZVlHNnNZVzJVRENuSGpHVmRPdDVJMnRo?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Spa 1 (12.37km) - 11 Spa Rally 2026 eWRC-results.com",
+      "published_utc": "2026-11-23T18:34:46+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QV2x6UlVJSzAyOGZyRmR4Sl9lY3dSQmpaWF85SUN2WWRjT25QNkg4dVZ0NXpNZGV4RnJVX3R6MUIxSzNSVGRjTUFjQ3REbklLTDlsUHN3VWFLWDBrZVlHNnNZVzJVRENuSGpHVmRPdDVJMnRo?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T18:34:46+00:00",
+          "title": "Spa 1 (12.37km) - 11 Spa Rally 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "bb3588dc900fc010689d4383",
+      "topic": "WRC",
+      "title": "Brandu - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oWG5WZmRndHJ5NHhzY19uNjBKZlZMLTc5bDNUTUpaeGxEU1hxQXRnQ2h2cEdwdzFxdVYzMVA2VGlTazhvNmttdkhwNkVaclYyRll2VEhrNVIzZw?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Brandu eWRC-results.com",
+      "published_utc": "2026-11-24T01:00:31+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oWG5WZmRndHJ5NHhzY19uNjBKZlZMLTc5bDNUTUpaeGxEU1hxQXRnQ2h2cEdwdzFxdVYzMVA2VGlTazhvNmttdkhwNkVaclYyRll2VEhrNVIzZw?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T01:00:31+00:00",
+          "title": "Brandu - eWRC-results.com"
         }
       ]
     }

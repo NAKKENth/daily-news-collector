@@ -1,4 +1,11 @@
-# portable_dac / 2026-11-24 / 候補 1–2
+# portable_dac / 2026-11-25 / 候補 1–9
 
-- [Buffalo II DAC (ESS9018 Sabre Reference DAC) - Head-Fi.org](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSnNqQVoxMUxQNXJzZVZqWnl1Z0tpemZTYUxaSjlGRmUwbXlycDRUSTh1azR5ZUduRVg4Qng4b19VTU8xcTVvbmdmOG1lLVJoR2NxVG1sSjV4RVhpU0NISHVYREpuTlRJd3hGbVVkWXJKbjlycjh4ZjhIVXhhRjdQSUFrWjNDWHZHUkFaRGJfbw?oc=5) — Head-Fi｜要確認｜2026-11-24T11:00:57+00:00 UTC｜discovery_index
-- [first dac/amp - Head-Fi.org](https://news.google.com/rss/articles/CBMidEFVX3lxTE5IYnBBNUZXV1hvNXRmWDFiWWJ5VG5ZTUFpcm9TRTNvTHNZQ0Y0ZWw1WFBOT09zMG1YNXNyanVOdGN5RUhmWlpzZ2FWdTdyWEVrT1BCNjUzSlpZVjRJUVdFRWhMN0R5b2JWNk5aZjZvaE4yM3Nu?oc=5) — Head-Fi｜要確認｜2026-11-23T23:21:10+00:00 UTC｜discovery_index
+- [MagSafe対応でスマホ背面にDAC固定、LEPIC EQUIP「DAC POCKET 2」](https://av.watch.impress.co.jp/docs/news/2158762.html) — AV Watch Audio｜優先｜2026-11-25T02:00:00+00:00 UTC｜article_metadata
+- [【11/28発売】LEPIC EQUIPから新たに設計開発を行ったポータブルDAC収納ケース DAC POCKET 2 が登場！](https://e-earphone.blog/?p=1562320) — e earphone｜優先｜2026-11-25T02:00:00+00:00 UTC｜feed_published
+- [アユート、アクセサリーブランドLEPIC EQUIP取り扱い開始。第1弾はDAC収納ケース「DAC POCKET 2」](https://www.phileweb.com/news/d-av/202611/25/66453.html) — PHILE WEB｜優先｜2026-11-25T02:00:00+00:00 UTC｜article_metadata
+- [(AUS) Matrix Audio element S STreamer / USB Dac Interface - Universal Voltage - Head-Fi.org](https://news.google.com/rss/articles/CBMitgFBVV95cUxNLTNMX2xURjJLdVc2YnVjSDNLdFNoRUNnclhTS3Ffa3BqbTZoRE1TR3hPLUl5UVJ1Q3pfR2RadS1sVDV3RzdFYkt3cGMyUXk0VnEzUWpmZVJQZUpVSFZ6UnNLZEw0SEdTLTlLLUtPSV85NVNSMnI4MHd2R2toZkQ2OGN1YXZBWExPMkhiRExUYldCT3ZtWGxrYXZGUmxsc0xKWmcwbU1NZUpNZjNyWlZ6ZTRyU3Vzdw?oc=5) — Head-Fi｜要確認｜2026-11-25T08:56:12+00:00 UTC｜discovery_index
+- [D18 - ibasso.com](https://news.google.com/rss/articles/CBMiRkFVX3lxTFB3LTJMWll0eHBLTVZmeHZ3ZC1fWnJfWkNkNDdUQXZPTTlLR0E5djhSWFRla25VYWdScWRwcGVCaWxkX2dTS1E?oc=5) — iBasso｜要確認｜2026-11-25T08:16:38+00:00 UTC｜discovery_index
+- [DC-Tonfa - ibasso.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1vd09HZEFpZldYRDZQWkxVTHhpSmRfSktqNjBOdVhTczNzcVB6ZEUyOUl4a1pOek1CSTA3ZjFaOXF2Rmxkdk1jZV9zZXo?oc=5) — iBasso｜要確認｜2026-11-25T06:51:28+00:00 UTC｜discovery_index
+- [DC07Ultra - ibasso.com](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsU3BaVTlGclkxRmdMTVE4MkRPdmZvRHZjb1FCdklGaXNjekdTY2R0TTl2OFZ4bGFvUTA1YmZERk13ZjhmdF83aUNVSGpWUQ?oc=5) — iBasso｜要確認｜2026-11-25T06:26:29+00:00 UTC｜discovery_index
+- [DP11-firmware download - FiiO forum](https://news.google.com/rss/articles/CBMihAFBVV95cUxQX1poOXg2Nm1YVGhRcDByREdYMlk0aThQRGlXSjJKTHZYbS13S3kxTDNnTzMtZGVrX280bjB4NnNrLTRlNjJzXzNaMjJzWUo2NXZ3bnBEamJhYmw3ZzhMRmVRVmk4SENzN0tfVU9MaTMyeDhGLUZORmR4M0J5WklVbGhaMW4?oc=5) — FiiO｜要確認｜2026-11-25T11:17:38+00:00 UTC｜discovery_index
+- [Exemplar - ibasso.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE81eFJfcnZ2NGRrdDVaSnZ3NHFGQ2dfT3FTSWZHZXZCWEVwemRnb2pwTEpyX0R1NERBLUhEQmx1MHVsc1hVZDdXZkt0VXU?oc=5) — iBasso｜要確認｜2026-11-25T08:16:39+00:00 UTC｜discovery_index

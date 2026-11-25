@@ -386,6 +386,32 @@
       ]
     },
     {
+      "id": "03f24fc58991b9121111212a",
+      "topic": "racing_games",
+      "title": "SubtlyReal - Photorealistic reshade preset 2.1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQW5VVFNBUU0wR1hSeHBsZDdpd0ZPbnhYNmpncU15Y04xdU0xQmJOeHUwSE03d2NTb1NpNUlHTHJPYWFWSV9OMUlzeFBydnBCOVAxZnA4NC1sdEJPYU4zVkg2clhCaVdFVENELVdLamw3ZW53VHJ5Xy1JdzA4MTk0M1dJLXpERTNV?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "SubtlyReal - Photorealistic reshade preset 2.1 overtake.gg",
+      "published_utc": "2026-11-24T00:22:37+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQW5VVFNBUU0wR1hSeHBsZDdpd0ZPbnhYNmpncU15Y04xdU0xQmJOeHUwSE03d2NTb1NpNUlHTHJPYWFWSV9OMUlzeFBydnBCOVAxZnA4NC1sdEJPYU4zVkg2clhCaVdFVENELVdLamw3ZW53VHJ5Xy1JdzA4MTk0M1dJLXpERTNV?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T00:22:37+00:00",
+          "title": "SubtlyReal - Photorealistic reshade preset 2.1 - overtake.gg"
+        }
+      ]
+    },
+    {
       "id": "b8ac2f6ce45958076a0167ab",
       "topic": "racing_games",
       "title": "Paddock Wire 0.4.4 (Early Access) - overtake.gg",
@@ -520,32 +546,6 @@
       ],
       "enrichment": "failed",
       "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
-    },
-    {
-      "id": "fad3cb21598956b9edf787a3",
-      "topic": "racing_games",
-      "title": "Police Simulator: Patrol Officers - Steam",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPODBnOVdDbkxURUdjMDBpeGpjSDBCVzZqVEFva2lXTnNWRzBQbEdMVjAteTUycE9TT016TXU2T0U1VHgydFd2ZG9DdVNfdWQwRTI3LVVoaUh1WkxMTm5ZcFFFV2JmbVVoWklxODA5ZWUweVFpVkxzZUhvSGVXcnJYMQ?oc=5",
-      "source": "Steam racing updates",
-      "publisher": "Steam",
-      "description": "Police Simulator: Patrol Officers Steam",
-      "published_utc": "2026-11-23T21:36:14+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPODBnOVdDbkxURUdjMDBpeGpjSDBCVzZqVEFva2lXTnNWRzBQbEdMVjAteTUycE9TT016TXU2T0U1VHgydFd2ZG9DdVNfdWQwRTI3LVVoaUh1WkxMTm5ZcFFFV2JmbVVoWklxODA5ZWUweVFpVkxzZUhvSGVXcnJYMQ?oc=5",
-          "source": "Steam racing updates",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T21:36:14+00:00",
-          "title": "Police Simulator: Patrol Officers - Steam"
-        }
-      ]
     },
     {
       "id": "0b59e3f48d3a6c8e299060e5",
@@ -1878,14 +1878,14 @@
       ]
     },
     {
-      "id": "c9fc5dc37fc391985f98bd0a",
+      "id": "f490ab929e616da336d9ddfe",
       "topic": "handhelds",
-      "title": "Path of Exile 2 - Steam",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82NjNYSUpyWU9uQjJLdHZySHRlNVM4U0c2aTgza1c2RVZld3dfQWN3bGpraHpmZGtTSHFfcVhiVC1fLWk4QmZhNWRoak1ibXJOZ2Y2d2VWaGxYLV9xWjVidlhBZGZwQnBNekJ3?oc=5",
+      "title": "MOUSE: P.I. For Hire - Steam",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ca1RtSjVhRURrNS1oZ3ZUWmtrNDJxRTdrRWIzZHRkRHBlWm9ISnQ5bmFvcUc3UjlMMHR2TWFWVW5pRndmTnpGanhXZGJSbTBqc2o2NF9OVVVxV2FrRE1fWEFtUkx6TkNxc0FSbGtn?oc=5",
       "source": "Valve Steam Deck",
       "publisher": "Steam",
-      "description": "Path of Exile 2 Steam",
-      "published_utc": "2026-11-24T13:07:29+00:00",
+      "description": "MOUSE: P.I. For Hire Steam",
+      "published_utc": "2026-11-24T14:40:52+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -1894,116 +1894,12 @@
       "triage_reason": "関連性・新規性要確認",
       "sources": [
         {
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82NjNYSUpyWU9uQjJLdHZySHRlNVM4U0c2aTgza1c2RVZld3dfQWN3bGpraHpmZGtTSHFfcVhiVC1fLWk4QmZhNWRoak1ibXJOZ2Y2d2VWaGxYLV9xWjVidlhBZGZwQnBNekJ3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ca1RtSjVhRURrNS1oZ3ZUWmtrNDJxRTdrRWIzZHRkRHBlWm9ISnQ5bmFvcUc3UjlMMHR2TWFWVW5pRndmTnpGanhXZGJSbTBqc2o2NF9OVVVxV2FrRE1fWEFtUkx6TkNxc0FSbGtn?oc=5",
           "source": "Valve Steam Deck",
           "publisher": "Steam",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T13:07:29+00:00",
-          "title": "Path of Exile 2 - Steam"
-        }
-      ]
-    },
-    {
-      "id": "55ef7be5cb3b175f126624b1",
-      "topic": "handhelds",
-      "title": "DRAGON BALL: Sparking! ZERO - Steam",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fUUJIZ29BVXNNdG1pOGlTaS1OY3JyVkRodDVMWHg1b09iQ05DaDNuQ2tfU2JicTBoaTUxb1BKbUFvVG1kQzhxajNGU1E0QUwwM041c2VqQWNwcGtmQkVMZWQ4MW5oenpraFpFUkpJcklSZjN3VTAtYQ?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "DRAGON BALL: Sparking! ZERO Steam",
-      "published_utc": "2026-11-24T12:33:56+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fUUJIZ29BVXNNdG1pOGlTaS1OY3JyVkRodDVMWHg1b09iQ05DaDNuQ2tfU2JicTBoaTUxb1BKbUFvVG1kQzhxajNGU1E0QUwwM041c2VqQWNwcGtmQkVMZWQ4MW5oenpraFpFUkpJcklSZjN3VTAtYQ?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T12:33:56+00:00",
-          "title": "DRAGON BALL: Sparking! ZERO - Steam"
-        }
-      ]
-    },
-    {
-      "id": "5bca27ceaa4f7f8ccd7f9db5",
-      "topic": "handhelds",
-      "title": "UNCHARTED™: Legacy of Thieves Collection - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUkpYMzFJUXllc29CSjVWUDZrMWhNNnhIcTh3RUxSeDFtRERQRElpV01HbVVNODBUaDZfNENBNTNsZU5VXzBDQVJCaHphOTc0ZGxmS3Y1d0Q1ZkVidmZwa3loVDBZRTN0UDQtSDFxU2pFQ3N4UzJYSGZ5anpWTHIwU1JybkVvZnBvdkE?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "UNCHARTED™: Legacy of Thieves Collection Steam",
-      "published_utc": "2026-11-24T12:06:25+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUkpYMzFJUXllc29CSjVWUDZrMWhNNnhIcTh3RUxSeDFtRERQRElpV01HbVVNODBUaDZfNENBNTNsZU5VXzBDQVJCaHphOTc0ZGxmS3Y1d0Q1ZkVidmZwa3loVDBZRTN0UDQtSDFxU2pFQ3N4UzJYSGZ5anpWTHIwU1JybkVvZnBvdkE?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T12:06:25+00:00",
-          "title": "UNCHARTED™: Legacy of Thieves Collection - Steam"
-        }
-      ]
-    },
-    {
-      "id": "c61171bf4e49fb36474007f9",
-      "topic": "handhelds",
-      "title": "Tomb Raider Game of the Year - Steam",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Hb25rb291Sy1SNkpDU0FQQ25kaVlncWFUUmF4V3dkZ0lsQUZhYzBpcUxIRG54ZW9MY2dfUTZVNXMxNGk2Slpfb0NBUEc4SjRfbzAzakVfcEhLV0dfOTdmdnI1al9icm1BSG9EaUlvbkh0dVdqOGtHVFNCdw?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "Tomb Raider Game of the Year Steam",
-      "published_utc": "2026-11-24T13:12:10+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Hb25rb291Sy1SNkpDU0FQQ25kaVlncWFUUmF4V3dkZ0lsQUZhYzBpcUxIRG54ZW9MY2dfUTZVNXMxNGk2Slpfb0NBUEc4SjRfbzAzakVfcEhLV0dfOTdmdnI1al9icm1BSG9EaUlvbkh0dVdqOGtHVFNCdw?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T13:12:10+00:00",
-          "title": "Tomb Raider Game of the Year - Steam"
-        }
-      ]
-    },
-    {
-      "id": "73ab750aaee47a6234cb8c51",
-      "topic": "handhelds",
-      "title": "Metro Exodus - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1R0F6bkdrdEkyM0FvMjJFSzh6NVd3LUNhUlVFTjd5QndCU19CXzNvZWFSYjh6Mms0Vkt3bmRQbGJpZEVTc1hpb3FuemFVdkl4V1BQOHUxWV9PT05Od21iWW1RSHFXdw?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "Metro Exodus Steam",
-      "published_utc": "2026-11-24T13:25:11+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1R0F6bkdrdEkyM0FvMjJFSzh6NVd3LUNhUlVFTjd5QndCU19CXzNvZWFSYjh6Mms0Vkt3bmRQbGJpZEVTc1hpb3FuemFVdkl4V1BQOHUxWV9PT05Od21iWW1RSHFXdw?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T13:25:11+00:00",
-          "title": "Metro Exodus - Steam"
+          "published_utc": "2026-11-24T14:40:52+00:00",
+          "title": "MOUSE: P.I. For Hire - Steam"
         }
       ]
     },
@@ -2030,32 +1926,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T12:31:33+00:00",
           "title": "HITMAN World of Assassination - Steam"
-        }
-      ]
-    },
-    {
-      "id": "578936c060868d35244bb9cd",
-      "topic": "handhelds",
-      "title": "Arknights: Endfield - Steam",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvR2dHcXRqb2QteloxZTJhaTNmVEZMc0MwaHRaNlFEWmhhRFE5ZmcyM0Z6dVkxVFhMVC1aQU1qajNxekZEQk42Y2lnZndnMXR2Qm0wRlk4TThJM2dsTk9ZSXJ6cHZLbGh5cURUR29TOA?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "Arknights: Endfield Steam",
-      "published_utc": "2026-11-24T12:37:16+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvR2dHcXRqb2QteloxZTJhaTNmVEZMc0MwaHRaNlFEWmhhRFE5ZmcyM0Z6dVkxVFhMVC1aQU1qajNxekZEQk42Y2lnZndnMXR2Qm0wRlk4TThJM2dsTk9ZSXJ6cHZLbGh5cURUR29TOA?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T12:37:16+00:00",
-          "title": "Arknights: Endfield - Steam"
         }
       ]
     },
@@ -2114,14 +1984,14 @@
       "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
-      "id": "06c246b8bb8fa596bca6aee3",
+      "id": "1c00b2cba1163e59a48b2f97",
       "topic": "handhelds",
-      "title": "Hollow Knight: Silksong - Steam",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92U0R2MTJPSXpESHd2aVBhQUc2SlJyNERSUTFlSnZDbzNpa0drZWtueF9iQkhJalBXcGJQZ0UtWGladGI1N2lteGpFd2dIa2IxdkJ2WFhVM013dGZMY0NCam1hOTcyc1hmemxaaWNub0lISWEy?oc=5",
+      "title": "Save 75% on Sifu on Steam - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUcmQzTDFuLWI4T0hjdElCQ2VXem9fd3A3Q1NEWXJSU0RGc1l4Nks2aTZ5Y0RCdzI4bXYtaGo2RENGaXdJeEFnb2JHT1k5TlhJZ01iU1RJUmNJMDdw?oc=5",
       "source": "Valve Steam Deck",
       "publisher": "Steam",
-      "description": "Hollow Knight: Silksong Steam",
-      "published_utc": "2026-11-24T12:17:39+00:00",
+      "description": "Save 75% on Sifu on Steam Steam",
+      "published_utc": "2026-11-24T13:52:27+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -2130,12 +2000,12 @@
       "triage_reason": "関連性・新規性要確認",
       "sources": [
         {
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92U0R2MTJPSXpESHd2aVBhQUc2SlJyNERSUTFlSnZDbzNpa0drZWtueF9iQkhJalBXcGJQZ0UtWGladGI1N2lteGpFd2dIa2IxdkJ2WFhVM013dGZMY0NCam1hOTcyc1hmemxaaWNub0lISWEy?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUcmQzTDFuLWI4T0hjdElCQ2VXem9fd3A3Q1NEWXJSU0RGc1l4Nks2aTZ5Y0RCdzI4bXYtaGo2RENGaXdJeEFnb2JHT1k5TlhJZ01iU1RJUmNJMDdw?oc=5",
           "source": "Valve Steam Deck",
           "publisher": "Steam",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T12:17:39+00:00",
-          "title": "Hollow Knight: Silksong - Steam"
+          "published_utc": "2026-11-24T13:52:27+00:00",
+          "title": "Save 75% on Sifu on Steam - Steam"
         }
       ]
     },
@@ -2164,34 +2034,6 @@
           "title": "Save 20% on Order of the Sinking Star on Steam - Steam"
         }
       ]
-    },
-    {
-      "id": "3102a746e1c917746973083e",
-      "topic": "handhelds",
-      "title": "Garry's Mod - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RQUhndUQxdnFhOVBONmZrdVM3aWRlVEsyVHdVX2tpZDNOX0FLdnVSN0Rjd0NzV0lUNmFlTGV1NG5LT2thVzdlcXdaMlNYTmtuNXRaYXNuc3NJdmxGLVJOLQ?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "Garry's Mod Steam",
-      "published_utc": "2026-11-24T13:16:10+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RQUhndUQxdnFhOVBONmZrdVM3aWRlVEsyVHdVX2tpZDNOX0FLdnVSN0Rjd0NzV0lUNmFlTGV1NG5LT2thVzdlcXdaMlNYTmtuNXRaYXNuc3NJdmxGLVJOLQ?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T13:16:10+00:00",
-          "title": "Garry's Mod - Steam"
-        }
-      ],
-      "enrichment": "failed",
-      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "a0bccfccb5752681206feba3",
@@ -2335,7 +2177,7 @@
       "source": "Valve Steam Deck",
       "publisher": "Steam",
       "description": "Save 70% on Coromon on Steam Steam",
-      "published_utc": "2026-11-24T06:13:54+00:00",
+      "published_utc": "2026-11-24T12:46:14+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -2348,7 +2190,7 @@
           "source": "Valve Steam Deck",
           "publisher": "Steam",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T06:13:54+00:00",
+          "published_utc": "2026-11-24T12:46:14+00:00",
           "title": "Save 70% on Coromon on Steam - Steam"
         }
       ],
@@ -2430,114 +2272,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T13:49:35+00:00",
           "title": "Satisfactory - Steam"
-        }
-      ]
-    },
-    {
-      "id": "6d315f88c62d67f06445ae59",
-      "topic": "handhelds",
-      "title": "MECCHA CHAMELEON - Steam",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWeHlzOFZNNC1aR1JVN2FYNDNsXzlXQnU0ak1lUXhFT2RzLVRpVEZlWGtMMUlzSm13eHlRMTh2UFRSak5MSi1DZGdKc2puRHk2M0xFRW11UFZSTXFuZlkzeXBnV25OZ1BQaEVnNw?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "MECCHA CHAMELEON Steam",
-      "published_utc": "2026-11-24T13:03:14+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWeHlzOFZNNC1aR1JVN2FYNDNsXzlXQnU0ak1lUXhFT2RzLVRpVEZlWGtMMUlzSm13eHlRMTh2UFRSak5MSi1DZGdKc2puRHk2M0xFRW11UFZSTXFuZlkzeXBnV25OZ1BQaEVnNw?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T13:03:14+00:00",
-          "title": "MECCHA CHAMELEON - Steam"
-        }
-      ]
-    },
-    {
-      "id": "ca0f3c5a78957dbe6a0f427e",
-      "topic": "handhelds",
-      "title": "THE FINALS - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XTGJMNmNZU1VNbXBGXzlPZjN3QXRldjRGTEdJSWNPaVhLbHJmZUVManRCU0p1Vlo2RU9jckVDaXFhbjVWSVVrajFqcFV0ZjROODNHWERBOE9PeVRWMkxHNTIyTW4?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "THE FINALS Steam",
-      "published_utc": "2026-11-24T13:18:17+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XTGJMNmNZU1VNbXBGXzlPZjN3QXRldjRGTEdJSWNPaVhLbHJmZUVManRCU0p1Vlo2RU9jckVDaXFhbjVWSVVrajFqcFV0ZjROODNHWERBOE9PeVRWMkxHNTIyTW4?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T13:18:17+00:00",
-          "title": "THE FINALS - Steam"
-        }
-      ],
-      "enrichment": "failed",
-      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
-    },
-    {
-      "id": "a9c7f764f498b5a4e87df8de",
-      "topic": "handhelds",
-      "title": "Aimlabs - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HTk1oUXBQOWJsamF3a2NoUUZJRElFeUt0SWM1OHg1UW05TlhTNE9odklaOE91dVRGWmluQ05JM2FfY0xZQ0g4bWhCYkdHUkQtUi1idWd0d0V5bDZxaGRJ?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "Aimlabs Steam",
-      "published_utc": "2026-11-24T13:08:23+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HTk1oUXBQOWJsamF3a2NoUUZJRElFeUt0SWM1OHg1UW05TlhTNE9odklaOE91dVRGWmluQ05JM2FfY0xZQ0g4bWhCYkdHUkQtUi1idWd0d0V5bDZxaGRJ?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T13:08:23+00:00",
-          "title": "Aimlabs - Steam"
-        }
-      ],
-      "enrichment": "failed",
-      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
-    },
-    {
-      "id": "12e927681bc67ec18180e826",
-      "topic": "handhelds",
-      "title": "Star Wars Outlaws - Steam",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QRTI1elBBbzdYa3VLWlBjYjNFcWNXdWdGa0puZmVzbkY1UnE0eGRjY2lmZmlBcDBfY1U1ZXlpbmhxcFgxd3ctOTE4cDd1MXZjQnVvR3FXTHg3aENyZ3U4MDlNb0xXQmpwVGdlMzlR?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "Star Wars Outlaws Steam",
-      "published_utc": "2026-11-24T12:06:26+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QRTI1elBBbzdYa3VLWlBjYjNFcWNXdWdGa0puZmVzbkY1UnE0eGRjY2lmZmlBcDBfY1U1ZXlpbmhxcFgxd3ctOTE4cDd1MXZjQnVvR3FXTHg3aENyZ3U4MDlNb0xXQmpwVGdlMzlR?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T12:06:26+00:00",
-          "title": "Star Wars Outlaws - Steam"
         }
       ]
     },
@@ -2726,32 +2460,6 @@
       ]
     },
     {
-      "id": "991f94e5b1516fd51eda04b2",
-      "topic": "handhelds",
-      "title": "Elite Dangerous - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aYl9uYzhRRUtCZ1MxNk5wS0R0ekRibDZ6MkgwbElUTEQ0a1hOWUZpQ0lpc0lQYkcxVTR6WW1KT0xQOU15VDl4ajc5ODZFWkM5WGtSWE01NHRhOWhnQmlSXzQ1RTNSdW9rRWc?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "Elite Dangerous Steam",
-      "published_utc": "2026-11-24T12:17:39+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aYl9uYzhRRUtCZ1MxNk5wS0R0ekRibDZ6MkgwbElUTEQ0a1hOWUZpQ0lpc0lQYkcxVTR6WW1KT0xQOU15VDl4ajc5ODZFWkM5WGtSWE01NHRhOWhnQmlSXzQ1RTNSdW9rRWc?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T12:17:39+00:00",
-          "title": "Elite Dangerous - Steam"
-        }
-      ]
-    },
-    {
       "id": "3e58fdd5cd8c9fa3aca78be5",
       "topic": "handhelds",
       "title": "Save 10% on Dungeonbound on Steam - Steam",
@@ -2806,58 +2514,6 @@
       ]
     },
     {
-      "id": "c658fff9d31e0365e5d0cfc0",
-      "topic": "handhelds",
-      "title": "Poppy Playtime - Chapter 2 - Steam",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5teW5kbEV2bnAxX0VBRVNLS1hRRkZXNGMza25KbllZd3J6YlhwbExERkVhQ3FTNi1yUW1LZUNEVlM0Q21DQmRmT21qWTQxdTdpWnZadndyNS1ReFVuWFR2RHh5cWhqdW1TaDZNLTQwdzdsVEh2QVg4?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "Poppy Playtime - Chapter 2 Steam",
-      "published_utc": "2026-11-24T05:29:44+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5teW5kbEV2bnAxX0VBRVNLS1hRRkZXNGMza25KbllZd3J6YlhwbExERkVhQ3FTNi1yUW1LZUNEVlM0Q21DQmRmT21qWTQxdTdpWnZadndyNS1ReFVuWFR2RHh5cWhqdW1TaDZNLTQwdzdsVEh2QVg4?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T05:29:44+00:00",
-          "title": "Poppy Playtime - Chapter 2 - Steam"
-        }
-      ]
-    },
-    {
-      "id": "6b499d6b538ee6454089e310",
-      "topic": "handhelds",
-      "title": "One More Lawn - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HcDVYajd3QjlUSGs0UjJxYnE0S2U0S1F1dFRMeFd6NFlEVU82Q1ZPQ1k1RFNka0Y3S2ZaM29lZDdkZnlzb3M2VS1KQlV1WjBuMjhYM0w2aXY2SHJ3UVhiUFZIZ0ZoTENC?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "One More Lawn Steam",
-      "published_utc": "2026-11-24T12:01:31+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HcDVYajd3QjlUSGs0UjJxYnE0S2U0S1F1dFRMeFd6NFlEVU82Q1ZPQ1k1RFNka0Y3S2ZaM29lZDdkZnlzb3M2VS1KQlV1WjBuMjhYM0w2aXY2SHJ3UVhiUFZIZ0ZoTENC?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T12:01:31+00:00",
-          "title": "One More Lawn - Steam"
-        }
-      ]
-    },
-    {
       "id": "4fb500436bde9063845c8043",
       "topic": "handhelds",
       "title": "MARVEL Tōkon: Fighting Souls - Steam",
@@ -2865,7 +2521,7 @@
       "source": "Valve Steam Deck",
       "publisher": "Steam",
       "description": "MARVEL Tōkon: Fighting Souls Steam",
-      "published_utc": "2026-11-24T05:45:40+00:00",
+      "published_utc": "2026-11-24T14:54:47+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -2878,7 +2534,7 @@
           "source": "Valve Steam Deck",
           "publisher": "Steam",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T05:45:40+00:00",
+          "published_utc": "2026-11-24T14:54:47+00:00",
           "title": "MARVEL Tōkon: Fighting Souls - Steam"
         }
       ]
@@ -3365,7 +3021,7 @@
       "source": "Steam racing updates",
       "publisher": "Steam",
       "description": "LEGO® City Undercover Steam",
-      "published_utc": "2026-11-24T12:33:04+00:00",
+      "published_utc": "2026-11-24T14:22:55+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -3378,7 +3034,7 @@
           "source": "Steam racing updates",
           "publisher": "Steam",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T12:33:04+00:00",
+          "published_utc": "2026-11-24T14:22:55+00:00",
           "title": "LEGO® City Undercover - Steam"
         }
       ]
@@ -3412,14 +3068,14 @@
       "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
-      "id": "b83683546e9d67d4a86bc5a4",
+      "id": "efba6b89b69aba037ae2f240",
       "topic": "racing_games",
-      "title": "Tom Clancy's Ghost Recon® Breakpoint - Steam",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZUk4UnQ2bXRMdjE5TWNBRy1IRDMyMUNYRjgwV2FuSkxGVTA0VFZ3RG5fdlZTSjlyamFPYnFpMktpRzZKNWNkLXJjcnJKZmZJSG9INXp1M3VMYWpDS2NBOWFWbEJzZXdKQ05GYWljVDJ4TmRrRjBVRzg0QjlTS3doczRWTng?oc=5",
-      "source": "Steam racing updates",
-      "publisher": "Steam",
-      "description": "Tom Clancy's Ghost Recon® Breakpoint Steam",
-      "published_utc": "2026-11-24T12:32:53+00:00",
+      "title": "Donington Park 1.0.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81ckJ2a2t4LV8yVUI1ZDFqRDJYQUNXUmREekQtRTQ3S0x4N2pHQVAwZUlyRkJQREJNdmpwOXZ6LS0wOVNvTmZ6aUQzdUlkXzU2dVQ1emg2bVRFWVZERHVDa3A1cW85Zw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Donington Park 1.0.0 overtake.gg",
+      "published_utc": "2026-11-23T17:21:44+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -3428,12 +3084,168 @@
       "triage_reason": "関連性・新規性要確認",
       "sources": [
         {
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZUk4UnQ2bXRMdjE5TWNBRy1IRDMyMUNYRjgwV2FuSkxGVTA0VFZ3RG5fdlZTSjlyamFPYnFpMktpRzZKNWNkLXJjcnJKZmZJSG9INXp1M3VMYWpDS2NBOWFWbEJzZXdKQ05GYWljVDJ4TmRrRjBVRzg0QjlTS3doczRWTng?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81ckJ2a2t4LV8yVUI1ZDFqRDJYQUNXUmREekQtRTQ3S0x4N2pHQVAwZUlyRkJQREJNdmpwOXZ6LS0wOVNvTmZ6aUQzdUlkXzU2dVQ1emg2bVRFWVZERHVDa3A1cW85Zw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T17:21:44+00:00",
+          "title": "Donington Park 1.0.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "2f10957c274bda0c7cff67e4",
+      "topic": "racing_games",
+      "title": "Hyundai i20 N Rally2 - Pelamourgues - Monte-Carlo 2026 v 0.1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNamtvRTJGczFSVmh2MHdRZWYwVzhJSk5mMnJXZW05MmNSdkoxQmRBVjVjQTRxbkNTOW9uRzR4cnpfd1BfdktlbDU4UVlRbE12VXRjOXNCalNSb2RGZkVCZ0JpUmoyb2RsVnQybTJubm83bFBmRWFsU09SX1VTS0pwWmIxNFRaaDhJc1IxWThXV1U2TVdWdWc?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Hyundai i20 N Rally2 - Pelamourgues - Monte-Carlo 2026 v 0.1 overtake.gg",
+      "published_utc": "2026-11-23T22:10:06+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNamtvRTJGczFSVmh2MHdRZWYwVzhJSk5mMnJXZW05MmNSdkoxQmRBVjVjQTRxbkNTOW9uRzR4cnpfd1BfdktlbDU4UVlRbE12VXRjOXNCalNSb2RGZkVCZ0JpUmoyb2RsVnQybTJubm83bFBmRWFsU09SX1VTS0pwWmIxNFRaaDhJc1IxWThXV1U2TVdWdWc?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T22:10:06+00:00",
+          "title": "Hyundai i20 N Rally2 - Pelamourgues - Monte-Carlo 2026 v 0.1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "14b870507d32a46d2fe9110e",
+      "topic": "racing_games",
+      "title": "Porsche TAG Heuer Racing (takeover red bull racing) v0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNejVsUGliNHpFQjlKQlJRQ0F5bFltSndiTFhRcE1tQ0hCUTIxaWFkYVZHWG5aMUpNNktxMmFZcHRnM0JCLXB0SGxSMnBQYUtFT2hMX2UzLVprWUNQLVhXeDM1blF4d1lVQTVDeXV3dFhSMUhPelNjS0VWRDl0Zl9xVjZmOXAxLUZfd2M5VU1ac2NqdWRs?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Porsche TAG Heuer Racing (takeover red bull racing) v0 overtake.gg",
+      "published_utc": "2026-11-24T00:03:58+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNejVsUGliNHpFQjlKQlJRQ0F5bFltSndiTFhRcE1tQ0hCUTIxaWFkYVZHWG5aMUpNNktxMmFZcHRnM0JCLXB0SGxSMnBQYUtFT2hMX2UzLVprWUNQLVhXeDM1blF4d1lVQTVDeXV3dFhSMUhPelNjS0VWRDl0Zl9xVjZmOXAxLUZfd2M5VU1ac2NqdWRs?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T00:03:58+00:00",
+          "title": "Porsche TAG Heuer Racing (takeover red bull racing) v0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "8a28155b2c17a67761a8066a",
+      "topic": "racing_games",
+      "title": "Lonely Mountains: Snow Riders - Steam",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PNWRBcTJUOWsxY2RrRklONVI5N2ZBazlfNzRGYW1Takg0OTFBSDRwREduZTZHRmQxclIwRzk3YndaN1NLNTdTRjU4RVpWQ3ZORVh2STRpRnlIRV81MEN1UmlCMUtwUHAzYlpsSHNBRmh1NDNveWM1aHNCa0U?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Lonely Mountains: Snow Riders Steam",
+      "published_utc": "2026-11-24T13:47:12+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PNWRBcTJUOWsxY2RrRklONVI5N2ZBazlfNzRGYW1Takg0OTFBSDRwREduZTZHRmQxclIwRzk3YndaN1NLNTdTRjU4RVpWQ3ZORVh2STRpRnlIRV81MEN1UmlCMUtwUHAzYlpsSHNBRmh1NDNveWM1aHNCa0U?oc=5",
           "source": "Steam racing updates",
           "publisher": "Steam",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T12:32:53+00:00",
-          "title": "Tom Clancy's Ghost Recon® Breakpoint - Steam"
+          "published_utc": "2026-11-24T13:47:12+00:00",
+          "title": "Lonely Mountains: Snow Riders - Steam"
+        }
+      ]
+    },
+    {
+      "id": "1a4b8723f285b070f5a7ce1e",
+      "topic": "handhelds",
+      "title": "Farm RPG - Nominate Farm RPG for the \"Just 5 More Minutes\" Steam Award! - Steam News - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVVBVVm1pbzBqOUdCaHhfMGktWTBpNWVURjVpYVJRQTBNWnFLa0hnVUw4eHhzUWlrdzMxNlRRcUpVTE1jYWk5elNaTEtuLTB0WUhsYlFiQ1JpWGl2dGlUQk0yQU9pTFNJMXhPQVVjS25NWEt4UFpJaUxBa3hhMUdOQTI3ODJWVGVm?oc=5",
+      "source": "Valve Steam Deck",
+      "publisher": "Steam",
+      "description": "Farm RPG - Nominate Farm RPG for the \"Just 5 More Minutes\" Steam Award! - Steam News Steam",
+      "published_utc": "2026-11-23T18:01:40+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVVBVVm1pbzBqOUdCaHhfMGktWTBpNWVURjVpYVJRQTBNWnFLa0hnVUw4eHhzUWlrdzMxNlRRcUpVTE1jYWk5elNaTEtuLTB0WUhsYlFiQ1JpWGl2dGlUQk0yQU9pTFNJMXhPQVVjS25NWEt4UFpJaUxBa3hhMUdOQTI3ODJWVGVm?oc=5",
+          "source": "Valve Steam Deck",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T18:01:40+00:00",
+          "title": "Farm RPG - Nominate Farm RPG for the \"Just 5 More Minutes\" Steam Award! - Steam News - Steam"
+        }
+      ]
+    },
+    {
+      "id": "077cb739cb650fd753329f5e",
+      "topic": "handhelds",
+      "title": "TrenchFin - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pc1NyaUpkeG5SblNIZk1WUDVINTRBaHNoOERVRWI3eUdXUFQzdXhhMDYtVW5BRExtcFlQMUlUNDl2bGptcjhqLVF3ajE1YmJlV3NWb0N0YnUzQUxoNW5adlR2cw?oc=5",
+      "source": "Valve Steam Deck",
+      "publisher": "Steam",
+      "description": "TrenchFin Steam",
+      "published_utc": "2026-11-24T05:25:51+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pc1NyaUpkeG5SblNIZk1WUDVINTRBaHNoOERVRWI3eUdXUFQzdXhhMDYtVW5BRExtcFlQMUlUNDl2bGptcjhqLVF3ajE1YmJlV3NWb0N0YnUzQUxoNW5adlR2cw?oc=5",
+          "source": "Valve Steam Deck",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T05:25:51+00:00",
+          "title": "TrenchFin - Steam"
+        }
+      ]
+    },
+    {
+      "id": "2ebfb617dbd9b07a9d68c381",
+      "topic": "handhelds",
+      "title": "Ys X: Proud Nordics - Steam",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tbG54a2czelZsem9MRjlMQWo3OVpuT0RmZ0Zzd0FGZEU2dGs2ZkVwa0puNG5WdnNMaEVRVklGSFNVUDF4ZF80bkFrRi16U1dXNUh0Y01Jd0szeVNnV1pEejdoZkpTUFA1M3IxTkVyUQ?oc=5",
+      "source": "Valve Steam Deck",
+      "publisher": "Steam",
+      "description": "Ys X: Proud Nordics Steam",
+      "published_utc": "2026-11-24T14:27:30+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tbG54a2czelZsem9MRjlMQWo3OVpuT0RmZ0Zzd0FGZEU2dGs2ZkVwa0puNG5WdnNMaEVRVklGSFNVUDF4ZF80bkFrRi16U1dXNUh0Y01Jd0szeVNnV1pEejdoZkpTUFA1M3IxTkVyUQ?oc=5",
+          "source": "Valve Steam Deck",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T14:27:30+00:00",
+          "title": "Ys X: Proud Nordics - Steam"
         }
       ]
     }
