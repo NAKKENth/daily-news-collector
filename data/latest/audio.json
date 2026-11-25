@@ -103,6 +103,20 @@
       "date_quality": "discovery_index"
     },
     {
+      "id": "6acc09d66f0b39e5dffd12cf",
+      "topic": "tws",
+      "title": "Bose TV Speaker (2nd Gen) vs Smart Soundbar: Which Soundbar Is Better? - RTINGS.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOE1uN1g2UERlblFaWS1xWEZqRFJiTlBQYW5hM08yaFRVNWFVM1VncUp4RXlhREk1QlYtSmZBcHJwbjltNUlfV2hJV003VWhvQWdDQWtENm53dmFFOVRmZ1g0NDBrbVdzMFczTlc4YS1URTFIcXFQM1hTdHM0UG5CNXprWW5HNDgzSWRpVGw5MTUtQUFBQjlfZzJVdGhjQkhFNzJwag?oc=5",
+      "source": "RTINGS Headphones",
+      "publisher": "RTINGS.com",
+      "description": "Bose TV Speaker (2nd Gen) vs Smart Soundbar: Which Soundbar Is Better? RTINGS.com",
+      "published_utc": "2026-11-24T13:08:07+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index"
+    },
+    {
       "id": "5b5d0c3ea616aeda160c2d21",
       "topic": "tws",
       "title": "Spotify outage locks thousands of users out of accounts with widespread login failures (Updated) - Android Authority",
@@ -307,6 +321,20 @@
       "publisher": "JBL",
       "description": "Features One 12\" (300mm) Automotive Subwoofer. One 12\" (300mm) Automotive Subwoofer JBL",
       "published_utc": "2026-11-24T09:30:01+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index"
+    },
+    {
+      "id": "656197a95681c781e16e18f1",
+      "topic": "wired",
+      "title": "HEDDphone® DX – our new open-back dynamic headphone - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRnJSUjJjOWJmNjFzdGR6ZTM4OElNcko2OGNMQlBiZnNLUU9hdnd6ZUk5OFVLaTNDZ21Kd1hGUmh5LU8tcTYzUVQ3R0pScThzNEROQVlwWXdtLVZKVmVneHFEMi1LU0FRdkJmRDZTRnNWaVV2bmpGb3ZONHFmS2pBTFdpbGQtYUJJWHl4WWtaVFptZG9NaVFCSi1kS0VjVTdTbzRrZ3BSRXdDcXVyeWJR?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "HEDDphone® DX – our new open-back dynamic headphone Head-Fi.org",
+      "published_utc": "2026-11-24T09:00:09+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -1253,16 +1281,13 @@
   ],
   "date_unknown": [],
   "health": {
-    "ok": 30,
-    "empty": 10,
+    "ok": 14,
+    "empty": 2,
     "fallback": 0,
     "fallback_empty": 0,
-    "failed": 2,
-    "skipped": 0,
+    "failed": 0,
+    "skipped": 26,
     "manual": 2,
-    "failed_sources": [
-      "audio-audio-science-review: 429 Client Error: Too Many Requests for url: https://news.google.",
-      "audio-apple-airpods: 429 Client Error: Too Many Requests for url: https://news.google."
-    ]
+    "failed_sources": []
   }
 }

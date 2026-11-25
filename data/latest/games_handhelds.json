@@ -791,15 +791,13 @@
   ],
   "date_unknown": [],
   "health": {
-    "ok": 20,
-    "empty": 20,
+    "ok": 14,
+    "empty": 12,
     "fallback": 0,
     "fallback_empty": 0,
-    "failed": 1,
-    "skipped": 0,
+    "failed": 0,
+    "skipped": 15,
     "manual": 4,
-    "failed_sources": [
-      "games_handhelds-valve-steam-deck: 429 Client Error: Too Many Requests for url: https://news.google."
-    ]
+    "failed_sources": []
   }
 }

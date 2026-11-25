@@ -3,9 +3,9 @@
 **自動収集された候補です。重要度・原典・実際の出来事の日付は未検証。**
 検索発見リンク（Google News）は元記事の代わりではありません。原典を探し直してください。
 
-収録候補：89件／日時不明：0件／取得結果：直接成功30・検索代替0・0件10・失敗2・未実行0
+収録候補：91件／日時不明：0件／取得結果：直接成功14・検索代替0・0件2・失敗0・未実行26
 
-## tws（全75件／下記最大53件）
+## tws（全76件／下記最大53件）
 
 - [This Black Friday, the JBL Tune 510BT drops to under $20 - SoundGuys](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPV3RXclZXMnRIbzN2ZmxNcUxpdkNmU0plRW1jel9sLXdmYUxyd2VLcVJlNnpGQjRzcGFvMkc3NWp1TEtVdVNjQXNsSDUwNjdOVEpkVFQ4Qkp3VU51X1B1VE1fTQ?oc=5) — SoundGuys｜11/24 23:53 JST｜Google News配信日時・原典要確認
 - [Hidden Coupon Deal Knocks M6 MacBook Pro to $1,779 on Amazon](https://www.macrumors.com/2026/11/24/hidden-coupon-m6-macbook-pro) — MacRumors｜11/24 23:43 JST｜元媒体RSS記事日時
@@ -14,6 +14,7 @@
 - [Black Friday knocks the Sony ULT Field 5 down to $188 - SoundGuys](https://news.google.com/rss/articles/CBMid0FVX3lxTE9hUGY2QldKMU5PZzUxQWlKTjEwd0wzcTJnZTEwYlVxQWtGQUtlSGRSS3FicGY5OV9LcVBlOEZQdHdkYzdCal9lTDVzNzVtWVlTZ296elFrRFpxNHZnVEoyMW91MXhKWTlEMllOTUJ6NEtDTmFPRnFv?oc=5) — SoundGuys｜11/24 22:57 JST｜Google News配信日時・原典要確認
 - [Sweat-ready Beats 360 headphones are $101 off on Amazon - SoundGuys](https://news.google.com/rss/articles/CBMia0FVX3lxTE5xbFpqX1NzZEZqRnBfa0wxME9kZ3djaW5yUkx2T3cxdFU2UlFHeE9CblV3a2NNS0NGN3ZsZlFyYnVadlNDNTlDX0RkNTlQay0welk1RkQwbzZBNzRUVVpJYnhpRDhRMjFHQTdz?oc=5) — SoundGuys｜11/24 22:23 JST｜Google News配信日時・原典要確認
 - [Pixel’s November update is still missing for some T-Mobile, Mint, and Tello users - Android Authority](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQWlZZThtalNoZllSc093UjVGNENnXzRoTWFxU2ZTWTFzMmxTdFE0dHBjOHhSQk9PZTBtaWFSb1M4aGs3Umx6c2hpbFFQUlIxQ0R0SFh4b0xXMnB3MDVnTkpHNTJvNk1OQWl0V2VLR2w1SkMyeGN5S0x1dkYtVWRqc2V2cWI?oc=5) — Android Authority TWS｜11/24 22:11 JST｜Google News配信日時・原典要確認
+- [Bose TV Speaker (2nd Gen) vs Smart Soundbar: Which Soundbar Is Better? - RTINGS.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxPOE1uN1g2UERlblFaWS1xWEZqRFJiTlBQYW5hM08yaFRVNWFVM1VncUp4RXlhREk1QlYtSmZBcHJwbjltNUlfV2hJV003VWhvQWdDQWtENm53dmFFOVRmZ1g0NDBrbVdzMFczTlc4YS1URTFIcXFQM1hTdHM0UG5CNXprWW5HNDgzSWRpVGw5MTUtQUFBQjlfZzJVdGhjQkhFNzJwag?oc=5) — RTINGS Headphones｜11/24 22:08 JST｜Google News配信日時・原典要確認
 - [Spotify outage locks thousands of users out of accounts with widespread login failures (Updated) - Android Authority](https://news.google.com/rss/articles/CBMieEFVX3lxTE1YZHRzWF9WMnZDRFlzZHZJSmVRMlFUYzJsSzh0Mzlya2V1TVhKQVAzRVNqdkhLMXltUWxiamRVR0taZ1RfdW9lRXM5NHpzR1JZbG1CZ0RLbjFpYzhTby00OUtDdTFKek9WVWpZTWFHa3pzVm92cm9OYg?oc=5) — Android Authority TWS｜11/24 21:54 JST｜Google News配信日時・原典要確認
 - [Always on the go? Sony's WF-1000XM6 are 25% off - SoundGuys](https://news.google.com/rss/articles/CBMidkFVX3lxTE9QbjJUb2NzcWhOdzhfa1B6V2NOWXlNOUV4a1lta0J1UzI3eGxXV0lsWU1JaDdlODc4V0liZ3VHVFRzME54SjlDVHk1Y3VhSmtnbWpCaEp0MHIyVkFfZVdIa3VBcVd3T2ZlTF9DQnBmSmk1V2Nucnc?oc=5) — SoundGuys｜11/24 21:16 JST｜Google News配信日時・原典要確認
 - [Samsung confirms global One UI 9 Watch rollout is in full swing for Galaxy Watch 8 - SamMobile](https://news.google.com/rss/articles/CBMimAFBVV95cUxNZFlOeDNxdXFkN2NLeXVFUFNhS2Zob29VZXV3OXpQcVhRSVkzejVxUDhrSzhqMVlvZHN1V3MzM1RrcmZhT0dUaF9CRm1WU3FTV19idnEtbDFYckhuZUx5ZXdsRzd0eDBHU1p6X1B2dUlrSWlpVHNYbl85WnE1OVNveTc4UXVOLVdJWE5SbFFOT1Nub0t4ZVdJMw?oc=5) — SamMobile｜11/24 21:04 JST｜Google News配信日時・原典要確認
@@ -59,12 +60,12 @@
 - [ColorOS Bug on OnePlus 15 - OnePlus Community](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMmpWRDhMY203X0l3ZTRTejhzVy10VVRreVdKeDFFck1SdlJZQWVQdXQtN0ZGMVE2VDR4c2pkamxHV1JqRXBUWXBHbThwQnlIU3B3LXNEZTZlUzVzTXFJMzlYSERPeVk?oc=5) — OnePlus Audio｜11/24 08:33 JST｜Google News配信日時・原典要確認
 - [- us.sennheiser-hearing.com](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjZ3BnTDdLY3ZyaGIwaU9JbVNnM2hKdmFFbm84ZlRCNEtvamZ0bU1iX3p2SjMtaTJFcHJ2RWgxZzlWR2ZQbjRET3N3Q0xMMTZrNnVGeUdDUTI?oc=5) — Sennheiser｜11/24 08:30 JST｜Google News配信日時・原典要確認
 - [My oneplus 12 started restarting again and again from mornin - OnePlus Community](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YaktKOENFeW5IdklxZ1BiVjltaFlHelp4Uy1iTE02NUNJSFkxLUJrR1hCM2xaazFyck1tSkIxd3hnZkpSVzl0WnhXWDFqVVNpdU5DM0VqaDNyNDljX3VpTXNCbE5WeTQ?oc=5) — OnePlus Audio｜11/24 07:48 JST｜Google News配信日時・原典要確認
-- [- Sony Electronics](https://news.google.com/rss/articles/CBMijAFBVV95cUxQdVVTWkw4RnVyZ0ZveFhCaUVOa3pmYW44akZpS1hPNno5VWJnSzZxbDg1OUc4d2VCR2xmdnRfTGZ3cHdLQ3BQSEtkcndyMmJ1S0FQbUhidGlacUY0cUVLdDh4OEl5RnctRmMyaGhBV1ZlSnBVcGhyMzJnMWN2Y0FnQXd4VktKdjVsUHR0ZQ?oc=5) — Sony Audio｜11/24 07:47 JST｜Google News配信日時・原典要確認
 
-## wired（全13件／下記最大53件）
+## wired（全14件／下記最大53件）
 
 - [GUSTARD U18 II USB Digital Audio Interface - shenzhenaudio](https://news.google.com/rss/articles/CBMipAFBVV95cUxPME1fUlUtanhLN0Z1eU1BYk02b20yTFh0Y2JLbzA2clBTVTFKZXpHZXRsMVF4MXJieGdIWUxaMmg0dmlXVU5OQTdKZHItc2cyLU9OSllsZUF3c3NDbGdsaTVaQ1F2QXlUSG1kbVpfT1dCNHE3eVdhdWRVUGRBcFY1Q0ZENE5xT25QVHAzTl9GTHY5S3VYaUFDTWNvNlpyNmVST3pjWA?oc=5) — SHENZHENAUDIO｜11/24 19:50 JST｜Google News配信日時・原典要確認
 - [Fire TV Stickを車内で使える多機能アダプタ、楽天ブラックフライデーでセール](https://av.watch.impress.co.jp/docs/news/2158850.html) — AV Watch Audio｜11/24 19:00 JST｜元媒体RSS記事日時
+- [HEDDphone® DX – our new open-back dynamic headphone - Head-Fi.org](https://news.google.com/rss/articles/CBMirwFBVV95cUxNRnJSUjJjOWJmNjFzdGR6ZTM4OElNcko2OGNMQlBiZnNLUU9hdnd6ZUk5OFVLaTNDZ21Kd1hGUmh5LU8tcTYzUVQ3R0pScThzNEROQVlwWXdtLVZKVmVneHFEMi1LU0FRdkJmRDZTRnNWaVV2bmpGb3ZONHFmS2pBTFdpbGQtYUJJWHl4WWtaVFptZG9NaVFCSi1kS0VjVTdTbzRrZ3BSRXdDcXVyeWJR?oc=5) — Head-Fi｜11/24 18:00 JST｜Google News配信日時・原典要確認
 - [HEDDphone® DX – our new open-back dynamic headphone - Head-Fi.org](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRHptR01aUGl5X0wyV0JPSDVkWmg4Umppb1hPREhLNXNBbTU3a0p0MUpIa0dMNkxRcF94ckp3V1RjYnhFM1VRU29oSWs1U29sWGtZTXVyYWhiRm9vc3BsZkVxWms3QmF1M0FYd19TY3o1Si1aWlhJS0FYNEMyS01qa2hQX1lSTkhJLWlzeTNlUlFZYmxfYTAxTXdMcUszeFJRSWY3NWVTRQ?oc=5) — Head-Fi｜11/24 18:00 JST｜Google News配信日時・原典要確認
 - [- shenzhenaudio](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sYTVTX3NZTU5laWxBRDZJTWN3UjA2RTZMeTUwZ0lQNWs5eUF1NkNROUh0N2M2SHZ3Z0hDaWdMTWp5NW1Dei1QYW5EWmYzUzZKSUlhMUVnc0NQcUhhYWZRSTJyTXIyODQ?oc=5) — SHENZHENAUDIO｜11/24 17:02 JST｜Google News配信日時・原典要確認
 - [EarFun、Boseと協力してノイキャン大幅強化「Air Pro 5」近日発売。QuietSmart 4.0](https://av.watch.impress.co.jp/docs/news/2158778.html) — AV Watch Audio｜11/24 16:37 JST｜元媒体RSS記事日時
@@ -80,9 +81,3 @@
 ## portable_dac（全1件／下記最大53件）
 
 - [FiiO Class A Review](https://www.headfonia.com/fiio-class-a-review) — Headfonia｜11/24 16:30 JST｜元媒体RSS記事日時
-
-
-## 取得失敗（収集できた候補ゼロと混同しない）
-
-- audio-audio-science-review: 429 Client Error: Too Many Requests for url: https://news.google.
-- audio-apple-airpods: 429 Client Error: Too Many Requests for url: https://news.google.

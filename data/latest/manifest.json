@@ -1,53 +1,47 @@
 {
-  "generated_at_utc": "2026-11-25T12:01:27+00:00",
+  "generated_at_utc": "2026-11-25T13:40:02+00:00",
   "target_date_jst": "2026-11-24",
-  "scope": "all",
+  "scope": "core",
   "catalog_sources": 168,
-  "attempted_sources": 159,
+  "attempted_sources": 78,
   "status_counts": {
-    "ok": 108,
-    "failed": 6,
-    "empty": 45,
+    "ok": 60,
+    "empty": 18,
+    "skipped": 81,
     "manual": 9
   },
-  "new_unique_articles": 1564,
+  "new_unique_articles": 77,
   "candidates_per_group": {
     "motorsport": 133,
-    "pc_ai": 194,
+    "pc_ai": 207,
     "games_handhelds": 56,
-    "audio": 89
+    "audio": 91
   },
-  "overall_status": "partial",
+  "overall_status": "sources_fetched_not_fact_checked",
   "source_health": [
     {
       "source_id": "audio-9to5mac-airpods",
       "group": "audio",
-      "status": "ok",
-      "items": 11,
-      "method": "rss"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-android-authority-tws",
       "group": "audio",
-      "status": "ok",
-      "items": 25,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-apple-airpods",
       "group": "audio",
-      "status": "failed",
-      "items": 0,
-      "method": "news",
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Aapple.com+when%3A4d&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-audio-science-review",
       "group": "audio",
-      "status": "failed",
-      "items": 0,
-      "method": "news",
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Aaudiosciencereview.com+when%3A4d+%28DAC+OR+USB+audio+OR+headphone+amp%29&hl=en-US&gl=US&cei"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-av-watch-audio",
@@ -59,37 +53,32 @@
     {
       "source_id": "audio-aviot",
       "group": "audio",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-bluetooth-sig",
       "group": "audio",
-      "status": "ok",
-      "items": 14,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-bose",
       "group": "audio",
-      "status": "ok",
-      "items": 5,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-canjam",
       "group": "audio",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-dunu",
       "group": "audio",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-e-earphone",
@@ -101,30 +90,28 @@
     {
       "source_id": "audio-earfun",
       "group": "audio",
-      "status": "ok",
-      "items": 1,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-fiio",
       "group": "audio",
       "status": "ok",
-      "items": 1,
+      "items": 3,
       "method": "news"
     },
     {
       "source_id": "audio-head-fi",
       "group": "audio",
       "status": "ok",
-      "items": 24,
+      "items": 23,
       "method": "news"
     },
     {
       "source_id": "audio-headfonia",
       "group": "audio",
-      "status": "ok",
-      "items": 2,
-      "method": "rss"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-headfonics",
@@ -150,16 +137,14 @@
     {
       "source_id": "audio-jbl",
       "group": "audio",
-      "status": "ok",
-      "items": 24,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-l7audiolab",
       "group": "audio",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-linsoul",
@@ -184,30 +169,26 @@
     {
       "source_id": "audio-moondrop",
       "group": "audio",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-musicteck",
       "group": "audio",
-      "status": "ok",
-      "items": 25,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-nothing",
       "group": "audio",
-      "status": "ok",
-      "items": 1,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-oneplus-audio",
       "group": "audio",
-      "status": "ok",
-      "items": 23,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-phile-web",
@@ -233,9 +214,8 @@
     {
       "source_id": "audio-questyle",
       "group": "audio",
-      "status": "ok",
-      "items": 1,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-rtings-headphones",
@@ -247,44 +227,38 @@
     {
       "source_id": "audio-sammobile",
       "group": "audio",
-      "status": "ok",
-      "items": 25,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-samsung-audio",
       "group": "audio",
-      "status": "ok",
-      "items": 25,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-scarbir",
       "group": "audio",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-sennheiser",
       "group": "audio",
-      "status": "ok",
-      "items": 4,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-shanling",
       "group": "audio",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-shenzhenaudio",
       "group": "audio",
-      "status": "ok",
-      "items": 13,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-sony-audio",
@@ -303,9 +277,8 @@
     {
       "source_id": "audio-technics",
       "group": "audio",
-      "status": "ok",
-      "items": 1,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "audio-the-walkman-blog",
@@ -323,9 +296,8 @@
     {
       "source_id": "audio-xmems",
       "group": "audio",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "games_handhelds-anbernic",
@@ -393,9 +365,8 @@
     {
       "source_id": "games_handhelds-dolphin-merged-pr",
       "group": "games_handhelds",
-      "status": "ok",
-      "items": 9,
-      "method": "github_merged_pr"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "games_handhelds-eden-mirror",
@@ -414,9 +385,8 @@
     {
       "source_id": "games_handhelds-gammaos-merged-pr",
       "group": "games_handhelds",
-      "status": "empty",
-      "items": 0,
-      "method": "github_merged_pr"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "games_handhelds-gammaos-next",
@@ -428,9 +398,8 @@
     {
       "source_id": "games_handhelds-gpd",
       "group": "games_handhelds",
-      "status": "ok",
-      "items": 1,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "games_handhelds-gtplanet",
@@ -442,9 +411,8 @@
     {
       "source_id": "games_handhelds-joey-retro-handhelds",
       "group": "games_handhelds",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "games_handhelds-knulli",
@@ -463,9 +431,8 @@
     {
       "source_id": "games_handhelds-onexplayer",
       "group": "games_handhelds",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "games_handhelds-overtake",
@@ -477,16 +444,14 @@
     {
       "source_id": "games_handhelds-pcgamingwiki",
       "group": "games_handhelds",
-      "status": "ok",
-      "items": 8,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "games_handhelds-powkiddy",
       "group": "games_handhelds",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "games_handhelds-proton",
@@ -504,9 +469,8 @@
     {
       "source_id": "games_handhelds-racedepartment-archives",
       "group": "games_handhelds",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "games_handhelds-retro-dodo",
@@ -518,9 +482,8 @@
     {
       "source_id": "games_handhelds-retro-game-corps",
       "group": "games_handhelds",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "games_handhelds-retro-handhelds",
@@ -558,15 +521,14 @@
     {
       "source_id": "games_handhelds-rocknix-merged-pr",
       "group": "games_handhelds",
-      "status": "ok",
-      "items": 20,
-      "method": "github_merged_pr"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "games_handhelds-rocknix-nightly",
       "group": "games_handhelds",
       "status": "ok",
-      "items": 2,
+      "items": 1,
       "method": "github_releases"
     },
     {
@@ -579,16 +541,14 @@
     {
       "source_id": "games_handhelds-rpcs3-merged-pr",
       "group": "games_handhelds",
-      "status": "ok",
-      "items": 12,
-      "method": "github_merged_pr"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "games_handhelds-steam-racing-updates",
       "group": "games_handhelds",
-      "status": "ok",
-      "items": 17,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "games_handhelds-teknoparrot",
@@ -600,23 +560,20 @@
       "source_id": "games_handhelds-traxion",
       "group": "games_handhelds",
       "status": "ok",
-      "items": 13,
+      "items": 15,
       "method": "news"
     },
     {
       "source_id": "games_handhelds-trimui",
       "group": "games_handhelds",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "games_handhelds-valve-steam-deck",
       "group": "games_handhelds",
-      "status": "failed",
-      "items": 0,
-      "method": "news",
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Astore.steampowered.com+when%3A4d&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "games_handhelds-xemu",
@@ -635,9 +592,8 @@
     {
       "source_id": "games_handhelds-yostar-jp",
       "group": "games_handhelds",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "motorsport-amus",
@@ -656,9 +612,8 @@
     {
       "source_id": "motorsport-autosport-all",
       "group": "motorsport",
-      "status": "ok",
-      "items": 25,
-      "method": "rss"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "motorsport-autosport-f1",
@@ -670,16 +625,14 @@
     {
       "source_id": "motorsport-autosport-web",
       "group": "motorsport",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "motorsport-dailysportscar",
       "group": "motorsport",
-      "status": "ok",
-      "items": 24,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "motorsport-dakar-official",
@@ -698,30 +651,27 @@
     {
       "source_id": "motorsport-ewrc-results",
       "group": "motorsport",
-      "status": "ok",
-      "items": 25,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "motorsport-f1technical",
       "group": "motorsport",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "motorsport-fia",
       "group": "motorsport",
       "status": "ok",
-      "items": 24,
+      "items": 25,
       "method": "news"
     },
     {
       "source_id": "motorsport-fia-wec",
       "group": "motorsport",
-      "status": "ok",
-      "items": 2,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "motorsport-formula-1-official",
@@ -733,16 +683,14 @@
     {
       "source_id": "motorsport-formulapassion",
       "group": "motorsport",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "motorsport-gpblog",
       "group": "motorsport",
-      "status": "ok",
-      "items": 25,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "motorsport-indycar-official",
@@ -761,10 +709,8 @@
     {
       "source_id": "motorsport-motorsport-jp",
       "group": "motorsport",
-      "status": "failed",
-      "items": 0,
-      "method": "news",
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Ajp.motorsport.com+when%3A4d&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "motorsport-nascar-official",
@@ -776,9 +722,8 @@
     {
       "source_id": "motorsport-planetf1",
       "group": "motorsport",
-      "status": "ok",
-      "items": 25,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "motorsport-racefans",
@@ -797,10 +742,8 @@
     {
       "source_id": "motorsport-racingnews365",
       "group": "motorsport",
-      "status": "failed",
-      "items": 0,
-      "method": "news",
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Aracingnews365.com+when%3A4d&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "motorsport-rallit",
@@ -812,9 +755,8 @@
     {
       "source_id": "motorsport-rally-plus",
       "group": "motorsport",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "motorsport-rallyjournal",
@@ -826,9 +768,8 @@
     {
       "source_id": "motorsport-sky-sports-f1",
       "group": "motorsport",
-      "status": "ok",
-      "items": 25,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "motorsport-sportscar365",
@@ -882,23 +823,20 @@
     {
       "source_id": "pc_ai-9to5mac",
       "group": "pc_ai",
-      "status": "ok",
-      "items": 25,
-      "method": "rss"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-akiba-pc-hotline",
       "group": "pc_ai",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-amd",
       "group": "pc_ai",
-      "status": "ok",
-      "items": 24,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-anthropic",
@@ -910,15 +848,14 @@
     {
       "source_id": "pc_ai-ars-technica",
       "group": "pc_ai",
-      "status": "ok",
-      "items": 25,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-artificial-analysis",
       "group": "pc_ai",
       "status": "ok",
-      "items": 19,
+      "items": 18,
       "method": "news"
     },
     {
@@ -930,9 +867,8 @@
     {
       "source_id": "pc_ai-benchlife",
       "group": "pc_ai",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-board-channels",
@@ -943,9 +879,8 @@
     {
       "source_id": "pc_ai-claude-help",
       "group": "pc_ai",
-      "status": "ok",
-      "items": 25,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-computerbase",
@@ -957,9 +892,8 @@
     {
       "source_id": "pc_ai-gamers-nexus",
       "group": "pc_ai",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-google-ai",
@@ -971,9 +905,8 @@
     {
       "source_id": "pc_ai-google-deepmind",
       "group": "pc_ai",
-      "status": "ok",
-      "items": 1,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-gsmarena",
@@ -985,79 +918,69 @@
     {
       "source_id": "pc_ai-hardware-busters",
       "group": "pc_ai",
-      "status": "ok",
-      "items": 25,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-helentech",
       "group": "pc_ai",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-igor’slab",
       "group": "pc_ai",
       "status": "ok",
-      "items": 25,
+      "items": 24,
       "method": "news"
     },
     {
       "source_id": "pc_ai-intel",
       "group": "pc_ai",
-      "status": "ok",
-      "items": 16,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-itmedia-mobile",
       "group": "pc_ai",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-jedec",
       "group": "pc_ai",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-micron",
       "group": "pc_ai",
-      "status": "ok",
-      "items": 7,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-microsoft-windows",
       "group": "pc_ai",
-      "status": "ok",
-      "items": 24,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-nichepcgamer",
       "group": "pc_ai",
-      "status": "ok",
-      "items": 1,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-notebookcheck-mobile",
       "group": "pc_ai",
-      "status": "ok",
-      "items": 24,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-nvidia",
       "group": "pc_ai",
-      "status": "ok",
-      "items": 25,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-openai",
@@ -1083,73 +1006,65 @@
     {
       "source_id": "pc_ai-reuters-ai",
       "group": "pc_ai",
-      "status": "ok",
-      "items": 25,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-rtings-monitor",
       "group": "pc_ai",
-      "status": "ok",
-      "items": 25,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-samsung-semiconductor",
       "group": "pc_ai",
-      "status": "ok",
-      "items": 1,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-sk-hynix",
       "group": "pc_ai",
-      "status": "empty",
-      "items": 0,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-storagereview",
       "group": "pc_ai",
-      "status": "ok",
-      "items": 9,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-techcrunch",
       "group": "pc_ai",
-      "status": "ok",
-      "items": 25,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-techpowerup",
       "group": "pc_ai",
-      "status": "failed",
-      "items": 0,
-      "method": "news",
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Atechpowerup.com+when%3A4d&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "items": 25,
+      "method": "news"
     },
     {
       "source_id": "pc_ai-testingcatalog",
       "group": "pc_ai",
       "status": "ok",
-      "items": 10,
+      "items": 11,
       "method": "news"
     },
     {
       "source_id": "pc_ai-tftcentral",
       "group": "pc_ai",
       "status": "ok",
-      "items": 2,
+      "items": 3,
       "method": "news"
     },
     {
       "source_id": "pc_ai-the-verge",
       "group": "pc_ai",
-      "status": "ok",
-      "items": 25,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-tibor-blaho",
@@ -1174,9 +1089,8 @@
     {
       "source_id": "pc_ai-tsmc",
       "group": "pc_ai",
-      "status": "ok",
-      "items": 3,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     },
     {
       "source_id": "pc_ai-videocardz",
@@ -1188,9 +1102,8 @@
     {
       "source_id": "pc_ai-wccftech",
       "group": "pc_ai",
-      "status": "ok",
-      "items": 25,
-      "method": "news"
+      "status": "skipped",
+      "items": 0
     }
   ]
 }

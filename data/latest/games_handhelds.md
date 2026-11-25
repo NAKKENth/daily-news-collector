@@ -3,7 +3,7 @@
 **自動収集された候補です。重要度・原典・実際の出来事の日付は未検証。**
 検索発見リンク（Google News）は元記事の代わりではありません。原典を探し直してください。
 
-収録候補：56件／日時不明：0件／取得結果：直接成功20・検索代替0・0件20・失敗1・未実行0
+収録候補：56件／日時不明：0件／取得結果：直接成功14・検索代替0・0件12・失敗0・未実行15
 
 ## racing_games（全23件／下記最大53件）
 
@@ -69,8 +69,3 @@
 - [Azahar 2127.0](https://github.com/azahar-emu/azahar/releases/tag/2127.0) — Azahar｜11/24 03:58 JST｜GitHubリリース公開
 - [6fed90b_canary_experimental](https://github.com/xenia-canary/xenia-canary/releases/tag/6fed90b) — Xenia Canary｜11/24 03:09 JST｜GitHubリリース公開
 - [Latest Development Build](https://github.com/xemu-project/xemu/releases/tag/pre-release) — xemu｜11/24 01:13 JST｜GitHubリリース公開
-
-
-## 取得失敗（収集できた候補ゼロと混同しない）
-
-- games_handhelds-valve-steam-deck: 429 Client Error: Too Many Requests for url: https://news.google.

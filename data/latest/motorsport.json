@@ -1869,16 +1869,13 @@
   ],
   "date_unknown": [],
   "health": {
-    "ok": 23,
-    "empty": 8,
+    "ok": 16,
+    "empty": 4,
     "fallback": 0,
     "fallback_empty": 0,
-    "failed": 2,
-    "skipped": 0,
+    "failed": 0,
+    "skipped": 13,
     "manual": 0,
-    "failed_sources": [
-      "motorsport-motorsport-jp: 429 Client Error: Too Many Requests for url: https://news.google.",
-      "motorsport-racingnews365: 429 Client Error: Too Many Requests for url: https://news.google."
-    ]
+    "failed_sources": []
   }
 }

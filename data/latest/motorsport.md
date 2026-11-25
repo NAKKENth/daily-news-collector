@@ -3,7 +3,7 @@
 **自動収集された候補です。重要度・原典・実際の出来事の日付は未検証。**
 検索発見リンク（Google News）は元記事の代わりではありません。原典を探し直してください。
 
-収録候補：133件／日時不明：0件／取得結果：直接成功23・検索代替0・0件8・失敗2・未実行0
+収録候補：133件／日時不明：0件／取得結果：直接成功16・検索代替0・0件4・失敗0・未実行13
 
 ## F1（全60件／下記最大22件）
 
@@ -120,9 +120,3 @@
 ## Super GT（全1件／下記最大22件）
 
 - [- Super GT](https://news.google.com/rss/articles/CBMiREFVX3lxTE5ZVlNrandzSUFtTVVhQTM5bG10cklIcGNGaDVXZm1weXRJa3k2WWdKNFcwNm1GTHloaGU2TmRManVDdmdZ?oc=5) — Super GT Official｜11/24 00:42 JST｜Google News配信日時・原典要確認
-
-
-## 取得失敗（収集できた候補ゼロと混同しない）
-
-- motorsport-motorsport-jp: 429 Client Error: Too Many Requests for url: https://news.google.
-- motorsport-racingnews365: 429 Client Error: Too Many Requests for url: https://news.google.
