@@ -1,11 +1,11 @@
-# 前日ニュース外部収集基盤 v0.2.1
+# 前日ニュース外部収集基盤 v0.3
 
 既存の4本のChatGPTニュースタスク用の公開情報収集・候補整理プログラムです。**ニュースの確定・重要度判定は行いません。** v0.1/v0.2で生成した `data/news.sqlite` と `data/latest/` は削除せず、次回実行で引き継ぎます。SQLiteに補助テーブルを追加する方式です。
 
-## v0.2.1への更新（既存GitHubリポジトリ）
+## v0.3への更新（既存GitHubリポジトリ）
 
 1. `Actions` に実行中のジョブがない状態で、リポジトリの現行状態を保持してください（GitHubのコミット履歴に旧版は残ります）。
-2. ZIPを展開し、`news-intake-kit` の**中身**を既存リポジトリに上書きしてください。`data/` は削除・置換しないでください。GitHubのWebアップロードでファイルを選択するとフォルダ構造が失われる場合があります。`.github/workflows/collect.yml`、`tests/test_collector.py`、`tests/test_v02.py`、`tests/test_v021.py` は各フォルダで個別に更新・追加してください。詳細は `UPDATE_v0.2.1.txt` を参照。
+2. ZIPを展開し、`news-intake-kit` の**中身**を既存リポジトリに上書きしてください。`data/` は削除・置換しないでください。GitHubのWebアップロードでファイルを選択するとフォルダ構造が失われる場合があります。`.github/workflows/collect.yml`、`tests/test_collector.py`、`tests/test_v02.py`、`tests/test_v021.py`、`tests/test_v03.py` は各フォルダで個別に更新・追加してください。詳細は `UPDATE_v0.3.txt` を参照。
 3. `Actions → News candidate collection → Run workflow → all` で手動実行。テストが失敗すれば収集前に停止します。
 4. `data/latest/manifest.json` と `README.md`、4分野のJSONを確認してください。緑のチェックは全ソース成功を意味しません。`partial` は取得不足・部分失敗が残る状態です。
 5. 初回実行では一覧監視やページ変更監視の基準を保存します。既存ページを新製品として掲載しません。2回目以降に観測した変化を「日時不明・要確認」の候補にします。
@@ -22,6 +22,18 @@
 - 手動 `retry`：前回失敗・部分失敗・延期ソースを再取得。失敗なしなら追加取得なし。
 
 ジョブの上限は35分です。GitHub Actionsの開始遅延・通信制限で7時に間に合う保証はありません。朝の全収集完了が遅れた場合は、ChatGPT側で生成日時・対象日を確認し、通常検索を補完に使います。
+
+## v0.3の変更点
+
+- 既存168情報源を維持。19情報源の直接RSS候補設定（既存候補を含む）と12情報源の直接一覧設定を見直し。OpenAI、Google、DeepMind、Ars Technica、TechCrunch、Wccftech、Sony等を含む。公開RSSの情報に基づく候補および未検証の候補URLが混在するため、ランナー上での成功は未確認。`sources.json` に保存し、無効なRSSは実行時に検出する。
+- Appleの検索をNewsroomに限定し、既存製品一覧・サポートガイド、対象外の据え置き機器や販促を候補から隔離。試聴会という語だけでは除外しない。除外はDBと監査ファイルで追跡可能。
+- 403に遭遇した個別記事のホストは、その実行中の追加記事取得を休止。RSSは保持。他のホストの処理は継続。429の待機を尊重する既存処理は維持。
+- 同一ホスト・パス・クエリ・正規化タイトルのHTTP/HTTPS違いを同一候補として整理。異なる記事や発表・予約・発売段階は機械的に統合しない。
+- `data/archive/YYYY-MM-DD/`：対象日と直前5日分の候補を再出力。元のJST日付を維持する。既存SQLiteは変更せず補助テーブルを追加。より古いアーカイブは自動削除しない。`--date` で対象日を指定可能。ただし過去全ソースの再取得を保証しない。
+- `data/latest/{group}_recovery.json`：過去日のアーカイブに後から現れた候補の回収枠。初回移行では古い保存済み候補を一括で新着扱いしない。7日間の回収候補を継続表示する。**配信済みフラグではない**ので、ChatGPT側で既報と照合する。日付未確定候補は従来通り日時不明枠に保持。URL解決・分類変更でも新候補として現れる場合がある。
+- `data/latest/coverage.json`：情報源別の最後の試行、直接取得成功、検索成功、現在の繰越状態、直近24時間に成功した経路の有無を記録。空のフィードや部分成功を含む取得経路の記録で、全記事の取得保証ではない。過去の実行記録も初回に移行。
+- ChatGPT Plusの公式ヘルプを料金・プランの代替監視対象として追加。従来の料金ページ監視は保持。実行時の抽出成功は未確認。
+- スケジュール・Google Newsの上限と429待機・既存4タスクは変更しない。
 
 ## v0.2.1で変わった点（v0.2からの変更を含む）
 
@@ -49,6 +61,9 @@
 | `data/latest/{group}.md` | 分野別の分割索引 |
 | `data/latest/{group}_{topic}_{n}.md` | 50件ごとの全候補リンク（優先・保留を区別） |
 | `data/latest/triage_audit.json` | 除外候補と除外理由 |
+| `data/latest/coverage.json` | 累積取得状況・24時間以内の経路成功 |
+| `data/latest/{group}_recovery.json` | 過去日分の回収候補（配信済み判定なし） |
+| `data/archive/YYYY-MM-DD/` | 日付別の全候補・分割索引 |
 | `data/news.sqlite` | 過去候補、観測、実行記録。旧DBを継続利用 |
 
 `priority` / `review` / `exclude` は収集時の仮選別であり、S/A/B/Cではありません。`date_jst` はタイムスタンプのJST日付で、記事に記載された出来事の発生日を保証しません。`google_news_index`、`source_feed_updated`、`listing_seen`、`page_change_observed` は正式な公開日時ではありません。`article_published` / `source_feed_published` / `github_release_published` / `github_pr_merged` も実際の出来事と同じか編集時に確認してください。
@@ -65,4 +80,4 @@ Python 3.11以降を推奨。`python -m pip install -r requirements.txt`、`pyth
 
 実サイト取得はGitHub Actionsでの運用検証が必要です。RSS候補URL、HTMLセレクタ、SNS・認証DB等は変化やアクセス制限があります。個々のURLの事前ライブ試験はしていません。全文記事・秘密鍵・個人情報を公開リポジトリに保存しないこと。公開取得可能な短い概要・URL・時刻・指紋を保存します。第三者サイトの規約・著作権・アクセス制限を尊重し、制限を回避しません。公開リポジトリのSQLiteは長期運用に伴って増えるため、容量と履歴を定期確認してください。
 
-`sources.json` が運用設定です。`configure_sources.py` は初期カタログ再生成用で、実行すると独自変更が上書きされます。`catalog_upgrade.py` はv0.2用、`catalog_v021.py` はv0.2.1用の既存IDを保つ設定更新用。通常運用ではどちらも実行不要です。
+`sources.json` が運用設定です。`configure_sources.py` は初期カタログ再生成用で、実行すると独自変更が上書きされます。`catalog_upgrade.py` はv0.2用、`catalog_v021.py` はv0.2.1用の既存IDを保つ設定更新用。`catalog_v03.py` はv0.3の設定更新用です。通常運用ではいずれも実行不要です。

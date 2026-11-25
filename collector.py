@@ -23,6 +23,7 @@ import ipaddress
 import socket
 from urllib.parse import urljoin
 from quality import organize, page_metadata, title_key, triage
+from archive_v03 import coverage, publish, dump
 from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse
 from xml.etree import ElementTree as ET
 from zoneinfo import ZoneInfo
@@ -32,7 +33,7 @@ from bs4 import BeautifulSoup
 
 JST = ZoneInfo('Asia/Tokyo')
 UTC = timezone.utc
-USER_AGENT = 'DailyNewsCandidateCollector/2.0.1 (public-source research, contact: repository owner)'
+USER_AGENT = 'DailyNewsCandidateCollector/0.3 (public-source research, contact: repository owner)'
 MAX_PER_SOURCE = 100
 MAX_PAGES = 3
 NEWS_LOCK = threading.Lock()
@@ -42,6 +43,8 @@ NEWS_INTERVAL = 2.0
 NEWS_BLOCKED = False
 NEWS_429_COUNT = 0
 NEWS_RETRY_EPOCH = 0.0
+ENRICH_BLOCKED_HOSTS = set()
+ENRICH_HOST_LOCK = threading.Lock()
 MAX_AGE_DAYS = 5
 PATH_ROOT = Path(__file__).resolve().parent
 TOPIC_WORDS = {
@@ -338,7 +341,8 @@ def collect_one(s,retrieved_at, token, defer_search=False):
         except Exception as e:errors.append(str(e)[:200])
     else:
         if s['kind']=='rss':
-            try:add(parse_rss(request_data(url),s,retrieved_at),'rss')
+            try:
+                payload=request_data(url);validate_feed(payload);add(parse_rss(payload,s,retrieved_at),'rss')
             except Exception as e:errors.append('RSS: '+str(e)[:150])
         elif s.get('direct_discovery'):
             try:
@@ -372,6 +376,10 @@ def enrich_item(x):
     x=dict(x)
     if x['timestamp_basis'].startswith('github_') or x['timestamp_basis']=='page_change_observed':return x
     old=x['url']
+    host=urlparse(old).hostname
+    with ENRICH_HOST_LOCK:
+        if host in ENRICH_BLOCKED_HOSTS:
+            x['enrichment']='deferred_host';x['enrichment_error']='previous 403 for this host in this run';return x
     try:
         raw,final=fetch(old,accept='text/html,application/xhtml+xml')
         if urlparse(final).hostname in ('news.google.com','consent.google.com','accounts.google.com'):
@@ -391,7 +399,10 @@ def enrich_item(x):
             x['published_utc']=published;x['date_jst']=local_day(published);x['timestamp_basis']='article_published'
         # A resolved Google URL with no article time keeps discovery date only.
         x['enrichment']='article_metadata' if published else 'url_only'
-    except Exception as e:x['enrichment']='failed';x['enrichment_error']=str(e)[:160]
+    except Exception as e:
+        x['enrichment']='failed';x['enrichment_error']=str(e)[:160]
+        if '403' in str(e):
+            with ENRICH_HOST_LOCK:ENRICH_BLOCKED_HOSTS.add(host)
     return x
 
 
@@ -479,7 +490,7 @@ def write_report(group,date,rows,health,out_dir):
     # All candidates available. Compact per-topic shards avoid context truncation; no silent cap.
     grouped=defaultdict(list)
     for x in date_rows+unknown:grouped[x['topic']].append(x)
-    lines=[f'# {GROUP_TITLES[group]}｜{date} JST 候補（v0.2.1）','候補のみ。記事の日時・出来事・重要度は要検証。検索索引時刻・更新時刻・観測時刻は正式発表時刻ではない。',f'日付付き候補 {len(date_rows)}件／日時不明 {len(unknown)}件。全文はJSON・下記の分割ファイル。','']
+    lines=[f'# {GROUP_TITLES[group]}｜{date} JST 候補（v0.3）','候補のみ。記事の日時・出来事・重要度は要検証。検索索引時刻・更新時刻・観測時刻は正式発表時刻ではない。',f'日付付き候補 {len(date_rows)}件／日時不明 {len(unknown)}件。全文はJSON・下記の分割ファイル。','']
     for topic,rs in sorted(grouped.items()):
         safe=re.sub(r'[^A-Za-z0-9_-]','_',topic)
         rs.sort(key=lambda x:(x.get('triage')!='priority',x.get('date_jst')!=date,x.get('link_role')=='discovery_link',x.get('title','')))
@@ -568,7 +579,7 @@ def search_pass(db,selected,health,results,retrieved_at,budget,rotation):
             db.execute('INSERT OR REPLACE INTO search_state VALUES (?,?,?,?)',(sid,last,success,1));continue
         attempted+=1;last=t
         try:
-            fallback=dict(s,kind='news');xs=parse_rss(request_data(source_endpoint(fallback)),fallback,retrieved_at)
+            fallback=dict(s,kind='news');payload=request_data(source_endpoint(fallback));validate_feed(payload);xs=parse_rss(payload,fallback,retrieved_at)
             cutoff=datetime.fromisoformat(retrieved_at)-timedelta(days=MAX_AGE_DAYS)
             xs=[x for x in xs if not x['published_utc'] or datetime.fromisoformat(x['published_utc'])>=cutoff]
             results.extend(xs);h['items']+=len(xs);h['hit_cap']=h['hit_cap'] or len(xs)>=500;h['method']='+'.join(h['direct_methods']+['news']);h['search_status']='ok' if xs else 'empty';h['status']='partial' if h['errors'] else ('ok' if h['items'] else 'empty');success=t
@@ -582,6 +593,7 @@ def search_pass(db,selected,health,results,retrieved_at,budget,rotation):
 
 def build(scoped='all',target_date=None,root=PATH_ROOT,workers=7,enrich_limit=100,search_budget=48):
     global NEWS_BLOCKED, NEWS_RETRY_EPOCH, NEWS_LAST, NEWS_429_COUNT
+    ENRICH_BLOCKED_HOSTS.clear()
     cfg=json.loads((root/'sources.json').read_text(encoding='utf-8'));all_sources=cfg['sources']
     if target_date is None:target_date=(datetime.now(JST).date()-timedelta(days=1)).isoformat()
     datetime.fromisoformat(target_date);retrieved_at=now_utc().isoformat(timespec='seconds');token=os.environ.get('GITHUB_TOKEN','')
@@ -648,8 +660,11 @@ def build(scoped='all',target_date=None,root=PATH_ROOT,workers=7,enrich_limit=10
             if queues[g] and len(chosen)<enrich_limit:
                 x=queues[g].pop(0)[1];host=urlparse(x['url']).hostname
                 if host_counts[host]<6:chosen.append(x);host_counts[host]+=1
+    # A serial batch per hostname stops repeated 403 requests while other hosts run concurrently.
+    per_host=defaultdict(list)
+    for x in chosen:per_host[urlparse(x['url']).hostname].append(x)
     with ThreadPoolExecutor(max_workers=4) as pool:
-        enriched=list(pool.map(enrich_item,chosen))
+        for batch in pool.map(lambda xs:[enrich_item(x) for x in xs],per_host.values()):enriched.extend(batch)
     for x in enriched:x['enrichment_attempted_at']=retrieved_at
     insert_items(db,enriched,retrieved_at)
     db.execute('INSERT OR REPLACE INTO runs VALUES (?,?,?,?,?,?,?,?)',(retrieved_at,scoped,sum(h['status']=='ok' for h in health),sum(h['status']=='empty' for h in health),sum(h['status'] in ('failed','partial') for h in health),sum(h['status'] in ('skipped','manual') for h in health),added,json.dumps(health,ensure_ascii=False)));db.commit()
@@ -669,9 +684,13 @@ def build(scoped='all',target_date=None,root=PATH_ROOT,workers=7,enrich_limit=10
         counts[group]=write_report(group,target_date,gr,stat,report)
         audit[group]=dict(Counter(x['triage'] for x in gr))
     # Keep raw candidate database, publish short audit instead of full page content.
-    state={'schema_version':2,'collector_version':'0.2.1','search_attempted':searched,'search_budget':search_budget,'search_deferred':sum(h.get('search_status','').startswith('deferred') for h in health),'pending_search_total':db.execute('SELECT count(*) FROM search_state WHERE pending=1').fetchone()[0],'google_retry_after_utc':datetime.fromtimestamp(NEWS_RETRY_EPOCH,UTC).isoformat() if NEWS_BLOCKED else None,'enrichment_errors':[{'url':x['url'],'error':x.get('enrichment_error','')} for x in enriched if x.get('enrichment')=='failed'],'generated_at_utc':retrieved_at,'target_date_jst':target_date,'scope':scoped,'catalog_sources':len(all_sources),'attempted_sources':len(selected),'status_counts':dict(Counter(x['status'] for x in health)),'new_unique_articles':added,'candidates_per_group':counts,'triage_counts':audit,'raw_target_rows':len(rows),'curated_rows':len(active),'enrichment_attempted':len(chosen),'enrichment_counts':dict(Counter(x.get('enrichment','unknown') for x in enriched+mapped)),'overall_status':'partial' if any(x['status'] in ('failed','partial','skipped','deferred') for x in health) or any(x['status']=='failed' for x in monitor_health) else 'sources_fetched_not_fact_checked','monitor_health':monitor_health,'source_health':sorted(health,key=lambda x:x['source_id'])}
+    state={'schema_version':2,'collector_version':'0.3','search_attempted':searched,'search_budget':search_budget,'search_deferred':sum(h.get('search_status','').startswith('deferred') for h in health),'pending_search_total':db.execute('SELECT count(*) FROM search_state WHERE pending=1').fetchone()[0],'google_retry_after_utc':datetime.fromtimestamp(NEWS_RETRY_EPOCH,UTC).isoformat() if NEWS_BLOCKED else None,'enrichment_errors':[{'url':x['url'],'error':x.get('enrichment_error','')} for x in enriched if x.get('enrichment')=='failed'],'generated_at_utc':retrieved_at,'target_date_jst':target_date,'scope':scoped,'catalog_sources':len(all_sources),'attempted_sources':len(selected),'status_counts':dict(Counter(x['status'] for x in health)),'new_unique_articles':added,'candidates_per_group':counts,'triage_counts':audit,'raw_target_rows':len(rows),'curated_rows':len(active),'enrichment_attempted':len(chosen),'enrichment_counts':dict(Counter(x.get('enrichment','unknown') for x in enriched+mapped)),'overall_status':'partial' if any(x['status'] in ('failed','partial','skipped','deferred') for x in health) or any(x['status']=='failed' for x in monitor_health) else 'sources_fetched_not_fact_checked','monitor_health':monitor_health,'source_health':sorted(health,key=lambda x:x['source_id'])}
+    cov=coverage(db,health,retrieved_at)
+    dump(report/'coverage.json',cov)
+    state['successful_route_24h']=cov['successful_route_24h']
+    state['recovery_counts']=publish(db,root/'data',target_date,retrieved_at,resolved,row_dict,organize,write_report,health)
     (report/'manifest.json').write_text(json.dumps(state,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    (report/'README.md').write_text('# 前日ニュース候補 '+target_date+' JST｜v0.2.1\n\n'+'\n'.join(f'- [{GROUP_TITLES[g]}]({g}.md)：{c}件' for g,c in counts.items())+'\n\n候補であり確認済みニュースではありません。manifest.jsonで収集状態を確認。\n',encoding='utf-8')
+    (report/'README.md').write_text('# 前日ニュース候補 '+target_date+' JST｜v0.3\n\n'+'\n'.join(f'- [{GROUP_TITLES[g]}]({g}.md)：{c}件' for g,c in counts.items())+'\n\n候補であり確認済みニュースではありません。manifest.jsonで収集状態を確認。\n',encoding='utf-8')
     db.close();print(json.dumps({k:v for k,v in state.items() if k!='source_health'},ensure_ascii=False,indent=2));return state
 
 

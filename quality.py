@@ -1,11 +1,11 @@
 """Conservative candidate triage: not a fact checker. Keep rejected rows in audit/DB."""
-import re, json, hashlib
+import re, json, hashlib, html
 from collections import defaultdict
 from urllib.parse import urlparse, urljoin
 from datetime import datetime
 from bs4 import BeautifulSoup
 
-AUDIO=r'\b(?:iem|iems|earbuds?|earphones?|headphones?|headset|airpods|galaxy buds|pixel buds|tws|anc|auracast|le audio|aptx|dac|dongle|headphone amp|btr\d+|heddphone)\b|イヤホン|ヘッドホン|ヘッドフォン|ノイキャン|ポータブルDAC|耳機|耳机|解码耳放'
+AUDIO=r'\b(?:iem|iems|earbuds?|earphones?|headphones?|headset|airpods|galaxy buds|pixel buds|tws|anc|auracast|le audio|aptx|dac|dongle|headphone amp|btr\d+|heddphone)\b|イヤホン|ヘッドホン|ヘッドフォン|完全ワイヤレス|ノイキャン|ポータブルDAC|耳機|耳机|解码耳放'
 PHONE=r'\b(?:smartphones?|foldables?|galaxy (?:s\d+|z fold|z flip)|iphone|mate x\d+|pixel \d+|oneplus \d+|coloros|one ui|android update)\b|スマートフォン|スマホ|折りたたみスマホ'
 AI=r'\b(?:chatgpt|openai|anthropic|claude|gemini|deepmind|notebooklm|grok|copilot|llm|ai agent|codex|artificial analysis|generative ai)\b|生成AI|人工知能'
 HAND=r'\b(?:handheld|retroid|anbernic|ayn|ayaneo|konkr|rocknix|gammaos|portareos|dslot|knulli|batocera|steam deck|legion go|rog ally|powkiddy|trimui|onexplayer|gpd win|mangmi|magicx)\b|携帯ゲーム機|ハンドヘルド'
@@ -13,12 +13,12 @@ RACING=r'\b(?:gran turismo|forza|iracing|assetto corsa|racing game|sim racing|si
 PERIPH=r'\b(?:fanatec|moza|simagic|simucube|thrustmaster|pedals?|wheelbase|force feedback|gamepad|controller|shifter|stream deck|capture card)\b|ハンコン|ペダル|コントローラー'
 PC=r'\b(?:gpu|cpu|geforce|radeon|ryzen|intel|nvidia|ssd|dram|nand|ddr[456]|hbm|oled|monitor|display|windows|bios|driver|pc|motherboard|chipset|processor|semiconductor|12vhpwr|12v-2x6|power supply|hwinfo)\b|半導体|モニター|メモリ|グラフィックス|マザーボード'
 SALE=r'black friday|cyber monday|\b(?:coupon|discount|deals?|save \$|\d+% off|\$\d+ off|\d+ off on amazon|hit a new low|drop[s]? to \$|lowest price|giveaway|price drop|sold:|like new)\b|ブラックフライデー|セール|クーポン|特価|中古'
-NEW=r'\b(?:launch\w*|releas\w*|announc\w*|unveil\w*|pre[- ]?order|shipping|available|firmware|updat\w*|review|introduc\w*|first impressions|new|fix\w*|improv\w*)\b|発表|発売|予約|更新|レビュー|出荷|新品|发布|预售|上市|Vorstellung|vorgestellt'
+NEW=r'\b(?:launch\w*|releas\w*|announc\w*|unveil\w*|pre[- ]?order|shipping|available|firmware|updat\w*|review|introduc\w*|first impressions|new|fix\w*|improv\w*)\b|発表|発売|予約|更新|レビュー|出荷|登場|新品|发布|预售|上市|Vorstellung|vorgestellt'
 NAV=r'^(?:[-–—\s]*[\w. ]{0,70})$'
 
 def has(pattern,text): return bool(re.search(pattern,text,re.I))
 def clean_title(x):
-    t=x.get('title','').strip(); pub=x.get('publisher','').strip()
+    t=html.unescape(x.get('title','')).strip(); pub=x.get('publisher','').strip()
     if pub and t.casefold().endswith((' - '+pub).casefold()):t=t[:-(len(pub)+3)]
     return t.strip()
 def title_key(x): return re.sub(r'[^\w]+',' ',clean_title(x).casefold()).strip()
@@ -33,9 +33,13 @@ def triage(x):
     if group=='audio' and has(r'\b(?:desktop|stationary|benchtop)\b.{0,40}\b(?:amp|dac|amplifier)\b|据え置き|\b(?:dap|digital audio player|ddc|digital audio interface)\b',text) and not has(r'portable|dongle|ポータブル',t):return out(group,topic,'exclude','据え置き/DAP/DDC候補')
     if group=='audio' and has(r'\b(?:sold|wanted):|auracast location profile|market blueprint|member login',t):return out(group,topic,'exclude','中古・施設一覧・一般資料')
     if group=='audio' and has(r'\b(?:smart tv|tv launcher|subwoofer|party speaker|desktop headphone amp)\b',t):return out(group,topic,'exclude','対象外機器')
+    # Retail navigation and evergreen support are not newly announced products.
+    if group=='audio' and x.get('timestamp_basis')=='google_news_index' and (has(r'beats accessories|all accessories|price: (?:low to high|high to low)|apple support$|user guide$|king james bible',t) or has(r' - (?:apple|apple support)$',x.get('title','')) and has(r'beats accessories|apple support|all accessories|user guide|king james bible',x.get('title',''))):return out(group,topic,'exclude','ストア一覧・既存サポート')
+    if group=='audio' and has(r'プリメイン|スピーカーケーブル|サウンドバー|ホームシアター|スタジオモニター|売れ筋ランキング|生ライブ|夢のお年玉箱|キャッシュバック|netflix|\bdazn\b|jlpga',t) and not has(r'\b(?:iem|earbuds?|headphones?)\b|イヤホン|ヘッドホン|ポータブルDAC',t):return out(group,topic,'exclude','対象外オーディオ・イベント・販促')
+    if group=='audio' and has(r'夢のお年玉箱|キャッシュバックキャンペーン',t):return out(group,topic,'exclude','通常販促')
     if group=='audio' and has(AUDIO,t):
         if has(r'\b(?:colorway|new color|product\s*\(red\)|\(red\) products)\b|色違い',text) and not has(r'firmware|driver technology|新機能',t):return out(group,topic,'exclude','色違い中心')
-        tp='bluetooth_dac' if has(r'\bbtr\d+|bluetooth.{0,35}\bdac|bluetooth receiver',text) else 'portable_dac' if has(r'\bdac\b|dongle|ポータブルDAC',t) else 'tws' if has(r'earbuds|airpods|buds|tws|auracast|le audio|aptx|wireless|bluetooth|ノイキャン',t) else 'wired'
+        tp='bluetooth_dac' if has(r'\bbtr\d+|bluetooth.{0,35}\bdac|bluetooth receiver',text) else 'portable_dac' if has(r'\bdac\b|dongle|ポータブルDAC',t) else 'tws' if has(r'earbuds|airpods|buds|tws|auracast|le audio|aptx|wireless|bluetooth|完全ワイヤレス|ノイキャン',t) else 'wired'
         return out('audio',tp,'priority' if has(NEW,text) else 'review','対象オーディオ候補')
     if group!='motorsport' and has(AUDIO,t) and not has(r'\b(?:ai model|chatgpt|claude|gpu driver)\b',t):return out('audio','tws' if has(r'buds|airpods|wireless|bluetooth|tws',t) else 'portable_dac' if has(r'\bdac\b|dongle',t) else 'wired','review','オーディオへ再分類')
     if group!='motorsport' and has(HAND,t) and not x.get('timestamp_basis','').startswith('github_'):return out('games_handhelds','handhelds','priority' if has(NEW,text) else 'review','ハンドヘルド候補')
@@ -100,7 +104,18 @@ def organize(rows):
         evidence_list=old['sources']+[evidence]
         if rank(x)>rank(old):by_url[key]=x;old=x
         old['sources']=evidence_list
-    active=list(by_url.values()); clusters=defaultdict(list)
+    scheme_keys={}; active=[]
+    for x in by_url.values():
+        u=urlparse(x['url']); key=(u.netloc,u.path,u.query,title_key(x))
+        if x.get('timestamp_basis')=='page_change_observed':key+=(x['id'],)
+        old=scheme_keys.get(key)
+        if old is None:scheme_keys[key]=x;active.append(x);continue
+        # Only HTTP/HTTPS variants of the same host/path/query AND title.
+        if old['url']!=x['url']:
+            combined=old['sources']+x['sources']
+            if u.scheme=='https':old.update(x)
+            old['sources']=combined
+    clusters=defaultdict(list)
     # Same normalized title: suggestions only; not proof of independent corroboration.
     for x in active:
         key=title_key(x)

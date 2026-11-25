@@ -1,4 +1,4 @@
-【外部収集基盤 v0.2.1：運用検証後に既存指示へ追記】
+【外部収集基盤 v0.3：運用検証後に既存指示へ追記】
 共通manifest: https://github.com/NAKKENth/daily-news-collector/blob/main/data/latest/manifest.json
 担当のJSONおよび分割Markdown索引はAUTOMATION_LINKS.mdに従う。
 1. manifestの対象JST日、生成UTC、取得状態を確認。古い／取得不能なら通常検索へ切替。失敗は0件扱いしない。
@@ -10,3 +10,6 @@
 7. ユーザー向けにはニュース本文だけを表示。重大な収集不足のみ簡潔に注記。
 
 manifestのsearch_deferred、pending_search_total、google_retry_after_utcを確認。延期・部分取得はニュースなしと判定せず、該当情報源を通常検索で補完。
+
+8. data/latest/coverage.json の直近24時間の取得実績を確認。取得延期を成功とみなさない。
+9. 担当の data/latest/{group}_recovery.json も確認。元のJST日付を保ち、新規に判明した重要な見逃しのみ別枠で補足。通常の対象日ニュース件数には加えない。回収ファイルは配信済み記録ではなく、過去配信が確認できない場合は重複の可能性を考慮する。

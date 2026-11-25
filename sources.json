@@ -213,7 +213,10 @@
       "domain": "formulapassion.it",
       "homepage": "https://formulapassion.it",
       "direct_discovery": true,
-      "locale": "it"
+      "locale": "it",
+      "feed_candidates": [
+        "https://www.formulapassion.it/feed"
+      ]
     },
     {
       "id": "motorsport-autosport-web",
@@ -296,7 +299,10 @@
       "domain": "rallyplus.net",
       "homepage": "https://rallyplus.net",
       "direct_discovery": true,
-      "locale": "ja"
+      "locale": "ja",
+      "feed_candidates": [
+        "https://www.rallyplus.net/feed"
+      ]
     },
     {
       "id": "motorsport-ewrc-results",
@@ -656,7 +662,10 @@
       "role": "specialist",
       "domain": "wccftech.com",
       "homepage": "https://wccftech.com",
-      "direct_discovery": true
+      "direct_discovery": true,
+      "feed_candidates": [
+        "https://wccftech.com/feed/"
+      ]
     },
     {
       "id": "pc_ai-hardware-busters",
@@ -668,7 +677,10 @@
       "role": "specialist",
       "domain": "hwbusters.com",
       "homepage": "https://hwbusters.com",
-      "direct_discovery": true
+      "direct_discovery": true,
+      "feed_candidates": [
+        "https://hwbusters.com/feed/"
+      ]
     },
     {
       "id": "pc_ai-storagereview",
@@ -680,7 +692,10 @@
       "role": "specialist",
       "domain": "storagereview.com",
       "homepage": "https://storagereview.com",
-      "direct_discovery": true
+      "direct_discovery": true,
+      "feed_candidates": [
+        "https://www.storagereview.com/feed"
+      ]
     },
     {
       "id": "pc_ai-rtings-monitor",
@@ -717,7 +732,10 @@
       "domain": "nichepcgamer.com",
       "homepage": "https://nichepcgamer.com",
       "direct_discovery": true,
-      "locale": "ja"
+      "locale": "ja",
+      "feed_candidates": [
+        "https://www.nichepcgamer.com/feed"
+      ]
     },
     {
       "id": "pc_ai-openai",
@@ -728,7 +746,14 @@
       "tier": "core",
       "role": "official",
       "domain": "openai.com",
-      "homepage": "https://openai.com"
+      "homepage": "https://openai.com",
+      "direct_discovery": true,
+      "feed_candidates": [
+        "https://openai.com/news/rss.xml"
+      ],
+      "listing_urls": [
+        "https://openai.com/news/"
+      ]
     },
     {
       "id": "pc_ai-openai-help",
@@ -764,8 +789,17 @@
           "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
           "selector": "article",
           "label": "ChatGPT/Codex usage limits"
+        },
+        {
+          "url": "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus",
+          "selector": "article, main, [role=\"main\"]",
+          "label": "ChatGPT Plus plan (代替監視)",
+          "required_terms": [
+            "Plus"
+          ]
         }
-      ]
+      ],
+      "query": "site:help.openai.com (ChatGPT OR Codex) (limits OR plan OR release OR pricing) when:4d"
     },
     {
       "id": "pc_ai-anthropic",
@@ -776,7 +810,10 @@
       "tier": "core",
       "role": "official",
       "domain": "anthropic.com",
-      "homepage": "https://anthropic.com"
+      "homepage": "https://anthropic.com",
+      "listing_urls": [
+        "https://www.anthropic.com/news"
+      ]
     },
     {
       "id": "pc_ai-claude-help",
@@ -821,6 +858,22 @@
             "limits"
           ]
         }
+      ],
+      "direct_discovery": true,
+      "feed_candidates": [
+        "https://blog.google/feed/"
+      ],
+      "listing_urls": [
+        "https://blog.google/innovation-and-ai/technology/ai/"
+      ],
+      "include_any": [
+        "gemini",
+        "deepmind",
+        "notebooklm",
+        "artificial intelligence",
+        " ai ",
+        "生成ai",
+        "aiモデル"
       ]
     },
     {
@@ -829,10 +882,17 @@
       "label": "Google DeepMind",
       "topic": "ai",
       "kind": "news",
-      "tier": "all",
+      "tier": "core",
       "role": "official",
       "domain": "deepmind.google",
-      "homepage": "https://deepmind.google"
+      "homepage": "https://deepmind.google",
+      "direct_discovery": true,
+      "feed_candidates": [
+        "https://deepmind.google/blog/rss.xml"
+      ],
+      "listing_urls": [
+        "https://deepmind.google/blog/"
+      ]
     },
     {
       "id": "pc_ai-artificial-analysis",
@@ -856,7 +916,10 @@
       "role": "specialist",
       "domain": "arstechnica.com",
       "homepage": "https://arstechnica.com",
-      "direct_discovery": true
+      "direct_discovery": true,
+      "feed_candidates": [
+        "https://feeds.arstechnica.com/arstechnica/index"
+      ]
     },
     {
       "id": "pc_ai-the-verge",
@@ -868,7 +931,10 @@
       "role": "specialist",
       "domain": "theverge.com",
       "homepage": "https://theverge.com",
-      "direct_discovery": true
+      "direct_discovery": true,
+      "feed_candidates": [
+        "https://www.theverge.com/rss/index.xml"
+      ]
     },
     {
       "id": "pc_ai-techcrunch",
@@ -880,7 +946,10 @@
       "role": "specialist",
       "domain": "techcrunch.com",
       "homepage": "https://techcrunch.com",
-      "direct_discovery": true
+      "direct_discovery": true,
+      "feed_candidates": [
+        "https://techcrunch.com/feed/"
+      ]
     },
     {
       "id": "pc_ai-reuters-ai",
@@ -1048,7 +1117,7 @@
       "domain": "retrohandhelds.gg",
       "homepage": "https://retrohandhelds.gg",
       "feed_url": "https://retrohandhelds.gg/feed/",
-      "search_supplement": true
+      "search_supplement": false
     },
     {
       "id": "games_handhelds-android-authority-handheld",
@@ -1114,7 +1183,10 @@
       "role": "specialist",
       "domain": "joeysretrohandhelds.com",
       "homepage": "https://joeysretrohandhelds.com",
-      "direct_discovery": true
+      "direct_discovery": true,
+      "feed_candidates": [
+        "https://joeysretrohandhelds.com/feed/"
+      ]
     },
     {
       "id": "games_handhelds-retroid",
@@ -1127,9 +1199,14 @@
       "domain": "goretroid.com",
       "homepage": "https://goretroid.com",
       "listing_urls": [
+        "https://www.goretroid.com/collections/all",
         "https://www.goretroid.com/"
       ],
-      "search_supplement": true
+      "search_supplement": true,
+      "direct_discovery": true,
+      "feed_candidates": [
+        "https://www.goretroid.com/blogs/news.atom"
+      ]
     },
     {
       "id": "games_handhelds-ayn",
@@ -1142,6 +1219,7 @@
       "domain": "ayn.hk",
       "homepage": "https://ayn.hk",
       "listing_urls": [
+        "https://www.ayn.hk/collections/all",
         "https://www.ayn.hk/"
       ],
       "search_supplement": true
@@ -1193,11 +1271,18 @@
       "label": "OneXPlayer",
       "topic": "handhelds",
       "kind": "news",
-      "tier": "all",
+      "tier": "core",
       "role": "specialist",
       "domain": "onexplayerstore.com",
       "homepage": "https://onexplayerstore.com",
-      "direct_discovery": true
+      "direct_discovery": true,
+      "feed_candidates": [
+        "https://onexplayerstore.com/blogs/news.atom"
+      ],
+      "listing_urls": [
+        "https://onexplayerstore.com/blogs/news",
+        "https://onexplayerstore.com/collections/all"
+      ]
     },
     {
       "id": "games_handhelds-powkiddy",
@@ -1327,7 +1412,10 @@
       "role": "official",
       "domain": "azurlane.jp",
       "homepage": "https://azurlane.jp",
-      "locale": "ja"
+      "locale": "ja",
+      "listing_urls": [
+        "https://azurlane.jp/"
+      ]
     },
     {
       "id": "games_handhelds-yostar-jp",
@@ -1885,11 +1973,14 @@
       "label": "Questyle",
       "topic": "portable_dac",
       "kind": "news",
-      "tier": "all",
+      "tier": "core",
       "role": "official",
       "domain": "questyle.com",
       "homepage": "https://questyle.com",
-      "direct_discovery": true
+      "direct_discovery": true,
+      "listing_urls": [
+        "https://www.questyle.com/"
+      ]
     },
     {
       "id": "audio-qudelix",
@@ -1901,7 +1992,13 @@
       "role": "official",
       "domain": "qudelix.com",
       "homepage": "https://qudelix.com",
-      "direct_discovery": true
+      "direct_discovery": true,
+      "feed_candidates": [
+        "https://www.qudelix.com/blogs/5k-dac-amp.atom"
+      ],
+      "listing_urls": [
+        "https://www.qudelix.com/"
+      ]
     },
     {
       "id": "audio-audio-science-review",
@@ -1982,7 +2079,20 @@
       "role": "official",
       "domain": "sony.com",
       "homepage": "https://sony.com",
-      "direct_discovery": true
+      "direct_discovery": true,
+      "feed_candidates": [
+        "https://www.sony.net/SonyInfo/News/Press/data/pressrelease_for_top.xml"
+      ],
+      "include_any": [
+        "earbuds",
+        "headphone",
+        "headset",
+        "earphone",
+        "イヤホン",
+        "ヘッドホン",
+        "le audio",
+        "auracast"
+      ]
     },
     {
       "id": "audio-apple-airpods",
@@ -1994,7 +2104,7 @@
       "role": "official",
       "domain": "apple.com",
       "homepage": "https://apple.com",
-      "query": "site:apple.com when:4d (AirPods OR Beats OR \"audio\")",
+      "query": "site:apple.com/newsroom (AirPods OR Beats OR earbuds OR headphones) when:4d",
       "direct_discovery": true,
       "feed_candidates": [
         "https://www.apple.com/newsroom/rss-feed.rss"
@@ -2002,7 +2112,7 @@
       "listing_urls": [
         "https://www.apple.com/newsroom/"
       ],
-      "search_supplement": true,
+      "search_supplement": false,
       "include_any": [
         "airpods",
         "beats",
@@ -2092,11 +2202,14 @@
       "label": "Nothing",
       "topic": "tws",
       "kind": "news",
-      "tier": "all",
+      "tier": "core",
       "role": "official",
       "domain": "nothing.tech",
       "homepage": "https://nothing.tech",
-      "direct_discovery": true
+      "direct_discovery": true,
+      "listing_urls": [
+        "https://nothing.tech/"
+      ]
     },
     {
       "id": "audio-oneplus-audio",
@@ -2108,7 +2221,10 @@
       "role": "official",
       "domain": "oneplus.com",
       "homepage": "https://oneplus.com",
-      "direct_discovery": true
+      "direct_discovery": true,
+      "feed_candidates": [
+        "https://www.oneplus.com/blog/rss.xml"
+      ]
     },
     {
       "id": "audio-earfun",
@@ -2132,12 +2248,15 @@
       "label": "AVIOT",
       "topic": "tws",
       "kind": "news",
-      "tier": "all",
+      "tier": "core",
       "role": "official",
       "domain": "aviot.jp",
       "homepage": "https://aviot.jp",
       "locale": "ja",
-      "direct_discovery": true
+      "direct_discovery": true,
+      "listing_urls": [
+        "https://aviot.jp/"
+      ]
     },
     {
       "id": "audio-bluetooth-sig",
