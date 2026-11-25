@@ -28,6 +28,7 @@ def triage(x):
     def out(g,tp,state,why):return dict(group=g,topic=tp,triage=state,triage_reason=why)
     if not t.strip(' -–—') or t.startswith('- ') or has(r'^(?:news|latest articles|member login|power rankings archives|oneplus community|about us|home|careers|over-ear headphone|wireless over-ear noise cancelling headphones)(?:\s*[-|].*)?$',t):return out(group,topic,'exclude','一覧・ナビゲーション候補')
     if has(r'/(?:author|category|tag|careers|login|account)/[^/]+/?$',p) and not x.get('timestamp_basis','').startswith('github_'):return out(group,topic,'exclude','一覧・プロフィール候補')
+    if has(r'\b(?:apply now|job opening|job vacancy|careers at|hiring now|senior .* engineer in|sr\. .* engineer in|engineer lead .* in|software development .* in)\b|採用情報|求人',t):return out(group,topic,'exclude','求人・採用ページ')
     if has(SALE,t) and not has(r'launch date|launches|pre[- ]?order|new product|発売日|予約開始',t):return out(group,topic,'exclude','通常セール・販促・中古')
     if group=='audio' and has(r'\b(?:desktop|stationary|benchtop)\b.{0,40}\b(?:amp|dac|amplifier)\b|据え置き|\b(?:dap|digital audio player|ddc|digital audio interface)\b',text) and not has(r'portable|dongle|ポータブル',t):return out(group,topic,'exclude','据え置き/DAP/DDC候補')
     if group=='audio' and has(r'\b(?:sold|wanted):|auracast location profile|market blueprint|member login',t):return out(group,topic,'exclude','中古・施設一覧・一般資料')
@@ -37,7 +38,7 @@ def triage(x):
         tp='bluetooth_dac' if has(r'\bbtr\d+|bluetooth.{0,35}\bdac|bluetooth receiver',text) else 'portable_dac' if has(r'\bdac\b|dongle|ポータブルDAC',t) else 'tws' if has(r'earbuds|airpods|buds|tws|auracast|le audio|aptx|wireless|bluetooth|ノイキャン',t) else 'wired'
         return out('audio',tp,'priority' if has(NEW,text) else 'review','対象オーディオ候補')
     if group!='motorsport' and has(AUDIO,t) and not has(r'\b(?:ai model|chatgpt|claude|gpu driver)\b',t):return out('audio','tws' if has(r'buds|airpods|wireless|bluetooth|tws',t) else 'portable_dac' if has(r'\bdac\b|dongle',t) else 'wired','review','オーディオへ再分類')
-    if group!='motorsport' and has(HAND,t):return out('games_handhelds','handhelds','priority' if has(NEW,text) else 'review','ハンドヘルド候補')
+    if group!='motorsport' and has(HAND,t) and not x.get('timestamp_basis','').startswith('github_'):return out('games_handhelds','handhelds','priority' if has(NEW,text) else 'review','ハンドヘルド候補')
     if group!='motorsport' and has(RACING,t):
         if has(r'\be[- ]?sports\b|world finals|daily races|rankings|rating',t) and not has(r'update|patch|physics|server shutdown',t):return out('games_handhelds','racing_games','exclude','競技・ランキング')
         return out('games_handhelds','peripherals' if has(PERIPH,t) else 'racing_games','priority' if has(NEW,text) else 'review','レースゲーム候補')
@@ -48,11 +49,11 @@ def triage(x):
         if has(r'motogp|world superbike|\bfootball\b|soccer|premier league|midfielder|\bnfl\b|\bnba\b',t):return out(group,topic,'exclude','対象外競技')
         if has(r'sim racing|simracing|esports|e-sports',t):return out(group,topic,'exclude','競技ゲーム')
         for pattern,tp in [(r'\bwrc\b|rally1|rally2|world rally|ラリー','WRC'),(r'\bwec\b|hypercar|le mans|ハイパーカー','WEC'),(r'super formula|スーパーフォーミュラ','Super Formula'),(r'super gt|スーパーgt','Super GT'),(r'indycar|indy 500|インディカー','IndyCar'),(r'nascar','NASCAR'),(r'dakar|ダカール','Dakar'),(r'\bf1\b|formula 1|ferrari|hamilton|verstappen|grand prix|角田|ラスベガスgp','F1')]:
-            if has(pattern,t):return out(group,tp,'priority','競技名・関連語一致')
+            if has(pattern,t):return out(group,tp,'priority' if has(r'withdraw|exit|signs?|contract|transfer|join|leaves?|retire|regulation|rule change|launch|announce|confirmed|technical|upgrade|engine|crash|penalty|wins?|champion|results?|撤退|契約|移籍|発表|規則|優勝|結果|開発',text) else 'review','競技名一致・新規性の確認')
         return out(group,topic,'review','競技・記事内容の確認待ち')
     if group=='games_handhelds' and x.get('timestamp_basis','').startswith('github_'):
         if has(r'update kernel configs/device documentation|fix build|update qt|remove git_shallow|canary_experimental',t):return out(group,topic,'review','開発ビルド・軽微変更の内容確認')
-        return out(group,topic,'priority' if has(r'fix|improve|release|charging|azahar|proton|vulkan|save',text) else 'review','GitHub開発情報')
+        return out(group,topic,'priority' if x.get('timestamp_basis')=='github_release_published' and not has(r'nightly|canary_experimental',t) or has(r'fix|improve|release|charging|azahar|proton|vulkan|save',text) else 'review','GitHub開発情報')
     if group=='games_handhelds' and has(r'azur lane|アズールレーン',text):return out(group,'azur_lane','priority','ゲーム本編確認')
     if group=='games_handhelds' and has(r' - Steam$',t) and not has(NEW,text):return out(group,topic,'exclude','ストアの既存商品候補')
     if group=='pc_ai' and has(PC,t):return out(group,'pc','priority' if has(NEW,text) else 'review','PC技術候補')
@@ -105,6 +106,20 @@ def organize(rows):
         key=title_key(x)
         if len(key)>=25 and x['triage']!='exclude':clusters[(x['group'],x['topic'],key)].append(x)
     for k,items in clusters.items():
+        if len(items)>1:
+            cid=hashlib.sha256(str(k).encode()).hexdigest()[:12]
+            for x in items:x['possible_event_id']=cid
+    # Conservative explicit product + milestone groups; only hints, keep all independent evidence.
+    product_patterns=[r'\bheddphone\s+dx\b',r'\bnothing.{0,24}\bear\s*\(?note\)?',r'\bclaude\s+ship\b',r'\b(?:earfun\s+)?air\s+pro\s+5\b',r'\bfiio\s+btr\s*25\b']
+    events=defaultdict(list)
+    for x in active:
+        if x['triage']=='exclude':continue
+        t=clean_title(x).casefold()
+        stage='review' if has(r'review|first impressions|測定|レビュー',t) else 'shipping' if has(r'shipping|出荷',t) else 'preorder' if has(r'pre[- ]?order|予約',t) else 'sale' if has(r'on sale|now available|販売開始|発売開始',t) else 'announcement' if has(r'announc|unveil|introduc|upcoming|launch date|発表|公開',t) else None
+        if not stage:continue
+        for n,pat in enumerate(product_patterns):
+            if has(pat,t):events[(x['group'],n,stage)].append(x)
+    for k,items in events.items():
         if len(items)>1:
             cid=hashlib.sha256(str(k).encode()).hexdigest()[:12]
             for x in items:x['possible_event_id']=cid

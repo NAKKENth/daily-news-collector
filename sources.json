@@ -747,9 +747,13 @@
           "label": "ChatGPT Release Notes"
         },
         {
-          "url": "https://openai.com/chatgpt/pricing/",
-          "selector": "main",
-          "label": "ChatGPT plan/pricing"
+          "url": "https://chatgpt.com/pricing/",
+          "selector": "main, [role=\"main\"], article, #main",
+          "label": "ChatGPT plan/pricing",
+          "required_terms": [
+            "Plus",
+            "Pro"
+          ]
         },
         {
           "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
@@ -810,8 +814,12 @@
       "monitor_pages": [
         {
           "url": "https://support.google.com/gemini/answer/16275805?hl=en",
-          "selector": "main",
-          "label": "Gemini Apps limits & feature availability"
+          "selector": "article, .article-container, .article-content, main, [role=\"main\"]",
+          "label": "Gemini Apps limits & feature availability",
+          "required_terms": [
+            "Gemini",
+            "limits"
+          ]
         }
       ]
     },
@@ -1039,7 +1047,8 @@
       "role": "specialist",
       "domain": "retrohandhelds.gg",
       "homepage": "https://retrohandhelds.gg",
-      "feed_url": "https://retrohandhelds.gg/feed/"
+      "feed_url": "https://retrohandhelds.gg/feed/",
+      "search_supplement": true
     },
     {
       "id": "games_handhelds-android-authority-handheld",
@@ -1690,7 +1699,8 @@
       "tier": "all",
       "role": "official",
       "domain": "canjamglobal.com",
-      "homepage": "https://canjamglobal.com"
+      "homepage": "https://canjamglobal.com",
+      "direct_discovery": true
     },
     {
       "id": "audio-linsoul",
@@ -1762,9 +1772,13 @@
       "homepage": "https://musicteck.com",
       "direct_discovery": true,
       "listing_urls": [
+        "https://shop.musicteck.com/collections/new-arrivals",
         "https://musicteck.com/"
       ],
-      "search_supplement": true
+      "search_supplement": true,
+      "feed_candidates": [
+        "https://shop.musicteck.com/blogs/news.atom"
+      ]
     },
     {
       "id": "audio-xmems",
@@ -1775,7 +1789,11 @@
       "tier": "all",
       "role": "official",
       "domain": "xmems.com",
-      "homepage": "https://xmems.com"
+      "homepage": "https://xmems.com",
+      "direct_discovery": true,
+      "feed_candidates": [
+        "https://xmems.com/feed/"
+      ]
     },
     {
       "id": "audio-dunu",
@@ -1788,9 +1806,12 @@
       "domain": "dunu-topsound.com",
       "homepage": "https://dunu-topsound.com",
       "listing_urls": [
+        "https://www.dunu-topsound.com/category/new-arrivals",
+        "https://www.dunu-topsound.com/category/all-products",
         "https://www.dunu-topsound.com/"
       ],
-      "search_supplement": true
+      "search_supplement": true,
+      "direct_discovery": true
     },
     {
       "id": "audio-moondrop",
@@ -1805,7 +1826,8 @@
       "listing_urls": [
         "https://moondroplab.com/"
       ],
-      "search_supplement": true
+      "search_supplement": true,
+      "direct_discovery": true
     },
     {
       "id": "audio-fiio",
@@ -1818,9 +1840,11 @@
       "domain": "fiio.com",
       "homepage": "https://fiio.com",
       "listing_urls": [
+        "https://www.fiio.com/fiionews",
         "https://www.fiio.com/"
       ],
-      "search_supplement": true
+      "search_supplement": true,
+      "direct_discovery": true
     },
     {
       "id": "audio-ibasso",
@@ -1835,7 +1859,8 @@
       "listing_urls": [
         "https://ibasso.com/"
       ],
-      "search_supplement": true
+      "search_supplement": true,
+      "direct_discovery": true
     },
     {
       "id": "audio-shanling",
@@ -1848,9 +1873,11 @@
       "domain": "en.shanling.com",
       "homepage": "https://en.shanling.com",
       "listing_urls": [
+        "https://en.shanling.com/news",
         "https://en.shanling.com/"
       ],
-      "search_supplement": true
+      "search_supplement": true,
+      "direct_discovery": true
     },
     {
       "id": "audio-questyle",
@@ -1861,7 +1888,8 @@
       "tier": "all",
       "role": "official",
       "domain": "questyle.com",
-      "homepage": "https://questyle.com"
+      "homepage": "https://questyle.com",
+      "direct_discovery": true
     },
     {
       "id": "audio-qudelix",
@@ -1872,7 +1900,8 @@
       "tier": "core",
       "role": "official",
       "domain": "qudelix.com",
-      "homepage": "https://qudelix.com"
+      "homepage": "https://qudelix.com",
+      "direct_discovery": true
     },
     {
       "id": "audio-audio-science-review",
@@ -1896,7 +1925,10 @@
       "role": "specialist",
       "domain": "l7audiolab.com",
       "homepage": "https://l7audiolab.com",
-      "direct_discovery": true
+      "direct_discovery": true,
+      "feed_candidates": [
+        "https://www.l7audiolab.com/feed/"
+      ]
     },
     {
       "id": "audio-soundguys",
@@ -1949,7 +1981,8 @@
       "tier": "core",
       "role": "official",
       "domain": "sony.com",
-      "homepage": "https://sony.com"
+      "homepage": "https://sony.com",
+      "direct_discovery": true
     },
     {
       "id": "audio-apple-airpods",
@@ -1957,11 +1990,27 @@
       "label": "Apple AirPods",
       "topic": "tws",
       "kind": "news",
-      "tier": "all",
+      "tier": "core",
       "role": "official",
       "domain": "apple.com",
       "homepage": "https://apple.com",
-      "query": "site:apple.com when:4d (AirPods OR Beats OR \"audio\")"
+      "query": "site:apple.com when:4d (AirPods OR Beats OR \"audio\")",
+      "direct_discovery": true,
+      "feed_candidates": [
+        "https://www.apple.com/newsroom/rss-feed.rss"
+      ],
+      "listing_urls": [
+        "https://www.apple.com/newsroom/"
+      ],
+      "search_supplement": true,
+      "include_any": [
+        "airpods",
+        "beats",
+        "headphone",
+        "earbud",
+        "hearing",
+        "le audio"
+      ]
     },
     {
       "id": "audio-samsung-audio",
@@ -1969,10 +2018,25 @@
       "label": "Samsung Audio",
       "topic": "tws",
       "kind": "news",
-      "tier": "all",
+      "tier": "core",
       "role": "official",
       "domain": "samsung.com",
-      "homepage": "https://samsung.com"
+      "homepage": "https://samsung.com",
+      "direct_discovery": true,
+      "feed_candidates": [
+        "https://news.samsung.com/global/category/press-resources/press-release/feed"
+      ],
+      "listing_urls": [
+        "https://news.samsung.com/global/"
+      ],
+      "search_supplement": true,
+      "include_any": [
+        "galaxy buds",
+        "earbud",
+        "headphone",
+        "le audio",
+        "auracast"
+      ]
     },
     {
       "id": "audio-bose",
@@ -1983,7 +2047,8 @@
       "tier": "all",
       "role": "official",
       "domain": "bose.com",
-      "homepage": "https://bose.com"
+      "homepage": "https://bose.com",
+      "direct_discovery": true
     },
     {
       "id": "audio-sennheiser",
@@ -1994,7 +2059,8 @@
       "tier": "all",
       "role": "official",
       "domain": "sennheiser-hearing.com",
-      "homepage": "https://sennheiser-hearing.com"
+      "homepage": "https://sennheiser-hearing.com",
+      "direct_discovery": true
     },
     {
       "id": "audio-technics",
@@ -2005,7 +2071,8 @@
       "tier": "all",
       "role": "official",
       "domain": "technics.com",
-      "homepage": "https://technics.com"
+      "homepage": "https://technics.com",
+      "direct_discovery": true
     },
     {
       "id": "audio-jbl",
@@ -2016,7 +2083,8 @@
       "tier": "all",
       "role": "official",
       "domain": "jbl.com",
-      "homepage": "https://jbl.com"
+      "homepage": "https://jbl.com",
+      "direct_discovery": true
     },
     {
       "id": "audio-nothing",
@@ -2027,7 +2095,8 @@
       "tier": "all",
       "role": "official",
       "domain": "nothing.tech",
-      "homepage": "https://nothing.tech"
+      "homepage": "https://nothing.tech",
+      "direct_discovery": true
     },
     {
       "id": "audio-oneplus-audio",
@@ -2038,7 +2107,8 @@
       "tier": "all",
       "role": "official",
       "domain": "oneplus.com",
-      "homepage": "https://oneplus.com"
+      "homepage": "https://oneplus.com",
+      "direct_discovery": true
     },
     {
       "id": "audio-earfun",
@@ -2046,10 +2116,15 @@
       "label": "EarFun",
       "topic": "tws",
       "kind": "news",
-      "tier": "all",
+      "tier": "core",
       "role": "official",
       "domain": "myearfun.com",
-      "homepage": "https://myearfun.com"
+      "homepage": "https://myearfun.com",
+      "listing_urls": [
+        "https://www.myearfun.com/eu/press-release"
+      ],
+      "search_supplement": true,
+      "direct_discovery": true
     },
     {
       "id": "audio-aviot",
@@ -2061,7 +2136,8 @@
       "role": "official",
       "domain": "aviot.jp",
       "homepage": "https://aviot.jp",
-      "locale": "ja"
+      "locale": "ja",
+      "direct_discovery": true
     },
     {
       "id": "audio-bluetooth-sig",
@@ -2072,7 +2148,11 @@
       "tier": "all",
       "role": "official",
       "domain": "bluetooth.com",
-      "homepage": "https://bluetooth.com"
+      "homepage": "https://bluetooth.com",
+      "direct_discovery": true,
+      "feed_candidates": [
+        "https://www.bluetooth.com/feed/"
+      ]
     },
     {
       "id": "audio-qualcomm-audio",
@@ -2083,7 +2163,8 @@
       "tier": "core",
       "role": "official",
       "domain": "qualcomm.com",
-      "homepage": "https://qualcomm.com"
+      "homepage": "https://qualcomm.com",
+      "direct_discovery": true
     },
     {
       "id": "audio-the-walkman-blog",
@@ -2110,7 +2191,17 @@
       "role": "leak_sensor",
       "domain": "sammobile.com",
       "homepage": "https://sammobile.com",
-      "direct_discovery": true
+      "direct_discovery": true,
+      "feed_candidates": [
+        "https://www.sammobile.com/feed/"
+      ],
+      "include_any": [
+        "galaxy buds",
+        "earbud",
+        "headphone",
+        "le audio",
+        "auracast"
+      ]
     },
     {
       "id": "audio-macrumors",

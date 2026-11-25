@@ -32,15 +32,16 @@ from bs4 import BeautifulSoup
 
 JST = ZoneInfo('Asia/Tokyo')
 UTC = timezone.utc
-USER_AGENT = 'DailyNewsCandidateCollector/2.0 (public-source research, contact: repository owner)'
+USER_AGENT = 'DailyNewsCandidateCollector/2.0.1 (public-source research, contact: repository owner)'
 MAX_PER_SOURCE = 100
 MAX_PAGES = 3
 NEWS_LOCK = threading.Lock()
 NEWS_LAST = 0.0
 NEWS_PAUSE_UNTIL = 0.0
-NEWS_INTERVAL = 1.2
+NEWS_INTERVAL = 2.0
 NEWS_BLOCKED = False
 NEWS_429_COUNT = 0
+NEWS_RETRY_EPOCH = 0.0
 MAX_AGE_DAYS = 5
 PATH_ROOT = Path(__file__).resolve().parent
 TOPIC_WORDS = {
@@ -207,7 +208,7 @@ def safe_public_url(url):
 
 
 def fetch(url, *, token=None, accept='*/*', is_news=False):
-    global NEWS_LAST, NEWS_PAUSE_UNTIL, NEWS_BLOCKED, NEWS_429_COUNT
+    global NEWS_LAST, NEWS_PAUSE_UNTIL, NEWS_BLOCKED, NEWS_429_COUNT, NEWS_RETRY_EPOCH
     last=None
     for i in range(3):
         try:
@@ -219,16 +220,18 @@ def fetch(url, *, token=None, accept='*/*', is_news=False):
                     headers.update(Authorization='Bearer '+token, **{'X-GitHub-Api-Version':'2022-11-28'})
                 if urlparse(u).hostname=='news.google.com':
                     with NEWS_LOCK:
-                        if NEWS_BLOCKED:raise ValueError('Google News circuit open after repeated 429; retry next scheduled run')
-                        time.sleep(max(0,NEWS_LAST+NEWS_INTERVAL-time.monotonic(),NEWS_PAUSE_UNTIL-time.monotonic()))
-                        NEWS_LAST=time.monotonic()
+                        if NEWS_BLOCKED:raise ValueError('Google News deferred: rate limit/cooldown')
+                        time.sleep(max(0,NEWS_LAST+NEWS_INTERVAL-time.monotonic()))
                         resp=requests.get(u,headers=headers,timeout=(6,15),allow_redirects=False,stream=True)
+                        NEWS_LAST=time.monotonic()
                         if resp.status_code==429:
-                            try: delay=float(resp.headers.get('Retry-After','8'))
-                            except ValueError:delay=8
-                            NEWS_429_COUNT+=1
-                            if delay>60 or NEWS_429_COUNT>=3:NEWS_BLOCKED=True
-                            NEWS_PAUSE_UNTIL=time.monotonic()+max(8,delay)
+                            retry=resp.headers.get('Retry-After','')
+                            try: delay=float(retry)
+                            except ValueError:
+                                try: delay=parsedate_to_datetime(retry).timestamp()-time.time()
+                                except (ValueError,TypeError,OverflowError):delay=1800
+                            NEWS_429_COUNT+=1; NEWS_BLOCKED=True
+                            NEWS_RETRY_EPOCH=time.time()+max(1800,delay)
                         elif resp.ok:NEWS_429_COUNT=0
                 else:
                     resp=requests.get(u,headers=headers,timeout=(6,15),allow_redirects=False,stream=True)
@@ -246,7 +249,7 @@ def fetch(url, *, token=None, accept='*/*', is_news=False):
         except (requests.RequestException,ValueError,OSError) as e:
             last=str(e)[:250]
             status=getattr(getattr(e,'response',None),'status_code',None)
-            if status in (401,403,404,410) or isinstance(e,ValueError):break
+            if status in (401,403,404,410,429) or isinstance(e,ValueError):break
             if i<2:time.sleep(2**i*2)
     raise RuntimeError(last or 'request failed')
 
@@ -256,10 +259,14 @@ def request_data(url, *, token=None, is_json=False):
     return json.loads(raw) if is_json else raw
 
 
+def validate_feed(raw):
+    if ET.fromstring(raw).tag.rsplit('}',1)[-1].lower() not in ('rss','rdf','feed'):raise ValueError('not a feed')
+
 def discover_feed(s):
     # Try explicitly configured feed, then HTML-declared RSS/Atom (not guessed URLs).
     for candidate in s.get('feed_candidates',[]):
-        try:return request_data(candidate),candidate
+        try:
+            raw=request_data(candidate); validate_feed(raw); return raw,candidate
         except Exception:pass
     home=s.get('homepage')
     if not home:raise RuntimeError('no homepage')
@@ -268,24 +275,32 @@ def discover_feed(s):
     links=[urljoin(final,x['href']) for x in soup.find_all('link',href=True) if x.get('type') in ('application/rss+xml','application/atom+xml','application/rdf+xml')]
     for candidate in list(dict.fromkeys(links))[:2]:
         try:
-            data=request_data(candidate); ET.fromstring(data); return data,candidate
+            data=request_data(candidate); validate_feed(data); return data,candidate
         except Exception:pass
     raise RuntimeError('no usable declared feed')
 
 
 def direct_listing(s,retrieved_at):
-    # Only explicitly configured public listing URLs; keep unknown dates unknown.
-    out=[]
+    out=[];errors=[]
     for endpoint in s.get('listing_urls',[]):
-        raw,final=fetch(endpoint,accept='text/html')
-        soup=BeautifulSoup(raw,'html.parser')
-        for a in soup.select('article a[href], main h2 a[href], main h3 a[href], a[href*="/blogs/"], a[href*="/products/"]'):
-            u=canonical_url(urljoin(final,a.get('href','')));title=simplify_html(a.get_text(' ',strip=True),250)
-            if not title or len(title)<8 or not u or urlparse(u).hostname!=urlparse(final).hostname or u==canonical_url(final):continue
-            if '/blogs/' in u and len(urlparse(u).path.strip('/').split('/'))<3:continue
-            out.append(dict(id=stable_id(u,s['group']),group=s['group'],topic=s['topic'],source_id=s['id'],source=s['label'],source_role=s['role'],title=title,url=u,publisher=s['label'],description='',published_utc=None,date_jst=None,timestamp_basis='listing_seen',link_role='listing_candidate',first_seen_utc=retrieved_at))
-    if not out:raise RuntimeError('listing selector found no candidate links')
-    return list({x['url']:x for x in out}.values())[:MAX_PER_SOURCE]
+        try:
+            raw,final=fetch(endpoint,accept='text/html');soup=BeautifulSoup(raw,'html.parser');found={}
+            host=lambda u:(urlparse(u).hostname or '').removeprefix('www.')
+            for a in soup.select('a[href]'):
+                if a.find_parent(['nav','footer','header']):continue
+                u=canonical_url(urljoin(final,a.get('href','')));path=urlparse(u).path
+                if not u or host(u)!=host(final) or u==canonical_url(final):continue
+                if not (re.search(r'/(?:products?|product-page|blogs/[^/]+|news|article|post|press|press-release|detail|pages|archives)/[^/]+',path,re.I) or re.search(r'/newsinfo/\d+\.html|/\d{4}/\d{2}/|/news/[^/]+|/newsinfo/[^/]+',path,re.I) or a.find_parent('article')):continue
+                title=simplify_html(a.get_text(' ',strip=True) or a.get('title') or a.get('aria-label') or (a.find('img') or {}).get('alt',''),250)
+                if s.get('include_any') and not any(w.casefold() in (title+' '+path).casefold() for w in s['include_any']):continue
+                if len(title)<5 or re.fullmatch(r'learn more|read more|view details|shop now|more|详情',title,re.I):continue
+                found[u]=dict(id=stable_id(u,s['group']),group=s['group'],topic=s['topic'],source_id=s['id'],source=s['label'],source_role=s['role'],title=title,url=u,publisher=s['label'],description='',published_utc=None,date_jst=None,timestamp_basis='listing_seen',link_role='listing_candidate',first_seen_utc=retrieved_at,listing_endpoint=endpoint)
+            if not found:raise ValueError('listing selector found no candidate links')
+            if len(found)>500:raise ValueError('listing over 500 links; narrow selector')
+            out.extend(found.values())
+        except Exception as e:errors.append(endpoint+': '+str(e)[:120])
+    if not out:raise RuntimeError('; '.join(errors) or 'no listing')
+    return out,errors
 
 
 def source_endpoint(s):
@@ -303,7 +318,7 @@ def source_endpoint(s):
     return None
 
 
-def collect_one(s,retrieved_at, token):
+def collect_one(s,retrieved_at, token, defer_search=False):
     url=source_endpoint(s)
     base={'source_id':s['id'],'group':s['group']}
     if not url:return [],dict(base,status='manual',items=0)
@@ -331,10 +346,12 @@ def collect_one(s,retrieved_at, token):
                 add(parse_rss(raw,dict(s,kind='rss'),retrieved_at),'rss_discovered')
             except Exception as e:errors.append('direct RSS: '+str(e)[:140])
         if s.get('listing_urls'):
-            try:add(direct_listing(s,retrieved_at),'listing')
+            try:
+                listed,listing_errors=direct_listing(s,retrieved_at);add(listed,'listing');errors.extend('listing: '+e for e in listing_errors)
             except Exception as e:errors.append('listing: '+str(e)[:140])
         # Search is a fallback, or an explicitly requested supplement for product sources.
-        if not methods or not items or s.get('search_supplement'):
+        needs_search=not methods or (not items and not any(m in ('rss','rss_discovered') for m in methods)) or s.get('search_supplement')
+        if needs_search and not defer_search:
             try:
                 fallback=dict(s,kind='news'); add(parse_rss(request_data(source_endpoint(fallback)),fallback,retrieved_at),'news')
             except Exception as e:errors.append('search: '+str(e)[:160])
@@ -343,10 +360,11 @@ def collect_one(s,retrieved_at, token):
     # Preserve richer direct observations over duplicate URLs.
     dedup={}
     for x in items:
-        if x['url'] not in dedup or dedup[x['url']]['link_role']=='discovery_link':dedup[x['url']]=x
+        key=(x['url'],x.get('listing_endpoint',''))
+        if key not in dedup or dedup[key]['link_role']=='discovery_link':dedup[key]=x
     items=list(dedup.values())
     status=('failed' if not methods else ('partial' if errors else ('ok' if items else 'empty')))
-    return items,dict(base,status=status,items=len(items),method='+'.join(dict.fromkeys(methods)) or s['kind'],errors=errors,error='; '.join(errors)[:500],hit_cap=len(items)>=MAX_PER_SOURCE)
+    return items,dict(base,status=status,items=len(items),method='+'.join(dict.fromkeys(methods)) or s['kind'],errors=errors,error='; '.join(errors)[:500],hit_cap=len(items)>=MAX_PER_SOURCE,search_needed=bool(not s['kind'].startswith('github_') and needs_search),direct_methods=methods)
 
 
 def enrich_item(x):
@@ -391,6 +409,9 @@ def connect_db(path):
         successes INTEGER, empties INTEGER, failures INTEGER, skipped INTEGER, new_items INTEGER, status_json TEXT)''')
     con.execute('CREATE TABLE IF NOT EXISTS listing_seen(source_id TEXT,url TEXT,first_seen_utc TEXT,PRIMARY KEY(source_id,url))')
     con.execute('CREATE TABLE IF NOT EXISTS listing_baselines(source_id TEXT PRIMARY KEY,observed_utc TEXT)')
+    con.execute('CREATE TABLE IF NOT EXISTS discovery_aliases(discovery_url TEXT PRIMARY KEY,article_url TEXT,matched_utc TEXT)')
+    con.execute('CREATE TABLE IF NOT EXISTS search_state(source_id TEXT PRIMARY KEY,last_attempt REAL,last_success REAL,pending INTEGER)')
+    con.execute('CREATE TABLE IF NOT EXISTS collector_state(key TEXT PRIMARY KEY,value TEXT)')
     con.execute('CREATE TABLE IF NOT EXISTS page_snapshots(url TEXT PRIMARY KEY, digest TEXT, observed_utc TEXT)')
     con.commit()
     return con
@@ -410,6 +431,7 @@ def insert_items(con,items,retrieved_at):
             try:oldmeta=json.loads(oldmeta or '{}')
             except ValueError:oldmeta={}
             if 'enrichment' not in meta and oldmeta.get('enrichment'):meta={**oldmeta,**meta}
+            if oldmeta.get('discovery_url') and not meta.get('discovery_url'):meta['discovery_url']=oldmeta['discovery_url']
             rank={'article_published':4,'github_release_published':4,'github_pr_merged':4,'source_feed_published':3,'source_feed_updated':2,'google_news_index':1,'listing_seen':0}
             if rank.get(i['timestamp_basis'],0)>=rank.get(old,0):
                 con.execute('UPDATE articles SET title=?,description=?,published_utc=?,date_jst=?,timestamp_basis=?,link_role=?,metadata=?,last_seen_utc=? WHERE id=?',(i['title'],i['description'],i['published_utc'],i['date_jst'],i['timestamp_basis'],i['link_role'],json.dumps(meta,ensure_ascii=False),retrieved_at,i['id']))
@@ -450,14 +472,14 @@ def write_report(group,date,rows,health,out_dir):
     date_rows=[x for x in active if x.get('date_jst')==date]
     unknown=[x for x in active if not x.get('date_jst')]
     def short(x):
-        keys=('id','topic','title','url','source','publisher','description','published_utc','date_jst','timestamp_basis','link_role','date_quality','triage','triage_reason','possible_event_id','sources','discovery_url','article_published_raw','article_modified_raw','enrichment','prerelease')
+        keys=('id','topic','title','url','source','publisher','description','published_utc','date_jst','timestamp_basis','link_role','date_quality','triage','triage_reason','possible_event_id','sources','discovery_url','article_published_raw','article_modified_raw','enrichment','enrichment_error','prerelease')
         return {k:x[k] for k in keys if k in x}
     payload={'schema_version':2,'date_jst':date,'group':group,'title':GROUP_TITLES[group],'status':'candidate_collection_only','items':[short(x) for x in date_rows],'date_unknown':[short(x) for x in unknown],'health':health}
     (out_dir/f'{group}.json').write_text(json.dumps(payload,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     # All candidates available. Compact per-topic shards avoid context truncation; no silent cap.
     grouped=defaultdict(list)
     for x in date_rows+unknown:grouped[x['topic']].append(x)
-    lines=[f'# {GROUP_TITLES[group]}｜{date} JST 候補（v0.2）','候補のみ。記事の日時・出来事・重要度は要検証。検索索引時刻・更新時刻・観測時刻は正式発表時刻ではない。',f'日付付き候補 {len(date_rows)}件／日時不明 {len(unknown)}件。全文はJSON・下記の分割ファイル。','']
+    lines=[f'# {GROUP_TITLES[group]}｜{date} JST 候補（v0.2.1）','候補のみ。記事の日時・出来事・重要度は要検証。検索索引時刻・更新時刻・観測時刻は正式発表時刻ではない。',f'日付付き候補 {len(date_rows)}件／日時不明 {len(unknown)}件。全文はJSON・下記の分割ファイル。','']
     for topic,rs in sorted(grouped.items()):
         safe=re.sub(r'[^A-Za-z0-9_-]','_',topic)
         rs.sort(key=lambda x:(x.get('triage')!='priority',x.get('date_jst')!=date,x.get('link_role')=='discovery_link',x.get('title','')))
@@ -476,17 +498,18 @@ def write_report(group,date,rows,health,out_dir):
 def process_listings(db, results, health, retrieved_at):
     by_source=defaultdict(list); out=[]
     for x in results:
-        if x['timestamp_basis']=='listing_seen':by_source[x['source_id']].append(x)
+        if x['timestamp_basis']=='listing_seen':by_source[(x['source_id'],x.get('listing_endpoint',''))].append(x)
         else:out.append(x)
-    for sid,rs in by_source.items():
-        baseline=db.execute('SELECT 1 FROM listing_baselines WHERE source_id=?',(sid,)).fetchone()
+    for (sid,endpoint),rs in by_source.items():
+        key=sid+'|'+endpoint if endpoint else sid
+        baseline=db.execute('SELECT 1 FROM listing_baselines WHERE source_id=?',(key,)).fetchone()
         for x in rs:
-            exists=db.execute('SELECT 1 FROM listing_seen WHERE source_id=? AND url=?',(sid,x['url'])).fetchone()
-            db.execute('INSERT OR IGNORE INTO listing_seen VALUES(?,?,?)',(sid,x['url'],retrieved_at))
+            exists=db.execute('SELECT 1 FROM listing_seen WHERE source_id=? AND url=?',(key,x['url'])).fetchone()
+            db.execute('INSERT OR IGNORE INTO listing_seen VALUES(?,?,?)',(key,x['url'],retrieved_at))
             if baseline and not exists:
                 x['description']='公式・販売店の一覧で新たに観測したリンク。発表・発売日は未確定。'
                 out.append(x)
-        db.execute('INSERT OR IGNORE INTO listing_baselines VALUES(?,?)',(sid,retrieved_at))
+        db.execute('INSERT OR IGNORE INTO listing_baselines VALUES(?,?)',(key,retrieved_at))
         for h in health:
             if h['source_id']==sid:h['listing_baseline_created']=not bool(baseline)
     db.commit();return out
@@ -498,7 +521,11 @@ def snapshot_pages(db, selected, retrieved_at):
         for m in source.get('monitor_pages',[]):
             status={'source_id':source['id'],'url':m['url']}
             try:
-                raw,final=fetch(m['url'],accept='text/html');soup=BeautifulSoup(raw,'html.parser');node=soup.select_one(m['selector'])
+                raw,final=fetch(m['url'],accept='text/html');soup=BeautifulSoup(raw,'html.parser');node=None
+                for selector in m['selector'].split(','):
+                    candidate=soup.select_one(selector.strip())
+                    if candidate and len(candidate.get_text(' ',strip=True))>=100 and (not m.get('required_terms') or all(term.casefold() in candidate.get_text(' ',strip=True).casefold() for term in m['required_terms'])):
+                        node=candidate;break
                 if not node:raise ValueError('monitor selector not found')
                 for n in node.select('script,style,nav,footer,header,button'):n.decompose()
                 text=re.sub(r'\s+',' ',node.get_text(' ',strip=True)).strip()
@@ -513,18 +540,66 @@ def snapshot_pages(db, selected, retrieved_at):
     db.commit();return out,health
 
 
-def build(scoped='all',target_date=None,root=PATH_ROOT,workers=7,enrich_limit=100):
+def fair_order(sources, search_states=None, rotation=0):
+    states=search_states or {}; queues=defaultdict(list)
+    for s in sources:queues[s['group']].append(s)
+    for q in queues.values():
+        q.sort(key=lambda s:(not states.get(s['id'],(0,0,1))[2],states.get(s['id'],(0,0,1))[0],s.get('tier')!='core',s['id']))
+    order=GROUP_ORDER[rotation%4:]+GROUP_ORDER[:rotation%4];out=[]
+    while any(queues.values()):
+        for g in order:
+            if queues[g]:out.append(queues[g].pop(0))
+    return out
+
+
+def search_pass(db,selected,health,results,retrieved_at,budget,rotation):
+    global NEWS_BLOCKED, NEWS_RETRY_EPOCH
+    states={r[0]:r[1:] for r in db.execute('SELECT source_id,last_attempt,last_success,pending FROM search_state')}
+    hm={h['source_id']:h for h in health};pending=[s for s in selected if hm[s['id']].get('search_needed')]
+    for s in selected:
+        if not hm[s['id']].get('search_needed'):
+            db.execute('UPDATE search_state SET pending=0 WHERE source_id=?',(s['id'],))
+    attempted=0
+    for s in fair_order(pending,states,rotation):
+        sid=s['id'];h=hm[sid];last,success,_=states.get(sid,(0,0,1));t=time.time()
+        if NEWS_BLOCKED or attempted>=budget:
+            h['search_status']='deferred_rate_limit' if NEWS_BLOCKED else 'deferred_budget'
+            h['status']='partial' if h['direct_methods'] else 'deferred'
+            db.execute('INSERT OR REPLACE INTO search_state VALUES (?,?,?,?)',(sid,last,success,1));continue
+        attempted+=1;last=t
+        try:
+            fallback=dict(s,kind='news');xs=parse_rss(request_data(source_endpoint(fallback)),fallback,retrieved_at)
+            cutoff=datetime.fromisoformat(retrieved_at)-timedelta(days=MAX_AGE_DAYS)
+            xs=[x for x in xs if not x['published_utc'] or datetime.fromisoformat(x['published_utc'])>=cutoff]
+            results.extend(xs);h['items']+=len(xs);h['hit_cap']=h['hit_cap'] or len(xs)>=500;h['method']='+'.join(h['direct_methods']+['news']);h['search_status']='ok' if xs else 'empty';h['status']='partial' if h['errors'] else ('ok' if h['items'] else 'empty');success=t
+            db.execute('INSERT OR REPLACE INTO search_state VALUES (?,?,?,0)',(sid,last,success))
+        except Exception as e:
+            h['search_status']='failed';h['errors'].append('search: '+str(e)[:160]);h['error']='; '.join(h['errors'])[:500];h['status']='partial' if h['direct_methods'] else 'failed'
+            db.execute('INSERT OR REPLACE INTO search_state VALUES (?,?,?,1)',(sid,last,success))
+    db.execute('INSERT OR REPLACE INTO collector_state VALUES (?,?)',('news_retry_epoch',str(NEWS_RETRY_EPOCH)))
+    db.commit();return attempted
+
+
+def build(scoped='all',target_date=None,root=PATH_ROOT,workers=7,enrich_limit=100,search_budget=48):
+    global NEWS_BLOCKED, NEWS_RETRY_EPOCH, NEWS_LAST, NEWS_429_COUNT
     cfg=json.loads((root/'sources.json').read_text(encoding='utf-8'));all_sources=cfg['sources']
     if target_date is None:target_date=(datetime.now(JST).date()-timedelta(days=1)).isoformat()
     datetime.fromisoformat(target_date);retrieved_at=now_utc().isoformat(timespec='seconds');token=os.environ.get('GITHUB_TOKEN','')
     db=connect_db(root/'data'/'news.sqlite')
+    saved=db.execute("SELECT value FROM collector_state WHERE key='news_retry_epoch'").fetchone()
+    NEWS_RETRY_EPOCH=float(saved[0]) if saved else 0;NEWS_BLOCKED=time.time()<NEWS_RETRY_EPOCH;NEWS_LAST=0;NEWS_429_COUNT=0
+    rotation=db.execute('SELECT count(*) FROM runs').fetchone()[0]%4
     previous=db.execute('SELECT status_json FROM runs ORDER BY run_time_utc DESC LIMIT 1').fetchone()
     prior=json.loads(previous[0]) if previous else []
-    retry_ids={x['source_id'] for x in prior if x['status'] in ('failed','partial') or x.get('previous_status') in ('failed','partial')}
+    retry_ids={x['source_id'] for x in prior if x['status'] in ('failed','partial','deferred') or x.get('previous_status') in ('failed','partial','deferred')}
+    retry_ids.update(r[0] for r in db.execute('SELECT source_id FROM search_state WHERE pending=1'))
     selected=[s for s in all_sources if s['kind']!='manual' and (scoped=='all' or (scoped=='core' and s['tier']=='core') or s['id'] in retry_ids)]
+    # Bootstrap v0.2 failures as pending before the first new run.
+    for sid in retry_ids:db.execute('INSERT OR IGNORE INTO search_state VALUES (?,?,?,?)',(sid,0,0,1))
+    db.commit()
     results=[];health=[]
     with ThreadPoolExecutor(max_workers=max(1,min(workers,8))) as pool:
-        for f in as_completed([pool.submit(collect_one,s,retrieved_at,token) for s in selected]):
+        for f in as_completed([pool.submit(collect_one,s,retrieved_at,token,True) for s in fair_order(selected,rotation=rotation)]):
             items,h=f.result();results.extend(items);health.append(h)
     for s in all_sources:
         if s['id'] not in {x['id'] for x in selected}:health.append({'source_id':s['id'],'group':s['group'],'status':'manual' if s['kind']=='manual' else 'skipped','items':0})
@@ -532,6 +607,7 @@ def build(scoped='all',target_date=None,root=PATH_ROOT,workers=7,enrich_limit=10
     prior_map={x['source_id']:x for x in prior}
     for h in health:
         if h['status']=='skipped' and h['source_id'] in prior_map:h['previous_status']=prior_map[h['source_id']].get('previous_status',prior_map[h['source_id']]['status'])
+    searched=search_pass(db,selected,health,results,retrieved_at,search_budget,rotation)
     results=process_listings(db,results,health,retrieved_at)
     monitored,monitor_health=snapshot_pages(db,selected,retrieved_at)
     results.extend(monitored)
@@ -539,35 +615,48 @@ def build(scoped='all',target_date=None,root=PATH_ROOT,workers=7,enrich_limit=10
     # Enrich target-day and unknown candidates with fair per-group round-robin. Persist raw observations first.
     db.row_factory=sqlite3.Row
     candidates=[row_dict(x) for x in db.execute('SELECT * FROM articles WHERE date_jst=? OR (date_jst IS NULL AND first_seen_utc>=?)',(target_date,(datetime.fromisoformat(target_date)-timedelta(days=2)).date().isoformat()))]
+    # Match exact title to a direct observation on the configured publisher domain. Look
+    # across adjacent days to correct index timestamps. Never fabricate an article URL.
     by_title=defaultdict(list)
-    for x in candidates:
-        if x['link_role']!='discovery_link':by_title[title_key(x)].append(x)
-    # Exact same title + same publisher: link to existing direct observation, never guess URL.
-    mapped=[]
+    for r in db.execute("SELECT * FROM articles WHERE date_jst BETWEEN ? AND ? AND link_role='source_article'",((datetime.fromisoformat(target_date)-timedelta(days=2)).date().isoformat(),(datetime.fromisoformat(target_date)+timedelta(days=2)).date().isoformat())):
+        y=row_dict(r);by_title[title_key(y)].append(y)
+    domains={s['id']:s.get('domain','').lower().removeprefix('www.') for s in all_sources}
+    mapped=[];alias_urls=set()
     for x in candidates:
         if x['link_role']!='discovery_link':continue
-        matches=[y for y in by_title.get(title_key(x),[]) if y.get('publisher','').casefold()==x.get('publisher','').casefold() and len(title_key(x))>=20]
+        domain=domains.get(x.get('source_id'),'');key=title_key(x)
+        def matches_site(y):
+            host=(urlparse(y['url']).hostname or '').lower().removeprefix('www.')
+            return bool(domain and (host==domain or host.endswith('.'+domain))) or y.get('publisher','').casefold()==x.get('publisher','').casefold()
+        matches=[y for y in by_title.get(key,[]) if len(key)>=20 and matches_site(y)]
         if len({y['url'] for y in matches})==1:
-            y=matches[0];z=dict(x,url=y['url'],id=stable_id(y['url'],x['group']),published_utc=y['published_utc'],date_jst=y['date_jst'],timestamp_basis=y['timestamp_basis'],link_role=y['link_role'],discovery_url=x['url'],enrichment='feed_title_match');mapped.append(z)
+            y=max(matches,key=lambda z:(z['timestamp_basis']=='article_published',len(z.get('description',''))))
+            db.execute('INSERT OR REPLACE INTO discovery_aliases VALUES (?,?,?)',(x['url'],y['url'],retrieved_at));alias_urls.add(x['url'])
+            z=dict(y,discovery_url=x['url'],enrichment='feed_title_match');mapped.append(z)
+    db.commit()
     # Preserve original discovery URLs; exact matches are suppressed only in curated view.
-    enriched=[];queues=defaultdict(list);already={x['discovery_url'] for x in mapped}
+    enriched=[];queues=defaultdict(list);already=alias_urls
     for x in candidates:
         t=triage(x)
         if t['triage']=='exclude' or (x['timestamp_basis'].startswith('github_') or x['timestamp_basis']=='page_change_observed') or x['url'] in already or x.get('enrichment') in ('article_metadata','url_only','feed_title_match','unresolved_discovery'):continue
-        if x['link_role']=='source_article' and x['timestamp_basis']=='source_feed_published':continue
+        if x['link_role']=='discovery_link':continue  # do not spend discovery quota trying opaque Google links
         queues[t['group']].append((t['triage']!='priority',x))
-    for q in queues.values():q.sort(key=lambda z:(z[0],z[1].get('enrichment')=='failed',z[1].get('url','')))
-    chosen=[]
+    for q in queues.values():q.sort(key=lambda z:(z[1].get('enrichment_attempted_at',''),z[0],z[1].get('url','')))
+    chosen=[];host_counts=Counter()
     while len(chosen)<enrich_limit and any(queues.values()):
-        for g in GROUP_ORDER:
-            if queues[g] and len(chosen)<enrich_limit:chosen.append(queues[g].pop(0)[1])
+        for g in GROUP_ORDER[rotation:]+GROUP_ORDER[:rotation]:
+            if queues[g] and len(chosen)<enrich_limit:
+                x=queues[g].pop(0)[1];host=urlparse(x['url']).hostname
+                if host_counts[host]<6:chosen.append(x);host_counts[host]+=1
     with ThreadPoolExecutor(max_workers=4) as pool:
         enriched=list(pool.map(enrich_item,chosen))
-    insert_items(db,mapped+enriched,retrieved_at)
+    for x in enriched:x['enrichment_attempted_at']=retrieved_at
+    insert_items(db,enriched,retrieved_at)
     db.execute('INSERT OR REPLACE INTO runs VALUES (?,?,?,?,?,?,?,?)',(retrieved_at,scoped,sum(h['status']=='ok' for h in health),sum(h['status']=='empty' for h in health),sum(h['status'] in ('failed','partial') for h in health),sum(h['status'] in ('skipped','manual') for h in health),added,json.dumps(health,ensure_ascii=False)));db.commit()
     rows=[row_dict(x) for x in db.execute('SELECT * FROM articles WHERE date_jst=? OR (date_jst IS NULL AND first_seen_utc>=?)',(target_date,(datetime.fromisoformat(target_date)-timedelta(days=2)).date().isoformat()))]
     # If verified metadata moved a candidate to another day, suppress its stale discovery copy too.
     resolved={row_dict(x).get('discovery_url') for x in db.execute("SELECT * FROM articles WHERE last_seen_utc>=?",((datetime.fromisoformat(target_date)-timedelta(days=5)).date().isoformat(),)) if row_dict(x).get('enrichment') in ('article_metadata','url_only','feed_title_match')}
+    resolved.update(r[0] for r in db.execute('SELECT discovery_url FROM discovery_aliases'))
     active,raw=organize([x for x in rows if x['url'] not in resolved])
     report=root/'data'/'latest';report.mkdir(parents=True,exist_ok=True)
     for stale in report.glob('*.md'):
@@ -580,9 +669,9 @@ def build(scoped='all',target_date=None,root=PATH_ROOT,workers=7,enrich_limit=10
         counts[group]=write_report(group,target_date,gr,stat,report)
         audit[group]=dict(Counter(x['triage'] for x in gr))
     # Keep raw candidate database, publish short audit instead of full page content.
-    state={'schema_version':2,'generated_at_utc':retrieved_at,'target_date_jst':target_date,'scope':scoped,'catalog_sources':len(all_sources),'attempted_sources':len(selected),'status_counts':dict(Counter(x['status'] for x in health)),'new_unique_articles':added,'candidates_per_group':counts,'triage_counts':audit,'raw_target_rows':len(rows),'curated_rows':len(active),'enrichment_attempted':len(chosen),'enrichment_counts':dict(Counter(x.get('enrichment','unknown') for x in enriched+mapped)),'overall_status':'partial' if any(x['status'] in ('failed','partial','skipped') for x in health) or any(x['status']=='failed' for x in monitor_health) else 'sources_fetched_not_fact_checked','monitor_health':monitor_health,'source_health':sorted(health,key=lambda x:x['source_id'])}
+    state={'schema_version':2,'collector_version':'0.2.1','search_attempted':searched,'search_budget':search_budget,'search_deferred':sum(h.get('search_status','').startswith('deferred') for h in health),'pending_search_total':db.execute('SELECT count(*) FROM search_state WHERE pending=1').fetchone()[0],'google_retry_after_utc':datetime.fromtimestamp(NEWS_RETRY_EPOCH,UTC).isoformat() if NEWS_BLOCKED else None,'enrichment_errors':[{'url':x['url'],'error':x.get('enrichment_error','')} for x in enriched if x.get('enrichment')=='failed'],'generated_at_utc':retrieved_at,'target_date_jst':target_date,'scope':scoped,'catalog_sources':len(all_sources),'attempted_sources':len(selected),'status_counts':dict(Counter(x['status'] for x in health)),'new_unique_articles':added,'candidates_per_group':counts,'triage_counts':audit,'raw_target_rows':len(rows),'curated_rows':len(active),'enrichment_attempted':len(chosen),'enrichment_counts':dict(Counter(x.get('enrichment','unknown') for x in enriched+mapped)),'overall_status':'partial' if any(x['status'] in ('failed','partial','skipped','deferred') for x in health) or any(x['status']=='failed' for x in monitor_health) else 'sources_fetched_not_fact_checked','monitor_health':monitor_health,'source_health':sorted(health,key=lambda x:x['source_id'])}
     (report/'manifest.json').write_text(json.dumps(state,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    (report/'README.md').write_text('# 前日ニュース候補 '+target_date+' JST｜v0.2\n\n'+'\n'.join(f'- [{GROUP_TITLES[g]}]({g}.md)：{c}件' for g,c in counts.items())+'\n\n候補であり確認済みニュースではありません。manifest.jsonで収集状態を確認。\n',encoding='utf-8')
+    (report/'README.md').write_text('# 前日ニュース候補 '+target_date+' JST｜v0.2.1\n\n'+'\n'.join(f'- [{GROUP_TITLES[g]}]({g}.md)：{c}件' for g,c in counts.items())+'\n\n候補であり確認済みニュースではありません。manifest.jsonで収集状態を確認。\n',encoding='utf-8')
     db.close();print(json.dumps({k:v for k,v in state.items() if k!='source_health'},ensure_ascii=False,indent=2));return state
 
 
@@ -592,7 +681,8 @@ def main():
     p.add_argument('--date',help='Target JST day YYYY-MM-DD (default: yesterday JST)')
     p.add_argument('--workers',type=int,default=7)
     p.add_argument('--enrich-limit',type=int,default=80,help='Max candidate article fetches per run')
+    p.add_argument('--search-budget',type=int,default=48,help='Max Google News requests per run; deferred sources retained')
     args=p.parse_args()
-    build(args.scope,args.date,PATH_ROOT,args.workers,args.enrich_limit)
+    build(args.scope,args.date,PATH_ROOT,args.workers,args.enrich_limit,max(0,min(80,args.search_budget)))
 
 if __name__=='__main__':main()
