@@ -1,31 +1,10 @@
-【既存4タスクへの追加指示：ニュース候補収集基盤との連携】
-
-この文章は、外部収集基盤をGitHubの公開リポジトリに配置してデータ生成を確認した後、現在の4タスクの指示書冒頭に追加する。
-現在の担当分担・配信時間・S/A/B/C・JST日付ルール・海外発表・除外条件は維持する。
-
-■ 4タスク共通の参照先
-https://github.com/{{OWNER}}/{{REPOSITORY}}/blob/main/data/latest/manifest.json
-
-■ 各タスクの専用参照先（該当する1つのみ）
-① モータースポーツ
-https://github.com/{{OWNER}}/{{REPOSITORY}}/blob/main/data/latest/motorsport.md
-② PC・AI・スマホ
-https://github.com/{{OWNER}}/{{REPOSITORY}}/blob/main/data/latest/pc_ai.md
-③ ゲーム・ハンドヘルド
-https://github.com/{{OWNER}}/{{REPOSITORY}}/blob/main/data/latest/games_handhelds.md
-④ オーディオ
-https://github.com/{{OWNER}}/{{REPOSITORY}}/blob/main/data/latest/audio.md
-
-■ 各タスクへの本文
-最初に上記の共通manifest.jsonと自分の担当分野のMarkdown候補一覧を参照する。
-manifest.jsonのtarget_date_jstが対象の前日と一致しているかを確認する。
-収集時刻が古い、閲覧不能、取得失敗が多い場合は「資料が不完全」と認識して従来のWeb検索を追加し、ゼロ件と誤認しない。
-候補にある「RSS記事日時」「Google News配信日時」と、実際の公式発表・イベント発生日を混同しない。
-Google News候補は個別原典へのリンクと発表日時を確認してから採用する。
-同じ原典からの転載を複数独立ソース扱いしない。
-公式確定・報道・リーク・開発中を区別する。
-候補に載らない公式発表（特に公式SNS、予約/販売、Help Centerサイレント更新）は従来どおり能動的に探す。
-調査量を確保し、S/Aは詳細、独立した有用なBも簡潔に掲載する。出典のない内容、見たことのないURL、日付を創作しない。
-収集索引のエラーメッセージは通常のニュース本文に混ぜず、配信自体が調査できない場合だけ短い注意書きにする。
-
-※ {{OWNER}}/{{REPOSITORY}} のURLが確定するまでは既存4タスクを変更しない。
+【外部収集基盤 v0.2：運用検証後に既存指示へ追記】
+共通manifest: https://github.com/NAKKENth/daily-news-collector/blob/main/data/latest/manifest.json
+担当のJSONおよび分割Markdown索引はAUTOMATION_LINKS.mdに従う。
+1. manifestの対象JST日、生成UTC、取得状態を確認。古い／取得不能なら通常検索へ切替。失敗は0件扱いしない。
+2. 担当分野の全候補を分割索引またはJSONで確認。priorityを先に、reviewも重要候補を拾う。候補の日付と実際の発表日を混同しない。
+3. 元記事の個別URL・公開日時・内容を確認。Google Newsの発見用URL、Atomの更新日時、一覧の観測時刻は正式発表時刻ではない。
+4. 同一URL/同一原典の転載は統合。possible_event_idは関連候補であって独立情報源の証明ではない。
+5. 従来の4本の担当範囲、S/A/B基準、海外発表・予約・販売を別段階として扱うルールを維持。
+6. 取得失敗・手動対象・候補が少ない分野をWeb検索で補完。外部候補のみに制限しない。
+7. ユーザー向けにはニュース本文だけを表示。重大な収集不足のみ簡潔に注記。

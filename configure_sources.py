@@ -213,6 +213,8 @@ if len(ids)!=len(set(ids)):
     raise ValueError('Duplicate IDs '+str([k for k,v in Counter(ids).items() if v>1]))
 
 Path('sources.json').write_text(json.dumps({'schema_version':1,'sources':sources},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+from catalog_upgrade import upgrade
+Path('sources.json').write_text(json.dumps(upgrade({'schema_version':1,'sources':sources}),ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print('Catalog:',len(sources),'sources; automation candidates',sum(s['kind']!='manual' for s in sources),'manual',sum(s['kind']=='manual' for s in sources))
 for g in ('motorsport','pc_ai','games_handhelds','audio'):
     sg=[s for s in sources if s['group']==g]

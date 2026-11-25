@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "sources": [
     {
       "id": "motorsport-autosport-f1",
@@ -76,22 +76,25 @@
       "group": "motorsport",
       "label": "Motorsport EN F1",
       "topic": "F1",
-      "kind": "news",
+      "kind": "rss",
       "tier": "core",
       "role": "specialist",
       "domain": "motorsport.com",
-      "homepage": "https://motorsport.com"
+      "homepage": "https://motorsport.com",
+      "feed_url": "https://www.motorsport.com/rss/f1/news/"
     },
     {
       "id": "motorsport-motorsport-jp",
       "group": "motorsport",
       "label": "Motorsport JP",
       "topic": "F1",
-      "kind": "news",
+      "kind": "rss",
       "tier": "all",
       "role": "specialist",
       "domain": "jp.motorsport.com",
-      "homepage": "https://jp.motorsport.com"
+      "homepage": "https://jp.motorsport.com",
+      "feed_url": "https://jp.motorsport.com/rss/all/news/",
+      "locale": "ja"
     },
     {
       "id": "motorsport-amus",
@@ -102,7 +105,9 @@
       "tier": "core",
       "role": "specialist",
       "domain": "auto-motor-und-sport.de",
-      "homepage": "https://auto-motor-und-sport.de"
+      "homepage": "https://auto-motor-und-sport.de",
+      "direct_discovery": true,
+      "locale": "de"
     },
     {
       "id": "motorsport-autoracer",
@@ -113,7 +118,12 @@
       "tier": "core",
       "role": "specialist",
       "domain": "autoracer.it",
-      "homepage": "https://autoracer.it"
+      "homepage": "https://autoracer.it",
+      "feed_candidates": [
+        "https://autoracer.it/feed/"
+      ],
+      "direct_discovery": true,
+      "locale": "it"
     },
     {
       "id": "motorsport-racefans",
@@ -124,7 +134,11 @@
       "tier": "core",
       "role": "specialist",
       "domain": "racefans.net",
-      "homepage": "https://racefans.net"
+      "homepage": "https://racefans.net",
+      "feed_candidates": [
+        "https://www.racefans.net/feed/"
+      ],
+      "direct_discovery": true
     },
     {
       "id": "motorsport-sky-sports-f1",
@@ -135,7 +149,9 @@
       "tier": "all",
       "role": "specialist",
       "domain": "skysports.com",
-      "homepage": "https://skysports.com"
+      "homepage": "https://skysports.com",
+      "direct_discovery": true,
+      "query": "site:skysports.com/f1 when:4d"
     },
     {
       "id": "motorsport-gpblog",
@@ -146,7 +162,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "gpblog.com",
-      "homepage": "https://gpblog.com"
+      "homepage": "https://gpblog.com",
+      "direct_discovery": true
     },
     {
       "id": "motorsport-racingnews365",
@@ -157,7 +174,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "racingnews365.com",
-      "homepage": "https://racingnews365.com"
+      "homepage": "https://racingnews365.com",
+      "direct_discovery": true
     },
     {
       "id": "motorsport-planetf1",
@@ -168,7 +186,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "planetf1.com",
-      "homepage": "https://planetf1.com"
+      "homepage": "https://planetf1.com",
+      "direct_discovery": true
     },
     {
       "id": "motorsport-f1technical",
@@ -179,7 +198,9 @@
       "tier": "all",
       "role": "specialist",
       "domain": "f1technical.net",
-      "homepage": "https://f1technical.net"
+      "homepage": "https://f1technical.net",
+      "direct_discovery": true,
+      "query": "site:f1technical.net when:4d (F1 OR Formula 1)"
     },
     {
       "id": "motorsport-formulapassion",
@@ -190,7 +211,9 @@
       "tier": "all",
       "role": "specialist",
       "domain": "formulapassion.it",
-      "homepage": "https://formulapassion.it"
+      "homepage": "https://formulapassion.it",
+      "direct_discovery": true,
+      "locale": "it"
     },
     {
       "id": "motorsport-autosport-web",
@@ -201,7 +224,9 @@
       "tier": "all",
       "role": "specialist",
       "domain": "as-web.jp",
-      "homepage": "https://as-web.jp"
+      "homepage": "https://as-web.jp",
+      "direct_discovery": true,
+      "locale": "ja"
     },
     {
       "id": "motorsport-wrc-official",
@@ -223,7 +248,12 @@
       "tier": "core",
       "role": "specialist",
       "domain": "rallit.fi",
-      "homepage": "https://rallit.fi"
+      "homepage": "https://rallit.fi",
+      "feed_candidates": [
+        "https://www.rallit.fi/feed/"
+      ],
+      "direct_discovery": true,
+      "locale": "fi"
     },
     {
       "id": "motorsport-rallyjournal",
@@ -234,7 +264,11 @@
       "tier": "core",
       "role": "specialist",
       "domain": "rallyjournal.com",
-      "homepage": "https://rallyjournal.com"
+      "homepage": "https://rallyjournal.com",
+      "feed_candidates": [
+        "https://rallyjournal.com/feed/"
+      ],
+      "direct_discovery": true
     },
     {
       "id": "motorsport-wrcwings",
@@ -245,7 +279,11 @@
       "tier": "core",
       "role": "specialist",
       "domain": "wrcwings.tech",
-      "homepage": "https://wrcwings.tech"
+      "homepage": "https://wrcwings.tech",
+      "feed_candidates": [
+        "https://www.wrcwings.tech/feed/"
+      ],
+      "direct_discovery": true
     },
     {
       "id": "motorsport-rally-plus",
@@ -256,7 +294,9 @@
       "tier": "all",
       "role": "specialist",
       "domain": "rallyplus.net",
-      "homepage": "https://rallyplus.net"
+      "homepage": "https://rallyplus.net",
+      "direct_discovery": true,
+      "locale": "ja"
     },
     {
       "id": "motorsport-ewrc-results",
@@ -267,7 +307,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "ewrc-results.com",
-      "homepage": "https://ewrc-results.com"
+      "homepage": "https://ewrc-results.com",
+      "direct_discovery": true
     },
     {
       "id": "motorsport-fia-wec",
@@ -278,7 +319,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "fiawec.com",
-      "homepage": "https://fiawec.com"
+      "homepage": "https://fiawec.com",
+      "direct_discovery": true
     },
     {
       "id": "motorsport-sportscar365",
@@ -289,7 +331,11 @@
       "tier": "core",
       "role": "specialist",
       "domain": "sportscar365.com",
-      "homepage": "https://sportscar365.com"
+      "homepage": "https://sportscar365.com",
+      "feed_candidates": [
+        "https://sportscar365.com/feed/"
+      ],
+      "direct_discovery": true
     },
     {
       "id": "motorsport-dailysportscar",
@@ -300,7 +346,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "dailysportscar.com",
-      "homepage": "https://dailysportscar.com"
+      "homepage": "https://dailysportscar.com",
+      "direct_discovery": true
     },
     {
       "id": "motorsport-super-gt-official",
@@ -311,7 +358,8 @@
       "tier": "core",
       "role": "official",
       "domain": "supergt.net",
-      "homepage": "https://supergt.net"
+      "homepage": "https://supergt.net",
+      "locale": "ja"
     },
     {
       "id": "motorsport-super-formula-official",
@@ -322,7 +370,8 @@
       "tier": "core",
       "role": "official",
       "domain": "superformula.net",
-      "homepage": "https://superformula.net"
+      "homepage": "https://superformula.net",
+      "locale": "ja"
     },
     {
       "id": "motorsport-indycar-official",
@@ -344,7 +393,8 @@
       "tier": "core",
       "role": "specialist",
       "domain": "racer.com",
-      "homepage": "https://racer.com"
+      "homepage": "https://racer.com",
+      "direct_discovery": true
     },
     {
       "id": "motorsport-nascar-official",
@@ -472,11 +522,12 @@
       "group": "pc_ai",
       "label": "TechPowerUp",
       "topic": "pc",
-      "kind": "news",
+      "kind": "rss",
       "tier": "core",
       "role": "specialist",
       "domain": "techpowerup.com",
-      "homepage": "https://techpowerup.com"
+      "homepage": "https://techpowerup.com",
+      "feed_url": "https://www.techpowerup.com/rss/news"
     },
     {
       "id": "pc_ai-tom’s-hardware",
@@ -519,11 +570,13 @@
       "group": "pc_ai",
       "label": "AKIBA PC Hotline",
       "topic": "pc",
-      "kind": "news",
+      "kind": "rss",
       "tier": "all",
       "role": "specialist",
       "domain": "akiba-pc.watch.impress.co.jp",
-      "homepage": "https://akiba-pc.watch.impress.co.jp"
+      "homepage": "https://akiba-pc.watch.impress.co.jp",
+      "feed_url": "https://akiba-pc.watch.impress.co.jp/data/rss/1.0/ah/feed.rdf",
+      "locale": "ja"
     },
     {
       "id": "pc_ai-trendforce",
@@ -534,7 +587,8 @@
       "tier": "core",
       "role": "specialist",
       "domain": "trendforce.com",
-      "homepage": "https://trendforce.com"
+      "homepage": "https://trendforce.com",
+      "direct_discovery": true
     },
     {
       "id": "pc_ai-igor’slab",
@@ -545,7 +599,12 @@
       "tier": "core",
       "role": "specialist",
       "domain": "igorslab.de",
-      "homepage": "https://igorslab.de"
+      "homepage": "https://igorslab.de",
+      "feed_candidates": [
+        "https://www.igorslab.de/en/feed/"
+      ],
+      "direct_discovery": true,
+      "locale": "de"
     },
     {
       "id": "pc_ai-tftcentral",
@@ -556,18 +615,23 @@
       "tier": "core",
       "role": "specialist",
       "domain": "tftcentral.co.uk",
-      "homepage": "https://tftcentral.co.uk"
+      "homepage": "https://tftcentral.co.uk",
+      "feed_candidates": [
+        "https://tftcentral.co.uk/feed"
+      ],
+      "direct_discovery": true
     },
     {
       "id": "pc_ai-videocardz",
       "group": "pc_ai",
       "label": "VideoCardz",
       "topic": "pc",
-      "kind": "news",
+      "kind": "rss",
       "tier": "core",
       "role": "specialist",
       "domain": "videocardz.com",
-      "homepage": "https://videocardz.com"
+      "homepage": "https://videocardz.com",
+      "feed_url": "https://feeds.feedburner.com/VideoCardzcom"
     },
     {
       "id": "pc_ai-benchlife",
@@ -578,7 +642,9 @@
       "tier": "all",
       "role": "specialist",
       "domain": "benchlife.info",
-      "homepage": "https://benchlife.info"
+      "homepage": "https://benchlife.info",
+      "direct_discovery": true,
+      "locale": "zh-TW"
     },
     {
       "id": "pc_ai-wccftech",
@@ -589,7 +655,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "wccftech.com",
-      "homepage": "https://wccftech.com"
+      "homepage": "https://wccftech.com",
+      "direct_discovery": true
     },
     {
       "id": "pc_ai-hardware-busters",
@@ -600,7 +667,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "hwbusters.com",
-      "homepage": "https://hwbusters.com"
+      "homepage": "https://hwbusters.com",
+      "direct_discovery": true
     },
     {
       "id": "pc_ai-storagereview",
@@ -611,7 +679,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "storagereview.com",
-      "homepage": "https://storagereview.com"
+      "homepage": "https://storagereview.com",
+      "direct_discovery": true
     },
     {
       "id": "pc_ai-rtings-monitor",
@@ -622,7 +691,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "rtings.com",
-      "homepage": "https://rtings.com"
+      "homepage": "https://rtings.com",
+      "direct_discovery": true
     },
     {
       "id": "pc_ai-gamers-nexus",
@@ -633,7 +703,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "gamersnexus.net",
-      "homepage": "https://gamersnexus.net"
+      "homepage": "https://gamersnexus.net",
+      "direct_discovery": true
     },
     {
       "id": "pc_ai-nichepcgamer",
@@ -644,7 +715,9 @@
       "tier": "all",
       "role": "specialist",
       "domain": "nichepcgamer.com",
-      "homepage": "https://nichepcgamer.com"
+      "homepage": "https://nichepcgamer.com",
+      "direct_discovery": true,
+      "locale": "ja"
     },
     {
       "id": "pc_ai-openai",
@@ -666,7 +739,29 @@
       "tier": "core",
       "role": "official",
       "domain": "help.openai.com",
-      "homepage": "https://help.openai.com"
+      "homepage": "https://help.openai.com",
+      "monitor_pages": [
+        {
+          "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+          "selector": "article",
+          "label": "ChatGPT Release Notes"
+        },
+        {
+          "url": "https://openai.com/chatgpt/pricing/",
+          "selector": "main",
+          "label": "ChatGPT plan/pricing"
+        },
+        {
+          "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+          "selector": "article",
+          "label": "Model Release Notes"
+        },
+        {
+          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+          "selector": "article",
+          "label": "ChatGPT/Codex usage limits"
+        }
+      ]
     },
     {
       "id": "pc_ai-anthropic",
@@ -685,10 +780,22 @@
       "label": "Claude Help",
       "topic": "ai",
       "kind": "news",
-      "tier": "all",
+      "tier": "core",
       "role": "official",
       "domain": "support.claude.com",
-      "homepage": "https://support.claude.com"
+      "homepage": "https://support.claude.com",
+      "monitor_pages": [
+        {
+          "url": "https://support.claude.com/en/articles/12138966-release-notes",
+          "selector": "article",
+          "label": "Claude Release Notes"
+        },
+        {
+          "url": "https://support.claude.com/en/articles/11647753-how-do-usage-and-length-limits-work",
+          "selector": "article",
+          "label": "Claude usage limits"
+        }
+      ]
     },
     {
       "id": "pc_ai-google-ai",
@@ -699,7 +806,14 @@
       "tier": "core",
       "role": "official",
       "domain": "blog.google",
-      "homepage": "https://blog.google"
+      "homepage": "https://blog.google",
+      "monitor_pages": [
+        {
+          "url": "https://support.google.com/gemini/answer/16275805?hl=en",
+          "selector": "main",
+          "label": "Gemini Apps limits & feature availability"
+        }
+      ]
     },
     {
       "id": "pc_ai-google-deepmind",
@@ -721,7 +835,8 @@
       "tier": "core",
       "role": "specialist",
       "domain": "artificialanalysis.ai",
-      "homepage": "https://artificialanalysis.ai"
+      "homepage": "https://artificialanalysis.ai",
+      "direct_discovery": true
     },
     {
       "id": "pc_ai-ars-technica",
@@ -732,7 +847,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "arstechnica.com",
-      "homepage": "https://arstechnica.com"
+      "homepage": "https://arstechnica.com",
+      "direct_discovery": true
     },
     {
       "id": "pc_ai-the-verge",
@@ -743,7 +859,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "theverge.com",
-      "homepage": "https://theverge.com"
+      "homepage": "https://theverge.com",
+      "direct_discovery": true
     },
     {
       "id": "pc_ai-techcrunch",
@@ -754,7 +871,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "techcrunch.com",
-      "homepage": "https://techcrunch.com"
+      "homepage": "https://techcrunch.com",
+      "direct_discovery": true
     },
     {
       "id": "pc_ai-reuters-ai",
@@ -765,7 +883,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "reuters.com",
-      "homepage": "https://reuters.com"
+      "homepage": "https://reuters.com",
+      "direct_discovery": true
     },
     {
       "id": "pc_ai-testingcatalog",
@@ -776,7 +895,11 @@
       "tier": "core",
       "role": "specialist",
       "domain": "testingcatalog.com",
-      "homepage": "https://testingcatalog.com"
+      "homepage": "https://testingcatalog.com",
+      "feed_candidates": [
+        "https://www.testingcatalog.com/rss/"
+      ],
+      "direct_discovery": true
     },
     {
       "id": "pc_ai-helentech",
@@ -787,7 +910,12 @@
       "tier": "all",
       "role": "specialist",
       "domain": "helentech.jp",
-      "homepage": "https://helentech.jp"
+      "homepage": "https://helentech.jp",
+      "feed_candidates": [
+        "https://helentech.jp/feed/"
+      ],
+      "direct_discovery": true,
+      "locale": "ja"
     },
     {
       "id": "pc_ai-gsmarena",
@@ -798,7 +926,8 @@
       "tier": "core",
       "role": "specialist",
       "domain": "gsmarena.com",
-      "homepage": "https://gsmarena.com"
+      "homepage": "https://gsmarena.com",
+      "direct_discovery": true
     },
     {
       "id": "pc_ai-notebookcheck-mobile",
@@ -809,7 +938,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "notebookcheck.net",
-      "homepage": "https://notebookcheck.net"
+      "homepage": "https://notebookcheck.net",
+      "direct_discovery": true
     },
     {
       "id": "pc_ai-itmedia-mobile",
@@ -820,7 +950,9 @@
       "tier": "all",
       "role": "specialist",
       "domain": "itmedia.co.jp",
-      "homepage": "https://itmedia.co.jp"
+      "homepage": "https://itmedia.co.jp",
+      "direct_discovery": true,
+      "locale": "ja"
     },
     {
       "id": "pc_ai-9to5google",
@@ -918,7 +1050,8 @@
       "tier": "core",
       "role": "specialist",
       "domain": "androidauthority.com",
-      "homepage": "https://androidauthority.com"
+      "homepage": "https://androidauthority.com",
+      "direct_discovery": true
     },
     {
       "id": "games_handhelds-notebookcheck-handheld",
@@ -929,7 +1062,8 @@
       "tier": "core",
       "role": "specialist",
       "domain": "notebookcheck.net",
-      "homepage": "https://notebookcheck.net"
+      "homepage": "https://notebookcheck.net",
+      "direct_discovery": true
     },
     {
       "id": "games_handhelds-retro-game-corps",
@@ -940,7 +1074,11 @@
       "tier": "all",
       "role": "specialist",
       "domain": "retrogamecorps.com",
-      "homepage": "https://retrogamecorps.com"
+      "homepage": "https://retrogamecorps.com",
+      "feed_candidates": [
+        "https://retrogamecorps.com/feed/"
+      ],
+      "direct_discovery": true
     },
     {
       "id": "games_handhelds-retro-dodo",
@@ -951,7 +1089,11 @@
       "tier": "core",
       "role": "specialist",
       "domain": "retrododo.com",
-      "homepage": "https://retrododo.com"
+      "homepage": "https://retrododo.com",
+      "feed_candidates": [
+        "https://retrododo.com/feed/"
+      ],
+      "direct_discovery": true
     },
     {
       "id": "games_handhelds-joey-retro-handhelds",
@@ -962,7 +1104,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "joeysretrohandhelds.com",
-      "homepage": "https://joeysretrohandhelds.com"
+      "homepage": "https://joeysretrohandhelds.com",
+      "direct_discovery": true
     },
     {
       "id": "games_handhelds-retroid",
@@ -973,7 +1116,11 @@
       "tier": "core",
       "role": "official",
       "domain": "goretroid.com",
-      "homepage": "https://goretroid.com"
+      "homepage": "https://goretroid.com",
+      "listing_urls": [
+        "https://www.goretroid.com/"
+      ],
+      "search_supplement": true
     },
     {
       "id": "games_handhelds-ayn",
@@ -984,7 +1131,11 @@
       "tier": "core",
       "role": "official",
       "domain": "ayn.hk",
-      "homepage": "https://ayn.hk"
+      "homepage": "https://ayn.hk",
+      "listing_urls": [
+        "https://www.ayn.hk/"
+      ],
+      "search_supplement": true
     },
     {
       "id": "games_handhelds-ayaneo",
@@ -995,7 +1146,11 @@
       "tier": "core",
       "role": "official",
       "domain": "ayaneo.com",
-      "homepage": "https://ayaneo.com"
+      "homepage": "https://ayaneo.com",
+      "listing_urls": [
+        "https://www.ayaneo.com/"
+      ],
+      "search_supplement": true
     },
     {
       "id": "games_handhelds-anbernic",
@@ -1006,7 +1161,11 @@
       "tier": "core",
       "role": "official",
       "domain": "anbernic.com",
-      "homepage": "https://anbernic.com"
+      "homepage": "https://anbernic.com",
+      "listing_urls": [
+        "https://anbernic.com/"
+      ],
+      "search_supplement": true
     },
     {
       "id": "games_handhelds-gpd",
@@ -1028,7 +1187,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "onexplayerstore.com",
-      "homepage": "https://onexplayerstore.com"
+      "homepage": "https://onexplayerstore.com",
+      "direct_discovery": true
     },
     {
       "id": "games_handhelds-powkiddy",
@@ -1036,10 +1196,14 @@
       "label": "Powkiddy",
       "topic": "handhelds",
       "kind": "news",
-      "tier": "all",
+      "tier": "core",
       "role": "official",
       "domain": "powkiddy.com",
-      "homepage": "https://powkiddy.com"
+      "homepage": "https://powkiddy.com",
+      "listing_urls": [
+        "https://powkiddy.com/"
+      ],
+      "search_supplement": true
     },
     {
       "id": "games_handhelds-trimui",
@@ -1047,10 +1211,15 @@
       "label": "TrimUI",
       "topic": "handhelds",
       "kind": "news",
-      "tier": "all",
+      "tier": "core",
       "role": "specialist",
       "domain": "trimui.com",
-      "homepage": "https://trimui.com"
+      "homepage": "https://trimui.com",
+      "direct_discovery": true,
+      "listing_urls": [
+        "https://www.trimui.com/"
+      ],
+      "search_supplement": true
     },
     {
       "id": "games_handhelds-valve-steam-deck",
@@ -1061,7 +1230,8 @@
       "tier": "all",
       "role": "official",
       "domain": "store.steampowered.com",
-      "homepage": "https://store.steampowered.com"
+      "homepage": "https://store.steampowered.com",
+      "query": "site:store.steampowered.com when:4d (\"Steam Deck\" OR SteamOS)"
     },
     {
       "id": "games_handhelds-gtplanet",
@@ -1084,7 +1254,11 @@
       "tier": "core",
       "role": "specialist",
       "domain": "traxion.gg",
-      "homepage": "https://traxion.gg"
+      "homepage": "https://traxion.gg",
+      "feed_candidates": [
+        "https://traxion.gg/feed/"
+      ],
+      "direct_discovery": true
     },
     {
       "id": "games_handhelds-overtake",
@@ -1095,7 +1269,8 @@
       "tier": "core",
       "role": "specialist",
       "domain": "overtake.gg",
-      "homepage": "https://overtake.gg"
+      "homepage": "https://overtake.gg",
+      "direct_discovery": true
     },
     {
       "id": "games_handhelds-pcgamingwiki",
@@ -1106,7 +1281,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "pcgamingwiki.com",
-      "homepage": "https://pcgamingwiki.com"
+      "homepage": "https://pcgamingwiki.com",
+      "direct_discovery": true
     },
     {
       "id": "games_handhelds-racedepartment-archives",
@@ -1117,7 +1293,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "racedepartment.com",
-      "homepage": "https://racedepartment.com"
+      "homepage": "https://racedepartment.com",
+      "direct_discovery": true
     },
     {
       "id": "games_handhelds-steam-racing-updates",
@@ -1128,7 +1305,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "store.steampowered.com",
-      "homepage": "https://store.steampowered.com"
+      "homepage": "https://store.steampowered.com",
+      "direct_discovery": true
     },
     {
       "id": "games_handhelds-azur-lane-jp",
@@ -1139,7 +1317,8 @@
       "tier": "core",
       "role": "official",
       "domain": "azurlane.jp",
-      "homepage": "https://azurlane.jp"
+      "homepage": "https://azurlane.jp",
+      "locale": "ja"
     },
     {
       "id": "games_handhelds-yostar-jp",
@@ -1150,7 +1329,8 @@
       "tier": "all",
       "role": "official",
       "domain": "yostar.co.jp",
-      "homepage": "https://yostar.co.jp"
+      "homepage": "https://yostar.co.jp",
+      "locale": "ja"
     },
     {
       "id": "games_handhelds-rpcs3",
@@ -1472,7 +1652,9 @@
       "tier": "core",
       "role": "specialist",
       "domain": "phileweb.com",
-      "homepage": "https://phileweb.com"
+      "homepage": "https://phileweb.com",
+      "direct_discovery": true,
+      "locale": "ja"
     },
     {
       "id": "audio-e-earphone",
@@ -1483,7 +1665,9 @@
       "tier": "core",
       "role": "retailer",
       "domain": "e-earphone.blog",
-      "homepage": "https://e-earphone.blog"
+      "homepage": "https://e-earphone.blog",
+      "direct_discovery": true,
+      "locale": "ja"
     },
     {
       "id": "audio-head-fi",
@@ -1494,7 +1678,8 @@
       "tier": "core",
       "role": "community",
       "domain": "head-fi.org",
-      "homepage": "https://head-fi.org"
+      "homepage": "https://head-fi.org",
+      "direct_discovery": true
     },
     {
       "id": "audio-canjam",
@@ -1516,7 +1701,16 @@
       "tier": "core",
       "role": "retailer",
       "domain": "linsoul.com",
-      "homepage": "https://linsoul.com"
+      "homepage": "https://linsoul.com",
+      "feed_candidates": [
+        "https://www.linsoul.com/blogs/news.atom"
+      ],
+      "direct_discovery": true,
+      "listing_urls": [
+        "https://www.linsoul.com/blogs/news",
+        "https://www.linsoul.com/"
+      ],
+      "search_supplement": true
     },
     {
       "id": "audio-hifigo",
@@ -1527,7 +1721,15 @@
       "tier": "core",
       "role": "retailer",
       "domain": "hifigo.com",
-      "homepage": "https://hifigo.com"
+      "homepage": "https://hifigo.com",
+      "feed_candidates": [
+        "https://hifigo.com/blogs/news.atom"
+      ],
+      "direct_discovery": true,
+      "listing_urls": [
+        "https://hifigo.com/collections/new-arrivals"
+      ],
+      "search_supplement": true
     },
     {
       "id": "audio-shenzhenaudio",
@@ -1535,10 +1737,18 @@
       "label": "SHENZHENAUDIO",
       "topic": "wired",
       "kind": "news",
-      "tier": "all",
+      "tier": "core",
       "role": "retailer",
       "domain": "shenzhenaudio.com",
-      "homepage": "https://shenzhenaudio.com"
+      "homepage": "https://shenzhenaudio.com",
+      "feed_candidates": [
+        "https://shenzhenaudio.com/blogs/news.atom"
+      ],
+      "direct_discovery": true,
+      "listing_urls": [
+        "https://shenzhenaudio.com/"
+      ],
+      "search_supplement": true
     },
     {
       "id": "audio-musicteck",
@@ -1546,10 +1756,15 @@
       "label": "MusicTeck",
       "topic": "wired",
       "kind": "news",
-      "tier": "all",
+      "tier": "core",
       "role": "retailer",
       "domain": "musicteck.com",
-      "homepage": "https://musicteck.com"
+      "homepage": "https://musicteck.com",
+      "direct_discovery": true,
+      "listing_urls": [
+        "https://musicteck.com/"
+      ],
+      "search_supplement": true
     },
     {
       "id": "audio-xmems",
@@ -1568,10 +1783,14 @@
       "label": "DUNU",
       "topic": "wired",
       "kind": "news",
-      "tier": "all",
+      "tier": "core",
       "role": "official",
       "domain": "dunu-topsound.com",
-      "homepage": "https://dunu-topsound.com"
+      "homepage": "https://dunu-topsound.com",
+      "listing_urls": [
+        "https://www.dunu-topsound.com/"
+      ],
+      "search_supplement": true
     },
     {
       "id": "audio-moondrop",
@@ -1579,10 +1798,14 @@
       "label": "Moondrop",
       "topic": "wired",
       "kind": "news",
-      "tier": "all",
+      "tier": "core",
       "role": "official",
       "domain": "moondroplab.com",
-      "homepage": "https://moondroplab.com"
+      "homepage": "https://moondroplab.com",
+      "listing_urls": [
+        "https://moondroplab.com/"
+      ],
+      "search_supplement": true
     },
     {
       "id": "audio-fiio",
@@ -1593,7 +1816,11 @@
       "tier": "core",
       "role": "official",
       "domain": "fiio.com",
-      "homepage": "https://fiio.com"
+      "homepage": "https://fiio.com",
+      "listing_urls": [
+        "https://www.fiio.com/"
+      ],
+      "search_supplement": true
     },
     {
       "id": "audio-ibasso",
@@ -1604,7 +1831,11 @@
       "tier": "core",
       "role": "official",
       "domain": "ibasso.com",
-      "homepage": "https://ibasso.com"
+      "homepage": "https://ibasso.com",
+      "listing_urls": [
+        "https://ibasso.com/"
+      ],
+      "search_supplement": true
     },
     {
       "id": "audio-shanling",
@@ -1612,10 +1843,14 @@
       "label": "Shanling",
       "topic": "portable_dac",
       "kind": "news",
-      "tier": "all",
+      "tier": "core",
       "role": "official",
       "domain": "en.shanling.com",
-      "homepage": "https://en.shanling.com"
+      "homepage": "https://en.shanling.com",
+      "listing_urls": [
+        "https://en.shanling.com/"
+      ],
+      "search_supplement": true
     },
     {
       "id": "audio-questyle",
@@ -1648,7 +1883,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "audiosciencereview.com",
-      "homepage": "https://audiosciencereview.com"
+      "homepage": "https://audiosciencereview.com",
+      "direct_discovery": true
     },
     {
       "id": "audio-l7audiolab",
@@ -1659,7 +1895,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "l7audiolab.com",
-      "homepage": "https://l7audiolab.com"
+      "homepage": "https://l7audiolab.com",
+      "direct_discovery": true
     },
     {
       "id": "audio-soundguys",
@@ -1670,7 +1907,11 @@
       "tier": "core",
       "role": "specialist",
       "domain": "soundguys.com",
-      "homepage": "https://soundguys.com"
+      "homepage": "https://soundguys.com",
+      "feed_candidates": [
+        "https://www.soundguys.com/feed/"
+      ],
+      "direct_discovery": true
     },
     {
       "id": "audio-rtings-headphones",
@@ -1681,7 +1922,8 @@
       "tier": "core",
       "role": "specialist",
       "domain": "rtings.com",
-      "homepage": "https://rtings.com"
+      "homepage": "https://rtings.com",
+      "direct_discovery": true
     },
     {
       "id": "audio-scarbir",
@@ -1692,7 +1934,11 @@
       "tier": "all",
       "role": "specialist",
       "domain": "scarbir.com",
-      "homepage": "https://scarbir.com"
+      "homepage": "https://scarbir.com",
+      "feed_candidates": [
+        "https://www.scarbir.com/tws?format=rss"
+      ],
+      "direct_discovery": true
     },
     {
       "id": "audio-sony-audio",
@@ -1714,7 +1960,8 @@
       "tier": "all",
       "role": "official",
       "domain": "apple.com",
-      "homepage": "https://apple.com"
+      "homepage": "https://apple.com",
+      "query": "site:apple.com when:4d (AirPods OR Beats OR \"audio\")"
     },
     {
       "id": "audio-samsung-audio",
@@ -1813,7 +2060,8 @@
       "tier": "all",
       "role": "official",
       "domain": "aviot.jp",
-      "homepage": "https://aviot.jp"
+      "homepage": "https://aviot.jp",
+      "locale": "ja"
     },
     {
       "id": "audio-bluetooth-sig",
@@ -1846,7 +2094,11 @@
       "tier": "core",
       "role": "leak_sensor",
       "domain": "thewalkmanblog.blogspot.com",
-      "homepage": "https://thewalkmanblog.blogspot.com"
+      "homepage": "https://thewalkmanblog.blogspot.com",
+      "feed_candidates": [
+        "https://thewalkmanblog.blogspot.com/feeds/posts/default?alt=rss"
+      ],
+      "direct_discovery": true
     },
     {
       "id": "audio-sammobile",
@@ -1857,7 +2109,8 @@
       "tier": "all",
       "role": "leak_sensor",
       "domain": "sammobile.com",
-      "homepage": "https://sammobile.com"
+      "homepage": "https://sammobile.com",
+      "direct_discovery": true
     },
     {
       "id": "audio-macrumors",
@@ -1887,7 +2140,8 @@
       "tier": "all",
       "role": "specialist",
       "domain": "androidauthority.com",
-      "homepage": "https://androidauthority.com"
+      "homepage": "https://androidauthority.com",
+      "direct_discovery": true
     },
     {
       "id": "audio-9to5mac-airpods",

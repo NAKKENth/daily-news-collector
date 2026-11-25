@@ -1,11 +1,12 @@
-# 4本の既存ニュースタスクへの接続URL（テンプレート）
+# ChatGPT既存4タスクの接続先（運用検証後）
 
-以下の `ユーザー名` と `daily-news-collector` は、公開したGitHubリポジトリに合わせて置き換える。
+共通: https://github.com/NAKKENth/daily-news-collector/blob/main/data/latest/manifest.json
 
-- 07:00 モータースポーツ： https://github.com/ユーザー名/daily-news-collector/blob/main/data/latest/motorsport.md
-- 07:15 PC・AI・スマホ： https://github.com/ユーザー名/daily-news-collector/blob/main/data/latest/pc_ai.md
-- 07:30 ゲーム・ハンドヘルド： https://github.com/ユーザー名/daily-news-collector/blob/main/data/latest/games_handhelds.md
-- 07:45 オーディオ： https://github.com/ユーザー名/daily-news-collector/blob/main/data/latest/audio.md
-- 全タスク共通マニフェスト： https://github.com/ユーザー名/daily-news-collector/blob/main/data/latest/manifest.json
+| 配信 | Markdown索引 | 全候補JSON |
+|---|---|---|
+| 07:00 | https://github.com/NAKKENth/daily-news-collector/blob/main/data/latest/motorsport.md | https://github.com/NAKKENth/daily-news-collector/blob/main/data/latest/motorsport.json |
+| 07:15 | https://github.com/NAKKENth/daily-news-collector/blob/main/data/latest/pc_ai.md | https://github.com/NAKKENth/daily-news-collector/blob/main/data/latest/pc_ai.json |
+| 07:30 | https://github.com/NAKKENth/daily-news-collector/blob/main/data/latest/games_handhelds.md | https://github.com/NAKKENth/daily-news-collector/blob/main/data/latest/games_handhelds.json |
+| 07:45 | https://github.com/NAKKENth/daily-news-collector/blob/main/data/latest/audio.md | https://github.com/NAKKENth/daily-news-collector/blob/main/data/latest/audio.json |
 
-詳細な指示文は README.md「既存のChatGPTタスクへの接続」を参照。実際の公開URLがない間、既存タスクを書き換えない。
+まずmanifestの対象日・生成日時を確認し、担当JSONまたは分割Markdownを全件走査。priorityは優先調査、reviewは要確認、excludeは通常除外だが監査可能。検索索引時刻や観測時刻を公式発表日にしない。外部収集だけで完結せず、部分失敗や手動ソースを通常検索で補完。個別記事原典を確認してS/A/B判定。接続可否は実測前のため既存タスクは変更しない。
