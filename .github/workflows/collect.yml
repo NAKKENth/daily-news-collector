@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       scope:
-        description: 'all / core / retry (previous failed or partial sources)'
+        description: 'all / core / retry (previous failed, partial or deferred sources)'
         required: true
         default: all
         type: choice
@@ -39,13 +39,13 @@ jobs:
           SCHEDULE: ${{ github.event.schedule }}
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            python collector.py --scope "${REQUESTED_SCOPE:-all}"
+            python collector.py --scope "${REQUESTED_SCOPE:-all}" --search-budget 48
           elif [ "$SCHEDULE" = '27 20 * * *' ]; then
-            python collector.py --scope all
+            python collector.py --scope all --search-budget 48
           elif [ "$SCHEDULE" = '18 21 * * *' ]; then
-            python collector.py --scope core
+            python collector.py --scope core --search-budget 48
           else
-            python collector.py --scope core --enrich-limit 40
+            python collector.py --scope core --enrich-limit 40 --search-budget 48
           fi
       - name: Commit updated public candidate index
         run: |
