@@ -3,17 +3,16 @@ on:
   workflow_dispatch:
     inputs:
       scope:
-        description: 'core (faster) or all (full registered automatic sources)'
-        required: false
+        description: 'all / core / retry (previous failed or partial sources)'
+        required: true
         default: all
         type: choice
-        options: [core, all]
+        options: [all, core, retry]
   schedule:
-    # UTC. At 00:17/06:17/12:17/18:17 UTC for intermediate collection
-    # 20:27 UTC = 05:27 JST full-scan baseline; 21:38 UTC = 06:38 JST refresh.
+    # UTC; JST 05:27 and 06:18 are full and core-plus-retry passes, respectively.
     - cron: '17 0,6,12,18 * * *'
     - cron: '27 20 * * *'
-    - cron: '38 21 * * *'
+    - cron: '18 21 * * *'
 permissions:
   contents: write
 concurrency:
@@ -22,28 +21,32 @@ concurrency:
 jobs:
   gather:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 35
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           persist-credentials: true
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
       - run: python -m pip install --disable-pip-version-check -r requirements.txt
+      - name: Verify collector tests before collection
+        run: python -m unittest discover -s tests -v
       - name: Fetch and compile
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REQUESTED_SCOPE: ${{ inputs.scope }}
+          SCHEDULE: ${{ github.event.schedule }}
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            python collector.py --scope '${{ inputs.scope }}'
-          elif [ "${{ github.event.schedule }}" = "38 21 * * *" ] || [ "${{ github.event.schedule }}" = "27 20 * * *" ]; then
+            python collector.py --scope "${REQUESTED_SCOPE:-all}"
+          elif [ "$SCHEDULE" = '27 20 * * *' ]; then
             python collector.py --scope all
-          else
+          elif [ "$SCHEDULE" = '18 21 * * *' ]; then
             python collector.py --scope core
+          else
+            python collector.py --scope core --enrich-limit 40
           fi
-      - name: Verify data consistency
-        run: python -m unittest discover -s tests -v
       - name: Commit updated public candidate index
         run: |
           git config user.name 'github-actions[bot]'
