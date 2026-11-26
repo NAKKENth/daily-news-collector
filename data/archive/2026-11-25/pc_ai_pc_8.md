@@ -1,5 +1,7 @@
-# pc / 2026-11-25 / 候補 351–359
+# pc / 2026-11-25 / 候補 351–361
 
+- [igor´sLAB - igor´sLAB](https://news.google.com/rss/articles/CBMiQEFVX3lxTFA2UnNxb3dGMlZWdHE3Ul80cG5JVVJvWHd3MnRoWC1DN1U1VnBaQUM5VWw5SWpYbEdZVjVoellzZXE?oc=5) — Igor’sLAB｜要確認｜2026-11-25T10:59:01+00:00 UTC｜discovery_index
+- [my word is not working - Microsoft Learn](https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3lWNzR0akE0a2VaVDBnNVNoNUxFMUZKRHpjOERPTV9mN29QMUgxX190UFZ2S25OZTk2N3RvdHpJRHRsMUM1bk1Rd1dEZTdvV3U4QzluNVNyRlMwaUxLM2VOVmc1MHBNeU1IWjYwSWZaYkZ5NW1RbXRnSkZzR1daRFJ4aXZmZnQ3cWc?oc=5) — Microsoft Windows｜要確認｜2026-11-25T06:57:57+00:00 UTC｜discovery_index
 - [need a clean Windows - Microsoft Learn](https://news.google.com/rss/articles/CBMihwFBVV95cUxPYjBDWG43dXQ3T0FDYjZiOGhNWnRUUHNOd3Bjc0hkM2NQM3FFZmVuclYtajloRnBQcUZpQzRuNkJpc2VUSDJHS3ljYzZ3WFpyQ3A2Mjl0V2ZfTHhhVDF4SHg4WVNzaGJJbDlsc2txUXVTTGw2V0FSRnhxMFdhRTFiWEZTTzFzQmc?oc=5) — Microsoft Windows｜要確認｜2026-11-25T12:57:07+00:00 UTC｜discovery_index
 - [nvidia cmx - NVIDIA](https://news.google.com/rss/articles/CBMieEFVX3lxTFBXVmV3dWxkNWxpY2Z3bUo5SDhUXzdlSVFOMlQ0OWdUYmN0ZGdoX3hYaEVZUFZsSmVqa19URktDelIydHJ5TjlhZEpWYzlZemVsNHZ0MHVEaF9yY0FNV1N0MVNJQXdmQXZDTFZsWkw3aEhnOU9XbHR5eQ?oc=5) — NVIDIA｜要確認｜2026-11-25T09:57:44+00:00 UTC｜discovery_index
 - [ppt not openning - Microsoft Learn](https://news.google.com/rss/articles/CBMiggFBVV95cUxPUWN4UklkVmVTQXZqZFhOZXcyRnZLTGJBWXBvQktPRTY3SF9jVldzYTA1cjRKRExuMUdWdFlXUS1RQ3ZLUTVqNTY1QUJkZUJHb3VyRDlqd29OTncxRlhCaHpqdk5VSGpOR1FXMERQdzQ5WlNLSEZVQUdOamNNbWJfa2NB?oc=5) — Microsoft Windows｜要確認｜2026-11-25T07:58:34+00:00 UTC｜discovery_index

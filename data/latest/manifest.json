@@ -1,79 +1,84 @@
 {
   "schema_version": 2,
   "collector_version": "0.3",
-  "search_attempted": 15,
+  "search_attempted": 14,
   "search_budget": 48,
-  "search_deferred": 45,
-  "pending_search_total": 46,
-  "google_retry_after_utc": "2026-11-26T08:12:14.230798+00:00",
+  "search_deferred": 46,
+  "pending_search_total": 47,
+  "google_retry_after_utc": "2026-11-26T14:11:20.686135+00:00",
   "enrichment_errors": [
     {
-      "url": "https://www.motorsport.com/f1/news/decision-time-looms-for-colton-herta-after-2027-cadillac-f1-snub/10877531",
-      "error": "403 Client Error: Forbidden for url: https://www.motorsport.com/f1/news/decision-time-looms-for-colton-herta-after-2027-cadillac-f1-snub/10877531"
+      "url": "https://jp.motorsport.com/f1/news/toto-wolff-las-vegas-was-indy-500-nascar-and-formula-1-mixed/10877370",
+      "error": "403 Client Error: Forbidden for url: https://jp.motorsport.com/f1/news/toto-wolff-las-vegas-was-indy-500-nascar-and-formula-1-mixed/10877370"
     },
     {
-      "url": "https://9to5mac.com/2026/11/24/airpods-pro-3-best-black-friday-price",
-      "error": "403 Client Error: Forbidden for url: https://9to5mac.com/2026/11/24/airpods-pro-3-best-black-friday-price"
+      "url": "https://www.autosport.com/wrc/news/rovanpera-new-2027-wrc-cars-will-see-everybody-start-from-zero/10877526",
+      "error": "403 Client Error: Forbidden for url: https://www.autosport.com/wrc/news/rovanpera-new-2027-wrc-cars-will-see-everybody-start-from-zero/10877526"
+    },
+    {
+      "url": "https://www.motorsport.com/f1/news/lando-norris-admits-some-of-the-overtakes-werent-overtakes-in-vegas-thriller-and-explains-why-2030-/10877443",
+      "error": "403 Client Error: Forbidden for url: https://www.motorsport.com/f1/news/lando-norris-admits-some-of-the-overtakes-werent-overtakes-in-vegas-thriller-and-explain"
     }
   ],
-  "generated_at_utc": "2026-11-26T07:41:16+00:00",
+  "generated_at_utc": "2026-11-26T13:39:46+00:00",
   "target_date_jst": "2026-11-25",
   "scope": "core",
   "catalog_sources": 168,
   "attempted_sources": 114,
   "status_counts": {
-    "partial": 28,
-    "ok": 41,
-    "deferred": 33,
-    "empty": 11,
+    "deferred": 36,
+    "ok": 40,
+    "partial": 25,
+    "empty": 12,
     "failed": 1,
     "skipped": 45,
     "manual": 9
   },
-  "new_unique_articles": 118,
+  "new_unique_articles": 161,
   "candidates_per_group": {
-    "motorsport": 411,
-    "pc_ai": 639,
-    "games_handhelds": 240,
+    "motorsport": 410,
+    "pc_ai": 648,
+    "games_handhelds": 243,
     "audio": 161
   },
   "triage_counts": {
     "motorsport": {
-      "review": 385,
+      "review": 384,
       "exclude": 25,
       "priority": 26
     },
     "pc_ai": {
-      "review": 599,
+      "review": 608,
       "exclude": 59,
-      "priority": 49
+      "priority": 50
     },
     "games_handhelds": {
-      "review": 232,
+      "review": 235,
       "priority": 8,
       "exclude": 13
     },
     "audio": {
       "review": 148,
-      "priority": 14,
+      "priority": 15,
       "exclude": 211
     }
   },
-  "raw_target_rows": 1888,
-  "curated_rows": 1769,
+  "raw_target_rows": 1903,
+  "curated_rows": 1782,
   "enrichment_attempted": 40,
   "enrichment_counts": {
-    "article_metadata": 36,
-    "failed": 2,
-    "deferred_host": 2,
-    "feed_title_match": 99
+    "article_metadata": 20,
+    "url_only": 8,
+    "failed": 3,
+    "deferred_host": 9,
+    "feed_title_match": 101
   },
   "overall_status": "partial",
   "monitor_health": [
     {
       "source_id": "pc_ai-openai-help",
       "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-      "status": "changed"
+      "status": "unchanged"
     },
     {
       "source_id": "pc_ai-openai-help",
@@ -89,7 +94,7 @@
     {
       "source_id": "pc_ai-openai-help",
       "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-      "status": "changed"
+      "status": "unchanged"
     },
     {
       "source_id": "pc_ai-openai-help",
@@ -170,7 +175,7 @@
       "source_id": "audio-av-watch-audio",
       "group": "audio",
       "status": "ok",
-      "items": 3,
+      "items": 4,
       "method": "rss",
       "errors": [],
       "error": "",
@@ -335,17 +340,16 @@
     {
       "source_id": "audio-headfonics",
       "group": "audio",
-      "status": "partial",
-      "items": 3,
-      "method": "news",
-      "errors": [
-        "RSS: 403 Client Error: Forbidden for url: https://headfonics.com/feed/"
-      ],
-      "error": "RSS: 403 Client Error: Forbidden for url: https://headfonics.com/feed/",
+      "status": "ok",
+      "items": 2,
+      "method": "rss",
+      "errors": [],
+      "error": "",
       "hit_cap": false,
-      "search_needed": true,
-      "direct_methods": [],
-      "search_status": "ok"
+      "search_needed": false,
+      "direct_methods": [
+        "rss"
+      ]
     },
     {
       "source_id": "audio-hifigo",
@@ -369,14 +373,13 @@
       "group": "audio",
       "status": "partial",
       "items": 27,
-      "method": "listing",
-      "errors": [
-        "direct RSS: no usable declared feed"
-      ],
-      "error": "direct RSS: no usable declared feed",
+      "method": "rss_discovered+listing",
+      "errors": [],
+      "error": "",
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [
+        "rss_discovered",
         "listing"
       ],
       "search_status": "deferred_rate_limit",
@@ -452,7 +455,7 @@
     {
       "source_id": "audio-moondrop",
       "group": "audio",
-      "status": "partial",
+      "status": "deferred",
       "items": 0,
       "method": "news",
       "errors": [
@@ -463,14 +466,14 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "empty"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "audio-musicteck",
       "group": "audio",
       "status": "partial",
-      "items": 155,
-      "method": "rss_discovered+listing+news",
+      "items": 55,
+      "method": "rss_discovered+listing",
       "errors": [
         "listing: https://musicteck.com/: listing selector found no candidate links"
       ],
@@ -481,7 +484,7 @@
         "rss_discovered",
         "listing"
       ],
-      "search_status": "ok",
+      "search_status": "deferred_rate_limit",
       "listing_baseline_created": false
     },
     {
@@ -520,7 +523,7 @@
       "source_id": "audio-phile-web",
       "group": "audio",
       "status": "ok",
-      "items": 72,
+      "items": 76,
       "method": "rss_discovered",
       "errors": [],
       "error": "",
@@ -533,18 +536,17 @@
     {
       "source_id": "audio-qualcomm-audio",
       "group": "audio",
-      "status": "failed",
+      "status": "deferred",
       "items": 0,
       "method": "news",
       "errors": [
-        "direct RSS: no usable declared feed",
-        "search: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Aqualcomm.com+when%3A4d+%28earbuds+OR+TWS+OR+headphones+OR+AirPods+OR+Bl"
+        "direct RSS: no usable declared feed"
       ],
-      "error": "direct RSS: no usable declared feed; search: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Aqualcomm.com+when%3A4d+%28earbuds+OR+TWS+OR+headphones+OR+AirPods+OR+Bl",
+      "error": "direct RSS: no usable declared feed",
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "failed"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "audio-qudelix",
@@ -604,18 +606,18 @@
       "source_id": "audio-samsung-audio",
       "group": "audio",
       "status": "partial",
-      "items": 0,
-      "method": "rss_discovered",
+      "items": 13,
+      "method": "rss_discovered+news",
       "errors": [
-        "listing: https://news.samsung.com/global/: listing selector found no candidate links"
+        "listing: https://news.samsung.com/global/: HTTPSConnectionPool(host='news.samsung.com', port=443): Read timed out. (read timeout=15)"
       ],
-      "error": "listing: https://news.samsung.com/global/: listing selector found no candidate links",
+      "error": "listing: https://news.samsung.com/global/: HTTPSConnectionPool(host='news.samsung.com', port=443): Read timed out. (read timeout=15)",
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [
         "rss_discovered"
       ],
-      "search_status": "deferred_rate_limit"
+      "search_status": "ok"
     },
     {
       "source_id": "audio-scarbir",
@@ -644,7 +646,7 @@
       "group": "audio",
       "status": "partial",
       "items": 27,
-      "method": "listing",
+      "method": "listing+news",
       "errors": [
         "direct RSS: no usable declared feed"
       ],
@@ -654,15 +656,15 @@
       "direct_methods": [
         "listing"
       ],
-      "search_status": "deferred_rate_limit",
+      "search_status": "empty",
       "listing_baseline_created": false
     },
     {
       "source_id": "audio-shenzhenaudio",
       "group": "audio",
-      "status": "partial",
-      "items": 40,
-      "method": "rss_discovered+listing",
+      "status": "ok",
+      "items": 52,
+      "method": "rss_discovered+listing+news",
       "errors": [],
       "error": "",
       "hit_cap": false,
@@ -671,23 +673,24 @@
         "rss_discovered",
         "listing"
       ],
-      "search_status": "deferred_rate_limit",
+      "search_status": "ok",
       "listing_baseline_created": false
     },
     {
       "source_id": "audio-sony-audio",
       "group": "audio",
-      "status": "deferred",
+      "status": "failed",
       "items": 0,
       "method": "news",
       "errors": [
-        "direct RSS: 403 Client Error: Forbidden for url: https://www.sony.com:443/"
+        "direct RSS: 403 Client Error: Forbidden for url: https://www.sony.com:443/",
+        "search: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Asony.com+when%3A4d+%28earbuds+OR+TWS+OR+headphones+OR+AirPods+OR+Blueto"
       ],
-      "error": "direct RSS: 403 Client Error: Forbidden for url: https://www.sony.com:443/",
+      "error": "direct RSS: 403 Client Error: Forbidden for url: https://www.sony.com:443/; search: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Asony.com+when%3A4d+%28earbuds+OR+TWS+OR+headphones+OR+AirPods+OR+Blueto",
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "deferred_rate_limit"
+      "search_status": "failed"
     },
     {
       "source_id": "audio-soundguys",
@@ -748,39 +751,8 @@
     {
       "source_id": "games_handhelds-anbernic",
       "group": "games_handhelds",
-      "status": "ok",
+      "status": "partial",
       "items": 7,
-      "method": "listing+news",
-      "errors": [],
-      "error": "",
-      "hit_cap": false,
-      "search_needed": true,
-      "direct_methods": [
-        "listing"
-      ],
-      "search_status": "empty",
-      "listing_baseline_created": false
-    },
-    {
-      "source_id": "games_handhelds-android-authority-handheld",
-      "group": "games_handhelds",
-      "status": "partial",
-      "items": 1,
-      "method": "news",
-      "errors": [
-        "direct RSS: 403 Client Error: Forbidden for url: https://androidauthority.com/"
-      ],
-      "error": "direct RSS: 403 Client Error: Forbidden for url: https://androidauthority.com/",
-      "hit_cap": false,
-      "search_needed": true,
-      "direct_methods": [],
-      "search_status": "ok"
-    },
-    {
-      "source_id": "games_handhelds-ayaneo",
-      "group": "games_handhelds",
-      "status": "partial",
-      "items": 32,
       "method": "listing",
       "errors": [],
       "error": "",
@@ -793,9 +765,40 @@
       "listing_baseline_created": false
     },
     {
-      "source_id": "games_handhelds-ayn",
+      "source_id": "games_handhelds-android-authority-handheld",
       "group": "games_handhelds",
       "status": "deferred",
+      "items": 0,
+      "method": "news",
+      "errors": [
+        "direct RSS: 403 Client Error: Forbidden for url: https://androidauthority.com/"
+      ],
+      "error": "direct RSS: 403 Client Error: Forbidden for url: https://androidauthority.com/",
+      "hit_cap": false,
+      "search_needed": true,
+      "direct_methods": [],
+      "search_status": "deferred_rate_limit"
+    },
+    {
+      "source_id": "games_handhelds-ayaneo",
+      "group": "games_handhelds",
+      "status": "ok",
+      "items": 32,
+      "method": "listing+news",
+      "errors": [],
+      "error": "",
+      "hit_cap": false,
+      "search_needed": true,
+      "direct_methods": [
+        "listing"
+      ],
+      "search_status": "empty",
+      "listing_baseline_created": false
+    },
+    {
+      "source_id": "games_handhelds-ayn",
+      "group": "games_handhelds",
+      "status": "partial",
       "items": 0,
       "method": "news",
       "errors": [
@@ -805,7 +808,7 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "deferred_rate_limit"
+      "search_status": "empty"
     },
     {
       "source_id": "games_handhelds-azahar",
@@ -824,7 +827,7 @@
     {
       "source_id": "games_handhelds-azur-lane-jp",
       "group": "games_handhelds",
-      "status": "deferred",
+      "status": "partial",
       "items": 0,
       "method": "news",
       "errors": [
@@ -834,7 +837,7 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "deferred_rate_limit"
+      "search_status": "empty"
     },
     {
       "source_id": "games_handhelds-batocera",
@@ -1009,8 +1012,8 @@
     {
       "source_id": "games_handhelds-overtake",
       "group": "games_handhelds",
-      "status": "deferred",
-      "items": 0,
+      "status": "partial",
+      "items": 100,
       "method": "news",
       "errors": [
         "direct RSS: 403 Client Error: Forbidden for url: https://overtake.gg/"
@@ -1019,7 +1022,7 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "deferred_rate_limit"
+      "search_status": "ok"
     },
     {
       "source_id": "games_handhelds-pcgamingwiki",
@@ -1075,17 +1078,17 @@
     {
       "source_id": "games_handhelds-racedepartment-archives",
       "group": "games_handhelds",
-      "status": "partial",
+      "status": "deferred",
       "items": 0,
       "method": "news",
       "errors": [
-        "direct RSS: 403 Client Error: Forbidden for url: https://racedepartment.com/"
+        "direct RSS: no usable declared feed"
       ],
-      "error": "direct RSS: 403 Client Error: Forbidden for url: https://racedepartment.com/",
+      "error": "direct RSS: no usable declared feed",
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "empty"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "games_handhelds-retro-dodo",
@@ -1210,8 +1213,8 @@
     {
       "source_id": "games_handhelds-steam-racing-updates",
       "group": "games_handhelds",
-      "status": "partial",
-      "items": 36,
+      "status": "deferred",
+      "items": 0,
       "method": "news",
       "errors": [
         "direct RSS: no usable declared feed"
@@ -1220,7 +1223,7 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "ok"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "games_handhelds-teknoparrot",
@@ -1284,7 +1287,7 @@
       "source_id": "games_handhelds-xenia-canary",
       "group": "games_handhelds",
       "status": "ok",
-      "items": 23,
+      "items": 20,
       "method": "github_releases",
       "errors": [],
       "error": "",
@@ -1320,16 +1323,17 @@
     {
       "source_id": "motorsport-autoracer",
       "group": "motorsport",
-      "status": "ok",
-      "items": 10,
-      "method": "rss_discovered",
-      "errors": [],
-      "error": "",
+      "status": "partial",
+      "items": 18,
+      "method": "news",
+      "errors": [
+        "direct RSS: no usable declared feed"
+      ],
+      "error": "direct RSS: no usable declared feed",
       "hit_cap": false,
-      "search_needed": false,
-      "direct_methods": [
-        "rss_discovered"
-      ]
+      "search_needed": true,
+      "direct_methods": [],
+      "search_status": "ok"
     },
     {
       "source_id": "motorsport-autosport-all",
@@ -1523,15 +1527,15 @@
     {
       "source_id": "motorsport-nascar-official",
       "group": "motorsport",
-      "status": "ok",
-      "items": 59,
+      "status": "deferred",
+      "items": 0,
       "method": "news",
       "errors": [],
       "error": "",
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "ok"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "motorsport-planetf1",
@@ -1551,23 +1555,23 @@
     {
       "source_id": "motorsport-racefans",
       "group": "motorsport",
-      "status": "partial",
-      "items": 34,
+      "status": "deferred",
+      "items": 0,
       "method": "news",
       "errors": [
-        "direct RSS: 403 Client Error: Forbidden for url: https://racefans.net/"
+        "direct RSS: 429 Client Error: Too Many Requests for url: https://www.racefans.net/"
       ],
-      "error": "direct RSS: 403 Client Error: Forbidden for url: https://racefans.net/",
+      "error": "direct RSS: 429 Client Error: Too Many Requests for url: https://www.racefans.net/",
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "ok"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "motorsport-racer",
       "group": "motorsport",
-      "status": "partial",
-      "items": 92,
+      "status": "deferred",
+      "items": 0,
       "method": "news",
       "errors": [
         "direct RSS: 429 Client Error: Too Many Requests for url: https://racer.com/"
@@ -1576,7 +1580,7 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "ok"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "motorsport-racingnews365",
@@ -1652,7 +1656,7 @@
     {
       "source_id": "motorsport-super-formula-official",
       "group": "motorsport",
-      "status": "deferred",
+      "status": "empty",
       "items": 0,
       "method": "news",
       "errors": [],
@@ -1660,20 +1664,20 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "deferred_rate_limit"
+      "search_status": "empty"
     },
     {
       "source_id": "motorsport-super-gt-official",
       "group": "motorsport",
-      "status": "deferred",
-      "items": 0,
+      "status": "ok",
+      "items": 5,
       "method": "news",
       "errors": [],
       "error": "",
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "deferred_rate_limit"
+      "search_status": "ok"
     },
     {
       "source_id": "motorsport-the-race",
@@ -1777,7 +1781,7 @@
       "source_id": "pc_ai-artificial-analysis",
       "group": "pc_ai",
       "status": "partial",
-      "items": 25,
+      "items": 26,
       "method": "news",
       "errors": [
         "direct RSS: no usable declared feed"
@@ -1810,15 +1814,15 @@
     {
       "source_id": "pc_ai-claude-help",
       "group": "pc_ai",
-      "status": "ok",
-      "items": 28,
+      "status": "deferred",
+      "items": 0,
       "method": "news",
       "errors": [],
       "error": "",
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "ok"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "pc_ai-computerbase",
@@ -1844,8 +1848,8 @@
     {
       "source_id": "pc_ai-google-ai",
       "group": "pc_ai",
-      "status": "partial",
-      "items": 8,
+      "status": "deferred",
+      "items": 0,
       "method": "news",
       "errors": [
         "direct RSS: no usable declared feed",
@@ -1855,7 +1859,7 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "ok"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "pc_ai-google-deepmind",
@@ -1990,15 +1994,15 @@
     {
       "source_id": "pc_ai-openai-help",
       "group": "pc_ai",
-      "status": "ok",
-      "items": 33,
+      "status": "deferred",
+      "items": 0,
       "method": "news",
       "errors": [],
       "error": "",
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "ok"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "pc_ai-pc-watch",
@@ -2017,8 +2021,8 @@
     {
       "source_id": "pc_ai-reuters-ai",
       "group": "pc_ai",
-      "status": "deferred",
-      "items": 0,
+      "status": "partial",
+      "items": 100,
       "method": "news",
       "errors": [
         "direct RSS: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/"
@@ -2027,7 +2031,7 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "deferred_rate_limit"
+      "search_status": "ok"
     },
     {
       "source_id": "pc_ai-rtings-monitor",
@@ -2068,7 +2072,7 @@
       "source_id": "pc_ai-techpowerup",
       "group": "pc_ai",
       "status": "ok",
-      "items": 97,
+      "items": 99,
       "method": "rss",
       "errors": [],
       "error": "",
@@ -2136,8 +2140,8 @@
     {
       "source_id": "pc_ai-trendforce",
       "group": "pc_ai",
-      "status": "deferred",
-      "items": 0,
+      "status": "partial",
+      "items": 26,
       "method": "news",
       "errors": [
         "direct RSS: no usable declared feed"
@@ -2146,7 +2150,7 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "deferred_rate_limit"
+      "search_status": "ok"
     },
     {
       "source_id": "pc_ai-tsmc",
@@ -2179,9 +2183,9 @@
   ],
   "successful_route_24h": 159,
   "recovery_counts": {
-    "motorsport": 848,
+    "motorsport": 856,
     "pc_ai": 480,
-    "games_handhelds": 235,
-    "audio": 212
+    "games_handhelds": 242,
+    "audio": 211
   }
 }

@@ -292,32 +292,6 @@
       ]
     },
     {
-      "id": "39216f2aa87f7d35d7c96857",
-      "topic": "racing_games",
-      "title": "F1 2025 / 2026 Broadcast Lap Timer HUD v1.2-beta - overtake.gg",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb1FKdGI5eHVyQjZvLTlFOHg2OGZHQ0ZabDNrWDVPUUd1NFc0VXdRaXFyY3pvb3VvYXhqN00yM0xfWjFrdjB6MU9kVHpmdEVrX3lEbW5YbkhBUmpJbkxNZDF3dGo3eHdqZFNBbF9nVUxOVkp5UVdGX29uMTI2MU9WMFhLWQ?oc=5",
-      "source": "OverTake",
-      "publisher": "overtake.gg",
-      "description": "F1 2025 / 2026 Broadcast Lap Timer HUD v1.2-beta overtake.gg",
-      "published_utc": "2026-11-22T15:38:06+00:00",
-      "date_jst": "2026-11-23",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "レースゲーム候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb1FKdGI5eHVyQjZvLTlFOHg2OGZHQ0ZabDNrWDVPUUd1NFc0VXdRaXFyY3pvb3VvYXhqN00yM0xfWjFrdjB6MU9kVHpmdEVrX3lEbW5YbkhBUmpJbkxNZDF3dGo3eHdqZFNBbF9nVUxOVkp5UVdGX29uMTI2MU9WMFhLWQ?oc=5",
-          "source": "OverTake",
-          "publisher": "overtake.gg",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-22T15:38:06+00:00",
-          "title": "F1 2025 / 2026 Broadcast Lap Timer HUD v1.2-beta - overtake.gg"
-        }
-      ]
-    },
-    {
       "id": "072bd503644aa8336b0aaa6c",
       "topic": "racing_games",
       "title": "추천 뉴스 - Steam 뉴스 허브 - Steam",
@@ -2713,6 +2687,84 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T08:00:00+00:00",
           "title": "VMX - Steam"
+        }
+      ]
+    },
+    {
+      "id": "dbc12619885a5e965b8653f5",
+      "topic": "racing_games",
+      "title": "150+ Custom MyTeam logos - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43NXdhNHpzQWZnUzkybkhBU1dib29TZTU1TndmdGhQSVlEb1JNMmRkbEk0emJBenpKV215clJRTVUzVm1Ud25pZ2d4QWJPTjJtZlhGTTVPa3N0R3g1Vkl0a0tYVU92UGVsZEdGc2JjQU9RUQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "150+ Custom MyTeam logos overtake.gg",
+      "published_utc": "2026-11-22T17:15:07+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43NXdhNHpzQWZnUzkybkhBU1dib29TZTU1TndmdGhQSVlEb1JNMmRkbEk0emJBenpKV215clJRTVUzVm1Ud25pZ2d4QWJPTjJtZlhGTTVPa3N0R3g1Vkl0a0tYVU92UGVsZEdGc2JjQU9RUQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T17:15:07+00:00",
+          "title": "150+ Custom MyTeam logos - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "0e1723741b18d0ac78e7af3e",
+      "topic": "racing_games",
+      "title": "GC Auto Replay – automatic TV director for your replays - Updates - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb1Zoa1BrdkxOOWJLT2NfMGVmRzFKZzlWbjNYelo5bTg5LXRDOHZZQ1lrSjVCdzNESW1LdGd2VWJiaTh4cmlzOUlyb2hBS3Bfa2gxUDQ2aERnamJYT0dkNllYY2R2N0dVT3ltQXZPVXpjWTlGdW1ZU1ktRFlyTF9vU3ZJMXlsMW04VFFtbXMwemg2eW5OZjNJOHZ1NGJDcTVJcTljdV94M25fUDgyZ2FYWQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "GC Auto Replay – automatic TV director for your replays - Updates overtake.gg",
+      "published_utc": "2026-11-22T23:22:50+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb1Zoa1BrdkxOOWJLT2NfMGVmRzFKZzlWbjNYelo5bTg5LXRDOHZZQ1lrSjVCdzNESW1LdGd2VWJiaTh4cmlzOUlyb2hBS3Bfa2gxUDQ2aERnamJYT0dkNllYY2R2N0dVT3ltQXZPVXpjWTlGdW1ZU1ktRFlyTF9vU3ZJMXlsMW04VFFtbXMwemg2eW5OZjNJOHZ1NGJDcTVJcTljdV94M25fUDgyZ2FYWQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T23:22:50+00:00",
+          "title": "GC Auto Replay – automatic TV director for your replays - Updates - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "84120196b54d570a32e2f07a",
+      "topic": "racing_games",
+      "title": "Active Race Control - Updates - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hV1JIazB6UTE2b2p0bzhjWndnRUhURnF6bHY1TXRvOUtYRFRvRi16M3NIYkl2QnpWVDNfbnVDZ2JPMUh1cGhad2V3VnJvU0ItZWtiS1NpSXhqN2hReWY5SllSaVdIMW5GS0Q2YVU5a3JfZzFkLWc?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Active Race Control - Updates overtake.gg",
+      "published_utc": "2026-11-23T05:13:52+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hV1JIazB6UTE2b2p0bzhjWndnRUhURnF6bHY1TXRvOUtYRFRvRi16M3NIYkl2QnpWVDNfbnVDZ2JPMUh1cGhad2V3VnJvU0ItZWtiS1NpSXhqN2hReWY5SllSaVdIMW5GS0Q2YVU5a3JfZzFkLWc?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T05:13:52+00:00",
+          "title": "Active Race Control - Updates - overtake.gg"
         }
       ]
     }

@@ -213,9 +213,9 @@
       "description": "All the times you need to know for Formula 1's next race - the 2026 Qatar Grand Prix",
       "published_utc": "2026-11-24T21:27:10+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -223,11 +223,15 @@
           "url": "https://www.the-race.com/promoted/what-time-is-f1s-2026-qatar-grand-prix-full-weekend-schedule",
           "source": "The Race",
           "publisher": "The Race",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T21:27:10+00:00",
           "title": "What time is F1's 2026 Qatar Grand Prix? Full weekend schedule"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T21:27:10.000Z",
+      "article_modified_raw": "2026-11-24T21:27:10.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "e73fbd9da2115df2304212ff",
@@ -239,9 +243,9 @@
       "description": "While every MotoGP team might be flat-out working on 2027 while still staying focused on 2026, Ducati clearly believes that it's got something of an ace up its sleeve",
       "published_utc": "2026-11-24T15:49:26+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -249,11 +253,15 @@
           "url": "https://www.the-race.com/promoted/ducatis-ace-up-its-sleeve-motogp-2027",
           "source": "The Race",
           "publisher": "The Race",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T15:49:26+00:00",
           "title": "Ducati's ace up its sleeve for 2027?"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T15:49:26.000Z",
+      "article_modified_raw": "2026-11-24T16:43:23.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "20d7a93e253c2ab0f7444098",
@@ -265,9 +273,9 @@
       "description": "The UK's national motorsport body has announced the successor to David Richards.",
       "published_utc": "2026-11-24T15:01:33+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -275,11 +283,15 @@
           "url": "https://www.the-race.com/business/ex-ford-ceo-to-lead-motorsport-uk-as-david-richards-departs",
           "source": "The Race",
           "publisher": "The Race",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T15:01:33+00:00",
           "title": "Ex-Ford CEO to lead Motorsport UK as David Richards departs"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T15:01:33.000Z",
+      "article_modified_raw": "2026-11-24T15:01:33.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "c2b47d3db31ef2f860692790",
@@ -1881,9 +1893,9 @@
       "description": "McLaren's F1 drivers don't always appreciate its racing instructions. But they work. And Ferrari should learn from that",
       "published_utc": "2026-11-25T12:01:29+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -1891,11 +1903,15 @@
           "url": "https://www.the-race.com/formula-1/mclarens-driver-management-lessons-for-ferrari",
           "source": "The Race",
           "publisher": "The Race",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T12:01:29+00:00",
           "title": "McLaren's driver management lessons for Ferrari"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T12:01:29.000Z",
+      "article_modified_raw": "2026-11-25T12:01:29.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "c560e8be715f2d45c15c1744",
@@ -2226,8 +2242,8 @@
           "title": "アロンソ、アストンマーティン・ホンダの現状を語る「今のPUでは競争力を発揮できないけど、舞台裏の努力を見ると来季に向け自信が湧く」"
         }
       ],
-      "enrichment": "failed",
-      "enrichment_error": "403 Client Error: Forbidden for url: https://jp.motorsport.com/f1/news/f1-2026-astonmartin-undercut-alonso-interview-1/10877631"
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "cbeb9ac0845d407f589f2ec9",
@@ -5246,12 +5262,12 @@
       "url": "https://www.rallit.fi/valtteri-bottaksen-haastajalle-uusi-takaisku-vaikea-kausi-paattyy-ennen-aikojaan",
       "source": "Rallit",
       "publisher": "Rallit",
-      "description": "Yhdysvaltalaiskuljettaja Colton Hertan F2-kausi on ohi. Artikkeli Valtteri Bottaksen haastajalle uusi takaisku – vaikea kausi päättyy ennen aikojaan julkaistiin ensimmäisen kerran Rallit.fi .",
+      "description": "Yhdysvaltalaiskuljettaja Colton Hertan F2-kausi on ohi.",
       "published_utc": "2026-11-25T12:45:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -5259,11 +5275,15 @@
           "url": "https://www.rallit.fi/valtteri-bottaksen-haastajalle-uusi-takaisku-vaikea-kausi-paattyy-ennen-aikojaan",
           "source": "Rallit",
           "publisher": "Rallit",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T12:45:00+00:00",
           "title": "Valtteri Bottaksen haastajalle uusi takaisku – vaikea kausi päättyy ennen aikojaan"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T12:45:00+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "2ab489c27555d48a9f5323f0",
@@ -5332,12 +5352,12 @@
       "url": "https://www.rallit.fi/uusi-wrc-talli-havitteli-teemu-sunista-tiimipomolta-kutkuttava-paljastus",
       "source": "Rallit",
       "publisher": "Rallit",
-      "description": "Teemu Suninen ei kuulu rallin MM-sarjaan tulevan Project Rally One -tallin ensi kauden kuvioihin. Artikkeli Uusi WRC-talli havitteli Teemu Sunista – tiimipomolta kutkuttava paljastus julkaistiin ensimmäisen kerran Rallit.fi .",
+      "description": "Teemu Suninen ei kuulu rallin MM-sarjaan tulevan Project Rally One -tallin ensi kauden kuvioihin.",
       "published_utc": "2026-11-25T09:21:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -5345,11 +5365,15 @@
           "url": "https://www.rallit.fi/uusi-wrc-talli-havitteli-teemu-sunista-tiimipomolta-kutkuttava-paljastus",
           "source": "Rallit",
           "publisher": "Rallit",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T09:21:00+00:00",
           "title": "Uusi WRC-talli havitteli Teemu Sunista – tiimipomolta kutkuttava paljastus"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T09:21:00+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "72264717c1defd1c91c85885",
@@ -6420,7 +6444,10 @@
           "title": "Ferrari Calls for Meeting With Promoters About 296 GT3 Evo"
         }
       ],
-      "enrichment": "failed",
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "2026-11-25",
+      "enrichment": "url_only",
       "enrichment_error": "403 Client Error: Forbidden for url: https://sportscar365.com/lemans/wec/ferrari-calls-for-meeting-with-promoters-about-296-gt3-evo"
     },
     {
@@ -9391,12 +9418,12 @@
       "url": "https://www.formulapassion.it/video/video-f1/ferrari-f1-benedetto-vigna-pressione-su-fred-vasseur-news-25-11-warmup-podcast-330",
       "source": "FormulaPassion",
       "publisher": "FormulaPassion",
-      "description": "Ogni mattina prima delle 9.00 tutte le news di F1 e MotoGP, con una chiave di lettura per capirci qualcosa: è WarmUp, il podcast giornaliero di FP. L'episodio del 25 novembre 2026",
+      "description": "La puntata del 25 novembre di WarmUp, il podcast quotidiano che ti spiega le notizie con le info di contesto per provare a capirci qualcosa",
       "published_utc": "2026-11-25T08:35:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -9404,11 +9431,15 @@
           "url": "https://www.formulapassion.it/video/video-f1/ferrari-f1-benedetto-vigna-pressione-su-fred-vasseur-news-25-11-warmup-podcast-330",
           "source": "FormulaPassion",
           "publisher": "FormulaPassion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T08:35:00+00:00",
           "title": "Vigna alza la pressione su Vasseur e le altre news del 25/11 | WarmUp F1 Podcast #330"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T08:35:00+00:00",
+      "article_modified_raw": "2026-11-25T08:39:30+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "ca109ca4e0fdbe35a21129ac",
@@ -9439,32 +9470,6 @@
       "article_published_raw": "2026-11-25T07:00:33+00:00",
       "article_modified_raw": "2026-11-25T07:06:31+00:00",
       "enrichment": "article_metadata"
-    },
-    {
-      "id": "ec017f89b401b9bf7d6fc568",
-      "topic": "F1",
-      "title": "GP Valencia 2026: gli orari Sky/Now e TV8",
-      "url": "https://www.formulapassion.it/motogp/motogp-orari/orari-tv-gp-valencia-2026-televisione-programmazione-diretta-sky-differita-tv8-dove-vederla-bezzecchi-marquez-aprilia-ducati",
-      "source": "FormulaPassion",
-      "publisher": "FormulaPassion",
-      "description": "I dettagli della programmazione televisiva dell'ultimo appuntamento del Motomondiale 2026",
-      "published_utc": "2026-11-25T07:00:00+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
-      "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://www.formulapassion.it/motogp/motogp-orari/orari-tv-gp-valencia-2026-televisione-programmazione-diretta-sky-differita-tv8-dove-vederla-bezzecchi-marquez-aprilia-ducati",
-          "source": "FormulaPassion",
-          "publisher": "FormulaPassion",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-25T07:00:00+00:00",
-          "title": "GP Valencia 2026: gli orari Sky/Now e TV8"
-        }
-      ]
     },
     {
       "id": "ec31ef9d010ceb909b5ff2c5",
@@ -11036,10 +11041,10 @@
   ],
   "date_unknown": [],
   "health": {
-    "ok": 9,
-    "deferred": 14,
-    "partial": 2,
-    "empty": 1,
+    "ok": 8,
+    "deferred": 15,
+    "partial": 1,
+    "empty": 2,
     "skipped": 7
   }
 }

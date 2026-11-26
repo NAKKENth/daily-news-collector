@@ -4,5 +4,5 @@
 
 - [bluetooth_dac 1–1件](audio_bluetooth_dac_1.md)
 - [portable_dac 1–24件](audio_portable_dac_1.md)
-- [tws 1–37件](audio_tws_1.md)
-- [wired 1–41件](audio_wired_1.md)
+- [tws 1–38件](audio_tws_1.md)
+- [wired 1–40件](audio_wired_1.md)

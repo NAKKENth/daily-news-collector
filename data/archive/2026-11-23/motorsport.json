@@ -3131,6 +3131,7 @@
       "date_quality": "feed_published",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "63b40ebdbc3e",
       "sources": [
         {
           "url": "https://autoracer.it/alpine-gara-las-vegas-problema-motore-gasly-soprassi-colapinto-sfida-racing-bulls",
@@ -3157,6 +3158,7 @@
       "date_quality": "feed_published",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "7ecafa2c0248",
       "sources": [
         {
           "url": "https://autoracer.it/gp-las-vegas-2026-mclaren-norris-piastri-podio-dichiarazioni",
@@ -3183,6 +3185,7 @@
       "date_quality": "feed_published",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
+      "possible_event_id": "cd9d1c779f59",
       "sources": [
         {
           "url": "https://autoracer.it/haas-ufficiale-camara-confermato-f1-2026-gp-qatar-abu-dhabi",
@@ -8568,6 +8571,113 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-22T15:36:52+00:00",
           "title": "Taylor Powling, Author at PlanetF1 | Page 4 of 11 - PlanetF1"
+        }
+      ]
+    },
+    {
+      "id": "4154bc1cc9727b23e0dab004",
+      "topic": "F1",
+      "title": "Antonelli perde il podio nel finale: “volevo tenermi l’overtake mode ma qualcosa è andato storto” - AutoRacer.it",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVVFGbmt1S3B4aTJoaWJxY0ZHWEJleVVkZWs2Zkt0X2dfQUNnMXVUZFJuVlZDSjgtY3RUM1BsT1F6TnRKdEtPTjIxWERIVkRfMjhPTEtHaDNsVXFCSzlITWNfdTcyaUdueXljRDduano2WVpnbmF5d21pcUo0SmQ4dXdJdkdmSGczMEs0VVVDUF9WTV9QSFY5RExubGZsZDh6cnlQNEhMSURfenQ0aWd0WEN0TnQ5Zw?oc=5",
+      "source": "AutoRacer",
+      "publisher": "AutoRacer.it",
+      "description": "Antonelli perde il podio nel finale: “volevo tenermi l’overtake mode ma qualcosa è andato storto” AutoRacer.it",
+      "published_utc": "2026-11-22T15:34:53+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVVFGbmt1S3B4aTJoaWJxY0ZHWEJleVVkZWs2Zkt0X2dfQUNnMXVUZFJuVlZDSjgtY3RUM1BsT1F6TnRKdEtPTjIxWERIVkRfMjhPTEtHaDNsVXFCSzlITWNfdTcyaUdueXljRDduano2WVpnbmF5d21pcUo0SmQ4dXdJdkdmSGczMEs0VVVDUF9WTV9QSFY5RExubGZsZDh6cnlQNEhMSURfenQ0aWd0WEN0TnQ5Zw?oc=5",
+          "source": "AutoRacer",
+          "publisher": "AutoRacer.it",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T15:34:53+00:00",
+          "title": "Antonelli perde il podio nel finale: “volevo tenermi l’overtake mode ma qualcosa è andato storto” - AutoRacer.it"
+        }
+      ]
+    },
+    {
+      "id": "27e931b396ac5d0603eb4702",
+      "topic": "F1",
+      "title": "Haas conferma Rafael Câmara per i Gran Premi di Qatar ed Abu Dhabi, finirà la stagione in F1 - AutoRacer.it",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkVwaDl6MWFnZVVqQjluNXhqMkFxWnZSTjNDU2JWWnRVNEhLVHRoM1RXWW9zNDZPZWNLT1V6WlA5cVBxMEJJSnU5a2ZIOHlQbURxYkNUa1NOcVFXRjl4RDFUZk43U1hsa2ZYaGFva1R6TjZHdjhLRkpkZ21nRVJXTlFQdlV3M3lq?oc=5",
+      "source": "AutoRacer",
+      "publisher": "AutoRacer.it",
+      "description": "Haas conferma Rafael Câmara per i Gran Premi di Qatar ed Abu Dhabi, finirà la stagione in F1 AutoRacer.it",
+      "published_utc": "2026-11-22T18:52:21+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "possible_event_id": "cd9d1c779f59",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkVwaDl6MWFnZVVqQjluNXhqMkFxWnZSTjNDU2JWWnRVNEhLVHRoM1RXWW9zNDZPZWNLT1V6WlA5cVBxMEJJSnU5a2ZIOHlQbURxYkNUa1NOcVFXRjl4RDFUZk43U1hsa2ZYaGFva1R6TjZHdjhLRkpkZ21nRVJXTlFQdlV3M3lq?oc=5",
+          "source": "AutoRacer",
+          "publisher": "AutoRacer.it",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T18:52:21+00:00",
+          "title": "Haas conferma Rafael Câmara per i Gran Premi di Qatar ed Abu Dhabi, finirà la stagione in F1 - AutoRacer.it"
+        }
+      ]
+    },
+    {
+      "id": "cab1b46c8031536f55603c3f",
+      "topic": "F1",
+      "title": "Alpine, miglior risultato stagionale ma un problema al motore ha frenato le ambizioni di Gasly - AutoRacer.it",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaFR3QlNQNURlc09zdjJTejA4RlZ0blo4ejJONnViS091QnVVQ001ak5pU1lENG1ZemVNYnpvUjk1NlZLdXdFbS1lOXpGcEkwZjQyYllCOXBsWWZINUlJYXluYk9WTllJSVF3VE9LdnhVcjZSUG5lYlRoOWJsZHBpNVdhbmV5VXBCdW5qbDFaSHhkaXlYSVRMc0RVYmVfa1pyNGhjcE5B?oc=5",
+      "source": "AutoRacer",
+      "publisher": "AutoRacer.it",
+      "description": "Alpine, miglior risultato stagionale ma un problema al motore ha frenato le ambizioni di Gasly AutoRacer.it",
+      "published_utc": "2026-11-23T13:10:48+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "63b40ebdbc3e",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaFR3QlNQNURlc09zdjJTejA4RlZ0blo4ejJONnViS091QnVVQ001ak5pU1lENG1ZemVNYnpvUjk1NlZLdXdFbS1lOXpGcEkwZjQyYllCOXBsWWZINUlJYXluYk9WTllJSVF3VE9LdnhVcjZSUG5lYlRoOWJsZHBpNVdhbmV5VXBCdW5qbDFaSHhkaXlYSVRMc0RVYmVfa1pyNGhjcE5B?oc=5",
+          "source": "AutoRacer",
+          "publisher": "AutoRacer.it",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T13:10:48+00:00",
+          "title": "Alpine, miglior risultato stagionale ma un problema al motore ha frenato le ambizioni di Gasly - AutoRacer.it"
+        }
+      ]
+    },
+    {
+      "id": "6f34fbe9fd5a2f0f1d1677c3",
+      "topic": "F1",
+      "title": "Doppio podio McLaren in rimonta: \"Scelte giuste al momento giusto, ma tutto dipendeva dalla batteria\" - AutoRacer.it",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORVJYc28wOTRvdjJDamxZdV9oQjJmYXRRZ2hlX1hocW0zbkFfMHE0WGdINnlscVZuU3FDVVhWbzVFWmdwNmNhdmZtOHJHLUtVZHhjYnBVbXlrMG5kV2JReTZSLUlmQlFRLXE0NjFOOVNJR2M4eXJFRWpDaEpJMVA0eEtlT3MxZzU1aUE?oc=5",
+      "source": "AutoRacer",
+      "publisher": "AutoRacer.it",
+      "description": "Doppio podio McLaren in rimonta: \"Scelte giuste al momento giusto, ma tutto dipendeva dalla batteria\" AutoRacer.it",
+      "published_utc": "2026-11-23T10:15:39+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "7ecafa2c0248",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORVJYc28wOTRvdjJDamxZdV9oQjJmYXRRZ2hlX1hocW0zbkFfMHE0WGdINnlscVZuU3FDVVhWbzVFWmdwNmNhdmZtOHJHLUtVZHhjYnBVbXlrMG5kV2JReTZSLUlmQlFRLXE0NjFOOVNJR2M4eXJFRWpDaEpJMVA0eEtlT3MxZzU1aUE?oc=5",
+          "source": "AutoRacer",
+          "publisher": "AutoRacer.it",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T10:15:39+00:00",
+          "title": "Doppio podio McLaren in rimonta: \"Scelte giuste al momento giusto, ma tutto dipendeva dalla batteria\" - AutoRacer.it"
         }
       ]
     }

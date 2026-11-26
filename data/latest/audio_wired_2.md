@@ -1,5 +1,6 @@
 # wired / 2026-11-25 / 候補 51–100
 
+- [Closed: Forte Ears Macbeth - Head-Fi.org](https://news.google.com/rss/articles/CBMib0FVX3lxTFBuSmdrZm4wLUI3U1lMd3RBRlFJWEhhdkhEaEo2NXVGcldLZFRvVGI4WURIRnFQdEtDYVJKc2tpUGMxbU1ZUWJYdUJjMzZxRzU2WXVra3lTdWZIMU5vQnMyT0NIcUVta05hM2xTV05Tdw?oc=5) — Head-Fi｜要確認｜2026-11-24T22:32:00+00:00 UTC｜discovery_index
 - [Closed: Hisenior MEGA-5 EST 7th Anniversary - Head-Fi.org](https://news.google.com/rss/articles/CBMihgFBVV95cUxQNDJPRkRreFJ1T2xEdTE4Mi1SaUF2RDdyT3RjNlIwaGdiTHFTeDhnWExMUDVJcHhjcklTX1Z1VC1PZGdpaHJQbkFOSV9RTFhORkhIS1JuVzVUS24xZVhCRGthOEFidUdtb000NXV5LWFwaER5cWk0eHpZTmVrRWJ6MG9zRVplUQ?oc=5) — Head-Fi｜要確認｜2026-11-25T11:20:57+00:00 UTC｜discovery_index
 - [DACs & amps - Linsoul Audio - Linsoul Audio](https://news.google.com/rss/articles/CBMiggFBVV95cUxPOHJsY1lEYTEweHNiOUdhUTAtS2dlN3ZUNzRldVBPWmRTS3U2UWFrdWZnMXBrY0pYallvYU11a29lUWpYV0FGNDRDUVYxSzdLeEJ3dWpnQlp4SEg3cnlJNGE2TTI4eXdDSFFUMm5kZHBYbTRJZnFCcWdPbTQ1T0tVWm9R?oc=5) — Linsoul｜要確認｜2026-11-24T21:44:56+00:00 UTC｜discovery_index
 - [Digital audio players - Linsoul Audio](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcU5oSjV0QWdNeGFRVFliTHp0T1dkQ2RIUC00VnpLU1pJMlV6RXMxbDYySFJsREw4dTZXVkZtc2dRMzl0cGhXYTJINEY4QjA4SENiYmZrc3BBeDM3ZFBORmxyclNIck5Zbmw5dHd3SVVEb1Q2dUJtVkZra1VES3dfOXFndzRDcG91N3ZucQ?oc=5) — Linsoul｜要確認｜2026-11-25T06:42:13+00:00 UTC｜discovery_index
@@ -49,4 +50,3 @@
 - [goldwerger - Head-Fi.org](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XZUgtSU9RSE11SHRleTV3elhSLWE1VUVGaUhGakY4d1RybW1XdHFHdVZTQ1JCNnlMSzdvZGNKZVdrRTJtVU9odU5WUWYzNFhudWlINFFaaG9nc2FhSUtV?oc=5) — Head-Fi｜要確認｜2026-11-25T09:19:13+00:00 UTC｜discovery_index
 - [heddphone dx - Head-Fi.org](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SOGpjZjZqbllYVHEzX1ZIWW42SEFlUGlGRVFxZVFxRklPNEdlaVZEUnRSS3JORXJZcVBvY1Q1NXIxM25NOURJZ3JONlF1b1dKeE1BZg?oc=5) — Head-Fi｜要確認｜2026-11-25T10:34:37+00:00 UTC｜discovery_index
 - [iBasso DX270 R2R Ultra - Head-Fi.org](https://news.google.com/rss/articles/CBMidEFVX3lxTE9xeXBXZTRxSXFKY1NQNnRQcl9RQUg3UlhBRlZ2TGVEOWhiOG44Tzh5eF9WMHYyZndERC15OXJaZGZsTUJYeDl6S2p1QWJuVDlDdy14ellmTG1sT0lTTFkxd0xzMWpIN2dSdDlGOWdXa3N4UEFt?oc=5) — Head-Fi｜要確認｜2026-11-25T00:27:39+00:00 UTC｜discovery_index
-- [Kiwi Ears x ふぐみかん: EMBER | 2DD + 4BA Hybrid IEM](https://www.linsoul.com/products/kiwi-ears-x-fugumikan-ember) — Linsoul｜要確認｜日時不明 UTC｜unknown

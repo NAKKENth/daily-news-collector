@@ -118,35 +118,6 @@
       "enrichment_error": "previous 403 for this host in this run"
     },
     {
-      "id": "561ed25928535a5f6b87ca5b",
-      "topic": "F1",
-      "title": "F1 2027 grid: Who will be racing and where?",
-      "url": "https://www.autosport.com/f1/news/f1-2027-grid-who-will-be-racing-and-where/10847600",
-      "source": "Autosport all",
-      "publisher": "Autosport all",
-      "description": "The 2027 Formula 1 grid has very much taken shape with all but one spot now confirmed following a rather safe ‘silly season’ that didn’t present much drama. There is only one team - Haas - that is changing its line-up for next season as many potentially enthralling storylines failed to materialise in regards to the 2027 grid. So, here’s a look at t",
-      "published_utc": "2026-11-23T16:09:34+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
-      "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "priority",
-      "triage_reason": "競技名一致・新規性の確認",
-      "possible_event_id": "7557d406f983",
-      "sources": [
-        {
-          "url": "https://www.autosport.com/f1/news/f1-2027-grid-who-will-be-racing-and-where/10847600",
-          "source": "Autosport all",
-          "publisher": "Autosport all",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-23T16:09:34+00:00",
-          "title": "F1 2027 grid: Who will be racing and where?"
-        }
-      ],
-      "enrichment": "failed",
-      "enrichment_error": "403 Client Error: Forbidden for url: https://www.autosport.com/f1/news/f1-2027-grid-who-will-be-racing-and-where/10847600"
-    },
-    {
       "id": "036b7fdbd69d318a9f28e0b9",
       "topic": "other_motorsport",
       "title": "Autosport Business Awards open nominations to recognise excellence across global motorsport industry",
@@ -2686,35 +2657,6 @@
       "enrichment_error": "403 Client Error: Forbidden for url: https://www.motorsport.com/f1/news/f1-qatar-gp-2026-uk-times-schedule-how-to-watch/10877083"
     },
     {
-      "id": "170cdbd1de9d36d324feecfe",
-      "topic": "F1",
-      "title": "F1 2027 grid: Who will be racing and where?",
-      "url": "https://www.motorsport.com/f1/news/f1-2027-grid-how-many-spots-are-confirmed/10847586",
-      "source": "Motorsport EN F1",
-      "publisher": "Motorsport EN F1",
-      "description": "The 2027 Formula 1 grid has very much taken shape with all but one spot now confirmed following a rather safe ‘silly season’ that didn’t present much drama. There is only one team - Haas - that is changing its line-up for next season as many potentially enthralling storylines failed to materialise in regards to the 2027 grid. So, here’s a look at t",
-      "published_utc": "2026-11-23T15:46:47+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "source_feed_published",
-      "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "priority",
-      "triage_reason": "競技名一致・新規性の確認",
-      "possible_event_id": "7557d406f983",
-      "sources": [
-        {
-          "url": "https://www.motorsport.com/f1/news/f1-2027-grid-how-many-spots-are-confirmed/10847586",
-          "source": "Motorsport EN F1",
-          "publisher": "Motorsport EN F1",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-23T15:46:47+00:00",
-          "title": "F1 2027 grid: Who will be racing and where?"
-        }
-      ],
-      "enrichment": "failed",
-      "enrichment_error": "403 Client Error: Forbidden for url: https://www.motorsport.com/f1/news/f1-2027-grid-how-many-spots-are-confirmed/10847586"
-    },
-    {
       "id": "831244c6030f0b89d7fdf083",
       "topic": "F1",
       "title": "極寒のラスベガスからカタールへ。ホンダ折原エンジニア「PUセッティングや最適化も大幅な変更が必要」",
@@ -3213,6 +3155,7 @@
       "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
+      "possible_event_id": "c995be69695a",
       "sources": [
         {
           "url": "https://autoracer.it/live-youtube-autoracer-ferrari-e-inaccettabile-tensione-leclerc-hamilton",
@@ -3243,6 +3186,7 @@
       "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "d89988537470",
       "sources": [
         {
           "url": "https://autoracer.it/gp-qatar-2026-pirelli-preview-mescole-limite-27-giri-lusail",
@@ -3303,6 +3247,7 @@
       "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
+      "possible_event_id": "1c584880d29a",
       "sources": [
         {
           "url": "https://autoracer.it/il-gp-di-las-vegas-accende-il-dibattito-wolff-un-mix-fra-nascar-e-indycar-bisogna-avere-una-mentalita-aperta",
@@ -3333,6 +3278,7 @@
       "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
+      "possible_event_id": "bc3c32ea9e1f",
       "sources": [
         {
           "url": "https://autoracer.it/stellantis-dice-basta-a-wec-e-formula-e-ritiro-immediato-peugeot-citroen-e-opel-nellestate-2027",
@@ -8794,6 +8740,114 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T18:39:16+00:00",
           "title": "Bubba Wallace Archives - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "f0df8f00033baa859bf6dfad",
+      "topic": "F1",
+      "title": "FERRARI, COSÌ È INACCETTABILE! Tensione alle stelle: cosa succede ora a Leclerc e Hamilton? - AutoRacer.it",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV2t5d2lVbjZ3dGNySnVQalNJLXRwejdKT1YzOEpfV0dZSExVVk1Ma0Z2YkFNZ3R2bFFRNVpBZk8tMmExWFNLeXFKRVJqNFB2bHRNcTBjX3BJSFFuRUFQNFpXV2EwLVpxV3NLQ2Q5bFdzbDNvOU9oejZOQnFfUURwWTZhQUQwaWd3UmppaWJGVDg5YTV1Y3JtT1d3?oc=5",
+      "source": "AutoRacer",
+      "publisher": "AutoRacer.it",
+      "description": "FERRARI, COSÌ È INACCETTABILE! Tensione alle stelle: cosa succede ora a Leclerc e Hamilton? AutoRacer.it",
+      "published_utc": "2026-11-24T14:06:49+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "possible_event_id": "c995be69695a",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV2t5d2lVbjZ3dGNySnVQalNJLXRwejdKT1YzOEpfV0dZSExVVk1Ma0Z2YkFNZ3R2bFFRNVpBZk8tMmExWFNLeXFKRVJqNFB2bHRNcTBjX3BJSFFuRUFQNFpXV2EwLVpxV3NLQ2Q5bFdzbDNvOU9oejZOQnFfUURwWTZhQUQwaWd3UmppaWJGVDg5YTV1Y3JtT1d3?oc=5",
+          "source": "AutoRacer",
+          "publisher": "AutoRacer.it",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T14:06:49+00:00",
+          "title": "FERRARI, COSÌ È INACCETTABILE! Tensione alle stelle: cosa succede ora a Leclerc e Hamilton? - AutoRacer.it"
+        }
+      ]
+    },
+    {
+      "id": "f31a71787c57ab7a7878c29a",
+      "topic": "IndyCar",
+      "title": "Il GP Las Vegas accende il dibattito, Wolff: “Un mix fra Nascar e Indycar. Bisogna avere una mentalità aperta” - AutoRacer.it",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR2V1bnpWak1vZzhDTjR0RkVWN191SDlHQnpYcDVvOWI5YUpnZGxlb3NkdV9ZOTVlVHhxcTV0UlV1MkxJdjB0ZlhEU0dWZkxrY0ZKaS1DQmhjY3JqSkdhcnkyeUZNbzRJWTNsbHhGOEdlZXZNZzNuSmF5d2djUXdSbnIzSE1NbkZHMEYzVDhKNG5TOHpaMVc0MFM0VXA1WEdycC0zemhkcUs2eEhvMDdLeGJIUVNVVnJqVmdSYnl6c1pyQ0N3emZYVjRB?oc=5",
+      "source": "AutoRacer",
+      "publisher": "AutoRacer.it",
+      "description": "Il GP Las Vegas accende il dibattito, Wolff: “Un mix fra Nascar e Indycar. Bisogna avere una mentalità aperta” AutoRacer.it",
+      "published_utc": "2026-11-24T09:25:42+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "possible_event_id": "1c584880d29a",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR2V1bnpWak1vZzhDTjR0RkVWN191SDlHQnpYcDVvOWI5YUpnZGxlb3NkdV9ZOTVlVHhxcTV0UlV1MkxJdjB0ZlhEU0dWZkxrY0ZKaS1DQmhjY3JqSkdhcnkyeUZNbzRJWTNsbHhGOEdlZXZNZzNuSmF5d2djUXdSbnIzSE1NbkZHMEYzVDhKNG5TOHpaMVc0MFM0VXA1WEdycC0zemhkcUs2eEhvMDdLeGJIUVNVVnJqVmdSYnl6c1pyQ0N3emZYVjRB?oc=5",
+          "source": "AutoRacer",
+          "publisher": "AutoRacer.it",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T09:25:42+00:00",
+          "title": "Il GP Las Vegas accende il dibattito, Wolff: “Un mix fra Nascar e Indycar. Bisogna avere una mentalità aperta” - AutoRacer.it"
+        }
+      ]
+    },
+    {
+      "id": "147d022951cbc8532ded69b2",
+      "topic": "WEC",
+      "title": "Stellantis dice basta a WEC e Formula E: ritiro immediato Peugeot, stop a Citroën e Opel nell'estate 2027 - AutoRacer.it",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdjBvcUQydGRmZ3BfeE9wOEpHdWM4dXFsNlAwU2tENzVyQlp3am92dmp0U28zTVdNYmlEcnVILVd2dkFVMDdIMndlWjFSc2p6NDZ4d3h1VnpMc1lFVDl5Nk1zeC1yWlhkNFpaNUdjUDdJSUlUenlOWUdBeV9YenMzajZNR01EVDN3aU9aRGRBVlNzRGd2TkhrdmJxejJKVnhOdkJPTFlxUFp5R3BmTldYMXBhblN1MG5G?oc=5",
+      "source": "AutoRacer",
+      "publisher": "AutoRacer.it",
+      "description": "Stellantis dice basta a WEC e Formula E: ritiro immediato Peugeot, stop a Citroën e Opel nell'estate 2027 AutoRacer.it",
+      "published_utc": "2026-11-23T15:46:26+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "possible_event_id": "bc3c32ea9e1f",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdjBvcUQydGRmZ3BfeE9wOEpHdWM4dXFsNlAwU2tENzVyQlp3am92dmp0U28zTVdNYmlEcnVILVd2dkFVMDdIMndlWjFSc2p6NDZ4d3h1VnpMc1lFVDl5Nk1zeC1yWlhkNFpaNUdjUDdJSUlUenlOWUdBeV9YenMzajZNR01EVDN3aU9aRGRBVlNzRGd2TkhrdmJxejJKVnhOdkJPTFlxUFp5R3BmTldYMXBhblN1MG5G?oc=5",
+          "source": "AutoRacer",
+          "publisher": "AutoRacer.it",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T15:46:26+00:00",
+          "title": "Stellantis dice basta a WEC e Formula E: ritiro immediato Peugeot, stop a Citroën e Opel nell'estate 2027 - AutoRacer.it"
+        }
+      ]
+    },
+    {
+      "id": "86030ef3976c14d57c6b541f",
+      "topic": "F1",
+      "title": "GP Qatar 2026: Pirelli porta le mescole più dure e alza a 27 il limite di giri per set - AutoRacer.it",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUlUwT1h3TmtZYVZjeHNUTDBjLXpyWEY4WF93SGFsc3hYNXl6TVNBUHFiWFFYdjE0OGIxbHZRd092dFZhRHZlWEFER1Q2UzRjYjlHWVZoaGZ1N3RZZENEYmdCWVFoZldJNmdwd2x6ekdhSWJ1SjlsZkliY3BQeTBoUzI1V2kxZjUy?oc=5",
+      "source": "AutoRacer",
+      "publisher": "AutoRacer.it",
+      "description": "GP Qatar 2026: Pirelli porta le mescole più dure e alza a 27 il limite di giri per set AutoRacer.it",
+      "published_utc": "2026-11-24T13:04:32+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "d89988537470",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUlUwT1h3TmtZYVZjeHNUTDBjLXpyWEY4WF93SGFsc3hYNXl6TVNBUHFiWFFYdjE0OGIxbHZRd092dFZhRHZlWEFER1Q2UzRjYjlHWVZoaGZ1N3RZZENEYmdCWVFoZldJNmdwd2x6ekdhSWJ1SjlsZkliY3BQeTBoUzI1V2kxZjUy?oc=5",
+          "source": "AutoRacer",
+          "publisher": "AutoRacer.it",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T13:04:32+00:00",
+          "title": "GP Qatar 2026: Pirelli porta le mescole più dure e alza a 27 il limite di giri per set - AutoRacer.it"
         }
       ]
     }

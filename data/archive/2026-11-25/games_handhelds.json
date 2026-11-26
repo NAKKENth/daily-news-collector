@@ -6334,6 +6334,84 @@
           "title": "FEED IT - Steam"
         }
       ]
+    },
+    {
+      "id": "21028c513b466a4fc4990c11",
+      "topic": "racing_games",
+      "title": "rally history - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlUlZXMGV6NkZ4ZldUUV9Ka0JoenNpSU9IM0tpSEs0SjlUb1FLVG1sVW9STEhvd3o2Z0l0dFpfNzBKQi1ybTJ0SGpFRHpGQ1FEek91YmpR?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "rally history overtake.gg",
+      "published_utc": "2026-11-24T20:02:04+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlUlZXMGV6NkZ4ZldUUV9Ka0JoenNpSU9IM0tpSEs0SjlUb1FLVG1sVW9STEhvd3o2Z0l0dFpfNzBKQi1ybTJ0SGpFRHpGQ1FEek91YmpR?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T20:02:04+00:00",
+          "title": "rally history - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "fbca4ac0bbccdc9c6d4ea0ed",
+      "topic": "racing_games",
+      "title": "rFuktor2 - Eddie de Beer & Friends Tribute - FFB R12 Natural Tire 1.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWjhzQm5aLUZwOXRsSndiUlUxYXVtb2EtWFdGQ29QX0ZOVXktQUs5UzB2SFNoT2RUQkY2QkV2VlJ2S0FldVhnSTZkZjJrRVNBZnRzSmdFYjhsZG5jczFXc19fWHZnU0k3N0U0NGhGOUNOX2tXUW1UVkw0eWhRdmt1cTcwamNHb2dHYUw1QnczSWJxSU4tUUYxem9CLXBYZEh0S3c?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "rFuktor2 - Eddie de Beer & Friends Tribute - FFB R12 Natural Tire 1.0 overtake.gg",
+      "published_utc": "2026-11-25T08:35:07+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWjhzQm5aLUZwOXRsSndiUlUxYXVtb2EtWFdGQ29QX0ZOVXktQUs5UzB2SFNoT2RUQkY2QkV2VlJ2S0FldVhnSTZkZjJrRVNBZnRzSmdFYjhsZG5jczFXc19fWHZnU0k3N0U0NGhGOUNOX2tXUW1UVkw0eWhRdmt1cTcwamNHb2dHYUw1QnczSWJxSU4tUUYxem9CLXBYZEh0S3c?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:35:07+00:00",
+          "title": "rFuktor2 - Eddie de Beer & Friends Tribute - FFB R12 Natural Tire 1.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "e3694d4fad3d54df8d5a1fd5",
+      "topic": "racing_games",
+      "title": "Anderstorp Raceway for F1 25 - Reviews - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2RJZlA2U3hYMWpzbFF5Q2ZsLTJzRkptOVBVUWhpX0hMQ09sOENhWUkyS0RXVE0wZkV5MmxXMDRNcVV0TjhLRzdHc3ViYnFOak9IQzYydzVDbElVTEVxdGhsZDgyR05HN1A0X1l3WWd3MXp0VjF4ckxwN2dpVi15MzdB?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Anderstorp Raceway for F1 25 - Reviews overtake.gg",
+      "published_utc": "2026-11-24T16:00:01+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2RJZlA2U3hYMWpzbFF5Q2ZsLTJzRkptOVBVUWhpX0hMQ09sOENhWUkyS0RXVE0wZkV5MmxXMDRNcVV0TjhLRzdHc3ViYnFOak9IQzYydzVDbElVTEVxdGhsZDgyR05HN1A0X1l3WWd3MXp0VjF4ckxwN2dpVi15MzdB?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T16:00:01+00:00",
+          "title": "Anderstorp Raceway for F1 25 - Reviews - overtake.gg"
+        }
+      ]
     }
   ],
   "date_unknown": [],

@@ -4282,32 +4282,6 @@
       ]
     },
     {
-      "id": "660cc4e1ab9e1059b913295a",
-      "topic": "pc",
-      "title": "Wall Street rebounds as Jensen Huang returns as Nvidia CEO - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNEVIVnBMbFk4UVlXOGlieWlkeWhldU5HWnFSdWNVU3BIU2YycVJnV3NWZGxGNXFMTjlKU3VuUTBnWGxZUjBtV3JCVlZjNU11MXZOT0s4V3QyRTNPNDlBRzAzX095cHphSWNSYnBTZmprLTVmdUVKd0RHc1FCbHdITU9Mb3BZMWlZM3pLQkF5MElMakFJME1WVWZOY0xJVWJnbTQ4dnpsQlNEZw?oc=5",
-      "source": "Reuters AI",
-      "publisher": "Reuters",
-      "description": "Wall Street rebounds as Jensen Huang returns as Nvidia CEO Reuters",
-      "published_utc": "2026-11-23T07:55:00+00:00",
-      "date_jst": "2026-11-23",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "PC技術候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNEVIVnBMbFk4UVlXOGlieWlkeWhldU5HWnFSdWNVU3BIU2YycVJnV3NWZGxGNXFMTjlKU3VuUTBnWGxZUjBtV3JCVlZjNU11MXZOT0s4V3QyRTNPNDlBRzAzX095cHphSWNSYnBTZmprLTVmdUVKd0RHc1FCbHdITU9Mb3BZMWlZM3pLQkF5MElMakFJME1WVWZOY0xJVWJnbTQ4dnpsQlNEZw?oc=5",
-          "source": "Reuters AI",
-          "publisher": "Reuters",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T07:55:00+00:00",
-          "title": "Wall Street rebounds as Jensen Huang returns as Nvidia CEO - Reuters"
-        }
-      ]
-    },
-    {
       "id": "c2adb03531d135f9d43f1db8",
       "topic": "ai",
       "title": "Dell, HPE results to put AI demand to the test after tech rout - Reuters",

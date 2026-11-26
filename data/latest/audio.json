@@ -4359,12 +4359,42 @@
       "article_published_raw": "",
       "article_modified_raw": "",
       "enrichment": "url_only"
+    },
+    {
+      "id": "ebe09cc275a15e62e14be0c9",
+      "topic": "wired",
+      "title": "Binary Apsara 10mm DLC Dynamic Driver + MEMS Hybrid IEMs",
+      "url": "https://hifigo.com/products/binary-apsara",
+      "source": "HiFiGo",
+      "publisher": "HiFiGo",
+      "description": "Buy Binary Apsara 10mm DLC Dynamic Driver + MEMS Hybrid IEMs with Free shipping on HiFiGo, you can enjoy a year warranty and the best after-sales service",
+      "published_utc": null,
+      "date_jst": null,
+      "timestamp_basis": "listing_seen",
+      "link_role": "source_article",
+      "date_quality": "unknown",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://hifigo.com/products/binary-apsara",
+          "source": "HiFiGo",
+          "publisher": "HiFiGo",
+          "timestamp_basis": "listing_seen",
+          "published_utc": null,
+          "title": "Binary Apsara 10mm DLC Dynamic Driver + MEMS Hybrid IEMs"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     }
   ],
   "health": {
-    "partial": 16,
-    "ok": 7,
-    "deferred": 12,
+    "partial": 13,
+    "ok": 9,
+    "deferred": 13,
     "failed": 1,
     "empty": 1,
     "skipped": 5,

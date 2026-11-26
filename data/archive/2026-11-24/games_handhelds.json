@@ -412,6 +412,32 @@
       ]
     },
     {
+      "id": "39216f2aa87f7d35d7c96857",
+      "topic": "racing_games",
+      "title": "F1 2025 / 2026 Broadcast Lap Timer HUD v1.2-beta - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb1FKdGI5eHVyQjZvLTlFOHg2OGZHQ0ZabDNrWDVPUUd1NFc0VXdRaXFyY3pvb3VvYXhqN00yM0xfWjFrdjB6MU9kVHpmdEVrX3lEbW5YbkhBUmpJbkxNZDF3dGo3eHdqZFNBbF9nVUxOVkp5UVdGX29uMTI2MU9WMFhLWQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "F1 2025 / 2026 Broadcast Lap Timer HUD v1.2-beta overtake.gg",
+      "published_utc": "2026-11-24T09:34:47+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb1FKdGI5eHVyQjZvLTlFOHg2OGZHQ0ZabDNrWDVPUUd1NFc0VXdRaXFyY3pvb3VvYXhqN00yM0xfWjFrdjB6MU9kVHpmdEVrX3lEbW5YbkhBUmpJbkxNZDF3dGo3eHdqZFNBbF9nVUxOVkp5UVdGX29uMTI2MU9WMFhLWQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T09:34:47+00:00",
+          "title": "F1 2025 / 2026 Broadcast Lap Timer HUD v1.2-beta - overtake.gg"
+        }
+      ]
+    },
+    {
       "id": "b8ac2f6ce45958076a0167ab",
       "topic": "racing_games",
       "title": "Paddock Wire 0.5.2 - overtake.gg",
@@ -434,34 +460,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T16:19:09+00:00",
           "title": "Paddock Wire 0.5.2 - overtake.gg"
-        }
-      ],
-      "enrichment": "failed",
-      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
-    },
-    {
-      "id": "50e08fb0a8bc1bfecb706fa7",
-      "topic": "racing_games",
-      "title": "Driver Display 1.2.16 - overtake.gg",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FR0p3cE9TWWl3eF85Q0tPb1FfWlpROUNIRmNONEtDbmR0bzBsUjhCZFBMcXdUREw4T2xkU0FNTXNWMlROQlVSNmh1X3lCb3JtUzNuLWRCRzNTYWFUR05vVWVWOEUtdw?oc=5",
-      "source": "OverTake",
-      "publisher": "overtake.gg",
-      "description": "Driver Display 1.2.16 overtake.gg",
-      "published_utc": "2026-11-23T20:45:45+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FR0p3cE9TWWl3eF85Q0tPb1FfWlpROUNIRmNONEtDbmR0bzBsUjhCZFBMcXdUREw4T2xkU0FNTXNWMlROQlVSNmh1X3lCb3JtUzNuLWRCRzNTYWFUR05vVWVWOEUtdw?oc=5",
-          "source": "OverTake",
-          "publisher": "overtake.gg",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T20:45:45+00:00",
-          "title": "Driver Display 1.2.16 - overtake.gg"
         }
       ],
       "enrichment": "failed",
@@ -3550,6 +3548,110 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T16:19:13+00:00",
           "title": "Oldsmobile Starfire 98 1957 1.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "24f95bf9cf443924fa4f17d9",
+      "topic": "racing_games",
+      "title": "Asseto Corsa Killarney Raceway 1.0.5 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vc0VtVU5GZXRRMkNqX2NFVGEtODF1VTVtbkMteWpYQ0l6NUFmNEJWTHhFa3RibWExeE0waEoyMDRDVWFMY2hIS1NSb19vbDNmdzZJNEFOa2dxSUIzaVo1UG1xMFVweEZ0WEJLbThOcVdqaW1qWGVlb2NEQQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Asseto Corsa Killarney Raceway 1.0.5 overtake.gg",
+      "published_utc": "2026-11-24T13:57:50+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vc0VtVU5GZXRRMkNqX2NFVGEtODF1VTVtbkMteWpYQ0l6NUFmNEJWTHhFa3RibWExeE0waEoyMDRDVWFMY2hIS1NSb19vbDNmdzZJNEFOa2dxSUIzaVo1UG1xMFVweEZ0WEJLbThOcVdqaW1qWGVlb2NEQQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T13:57:50+00:00",
+          "title": "Asseto Corsa Killarney Raceway 1.0.5 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "0725c2455c1d7fd9cef1946d",
+      "topic": "racing_games",
+      "title": "Affinity SimHub Plugin 0.5.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJWkt0V01yQjhIdHJwRHhhenhoc0VRUGxNaXFBWE9VSnNFV2hWYWVhLTcxNDJWakVFSlNxMlFneDR3MGt2dVdtMW95bEotRC0wTXpGYjVBcTBCZFFzZ3VfdndEaERlRzk2OFd5Zmt1RUI?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Affinity SimHub Plugin 0.5.0 overtake.gg",
+      "published_utc": "2026-11-24T00:59:53+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJWkt0V01yQjhIdHJwRHhhenhoc0VRUGxNaXFBWE9VSnNFV2hWYWVhLTcxNDJWakVFSlNxMlFneDR3MGt2dVdtMW95bEotRC0wTXpGYjVBcTBCZFFzZ3VfdndEaERlRzk2OFd5Zmt1RUI?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T00:59:53+00:00",
+          "title": "Affinity SimHub Plugin 0.5.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "b1e6632ba4cff1958fb34e65",
+      "topic": "racing_games",
+      "title": "Black cat show 2026-11-23 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wZkNPS3ljaUJ3anctbTNQMXJfeHpDcm1GUURRMXBsMnBQaktGN2w1YkEyeWJqeTJSRm9VVDhlODUtYnNZV2I2UGthLWgzZEtFX3BST3k0WEdERnFDMVlnVzBMRzFPdw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Black cat show 2026-11-23 overtake.gg",
+      "published_utc": "2026-11-23T21:50:24+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wZkNPS3ljaUJ3anctbTNQMXJfeHpDcm1GUURRMXBsMnBQaktGN2w1YkEyeWJqeTJSRm9VVDhlODUtYnNZV2I2UGthLWgzZEtFX3BST3k0WEdERnFDMVlnVzBMRzFPdw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T21:50:24+00:00",
+          "title": "Black cat show 2026-11-23 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "ac19d365219f755d55cd3909",
+      "topic": "racing_games",
+      "title": "Road atlanta 1971-1980 - Reviews - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObmVEMzAzN3kzQnp4dDVGNGp2YjlkX2poS2pROGZHUjhhOVF3RV9lR09VSXJFQUQySlRzVlRFNDY1aEExSWxIS3lIQ0t0R3ZZLXhBeTFoMEt2djBhSWFDYmY4aU1Vd1lzRUhDaWwxeGVUc0xVUE1yY21jSk9wSnB2bkRWZw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Road atlanta 1971-1980 - Reviews overtake.gg",
+      "published_utc": "2026-11-23T17:02:56+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObmVEMzAzN3kzQnp4dDVGNGp2YjlkX2poS2pROGZHUjhhOVF3RV9lR09VSXJFQUQySlRzVlRFNDY1aEExSWxIS3lIQ0t0R3ZZLXhBeTFoMEt2djBhSWFDYmY4aU1Vd1lzRUhDaWwxeGVUc0xVUE1yY21jSk9wSnB2bkRWZw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T17:02:56+00:00",
+          "title": "Road atlanta 1971-1980 - Reviews - overtake.gg"
         }
       ]
     }

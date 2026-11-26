@@ -4596,6 +4596,32 @@
       ]
     },
     {
+      "id": "703c0ef8c98e192704f120e8",
+      "topic": "ai",
+      "title": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains Reuters",
+      "published_utc": "2026-11-25T10:08:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T10:08:00+00:00",
+          "title": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains - Reuters"
+        }
+      ]
+    },
+    {
       "id": "872f66f0d2f1289c86fb98c9",
       "topic": "pc",
       "title": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington - Reuters",
@@ -9418,11 +9444,11 @@
     {
       "id": "9e73adcab2dcf9dc736b34ed",
       "topic": "smartphones",
-      "title": "Galaxy S27 Pro e Ultra: vídeo de capas revela novo módulo traseiro",
+      "title": "Galaxy S27 Pro e Ultra: vídeo de capas revela novo módulo traseiro | TugaTech",
       "url": "https://tugatech.com.pt/t95196-galaxy-s27-pro-e-ultra-video-de-capas-revela-novo-modulo-traseiro",
       "source": "VideoCardz",
       "publisher": "VideoCardz",
-      "description": "A próxima geração de smartphones da Samsung surgiu num vídeo de testes de acessórios que evidencia uma rutura estética entre os quatro modelos previstos para o início de 2027. Enquanto as variantes base e Plus conservam o desenho atual da marca, os Galaxy S27 Pro e Galaxy S27 Ultra adotam uma ilha de câmaras traseira mais larga e distinguem-se pela",
+      "description": "A próxima geração de smartphones da Samsung surgiu num vídeo de testes de acessórios que evidencia uma rutura estética entre os quatro modelos previstos para o",
       "published_utc": "2026-11-25T13:10:04+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
@@ -9437,18 +9463,22 @@
           "publisher": "VideoCardz",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T13:10:04+00:00",
-          "title": "Galaxy S27 Pro e Ultra: vídeo de capas revela novo módulo traseiro"
+          "title": "Galaxy S27 Pro e Ultra: vídeo de capas revela novo módulo traseiro | TugaTech"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "2b45f5abfa4b9beb0c716573",
       "topic": "pc",
-      "title": "Windows 11 26H2 instala-se automaticamente em PCs com 24H2 e 25H2",
+      "title": "Windows 11 26H2 instala-se automaticamente em PCs com 24H2 e 25H2 | TugaTech",
       "url": "https://tugatech.com.pt/t95195-windows-11-26h2-instala-se-automaticamente-em-pcs-com-24h2-e-25h2",
       "source": "VideoCardz",
       "publisher": "VideoCardz",
-      "description": "A Microsoft iniciou a 18 de novembro de 2026 a disponibilização automática do Windows 11 26H2 para computadores pessoais que executam as versões 24H2 e 25H2. A nova versão chega através de um pacote de ativação de instalação rápida, estende o suporte de segurança até 9 de outubro de 2028 e acelera o Explorador de Ficheiros, mas mantém em aberto uma",
+      "description": "A Microsoft iniciou a 18 de novembro de 2026 a disponibilização automática do Windows 11 26H2 para computadores pessoais que executam as versões 24H2 e 25H2. A",
       "published_utc": "2026-11-25T13:09:44+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
@@ -9463,18 +9493,22 @@
           "publisher": "VideoCardz",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T13:09:44+00:00",
-          "title": "Windows 11 26H2 instala-se automaticamente em PCs com 24H2 e 25H2"
+          "title": "Windows 11 26H2 instala-se automaticamente em PCs com 24H2 e 25H2 | TugaTech"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "86c14aeb8541a7c6c4407934",
       "topic": "pc",
-      "title": "Android Auto: bug substitui mapa do Google Maps por ecrã preto",
+      "title": "Android Auto: bug substitui mapa do Google Maps por ecrã preto | TugaTech",
       "url": "https://tugatech.com.pt/t95193-android-auto-bug-substitui-mapa-do-google-maps-por-ecra-preto",
       "source": "VideoCardz",
       "publisher": "VideoCardz",
-      "description": "Um novo bug no Android Auto impede o carregamento correto do Google Maps ao arrancar o sistema de infoentretenimento e substitui a interface de navegação por um ecrã totalmente preto. Em alguns casos, o mapa surge parcialmente visível, mas fica cortado por uma faixa preta que inviabiliza a orientação em viagem.",
+      "description": "Um novo bug no Android Auto impede o carregamento correto do Google Maps ao arrancar o sistema de infoentretenimento e substitui a interface de navegação por um",
       "published_utc": "2026-11-25T13:04:30+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
@@ -9489,18 +9523,22 @@
           "publisher": "VideoCardz",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T13:04:30+00:00",
-          "title": "Android Auto: bug substitui mapa do Google Maps por ecrã preto"
+          "title": "Android Auto: bug substitui mapa do Google Maps por ecrã preto | TugaTech"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "78aaed5394f74a0f86a73302",
       "topic": "pc",
-      "title": "Galaxy Z TriFold 2: fuga aponta design mais fino e venda limitada",
+      "title": "Galaxy Z TriFold 2: fuga aponta design mais fino e venda limitada | TugaTech",
       "url": "https://tugatech.com.pt/t95194-galaxy-z-trifold-2-fuga-aponta-design-mais-fino-e-venda-limitada",
       "source": "VideoCardz",
       "publisher": "VideoCardz",
-      "description": "O Galaxy Z TriFold 2 já estará numa fase avançada de desenvolvimento na Samsung, com a chegada ao mercado apontada para meados de 2027. Apesar de os rumores indicarem uma dobradiça mais fina e resistente, o smartphone dobrável deverá manter uma distribuição comercial restrita a poucos países, deixando de fora a maioria dos mercados internacionais.",
+      "description": "O Galaxy Z TriFold 2 já estará numa fase avançada de desenvolvimento na Samsung, com a chegada ao mercado apontada para meados de 2027. Apesar de os rumores ind",
       "published_utc": "2026-11-25T13:03:30+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
@@ -9515,18 +9553,22 @@
           "publisher": "VideoCardz",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T13:03:30+00:00",
-          "title": "Galaxy Z TriFold 2: fuga aponta design mais fino e venda limitada"
+          "title": "Galaxy Z TriFold 2: fuga aponta design mais fino e venda limitada | TugaTech"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "78509a51dc3b49a3adff95a6",
       "topic": "smartphones",
-      "title": "One UI 9.0 desativa atalho do botão lateral nos Samsung Galaxy",
+      "title": "One UI 9.0 desativa atalho do botão lateral nos Samsung Galaxy | TugaTech",
       "url": "https://tugatech.com.pt/t95192-one-ui-9-0-desativa-atalho-do-botao-lateral-nos-samsung-galaxy",
       "source": "VideoCardz",
       "publisher": "VideoCardz",
-      "description": "A atualização estável para a One UI 9.0 interrompeu o funcionamento do atalho de duplo toque no botão lateral utilizado para iniciar gravações de voz através da aplicação RegiStar. A falha afeta vários smartphones da Samsung, com especial destaque para o Galaxy Z Flip 5, e manifesta-se sobretudo a partir do ecrã de bloqueio.",
+      "description": "A atualização estável para a One UI 9.0 interrompeu o funcionamento do atalho de duplo toque no botão lateral utilizado para iniciar gravações de voz através da",
       "published_utc": "2026-11-25T12:58:33+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
@@ -9541,18 +9583,22 @@
           "publisher": "VideoCardz",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T12:58:33+00:00",
-          "title": "One UI 9.0 desativa atalho do botão lateral nos Samsung Galaxy"
+          "title": "One UI 9.0 desativa atalho do botão lateral nos Samsung Galaxy | TugaTech"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "3df403df5fc6e65429d326de",
       "topic": "pc",
-      "title": "Windows 11 liberta quase 900 MB de RAM em apps da Microsoft",
+      "title": "Windows 11 liberta quase 900 MB de RAM em apps da Microsoft | TugaTech",
       "url": "https://tugatech.com.pt/t95191-windows-11-liberta-quase-900-mb-de-ram-em-apps-da-microsoft",
       "source": "VideoCardz",
       "publisher": "VideoCardz",
-      "description": "As otimizações recentes no Windows 11 já libertaram mais de 860 MB de memória RAM, perto da marca dos 900 MB, depois de a Microsoft reduzir o consumo excessivo de vários serviços e aplicações próprias em segundo plano. A melhoria beneficia sobretudo computadores equipados com 8 GB de RAM, onde a margem de memória disponível condiciona a fluidez no ",
+      "description": "As otimizações recentes no Windows 11 já libertaram mais de 860 MB de memória RAM, perto da marca dos 900 MB, depois de a Microsoft reduzir o consumo excessivo",
       "published_utc": "2026-11-25T12:49:30+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
@@ -9567,9 +9613,13 @@
           "publisher": "VideoCardz",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T12:49:30+00:00",
-          "title": "Windows 11 liberta quase 900 MB de RAM em apps da Microsoft"
+          "title": "Windows 11 liberta quase 900 MB de RAM em apps da Microsoft | TugaTech"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "5a5d41c1c87c0de1dd5c4901",
@@ -11298,16 +11348,16 @@
     {
       "id": "74062eb8461e1b4397bfb171",
       "topic": "ai",
-      "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+      "title": "Trump reportedly says pardoning Jensen Huang is &#8216;an option&#8217;",
       "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary",
       "source": "TechCrunch",
       "publisher": "TechCrunch",
       "description": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
       "published_utc": "2026-11-25T00:10:27+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -11315,11 +11365,15 @@
           "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T00:10:27+00:00",
-          "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’"
+          "title": "Trump reportedly says pardoning Jensen Huang is &#8216;an option&#8217;"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T00:10:27+00:00",
+      "article_modified_raw": "2026-11-25T01:40:14+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "f0b586ae7bf1210baebf7cc0",
@@ -11511,9 +11565,9 @@
       "description": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
       "published_utc": "2026-11-24T18:02:59+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -11521,25 +11575,29 @@
           "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T18:02:59+00:00",
           "title": "UK warns AI-driven cyberattacks are exposing years of weak security"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T18:02:59+00:00",
+      "article_modified_raw": "2026-11-24T18:33:23+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "3e5ef8fc0a23c2ea7f230a00",
       "topic": "ai",
-      "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
+      "title": "Threads comes to iPad and takes a page from X&#8217;s playbook with cashtags",
       "url": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags",
       "source": "TechCrunch",
       "publisher": "TechCrunch",
       "description": "The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.",
       "published_utc": "2026-11-24T17:44:34+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -11547,11 +11605,15 @@
           "url": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T17:44:34+00:00",
-          "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags"
+          "title": "Threads comes to iPad and takes a page from X&#8217;s playbook with cashtags"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T17:44:34+00:00",
+      "article_modified_raw": "2026-11-24T20:23:42+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "abc7b69fabfd30e971f5112a",
@@ -11623,9 +11685,9 @@
       "description": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
       "published_utc": "2026-11-24T16:46:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -11633,11 +11695,15 @@
           "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T16:46:00+00:00",
           "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T16:46:00+00:00",
+      "article_modified_raw": "2026-11-24T17:36:43+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "780ed2cc233e0b0e28cd6b9a",
@@ -11649,9 +11715,9 @@
       "description": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area.",
       "published_utc": "2026-11-24T16:40:46+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -11659,11 +11725,15 @@
           "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T16:40:46+00:00",
           "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T16:40:46+00:00",
+      "article_modified_raw": "2026-11-25T02:03:30+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "03906d705dcf102e1c7e6766",
@@ -11701,9 +11771,9 @@
       "description": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
       "published_utc": "2026-11-24T16:02:37+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -11711,11 +11781,15 @@
           "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T16:02:37+00:00",
           "title": "Pinterest will now let parents limit the AI-generated content their teens see"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T16:02:37+00:00",
+      "article_modified_raw": "2026-11-24T16:47:11+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "3105315df130697b6fe44006",
@@ -12568,7 +12642,7 @@
       "url": "https://www.gsmarena.com/motorola_signature_27_up_for_preorder_across_eu_markets-news-75629.php",
       "source": "GSMArena",
       "publisher": "GSMArena",
-      "description": "Earlier this month, Motorola introduced its Signature 27 as the flagship offering from the brand. Back then, we got some confusing details regarding its European pricing, with figures ranging from €1,399 all the way to €1,799. We now have fresh listings from several regional Motorola official online stores, and sure enough, they differ in pricing. ",
+      "description": "Earlier this month, Motorola introduced its Signature 27 as the flagship offering from the brand. Back then, we got some confusing details regarding its European pricing, with figures ranging from €1,399 all the way to €1,799. We now have fresh listings from several regional Motorola official online stores and sure enough, they differ by up to €500",
       "published_utc": "2026-11-25T11:46:02+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
@@ -14316,6 +14390,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T12:23:29+00:00",
           "title": "Europe plans €50 billion sovereign tech equity fund to boost quantum technology - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "009868abc362cf01475e27bf",
+      "topic": "pc",
+      "title": "Political and corporate leaders react to Huang's return as Nvidia CEO - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZnlVTjVfX19obXNnQmFYcHJyY1VpcHZSOHh1aFJOTHh0eVBZVl9KOG9sWk5TZUlqWVMxSTdMUWVVa1BFeGhhSkZzNXJLSUUtajdRT2xadGhCMG1xOFI3UG9zS0tmbXRhdk05dGU0OEJRcnZ1eVZjWWpmcXNyOTM3ZTk1WVRQNENBMjhzMnpWczQySlJMRmFqc3pDanEtNzNuNllqb1d3?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Political and corporate leaders react to Huang's return as Nvidia CEO Reuters",
+      "published_utc": "2026-11-24T17:41:46+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZnlVTjVfX19obXNnQmFYcHJyY1VpcHZSOHh1aFJOTHh0eVBZVl9KOG9sWk5TZUlqWVMxSTdMUWVVa1BFeGhhSkZzNXJLSUUtajdRT2xadGhCMG1xOFI3UG9zS0tmbXRhdk05dGU0OEJRcnZ1eVZjWWpmcXNyOTM3ZTk1WVRQNENBMjhzMnpWczQySlJMRmFqc3pDanEtNzNuNllqb1d3?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T17:41:46+00:00",
+          "title": "Political and corporate leaders react to Huang's return as Nvidia CEO - Reuters"
         }
       ]
     },
@@ -16964,6 +17064,32 @@
       ]
     },
     {
+      "id": "73ac5ebc1612cd040f4510fa",
+      "topic": "pc",
+      "title": "Jensen Huang's return to Nvidia fuels Washington fight over China's chip access - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV3BLV01MMXl1a2FaazhNYWFseVlPZ2g0ZnBwdnI5aFdkV1pHR19QdzZQWDk4YlJMOFZtZk9PbVlwbmU1WXpXWjFHaHVfX3c0SVd5WHFRM0s3eW9EcUE1S1RTYUFxLXBvQmthZFFNYkFNRy1EeHNyM2gyT0prRzNPWEVPaGVGMFo2c1E1eTljc212bU5qY3EtdnlDN01WSTdnRjZOYkZKdW1lcmttSlcwazFrSFlidExMay1iTHlXaW1TQVBIUVE?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Jensen Huang's return to Nvidia fuels Washington fight over China's chip access Reuters",
+      "published_utc": "2026-11-25T11:03:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV3BLV01MMXl1a2FaazhNYWFseVlPZ2g0ZnBwdnI5aFdkV1pHR19QdzZQWDk4YlJMOFZtZk9PbVlwbmU1WXpXWjFHaHVfX3c0SVd5WHFRM0s3eW9EcUE1S1RTYUFxLXBvQmthZFFNYkFNRy1EeHNyM2gyT0prRzNPWEVPaGVGMFo2c1E1eTljc212bU5qY3EtdnlDN01WSTdnRjZOYkZKdW1lcmttSlcwazFrSFlidExMay1iTHlXaW1TQVBIUVE?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T11:03:00+00:00",
+          "title": "Jensen Huang's return to Nvidia fuels Washington fight over China's chip access - Reuters"
+        }
+      ]
+    },
+    {
       "id": "95d0668db16c2f132fc34d25",
       "topic": "ai",
       "title": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says - Reuters",
@@ -17090,6 +17216,162 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T14:04:09+00:00",
           "title": "US core capital goods orders beat expectations in October - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "3a4351f86ea4f40389cb6690",
+      "topic": "ai",
+      "title": "Yen, Swiss franc gain as dollar slips in volatile AI-driven session - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUUFucHFRbGxzR3laOUhHVU5fQ215SV82VkdMcExqZy1DMmpLalE4RHkyUDgyaEVLQmhVQ3l1VFZXcUV2ZV9UQmlqX1p2X09UbjlfbzlTY1EwUld2Z2dFV0d3cTI0bDlUejkxbFRsczJ5Q2ZmdXVaTkNNTXNKLUZkYkxLVVhFejU1VjdVTXp4d3ctRmc2NWhDbFdJV1NDRTE4UFQzOGQ4eXI4bXdjLWJB?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Yen, Swiss franc gain as dollar slips in volatile AI-driven session Reuters",
+      "published_utc": "2026-11-25T01:19:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUUFucHFRbGxzR3laOUhHVU5fQ215SV82VkdMcExqZy1DMmpLalE4RHkyUDgyaEVLQmhVQ3l1VFZXcUV2ZV9UQmlqX1p2X09UbjlfbzlTY1EwUld2Z2dFV0d3cTI0bDlUejkxbFRsczJ5Q2ZmdXVaTkNNTXNKLUZkYkxLVVhFejU1VjdVTXp4d3ctRmc2NWhDbFdJV1NDRTE4UFQzOGQ4eXI4bXdjLWJB?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T01:19:00+00:00",
+          "title": "Yen, Swiss franc gain as dollar slips in volatile AI-driven session - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "7424e6390160ed7d0136e1ef",
+      "topic": "ai",
+      "title": "COMMENTARY: AI metals meltdown masks acute physical squeeze - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUXJEb3VoRDhjR1lQNmwyYjR1YVFHX2lLRGxkdE54LVBreE85ZDJWRGFlS0dtYXM4bEszWFpuQkNhc1hHVkI5NmlKVW5HMTVwM1lUTTMxbEJWckRIOTU3Mkp5S0Z3bG9NV3FSVkpDZnpzWTRLWUxxVVMtQWFOYVM2aHQ5NHVMMlNGNGI3VU9ITFg4c3B3RkNRXzdHZENMcFhWR19JTDdjc1lGa3hyQmhKVEozak9hdjA?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "COMMENTARY: AI metals meltdown masks acute physical squeeze Reuters",
+      "published_utc": "2026-11-25T14:17:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUXJEb3VoRDhjR1lQNmwyYjR1YVFHX2lLRGxkdE54LVBreE85ZDJWRGFlS0dtYXM4bEszWFpuQkNhc1hHVkI5NmlKVW5HMTVwM1lUTTMxbEJWckRIOTU3Mkp5S0Z3bG9NV3FSVkpDZnpzWTRLWUxxVVMtQWFOYVM2aHQ5NHVMMlNGNGI3VU9ITFg4c3B3RkNRXzdHZENMcFhWR19JTDdjc1lGa3hyQmhKVEozak9hdjA?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T14:17:00+00:00",
+          "title": "COMMENTARY: AI metals meltdown masks acute physical squeeze - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "9a8c840f7def4f85c7b35a27",
+      "topic": "ai",
+      "title": "Nio says AI use could lift gross margin by 10 percentage points - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZVk4Z3NFNkE2YmZPQVVvVlhOa3RNODFIZFF0QU1OVFBjMTNkTkpvUTRRRGt0bF81UUtQTmsxVTMtLTRYMktYRlF2dGRHTGtLQnVoYkIzSGhvYVFkVGdxVlNYUERJSlJXTHFYdlpLZ1RuU09qV0lHTU5xb0loUER2YU82ZUt3amNkaXFLZmNZRnhQc2NERmRva2taeFJHMlRYSUU3ZzFjTzdoWERnY2FV?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Nio says AI use could lift gross margin by 10 percentage points Reuters",
+      "published_utc": "2026-11-25T14:07:45+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZVk4Z3NFNkE2YmZPQVVvVlhOa3RNODFIZFF0QU1OVFBjMTNkTkpvUTRRRGt0bF81UUtQTmsxVTMtLTRYMktYRlF2dGRHTGtLQnVoYkIzSGhvYVFkVGdxVlNYUERJSlJXTHFYdlpLZ1RuU09qV0lHTU5xb0loUER2YU82ZUt3amNkaXFLZmNZRnhQc2NERmRva2taeFJHMlRYSUU3ZzFjTzdoWERnY2FV?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T14:07:45+00:00",
+          "title": "Nio says AI use could lift gross margin by 10 percentage points - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "4febdef4ef4c35823fd3e8cd",
+      "topic": "ai",
+      "title": "mini-swe-agent: Coding Agent Index Score, Performance & Price - Artificial Analysis",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pSW96Qk1ZbkpqRmJPZ2cwV3V5NFBHeWhwck1pTm5pNjFRaUVQNGlMVHhydzdWdXhTSTlIS040R01oTjRvdkROS2VwSFVPWFAxZE9ZMy03OURabDBRYnFBcGdDUmFEZlA2UnpfTDNmczRsZEk?oc=5",
+      "source": "Artificial Analysis",
+      "publisher": "Artificial Analysis",
+      "description": "mini-swe-agent: Coding Agent Index Score, Performance & Price Artificial Analysis",
+      "published_utc": "2026-11-24T16:05:25+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pSW96Qk1ZbkpqRmJPZ2cwV3V5NFBHeWhwck1pTm5pNjFRaUVQNGlMVHhydzdWdXhTSTlIS040R01oTjRvdkROS2VwSFVPWFAxZE9ZMy03OURabDBRYnFBcGdDUmFEZlA2UnpfTDNmczRsZEk?oc=5",
+          "source": "Artificial Analysis",
+          "publisher": "Artificial Analysis",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T16:05:25+00:00",
+          "title": "mini-swe-agent: Coding Agent Index Score, Performance & Price - Artificial Analysis"
+        }
+      ]
+    },
+    {
+      "id": "2840010701ae208bc33addac",
+      "topic": "ai",
+      "title": "Claude Code vs mini-swe-agent: Coding Agent Comparison - Artificial Analysis",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZUN5Y2dsVmhTTGFQVktLSm1uSS1XUDc0RUZmYnhCQk15cTBIVF9UWm1ITzhOYnVlbXZ2S3NPREw4TGdfWGlOWmlYVkxoUS1VT3AtdllkY3NnYmRoT0ljc2V5d0x5bDluU3pMdnNMNVJGOFV5VlU2RnpXdmZqb05GQlRaZExpR3ptN2d0eWtNbDI2QlMyLWJJ?oc=5",
+      "source": "Artificial Analysis",
+      "publisher": "Artificial Analysis",
+      "description": "Claude Code vs mini-swe-agent: Coding Agent Comparison Artificial Analysis",
+      "published_utc": "2026-11-24T22:57:48+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZUN5Y2dsVmhTTGFQVktLSm1uSS1XUDc0RUZmYnhCQk15cTBIVF9UWm1ITzhOYnVlbXZ2S3NPREw4TGdfWGlOWmlYVkxoUS1VT3AtdllkY3NnYmRoT0ljc2V5d0x5bDluU3pMdnNMNVJGOFV5VlU2RnpXdmZqb05GQlRaZExpR3ptN2d0eWtNbDI2QlMyLWJJ?oc=5",
+          "source": "Artificial Analysis",
+          "publisher": "Artificial Analysis",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:57:48+00:00",
+          "title": "Claude Code vs mini-swe-agent: Coding Agent Comparison - Artificial Analysis"
+        }
+      ]
+    },
+    {
+      "id": "ee18581dcfa2cb5d4f0c72ad",
+      "topic": "ai",
+      "title": "Claude Sonnet 5.5 vs. Hermes 4 - Llama-3.1 405B：发布智能、性能与价格对比 - Artificial Analysis",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEozYmVwWG85Y00wWEtzUnUzTURJQk1GRmVRcjJEMFpmTF8wSlE1Smd4akFubWlLVXRTOV80eWRHVld4OFVIT3dKUEVSTnUtM3k3ejAyZUFjY094dm16VnowUkhfeEszazNkeGxVbzA2R1ZTR3RKV2JaWm43STMwQVhRUnljSkJMVklScHV0WTZOSkNzaTl0SFR0cS0?oc=5",
+      "source": "Artificial Analysis",
+      "publisher": "Artificial Analysis",
+      "description": "Claude Sonnet 5.5 vs. Hermes 4 - Llama-3.1 405B：发布智能、性能与价格对比 Artificial Analysis",
+      "published_utc": "2026-11-25T14:59:53+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEozYmVwWG85Y00wWEtzUnUzTURJQk1GRmVRcjJEMFpmTF8wSlE1Smd4akFubWlLVXRTOV80eWRHVld4OFVIT3dKUEVSTnUtM3k3ejAyZUFjY094dm16VnowUkhfeEszazNkeGxVbzA2R1ZTR3RKV2JaWm43STMwQVhRUnljSkJMVklScHV0WTZOSkNzaTl0SFR0cS0?oc=5",
+          "source": "Artificial Analysis",
+          "publisher": "Artificial Analysis",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T14:59:53+00:00",
+          "title": "Claude Sonnet 5.5 vs. Hermes 4 - Llama-3.1 405B：发布智能、性能与价格对比 - Artificial Analysis"
         }
       ]
     }
@@ -17336,12 +17618,39 @@
           "title": "ChatGPT/Codex usage limits：ページ変更を観測（要差分確認）"
         }
       ]
+    },
+    {
+      "id": "1bf1f4820bdfe0b21d8bbdb5",
+      "topic": "ai",
+      "title": "Model Release Notes：ページ変更を観測（要差分確認）",
+      "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help",
+      "description": "前回観測 2026-11-26T07:41:16+00:00 → 今回観測 2026-11-26T13:39:46+00:00。変更内容・発生日は未確定。",
+      "published_utc": null,
+      "date_jst": null,
+      "timestamp_basis": "page_change_observed",
+      "link_role": "monitor_page",
+      "date_quality": "observed_change",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "d4e216700c35",
+      "sources": [
+        {
+          "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help",
+          "timestamp_basis": "page_change_observed",
+          "published_utc": null,
+          "title": "Model Release Notes：ページ変更を観測（要差分確認）"
+        }
+      ]
     }
   ],
   "health": {
-    "ok": 13,
-    "partial": 4,
-    "deferred": 2,
+    "ok": 11,
+    "deferred": 3,
+    "partial": 5,
     "skipped": 24,
     "manual": 3
   }
