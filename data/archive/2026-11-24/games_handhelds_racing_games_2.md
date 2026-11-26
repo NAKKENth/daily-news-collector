@@ -1,5 +1,6 @@
-# racing_games / 2026-11-24 / 候補 51–63
+# racing_games / 2026-11-24 / 候補 51–64
 
+- [Road Atlanta 1970 (Opening race) 0.1 - overtake.gg](https://news.google.com/rss/articles/CBMie0FVX3lxTE4xY0FRLVpUMHZOS212TWt2a2E3b0dHOTBNLW1SS3FQSWRnR2RtaUZtNF9tU2FFbFNpNHkyN2VmWlZXY2ZZeE14VVRGQklqUDhfQnNMRDRWc0VvUU53VVlKNGhnaHNDYkVnRkhRTWdhc0xDZ05kbkExY1B1Yw?oc=5) — OverTake｜要確認｜2026-11-23T16:51:29+00:00 UTC｜discovery_index
 - [Road atlanta 1971-1980 - Reviews - overtake.gg](https://news.google.com/rss/articles/CBMigwFBVV95cUxObmVEMzAzN3kzQnp4dDVGNGp2YjlkX2poS2pROGZHUjhhOVF3RV9lR09VSXJFQUQySlRzVlRFNDY1aEExSWxIS3lIQ0t0R3ZZLXhBeTFoMEt2djBhSWFDYmY4aU1Vd1lzRUhDaWwxeGVUc0xVUE1yY21jSk9wSnB2bkRWZw?oc=5) — OverTake｜要確認｜2026-11-23T17:02:56+00:00 UTC｜discovery_index
 - [Road atlanta 1971-1980 0.1 - overtake.gg](https://news.google.com/rss/articles/CBMicEFVX3lxTE9mOHJzcnU4N0Z5TEdadGhFZGo0enpyLW1JXzA4MlNVNzVTUFdsT0ZZdXk2VExUeHcxelpxR0ZCQlB6YTVVc2hNNFFLSkVvOU8wZ3hQaFBKd2JpSXVTdVA1dHc1MVpYVnU3MkllX2dHbDA?oc=5) — OverTake｜要確認｜2026-11-23T17:02:56+00:00 UTC｜discovery_index
 - [Sauber 2025 Miami Set (Car + Suit) - Default Replacement 1.0 - overtake.gg](https://news.google.com/rss/articles/CBMilgFBVV95cUxOLXIzekUtTDhLNi1uRC1QaDJ0Zjh5M0tHcWhYdlNFSnI5RU5qc05jR19mRHo0cVNzR1ZQQzdVd0RqdjZIandySFZMVEhnUmQzQTUyd3l3X2FMOVA0bEZreUc3YlhVckU5OUZSLUtRRlZIbkZqVldKXy1SLWNLUC1IUmFHZDdrcUtEbXdMZ3JEdDZmbUt6MVE?oc=5) — OverTake｜要確認｜2026-11-23T17:26:39+00:00 UTC｜discovery_index

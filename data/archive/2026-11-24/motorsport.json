@@ -2264,7 +2264,7 @@
       "source": "IndyCar Official",
       "publisher": "INDYCAR.com",
       "description": "Alex Palou News INDYCAR.com",
-      "published_utc": "2026-11-23T23:24:07+00:00",
+      "published_utc": "2026-11-23T22:59:41+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -2277,7 +2277,7 @@
           "source": "IndyCar Official",
           "publisher": "INDYCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T23:24:07+00:00",
+          "published_utc": "2026-11-23T22:59:41+00:00",
           "title": "Alex Palou News - INDYCAR.com"
         }
       ]
@@ -5142,7 +5142,7 @@
       "source": "AMuS",
       "publisher": "Auto Motor und Sport",
       "description": "Park and Ride-Plätze im Test: Ist es in Ihrer Stadt auch so mies? Auto Motor und Sport",
-      "published_utc": "2026-11-24T06:28:57+00:00",
+      "published_utc": "2026-11-24T10:27:32+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -5155,7 +5155,7 @@
           "source": "AMuS",
           "publisher": "Auto Motor und Sport",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T06:28:57+00:00",
+          "published_utc": "2026-11-24T10:27:32+00:00",
           "title": "Park and Ride-Plätze im Test: Ist es in Ihrer Stadt auch so mies? - Auto Motor und Sport"
         }
       ]
@@ -9056,6 +9056,162 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T11:10:46+00:00",
           "title": "Keith Collantine - RaceFans"
+        }
+      ]
+    },
+    {
+      "id": "cf9212078cadd645231b0744",
+      "topic": "other_motorsport",
+      "title": "【写真8】宮田莉朋（ハイテック／TGR-DC） - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CNk9qMmNoMl9QSWdHVHBldlRaX2t5UDdXTWpiS3FWaU1qekpvVXkxWm9CcG1jem9ER0R6VjVOcnM0cFhrOEV5eDFxM1Q5aFl2NUQyNm5jNA?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真8】宮田莉朋（ハイテック／TGR-DC） autosport web",
+      "published_utc": "2026-11-24T08:56:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CNk9qMmNoMl9QSWdHVHBldlRaX2t5UDdXTWpiS3FWaU1qekpvVXkxWm9CcG1jem9ER0R6VjVOcnM0cFhrOEV5eDFxM1Q5aFl2NUQyNm5jNA?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T08:56:00+00:00",
+          "title": "【写真8】宮田莉朋（ハイテック／TGR-DC） - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "bf713eaa9f2147f8cc28ee4c",
+      "topic": "F1",
+      "title": "Kimi Antonelli News & Rumours - PlanetF1",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBbGlsakFUcDFRTzBwLWNjdXpGZHZnalBOMjVlZ3FHZTdhTVpIZHRuaFdfS1o1a25hX0l1enV0MnlLbktYZTYzcENhYUJ1ajJyM2xxRHdhb0I2QlgzMXB1cA?oc=5",
+      "source": "PlanetF1",
+      "publisher": "PlanetF1",
+      "description": "Kimi Antonelli News & Rumours PlanetF1",
+      "published_utc": "2026-11-23T23:51:48+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBbGlsakFUcDFRTzBwLWNjdXpGZHZnalBOMjVlZ3FHZTdhTVpIZHRuaFdfS1o1a25hX0l1enV0MnlLbktYZTYzcENhYUJ1ajJyM2xxRHdhb0I2QlgzMXB1cA?oc=5",
+          "source": "PlanetF1",
+          "publisher": "PlanetF1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T23:51:48+00:00",
+          "title": "Kimi Antonelli News & Rumours - PlanetF1"
+        }
+      ]
+    },
+    {
+      "id": "00482423e6c1c987d0a318aa",
+      "topic": "F1",
+      "title": "George Russell News & Rumours - PlanetF1",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lVmJGUXkzWEN1WXd6dmdDNm9RN2dBUFFPX0ROUGpRYlhCTFBUTC10ODNOaG9zLTY3ZzEtU2k4WFp6eTNZVFkxSlhjdnpBMmNXdGh6S2hxdkhfRkItNXZCcA?oc=5",
+      "source": "PlanetF1",
+      "publisher": "PlanetF1",
+      "description": "George Russell News & Rumours PlanetF1",
+      "published_utc": "2026-11-24T03:00:29+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lVmJGUXkzWEN1WXd6dmdDNm9RN2dBUFFPX0ROUGpRYlhCTFBUTC10ODNOaG9zLTY3ZzEtU2k4WFp6eTNZVFkxSlhjdnpBMmNXdGh6S2hxdkhfRkItNXZCcA?oc=5",
+          "source": "PlanetF1",
+          "publisher": "PlanetF1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T03:00:29+00:00",
+          "title": "George Russell News & Rumours - PlanetF1"
+        }
+      ]
+    },
+    {
+      "id": "27be7812eed06534f15101c2",
+      "topic": "F1",
+      "title": "Andrea Stella - F1 - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVk9lX1I0a2Zlek1sNWVJM2Y3ak9fSjdqSjJMZkJ0SklUMDZHMWdxOE1yTmM0ZGZSbGtjeTEzd09uZDhCclZxRFkyLUY4S01HcUtaSzJRckhDTWJTZzV2dHY4LVNBdnhFeFpQUmVVVkVvbmdNZ1pHQkp3QUNLQXJYVXhB?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "Andrea Stella - F1 Formula 1",
+      "published_utc": "2026-11-24T14:52:35+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVk9lX1I0a2Zlek1sNWVJM2Y3ak9fSjdqSjJMZkJ0SklUMDZHMWdxOE1yTmM0ZGZSbGtjeTEzd09uZDhCclZxRFkyLUY4S01HcUtaSzJRckhDTWJTZzV2dHY4LVNBdnhFeFpQUmVVVkVvbmdNZ1pHQkp3QUNLQXJYVXhB?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T14:52:35+00:00",
+          "title": "Andrea Stella - F1 - Formula 1"
+        }
+      ]
+    },
+    {
+      "id": "8703ac2a7d452b2f9e62c17a",
+      "topic": "F1",
+      "title": "Lando Norris F1 Autumn-Winter Collection , Lando Norris Formula 1 Autumn-Winter Collection - F1 Store",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYnphWWpVelA5R3BJRVBIdDNhTnFlVFhWNmhKWEU2dzlMR3ZGaHRzR2ZQTG1FbWJ2ZHFFTUoxd2E3MV8zV0FjUjMzRXJZZl80YU9QUlZ0SXYzOHVEQmdyV2ROX29BQjV5dV9pNHZoLWpfYjk2RS1mRjJTYllnZEY1Tl9LUFpZUzJwQ2lPSzd2anV2TnRQOExvaGFWY0N5RWhTdGhvQW1YSkJSSHpL?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "F1 Store",
+      "description": "Lando Norris F1 Autumn-Winter Collection , Lando Norris Formula 1 Autumn-Winter Collection F1 Store",
+      "published_utc": "2026-11-24T06:56:35+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYnphWWpVelA5R3BJRVBIdDNhTnFlVFhWNmhKWEU2dzlMR3ZGaHRzR2ZQTG1FbWJ2ZHFFTUoxd2E3MV8zV0FjUjMzRXJZZl80YU9QUlZ0SXYzOHVEQmdyV2ROX29BQjV5dV9pNHZoLWpfYjk2RS1mRjJTYllnZEY1Tl9LUFpZUzJwQ2lPSzd2anV2TnRQOExvaGFWY0N5RWhTdGhvQW1YSkJSSHpL?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "F1 Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T06:56:35+00:00",
+          "title": "Lando Norris F1 Autumn-Winter Collection , Lando Norris Formula 1 Autumn-Winter Collection - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "0c163ec2fc867641274fb4aa",
+      "topic": "F1",
+      "title": "Max Verstappen F1 Autumn-Winter Collection , Max Verstappen Formula 1 Autumn-Winter Collection - F1 Store",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLXJnQlBVMXZqR2NwenN0NUY1bTZ2QXVMTFJWc3AwcFA1VzBmZ0dCMnJyTmhhalRNY2pXV0M1eF9penFnWFotWUZOV2lhX29lelhKbUVNakJxWmxPZjRxMGRicHloY3AtcDB4SDBFcTI0XzlFY2hqQ3c5cEo4S212Mk9aTWpmeVRBTkt5eGtDa20?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "F1 Store",
+      "description": "Max Verstappen F1 Autumn-Winter Collection , Max Verstappen Formula 1 Autumn-Winter Collection F1 Store",
+      "published_utc": "2026-11-24T09:26:35+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLXJnQlBVMXZqR2NwenN0NUY1bTZ2QXVMTFJWc3AwcFA1VzBmZ0dCMnJyTmhhalRNY2pXV0M1eF9penFnWFotWUZOV2lhX29lelhKbUVNakJxWmxPZjRxMGRicHloY3AtcDB4SDBFcTI0XzlFY2hqQ3c5cEo4S212Mk9aTWpmeVRBTkt5eGtDa20?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "F1 Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T09:26:35+00:00",
+          "title": "Max Verstappen F1 Autumn-Winter Collection , Max Verstappen Formula 1 Autumn-Winter Collection - F1 Store"
         }
       ]
     }

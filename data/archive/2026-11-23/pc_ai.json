@@ -894,32 +894,6 @@
       ]
     },
     {
-      "id": "9eb23d7602ef2b16a35686ec",
-      "topic": "ai",
-      "title": "Claiming ad credits with ChatGPT Business | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWUlTSnl3VktJS01PU0R5RVhoWXJkajhVWmdiTlpoUS1vTWRvamhQWElsOTcxTFBJN3FQelVPMzNPTm95NkJhOExUQnhPTV84UTBhdUg3M1c5V0pPWkRDU3hKZEhWWHFnSTlGX1VhOVc2SElDaGtUeUx4bFlMcjQ4Rlp1V1FpRE12N1JEYzhNMA?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "Claiming ad credits with ChatGPT Business | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-23T06:17:55+00:00",
-      "date_jst": "2026-11-23",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWUlTSnl3VktJS01PU0R5RVhoWXJkajhVWmdiTlpoUS1vTWRvamhQWElsOTcxTFBJN3FQelVPMzNPTm95NkJhOExUQnhPTV84UTBhdUg3M1c5V0pPWkRDU3hKZEhWWHFnSTlGX1VhOVc2SElDaGtUeUx4bFlMcjQ4Rlp1V1FpRE12N1JEYzhNMA?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T06:17:55+00:00",
-          "title": "Claiming ad credits with ChatGPT Business | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
       "id": "7bf763392c9017f34e174b88",
       "topic": "ai",
       "title": "Shareable profiles in ChatGPT | OpenAI Help Center - OpenAI Help Center",
@@ -4490,6 +4464,32 @@
       ]
     },
     {
+      "id": "1011b4d683f9adfa6990b3cd",
+      "topic": "pc",
+      "title": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal Reuters",
+      "published_utc": "2026-11-23T13:59:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T13:59:00+00:00",
+          "title": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal - Reuters"
+        }
+      ]
+    },
+    {
       "id": "ac211d24197bf712b0631505",
       "topic": "pc",
       "title": "US seeks answers on Nvidia's sale of chips to China, Bessent says - Reuters",
@@ -5077,6 +5077,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "b7fa85585f06",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUGpwZEY1WWdQR3pDaGVXcGE3cTYtdEwzYVlXS3VMcjB6ZFlybi13UkpUd1NRNDlpS2VvTy1aTHBNNXYzUUFvcWxTZE1KXzcxRlkyd2w0MXZqM2JYUTFWNkZwdXFVdEZleXJFeXJWenhMNEVZcWJPU0d6ZDRnejVhQTR4ejU3UUZNWXZCUW5Id3VRRy1Xb2JrSg?oc=5",
@@ -5346,6 +5347,85 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T08:00:00+00:00",
           "title": "EX-FILING FEES - AMD"
+        }
+      ]
+    },
+    {
+      "id": "6ffcfe8e52ec0c5155527a32",
+      "topic": "pc",
+      "title": "A blank dialog window appears when you open an Office application - Microsoft Support",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVElpcnRySlFWVVNPSFZVWHVnVTNha253YldMQk5DQ2x1VExVYnBTYU5RRUR5NmRIaUlyUXphZFdxMDFlZlBBNzFqeWRlWndKS3I5YkJQYy15MUMzUC1hRTItdkZXaVdTVWVyTW1yTUNuRGhSelI2QTRDOVFMNVRXLUtmcWg4X1FnYnZlRC1TMzk0VDAzQjJqcA?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Support",
+      "description": "A blank dialog window appears when you open an Office application Microsoft Support",
+      "published_utc": "2026-11-23T08:00:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "b7fa85585f06",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVElpcnRySlFWVVNPSFZVWHVnVTNha253YldMQk5DQ2x1VExVYnBTYU5RRUR5NmRIaUlyUXphZFdxMDFlZlBBNzFqeWRlWndKS3I5YkJQYy15MUMzUC1hRTItdkZXaVdTVWVyTW1yTUNuRGhSelI2QTRDOVFMNVRXLUtmcWg4X1FnYnZlRC1TMzk0VDAzQjJqcA?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Support",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T08:00:00+00:00",
+          "title": "A blank dialog window appears when you open an Office application - Microsoft Support"
+        }
+      ]
+    },
+    {
+      "id": "89f41d6215e9d2905577e43d",
+      "topic": "pc",
+      "title": "Important changes (deprecations) coming in Power Platform - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yNTc0V0lPSThPQW1YQXZMc2UtVzc5d0V1MWZNRUJMNUswRlRzV1Bld0NmV3JCel9XLTdnZWZGcHRHU0VGMTE2dUdiQlQ1Mkk1YjExbUxoQmZ2RlBMa21rak52dE1QVk0yWVhlZDBPSnRBbDBsUGxSX3pfSkhrZw?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "Important changes (deprecations) coming in Power Platform Microsoft Learn",
+      "published_utc": "2026-11-23T08:00:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yNTc0V0lPSThPQW1YQXZMc2UtVzc5d0V1MWZNRUJMNUswRlRzV1Bld0NmV3JCel9XLTdnZWZGcHRHU0VGMTE2dUdiQlQ1Mkk1YjExbUxoQmZ2RlBMa21rak52dE1QVk0yWVhlZDBPSnRBbDBsUGxSX3pfSkhrZw?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T08:00:00+00:00",
+          "title": "Important changes (deprecations) coming in Power Platform - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "8ed416ad4ffb37607456112d",
+      "topic": "pc",
+      "title": "Download NVIDIA App - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SYXpRMWdlNW1GeWhvOVJnQURaRk9JbkJQdDZvMnZzTThyTkViblBma05QZGhfNmc1LWFOSTU2UFdWWXFSaXBKdnNpVUZ6V1dEZlgwVkFHck51OHpOemxJbVlIdFNoMkN1SU14RWZYb0JMRUlaU0V6bVB3?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "Download NVIDIA App NVIDIA",
+      "published_utc": "2026-11-23T14:25:42+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SYXpRMWdlNW1GeWhvOVJnQURaRk9JbkJQdDZvMnZzTThyTkViblBma05QZGhfNmc1LWFOSTU2UFdWWXFSaXBKdnNpVUZ6V1dEZlgwVkFHck51OHpOemxJbVlIdFNoMkN1SU14RWZYb0JMRUlaU0V6bVB3?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T14:25:42+00:00",
+          "title": "Download NVIDIA App - NVIDIA"
         }
       ]
     }

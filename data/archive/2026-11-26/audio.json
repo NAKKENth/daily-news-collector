@@ -596,7 +596,7 @@
       "source": "Android Authority TWS",
       "publisher": "Android Authority",
       "description": "Features & Opinions Android Authority",
-      "published_utc": "2026-11-26T11:19:13+00:00",
+      "published_utc": "2026-11-26T11:39:35+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -609,7 +609,7 @@
           "source": "Android Authority TWS",
           "publisher": "Android Authority",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T11:19:13+00:00",
+          "published_utc": "2026-11-26T11:39:35+00:00",
           "title": "Features & Opinions - Android Authority"
         }
       ]
@@ -2556,7 +2556,7 @@
       "source": "Android Authority TWS",
       "publisher": "Android Authority",
       "description": "Computing Android Authority",
-      "published_utc": "2026-11-26T13:01:16+00:00",
+      "published_utc": "2026-11-26T12:55:45+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -2569,7 +2569,7 @@
           "source": "Android Authority TWS",
           "publisher": "Android Authority",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T13:01:16+00:00",
+          "published_utc": "2026-11-26T12:55:45+00:00",
           "title": "Computing - Android Authority"
         }
       ]
@@ -3305,6 +3305,324 @@
       "article_published_raw": "2026-11-26T11:33:00+0100",
       "article_modified_raw": "2026-11-26T11:33:26+0100",
       "enrichment": "article_metadata"
+    },
+    {
+      "id": "041060086c15e76d25293f51",
+      "topic": "wired",
+      "title": "火炎放射器 vs 放水ホース？ あらゆる手段で“殺り”まくる『ジョン・ウィック』シリーズのスピンオフ復讐劇",
+      "url": "http://www.phileweb.com/review/column/202611/27/3222.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "サブスクで映画を観ることが当たり前となりつつある昨今、その豊富な作品数故に、一体何を観たら良いのか分からない。そんな風に感じたことが、あなたにもありませんか。本コラムでは、映画アドバイザーとして活躍するミヤザキタケルが水先案内人となり、選りすぐりの一本をあなたにお届け。今回は2025年公開の『バレリーナ：The World of John Wick』をご紹介します！",
+      "published_utc": "2026-11-26T13:04:25+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/review/column/202611/27/3222.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T13:04:25+00:00",
+          "title": "火炎放射器 vs 放水ホース？ あらゆる手段で“殺り”まくる『ジョン・ウィック』シリーズのスピンオフ復讐劇"
+        }
+      ]
+    },
+    {
+      "id": "6d8fc557ae76166b37fd835f",
+      "topic": "wired",
+      "title": "録音も手書きもこれ1台で完結！ 仕事が捗るAIノート、iFLYTEK「AINOTE 2」実機レビュー",
+      "url": "http://www.phileweb.com/review/article/202611/27/6739.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "E Inkの電子ペーパーに専用のペンで書き込める“手書きノート”に、録音、リアルタイムの文字起こし、翻訳、AIによる要約を組み合わせた、いわゆる「AIスマートノート」であるiFLYTEK「AINOTE」シリーズ。その使い勝手をレビュー。",
+      "published_utc": "2026-11-26T06:43:50+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/review/article/202611/27/6739.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T06:43:50+00:00",
+          "title": "録音も手書きもこれ1台で完結！ 仕事が捗るAIノート、iFLYTEK「AINOTE 2」実機レビュー"
+        }
+      ]
+    },
+    {
+      "id": "97300a825b33e52d1f9402b4",
+      "topic": "wired",
+      "title": "【専門家コメント有】デュアルソーラーパネル搭載の新作スマートウォッチ「Amazfit T-Rex Dual Solar」が割引に！",
+      "url": "http://www.phileweb.com/review/column/202611/27/3238.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "アワード「VGP2027」において、ライフスタイルライフスタイル分科会スマートウォッチ(5万円以上)で金賞を獲得したスマートウォッチ「Amazfit T-Rex Dual Solar」。10月29日に発売されたばかりの本モデルが、早速セール価格で登場している。",
+      "published_utc": "2026-11-26T06:42:06+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/review/column/202611/27/3238.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T06:42:06+00:00",
+          "title": "【専門家コメント有】デュアルソーラーパネル搭載の新作スマートウォッチ「Amazfit T-Rex Dual Solar」が割引に！"
+        }
+      ]
+    },
+    {
+      "id": "a40a256839a428c6950e3790",
+      "topic": "tws",
+      "title": "今が買い時！オーテクのUSB-Cイヤホン「ATH-CKD7NC」は音・ノイキャン・使い勝手すべてが快適【レビュー】",
+      "url": "http://www.phileweb.com/review/article/202611/27/6728.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "オーディオテクニカのUSB Type-C対応有線イヤホン「ATH-CKD7NC」がブラックフライデーセールのラインナップに登場中だ。",
+      "published_utc": "2026-11-26T08:53:25+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/review/article/202611/27/6728.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T08:53:25+00:00",
+          "title": "今が買い時！オーテクのUSB-Cイヤホン「ATH-CKD7NC」は音・ノイキャン・使い勝手すべてが快適【レビュー】"
+        }
+      ]
+    },
+    {
+      "id": "e68af1cf524efeac28490074",
+      "topic": "portable_dac",
+      "title": "Fosi Audio DA50 Ultra Review",
+      "url": "https://www.headfonia.com/fosi-audio-da50-ultra-review",
+      "source": "Headfonia",
+      "publisher": "Headfonia",
+      "description": "Explore the $459.99 Fosi Audio DA50 Ultra review: a powerful 2.1-channel DAC and amplifier to enhance your audio experience. Now on Headfonia",
+      "published_utc": "2026-11-26T06:08:53+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.headfonia.com/fosi-audio-da50-ultra-review",
+          "source": "Headfonia",
+          "publisher": "Headfonia",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T06:08:53+00:00",
+          "title": "Fosi Audio DA50 Ultra Review"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T06:08:53+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "b8d2af3005ac4e63ee3567d5",
+      "topic": "tws",
+      "title": "How to use, maintain, and safely charge your Galaxy Buds4 series - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEloNF9WXzdTQml6QTNiTndiZ1pXdURwemZhazZ1eW5DUkdSLXhrMy1FbUNPVHN4ZU5Tc25fRU02eW8zMnBVbi00UjNRMmRpNjJRcW5ZMlRfQ2FsbVEyRXZLWG5TQ1A1NjVsR1B6VDlYelN1YWJESXVlWHV6TFEta1pmSF9PYjFrc3RxUnVB?oc=5",
+      "source": "Samsung Audio",
+      "publisher": "samsung.com",
+      "description": "How to use, maintain, and safely charge your Galaxy Buds4 series samsung.com",
+      "published_utc": "2026-11-26T01:44:56+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "b6c863ca4988",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEloNF9WXzdTQml6QTNiTndiZ1pXdURwemZhazZ1eW5DUkdSLXhrMy1FbUNPVHN4ZU5Tc25fRU02eW8zMnBVbi00UjNRMmRpNjJRcW5ZMlRfQ2FsbVEyRXZLWG5TQ1A1NjVsR1B6VDlYelN1YWJESXVlWHV6TFEta1pmSF9PYjFrc3RxUnVB?oc=5",
+          "source": "Samsung Audio",
+          "publisher": "samsung.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T01:44:56+00:00",
+          "title": "How to use, maintain, and safely charge your Galaxy Buds4 series - samsung.com"
+        }
+      ]
+    },
+    {
+      "id": "ee4f1dd7d399e94982152d6b",
+      "topic": "tws",
+      "title": "How to use, maintain, and safely charge your Galaxy Buds4 series - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUldEdTdPR2wwY1NUaUNTeHMxUkZMMXRZeHdtQWhRakpDX0tVajVxeEhDazI1ZGFlLTBzUUt6LUlfeGlFYUpHRnMtSVFrbmNqejVWYnVSQkM0ZTcwSnpmaWRLWEt6T0FhVkJvMVplR0V4N1NNczZSNEJ0N0FBYVhFTUhzMHUzUGFydEVyN1lNVEpEZw?oc=5",
+      "source": "Samsung Audio",
+      "publisher": "samsung.com",
+      "description": "How to use, maintain, and safely charge your Galaxy Buds4 series samsung.com",
+      "published_utc": "2026-11-26T01:52:03+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "b6c863ca4988",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUldEdTdPR2wwY1NUaUNTeHMxUkZMMXRZeHdtQWhRakpDX0tVajVxeEhDazI1ZGFlLTBzUUt6LUlfeGlFYUpHRnMtSVFrbmNqejVWYnVSQkM0ZTcwSnpmaWRLWEt6T0FhVkJvMVplR0V4N1NNczZSNEJ0N0FBYVhFTUhzMHUzUGFydEVyN1lNVEpEZw?oc=5",
+          "source": "Samsung Audio",
+          "publisher": "samsung.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T01:52:03+00:00",
+          "title": "How to use, maintain, and safely charge your Galaxy Buds4 series - samsung.com"
+        }
+      ]
+    },
+    {
+      "id": "02b82a9442b23d40b9aa1745",
+      "topic": "portable_dac",
+      "title": "MOONDROP ECHO B Portable USB DAC/AMP - shenzhenaudio",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUxXMUtmQ0FFV0Vjd1JGQUNKaU54UFRjRHZNMlFKXzhxMm5MbVViNllCd3RYakk2OU5sQ0gxRENWUW15cndOcV9WTEVlc1pKWElPYUhBN2h3QlFTVi1raldHbnFGSDFldDRUc0hTa3g2ZVJGTVpBOEw3S2p1bHB3dFdpQ0JxQURQemJiSWZ6VDFRZVNOTDdYeXhaZE5HSTdXWVE?oc=5",
+      "source": "SHENZHENAUDIO",
+      "publisher": "shenzhenaudio",
+      "description": "MOONDROP ECHO B Portable USB DAC/AMP shenzhenaudio",
+      "published_utc": "2026-11-25T22:27:58+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUxXMUtmQ0FFV0Vjd1JGQUNKaU54UFRjRHZNMlFKXzhxMm5MbVViNllCd3RYakk2OU5sQ0gxRENWUW15cndOcV9WTEVlc1pKWElPYUhBN2h3QlFTVi1raldHbnFGSDFldDRUc0hTa3g2ZVJGTVpBOEw3S2p1bHB3dFdpQ0JxQURQemJiSWZ6VDFRZVNOTDdYeXhaZE5HSTdXWVE?oc=5",
+          "source": "SHENZHENAUDIO",
+          "publisher": "shenzhenaudio",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T22:27:58+00:00",
+          "title": "MOONDROP ECHO B Portable USB DAC/AMP - shenzhenaudio"
+        }
+      ]
+    },
+    {
+      "id": "7a484b93fbc5fde910c8c592",
+      "topic": "tws",
+      "title": "Pixel’s upcoming Priority notifications could cut the line and get colorful highlights - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMm9kaFIwc0d6ZTFiNlQ4QWJjcERweVFqaS1LekxrYlhCX3E2S2pFMzNYUFhjUjJyVmhqZ094NVR5NmY5M2FjNmVlanUwSFV5d09sZEdkN1Y1ZDY4VVl5cFJOc01kTmkwN3ByMmYyaGNLRlN6VnZvMmM0SkVUN3V5SE53TQ?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Pixel’s upcoming Priority notifications could cut the line and get colorful highlights Android Authority",
+      "published_utc": "2026-11-26T08:29:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMm9kaFIwc0d6ZTFiNlQ4QWJjcERweVFqaS1LekxrYlhCX3E2S2pFMzNYUFhjUjJyVmhqZ094NVR5NmY5M2FjNmVlanUwSFV5d09sZEdkN1Y1ZDY4VVl5cFJOc01kTmkwN3ByMmYyaGNLRlN6VnZvMmM0SkVUN3V5SE53TQ?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T08:29:00+00:00",
+          "title": "Pixel’s upcoming Priority notifications could cut the line and get colorful highlights - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "0ee29bbec25ce6cbcfce04ed",
+      "topic": "tws",
+      "title": "Smart home - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03TXYzVlp4M2NtLVZRbUpsWHVkbGtmdTdyc2lVN2QtZXRZc0xBeTVlTy1MdEdnU1NWQnRDbW1vc2FDdzZaaUlKYVduak5zZjh1bWtTc3NsZw?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Smart home Android Authority",
+      "published_utc": "2026-11-26T13:57:37+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03TXYzVlp4M2NtLVZRbUpsWHVkbGtmdTdyc2lVN2QtZXRZc0xBeTVlTy1MdEdnU1NWQnRDbW1vc2FDdzZaaUlKYVduak5zZjh1bWtTc3NsZw?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T13:57:37+00:00",
+          "title": "Smart home - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "a04216aaed7834f147e07337",
+      "topic": "tws",
+      "title": "Google is working on gamepad profiles for Android’s controller remapping feature - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWGF0M1BMVzMxcEZ1b2M3WWlTWml1S1hQZEFtNUsxaTVvNlJRMTVES1RxV3dqV1ZKV005X1pNS1ppd0h6TVp0Z2trVzJNMVJNZ3ZveVNWemF1cXJ5eTFURXV0Mzk4cDE5NW00MUIxQktXNkdEckdWekFGUkk0RHR0U2VCYnJTRWFiMDlzRElUbE5xcDRWcGpHMmlERDE?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Google is working on gamepad profiles for Android’s controller remapping feature Android Authority",
+      "published_utc": "2026-11-26T12:12:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWGF0M1BMVzMxcEZ1b2M3WWlTWml1S1hQZEFtNUsxaTVvNlJRMTVES1RxV3dqV1ZKV005X1pNS1ppd0h6TVp0Z2trVzJNMVJNZ3ZveVNWemF1cXJ5eTFURXV0Mzk4cDE5NW00MUIxQktXNkdEckdWekFGUkk0RHR0U2VCYnJTRWFiMDlzRElUbE5xcDRWcGpHMmlERDE?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:12:00+00:00",
+          "title": "Google is working on gamepad profiles for Android’s controller remapping feature - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "241a188d4a5a65523c753611",
+      "topic": "portable_dac",
+      "title": "AES XLR output Card for PC to DAC - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRndMV0VzWEZncG9HV3JDZ3UwMm9ZcHFSR2ZDN3NjTmU1NVVhXzltTzVmNGJuVjJnbEl3REVCOHRycGplZlBzRFBBYlFSeHktYmlRWUVTZjFEMkg1RlZKVGcxb29oY0lRZ3U4bVVxQkdYeVFrSEdCS3A5TE9DTWV4NVVZTF9yWDlfLUZPa29MUzlUMVZiUDM2bWs0Z3FIYzJW?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "AES XLR output Card for PC to DAC Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-25T17:56:44+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRndMV0VzWEZncG9HV3JDZ3UwMm9ZcHFSR2ZDN3NjTmU1NVVhXzltTzVmNGJuVjJnbEl3REVCOHRycGplZlBzRFBBYlFSeHktYmlRWUVTZjFEMkg1RlZKVGcxb29oY0lRZ3U4bVVxQkdYeVFrSEdCS3A5TE9DTWV4NVVZTF9yWDlfLUZPa29MUzlUMVZiUDM2bWs0Z3FIYzJW?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T17:56:44+00:00",
+          "title": "AES XLR output Card for PC to DAC - Audio Science Review (ASR) Forum"
+        }
+      ]
     }
   ],
   "date_unknown": [],

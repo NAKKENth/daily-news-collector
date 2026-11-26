@@ -268,32 +268,6 @@
       ]
     },
     {
-      "id": "836bc83950b8fbaf7a414ef8",
-      "topic": "pc",
-      "title": "Applied Research Scientist Intern, Agentic Biology - Summer 2027 - NVIDIA",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeUhHTzNtOUVMQU1oekYwSmFRTkdzN2N2TmJWTnNPcndVN29LaUtyRDVORVFzZV93WWZVYmlydlhaSF8xc0s0UWt6SWtWdUR1NzN5SEJpdG4yMUF2UXJqSFBsTDRqNHR2cFZkZnRoZHRxNXNRY1QzSmlPNU9OZktPWFNnMGRFcTRGYm5GdG5FelNWcnNvTHRFNlZBMnlCX3V3V3o2YlUyNVJzc1Z6OUR5TkJJeGdyMzVlQ3FoeGpjX1lBZFhMaHdr?oc=5",
-      "source": "NVIDIA",
-      "publisher": "NVIDIA",
-      "description": "Applied Research Scientist Intern, Agentic Biology - Summer 2027 NVIDIA",
-      "published_utc": "2026-11-25T13:27:45+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeUhHTzNtOUVMQU1oekYwSmFRTkdzN2N2TmJWTnNPcndVN29LaUtyRDVORVFzZV93WWZVYmlydlhaSF8xc0s0UWt6SWtWdUR1NzN5SEJpdG4yMUF2UXJqSFBsTDRqNHR2cFZkZnRoZHRxNXNRY1QzSmlPNU9OZktPWFNnMGRFcTRGYm5GdG5FelNWcnNvTHRFNlZBMnlCX3V3V3o2YlUyNVJzc1Z6OUR5TkJJeGdyMzVlQ3FoeGpjX1lBZFhMaHdr?oc=5",
-          "source": "NVIDIA",
-          "publisher": "NVIDIA",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T13:27:45+00:00",
-          "title": "Applied Research Scientist Intern, Agentic Biology - Summer 2027 - NVIDIA"
-        }
-      ]
-    },
-    {
       "id": "fe2c0e330f6999674d65d84f",
       "topic": "pc",
       "title": "What is KV cache? - Micron",
@@ -1246,32 +1220,6 @@
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-24T17:33:05+00:00",
           "title": "The best Switch 2 accessories on sale now"
-        }
-      ]
-    },
-    {
-      "id": "c6964aa4a06e01d27f42f602",
-      "topic": "pc",
-      "title": "TSMC Online - TSMC",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzVE0yOE1QOU15amNxWU5oaWZVSDVxbFR4VmFrdVJZelR5dmNQbjhlU2FIaHltbjQ2SXh6SjBheEYxSlk0dzk3QmJVNmhLQQ?oc=5",
-      "source": "TSMC",
-      "publisher": "TSMC",
-      "description": "TSMC Online TSMC",
-      "published_utc": "2026-11-25T08:04:53+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzVE0yOE1QOU15amNxWU5oaWZVSDVxbFR4VmFrdVJZelR5dmNQbjhlU2FIaHltbjQ2SXh6SjBheEYxSlk0dzk3QmJVNmhLQQ?oc=5",
-          "source": "TSMC",
-          "publisher": "TSMC",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T08:04:53+00:00",
-          "title": "TSMC Online - TSMC"
         }
       ]
     },
@@ -3993,7 +3941,7 @@
       "source": "9to5Google",
       "publisher": "9to5Google",
       "description": "Google is rolling out new privacy settings for the Gemini app that will let you “keep your history while independently controlling generative AI model training.” more…",
-      "published_utc": "2026-11-24T21:11:31+00:00",
+      "published_utc": "2026-11-24T21:11:00+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
@@ -4006,7 +3954,7 @@
           "source": "9to5Google",
           "publisher": "9to5Google",
           "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-24T21:11:31+00:00",
+          "published_utc": "2026-11-24T21:11:00+00:00",
           "title": "New Gemini setting lets you keep chat history, but turn off AI training [U]"
         }
       ],
@@ -6012,7 +5960,7 @@
       "source": "NVIDIA",
       "publisher": "NVIDIA",
       "description": "Strategic Financial Analyst - AI Compute NVIDIA",
-      "published_utc": "2026-11-25T02:12:15+00:00",
+      "published_utc": "2026-11-25T13:07:56+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -6025,7 +5973,7 @@
           "source": "NVIDIA",
           "publisher": "NVIDIA",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T02:12:15+00:00",
+          "published_utc": "2026-11-25T13:07:56+00:00",
           "title": "Strategic Financial Analyst - AI Compute - NVIDIA"
         }
       ]
@@ -7380,32 +7328,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T07:58:34+00:00",
           "title": "How to adjust table format in text message and thumbnail card that sends to user - Microsoft Learn"
-        }
-      ]
-    },
-    {
-      "id": "3c20943867b765933830d790",
-      "topic": "pc",
-      "title": "download the Global IME - Microsoft - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BeFRlSzZ3Y0ZqSjJ6MDhJQ2tMUndpb1ZONDhRUW5VcXpKVm5QTTlJYmhrdGpZMlFKSWw2S3h4N2dfYTN0MW44dkt0amthVmdiQUtCN2ZIbXVyWDl3enNHU0ZfUXU3d08wN0Y2ZEpjVkowMTU5dXdEVTFxZ3didw?oc=5",
-      "source": "Microsoft Windows",
-      "publisher": "Microsoft",
-      "description": "download the Global IME - Microsoft Microsoft",
-      "published_utc": "2026-11-25T09:52:10+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BeFRlSzZ3Y0ZqSjJ6MDhJQ2tMUndpb1ZONDhRUW5VcXpKVm5QTTlJYmhrdGpZMlFKSWw2S3h4N2dfYTN0MW44dkt0amthVmdiQUtCN2ZIbXVyWDl3enNHU0ZfUXU3d08wN0Y2ZEpjVkowMTU5dXdEVTFxZ3didw?oc=5",
-          "source": "Microsoft Windows",
-          "publisher": "Microsoft",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T09:52:10+00:00",
-          "title": "download the Global IME - Microsoft - Microsoft"
         }
       ]
     },
@@ -10458,32 +10380,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T20:20:14+00:00",
           "title": "Omar Sohail - Wccftech"
-        }
-      ]
-    },
-    {
-      "id": "839653ec9cd5f3bcbbfaf73f",
-      "topic": "ai",
-      "title": "Ads in ChatGPT: The Basics | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLNzhyTjlTYTdvSHBCcGZVQ0lWZ3EzMlhGcExJcmVMOWRjdU5NUmdKVVBBaDlnYWpwZHg3ZDFUblVUT1MwOVN0Mk94NHhfQjVTeWZJcDlnUzFuSGF6a0Z4T0ZBSGpldVY1RXNUUjI4VHpva3gtWUxnbVV3?oc=5",
-      "source": "OpenAI",
-      "publisher": "OpenAI Help Center",
-      "description": "Ads in ChatGPT: The Basics | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-24T17:11:48+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLNzhyTjlTYTdvSHBCcGZVQ0lWZ3EzMlhGcExJcmVMOWRjdU5NUmdKVVBBaDlnYWpwZHg3ZDFUblVUT1MwOVN0Mk94NHhfQjVTeWZJcDlnUzFuSGF6a0Z4T0ZBSGpldVY1RXNUUjI4VHpva3gtWUxnbVV3?oc=5",
-          "source": "OpenAI",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T17:11:48+00:00",
-          "title": "Ads in ChatGPT: The Basics | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -17175,7 +17071,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Understanding ChatGPT and Codex usage limits | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T05:45:42+00:00",
+      "published_utc": "2026-11-24T20:06:57+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -17188,7 +17084,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T05:45:42+00:00",
+          "published_utc": "2026-11-24T20:06:57+00:00",
           "title": "Understanding ChatGPT and Codex usage limits | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -17658,6 +17554,111 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T20:32:08+00:00",
           "title": "Roles and permissions | Claude Help Center - Claude Help Center"
+        }
+      ]
+    },
+    {
+      "id": "fc9f3fc6d0dd3e6a95112282",
+      "topic": "pc",
+      "title": "GeForce Game Ready Driver 621.40 | Windows 11 - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xRXpKUGFZR3R4MmJLOU5ObGZOdVFzRlQ3VEMwbVRWNEZvT0Y1OThoUTNtVEJTREtXWGdTWHA1NlZaTU5YdEJaQy1YM1hSOHJockdpdGJ6TkdJZlJmMUo3aU42S3o1QTQ0SlA2Rw?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "GeForce Game Ready Driver 621.40 | Windows 11 NVIDIA",
+      "published_utc": "2026-11-24T20:07:46+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "possible_event_id": "c09c496d4c46",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xRXpKUGFZR3R4MmJLOU5ObGZOdVFzRlQ3VEMwbVRWNEZvT0Y1OThoUTNtVEJTREtXWGdTWHA1NlZaTU5YdEJaQy1YM1hSOHJockdpdGJ6TkdJZlJmMUo3aU42S3o1QTQ0SlA2Rw?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T20:07:46+00:00",
+          "title": "GeForce Game Ready Driver 621.40 | Windows 11 - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "c4a99c76db40ebdb64371931",
+      "topic": "pc",
+      "title": "A Mesh to Remember: Persistent Appearance for Interactive Video Worlds - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRYmxncExGdUJwUF9TdEM3dTI5WGJMcUhjV3Q5b3hQRHZ4SkM3VEFxcHZJaDdIME5sd1pDb29haVFIa0R2VGRVUmR1eVJEUmY4Nk1IUmVSY29uU2d6dXZz?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "A Mesh to Remember: Persistent Appearance for Interactive Video Worlds NVIDIA",
+      "published_utc": "2026-11-25T06:26:13+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRYmxncExGdUJwUF9TdEM3dTI5WGJMcUhjV3Q5b3hQRHZ4SkM3VEFxcHZJaDdIME5sd1pDb29haVFIa0R2VGRVUmR1eVJEUmY4Nk1IUmVSY29uU2d6dXZz?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T06:26:13+00:00",
+          "title": "A Mesh to Remember: Persistent Appearance for Interactive Video Worlds - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "ff0f8fa5b94dfca649a6a4c7",
+      "topic": "pc",
+      "title": "Payload Capture - NVIDIA Docs",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDVoOVI2QmdjZDlsaTFKNl8teG1fR3ktWWxzUlRidWh0WkNnSzh6N1VKNGNNOURUbC12dFprSThiMF9tV1JUTEdKQ1RPY0NOaFd2UzIwaHhrQUdxQkdEcVpoTGp3VlZZVE1jekx2eU01b3Y4OGo2YkRscF9yOWdUazVaRnA0d0JUZ0RibA?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Docs",
+      "description": "Payload Capture NVIDIA Docs",
+      "published_utc": "2026-11-24T21:18:10+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDVoOVI2QmdjZDlsaTFKNl8teG1fR3ktWWxzUlRidWh0WkNnSzh6N1VKNGNNOURUbC12dFprSThiMF9tV1JUTEdKQ1RPY0NOaFd2UzIwaHhrQUdxQkdEcVpoTGp3VlZZVE1jekx2eU01b3Y4OGo2YkRscF9yOWdUazVaRnA0d0JUZ0RibA?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Docs",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T21:18:10+00:00",
+          "title": "Payload Capture - NVIDIA Docs"
+        }
+      ]
+    },
+    {
+      "id": "7f4848ee2310132ab0e15ac4",
+      "topic": "ai",
+      "title": "Share and unshare chats | Claude Help Center - Claude Help Center",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIR2dQRnNSOFE5a0d4STluamdDLXQ3WnN5bVVDcHhKSmtmRUJ5bXhiVmd0Y1Atbl9rbjVDN1RpVEtpZ3JPbWlOVDd3TWtCLWhBS3RfNjJuY2NtT2toT0VYSjlmWGJtZlVheWhKMmhXdl85dURrMTBQbnpxbw?oc=5",
+      "source": "Claude Help",
+      "publisher": "Claude Help Center",
+      "description": "Share and unshare chats | Claude Help Center Claude Help Center",
+      "published_utc": "2026-11-24T18:33:02+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIR2dQRnNSOFE5a0d4STluamdDLXQ3WnN5bVVDcHhKSmtmRUJ5bXhiVmd0Y1Atbl9rbjVDN1RpVEtpZ3JPbWlOVDd3TWtCLWhBS3RfNjJuY2NtT2toT0VYSjlmWGJtZlVheWhKMmhXdl85dURrMTBQbnpxbw?oc=5",
+          "source": "Claude Help",
+          "publisher": "Claude Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T18:33:02+00:00",
+          "title": "Share and unshare chats | Claude Help Center - Claude Help Center"
         }
       ]
     }

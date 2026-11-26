@@ -1924,6 +1924,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "ede9c2c0051b",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc3FQamU5XzZiZE4xTmVhRk5ZSmNCSWJIWGgxZy1OTW5BNndpWjNBUHlDQVg4c2x6OUY2WEFTMG9tRU1ZeVQxY29YaHAyRDJhYzhJMlBXNlJTQ2RrR3BpN3o0TlhBTGpvMmtjNDFoYWVkbVozcnVWVUhHTHpxWlBqM2gzTWhick43Z0RxLVozRndGaXYzTms0NnVKdWJXWXBEemlmbldiOVU1ank1WThsWFY5Sm1hUU9yYzlaSkhRYnpweExF?oc=5",
@@ -2845,6 +2846,33 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T08:00:00+00:00",
           "title": "Goldmund Telos THA3 headphone amp/DAC - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "a3bacb9863f86d304f9abc51",
+      "topic": "portable_dac",
+      "title": "Tesla FSD V15 Stunning Augmented Reality Display - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNekV5akRVT0RnV3g0S2VIRXhiODM3V2RBZEhJRG11TGQ5c0NwVGZFajRNcS0tQ1FYSzZzcGQwb19XVktIR093NDZqMHVvWVJkcW56TVZZZkp5X29VaXhaNVFmU0FBUkFvcHh5b01sanRaX0VCNXQyMUdvV1o0NV8xaFhfTkxZLWZiOUFCeUF6ZDlHYnpQNDlFUE5ITFlpQVNQaUhNUTZXeEdnNHRSWldtVWFpNEo2eTVjQmQyRjRZaGl1Ql9j?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "Tesla FSD V15 Stunning Augmented Reality Display Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-22T22:57:07+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "ede9c2c0051b",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNekV5akRVT0RnV3g0S2VIRXhiODM3V2RBZEhJRG11TGQ5c0NwVGZFajRNcS0tQ1FYSzZzcGQwb19XVktIR093NDZqMHVvWVJkcW56TVZZZkp5X29VaXhaNVFmU0FBUkFvcHh5b01sanRaX0VCNXQyMUdvV1o0NV8xaFhfTkxZLWZiOUFCeUF6ZDlHYnpQNDlFUE5ITFlpQVNQaUhNUTZXeEdnNHRSWldtVWFpNEo2eTVjQmQyRjRZaGl1Ql9j?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T22:57:07+00:00",
+          "title": "Tesla FSD V15 Stunning Augmented Reality Display - Audio Science Review (ASR) Forum"
         }
       ]
     }

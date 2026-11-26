@@ -6,54 +6,80 @@
   "status": "candidate_collection_only",
   "items": [
     {
-      "id": "6be2c763c268fafc862d4d28",
+      "id": "b94a2bc57997ae591752d0e6",
       "topic": "pc",
-      "title": "Release Notes - Nvidia Download - NVIDIA",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM1piU2VFLUlDbVNIUk1TZHJmQlFvZW9xeHdJR1UwdVlCLUFWNUFaY3plSTRLZV81aXBwMGk1QVZ2ZkdDaGpJMnRtRHg2dXJXLUpmZzRGVjVDRVAySjBCbWlQSzg4SUFJcFN5eHBaaWdkcjBRVzhxOWtPLU4teE9NbDgwRE1fVVc2VXNneXJVZkl1QQ?oc=5",
+      "title": "RTX Spark - NVIDIA - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbkg0WDRtcDYyY1RNOHdLTk9mdW5nYThmeE9WRFlqT2RsTTY5cjVpMUV6TWJmSHdFRWNpOGY1M3YzY0tucU9Ma1ExZ2ZCSl9kSEo1eWxfUEtzX0dweXlyZEMtY0ZJTmFua2lGdEJwYTlwM0ptS1VMRnRLNzJhcGNhbDgzSzZlOTFZRF9SLXZwQzIyR1RMZFh3RGJFQlAzaUxBdm1CM2VBYw?oc=5",
       "source": "NVIDIA",
       "publisher": "NVIDIA",
-      "description": "Release Notes - Nvidia Download NVIDIA",
-      "published_utc": "2026-11-25T16:04:52+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "priority",
-      "triage_reason": "PC技術候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM1piU2VFLUlDbVNIUk1TZHJmQlFvZW9xeHdJR1UwdVlCLUFWNUFaY3plSTRLZV81aXBwMGk1QVZ2ZkdDaGpJMnRtRHg2dXJXLUpmZzRGVjVDRVAySjBCbWlQSzg4SUFJcFN5eHBaaWdkcjBRVzhxOWtPLU4teE9NbDgwRE1fVVc2VXNneXJVZkl1QQ?oc=5",
-          "source": "NVIDIA",
-          "publisher": "NVIDIA",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T16:04:52+00:00",
-          "title": "Release Notes - Nvidia Download - NVIDIA"
-        }
-      ]
-    },
-    {
-      "id": "390fb27a851426eb2ae51133",
-      "topic": "pc",
-      "title": "Outlook - Microsoft - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSHhnWVpJQlJydWFWdkRxdk83TnpjcXM1LVE5UWttZlVBMHViYTdwTWVlbVVkVDB6VGJhcll4ZS1wTVM0NUhfa0hBczEtd092dHd4T1k4OTNvVUk3YTZrR2ktOHc1eVRRcmxpREhQNDhNOGFYSjd4QkYtelJTQ2xWMXFsc0dvLUI2VFlZaTZ1eU95UmZsaGhyRHJlMWJpQjItSEhPWkdrSE5LUQ?oc=5",
-      "source": "Microsoft Windows",
-      "publisher": "Microsoft",
-      "description": "Outlook - Microsoft Microsoft",
-      "published_utc": "2026-11-25T19:31:55+00:00",
+      "description": "RTX Spark - NVIDIA NVIDIA",
+      "published_utc": "2026-11-26T05:53:48+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
       "date_quality": "discovery_index",
       "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
+      "triage_reason": "PC技術候補",
       "sources": [
         {
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSHhnWVpJQlJydWFWdkRxdk83TnpjcXM1LVE5UWttZlVBMHViYTdwTWVlbVVkVDB6VGJhcll4ZS1wTVM0NUhfa0hBczEtd092dHd4T1k4OTNvVUk3YTZrR2ktOHc1eVRRcmxpREhQNDhNOGFYSjd4QkYtelJTQ2xWMXFsc0dvLUI2VFlZaTZ1eU95UmZsaGhyRHJlMWJpQjItSEhPWkdrSE5LUQ?oc=5",
-          "source": "Microsoft Windows",
-          "publisher": "Microsoft",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbkg0WDRtcDYyY1RNOHdLTk9mdW5nYThmeE9WRFlqT2RsTTY5cjVpMUV6TWJmSHdFRWNpOGY1M3YzY0tucU9Ma1ExZ2ZCSl9kSEo1eWxfUEtzX0dweXlyZEMtY0ZJTmFua2lGdEJwYTlwM0ptS1VMRnRLNzJhcGNhbDgzSzZlOTFZRF9SLXZwQzIyR1RMZFh3RGJFQlAzaUxBdm1CM2VBYw?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T19:31:55+00:00",
-          "title": "Outlook - Microsoft - Microsoft"
+          "published_utc": "2026-11-26T05:53:48+00:00",
+          "title": "RTX Spark - NVIDIA - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "05fa10f3c9a2101c70b655d4",
+      "topic": "pc",
+      "title": "RTX Remix for Minecraft - NVIDIA - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOblpXRVpvajVUMy1ZSVRKaVhjSVI3VXhzYW9HWlE4WXRuRVZ0T1lHenMwWUVpYUN3aXJFNlV6ZnRTQUlhVkx3RkRraGduTUtkSEJCaXluRFZYbUFfbHptTFVfc29Rb3lEQm9meGlUY3ZpM09QV043S0xxcnI0Tnh0NE96eXNkRW5hSzFnMC1GYUVrRDVYWmx2dzhEaU1kb2tFc2s5VzYzWFV0NmJIUUs0?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "RTX Remix for Minecraft - NVIDIA NVIDIA",
+      "published_utc": "2026-11-26T01:08:56+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOblpXRVpvajVUMy1ZSVRKaVhjSVI3VXhzYW9HWlE4WXRuRVZ0T1lHenMwWUVpYUN3aXJFNlV6ZnRTQUlhVkx3RkRraGduTUtkSEJCaXluRFZYbUFfbHptTFVfc29Rb3lEQm9meGlUY3ZpM09QV043S0xxcnI0Tnh0NE96eXNkRW5hSzFnMC1GYUVrRDVYWmx2dzhEaU1kb2tFc2s5VzYzWFV0NmJIUUs0?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T01:08:56+00:00",
+          "title": "RTX Remix for Minecraft - NVIDIA - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "503a04457b5a117f2475be7a",
+      "topic": "pc",
+      "title": "Open Weights - NVIDIA Build - NVIDIA Build",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtaFppXzBRSWhDV2t6WjF1ZWk1OVlENlJmQlczU19KUTl0dTk5ZTZ6WUVhOVdubm56WEwydnM2NklVQ0NjZFpkdzhLdElsNEtBeUdEdTI5RHlISkQ2RlQ0?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Build",
+      "description": "Open Weights - NVIDIA Build NVIDIA Build",
+      "published_utc": "2026-11-26T06:01:59+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtaFppXzBRSWhDV2t6WjF1ZWk1OVlENlJmQlczU19KUTl0dTk5ZTZ6WUVhOVdubm56WEwydnM2NklVQ0NjZFpkdzhLdElsNEtBeUdEdTI5RHlISkQ2RlQ0?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Build",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T06:01:59+00:00",
+          "title": "Open Weights - NVIDIA Build - NVIDIA Build"
         }
       ]
     },
@@ -84,6 +110,32 @@
       ]
     },
     {
+      "id": "c6964aa4a06e01d27f42f602",
+      "topic": "pc",
+      "title": "TSMC Online - TSMC",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzVE0yOE1QOU15amNxWU5oaWZVSDVxbFR4VmFrdVJZelR5dmNQbjhlU2FIaHltbjQ2SXh6SjBheEYxSlk0dzk3QmJVNmhLQQ?oc=5",
+      "source": "TSMC",
+      "publisher": "TSMC",
+      "description": "TSMC Online TSMC",
+      "published_utc": "2026-11-26T12:00:21+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzVE0yOE1QOU15amNxWU5oaWZVSDVxbFR4VmFrdVJZelR5dmNQbjhlU2FIaHltbjQ2SXh6SjBheEYxSlk0dzk3QmJVNmhLQQ?oc=5",
+          "source": "TSMC",
+          "publisher": "TSMC",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:00:21+00:00",
+          "title": "TSMC Online - TSMC"
+        }
+      ]
+    },
+    {
       "id": "f7d31a698a6bd2a1c47033a3",
       "topic": "pc",
       "title": "Deep Underground, Intel-Powered Robots Help Make Underground Mining Safer - Intel",
@@ -106,6 +158,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T18:48:11+00:00",
           "title": "Deep Underground, Intel-Powered Robots Help Make Underground Mining Safer - Intel"
+        }
+      ]
+    },
+    {
+      "id": "2ea5dcbc07b82d7503060594",
+      "topic": "ai",
+      "title": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWm96THVxRG9rTGtUbFBtN2lpUDJ0RWd3WmI5dHZfeUQ5MWFZdXd0NHQ4YTlMb2otYUxwTUpTMXp4NnRlMmljYmZZSHZydTl3dEl0ZmJMUURVSEl0UXhndFZSWUwwZ0JXRWNiQ3M1OHByWm1yX0FwOTJkNFhRdlFIUVotZDlqT3otXy0xQ0FTeE4yNFdkZW9KazlKbmwyYUpuWmZSeHlLaw?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-25T23:40:28+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWm96THVxRG9rTGtUbFBtN2lpUDJ0RWd3WmI5dHZfeUQ5MWFZdXd0NHQ4YTlMb2otYUxwTUpTMXp4NnRlMmljYmZZSHZydTl3dEl0ZmJMUURVSEl0UXhndFZSWUwwZ0JXRWNiQ3M1OHByWm1yX0FwOTJkNFhRdlFIUVotZDlqT3otXy0xQ0FTeE4yNFdkZW9KazlKbmwyYUpuWmZSeHlLaw?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T23:40:28+00:00",
+          "title": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -143,7 +221,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "ChatGPT for Academic Researchers | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-26T00:58:57+00:00",
+      "published_utc": "2026-11-26T00:06:25+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -156,7 +234,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T00:58:57+00:00",
+          "published_utc": "2026-11-26T00:06:25+00:00",
           "title": "ChatGPT for Academic Researchers | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -188,32 +266,6 @@
       ]
     },
     {
-      "id": "1b5e0407568a1686dcbf0050",
-      "topic": "ai",
-      "title": "Setting up your business on ChatGPT | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "Setting up your business on ChatGPT | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-26T00:18:50+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T00:18:50+00:00",
-          "title": "Setting up your business on ChatGPT | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
       "id": "be5319ac27fa963840c3ad0e",
       "topic": "pc",
       "title": "GIGABYTE and Newegg Bring \"AORUS VS40\" to Southern California in November 2026",
@@ -221,7 +273,7 @@
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
       "description": "GIGABYTE and Newegg will host AORUS VS40 at the Newegg Gamer Zone in City of Industry, California, on Saturday, November 21, 2026, from 11 a.m. to 4 p.m. PST. The event invites local collegiate PC gamers and hardware enthusiasts to celebrate 40 years of GIGABYTE by putting their skills to the test on the tournament floor and at gaming stations thro",
-      "published_utc": "2026-11-26T13:39:31+00:00",
+      "published_utc": "2026-11-26T11:22:20+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
@@ -234,7 +286,7 @@
           "source": "TechPowerUp",
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-26T13:39:31+00:00",
+          "published_utc": "2026-11-26T11:22:20+00:00",
           "title": "GIGABYTE and Newegg Bring \"AORUS VS40\" to Southern California in November 2026"
         }
       ]
@@ -273,7 +325,7 @@
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
       "description": "Typing faster is useful, but what if practice could also teach you something? Typing 365 is a free native Windows app that combines structured typing lessons, educational content, and competitive challenges. With over 100,000 installs and nearly 4 million typing races completed worldwide , Typing 365 has grown into more than a speed test. Its Album",
-      "published_utc": "2026-11-26T05:39:31+00:00",
+      "published_utc": "2026-11-26T00:55:17+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
@@ -286,34 +338,8 @@
           "source": "TechPowerUp",
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-26T05:39:31+00:00",
+          "published_utc": "2026-11-26T00:55:17+00:00",
           "title": "Typing 365 Turns PC Building, Technology and More into Typing Practice"
-        }
-      ]
-    },
-    {
-      "id": "b163b883342c15d54fb4caa1",
-      "topic": "pc",
-      "title": "Revopoint Launches MIRACO 2 on Kickstarter: Scan in One, Create with Agents",
-      "url": "https://www.techpowerup.com/354886/revopoint-launches-miraco-2-on-kickstarter-scan-in-one-create-with-agents",
-      "source": "TechPowerUp",
-      "publisher": "TechPowerUp",
-      "description": "An all-in-one 3D scanner combining high-precision capture, powerful onboard computing, and AI-driven workflows—with Super Early Bird pricing starting at $1,425. The Offer is available from today, November 18 on Kickstarter . Grab the Super Early Bird Offer, with up to 38% off, starting at $1,425 . Back MIRACO 2 on Kickstarter Read full story",
-      "published_utc": "2026-11-25T23:32:02+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
-      "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://www.techpowerup.com/354886/revopoint-launches-miraco-2-on-kickstarter-scan-in-one-create-with-agents",
-          "source": "TechPowerUp",
-          "publisher": "TechPowerUp",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-25T23:32:02+00:00",
-          "title": "Revopoint Launches MIRACO 2 on Kickstarter: Scan in One, Create with Agents"
         }
       ]
     },
@@ -325,7 +351,7 @@
       "source": "OpenAI",
       "publisher": "OpenAI Help Center",
       "description": "OpenAI Daybreak - Trusted Access for Cyber overview | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T23:15:50+00:00",
+      "published_utc": "2026-11-25T23:19:04+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -338,7 +364,7 @@
           "source": "OpenAI",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T23:15:50+00:00",
+          "published_utc": "2026-11-25T23:19:04+00:00",
           "title": "OpenAI Daybreak - Trusted Access for Cyber overview | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -1892,16 +1918,16 @@
     {
       "id": "b65371d66e8d1d869cb7df2d",
       "topic": "pc",
-      "title": "【やじうまミニレビュー】プレゼン中にヤバげな画面が映っても瞬時に隠せる！映像オフスイッチ付きHDMIアダプタ",
+      "title": "プレゼン中にヤバげな画面が映っても瞬時に隠せる！映像オフスイッチ付きHDMIアダプタ",
       "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2159138.html",
       "source": "PC Watch",
       "publisher": "PC Watch",
-      "description": "",
+      "description": "大画面テレビやプロジェクタでのプレゼンテーションの最中に、本来映ってはいけない映像をうっかり共有してしまうミスはしばしば起こる。誤ってプレゼンの台本が映る程度であれば可愛いレベルだ。しかしプレゼン資料になぜか含まれていた公開禁止のデータや、デスクトップに並べられていたほかの取引先の名前が入ったアイコンなどは、時としてシャレにならない事態に発展する危険もある。",
       "published_utc": "2026-11-25T21:09:00+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1909,25 +1935,29 @@
           "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2159138.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T21:09:00+00:00",
-          "title": "【やじうまミニレビュー】プレゼン中にヤバげな画面が映っても瞬時に隠せる！映像オフスイッチ付きHDMIアダプタ"
+          "title": "プレゼン中にヤバげな画面が映っても瞬時に隠せる！映像オフスイッチ付きHDMIアダプタ"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T06:09:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "164c5f3d3c7575c2466a7ac6",
       "topic": "pc",
-      "title": "【山口真弘の電子書籍タッチアンドトライ】オプションに待望の物理ボタン、表示は据え置き。新型Kindle Colorsoftを試す",
+      "title": "オプションに待望の物理ボタン、表示は据え置き。新型Kindle Colorsoftを試す",
       "url": "https://pc.watch.impress.co.jp/docs/column/ebook/2159123.html",
       "source": "PC Watch",
       "publisher": "PC Watch",
-      "description": "",
+      "description": "「Kindle Colorsoft シグニチャーエディション(2026年発売)」は、7型のカラーE Inkを採用したAmazonのカラー電子書籍端末「Kindle Colorsoft」の、上位モデルに相当する製品だ。マグネット吸着によるポゴピン充電に対応するほか、オプションのページめくりボタン付きカバーを用いることで、タッチやスワイプに加えて、物理ボタンによるページめくりが行なえることが特徴だ。",
       "published_utc": "2026-11-25T21:07:00+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1935,25 +1965,29 @@
           "url": "https://pc.watch.impress.co.jp/docs/column/ebook/2159123.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T21:07:00+00:00",
-          "title": "【山口真弘の電子書籍タッチアンドトライ】オプションに待望の物理ボタン、表示は据え置き。新型Kindle Colorsoftを試す"
+          "title": "オプションに待望の物理ボタン、表示は据え置き。新型Kindle Colorsoftを試す"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T06:07:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "f4f05cd382556537af4c8e1c",
       "topic": "pc",
-      "title": "【Hothotレビュー】1世代飛ばしたM6 iMac、4K書き出し時間がM4から4割減",
+      "title": "1世代飛ばしたM6 iMac、4K書き出し時間がM4から4割減",
       "url": "https://pc.watch.impress.co.jp/docs/column/hothot/2158504.html",
       "source": "PC Watch",
       "publisher": "PC Watch",
-      "description": "",
+      "description": "7色の薄型デスクトップPCで、5分の4K動画の書き出し時間が前モデルの151秒から93秒に縮まった。 Appleが10月27日に発表し、11月6日に販売開始した、最新プロセッサ「Apple M6」搭載の24型オールインワンデスクトップPC「iMac」での実測結果だ。",
       "published_utc": "2026-11-25T21:06:00+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1961,11 +1995,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/column/hothot/2158504.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T21:06:00+00:00",
-          "title": "【Hothotレビュー】1世代飛ばしたM6 iMac、4K書き出し時間がM4から4割減"
+          "title": "1世代飛ばしたM6 iMac、4K書き出し時間がM4から4割減"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T06:06:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "f6c62d4ced32a2ae9dd04880",
@@ -1977,9 +2015,9 @@
       "description": "※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」をTwitchとYouTubeで配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。",
       "published_utc": "2026-11-25T21:00:00+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1987,25 +2025,29 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159314.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T21:00:00+00:00",
           "title": "ガチくんに! 第441回切り抜き「スト6のカクつきはマウスのせい？ENC代表どうなる？」"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T06:00:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "225a457289e4fc78a49f432e",
       "topic": "pc",
-      "title": "【Mac Info】macOS 27「写真」が進化、撮影後にAIで画角や視点を変更可能に！",
+      "title": "macOS 27「写真」が進化、撮影後にAIで画角や視点を変更可能に！",
       "url": "https://pc.watch.impress.co.jp/docs/column/macinfo/2159075.html",
       "source": "PC Watch",
       "publisher": "PC Watch",
-      "description": "",
+      "description": "撮影した写真を見返して、もう少し引いて撮ればよかった、違う角度から撮ればよかったと思った経験はありませんか。macOS 27 Golden Gateの「写真」アプリに新たに加わった「拡張」と「リフレーム」なら、そんな写真もApple Intelligenceの力で、あとから画角や視点を変更できます。今回は、この2つの新機能の使い方を、具体的な活用例とともに紹介します。",
       "published_utc": "2026-11-25T21:00:00+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2013,11 +2055,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/column/macinfo/2159075.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T21:00:00+00:00",
-          "title": "【Mac Info】macOS 27「写真」が進化、撮影後にAIで画角や視点を変更可能に！"
+          "title": "macOS 27「写真」が進化、撮影後にAIで画角や視点を変更可能に！"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T06:00:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "3e095d378decdd5fe9343b8f",
@@ -2281,7 +2327,9 @@
           "published_utc": "2026-11-25T18:32:29+00:00",
           "title": "WhatsApp launches highly requested new feature for sending messages later"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://9to5mac.com/2026/11/25/whatsapp-launches-highly-requested-new-feature-for-sending-messages-later"
     },
     {
       "id": "18caa07bd6c581e298880564",
@@ -2381,9 +2429,9 @@
       "description": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
       "published_utc": "2026-11-25T18:22:38+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2391,11 +2439,15 @@
           "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites",
           "source": "Ars Technica",
           "publisher": "Ars Technica",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T18:22:38+00:00",
           "title": "The FCC has authorized SpaceX to deploy 1 million satellites"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T18:22:38+00:00",
+      "article_modified_raw": "2026-11-25T18:22:38+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "8b83c29b91067dcec6e9e9d7",
@@ -2437,9 +2489,9 @@
       "description": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
       "published_utc": "2026-11-25T17:12:57+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2447,11 +2499,15 @@
           "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash",
           "source": "Ars Technica",
           "publisher": "Ars Technica",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T17:12:57+00:00",
           "title": "Etsy clarifies AI terms after seller backlash"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T17:12:57+00:00",
+      "article_modified_raw": "2026-11-25T17:12:57+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "d532c692c0474cb800ff4afc",
@@ -2493,9 +2549,9 @@
       "description": "Huawei didn’t try very hard to hide thefts of US trade secrets, DOJ says.",
       "published_utc": "2026-11-25T16:33:45+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2503,11 +2559,15 @@
           "url": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions",
           "source": "Ars Technica",
           "publisher": "Ars Technica",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T16:33:45+00:00",
           "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T16:33:45+00:00",
+      "article_modified_raw": "2026-11-25T16:44:20+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "fc84f361dae774f354ca3e03",
@@ -2546,12 +2606,12 @@
       "url": "https://hwbusters.com/news/fcc-clears-spacex-starmind-for-up-to-one-million-orbital-data-center-satellites-but-not-above-600-km-yet",
       "source": "Hardware Busters",
       "publisher": "Hardware Busters",
-      "description": "The FCC’s Space Bureau has authorized SpaceX to build Starmind, a constellation of up to one million satellites that work as data centers in orbit. The post FCC Clears SpaceX Starmind for Up to One Million Orbital Data Center Satellites, but Not Above 600 km Yet appeared first on Hardware Busters .",
+      "description": "The FCC has authorized SpaceX Starmind, up to one million orbital data center satellites, with 2033-2040 milestones and a debris plan still due above 600 km.",
       "published_utc": "2026-11-25T19:11:02+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2559,11 +2619,15 @@
           "url": "https://hwbusters.com/news/fcc-clears-spacex-starmind-for-up-to-one-million-orbital-data-center-satellites-but-not-above-600-km-yet",
           "source": "Hardware Busters",
           "publisher": "Hardware Busters",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T19:11:02+00:00",
           "title": "FCC Clears SpaceX Starmind for Up to One Million Orbital Data Center Satellites, but Not Above 600 km Yet"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T19:11:02+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "a7618a10544f447c61ac9b8d",
@@ -2572,12 +2636,12 @@
       "url": "https://hwbusters.com/news/nova-lake-s-leak-lists-seven-core-ultra-4000-chips-led-by-a-144-mb-cache-ultra-9-4970k-bfc",
       "source": "Hardware Busters",
       "publisher": "Hardware Busters",
-      "description": "A leaked Nova Lake-S spec sheet lists seven Core Ultra 4000 desktop processors, and the headline act is a 28-core Ultra 9 4970K BFC carrying The post Nova Lake-S Leak Lists Seven Core Ultra 4000 Chips, Led by a 144 MB Cache Ultra 9 4970K BFC appeared first on Hardware Busters .",
+      "description": "A Nova Lake-S leak from qualification samples lists seven Core Ultra 4000 desktop CPUs, topped by a 28-core Ultra 9 4970K BFC with 144 MB of L3 cache.",
       "published_utc": "2026-11-25T16:10:51+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2585,11 +2649,15 @@
           "url": "https://hwbusters.com/news/nova-lake-s-leak-lists-seven-core-ultra-4000-chips-led-by-a-144-mb-cache-ultra-9-4970k-bfc",
           "source": "Hardware Busters",
           "publisher": "Hardware Busters",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T16:10:51+00:00",
           "title": "Nova Lake-S Leak Lists Seven Core Ultra 4000 Chips, Led by a 144 MB Cache Ultra 9 4970K BFC"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T16:10:51+00:00",
+      "article_modified_raw": "2026-11-25T16:10:57+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "0e55b3959650944c0ed97697",
@@ -2843,9 +2911,9 @@
       "description": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
       "published_utc": "2026-11-25T19:44:24+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "AI候補",
       "sources": [
@@ -2853,11 +2921,15 @@
           "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T19:44:24+00:00",
           "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T19:44:24+00:00",
+      "article_modified_raw": "2026-11-25T20:18:04+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "5ce119f1f113c9299f455bbe",
@@ -2869,9 +2941,9 @@
       "description": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
       "published_utc": "2026-11-25T18:49:52+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2879,11 +2951,15 @@
           "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T18:49:52+00:00",
           "title": "1Password said hackers broke into its internal systems, but customer passwords are safe"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T18:49:52+00:00",
+      "article_modified_raw": "2026-11-25T19:10:35+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "999598b9da6402a90aca3bfa",
@@ -2921,9 +2997,9 @@
       "description": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.",
       "published_utc": "2026-11-25T17:36:51+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2931,11 +3007,15 @@
           "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T17:36:51+00:00",
           "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T17:36:51+00:00",
+      "article_modified_raw": "2026-11-25T17:57:02+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "f12fc474f6e0ab81ff903ef3",
@@ -3025,9 +3105,9 @@
       "description": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
       "published_utc": "2026-11-25T15:08:37+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -3035,11 +3115,15 @@
           "url": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T15:08:37+00:00",
           "title": "Allstate suffers multiday tech outage ahead of Thanksgiving"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T15:08:37+00:00",
+      "article_modified_raw": "2026-11-26T02:52:56+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "f3f2025e2980668ce8c65488",
@@ -4489,32 +4573,6 @@
       ]
     },
     {
-      "id": "e83382ca55d834a205dbab3f",
-      "topic": "ai",
-      "title": "Using the built-in browser in the ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSi1uRW9kMTdsUWlHZlZzRS15b3VMYXVtSDRSVi0wSFFSLWp6aUlXRUNqNkU2NldTOHkxRlFmTWlZRVlRcUIzNEZOU1I3WXhrQmVVV1dxbDIxWFJhZERXSGNTSjFXdDhXcm1jbTBzY0JsNEw3Zkd4MzhLOVhFVUZXMjA2VGRrNGFnXzlPQjlEYmNZZHYwOGpFQThUVXpQQkE?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "Using the built-in browser in the ChatGPT desktop app | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T20:18:51+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSi1uRW9kMTdsUWlHZlZzRS15b3VMYXVtSDRSVi0wSFFSLWp6aUlXRUNqNkU2NldTOHkxRlFmTWlZRVlRcUIzNEZOU1I3WXhrQmVVV1dxbDIxWFJhZERXSGNTSjFXdDhXcm1jbTBzY0JsNEw3Zkd4MzhLOVhFVUZXMjA2VGRrNGFnXzlPQjlEYmNZZHYwOGpFQThUVXpQQkE?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T20:18:51+00:00",
-          "title": "Using the built-in browser in the ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
       "id": "8a6a1f5df908a4f9857f7a3d",
       "topic": "ai",
       "title": "Daily budgets | OpenAI Help Center - OpenAI Help Center",
@@ -4940,9 +4998,9 @@
       "description": "LLMを動かすだけならOSの余計な機能は不要――それは理にかなっていて、実際に速かった。Alexey Fateev氏(GitHubハンドル名: alesha-pro)は11月26日(日本時間)、LLM専用OS「asm-llm-os.elf」をX(旧Twitter)で発表した。PCを起動するとそのまま「Qwen3-0.6B」とチャットできる。カーネルのサイズは約24KBしかない。ライセンスはMIT。",
       "published_utc": "2026-11-26T02:00:47+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -4950,11 +5008,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159364.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T02:00:47+00:00",
           "title": "LLMが動くだけのOS。24KBの全アセンブリ製Qwen3-0.6B専用"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T11:00:47+09:00",
+      "article_modified_raw": "2026-11-26T11:00:51+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "e73a157c64bd0be9f9a33460",
@@ -6317,6 +6379,32 @@
       ]
     },
     {
+      "id": "4b66ece904cfb872c02a02d5",
+      "topic": "ai",
+      "title": "Stocks rally, Europe sizes up next ECB chief - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWRTQ2N0czgwTVhPdVhvZDUzeDNDRUJ6cFd0MWx1N05aSTJHaUlOdTQ5X2xieEVueHJ3VTRrb0ppNEtzbFVBRm1fU3VvV0xpMWVlUWg3c0NvWXJxS2ZabkwwejhwenhCVmhYRUdweUwwdHhTTWd1bTh2QlR1dFpvVDFHVQ?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Stocks rally, Europe sizes up next ECB chief Reuters",
+      "published_utc": "2026-11-26T01:35:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWRTQ2N0czgwTVhPdVhvZDUzeDNDRUJ6cFd0MWx1N05aSTJHaUlOdTQ5X2xieEVueHJ3VTRrb0ppNEtzbFVBRm1fU3VvV0xpMWVlUWg3c0NvWXJxS2ZabkwwejhwenhCVmhYRUdweUwwdHhTTWd1bTh2QlR1dFpvVDFHVQ?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T01:35:00+00:00",
+          "title": "Stocks rally, Europe sizes up next ECB chief - Reuters"
+        }
+      ]
+    },
+    {
       "id": "d2b6562b0c8e3c50ce2ebed3",
       "topic": "pc",
       "title": "NEWSLETTER: Jensen is back. What’s next for Nvidia? - Reuters",
@@ -7000,7 +7088,9 @@
           "published_utc": "2026-11-26T14:00:25+00:00",
           "title": "Sketchy suggestion of ceramic iPhone 20 Pro"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "048e9d88d3231d952b356e02",
@@ -7026,7 +7116,9 @@
           "published_utc": "2026-11-26T12:58:21+00:00",
           "title": "The Character․AI mess underlines the importance of Apple’s approach to AI privacy"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "0daafa2c35702a69a6586504",
@@ -7052,7 +7144,9 @@
           "published_utc": "2026-11-26T12:03:10+00:00",
           "title": "Check out this beautiful wallpaper to celebrate the opening of the latest Apple Store"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "1042e689fbdc16d1d9a59afb",
@@ -7106,7 +7200,9 @@
           "published_utc": "2026-11-26T00:35:52+00:00",
           "title": "Wispr Flow improves dictation accuracy with new Canto-2 speech-to-text model"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "bd6f89bb98d9b260dc8c2c5b",
@@ -7202,9 +7298,9 @@
       "description": "Detailed estimate going back to 1800 shows how much carbon is being liberated.",
       "published_utc": "2026-11-26T12:15:42+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -7212,11 +7308,15 @@
           "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming",
           "source": "Ars Technica",
           "publisher": "Ars Technica",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T12:15:42+00:00",
           "title": "Draining peatlands is responsible for a few percent of our global warming"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T12:15:42+00:00",
+      "article_modified_raw": "2026-11-24T19:46:20+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "ca758366d3e3ddc373137d48",
@@ -7255,12 +7355,12 @@
       "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup",
       "source": "Ars Technica",
       "publisher": "Ars Technica",
-      "description": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
+      "description": "DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
       "published_utc": "2026-11-25T22:36:45+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -7268,11 +7368,15 @@
           "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup",
           "source": "Ars Technica",
           "publisher": "Ars Technica",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T22:36:45+00:00",
           "title": "European spacecraft finds chaotic scene after asteroid deflection experiment"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T22:36:45+00:00",
+      "article_modified_raw": "2026-11-26T00:37:05+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "00cc6e73ba1b2b3c75539dca",
@@ -7404,9 +7508,9 @@
       "description": "Cooler MasterのATX電源ユニット「ELITE Platinum」シリーズが登場、27日（金）から販売が始まる。ラインアップは850W、1,000W、1,300Wの3種類で、それぞれブラックとホワイトの2色が用意されている。",
       "published_utc": "2026-11-26T03:30:00+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -7414,11 +7518,15 @@
           "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2159272.html",
           "source": "AKIBA PC Hotline",
           "publisher": "AKIBA PC Hotline",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T03:30:00+00:00",
           "title": "Cooler Masterの80 PLUS Platinum電源「ELITE Platinum」が27日発売、容量・色違いで計6モデル"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T12:30:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "3c8fd507227c76fbda6e709a",
@@ -7487,12 +7595,12 @@
       "url": "https://benchlife.info/asus-proart-event",
       "source": "BenchLife",
       "publisher": "BenchLife",
-      "description": "華碩自2024連續兩年舉辦「ProArt影視菁英交流會」，廣獲業界好評，今年更進一步拓展跨界合作，打 […] 這篇文章 ASUS ProArt 未來創藝節，推動新文藝復興 最早出現於 BenchLife.info 。",
+      "description": "華碩自2024連續兩年舉辦「ProArt影視菁英交流會」，廣獲業界好評，今年更進一步拓展跨界合作，打 […]",
       "published_utc": "2026-11-26T06:15:20+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -7500,11 +7608,15 @@
           "url": "https://benchlife.info/asus-proart-event",
           "source": "BenchLife",
           "publisher": "BenchLife",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T06:15:20+00:00",
           "title": "ASUS ProArt 未來創藝節，推動新文藝復興"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T06:15:20+00:00",
+      "article_modified_raw": "2026-11-26T06:20:20+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "c19e05fb9384c9a7199dd27d",
@@ -7513,12 +7625,12 @@
       "url": "https://benchlife.info/intel-razor-lake-ax-sample-sold-in-china",
       "source": "BenchLife",
       "publisher": "BenchLife",
-      "description": "沒事，對岸總會給我們不少驚喜。 距離還有好一段時間，畢竟要先等 Nova Lake 在 2027 年 […] 這篇文章 很大一顆，Intel Razor Lake-AX 處理器樣品曝光 最早出現於 BenchLife.info 。",
+      "description": "沒事，對岸總會給我們不少驚喜。 距離還有好一段時間，畢竟要先等 Nova Lake 在 2027 年 […]",
       "published_utc": "2026-11-26T03:49:30+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -7526,11 +7638,15 @@
           "url": "https://benchlife.info/intel-razor-lake-ax-sample-sold-in-china",
           "source": "BenchLife",
           "publisher": "BenchLife",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T03:49:30+00:00",
           "title": "很大一顆，Intel Razor Lake-AX 處理器樣品曝光"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T03:49:30+00:00",
+      "article_modified_raw": "2026-11-26T03:53:08+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "7731e909e21a4b01c425c268",
@@ -7539,12 +7655,12 @@
       "url": "https://benchlife.info/nvidia-dlss-5-update-nov-2026",
       "source": "BenchLife",
       "publisher": "BenchLife",
-      "description": "搭載 3D 引導式神經渲染的 DLSS 5 現已支援《燕雲十六聲（Where Winds Meet） […] 這篇文章 NVIDIA DLSS 5 現已支援《燕雲十六聲》 最早出現於 BenchLife.info 。",
+      "description": "搭載 3D 引導式神經渲染的 DLSS 5 現已支援《燕雲十六聲（Where Winds Meet） […]",
       "published_utc": "2026-11-25T23:00:28+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -7552,11 +7668,15 @@
           "url": "https://benchlife.info/nvidia-dlss-5-update-nov-2026",
           "source": "BenchLife",
           "publisher": "BenchLife",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T23:00:28+00:00",
           "title": "NVIDIA DLSS 5 現已支援《燕雲十六聲》"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T23:00:28+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "47fdcd9a55de245321932917",
@@ -7565,12 +7685,12 @@
       "url": "https://benchlife.info/amd-whitepaper-for-cpu-trust",
       "source": "BenchLife",
       "publisher": "BenchLife",
-      "description": "「零信任」(Zero Trust)已成為全球現代企業對安全性的標準。 許多企業的零信任架構仍將端點視 […] 這篇文章 AMD 白皮書解析零信任架構：從晶片層級建立端點安全基礎 最早出現於 BenchLife.info 。",
+      "description": "「零信任」(Zero Trust)已成為全球現代企業對安全性的標準。 許多企業的零信任架構仍將端點視 […]",
       "published_utc": "2026-11-25T22:58:27+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -7578,11 +7698,15 @@
           "url": "https://benchlife.info/amd-whitepaper-for-cpu-trust",
           "source": "BenchLife",
           "publisher": "BenchLife",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T22:58:27+00:00",
           "title": "AMD 白皮書解析零信任架構：從晶片層級建立端點安全基礎"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T22:58:27+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "901ef466aedf2fe2f1a5103e",
@@ -7591,12 +7715,12 @@
       "url": "https://hwbusters.com/news/forged-bgp-route-diverted-up-to-1-9-eh-s-from-bitcoin-miners-and-their-rigs-never-noticed",
       "source": "Hardware Busters",
       "publisher": "Hardware Busters",
-      "description": "A forged internet route quietly pointed more than a thousand Bitcoin mining sites at a fake pool server on November 20, peaking at 1.9 EH/s The post Forged BGP Route Diverted Up to 1.9 EH/s From Bitcoin Miners, and Their Rigs Never Noticed appeared first on Hardware Busters .",
+      "description": "Braiins says a BGP hashrate hijacking campaign diverted up to 1.9 EH/s from 1,000+ Bitcoin mining sites over plain-text Stratum V1 while rigs looked healthy.",
       "published_utc": "2026-11-26T13:10:47+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -7604,25 +7728,29 @@
           "url": "https://hwbusters.com/news/forged-bgp-route-diverted-up-to-1-9-eh-s-from-bitcoin-miners-and-their-rigs-never-noticed",
           "source": "Hardware Busters",
           "publisher": "Hardware Busters",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T13:10:47+00:00",
           "title": "Forged BGP Route Diverted Up to 1.9 EH/s From Bitcoin Miners, and Their Rigs Never Noticed"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T13:10:47+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "2790abf793e17c95786c781c",
       "topic": "pc",
-      "title": "ESA’s Hera Finds DART Flattened One Face of Dimorphos Into a Stadium-Sized Crater, and Left It Tumbling",
+      "title": "ESA&#8217;s Hera Finds DART Flattened One Face of Dimorphos Into a Stadium-Sized Crater, and Left It Tumbling",
       "url": "https://hwbusters.com/news/esas-hera-finds-dart-flattened-one-face-of-dimorphos-into-a-stadium-sized-crater-and-left-it-tumbling",
       "source": "Hardware Busters",
       "publisher": "Hardware Busters",
-      "description": "Four years after NASA rammed DART into Dimorphos, ESA’s Hera probe has seen the result up close: one side of the little moonlet is now The post ESA’s Hera Finds DART Flattened One Face of Dimorphos Into a Stadium-Sized Crater, and Left It Tumbling appeared first on Hardware Busters .",
+      "description": "ESA's Hera mission reveals a stadium-sized Dimorphos crater from NASA's DART impact, and the asteroid moonlet is now tumbling chaotically.",
       "published_utc": "2026-11-26T10:10:54+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -7630,11 +7758,15 @@
           "url": "https://hwbusters.com/news/esas-hera-finds-dart-flattened-one-face-of-dimorphos-into-a-stadium-sized-crater-and-left-it-tumbling",
           "source": "Hardware Busters",
           "publisher": "Hardware Busters",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T10:10:54+00:00",
-          "title": "ESA’s Hera Finds DART Flattened One Face of Dimorphos Into a Stadium-Sized Crater, and Left It Tumbling"
+          "title": "ESA&#8217;s Hera Finds DART Flattened One Face of Dimorphos Into a Stadium-Sized Crater, and Left It Tumbling"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T10:10:54+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "1e6e0aa1e51f2fc86315f9e9",
@@ -7643,12 +7775,12 @@
       "url": "https://hwbusters.com/news/khronos-deprecates-moltenvk-making-kosmickrisp-the-default-vulkan-path-on-apple-silicon-macs",
       "source": "Hardware Busters",
       "publisher": "Hardware Busters",
-      "description": "Khronos has formally deprecated MoltenVK and is retiring the Vulkan Portability Initiative built around it. With the SDK due in mid-December, LunarG’s KosmicKrisp becomes the The post Khronos Deprecates MoltenVK, Making KosmicKrisp the Default Vulkan Path on Apple Silicon Macs appeared first on Hardware Busters .",
+      "description": "Khronos deprecates MoltenVK and retires the Vulkan Portability Initiative, making LunarG's KosmicKrisp the recommended Vulkan driver for Apple silicon Macs.",
       "published_utc": "2026-11-26T07:10:48+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -7656,11 +7788,15 @@
           "url": "https://hwbusters.com/news/khronos-deprecates-moltenvk-making-kosmickrisp-the-default-vulkan-path-on-apple-silicon-macs",
           "source": "Hardware Busters",
           "publisher": "Hardware Busters",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T07:10:48+00:00",
           "title": "Khronos Deprecates MoltenVK, Making KosmicKrisp the Default Vulkan Path on Apple Silicon Macs"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T07:10:48+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "282a54c07235ae4bcfb4a325",
@@ -7669,12 +7805,12 @@
       "url": "https://helentech.jp/news-gemini-chrome-ram-issue-fixed-94089",
       "source": "HelenTech",
       "publisher": "HelenTech",
-      "description": "Google は、Chrome 上で Gemini のウェブアプリが大量の RAM を消費していた問題について、すでに解決済みであることを明らかにしました。 これは PC の Chrome で Gemini のタブが 5 […]",
+      "description": "Google は、Chrome の Gemini ウェブアプリが大量の RAM を消費していた問題について、解決済みであると Reddit で回答しました。原因や修正内容は未公開ですが、問題が続く場合は Chrome から報告できます。",
       "published_utc": "2026-11-26T10:53:41+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "AI候補",
       "sources": [
@@ -7682,37 +7818,15 @@
           "url": "https://helentech.jp/news-gemini-chrome-ram-issue-fixed-94089",
           "source": "HelenTech",
           "publisher": "HelenTech",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T10:53:41+00:00",
           "title": "Google、Chrome の Gemini ウェブアプリが大量の RAM を消費する問題を修正"
         }
-      ]
-    },
-    {
-      "id": "9939d2c043b518377dcfcff4",
-      "topic": "smartphones",
-      "title": "八潮の道路陥没事故が突きつけた現実 「AI／DXだけでは解けない」インフラ政策の大転換",
-      "url": "https://built.itmedia.co.jp/bt/articles/2611/26/news084.html",
-      "source": "ITmedia Mobile",
-      "publisher": "ITmedia Mobile",
-      "description": "埼玉県八潮市の道路陥没事故は、老朽インフラ対策の論点を改めて浮かび上がらせた。IPA圧入工学セミナーに登壇した政策研究大学院大学 特別教授の家田仁氏は、「課題は技術だけでは解けない」と断言。社会の関心、行政体制、維持管理、住民理解までを包含する「インフラマネジメント」への転換を訴えた。",
-      "published_utc": "2026-11-26T11:42:00+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
-      "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://built.itmedia.co.jp/bt/articles/2611/26/news084.html",
-          "source": "ITmedia Mobile",
-          "publisher": "ITmedia Mobile",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-26T11:42:00+00:00",
-          "title": "八潮の道路陥没事故が突きつけた現実 「AI／DXだけでは解けない」インフラ政策の大転換"
-        }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T19:53:41+0900",
+      "article_modified_raw": "2026-11-26T19:53:44+0900",
+      "enrichment": "article_metadata"
     },
     {
       "id": "cc66e6ecacedebfad5f1c798",
@@ -8007,16 +8121,16 @@
     {
       "id": "0285e92fb24e01e66e14d2e3",
       "topic": "smartphones",
-      "title": "図面を探す時間から技能を伝える時間へ、AI活用で業務効率化を進める空研工業",
+      "title": "図面を探す時間から技能を伝える時間へ、AI活用で業務効率化を進める空研工業：メカ設計インタビュー（1/3 ページ）",
       "url": "https://monoist.itmedia.co.jp/mn/articles/2611/26/news014.html",
       "source": "ITmedia Mobile",
       "publisher": "ITmedia Mobile",
       "description": "創業70周年を迎えた空研工業は、長年蓄積してきた図面や技術資料をAIで活用する「AIナレッジ基盤システム」をRecursiveと共同開発した。試行利用の結果を基にした試算では、図面検索工数を最大約90％削減する見通しで、業務効率化の先には技能伝承も見据える。AI活用に至った背景や現場が抱えていた課題、試行利用で得られた手応えについて、工場長と現場の技術者に話を聞いた。",
-      "published_utc": "2026-11-26T00:00:00+00:00",
+      "published_utc": "2026-11-26T09:00:00+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -8024,25 +8138,29 @@
           "url": "https://monoist.itmedia.co.jp/mn/articles/2611/26/news014.html",
           "source": "ITmedia Mobile",
           "publisher": "ITmedia Mobile",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-26T00:00:00+00:00",
-          "title": "図面を探す時間から技能を伝える時間へ、AI活用で業務効率化を進める空研工業"
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T09:00:00+00:00",
+          "title": "図面を探す時間から技能を伝える時間へ、AI活用で業務効率化を進める空研工業：メカ設計インタビュー（1/3 ページ）"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T09:00:00Z",
+      "article_modified_raw": "2026-11-26T09:00:00Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "cf7db5e5a44232e8eb59dcda",
       "topic": "smartphones",
-      "title": "国内造船業再生の鍵はフィジカルAI、デジタルシップヤード開発の現状を知る",
+      "title": "国内造船業再生の鍵はフィジカルAI、デジタルシップヤード開発の現状を知る：船も「CASE」（1/4 ページ）",
       "url": "https://monoist.itmedia.co.jp/mn/articles/2611/26/news018.html",
       "source": "ITmedia Mobile",
       "publisher": "ITmedia Mobile",
       "description": "政府策定の「造船業再生ロードマップ」では、AIとロボット技術を組み合わせたフィジカルAIによる建造工程の自動化が求められている。「造船業界におけるAI・ロボティクス普及に向けたシンポジウム」では、ジャパン マリンユナイテッドや川崎重工業、ソフトバンクロボティクス、日立の取り組みが紹介された。",
-      "published_utc": "2026-11-25T23:00:00+00:00",
+      "published_utc": "2026-11-26T08:00:00+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -8050,11 +8168,15 @@
           "url": "https://monoist.itmedia.co.jp/mn/articles/2611/26/news018.html",
           "source": "ITmedia Mobile",
           "publisher": "ITmedia Mobile",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-25T23:00:00+00:00",
-          "title": "国内造船業再生の鍵はフィジカルAI、デジタルシップヤード開発の現状を知る"
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T08:00:00+00:00",
+          "title": "国内造船業再生の鍵はフィジカルAI、デジタルシップヤード開発の現状を知る：船も「CASE」（1/4 ページ）"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T08:00:00Z",
+      "article_modified_raw": "2026-11-26T08:00:00Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "453ab37eed1a34a61309776d",
@@ -8483,6 +8605,1570 @@
       "article_published_raw": "2026-11-26T10:02:56+00:00",
       "article_modified_raw": "2026-11-26T10:03:01+00:00",
       "enrichment": "article_metadata"
+    },
+    {
+      "id": "bc9ec989ecf6a976e9570de1",
+      "topic": "pc",
+      "title": "Laptop displaying to TV - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa2Fia3pIcUt6TFNwVTJnRzdJQzBZTGFtaEJGcEFqd0hiQlpBT1BaaHRrZXBwM2VBc24tWlZRZ0VIaEdJYUUwdG8teEN6dFNfcGpLNnV6SzlvWGpiOUpoakwtY0g1WWE2M2pjNWtpdHU3NXhaRjNoOHlPNnpvREJfU1NGZ0tHbUVweWRN?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "Laptop displaying to TV Microsoft Learn",
+      "published_utc": "2026-11-26T11:11:32+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa2Fia3pIcUt6TFNwVTJnRzdJQzBZTGFtaEJGcEFqd0hiQlpBT1BaaHRrZXBwM2VBc24tWlZRZ0VIaEdJYUUwdG8teEN6dFNfcGpLNnV6SzlvWGpiOUpoakwtY0g1WWE2M2pjNWtpdHU3NXhaRjNoOHlPNnpvREJfU1NGZ0tHbUVweWRN?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T11:11:32+00:00",
+          "title": "Laptop displaying to TV - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "31fd41f567b57742c365bc91",
+      "topic": "pc",
+      "title": "What to do, it appears excel has run into an error - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVUd6cGxVcmVwLU1hRUdkUnpyM0t5dW5KOHFYN0JTTmpTZTBhWkZMU2I5aUYtUEt2TWh0MW9SY0VqZmw3WGlJTDFqdGdpajF1V3kxMTMxR1dUZll6ZUFkUGlRX05GY3ZCUUZ1TkVjS3lkLTVWTThsanJINWVOMFgwMWtmY2lqdjN6UE42ZW9rejJ3MWFscThGenJLaTdFVFNUUEZ0WVFydUhPQkY3SlE?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "What to do, it appears excel has run into an error Microsoft Learn",
+      "published_utc": "2026-11-26T14:13:55+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "fcf7d93acfa6",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVUd6cGxVcmVwLU1hRUdkUnpyM0t5dW5KOHFYN0JTTmpTZTBhWkZMU2I5aUYtUEt2TWh0MW9SY0VqZmw3WGlJTDFqdGdpajF1V3kxMTMxR1dUZll6ZUFkUGlRX05GY3ZCUUZ1TkVjS3lkLTVWTThsanJINWVOMFgwMWtmY2lqdjN6UE42ZW9rejJ3MWFscThGenJLaTdFVFNUUEZ0WVFydUhPQkY3SlE?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T14:13:55+00:00",
+          "title": "What to do, it appears excel has run into an error - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "540f04f997041af53e87e926",
+      "topic": "pc",
+      "title": "Microsoft 365 Nonprofit Tenant Locked Out: Both Global Administrators Receiving Error 399287 - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQWhqdUpTWHBNZERPeEwtZWRsV1U0T2tsTjhRM0s3SmM2d2ZfUkZtM2RrWk1lNE9DRy1kTkxWUWtkVnhBRG9QQmR6VDlwZGtnLUFra21jazItUzlBdEtSaWV2eS1ob1JHdklIRm5ZVUhJN1JHMFZTNUFQZnhUcjR6R3pxbEVRdHAxQURjZDhhRHhXOEFmMlNicnlzeXBOV0lZTWMyYlBDNHJ2Q0EtMWtz?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "Microsoft 365 Nonprofit Tenant Locked Out: Both Global Administrators Receiving Error 399287 Microsoft Learn",
+      "published_utc": "2026-11-26T13:25:33+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQWhqdUpTWHBNZERPeEwtZWRsV1U0T2tsTjhRM0s3SmM2d2ZfUkZtM2RrWk1lNE9DRy1kTkxWUWtkVnhBRG9QQmR6VDlwZGtnLUFra21jazItUzlBdEtSaWV2eS1ob1JHdklIRm5ZVUhJN1JHMFZTNUFQZnhUcjR6R3pxbEVRdHAxQURjZDhhRHhXOEFmMlNicnlzeXBOV0lZTWMyYlBDNHJ2Q0EtMWtz?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T13:25:33+00:00",
+          "title": "Microsoft 365 Nonprofit Tenant Locked Out: Both Global Administrators Receiving Error 399287 - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "553138378a01a23c947d1ce7",
+      "topic": "pc",
+      "title": "Removing a verification email - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVTYtRmhoT1lSOGVhY1Q5WjdOWFpoelVXQ1lONEFfNGFuRVhta3dUbU5Ubm1ZUW5wVXB3TExtVEJ2aVdQeDBQYkowZm54cGhkUldyQUU0a0Q2eVhpMms3X1BoYzZIaHE0OTk0Y3dUOFBXajRJaFVIM2N0Z1l3Sjg0ZjVqWkk4VGpRYWktSWk2dG1mcVk?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "Removing a verification email Microsoft Learn",
+      "published_utc": "2026-11-26T14:41:01+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVTYtRmhoT1lSOGVhY1Q5WjdOWFpoelVXQ1lONEFfNGFuRVhta3dUbU5Ubm1ZUW5wVXB3TExtVEJ2aVdQeDBQYkowZm54cGhkUldyQUU0a0Q2eVhpMms3X1BoYzZIaHE0OTk0Y3dUOFBXajRJaFVIM2N0Z1l3Sjg0ZjVqWkk4VGpRYWktSWk2dG1mcVk?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T14:41:01+00:00",
+          "title": "Removing a verification email - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "8f0a1f68d4b366d5eb0a4d69",
+      "topic": "pc",
+      "title": "Unauthorized Subscription Charge of USD 139.09 – Full Refund Request - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLVpTeDVDMS1NeFdXbXcyQjVsakwwZ2htaHhmZUtLVl94Y1RvQ2JqeWNBRFNxVEZpWWtLX0YxUG5wV0hpSHdYcFdmcjl2TW5QTnJ3TTJxTTRlUVpLZWl2S3lFeERHblk0Tk5mWG9mb3BXZF8xYTRCQ3lGSGo3MVQwTXRXaUZVYnZmanFQenBEUnNLeTlYSjR0Z3JueldLemNRNVZMNWtDNWYxdkVQX0hF?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "Unauthorized Subscription Charge of USD 139.09 – Full Refund Request Microsoft Learn",
+      "published_utc": "2026-11-26T14:10:47+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLVpTeDVDMS1NeFdXbXcyQjVsakwwZ2htaHhmZUtLVl94Y1RvQ2JqeWNBRFNxVEZpWWtLX0YxUG5wV0hpSHdYcFdmcjl2TW5QTnJ3TTJxTTRlUVpLZWl2S3lFeERHblk0Tk5mWG9mb3BXZF8xYTRCQ3lGSGo3MVQwTXRXaUZVYnZmanFQenBEUnNLeTlYSjR0Z3JueldLemNRNVZMNWtDNWYxdkVQX0hF?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T14:10:47+00:00",
+          "title": "Unauthorized Subscription Charge of USD 139.09 – Full Refund Request - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "5f48dcc3a95d805cb3d2e1c9",
+      "topic": "pc",
+      "title": "Orvisign - Windows官方下载 | 微软应用商店 - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LaV9kVldHZGQzSEdjUC11cmttcHBYeW9hUTRWWXlhNVRjWXdMbkthVjNSWmpaYndRZjl3TGZEaFlpR28tRWM5eXBjODg2d3h6VjkyX3lWX2ZqMF9qYm1ObnpHLVJGUQ?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft",
+      "description": "Orvisign - Windows官方下载 | 微软应用商店 Microsoft",
+      "published_utc": "2026-11-26T11:11:35+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LaV9kVldHZGQzSEdjUC11cmttcHBYeW9hUTRWWXlhNVRjWXdMbkthVjNSWmpaYndRZjl3TGZEaFlpR28tRWM5eXBjODg2d3h6VjkyX3lWX2ZqMF9qYm1ObnpHLVJGUQ?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T11:11:35+00:00",
+          "title": "Orvisign - Windows官方下载 | 微软应用商店 - Microsoft"
+        }
+      ]
+    },
+    {
+      "id": "945a6180f87a52a28f643e2e",
+      "topic": "pc",
+      "title": "What to do, it appears excel has run into an error - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZm5PZkVPUjl6VlJ4NlVxUEx5dVg5UXlqZ3pLVFZObHZtZ0FhR3cxaWVBT1pULXJyLWR0TVcxTjlxRE94Rk5ZNFMyNGN6SkhsYXQtdEt6aHJqSFhwU3RzcHdsYmxGOExDdllHbGl6VHR4TThIbldfSXE2S0lWOFJaUnp0TThBLUFVeEt2N1duTlk0eVg4d3lPWmxCZkQzUy1mT3dDRjIyWmJxZkZfcVE?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "What to do, it appears excel has run into an error Microsoft Learn",
+      "published_utc": "2026-11-26T14:10:47+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "fcf7d93acfa6",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZm5PZkVPUjl6VlJ4NlVxUEx5dVg5UXlqZ3pLVFZObHZtZ0FhR3cxaWVBT1pULXJyLWR0TVcxTjlxRE94Rk5ZNFMyNGN6SkhsYXQtdEt6aHJqSFhwU3RzcHdsYmxGOExDdllHbGl6VHR4TThIbldfSXE2S0lWOFJaUnp0TThBLUFVeEt2N1duTlk0eVg4d3lPWmxCZkQzUy1mT3dDRjIyWmJxZkZfcVE?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T14:10:47+00:00",
+          "title": "What to do, it appears excel has run into an error - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "9e6ee9934887155b1879a89c",
+      "topic": "pc",
+      "title": "How can I restore or recreate a deleted Public sensitivity label in Microsoft Purview? - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSVpvOWVXeHFmbmJmZjUtYmF2VTJPbmlhNGUtRzRxN2pZUkhRbFN2TnV6WUhQMmdHa0k3UWRUYldNSHpBZDU1Y01nM2ZzenZxRkt6Yzk3bU5VZ1BUcXkzdEhuZEJ6QUtKbms1WjBKU1hGN3VpeDF5ZDVnTEJMYkRNZE5CYjAtV1AySFJLVHAyTzcxVGoyVDZuRE1oS1c3SkZhMExtTV9SaTRLWE9lNHQw?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "How can I restore or recreate a deleted Public sensitivity label in Microsoft Purview? Microsoft Learn",
+      "published_utc": "2026-11-26T10:12:34+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSVpvOWVXeHFmbmJmZjUtYmF2VTJPbmlhNGUtRzRxN2pZUkhRbFN2TnV6WUhQMmdHa0k3UWRUYldNSHpBZDU1Y01nM2ZzenZxRkt6Yzk3bU5VZ1BUcXkzdEhuZEJ6QUtKbms1WjBKU1hGN3VpeDF5ZDVnTEJMYkRNZE5CYjAtV1AySFJLVHAyTzcxVGoyVDZuRE1oS1c3SkZhMExtTV9SaTRLWE9lNHQw?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T10:12:34+00:00",
+          "title": "How can I restore or recreate a deleted Public sensitivity label in Microsoft Purview? - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "929e1f1b60c144559b746a2a",
+      "topic": "pc",
+      "title": "Visual Studio exception - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNkFWSmJWTHM3MWlIMVlkMVRmN2lrUnJ5Y0JJRFJCaU1lZkdQXzQ5TFp3N2FaMEhkSXdDQzZCdFU4cTZ2LVRFX1dLV2NZMDZVOHhWalBUM3pJYUt3OHhxTVd0UHQtLV9YQkJ2TGkyQWhkVGU3UXJFX2RaMFUtMGRjSDdDdWNPdjJwZ0Iw?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "Visual Studio exception Microsoft Learn",
+      "published_utc": "2026-11-26T11:11:32+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNkFWSmJWTHM3MWlIMVlkMVRmN2lrUnJ5Y0JJRFJCaU1lZkdQXzQ5TFp3N2FaMEhkSXdDQzZCdFU4cTZ2LVRFX1dLV2NZMDZVOHhWalBUM3pJYUt3OHhxTVd0UHQtLV9YQkJ2TGkyQWhkVGU3UXJFX2RaMFUtMGRjSDdDdWNPdjJwZ0Iw?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T11:11:32+00:00",
+          "title": "Visual Studio exception - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "74220ad0120e945dd51ab565",
+      "topic": "pc",
+      "title": "can't open Microsoft Word App - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQlBwR2xESFJjUEw2NUpFYXk2R0hmN25PcmFfbVpGNE5xRnJOT09NZUR3SzNnaFhub0Y1eExmSWJZVFZWU0JubXljOGZWdzluSWtweDZLdkxUS216bXZ2MzJEcW5ocDd2QnU1dmhjaHlueExrTzV0akhLaW5ELXk3SDZ6ajM4QThibmFuRm81VW9ZZw?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "can't open Microsoft Word App Microsoft Learn",
+      "published_utc": "2026-11-26T10:12:35+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQlBwR2xESFJjUEw2NUpFYXk2R0hmN25PcmFfbVpGNE5xRnJOT09NZUR3SzNnaFhub0Y1eExmSWJZVFZWU0JubXljOGZWdzluSWtweDZLdkxUS216bXZ2MzJEcW5ocDd2QnU1dmhjaHlueExrTzV0akhLaW5ELXk3SDZ6ajM4QThibmFuRm81VW9ZZw?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T10:12:35+00:00",
+          "title": "can't open Microsoft Word App - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "f393cfa736bc0c6cc473bc1e",
+      "topic": "pc",
+      "title": "Supported alternative to AppInstallManager.StartProductInstallAsync for installing a third-party Store app from UWP, WinUI and WPF - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcURlbzN1cWNsZG9MZDVKVE5XZ1NBQVF0WkRjbklNZTVGTXIyekV0S2oyU3I4TE05MnV0bHdfWDBvUEZiRUkyUXBtdmdJVlphS3BIek9ZWEticjhscGgwYnpoaDdFSHQ0WUtieGdjTWktUEEzYWMzdlVCbUU3WVRmNVpGVjNLLVoyRkc2YlBqZFh0QjVQS2Nqd0ZEYXQ0MG1rdWoxTTZKYzktWVIyb21N?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "Supported alternative to AppInstallManager.StartProductInstallAsync for installing a third-party Store app from UWP, WinUI and WPF Microsoft Learn",
+      "published_utc": "2026-11-26T14:13:55+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcURlbzN1cWNsZG9MZDVKVE5XZ1NBQVF0WkRjbklNZTVGTXIyekV0S2oyU3I4TE05MnV0bHdfWDBvUEZiRUkyUXBtdmdJVlphS3BIek9ZWEticjhscGgwYnpoaDdFSHQ0WUtieGdjTWktUEEzYWMzdlVCbUU3WVRmNVpGVjNLLVoyRkc2YlBqZFh0QjVQS2Nqd0ZEYXQ0MG1rdWoxTTZKYzktWVIyb21N?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T14:13:55+00:00",
+          "title": "Supported alternative to AppInstallManager.StartProductInstallAsync for installing a third-party Store app from UWP, WinUI and WPF - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "5638d22adcf08dcd59d66e50",
+      "topic": "pc",
+      "title": "I am not good online, have visual issues and need to make a subscription payment - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZUx1d2Nqa3l6azFGcV9YQ182Ui01MEVHQW5EVno0b2ZOMGZNSnFKTmtoOXNib1dySVB2WWlOQzNFVUZrQ25Nc2dJeDQtamc1Y2dKa3gySmhOVnYwNjM0enVmNGdYak5zbXhIWHNPeURlblBfdEZWYk1lWGNSZXZzZDNPMXJZOTllSmJuRi03THl5Z3ZaTTY3T3RjZmtBOVktaU9LTWthZ2xQS2U4NHpn?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "I am not good online, have visual issues and need to make a subscription payment Microsoft Learn",
+      "published_utc": "2026-11-26T12:11:05+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZUx1d2Nqa3l6azFGcV9YQ182Ui01MEVHQW5EVno0b2ZOMGZNSnFKTmtoOXNib1dySVB2WWlOQzNFVUZrQ25Nc2dJeDQtamc1Y2dKa3gySmhOVnYwNjM0enVmNGdYak5zbXhIWHNPeURlblBfdEZWYk1lWGNSZXZzZDNPMXJZOTllSmJuRi03THl5Z3ZaTTY3T3RjZmtBOVktaU9LTWthZ2xQS2U4NHpn?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:11:05+00:00",
+          "title": "I am not good online, have visual issues and need to make a subscription payment - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "93107fae59275dd5949c55cb",
+      "topic": "pc",
+      "title": "From wasp nests to unsafe poles: How AI is helping BT Group’s Openreach engineers in the field - Microsoft UK Stories",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNXNhSlQxTEFRNWZ4UWpXaDltYi0zcEVKZV9rQVVlOC1JZUlwblZqZTJSYUdzLTZzRUItME10OFNnQ1RHRU1jRnpQU2wxZVJOd3l0aFBhLXhkdDJZNnl2blFGTjBCeU5vb1l2M1BYWHBYcGFDcVpmZVpPd0YxWjVfWjJEUUVRbTV4WXlBSlZTa2x0Rnl0djNQTDFXeUVWRVN0TDZF?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft UK Stories",
+      "description": "From wasp nests to unsafe poles: How AI is helping BT Group’s Openreach engineers in the field Microsoft UK Stories",
+      "published_utc": "2026-11-26T13:47:30+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNXNhSlQxTEFRNWZ4UWpXaDltYi0zcEVKZV9rQVVlOC1JZUlwblZqZTJSYUdzLTZzRUItME10OFNnQ1RHRU1jRnpQU2wxZVJOd3l0aFBhLXhkdDJZNnl2blFGTjBCeU5vb1l2M1BYWHBYcGFDcVpmZVpPd0YxWjVfWjJEUUVRbTV4WXlBSlZTa2x0Rnl0djNQTDFXeUVWRVN0TDZF?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft UK Stories",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T13:47:30+00:00",
+          "title": "From wasp nests to unsafe poles: How AI is helping BT Group’s Openreach engineers in the field - Microsoft UK Stories"
+        }
+      ]
+    },
+    {
+      "id": "912cf41770f0a13e7b69106a",
+      "topic": "pc",
+      "title": "I was charged for Microsoft 365 after cancelling my trial - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaEd3cmQ2R3dtREQ0YjNmdEYzQV93WlRSQm5EOVZTVjB2S3VMb2VxNW5vX2RLTk1ZTzJUWUZrZE5GQTZqZUNiRTlXU2dQLUk4N1NlTDdmeEZXbHZoTnAtU2dhd3JPZklOREM4Yi1GaElEVWE3T2w3NEhjSW9zZTJaNDZJSlNyRzI5NVBBV0dxWmlXcFVXbmY4VlRXa3ZsbVBBUHd0bTVSZlp2UXpNa19n?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "I was charged for Microsoft 365 after cancelling my trial Microsoft Learn",
+      "published_utc": "2026-11-26T10:12:34+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaEd3cmQ2R3dtREQ0YjNmdEYzQV93WlRSQm5EOVZTVjB2S3VMb2VxNW5vX2RLTk1ZTzJUWUZrZE5GQTZqZUNiRTlXU2dQLUk4N1NlTDdmeEZXbHZoTnAtU2dhd3JPZklOREM4Yi1GaElEVWE3T2w3NEhjSW9zZTJaNDZJSlNyRzI5NVBBV0dxWmlXcFVXbmY4VlRXa3ZsbVBBUHd0bTVSZlp2UXpNa19n?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T10:12:34+00:00",
+          "title": "I was charged for Microsoft 365 after cancelling my trial - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "e613211762b6585600c8bf40",
+      "topic": "pc",
+      "title": "New Outlook can’t add two IMAP accounts after migration - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSlN1SnZjX080N0JNNWY4M3pnWFBPV3lzQUQ0ZHBpMVlQZEV2MVBZbWhoSzJoaW4xOU5lR0FXSEJfbW1sQktvajVXZ005dUYxS3N1UUlPUks1TlUxNUhVdHFzN3J6Z2RQS2pfT2RTNVhJeGJ3cTFva01FSDRWRVJSZzdYV1lsVmhBdVRoTUVveGNSSkMyT0JZYjZjaWluQ1JibVgtamRqMjZzRng5Q1c0?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "New Outlook can’t add two IMAP accounts after migration Microsoft Learn",
+      "published_utc": "2026-11-26T10:37:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSlN1SnZjX080N0JNNWY4M3pnWFBPV3lzQUQ0ZHBpMVlQZEV2MVBZbWhoSzJoaW4xOU5lR0FXSEJfbW1sQktvajVXZ005dUYxS3N1UUlPUks1TlUxNUhVdHFzN3J6Z2RQS2pfT2RTNVhJeGJ3cTFva01FSDRWRVJSZzdYV1lsVmhBdVRoTUVveGNSSkMyT0JZYjZjaWluQ1JibVgtamRqMjZzRng5Q1c0?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T10:37:00+00:00",
+          "title": "New Outlook can’t add two IMAP accounts after migration - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "e5495424ce75cc1a766e990e",
+      "topic": "pc",
+      "title": "How to fix Microsoft Bubble app not responding when loading. - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR3dmSHN6dnBJbzlMZEFYd2RqZFFQdS1zbk9aNm85MWRGWWJ2NTlRaWRUa1BNbk1EblNvc2QzTUdnYXIxdlQ0LVlrbTZkOThaVG1wX2MtQTNjbzVYbXZUYU5JYjBLbWllYV9TNmVUNlJRdTMwVDdlTnQ2MmRvN3NQYjd2czMyb3VLcUFxaFhrMmF4a0FZRFFMVkRXZkRMOGlHVEpwT2JsemxUck80YWNv?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "How to fix Microsoft Bubble app not responding when loading. Microsoft Learn",
+      "published_utc": "2026-11-26T09:10:02+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR3dmSHN6dnBJbzlMZEFYd2RqZFFQdS1zbk9aNm85MWRGWWJ2NTlRaWRUa1BNbk1EblNvc2QzTUdnYXIxdlQ0LVlrbTZkOThaVG1wX2MtQTNjbzVYbXZUYU5JYjBLbWllYV9TNmVUNlJRdTMwVDdlTnQ2MmRvN3NQYjd2czMyb3VLcUFxaFhrMmF4a0FZRFFMVkRXZkRMOGlHVEpwT2JsemxUck80YWNv?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T09:10:02+00:00",
+          "title": "How to fix Microsoft Bubble app not responding when loading. - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "420de98eb71bd6add1615a74",
+      "topic": "pc",
+      "title": "How to fix error on using product key - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMmt3WnBBWnRwTXd4ODlGam0tNlVIZGQ5NzVCaHpYa0hnVFBIM1ZtZ01ZTUtkRlNOd29qOTIxU0NXWkQwU0hNMDI0VmZ1UUppeEhGblNXd0JUT2Zxb1cwR1dXbW4wTWZLZnJvMC1vaFJmUDVqVk4yTHYwdHVPRDlkSTIwdjVXRVNUZ0pQUk9oQmZuMWU4Tkg3bEtxSnpaQQ?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "How to fix error on using product key Microsoft Learn",
+      "published_utc": "2026-11-26T13:11:22+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMmt3WnBBWnRwTXd4ODlGam0tNlVIZGQ5NzVCaHpYa0hnVFBIM1ZtZ01ZTUtkRlNOd29qOTIxU0NXWkQwU0hNMDI0VmZ1UUppeEhGblNXd0JUT2Zxb1cwR1dXbW4wTWZLZnJvMC1vaFJmUDVqVk4yTHYwdHVPRDlkSTIwdjVXRVNUZ0pQUk9oQmZuMWU4Tkg3bEtxSnpaQQ?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T13:11:22+00:00",
+          "title": "How to fix error on using product key - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "399064ef14177458a20ec458",
+      "topic": "pc",
+      "title": "Looking for an extension in Azure DevOps Boards for Portfolio Planning - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTnFLN3d5RHVENmV5ZTlZaURudVd0eHY5ZTlXYzBJNWprNGRpN19aOHFzNURhcGVuM1RMdy1KOG1QQUZ1Ym5ZVC1JamlHRzRtRXFQNzNOR0FQQklXQmk0aFdicXBXM09DR18zMXluTXJVTnRTWF9IWklsZDZDcEw3TTI3ZEpRemlJc0dHdU85MUVCTEc2RkMtLWZNaEtjejRXdU5PUHRadm51SkIzRFA4?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "Looking for an extension in Azure DevOps Boards for Portfolio Planning Microsoft Learn",
+      "published_utc": "2026-11-26T14:13:55+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTnFLN3d5RHVENmV5ZTlZaURudVd0eHY5ZTlXYzBJNWprNGRpN19aOHFzNURhcGVuM1RMdy1KOG1QQUZ1Ym5ZVC1JamlHRzRtRXFQNzNOR0FQQklXQmk0aFdicXBXM09DR18zMXluTXJVTnRTWF9IWklsZDZDcEw3TTI3ZEpRemlJc0dHdU85MUVCTEc2RkMtLWZNaEtjejRXdU5PUHRadm51SkIzRFA4?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T14:13:55+00:00",
+          "title": "Looking for an extension in Azure DevOps Boards for Portfolio Planning - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "5e9f133f8e1c336db2629416",
+      "topic": "pc",
+      "title": "Word is not responding - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTAzTWZCZ0dhVFdjekJhZGZJQkNCbkNBX2RMNGlBQUVhVGF1S1hjcllOdFFZUlRzaGN1cURoOXAwd1JwTmhjSGw0VGhhZFY5a01aN3RaSkIzcDY2cjNmNE45UUU4dlFaMkVRUk1MX1VGNGdkZWRiamJ0VU1fWXZFNld6RXN6ai1sVHc?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "Word is not responding Microsoft Learn",
+      "published_utc": "2026-11-26T11:11:33+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTAzTWZCZ0dhVFdjekJhZGZJQkNCbkNBX2RMNGlBQUVhVGF1S1hjcllOdFFZUlRzaGN1cURoOXAwd1JwTmhjSGw0VGhhZFY5a01aN3RaSkIzcDY2cjNmNE45UUU4dlFaMkVRUk1MX1VGNGdkZWRiamJ0VU1fWXZFNld6RXN6ai1sVHc?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T11:11:33+00:00",
+          "title": "Word is not responding - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "a39dae36f8583d58f38b5104",
+      "topic": "pc",
+      "title": "im not getting my password reset emails from instagram - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc0V6Y2RjMGc4c0RzTnN2U1VHd3pqalk2cXNKR2t2dG94U3loT2ZPclhTNWtSUzJxbFVWTmRhME1BRGFtNkpmOUJGSk1BQWpGMWZFZjZKZHpmc1Q3M1lyUHRNUkd4SDgza0FvWkFjcDBCTmh0LVpfdFRhOGt3VnJGZWlDLXJBX0FpTGdPTUE4NkRwTG9wS0cyZlVTZGRob1JLOXFhVHVBMHZsTUxGRVc0?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "im not getting my password reset emails from instagram Microsoft Learn",
+      "published_utc": "2026-11-26T14:41:01+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc0V6Y2RjMGc4c0RzTnN2U1VHd3pqalk2cXNKR2t2dG94U3loT2ZPclhTNWtSUzJxbFVWTmRhME1BRGFtNkpmOUJGSk1BQWpGMWZFZjZKZHpmc1Q3M1lyUHRNUkd4SDgza0FvWkFjcDBCTmh0LVpfdFRhOGt3VnJGZWlDLXJBX0FpTGdPTUE4NkRwTG9wS0cyZlVTZGRob1JLOXFhVHVBMHZsTUxGRVc0?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T14:41:01+00:00",
+          "title": "im not getting my password reset emails from instagram - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "0f708c7c71d297b1c8ebdff4",
+      "topic": "pc",
+      "title": "A 'Repair' option is appearing in PowerPoint; how can I remove it? It says \"Would you like to Repair Now?\" - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWUNtZHZLMlFfVUp0akJUTTlJblVydnExWjg3YklFSmNrLS1QWDJMUTdlZS1iOHZuc2VUb3lmOFFsS3p1Sm5LUS05NjBwOHhJajYxZVc4bm1xZGhnUXNqWWJBeGlBb0YwVjM2UTFoN2VkY3hYSGxUbFpwNXc3NWNRU29lMVpiVTZqX01nUll5dGxuYWdPQ2ZIRlNjUTdPUEV1RVh3OEpZQ245bHBxdExN?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "A 'Repair' option is appearing in PowerPoint; how can I remove it? It says \"Would you like to Repair Now?\" Microsoft Learn",
+      "published_utc": "2026-11-26T14:13:55+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWUNtZHZLMlFfVUp0akJUTTlJblVydnExWjg3YklFSmNrLS1QWDJMUTdlZS1iOHZuc2VUb3lmOFFsS3p1Sm5LUS05NjBwOHhJajYxZVc4bm1xZGhnUXNqWWJBeGlBb0YwVjM2UTFoN2VkY3hYSGxUbFpwNXc3NWNRU29lMVpiVTZqX01nUll5dGxuYWdPQ2ZIRlNjUTdPUEV1RVh3OEpZQ245bHBxdExN?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T14:13:55+00:00",
+          "title": "A 'Repair' option is appearing in PowerPoint; how can I remove it? It says \"Would you like to Repair Now?\" - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "24da850a90d7ff9c802559ff",
+      "topic": "pc",
+      "title": "DLP for Teams Private chats - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1A4NVZ1VFh6TlZqNEFCZlUtTF85d0NNQWI0XzRVWjNEVGE0WkhqemREeHI1Qk14YW5yR05ldEJCM0VqYUk5V0R3UkUtTGVQdUlzbUxJbXQtLVl4UnhOZGNoaDRKZnFldkVqZk45TFJDYkQ0V2NnWlhWSFdCQURWRzFQV0ttU2NlXzRiSFpJblM?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "DLP for Teams Private chats Microsoft Learn",
+      "published_utc": "2026-11-26T13:11:21+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1A4NVZ1VFh6TlZqNEFCZlUtTF85d0NNQWI0XzRVWjNEVGE0WkhqemREeHI1Qk14YW5yR05ldEJCM0VqYUk5V0R3UkUtTGVQdUlzbUxJbXQtLVl4UnhOZGNoaDRKZnFldkVqZk45TFJDYkQ0V2NnWlhWSFdCQURWRzFQV0ttU2NlXzRiSFpJblM?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T13:11:21+00:00",
+          "title": "DLP for Teams Private chats - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "8cf9ae0a7bd6fa1380e08fe5",
+      "topic": "pc",
+      "title": "Windows Startup error - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzBKSWxhaDBQbHJxSlNwMWctYmphVzM3WDJPYm5FRnlCYkVmTUQ5MDlJZ3ZJdXM2dDJ4djY2NnRoSFFQX2NrVjVPT3k0SmVoNUFZQ1g4U0V3ekVBbUxWSnZlNzcyLVJoYVJKbkdOaVNkdk14eVJyTkRGNlFLeDU5NVpneEZsSXA3?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "Windows Startup error Microsoft Learn",
+      "published_utc": "2026-11-26T13:11:21+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzBKSWxhaDBQbHJxSlNwMWctYmphVzM3WDJPYm5FRnlCYkVmTUQ5MDlJZ3ZJdXM2dDJ4djY2NnRoSFFQX2NrVjVPT3k0SmVoNUFZQ1g4U0V3ekVBbUxWSnZlNzcyLVJoYVJKbkdOaVNkdk14eVJyTkRGNlFLeDU5NVpneEZsSXA3?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T13:11:21+00:00",
+          "title": "Windows Startup error - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "14cf8bb050fa172182a7e5d2",
+      "topic": "pc",
+      "title": "excel file repair so i want to clear the repair - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbnNRcm9PSzZLRFRVcm9NTlliZmRDVDdNNnBoeXkxUUtSeWZweHpaMUZTZUFKTC1aUWttbG53QWlQeFhyUlZoMXJyWTVnc2lCVFdFb1ZlV242Z0p3Vy1yVzFZVGtfY0hPZFlIZV9rbHhVcER1Q3p5ZGMySl9rZWhQLTlRZk9QeUpiRU1xYWRPQXNTZ3dNX0ZrVURVM3AzQkJwZ25ReVN0QXV4enc?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "excel file repair so i want to clear the repair Microsoft Learn",
+      "published_utc": "2026-11-26T13:11:21+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbnNRcm9PSzZLRFRVcm9NTlliZmRDVDdNNnBoeXkxUUtSeWZweHpaMUZTZUFKTC1aUWttbG53QWlQeFhyUlZoMXJyWTVnc2lCVFdFb1ZlV242Z0p3Vy1yVzFZVGtfY0hPZFlIZV9rbHhVcER1Q3p5ZGMySl9rZWhQLTlRZk9QeUpiRU1xYWRPQXNTZ3dNX0ZrVURVM3AzQkJwZ25ReVN0QXV4enc?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T13:11:21+00:00",
+          "title": "excel file repair so i want to clear the repair - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "895a9c0d01173c8ed455929e",
+      "topic": "pc",
+      "title": "To install windows 11 in my computer - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLWcxUTRnOVBZSEFqZ3M3OFI5UHFqX0RYa0Y5aFJaTkpDc3p1bnBweExUM1VKa0tUMlZKSDUyNFNiMHRnUXVibmg1ai1wM3RBYkpVSGZqemQ2blB4d1pCazBJT3pIcTZwQU5sblVvaXNzUkF6V3Bac2l2SXkxaVJ5bG5YOVJlalJ3VTZidVVyZ2hoZlRsSDF1ZnFLX1k?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "To install windows 11 in my computer Microsoft Learn",
+      "published_utc": "2026-11-26T14:13:55+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLWcxUTRnOVBZSEFqZ3M3OFI5UHFqX0RYa0Y5aFJaTkpDc3p1bnBweExUM1VKa0tUMlZKSDUyNFNiMHRnUXVibmg1ai1wM3RBYkpVSGZqemQ2blB4d1pCazBJT3pIcTZwQU5sblVvaXNzUkF6V3Bac2l2SXkxaVJ5bG5YOVJlalJ3VTZidVVyZ2hoZlRsSDF1ZnFLX1k?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T14:13:55+00:00",
+          "title": "To install windows 11 in my computer - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "08e9ec95d252acaf5ce154ec",
+      "topic": "pc",
+      "title": "Issue with SafeNet Etoken authentication after November cumulative patch KB5132061 - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY1pZazdEUFlQamctM1NTSF9RSVM4ejhKMEFnOFdsOVVoTnR5aERVQUVic1VSSE9ad2ZsNkpGbHI5RFMxV0wzMVQ5MVp0MFhzSXpRaHJlbi02NmlXeklGcDlrU0ZWSmkwRmNIdTRYX0NkdUZNT3BJQTJJc0ZWM2RDWVZJM0g2dXpvUWlRQnVsVVk1aVRHY2lRWnU0QWd0cEd4ZW90VExGdjZHdHFwdVpB?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "Issue with SafeNet Etoken authentication after November cumulative patch KB5132061 Microsoft Learn",
+      "published_utc": "2026-11-26T14:13:55+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY1pZazdEUFlQamctM1NTSF9RSVM4ejhKMEFnOFdsOVVoTnR5aERVQUVic1VSSE9ad2ZsNkpGbHI5RFMxV0wzMVQ5MVp0MFhzSXpRaHJlbi02NmlXeklGcDlrU0ZWSmkwRmNIdTRYX0NkdUZNT3BJQTJJc0ZWM2RDWVZJM0g2dXpvUWlRQnVsVVk1aVRHY2lRWnU0QWd0cEd4ZW90VExGdjZHdHFwdVpB?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T14:13:55+00:00",
+          "title": "Issue with SafeNet Etoken authentication after November cumulative patch KB5132061 - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "8be9d935c07efe1139657562",
+      "topic": "pc",
+      "title": "LibertyX Player - Microsoft Store",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9saVV4SkptSVdHb2lrN3EzQVJWZTBMUE1WNkdfODQxd1NSektua3BWaEs0RWo3Rm90Ykp0NXp2LXJxNlZFWTFDd3laYzc3eEZVYWdzLTh4UU9BTlNvYmFXMFZsTWJod3JCX09pYXdB?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Store",
+      "description": "LibertyX Player Microsoft Store",
+      "published_utc": "2026-11-26T11:02:22+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9saVV4SkptSVdHb2lrN3EzQVJWZTBMUE1WNkdfODQxd1NSektua3BWaEs0RWo3Rm90Ykp0NXp2LXJxNlZFWTFDd3laYzc3eEZVYWdzLTh4UU9BTlNvYmFXMFZsTWJod3JCX09pYXdB?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T11:02:22+00:00",
+          "title": "LibertyX Player - Microsoft Store"
+        }
+      ]
+    },
+    {
+      "id": "f3c939473e84e3c8bf4f9219",
+      "topic": "pc",
+      "title": "Something is preventing outlook from launching - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdkNnTUxjWDFYSDBQeEt1c3dXcDBUQktYNnM3T2JMd3lnV24yOVViYlhtWWV3c2EwREhJTXkxWVlvVmFuXy1CT2QtTEZVekEzaFJxMlJlcElSdm5PR0gwd1VDelJ4UlhQV1A5V2lZREctZ2ZLeEZVLTQ0bjA1c3FpcTE1aHh3WXNxMzFpa0Y1ZmRaeGJRTUtHcG1HV0EyZ2lEZEt0RjJNYlpIQQ?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "Something is preventing outlook from launching Microsoft Learn",
+      "published_utc": "2026-11-26T09:33:45+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdkNnTUxjWDFYSDBQeEt1c3dXcDBUQktYNnM3T2JMd3lnV24yOVViYlhtWWV3c2EwREhJTXkxWVlvVmFuXy1CT2QtTEZVekEzaFJxMlJlcElSdm5PR0gwd1VDelJ4UlhQV1A5V2lZREctZ2ZLeEZVLTQ0bjA1c3FpcTE1aHh3WXNxMzFpa0Y1ZmRaeGJRTUtHcG1HV0EyZ2lEZEt0RjJNYlpIQQ?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T09:33:45+00:00",
+          "title": "Something is preventing outlook from launching - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "633335fca4b17601ccdfc8f8",
+      "topic": "pc",
+      "title": "cannot open excel or word files - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV29pcGppVTRycElkNHo3bjlFNnpqNzRMZHpqTlE1djU2Qklfa2dhM3FvYUtuZlBtb1BjY2tfMXB0cjNkeS0tRmtxSF9FaFVHUW5fMjJhTlBGeUtXQTB2MDlPWHZtanpLQ0l1SUM4SC0tdktlU2FiUFZPX2JndGJXUUk5ZnNZZ0dvdXJycmpNT0dLZDdkb3c?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "cannot open excel or word files Microsoft Learn",
+      "published_utc": "2026-11-26T12:11:05+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV29pcGppVTRycElkNHo3bjlFNnpqNzRMZHpqTlE1djU2Qklfa2dhM3FvYUtuZlBtb1BjY2tfMXB0cjNkeS0tRmtxSF9FaFVHUW5fMjJhTlBGeUtXQTB2MDlPWHZtanpLQ0l1SUM4SC0tdktlU2FiUFZPX2JndGJXUUk5ZnNZZ0dvdXJycmpNT0dLZDdkb3c?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:11:05+00:00",
+          "title": "cannot open excel or word files - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "1e2720e3dd1d1635efbc5024",
+      "topic": "pc",
+      "title": "Come for the Games, Stay for the Community With GeForce NOW - NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdDlpM19zSU9iNE92T3Q2cGRMSXkzREpvRDlrb0Izb2g4dUc5MlhVM1hIcjgxdmpDOVpHTm5CMVdjcTBWVjcxT2NGLTc0TUVwMTRPQ011dnR6ME5UUU1QUFVoUXM4eDFtTjRBYXEtb2NlQ211X0tIMEdwTmgySVRDUHZYb0tMaXc?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Blog",
+      "description": "Come for the Games, Stay for the Community With GeForce NOW NVIDIA Blog",
+      "published_utc": "2026-11-26T14:09:32+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdDlpM19zSU9iNE92T3Q2cGRMSXkzREpvRDlrb0Izb2g4dUc5MlhVM1hIcjgxdmpDOVpHTm5CMVdjcTBWVjcxT2NGLTc0TUVwMTRPQ011dnR6ME5UUU1QUFVoUXM4eDFtTjRBYXEtb2NlQ211X0tIMEdwTmgySVRDUHZYb0tMaXc?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Blog",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T14:09:32+00:00",
+          "title": "Come for the Games, Stay for the Community With GeForce NOW - NVIDIA Blog"
+        }
+      ]
+    },
+    {
+      "id": "b1f7d54d454926e3187ec2ad",
+      "topic": "pc",
+      "title": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling | NVIDIA Technical Blog - NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNmJ4SEtfa1duOFdhTE94WkhpVkt6VGVpa1hHMWlmZEI3S3hMZnRrSEZQeGRTQktiSTZ6Qi1Cd3FUc0h4NVB4RFRsc1FXRXJZdnpzWlhmMjhwLWlELU5uNEFheGgtNVg0Nl90QTJtSkc4bTFOUzMtV2VsWDlMOXVEYlQ2bk9XN1R3WG9IMnBLS3lnOGE2NU9lRVRvMW1ZdEtUOVZjZEJVSkJXTmtUREhWTS12SHIxOUFP?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Developer",
+      "description": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling | NVIDIA Technical Blog NVIDIA Developer",
+      "published_utc": "2026-11-25T19:31:05+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNmJ4SEtfa1duOFdhTE94WkhpVkt6VGVpa1hHMWlmZEI3S3hMZnRrSEZQeGRTQktiSTZ6Qi1Cd3FUc0h4NVB4RFRsc1FXRXJZdnpzWlhmMjhwLWlELU5uNEFheGgtNVg0Nl90QTJtSkc4bTFOUzMtV2VsWDlMOXVEYlQ2bk9XN1R3WG9IMnBLS3lnOGE2NU9lRVRvMW1ZdEtUOVZjZEJVSkJXTmtUREhWTS12SHIxOUFP?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Developer",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T19:31:05+00:00",
+          "title": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling | NVIDIA Technical Blog - NVIDIA Developer"
+        }
+      ]
+    },
+    {
+      "id": "3940898a2ca73f2162e88cba",
+      "topic": "pc",
+      "title": "621.14 release notes - Nvidia Download - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUGhnQXhEOXZGSS05VXlqOEhsdV9EMzRTLThnX2NubEo3NlR2cGxJWVp4NEM4NldFVllzMlFybWZjSEQzRWtYU2ZoTW1ic0huajVKYUxnR01GWDFnTG9PQmpFSG1XUks4Ulc2N1duU2ptRkhkOGdIRkxlaDkySVZ6QmlVeC1jVUdGN3JHamIwajlqdw?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "621.14 release notes - Nvidia Download NVIDIA",
+      "published_utc": "2026-11-26T12:31:54+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUGhnQXhEOXZGSS05VXlqOEhsdV9EMzRTLThnX2NubEo3NlR2cGxJWVp4NEM4NldFVllzMlFybWZjSEQzRWtYU2ZoTW1ic0huajVKYUxnR01GWDFnTG9PQmpFSG1XUks4Ulc2N1duU2ptRkhkOGdIRkxlaDkySVZ6QmlVeC1jVUdGN3JHamIwajlqdw?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:31:54+00:00",
+          "title": "621.14 release notes - Nvidia Download - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "8dc015960f58531a2a8d4252",
+      "topic": "pc",
+      "title": "Developer Technology Intern, AI - Summer 2027 - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tN1V2MUY3empwZTZPSjVfWmowTHhGTVFxbzZhUFdXUlZmWFFTc2NlVjRicVphUWozUHdvdFh2QUJJZUJIWWhEdHJKcmhXZFdKUkVURWtIX29zemZt?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "Developer Technology Intern, AI - Summer 2027 NVIDIA",
+      "published_utc": "2026-11-25T17:02:17+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tN1V2MUY3empwZTZPSjVfWmowTHhGTVFxbzZhUFdXUlZmWFFTc2NlVjRicVphUWozUHdvdFh2QUJJZUJIWWhEdHJKcmhXZFdKUkVURWtIX29zemZt?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T17:02:17+00:00",
+          "title": "Developer Technology Intern, AI - Summer 2027 - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "b97c0b5096b72fcceccd8261",
+      "topic": "ai",
+      "title": "PhD Research Intern, Generative AI - 2026 | NVIDIA Corporation - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU3lUOFQ0Y0JEckl1Vk9TWXh1cW85SG9jOGRFMmNNdkxLMTNjMG1KWjlOOEpwbGFaUVJuT2VuVHpxXy1jN2M3RkQxT2hZejRUbDN0cVMtSGpGRGFTajdrNlQ4N3BvcVpQTEp5SkM0WHJoSGxwMU44VENzazBMQ211cFdic3lhS1Nmbi1rMEhEVnp3WDdvc0lZeHJVb19jYW16VEFzNkNMY3MyckllMktxdXl0QmxQVjFwNkg2QUNBYUlQV3RVYkl4MElCbXh3Tmhpck13?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "PhD Research Intern, Generative AI - 2026 | NVIDIA Corporation NVIDIA",
+      "published_utc": "2026-11-26T12:44:47+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU3lUOFQ0Y0JEckl1Vk9TWXh1cW85SG9jOGRFMmNNdkxLMTNjMG1KWjlOOEpwbGFaUVJuT2VuVHpxXy1jN2M3RkQxT2hZejRUbDN0cVMtSGpGRGFTajdrNlQ4N3BvcVpQTEp5SkM0WHJoSGxwMU44VENzazBMQ211cFdic3lhS1Nmbi1rMEhEVnp3WDdvc0lZeHJVb19jYW16VEFzNkNMY3MyckllMktxdXl0QmxQVjFwNkg2QUNBYUlQV3RVYkl4MElCbXh3Tmhpck13?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:44:47+00:00",
+          "title": "PhD Research Intern, Generative AI - 2026 | NVIDIA Corporation - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "e5263270146ff9b21773e3f2",
+      "topic": "pc",
+      "title": "Physical AI - NVIDIA Build - NVIDIA Build",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42TlR2ZU1JYjAxM2hwamNDNlVSSERNdnNpaGs3TWtGRXpKY0lWQ2lyR3BVTFplakpRU2NNS25VS0NHTDJXNXJxb191X0FUWFdQTmJsNnV4d2pTWnJOTTJLTEcyZ0wyU0dta2pWWlQ0aWdYeC10ZGc?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Build",
+      "description": "Physical AI - NVIDIA Build NVIDIA Build",
+      "published_utc": "2026-11-25T21:18:21+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42TlR2ZU1JYjAxM2hwamNDNlVSSERNdnNpaGs3TWtGRXpKY0lWQ2lyR3BVTFplakpRU2NNS25VS0NHTDJXNXJxb191X0FUWFdQTmJsNnV4d2pTWnJOTTJLTEcyZ0wyU0dta2pWWlQ0aWdYeC10ZGc?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Build",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T21:18:21+00:00",
+          "title": "Physical AI - NVIDIA Build - NVIDIA Build"
+        }
+      ]
+    },
+    {
+      "id": "d0eb57e358b12b911fa40e39",
+      "topic": "pc",
+      "title": "ERNIE 5.5 Flash Preview - #8 by wolttam - DGX Spark / GB10 - NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RbzUxU29vVWV5YmpuRW9hQ09kUC05Rk1JMS1sa2IwSEVXdDgyZVY0bmpaZl9WU3JVTi1BQVNWOTBXd0N2ZWVuOVp3SU9lSkdtLWtERmhnb00xLUdkQWMyZ2NCN3cxUWdQemw0cmZJS21zZ05SNV9PRDNB?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Developer Forums",
+      "description": "ERNIE 5.5 Flash Preview - #8 by wolttam - DGX Spark / GB10 NVIDIA Developer Forums",
+      "published_utc": "2026-11-25T23:09:59+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RbzUxU29vVWV5YmpuRW9hQ09kUC05Rk1JMS1sa2IwSEVXdDgyZVY0bmpaZl9WU3JVTi1BQVNWOTBXd0N2ZWVuOVp3SU9lSkdtLWtERmhnb00xLUdkQWMyZ2NCN3cxUWdQemw0cmZJS21zZ05SNV9PRDNB?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Developer Forums",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T23:09:59+00:00",
+          "title": "ERNIE 5.5 Flash Preview - #8 by wolttam - DGX Spark / GB10 - NVIDIA Developer Forums"
+        }
+      ]
+    },
+    {
+      "id": "396e008615c4a401dcdfe306",
+      "topic": "pc",
+      "title": "Error while flashing JetPack7.2 BSP+rootfs - NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeXVTWVR2Z3RaTko1ZmJKOXMxUmRCRklSb3NlRjNuZGxlOVR0Y0I3V1daQ1FSbk9ZQ0JnOWljVGJjRGhKenQ2REdFbkFZNDdPRUpOS190THJobGZMbkRNczZOSXA0Rnl6dXh6LUN5T0R5d1BpUEFpVlRnYmFvdlQ5eTRXU1BLUFhzd3lnWGJBb08?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Developer Forums",
+      "description": "Error while flashing JetPack7.2 BSP+rootfs NVIDIA Developer Forums",
+      "published_utc": "2026-11-26T12:13:43+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeXVTWVR2Z3RaTko1ZmJKOXMxUmRCRklSb3NlRjNuZGxlOVR0Y0I3V1daQ1FSbk9ZQ0JnOWljVGJjRGhKenQ2REdFbkFZNDdPRUpOS190THJobGZMbkRNczZOSXA0Rnl6dXh6LUN5T0R5d1BpUEFpVlRnYmFvdlQ5eTRXU1BLUFhzd3lnWGJBb08?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Developer Forums",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:13:43+00:00",
+          "title": "Error while flashing JetPack7.2 BSP+rootfs - NVIDIA Developer Forums"
+        }
+      ]
+    },
+    {
+      "id": "6adb1062755b855c40d59b3e",
+      "topic": "pc",
+      "title": "Search - NVIDIA Docs",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84dVNXdnNyX2FwamFmeW1iMk0xeUNKX05NdUJfVVRGMEJYbmlCdEhybEZmb1hDU3labmtpcWpsdkxjNHozRkxDa1otcUNHRmFjbEZGeXM3OUFIZXdQQ0xMMHJjWWM5dw?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Docs",
+      "description": "Search NVIDIA Docs",
+      "published_utc": "2026-11-26T01:12:58+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84dVNXdnNyX2FwamFmeW1iMk0xeUNKX05NdUJfVVRGMEJYbmlCdEhybEZmb1hDU3labmtpcWpsdkxjNHozRkxDa1otcUNHRmFjbEZGeXM3OUFIZXdQQ0xMMHJjWWM5dw?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Docs",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T01:12:58+00:00",
+          "title": "Search - NVIDIA Docs"
+        }
+      ]
+    },
+    {
+      "id": "7c518911ec08cea30f9df205",
+      "topic": "pc",
+      "title": "Management cluster telemetry: monitoring your service - NVIDIA Docs",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORmQzd192QkJqTVlZNldobk5nMjhfcjJjblhLblV3TXEwZkpNVFprdlpyUGxzQnZTY3pSQURNU2gtLWxRd0tMb3B5Y3BjcDRoVHZGcnM3WFEwUTV4dHViZTVSQXB1ZUJHZ1h3Um9hZWp6T0FWYXFUN3RScTl5a1FrY2JFMmdtLTR6SVUtVFZjSFpDWUFGRVVsOEhCNll2amNxajFsZWpwLXV4VzFmN2hyVTUzLVB0QzNSa0RuT0Fmb2ZsUQ?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Docs",
+      "description": "Management cluster telemetry: monitoring your service NVIDIA Docs",
+      "published_utc": "2026-11-25T23:46:43+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORmQzd192QkJqTVlZNldobk5nMjhfcjJjblhLblV3TXEwZkpNVFprdlpyUGxzQnZTY3pSQURNU2gtLWxRd0tMb3B5Y3BjcDRoVHZGcnM3WFEwUTV4dHViZTVSQXB1ZUJHZ1h3Um9hZWp6T0FWYXFUN3RScTl5a1FrY2JFMmdtLTR6SVUtVFZjSFpDWUFGRVVsOEhCNll2amNxajFsZWpwLXV4VzFmN2hyVTUzLVB0QzNSa0RuT0Fmb2ZsUQ?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Docs",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T23:46:43+00:00",
+          "title": "Management cluster telemetry: monitoring your service - NVIDIA Docs"
+        }
+      ]
+    },
+    {
+      "id": "62892ced7ee172b0867c076d",
+      "topic": "pc",
+      "title": "Manual Account Verification Request - \"Please contact support to verify your account\" (+86 mainland China) - NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeWZmTGc4OVUyWXZubFFMQlp2SXF5Sm1jSm9JRkU4SDhESUIteVIyN05IM3g2MDk2ZEZRNTBvNHdqY3lVclp2WUpMXzd2OVl2VWFWRWdBZ1BwMm5nUXo5UTk4aWZ6ekFzWFpXam9zYTBESTBXUEkzRDhaT3JtTHdXb3hSWUI1Rkx5YW9fVlFJX0FROVFFdkg4cXI5dTVCV1RfS2hTbWJWS1N0TDRLTFQtdmxBeFZac2FmRndGQVBLY2xmMjlIX3RjRTVZWm5fc3E2NXVOSW9pcHQyWjRX?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Developer Forums",
+      "description": "Manual Account Verification Request - \"Please contact support to verify your account\" (+86 mainland China) NVIDIA Developer Forums",
+      "published_utc": "2026-11-26T10:32:28+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeWZmTGc4OVUyWXZubFFMQlp2SXF5Sm1jSm9JRkU4SDhESUIteVIyN05IM3g2MDk2ZEZRNTBvNHdqY3lVclp2WUpMXzd2OVl2VWFWRWdBZ1BwMm5nUXo5UTk4aWZ6ekFzWFpXam9zYTBESTBXUEkzRDhaT3JtTHdXb3hSWUI1Rkx5YW9fVlFJX0FROVFFdkg4cXI5dTVCV1RfS2hTbWJWS1N0TDRLTFQtdmxBeFZac2FmRndGQVBLY2xmMjlIX3RjRTVZWm5fc3E2NXVOSW9pcHQyWjRX?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Developer Forums",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T10:32:28+00:00",
+          "title": "Manual Account Verification Request - \"Please contact support to verify your account\" (+86 mainland China) - NVIDIA Developer Forums"
+        }
+      ]
+    },
+    {
+      "id": "5ef7fe1878f970cf2fdbdf36",
+      "topic": "pc",
+      "title": "Nvidia Drive AGX Thor bootup issue - NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbEdmZTR6aWF1aHlYRERaOHA3MXJpWVIxNldzVVBnLU1kbmVDRk81Qm5UUXREM3NCNGtMam0taUlEWWhIQlFGLTNsWFdzRFhLS01GcmpRbjcxSDNIdmRQcVRZTXNEeFNjNW01SUtZQ1djV2IyOXRRa2d6enMxcy1DMFRUaEU0Zw?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Developer Forums",
+      "description": "Nvidia Drive AGX Thor bootup issue NVIDIA Developer Forums",
+      "published_utc": "2026-11-25T21:38:43+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "possible_event_id": "dca86028c189",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbEdmZTR6aWF1aHlYRERaOHA3MXJpWVIxNldzVVBnLU1kbmVDRk81Qm5UUXREM3NCNGtMam0taUlEWWhIQlFGLTNsWFdzRFhLS01GcmpRbjcxSDNIdmRQcVRZTXNEeFNjNW01SUtZQ1djV2IyOXRRa2d6enMxcy1DMFRUaEU0Zw?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Developer Forums",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T21:38:43+00:00",
+          "title": "Nvidia Drive AGX Thor bootup issue - NVIDIA Developer Forums"
+        }
+      ]
+    },
+    {
+      "id": "8f9560387586aa5039428325",
+      "topic": "pc",
+      "title": "Versioning — cuFFTMp - NVIDIA Docs",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHV1kxd081WXFyQ0ZYWnktNURKXzdXMHJIZVdzWGFfdjA3UmQyelh4cXRKX3lodV9lcFhrbWZpblY4Y2x2aFdTNGtsZVlhNHNGSkdvQUJBRmF6WDRHeFZ6NXVVYnlFbmVoZzhub2VzVW14X0k?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Docs",
+      "description": "Versioning — cuFFTMp NVIDIA Docs",
+      "published_utc": "2026-11-26T01:11:21+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHV1kxd081WXFyQ0ZYWnktNURKXzdXMHJIZVdzWGFfdjA3UmQyelh4cXRKX3lodV9lcFhrbWZpblY4Y2x2aFdTNGtsZVlhNHNGSkdvQUJBRmF6WDRHeFZ6NXVVYnlFbmVoZzhub2VzVW14X0k?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Docs",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T01:11:21+00:00",
+          "title": "Versioning — cuFFTMp - NVIDIA Docs"
+        }
+      ]
+    },
+    {
+      "id": "1a744d5071461cbd805b1219",
+      "topic": "pc",
+      "title": "Download the Jetson Offline Development Guide - NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRTFRSW1XNHZSak5PSFAwb2hUVGl5cnBjSVEybThabVVySV9sS0hRcXVkdFdzbTJNSW1SbVhRR0dHNGlVSUhFby1QMzlWdU8xbEp6WTF0dXdxd0FjZXRkMWpyNDdxTmhFRlhQTVFDbEVjSUdnaElSQ3ZsWW0xczRib2JGQXlkTXdOLTh5X3FnUmppWHZ1?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Developer Forums",
+      "description": "Download the Jetson Offline Development Guide NVIDIA Developer Forums",
+      "published_utc": "2026-11-25T15:23:08+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRTFRSW1XNHZSak5PSFAwb2hUVGl5cnBjSVEybThabVVySV9sS0hRcXVkdFdzbTJNSW1SbVhRR0dHNGlVSUhFby1QMzlWdU8xbEp6WTF0dXdxd0FjZXRkMWpyNDdxTmhFRlhQTVFDbEVjSUdnaElSQ3ZsWW0xczRib2JGQXlkTXdOLTh5X3FnUmppWHZ1?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Developer Forums",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T15:23:08+00:00",
+          "title": "Download the Jetson Offline Development Guide - NVIDIA Developer Forums"
+        }
+      ]
+    },
+    {
+      "id": "d7e5bf0fe83ea8a6e17f97b4",
+      "topic": "pc",
+      "title": "Nvidia - NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuZmhwd2dPVWhnWEtEMVFmWFZCZV96OWtENnRoWTZpS2JHRVRXcDU1bzFpMWplNkRlNnNKM3p5eHJzUzRLWGFud0pIb2MtMGpQRE9tMUpVVUpyTXdPMTA1OQ?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Developer Forums",
+      "description": "Nvidia NVIDIA Developer Forums",
+      "published_utc": "2026-11-25T21:40:19+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuZmhwd2dPVWhnWEtEMVFmWFZCZV96OWtENnRoWTZpS2JHRVRXcDU1bzFpMWplNkRlNnNKM3p5eHJzUzRLWGFud0pIb2MtMGpQRE9tMUpVVUpyTXdPMTA1OQ?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Developer Forums",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T21:40:19+00:00",
+          "title": "Nvidia - NVIDIA Developer Forums"
+        }
+      ]
+    },
+    {
+      "id": "c4449703246490aaa830648c",
+      "topic": "pc",
+      "title": "ERNIE 5.5 Flash Preview - #5 by 0rand - DGX Spark / GB10 - NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NSFR0S0ZxWi1UZk5MV003a1pEbGI0LVFfTmk1SWZ2Sl9MQnlJUlZjaENwV0tHWDhhN2ViN19MTWE5eVVmTzFTazkyLXBhazhkZ29DMGdvVkswR2pfT24xeXV1ckRKZDlzSUl0U0RsV21rRGhueGVlcE9B?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Developer Forums",
+      "description": "ERNIE 5.5 Flash Preview - #5 by 0rand - DGX Spark / GB10 NVIDIA Developer Forums",
+      "published_utc": "2026-11-25T23:09:59+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NSFR0S0ZxWi1UZk5MV003a1pEbGI0LVFfTmk1SWZ2Sl9MQnlJUlZjaENwV0tHWDhhN2ViN19MTWE5eVVmTzFTazkyLXBhazhkZ29DMGdvVkswR2pfT24xeXV1ckRKZDlzSUl0U0RsV21rRGhueGVlcE9B?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Developer Forums",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T23:09:59+00:00",
+          "title": "ERNIE 5.5 Flash Preview - #5 by 0rand - DGX Spark / GB10 - NVIDIA Developer Forums"
+        }
+      ]
+    },
+    {
+      "id": "2c7ecc35dfb96323c07908dc",
+      "topic": "pc",
+      "title": "Nvidia Drive AGX Thor bootup issue - NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZFNRVjEwYkwwN1Z3U013cExvUmU0OTNGWHhITTZnd2VTUGc5NWlrTGRSNDE3dXl5U1pMcExrdEVJS05PTHNzZTR0TXQyUXg2dGt5cmd0Y3M5VGRXXzVaSWdMbER6al9IeC11NFl5XzlFVE00aG1vNTJVUGY1NGlWNEZuMUNhbXFx?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Developer Forums",
+      "description": "Nvidia Drive AGX Thor bootup issue NVIDIA Developer Forums",
+      "published_utc": "2026-11-25T21:38:43+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "possible_event_id": "dca86028c189",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZFNRVjEwYkwwN1Z3U013cExvUmU0OTNGWHhITTZnd2VTUGc5NWlrTGRSNDE3dXl5U1pMcExrdEVJS05PTHNzZTR0TXQyUXg2dGt5cmd0Y3M5VGRXXzVaSWdMbER6al9IeC11NFl5XzlFVE00aG1vNTJVUGY1NGlWNEZuMUNhbXFx?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Developer Forums",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T21:38:43+00:00",
+          "title": "Nvidia Drive AGX Thor bootup issue - NVIDIA Developer Forums"
+        }
+      ]
+    },
+    {
+      "id": "4597d9ff61711436276f2320",
+      "topic": "pc",
+      "title": "Public api endpoints - NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHUURoSHp5ajhmRlUwZ2NrQUZJR0pjYkFnbVZnWFo3dC1ORkFueGJvNmltNzFoZ1FZWUVabjl6aGJzcWdoTEx0ZnoyMkVBNUwzMHppcEpMZ05GLVRoZGJVSzRIVGxaT0xKQ195bjFkNXFiOEk?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Developer Forums",
+      "description": "Public api endpoints NVIDIA Developer Forums",
+      "published_utc": "2026-11-25T20:45:16+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHUURoSHp5ajhmRlUwZ2NrQUZJR0pjYkFnbVZnWFo3dC1ORkFueGJvNmltNzFoZ1FZWUVabjl6aGJzcWdoTEx0ZnoyMkVBNUwzMHppcEpMZ05GLVRoZGJVSzRIVGxaT0xKQ195bjFkNXFiOEk?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Developer Forums",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T20:45:16+00:00",
+          "title": "Public api endpoints - NVIDIA Developer Forums"
+        }
+      ]
+    },
+    {
+      "id": "bafa868630bef4c4322a7be6",
+      "topic": "pc",
+      "title": "Manual Account Verification Request (Russia +7) - NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLXZySFJ6V2c5Y1JCQ09UZzNJeDBYT0hfUXg0d2p3eWJYXzZsLVhlYzQtMnFzMFVqODEyeW9yWXhxMENrbDloODZKUENNbHFfSjhGSmN2V3JhZlVybE5NcTdYOWdHVlNLZFdIWHR2WGFHTll1SkQ1a1p0b0FseTVudnJ2cFYtY2h2N1g3TUNRWk5qMHc?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Developer Forums",
+      "description": "Manual Account Verification Request (Russia +7) NVIDIA Developer Forums",
+      "published_utc": "2026-11-26T11:19:44+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLXZySFJ6V2c5Y1JCQ09UZzNJeDBYT0hfUXg0d2p3eWJYXzZsLVhlYzQtMnFzMFVqODEyeW9yWXhxMENrbDloODZKUENNbHFfSjhGSmN2V3JhZlVybE5NcTdYOWdHVlNLZFdIWHR2WGFHTll1SkQ1a1p0b0FseTVudnJ2cFYtY2h2N1g3TUNRWk5qMHc?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Developer Forums",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T11:19:44+00:00",
+          "title": "Manual Account Verification Request (Russia +7) - NVIDIA Developer Forums"
+        }
+      ]
+    },
+    {
+      "id": "423382f0b27bbc54f2e34dab",
+      "topic": "pc",
+      "title": "ERNIE 5.5 Flash Preview - #9 by wolttam - DGX Spark / GB10 - NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SZTUtWXplb1JvNVNkRVlJX1Vpd0FjdHY2c3gtdW0xQW9yNEhBU2lPbk5oNkJiNXkybms1NHN6ellZelJvVFZGVi1nUW13S0xjLVEwREJGSU1UMndHRUQyTGd0cUNpd3Iyb1JYNWZpTXdIa1J0YTRFSUd3?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Developer Forums",
+      "description": "ERNIE 5.5 Flash Preview - #9 by wolttam - DGX Spark / GB10 NVIDIA Developer Forums",
+      "published_utc": "2026-11-25T23:09:59+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SZTUtWXplb1JvNVNkRVlJX1Vpd0FjdHY2c3gtdW0xQW9yNEhBU2lPbk5oNkJiNXkybms1NHN6ellZelJvVFZGVi1nUW13S0xjLVEwREJGSU1UMndHRUQyTGd0cUNpd3Iyb1JYNWZpTXdIa1J0YTRFSUd3?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Developer Forums",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T23:09:59+00:00",
+          "title": "ERNIE 5.5 Flash Preview - #9 by wolttam - DGX Spark / GB10 - NVIDIA Developer Forums"
+        }
+      ]
+    },
+    {
+      "id": "f742ba232efd221cd8da8012",
+      "topic": "pc",
+      "title": "[Help Wanted] Offline version of Jetson Linux Developer Guide r39.2.2 - NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYk16X2lGanBGX3JlWUFYLTlueXNBM1pLMWk3MEd1eWZ4UXc3RzR6aVFCMWx5TGdBOC1qYS15ZWpXcUozUWgzLWlVT1ZaejhSNDVQVnJmVFZ6bFdlYlI2UVI2b2JFOFVPNG94Wkxvc1ZuZXdUdjVKUF9hUDI1MDRZWXRkbmlqYjY4VUhkOUx0R1VaV3MxSXNjRjBfelJQcmlmVFI2YlV0ejQ3LTRTN1ZSWjJ3?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Developer Forums",
+      "description": "[Help Wanted] Offline version of Jetson Linux Developer Guide r39.2.2 NVIDIA Developer Forums",
+      "published_utc": "2026-11-26T09:10:45+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYk16X2lGanBGX3JlWUFYLTlueXNBM1pLMWk3MEd1eWZ4UXc3RzR6aVFCMWx5TGdBOC1qYS15ZWpXcUozUWgzLWlVT1ZaejhSNDVQVnJmVFZ6bFdlYlI2UVI2b2JFOFVPNG94Wkxvc1ZuZXdUdjVKUF9hUDI1MDRZWXRkbmlqYjY4VUhkOUx0R1VaV3MxSXNjRjBfelJQcmlmVFI2YlV0ejQ3LTRTN1ZSWjJ3?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Developer Forums",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T09:10:45+00:00",
+          "title": "[Help Wanted] Offline version of Jetson Linux Developer Guide r39.2.2 - NVIDIA Developer Forums"
+        }
+      ]
+    },
+    {
+      "id": "345f1368e0c09c2e9055671f",
+      "topic": "pc",
+      "title": "Request for Manual Account Verification - \"API Access Unavailable\" on NVIDIA Build - NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaUlucHQ3X0luYU9LOXRxbjljM2ZhNmFiSzI5SVhtLTk4SHJ3YVRBWVJaT0xYOC1ZaHhvTmZ2bkxXRWliYjVkRS03bXZjRV9JaFdxaG9iYWRGV25WV3RPWGIzN0FZQVVuUTFTbUEtRDI3TTRjNWxFbTF3dWxOREoyUjByYkR3ejdDcl9jdlNWZEJ3dUxQYlprckRObzBxY3ROTHdTMlhzdXdQeUk0MXRzcEFIX3FZOEFRT3RwVjBXQnE?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Developer Forums",
+      "description": "Request for Manual Account Verification - \"API Access Unavailable\" on NVIDIA Build NVIDIA Developer Forums",
+      "published_utc": "2026-11-25T21:03:39+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaUlucHQ3X0luYU9LOXRxbjljM2ZhNmFiSzI5SVhtLTk4SHJ3YVRBWVJaT0xYOC1ZaHhvTmZ2bkxXRWliYjVkRS03bXZjRV9JaFdxaG9iYWRGV25WV3RPWGIzN0FZQVVuUTFTbUEtRDI3TTRjNWxFbTF3dWxOREoyUjByYkR3ejdDcl9jdlNWZEJ3dUxQYlprckRObzBxY3ROTHdTMlhzdXdQeUk0MXRzcEFIX3FZOEFRT3RwVjBXQnE?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Developer Forums",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T21:03:39+00:00",
+          "title": "Request for Manual Account Verification - \"API Access Unavailable\" on NVIDIA Build - NVIDIA Developer Forums"
+        }
+      ]
+    },
+    {
+      "id": "92e7498a624629d06a03df08",
+      "topic": "pc",
+      "title": "ICMS API keys - NVIDIA Docs",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zblp1S2hMLVN3UUtzSUtXRWVDVGx1WDE3Q2Npc2dkYy1pclpHeUk0Sy1VZjRheV9tZ25SZ2x3dFV3cTJzblpTdFR4NlpaRFFOSEE0S1Z5N0NVbTJOSDVWZ1V0YWxxQQ?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Docs",
+      "description": "ICMS API keys NVIDIA Docs",
+      "published_utc": "2026-11-25T15:21:37+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zblp1S2hMLVN3UUtzSUtXRWVDVGx1WDE3Q2Npc2dkYy1pclpHeUk0Sy1VZjRheV9tZ25SZ2x3dFV3cTJzblpTdFR4NlpaRFFOSEE0S1Z5N0NVbTJOSDVWZ1V0YWxxQQ?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Docs",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T15:21:37+00:00",
+          "title": "ICMS API keys - NVIDIA Docs"
+        }
+      ]
+    },
+    {
+      "id": "bd034e016d1379889ab694e2",
+      "topic": "pc",
+      "title": "NVIDIA GPU Driver - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORHlBWV85bElKNnUwNVJQUUlXZ0l2YTVKRm55WFJTc19pTXFEODBnUzh5TEpTX0Mtb3FfZmNPRzFjTkN5elpWWldlRFk2VEVlQ0RBc3IySEdhX2pYaTNWdXN0S2tiQTlWMXB6Mk15VFVGdnRMOXZiTVZXenB3NFcxamQyWVNGNWc4NVVFZktfX2JJX1JyendmU2dPeE01cG9fTnIwTHFZVE0yckNSeW5MX0RBOHNUazBPc1gzTg?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "NVIDIA GPU Driver NVIDIA",
+      "published_utc": "2026-11-26T04:14:31+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORHlBWV85bElKNnUwNVJQUUlXZ0l2YTVKRm55WFJTc19pTXFEODBnUzh5TEpTX0Mtb3FfZmNPRzFjTkN5elpWWldlRFk2VEVlQ0RBc3IySEdhX2pYaTNWdXN0S2tiQTlWMXB6Mk15VFVGdnRMOXZiTVZXenB3NFcxamQyWVNGNWc4NVVFZktfX2JJX1JyendmU2dPeE01cG9fTnIwTHFZVE0yckNSeW5MX0RBOHNUazBPc1gzTg?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T04:14:31+00:00",
+          "title": "NVIDIA GPU Driver - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "4b17512ae42bc09d14a2a0d3",
+      "topic": "pc",
+      "title": "NVIDIA DGX Spark completely unresponsive after power on - NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOGs0MGtwSl82cTNuUWtFY19KMXlPbG5ZUGxzMmc2ZGprdGNsTGFaaWk4WXRyWk9NUHJsTHMydEx6U3VucFF4RUpyWGZUcVQta1NXc29TSm9LV1RHU3BpdWJsejMtTzZqODhYOXdMenJCVENwSzZad25wVlFZNjJlSXlaVmxtdEJxbjNmeVdMN1kxUlJ3ZXhObW85emRyc21ndkE?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Developer Forums",
+      "description": "NVIDIA DGX Spark completely unresponsive after power on NVIDIA Developer Forums",
+      "published_utc": "2026-11-26T06:07:54+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOGs0MGtwSl82cTNuUWtFY19KMXlPbG5ZUGxzMmc2ZGprdGNsTGFaaWk4WXRyWk9NUHJsTHMydEx6U3VucFF4RUpyWGZUcVQta1NXc29TSm9LV1RHU3BpdWJsejMtTzZqODhYOXdMenJCVENwSzZad25wVlFZNjJlSXlaVmxtdEJxbjNmeVdMN1kxUlJ3ZXhObW85emRyc21ndkE?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Developer Forums",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T06:07:54+00:00",
+          "title": "NVIDIA DGX Spark completely unresponsive after power on - NVIDIA Developer Forums"
+        }
+      ]
+    },
+    {
+      "id": "cd3214730bf35c787908b5bc",
+      "topic": "pc",
+      "title": "Multi-Camera Ethernet Architecture on NVIDIA Jetson Thor: SIPL, PTP Synchronization and Latency - NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS0hrNXpPUVpaQm1VMFpQRDRQV2N6XzUyZ2F6OXR3RExIdjREWGhzT0pkeFRDa1VXNkhiYWhDa3JwQkFXWWQ0MFhvTm9uR2t0em9ubnAtZmpkd0JoaHU4UXRQeGpIN3lYOV8xbThIUkE0S3h3THZSYUFUX0VONWFmQnIyNHRwbVJkWmFoOUJhZ0dWUzB2Ri03c1VjVE9rb1FzR25fVTBSLTFMVTY2OHg2SnY4UE5wQnZqd2dtZmZUN21KaC0wLTk5eGZhT2JYNnphdWlfMQ?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Developer Forums",
+      "description": "Multi-Camera Ethernet Architecture on NVIDIA Jetson Thor: SIPL, PTP Synchronization and Latency NVIDIA Developer Forums",
+      "published_utc": "2026-11-26T14:19:52+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS0hrNXpPUVpaQm1VMFpQRDRQV2N6XzUyZ2F6OXR3RExIdjREWGhzT0pkeFRDa1VXNkhiYWhDa3JwQkFXWWQ0MFhvTm9uR2t0em9ubnAtZmpkd0JoaHU4UXRQeGpIN3lYOV8xbThIUkE0S3h3THZSYUFUX0VONWFmQnIyNHRwbVJkWmFoOUJhZ0dWUzB2Ri03c1VjVE9rb1FzR25fVTBSLTFMVTY2OHg2SnY4UE5wQnZqd2dtZmZUN21KaC0wLTk5eGZhT2JYNnphdWlfMQ?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Developer Forums",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T14:19:52+00:00",
+          "title": "Multi-Camera Ethernet Architecture on NVIDIA Jetson Thor: SIPL, PTP Synchronization and Latency - NVIDIA Developer Forums"
+        }
+      ]
+    },
+    {
+      "id": "8802bdea0e6aa0256af6d27f",
+      "topic": "pc",
+      "title": "Setting CPHY rate to 4.5Gsps - NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nNGh1ZzJvSUdUbnRiQ3VyUk0yQkVQamM1cDZ6U1lVT0xIWlZzU09ZZzdNUmRLMGN1NmpDbmdLT3pUZnRyYWpPLS0zVVctNDdHQnhKQlRlMkFlTjlROEZBdXdreFNmYzlmNXpGSTA1X3FTcnpkVjM1RS1SUU1KZw?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Developer Forums",
+      "description": "Setting CPHY rate to 4.5Gsps NVIDIA Developer Forums",
+      "published_utc": "2026-11-26T07:10:49+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nNGh1ZzJvSUdUbnRiQ3VyUk0yQkVQamM1cDZ6U1lVT0xIWlZzU09ZZzdNUmRLMGN1NmpDbmdLT3pUZnRyYWpPLS0zVVctNDdHQnhKQlRlMkFlTjlROEZBdXdreFNmYzlmNXpGSTA1X3FTcnpkVjM1RS1SUU1KZw?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Developer Forums",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T07:10:49+00:00",
+          "title": "Setting CPHY rate to 4.5Gsps - NVIDIA Developer Forums"
+        }
+      ]
+    },
+    {
+      "id": "8d7f62019dae285c11676cd3",
+      "topic": "pc",
+      "title": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling - NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTWlfSjh4QTFMYmpWUXNqeFZiNXFwTlNkUjRkenhiTUVkMzZhZ0FSd1hheTlJQzhzTHBMa21vUl9Ya2xoSVBDbm9iZWlsMU5vbFh1ZkJuUmYzaXNsclJEUzVxdlg0UUpScWEtUlhtMF9FTGJ1dnB3UEJZaVo3ek1VdFVmNEJaYnIzM2hiLWRBSncwMk91Q2V6T3JmNkFRXzVWMzlUSnRnTGV5WF80OHJveHY3bnBqWmU0UFhTR0FkeWlmQ0l1d1E?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Developer Forums",
+      "description": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling NVIDIA Developer Forums",
+      "published_utc": "2026-11-25T19:30:08+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTWlfSjh4QTFMYmpWUXNqeFZiNXFwTlNkUjRkenhiTUVkMzZhZ0FSd1hheTlJQzhzTHBMa21vUl9Ya2xoSVBDbm9iZWlsMU5vbFh1ZkJuUmYzaXNsclJEUzVxdlg0UUpScWEtUlhtMF9FTGJ1dnB3UEJZaVo3ek1VdFVmNEJaYnIzM2hiLWRBSncwMk91Q2V6T3JmNkFRXzVWMzlUSnRnTGV5WF80OHJveHY3bnBqWmU0UFhTR0FkeWlmQ0l1d1E?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Developer Forums",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T19:30:08+00:00",
+          "title": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling - NVIDIA Developer Forums"
+        }
+      ]
+    },
+    {
+      "id": "6d6339fac81f8f371a2fb7c4",
+      "topic": "smartphones",
+      "title": "Samsung’s Recompose tool could let you shift a photo’s perspective with AI in One UI 9.5 - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVBkRWM2endDWWZ4U3ZwbGFndzAtYlBOVlJmYXlMeHVpMVBYRHgwQ3ZSZVgyMFUxY0p0TnhadFZ1QUhvQjZMajYteWxuSFZXZFZMNERLN2Fuem5kLXZkUHo1MzhYRXRuZTMxUXZ2NkhqenBvNE53UFM4cHRRMlZNTS1za1BiZW5TaUhWVzN6d0dNd2V3M2tkVDRETzA?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Samsung’s Recompose tool could let you shift a photo’s perspective with AI in One UI 9.5 Android Authority",
+      "published_utc": "2026-11-26T11:48:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "スマートフォンへ分類",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVBkRWM2endDWWZ4U3ZwbGFndzAtYlBOVlJmYXlMeHVpMVBYRHgwQ3ZSZVgyMFUxY0p0TnhadFZ1QUhvQjZMajYteWxuSFZXZFZMNERLN2Fuem5kLXZkUHo1MzhYRXRuZTMxUXZ2NkhqenBvNE53UFM4cHRRMlZNTS1za1BiZW5TaUhWVzN6d0dNd2V3M2tkVDRETzA?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T11:48:00+00:00",
+          "title": "Samsung’s Recompose tool could let you shift a photo’s perspective with AI in One UI 9.5 - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "b435688776215760118c1e28",
+      "topic": "ai",
+      "title": "Australia delays final vote on gas reservation law for LNG exporters to February - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS1QwUkxuakdFVVE1NjBCcDVBRDlCa2psb3RPUmp1N2VveDNBVi1EcHFZV2Qzckk4dF9TUTFWVjh0WmxYWWZfTUxKQlBnWnlkQ1Z2dXNkeFZlb2tpN1hRNnctZFZhOGZDU2ZPcUh0S0p0bWdubGh0cjFILWp4Tm5tck5EbUYySWF1RVBhTmRHR3J4WmJFcVNXYXlwY0RrY1ZEMlh0TWdKMlJjNW1YZWtYUEJ6MV9LR0pFSEE?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Australia delays final vote on gas reservation law for LNG exporters to February Reuters",
+      "published_utc": "2026-11-26T12:19:10+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS1QwUkxuakdFVVE1NjBCcDVBRDlCa2psb3RPUmp1N2VveDNBVi1EcHFZV2Qzckk4dF9TUTFWVjh0WmxYWWZfTUxKQlBnWnlkQ1Z2dXNkeFZlb2tpN1hRNnctZFZhOGZDU2ZPcUh0S0p0bWdubGh0cjFILWp4Tm5tck5EbUYySWF1RVBhTmRHR3J4WmJFcVNXYXlwY0RrY1ZEMlh0TWdKMlJjNW1YZWtYUEJ6MV9LR0pFSEE?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:19:10+00:00",
+          "title": "Australia delays final vote on gas reservation law for LNG exporters to February - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "4d8b9e602ac4b5ac6fb6de71",
+      "topic": "ai",
+      "title": "J.P. Morgan sees Indian stocks rise further in 2027 after 'great comeback' of 2026 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQWRmQXRtWGtJcjVxUnJtb3JhWHItaTMtanZUcll1emlBaUFzZU1Eay11ZV9neGRlVnRKMXlMNDVnTDkwMDdjeHVMcUJhRldlUnVzZy11Q2ZYT05Mb3ZZWGRYSDFKT0dtM0t4Z2IweGpmZDZKR2pOSjRHSW5KRE1JQXpWX1VBRlpWTDgtdllpNFprV3RjTUYwWkZFSGo4cEJ3dDlaeUNYU0s4dm9DYUNhWV9qdGRfTUFqUkpDaA?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "J.P. Morgan sees Indian stocks rise further in 2027 after 'great comeback' of 2026 Reuters",
+      "published_utc": "2026-11-26T12:37:44+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQWRmQXRtWGtJcjVxUnJtb3JhWHItaTMtanZUcll1emlBaUFzZU1Eay11ZV9neGRlVnRKMXlMNDVnTDkwMDdjeHVMcUJhRldlUnVzZy11Q2ZYT05Mb3ZZWGRYSDFKT0dtM0t4Z2IweGpmZDZKR2pOSjRHSW5KRE1JQXpWX1VBRlpWTDgtdllpNFprV3RjTUYwWkZFSGo4cEJ3dDlaeUNYU0s4dm9DYUNhWV9qdGRfTUFqUkpDaA?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:37:44+00:00",
+          "title": "J.P. Morgan sees Indian stocks rise further in 2027 after 'great comeback' of 2026 - Reuters"
+        }
+      ]
     }
   ],
   "date_unknown": [],

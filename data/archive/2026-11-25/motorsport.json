@@ -1683,7 +1683,7 @@
       "source": "IndyCar Official",
       "publisher": "INDYCAR.com",
       "description": "Latest NTT INDYCAR SERIES News and Results | Official Site of INDYCAR INDYCAR.com",
-      "published_utc": "2026-11-24T19:02:41+00:00",
+      "published_utc": "2026-11-24T21:57:19+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -1696,7 +1696,7 @@
           "source": "IndyCar Official",
           "publisher": "INDYCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T19:02:41+00:00",
+          "published_utc": "2026-11-24T21:57:19+00:00",
           "title": "Latest NTT INDYCAR SERIES News and Results | Official Site of INDYCAR - INDYCAR.com"
         }
       ]
@@ -2622,32 +2622,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T03:28:41+00:00",
           "title": "Red Bull hire Gwen Lagrue from Mercedes to lead Junior Programme in 2027 - Formula 1"
-        }
-      ]
-    },
-    {
-      "id": "8e46aa7a10618509d344a908",
-      "topic": "F1",
-      "title": "The 2026 Qualifying and race head-to-heads so far - Formula 1",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRmVrbV9IZ1dyWVVydWRiQnZ4LXBZbE5EMnJqc0QtOS1KTmxld0l1T3A0ZmR5TGtjbExhcXhoeTBNRXpWd3h4THZYM1lSZlNtdDJBQ0RnemU2Y1RWTThxcVlZQmtUeWNKWDFrTEJIcTlEbEFCQ0pqektKYzNiSGdMSkw4U3hVc1l4eXQ3YkNEdGpNdC04amVHMUEyQkFNYy00VlJNSUk4ZVNMQTRnSHVsSHFtZWFqOG50bEltc1YyUzBfZ2FETTE2NkJ3SWRKSlZUbFN6X08zLVFhOTF2QUQ1eA?oc=5",
-      "source": "Formula 1 Official",
-      "publisher": "Formula 1",
-      "description": "The 2026 Qualifying and race head-to-heads so far Formula 1",
-      "published_utc": "2026-11-25T04:32:41+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRmVrbV9IZ1dyWVVydWRiQnZ4LXBZbE5EMnJqc0QtOS1KTmxld0l1T3A0ZmR5TGtjbExhcXhoeTBNRXpWd3h4THZYM1lSZlNtdDJBQ0RnemU2Y1RWTThxcVlZQmtUeWNKWDFrTEJIcTlEbEFCQ0pqektKYzNiSGdMSkw4U3hVc1l4eXQ3YkNEdGpNdC04amVHMUEyQkFNYy00VlJNSUk4ZVNMQTRnSHVsSHFtZWFqOG50bEltc1YyUzBfZ2FETTE2NkJ3SWRKSlZUbFN6X08zLVFhOTF2QUQ1eA?oc=5",
-          "source": "Formula 1 Official",
-          "publisher": "Formula 1",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T04:32:41+00:00",
-          "title": "The 2026 Qualifying and race head-to-heads so far - Formula 1"
         }
       ]
     },
@@ -5322,6 +5296,32 @@
       ]
     },
     {
+      "id": "f41eda38e388e939557480e6",
+      "topic": "F1",
+      "title": "Lewis Hamilton accused of ‘deliberate’ act in Leclerc Las Vegas crash - PlanetF1",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUEZzaUNhVENXcE1YSzJ1end6SE5NN2pubFFCZE80N1FOaUpnbWpZOEVxT2JvZ1ZpN1JEQ0FqTjItVzlSVnp1dlJmOTRJbWs2M3BwVnFfb3ZlSUdzYUNhZnVKV0pMVHU5UjlyR0lFcjdNVE02Nmo1YkRDRmtzVlR2LVhSeXdlR2tIUkFSM1hKdVNJVnplT3hn?oc=5",
+      "source": "PlanetF1",
+      "publisher": "PlanetF1",
+      "description": "Lewis Hamilton accused of ‘deliberate’ act in Leclerc Las Vegas crash PlanetF1",
+      "published_utc": "2026-11-25T11:42:29+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUEZzaUNhVENXcE1YSzJ1end6SE5NN2pubFFCZE80N1FOaUpnbWpZOEVxT2JvZ1ZpN1JEQ0FqTjItVzlSVnp1dlJmOTRJbWs2M3BwVnFfb3ZlSUdzYUNhZnVKV0pMVHU5UjlyR0lFcjdNVE02Nmo1YkRDRmtzVlR2LVhSeXdlR2tIUkFSM1hKdVNJVnplT3hn?oc=5",
+          "source": "PlanetF1",
+          "publisher": "PlanetF1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T11:42:29+00:00",
+          "title": "Lewis Hamilton accused of ‘deliberate’ act in Leclerc Las Vegas crash - PlanetF1"
+        }
+      ]
+    },
+    {
       "id": "5778d4ac97eb8bb444dbe99f",
       "topic": "F1",
       "title": "Oliver Bearman criticises 'joke' Las Vegas GP amid 'bit s***' Haas situation - PlanetF1",
@@ -5370,32 +5370,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T22:42:14+00:00",
           "title": "Kimi Antonelli to Ferrari? Toto Wolff makes feelings clear - PlanetF1"
-        }
-      ]
-    },
-    {
-      "id": "b0e48676f60eed7220af04e5",
-      "topic": "F1",
-      "title": "Aston Martin in new admission after Stroll’s eye-opening Honda request - PlanetF1",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU2h1cjRSN0xTdWtTbk83LWswcjhaTmU1c0J0Ulc1dWpBd3dwcnBvWTB5NmhtS2xzOHZpcUJEUW5CSVFNZXF3TEtBLVpnWThxTzhKOGt0ZXFXcGlQSEdTa1ZvNHdoZWZ4QlBZZm9iaFppVzZybTJxNGdBSVcxYXhfNUc4UHk?oc=5",
-      "source": "PlanetF1",
-      "publisher": "PlanetF1",
-      "description": "Aston Martin in new admission after Stroll’s eye-opening Honda request PlanetF1",
-      "published_utc": "2026-11-25T10:12:29+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU2h1cjRSN0xTdWtTbk83LWswcjhaTmU1c0J0Ulc1dWpBd3dwcnBvWTB5NmhtS2xzOHZpcUJEUW5CSVFNZXF3TEtBLVpnWThxTzhKOGt0ZXFXcGlQSEdTa1ZvNHdoZWZ4QlBZZm9iaFppVzZybTJxNGdBSVcxYXhfNUc4UHk?oc=5",
-          "source": "PlanetF1",
-          "publisher": "PlanetF1",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T10:12:29+00:00",
-          "title": "Aston Martin in new admission after Stroll’s eye-opening Honda request - PlanetF1"
         }
       ]
     },
@@ -6308,7 +6282,7 @@
       "source": "AUTOSPORT web",
       "publisher": "autosport web",
       "description": "川田明日未 WinG 2026年/スーパーGT autosport web",
-      "published_utc": "2026-11-24T15:01:04+00:00",
+      "published_utc": "2026-11-24T15:00:21+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -6321,7 +6295,7 @@
           "source": "AUTOSPORT web",
           "publisher": "autosport web",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T15:01:04+00:00",
+          "published_utc": "2026-11-24T15:00:21+00:00",
           "title": "川田明日未 WinG 2026年/スーパーGT - autosport web"
         }
       ]
@@ -10827,6 +10801,370 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T22:02:51+00:00",
           "title": "Culture - RACER - Racing News"
+        }
+      ]
+    },
+    {
+      "id": "47dcff84d5c85b48974f281e",
+      "topic": "other_motorsport",
+      "title": "【写真2】オリバー・ベアマン（ハース） - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LZ3U4d0NjeWJoX0hpRm9iNGM0aXBiZVFkUUdOclNKM1A2WnpqenlYc2JCV3NoRGF0dDZqVXZ4NUM1eTRRODNIeXZSN3VycWRIdWRXVTNVZw?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真2】オリバー・ベアマン（ハース） autosport web",
+      "published_utc": "2026-11-25T08:28:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LZ3U4d0NjeWJoX0hpRm9iNGM0aXBiZVFkUUdOclNKM1A2WnpqenlYc2JCV3NoRGF0dDZqVXZ4NUM1eTRRODNIeXZSN3VycWRIdWRXVTNVZw?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:28:00+00:00",
+          "title": "【写真2】オリバー・ベアマン（ハース） - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "9cfb9d534a939ad486c5d881",
+      "topic": "other_motorsport",
+      "title": "【写真2】ジョージ・ラッセル（メルセデス）＆ランド・ノリス（マクラーレン） - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPWGI0NG5BVkdOVjNILXFpUmwtUWlOeHBMckRYYUUtNDl1bkxiSU1faDBtOXVBUnRtRjVvZ1dXQUNEd012Z0UxUTdWOW9jOGlqbHlBdnR3Y01QUmhiTnpWbGlXcWhYSkdsTlpYazlR?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真2】ジョージ・ラッセル（メルセデス）＆ランド・ノリス（マクラーレン） autosport web",
+      "published_utc": "2026-11-25T10:54:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPWGI0NG5BVkdOVjNILXFpUmwtUWlOeHBMckRYYUUtNDl1bkxiSU1faDBtOXVBUnRtRjVvZ1dXQUNEd012Z0UxUTdWOW9jOGlqbHlBdnR3Y01QUmhiTnpWbGlXcWhYSkdsTlpYazlR?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T10:54:00+00:00",
+          "title": "【写真2】ジョージ・ラッセル（メルセデス）＆ランド・ノリス（マクラーレン） - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "c008dfa98bcb291ad032cc88",
+      "topic": "other_motorsport",
+      "title": "【写真1】ジョージ・ラッセル（メルセデス）＆アイザック・ハジャー（レッドブル） - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oRXZ1N3hGd2tHeUZRaXdhTFpNcDNKSUFHQmhRa3Bqc3dGMnhuOHlXSGMxd0t1aV9NYlBrZlNVMy1KejRpa242SlBiX0J2Tll5Y1lUczBjRmhXaG5ISXllM0U3ZmpjSGhXNzZ0SktB?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真1】ジョージ・ラッセル（メルセデス）＆アイザック・ハジャー（レッドブル） autosport web",
+      "published_utc": "2026-11-25T09:36:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oRXZ1N3hGd2tHeUZRaXdhTFpNcDNKSUFHQmhRa3Bqc3dGMnhuOHlXSGMxd0t1aV9NYlBrZlNVMy1KejRpa242SlBiX0J2Tll5Y1lUczBjRmhXaG5ISXllM0U3ZmpjSGhXNzZ0SktB?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T09:36:00+00:00",
+          "title": "【写真1】ジョージ・ラッセル（メルセデス）＆アイザック・ハジャー（レッドブル） - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "b0406a27fe27d95bf0c6de8c",
+      "topic": "WRC",
+      "title": "Final Results Kotsiatis Rally Sprint 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWFMzZ0JfYmQyWE9acXh2RVljVW5kR2VkejNPTDhsZVZZTTZxZUV4Vm5nOXZtUTVkU010Tmlxb21uWDRTdEJTX200QXdDd2RkM2J4TEtiQ0M3bXFoQlBJUG1oNzRnMlNaTmlMeVRqVWFIUnJYR2kyV1pqZTJ0ZmdnTmJJZXMyQQ?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Final Results Kotsiatis Rally Sprint 2026 eWRC-results.com",
+      "published_utc": "2026-11-25T13:38:22+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWFMzZ0JfYmQyWE9acXh2RVljVW5kR2VkejNPTDhsZVZZTTZxZUV4Vm5nOXZtUTVkU010Tmlxb21uWDRTdEJTX200QXdDd2RkM2J4TEtiQ0M3bXFoQlBJUG1oNzRnMlNaTmlMeVRqVWFIUnJYR2kyV1pqZTJ0ZmdnTmJJZXMyQQ?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T13:38:22+00:00",
+          "title": "Final Results Kotsiatis Rally Sprint 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "5c658f89efafd93cb3239ed5",
+      "topic": "WRC",
+      "title": "Splits Al Sila - Madinat Zayed - 35 Abu Dhabi Desert Challenge - National 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbm1KUFBXZlJ6RG1YWkZtLXZNNF9QZ3dWQlFoUkNQcWVKTEg0MG5RZkVBWVpxWnZHTWZyYV9sVDhQOFVDYXZuLWRPN0plRDJUakFKeGxBSDFxRTJvQlRIUGk3ZjJHRjdVZFZRM2l4VFBCMmhMaVdNY0FHdERLc0ZQX0IxYUVpY25QeVR3VlJ4bkJUM2JTa2Jr?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Splits Al Sila - Madinat Zayed - 35 Abu Dhabi Desert Challenge - National 2026 eWRC-results.com",
+      "published_utc": "2026-11-25T13:40:46+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbm1KUFBXZlJ6RG1YWkZtLXZNNF9QZ3dWQlFoUkNQcWVKTEg0MG5RZkVBWVpxWnZHTWZyYV9sVDhQOFVDYXZuLWRPN0plRDJUakFKeGxBSDFxRTJvQlRIUGk3ZjJHRjdVZFZRM2l4VFBCMmhMaVdNY0FHdERLc0ZQX0IxYUVpY25QeVR3VlJ4bkJUM2JTa2Jr?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T13:40:46+00:00",
+          "title": "Splits Al Sila - Madinat Zayed - 35 Abu Dhabi Desert Challenge - National 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "faaf3225a0dc83208033c394",
+      "topic": "WRC",
+      "title": "Final Results Piston Cup IV 2025 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81LTdYMUNzNU9sTmt4Z1l5WE01b3RHSUsxMHRuZ1phSUJDazFRWF9QYjRSanFOSzhaWXFGNDhDRnAtdTVScWU1ZEhmOEx5ZkI5R2FSQU0zOTdBZXJtVmI4eG1tSy0wWlcyUnQzTW9tMEk2ekhsX3hZcm1B?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Final Results Piston Cup IV 2025 eWRC-results.com",
+      "published_utc": "2026-11-25T12:39:40+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81LTdYMUNzNU9sTmt4Z1l5WE01b3RHSUsxMHRuZ1phSUJDazFRWF9QYjRSanFOSzhaWXFGNDhDRnAtdTVScWU1ZEhmOEx5ZkI5R2FSQU0zOTdBZXJtVmI4eG1tSy0wWlcyUnQzTW9tMEk2ekhsX3hZcm1B?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T12:39:40+00:00",
+          "title": "Final Results Piston Cup IV 2025 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "fc2e2e4de043500b48afb4f0",
+      "topic": "WRC",
+      "title": "Stats V-Power Swakop Rally 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wbE9zX2hCbEFXLU9STHprVWxTTi1fbjROOHVfcnJTSTQ0WE9ZZVlsUlU2UHd2NUQweV9ISklRQkNWaGdXSnNEYVVyeHlMc1NsNkd0aXVpNTFxZWktWXVtc2RRaG9wb0FvRkpwbGVwdERPZEpYaHVseg?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Stats V-Power Swakop Rally 2026 eWRC-results.com",
+      "published_utc": "2026-11-24T20:42:32+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wbE9zX2hCbEFXLU9STHprVWxTTi1fbjROOHVfcnJTSTQ0WE9ZZVlsUlU2UHd2NUQweV9ISklRQkNWaGdXSnNEYVVyeHlMc1NsNkd0aXVpNTFxZWktWXVtc2RRaG9wb0FvRkpwbGVwdERPZEpYaHVseg?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T20:42:32+00:00",
+          "title": "Stats V-Power Swakop Rally 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "1fbc87c220ffe43750da5b01",
+      "topic": "WRC",
+      "title": "Times - TRAC4N Rally - Day 2 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNeUpsZWhYcDhMLWxWa0ZOYWNGY3FLVzdWUnVPMjdFaE1wM0Q3cWNBNnZZZHVQVjJQNDRia0ZUTklVVUNGSndpUl8wZDlCRThMOE5QbzdQVlhndjFraUFqNHJ2aG9yOTdsZUthcWI2QUJkWVc5cTNnblQycmZCUQ?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Times - TRAC4N Rally - Day 2 2026 eWRC-results.com",
+      "published_utc": "2026-11-24T16:49:24+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNeUpsZWhYcDhMLWxWa0ZOYWNGY3FLVzdWUnVPMjdFaE1wM0Q3cWNBNnZZZHVQVjJQNDRia0ZUTklVVUNGSndpUl8wZDlCRThMOE5QbzdQVlhndjFraUFqNHJ2aG9yOTdsZUthcWI2QUJkWVc5cTNnblQycmZCUQ?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T16:49:24+00:00",
+          "title": "Times - TRAC4N Rally - Day 2 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "339e31db4ad72d2263f5d5aa",
+      "topic": "WRC",
+      "title": "Times - V-Power Swakop Rally 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN1lrRzB6OWFOazNSeFU2RlJ2eW5HQnlGUjczQ2Y1WVlic0JsSXB4b25UaGJLZkNJVFg5VHliQkh5X1NPTTIxc1owTlBtajE1SmZWS2xIY3RqckNSVHNWWmxlMnptR3EwNm0yYXRHZ0xkRWh3UUJJajNTbnUxZTc4OQ?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Times - V-Power Swakop Rally 2026 eWRC-results.com",
+      "published_utc": "2026-11-24T22:26:59+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN1lrRzB6OWFOazNSeFU2RlJ2eW5HQnlGUjczQ2Y1WVlic0JsSXB4b25UaGJLZkNJVFg5VHliQkh5X1NPTTIxc1owTlBtajE1SmZWS2xIY3RqckNSVHNWWmxlMnptR3EwNm0yYXRHZ0xkRWh3UUJJajNTbnUxZTc4OQ?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:26:59+00:00",
+          "title": "Times - V-Power Swakop Rally 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "44afaca11662c783ab80b271",
+      "topic": "WRC",
+      "title": "Bagnol G. - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TSjlZOHdodTdVbURBM3RqX0NCbWF3Y0tIUUo0dVI0R05wOVJBZjBFTHJZRm9UVW1ZSGlWRlJWRVdEdHlYdUFHRWw0MVdnMjJkVklUMzR3RUJfbUotcFpj?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Bagnol G. eWRC-results.com",
+      "published_utc": "2026-11-24T22:17:44+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TSjlZOHdodTdVbURBM3RqX0NCbWF3Y0tIUUo0dVI0R05wOVJBZjBFTHJZRm9UVW1ZSGlWRlJWRVdEdHlYdUFHRWw0MVdnMjJkVklUMzR3RUJfbUotcFpj?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:17:44+00:00",
+          "title": "Bagnol G. - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "0528051713f9f614a8f91698",
+      "topic": "F1",
+      "title": "Ferrari News & Rumours - PlanetF1",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pQlVIb0xZYkl2MG9lMkpJYUxpN3VEN0FvZnhtcUQ3MTdyUDl4dzZxakVWRmp6NE9wZ01laG9vVGgtYlF3ZXVPNm9ic0F0OWVURjZNZg?oc=5",
+      "source": "PlanetF1",
+      "publisher": "PlanetF1",
+      "description": "Ferrari News & Rumours PlanetF1",
+      "published_utc": "2026-11-25T04:55:21+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pQlVIb0xZYkl2MG9lMkpJYUxpN3VEN0FvZnhtcUQ3MTdyUDl4dzZxakVWRmp6NE9wZ01laG9vVGgtYlF3ZXVPNm9ic0F0OWVURjZNZg?oc=5",
+          "source": "PlanetF1",
+          "publisher": "PlanetF1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T04:55:21+00:00",
+          "title": "Ferrari News & Rumours - PlanetF1"
+        }
+      ]
+    },
+    {
+      "id": "82cd0dfe6cc848fab27ec0dc",
+      "topic": "F1",
+      "title": "Esteban Ocon F1 Spark Models Merchandise, Esteban Ocon Formula 1 Spark Models Apparel, Clothing - F1 Store",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGlYOUJRTmZVaWpQWFBlT2Vra1ppSWhXc0JOM0RqUHJIbHFCUTNsM2VNNGtvb2gxUWVSYmppdF9nSnczUVhVeUdaQm9xMjIzbl9CMGJfdDR4a24yZ1l1ZjZLOWlKOGVsZ1p2OUUzcWp3NXBoOGtuOTg1TVhwRWt0T2RXQUZvcmc1Y1I1aG1kOFBCVFNjb2ZXUTNERUtuN1RRQ3c?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "F1 Store",
+      "description": "Esteban Ocon F1 Spark Models Merchandise, Esteban Ocon Formula 1 Spark Models Apparel, Clothing F1 Store",
+      "published_utc": "2026-11-24T20:47:02+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGlYOUJRTmZVaWpQWFBlT2Vra1ppSWhXc0JOM0RqUHJIbHFCUTNsM2VNNGtvb2gxUWVSYmppdF9nSnczUVhVeUdaQm9xMjIzbl9CMGJfdDR4a24yZ1l1ZjZLOWlKOGVsZ1p2OUUzcWp3NXBoOGtuOTg1TVhwRWt0T2RXQUZvcmc1Y1I1aG1kOFBCVFNjb2ZXUTNERUtuN1RRQ3c?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "F1 Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T20:47:02+00:00",
+          "title": "Esteban Ocon F1 Spark Models Merchandise, Esteban Ocon Formula 1 Spark Models Apparel, Clothing - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "329bc772ca74f8927b2fde6a",
+      "topic": "F1",
+      "title": "Sergio Perez F1 Autumn-Winter Collection , Sergio Perez Formula 1 Autumn-Winter Collection - F1 Store",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0F5MTFuVkpfeHAzREh1RDhvU3NiQ2t6NEFpVGpGdWhQRW1VNG9DSTZvUzFKdnFUckh1OXhhZk50eVZyZjItUkZPdjZ4b3VTZEVwdjZGTkZ4LTBfMkJZczM2b250VF9uOEpUX2d5b1BCNlBnRTlpUWlhYkRTRVVlXzNMenhycGNrbFZ4eng4NDRMLWtxRjRzYVJpQlFTZGZjZ1JyZlA4QU0?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "F1 Store",
+      "description": "Sergio Perez F1 Autumn-Winter Collection , Sergio Perez Formula 1 Autumn-Winter Collection F1 Store",
+      "published_utc": "2026-11-24T19:47:42+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0F5MTFuVkpfeHAzREh1RDhvU3NiQ2t6NEFpVGpGdWhQRW1VNG9DSTZvUzFKdnFUckh1OXhhZk50eVZyZjItUkZPdjZ4b3VTZEVwdjZGTkZ4LTBfMkJZczM2b250VF9uOEpUX2d5b1BCNlBnRTlpUWlhYkRTRVVlXzNMenhycGNrbFZ4eng4NDRMLWtxRjRzYVJpQlFTZGZjZ1JyZlA4QU0?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "F1 Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T19:47:42+00:00",
+          "title": "Sergio Perez F1 Autumn-Winter Collection , Sergio Perez Formula 1 Autumn-Winter Collection - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "dad849c83aae829939073730",
+      "topic": "F1",
+      "title": "Nico Hulkenberg F1 Gifting Season , Nico Hulkenberg Formula 1 Gifting Season - F1 Store",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVmJEeXFWV3VuRHJ1WWpNSV80OTFoZnR2bkNXazZIcGl1czJ0dlY2b2R4WnR4RjZSNmRuX01aemgwRTNWcVRmM3B4bUlSSldib0tyRWRyZ3YtSXdZSmEwUU1FcW9tb1RNNGpWME5PbEVmMEhhdlR0Zlp4d20tZkRkSll5dmF1azBOR002VzR3SXlITUFUUG54YUJoa2NiSko5dTZtVnd3?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "F1 Store",
+      "description": "Nico Hulkenberg F1 Gifting Season , Nico Hulkenberg Formula 1 Gifting Season F1 Store",
+      "published_utc": "2026-11-24T19:17:10+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVmJEeXFWV3VuRHJ1WWpNSV80OTFoZnR2bkNXazZIcGl1czJ0dlY2b2R4WnR4RjZSNmRuX01aemgwRTNWcVRmM3B4bUlSSldib0tyRWRyZ3YtSXdZSmEwUU1FcW9tb1RNNGpWME5PbEVmMEhhdlR0Zlp4d20tZkRkSll5dmF1azBOR002VzR3SXlITUFUUG54YUJoa2NiSko5dTZtVnd3?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "F1 Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T19:17:10+00:00",
+          "title": "Nico Hulkenberg F1 Gifting Season , Nico Hulkenberg Formula 1 Gifting Season - F1 Store"
         }
       ]
     }

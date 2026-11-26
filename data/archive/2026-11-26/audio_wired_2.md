@@ -1,5 +1,8 @@
-# wired / 2026-11-26 / 候補 51–67
+# wired / 2026-11-26 / 候補 51–70
 
+- [Quill Acoustics Karma - Head-Fi.org](https://news.google.com/rss/articles/CBMic0FVX3lxTFBEODJfblpWVDZDbWkxNDRQRTFSZzdGUzU0bTFDdGZBRXl6ZmEzbnNQRTlUWGZscWtVNUlwQnFvTmNYdjEyQW5QYk13VWk0RlA1d21PbjdPS0YxTWRUbVpCUkE4Qk1UcExmOHgxeGtiUi1ITXM?oc=5) — Head-Fi｜要確認｜2026-11-25T22:31:15+00:00 UTC｜discovery_index
+- [Refurbished Headphones - JBL](https://news.google.com/rss/articles/CBMiVkFVX3lxTE43ZzhUcm1lWUhTNnhmWERTUlUtbFNOZzE0M2NWRUZrRG00Q1lfaWZYdGFTMm0zN2h2aVBWYlVEWFdfcVl4cVhIQW41dEVSbEh3XzN5cDdB?oc=5) — JBL｜要確認｜2026-11-26T13:28:22+00:00 UTC｜discovery_index
+- [Schiit Valhalla 2 - Head-Fi.org](https://news.google.com/rss/articles/CBMibkFVX3lxTE1Hel94TnRhS0dnR1VYOXZLOGp6cEFwWVN6a1h1UnJWTS15clMzRDJRNHRtVWxGWUhMS2dzanNqTUFuT0RQbjRPSXFwbndwUFFiWDhrYXpCM1FubzVlSEZKLW83Y1JyMnJCWVNKM2V3?oc=5) — Head-Fi｜要確認｜2026-11-26T00:30:40+00:00 UTC｜discovery_index
 - [Sennheiser HD 800S For Sale - Head-Fi.org](https://news.google.com/rss/articles/CBMie0FVX3lxTE05ZU1jZHNyOVNxYjZYQjUwdkVqUmtENXlDaFJGb3BHaDN0U2VzdGV6UFkzaGtlQUl6c195b0o2R0tsNUkzMnRBUDBLR3pPMWF6cFF1Z3VYSGZ1SWRhdVJVZkRsV0R1OWNQTUJjVjlPb0hYeFNHdDhrMEhsWQ?oc=5) — Head-Fi｜要確認｜2026-11-26T00:30:40+00:00 UTC｜discovery_index
 - [Shanling Regal - Head-Fi.org](https://news.google.com/rss/articles/CBMiakFVX3lxTE8tRzQ0Z0xLTW5JeXVDSUZ3TlY0dzJCTmdlUDl2akFIYnFHVEtRam15bXdSNm5OVFhBRVpqSXQwOVNjb1BkTFBISlpCZzZWS3FhaUt2MUI4YnlrVEsxZXNXRmFaczhpdTNfRFE?oc=5) — Head-Fi｜要確認｜2026-11-25T15:27:45+00:00 UTC｜discovery_index
 - [Shanling Regal - Head-Fi.org](https://news.google.com/rss/articles/CBMiakFVX3lxTE5IUmxfRmhITjVDUGNPUlVqd09McmxPZnVQRGFqTm8ySmFZN1hwV0dsTHZHRkpHS1BMeUNsT0w5SF9ELWh3dWZrNmJrcjZHWlhfN0pndDMzcmY0b25oUDZBUXVlUWtmSTBzR0E?oc=5) — Head-Fi｜要確認｜2026-11-25T19:37:09+00:00 UTC｜discovery_index

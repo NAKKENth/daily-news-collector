@@ -2409,6 +2409,58 @@
           "title": "Product Detail - Bose"
         }
       ]
+    },
+    {
+      "id": "dc729e3565fabab1c8e465c8",
+      "topic": "wired",
+      "title": "How to Couple or Link a New Replacement Earbud with an Old One - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQXdYN0VLRExVbmtzbHpVWW94Mngxd0tub2hUNThiaWxrV3lMUGVTeEFQanc4MzlWWm5icnRLbmVsVmtzZWdPUVpUV2h1eG9HZ0FyNEhFSzFGaWVhTXVCLVVvRHhtQ1ZhZnpRcEI0V3NsVEU5Zmtrd1l5cWtVcS1hTm5rODNkOExUeEtFblV5YWtIQnIzQXQyNnpCb3g5NUcxbEtSSENUZEdMSWRUb1M0VTdR?oc=5",
+      "source": "Samsung Audio",
+      "publisher": "samsung.com",
+      "description": "How to Couple or Link a New Replacement Earbud with an Old One samsung.com",
+      "published_utc": "2026-11-24T08:00:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQXdYN0VLRExVbmtzbHpVWW94Mngxd0tub2hUNThiaWxrV3lMUGVTeEFQanc4MzlWWm5icnRLbmVsVmtzZWdPUVpUV2h1eG9HZ0FyNEhFSzFGaWVhTXVCLVVvRHhtQ1ZhZnpRcEI0V3NsVEU5Zmtrd1l5cWtVcS1hTm5rODNkOExUeEtFblV5YWtIQnIzQXQyNnpCb3g5NUcxbEtSSENUZEdMSWRUb1M0VTdR?oc=5",
+          "source": "Samsung Audio",
+          "publisher": "samsung.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T08:00:00+00:00",
+          "title": "How to Couple or Link a New Replacement Earbud with an Old One - samsung.com"
+        }
+      ]
+    },
+    {
+      "id": "adbd05bf3e30f2ebbdc80204",
+      "topic": "portable_dac",
+      "title": "dac amp - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kOXVEWjJlT0RKa19tRlpaUGpwMzNId3BHdFlycGdrUElvUXJGSWxiaDJCajFYRVNYTlFhYlQ4MWtXbkNUVEx6R0hHVzB2Q2dnd25qbGJaMDVDZm5ZdjRpYW56T0J6QlNGYXRNWkFKV2tkQQ?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "dac amp Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-23T16:20:37+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kOXVEWjJlT0RKa19tRlpaUGpwMzNId3BHdFlycGdrUElvUXJGSWxiaDJCajFYRVNYTlFhYlQ4MWtXbkNUVEx6R0hHVzB2Q2dnd25qbGJaMDVDZm5ZdjRpYW56T0J6QlNGYXRNWkFKV2tkQQ?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T16:20:37+00:00",
+          "title": "dac amp - Audio Science Review (ASR) Forum"
+        }
+      ]
     }
   ],
   "date_unknown": [],

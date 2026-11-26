@@ -2275,32 +2275,6 @@
       ]
     },
     {
-      "id": "7e6ea74424c3d551471f2b53",
-      "topic": "handhelds",
-      "title": "DecoGear Dimensions - Steam",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zRHFUdm14OTNwd3pIWEU4MExKejRxazRERWUtTWRySDFnRGQwTkdfeXJtc1dHaHZ5N3M0SVExdGlwRGtiM3lUdHMxU0NtOUNjMms0eDNBRk81dmRwNTBsZzh1R0JQQ2FIZHktNGU4QTA?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "DecoGear Dimensions Steam",
-      "published_utc": "2026-11-23T08:00:00+00:00",
-      "date_jst": "2026-11-23",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zRHFUdm14OTNwd3pIWEU4MExKejRxazRERWUtTWRySDFnRGQwTkdfeXJtc1dHaHZ5N3M0SVExdGlwRGtiM3lUdHMxU0NtOUNjMms0eDNBRk81dmRwNTBsZzh1R0JQQ2FIZHktNGU4QTA?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T08:00:00+00:00",
-          "title": "DecoGear Dimensions - Steam"
-        }
-      ]
-    },
-    {
       "id": "cd117c8b803bcea69c0c40bc",
       "topic": "racing_games",
       "title": "BMW M2 CS Cockpit View Cowl/Hood Fix 1.0 - overtake.gg",
@@ -2895,6 +2869,58 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T03:31:07+00:00",
           "title": "McLaren MCL39 Cockpit Sound - Reviews - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "aec6fe40e44b250f88057ef9",
+      "topic": "handhelds",
+      "title": "Medieval Adventure - Steam",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16Mm04R1dxaGJoanozem9YUG5vYkxtZk4wRGgyYm5sdmxVamJ6TUZsTS1JMDhRcndtRzhkaldua1VVU3FyV2xTajZiVk1LQnI2VERTTXJhc0NnSlFXMnhVZ3FLQ3REc01TNVVDRXg3Yw?oc=5",
+      "source": "Valve Steam Deck",
+      "publisher": "Steam",
+      "description": "Medieval Adventure Steam",
+      "published_utc": "2026-11-23T08:00:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16Mm04R1dxaGJoanozem9YUG5vYkxtZk4wRGgyYm5sdmxVamJ6TUZsTS1JMDhRcndtRzhkaldua1VVU3FyV2xTajZiVk1LQnI2VERTTXJhc0NnSlFXMnhVZ3FLQ3REc01TNVVDRXg3Yw?oc=5",
+          "source": "Valve Steam Deck",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T08:00:00+00:00",
+          "title": "Medieval Adventure - Steam"
+        }
+      ]
+    },
+    {
+      "id": "d57ac304db1132788132ebc0",
+      "topic": "handhelds",
+      "title": "Enshrouded - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KUi1kdHpvaFIwMHNtYnVfRUFsdkoyZzA2SGRYRnlmY25rMlU1ejNQQlZDSmZ3QkE3OUdFdXo0ZVVZLXFjUHBlZmc1TFVtcUhhNmRlTjRIR2gxYnF5VWl2S0RDSHI?oc=5",
+      "source": "Valve Steam Deck",
+      "publisher": "Steam",
+      "description": "Enshrouded Steam",
+      "published_utc": "2026-11-23T08:00:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KUi1kdHpvaFIwMHNtYnVfRUFsdkoyZzA2SGRYRnlmY25rMlU1ejNQQlZDSmZ3QkE3OUdFdXo0ZVVZLXFjUHBlZmc1TFVtcUhhNmRlTjRIR2gxYnF5VWl2S0RDSHI?oc=5",
+          "source": "Valve Steam Deck",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T08:00:00+00:00",
+          "title": "Enshrouded - Steam"
         }
       ]
     }

@@ -1798,6 +1798,32 @@
       ]
     },
     {
+      "id": "0264efea597876a88db81e6f",
+      "topic": "handhelds",
+      "title": "IT THINKS! - Build Your Own GPU - Steam",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GNHpwMXpDR0tNMTZwRlBQZWd4N3YwY2ZZeTI4U3FCWmFwNFdKY0VyUWl5TlM0OWg2UkVZZ1FfNkdmU0pXZHBGNGtVNFVjRXlPWGpqd3NDUm1vejVHdWZpVFplRWJMYmlVbUpCMVE4S1c1ZlAwVDNSdTM5QWE?oc=5",
+      "source": "Valve Steam Deck",
+      "publisher": "Steam",
+      "description": "IT THINKS! - Build Your Own GPU Steam",
+      "published_utc": "2026-11-24T08:00:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GNHpwMXpDR0tNMTZwRlBQZWd4N3YwY2ZZeTI4U3FCWmFwNFdKY0VyUWl5TlM0OWg2UkVZZ1FfNkdmU0pXZHBGNGtVNFVjRXlPWGpqd3NDUm1vejVHdWZpVFplRWJMYmlVbUpCMVE4S1c1ZlAwVDNSdTM5QWE?oc=5",
+          "source": "Valve Steam Deck",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T08:00:00+00:00",
+          "title": "IT THINKS! - Build Your Own GPU - Steam"
+        }
+      ]
+    },
+    {
       "id": "398da880ebc4677d942c57de",
       "topic": "handhelds",
       "title": "Playable Archive - Steam",
@@ -1848,86 +1874,6 @@
           "title": "Drain The Pit - Steam"
         }
       ]
-    },
-    {
-      "id": "092e8cafa710faaed133500f",
-      "topic": "handhelds",
-      "title": "HITMAN World of Assassination - Steam",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KdW53MjNoelVmd3RXU003dzZQQjlGUW1NWTg4SFJ0ZDVDemFybGF4RDg3TlZtRXpXRUY5Sk8tWUktclk0bG9ESzViakRMckoxOHVZUU1SMUxjaFBOeG9LTGltU1BVRHRnM2tiWTdBdVhwd3ZBY3RuQ1hrQWpvZw?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "HITMAN World of Assassination Steam",
-      "published_utc": "2026-11-24T12:31:33+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KdW53MjNoelVmd3RXU003dzZQQjlGUW1NWTg4SFJ0ZDVDemFybGF4RDg3TlZtRXpXRUY5Sk8tWUktclk0bG9ESzViakRMckoxOHVZUU1SMUxjaFBOeG9LTGltU1BVRHRnM2tiWTdBdVhwd3ZBY3RuQ1hrQWpvZw?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T12:31:33+00:00",
-          "title": "HITMAN World of Assassination - Steam"
-        }
-      ]
-    },
-    {
-      "id": "8ebace454242e541f6bd19de",
-      "topic": "handhelds",
-      "title": "FATAL FURY: City of the Wolves - Steam",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zX05qb3h1QW9iSnRHb3lNOENTM3NXM1prbnRTQkV3aXZ2U3hyUXZpcWItejJmQURSWWZlRDAzY2FYcFNkLUptMHRvT1RRcU41RzhOVDRTUmJEWXJ0UDBkeUVqMnhfMTB6Y1ZTcW5BcHJ5bi13VmNUN242OUNQZw?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "FATAL FURY: City of the Wolves Steam",
-      "published_utc": "2026-11-24T05:37:10+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zX05qb3h1QW9iSnRHb3lNOENTM3NXM1prbnRTQkV3aXZ2U3hyUXZpcWItejJmQURSWWZlRDAzY2FYcFNkLUptMHRvT1RRcU41RzhOVDRTUmJEWXJ0UDBkeUVqMnhfMTB6Y1ZTcW5BcHJ5bi13VmNUN242OUNQZw?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T05:37:10+00:00",
-          "title": "FATAL FURY: City of the Wolves - Steam"
-        }
-      ]
-    },
-    {
-      "id": "4124cbeb19a2cccd067bb661",
-      "topic": "handhelds",
-      "title": "Portal 2 - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CaHhtSlNHS3RKeHkwRkw3b2ItLWlCYl9BVldsUTdaVFB0VkctQ0t4NF9fR0k3a3VzQlEzUXpBNndPTUhnT2ZkRjZwUzZqaWxJYjhuME9MS05YbzNH?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "Portal 2 Steam",
-      "published_utc": "2026-11-24T13:01:15+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CaHhtSlNHS3RKeHkwRkw3b2ItLWlCYl9BVldsUTdaVFB0VkctQ0t4NF9fR0k3a3VzQlEzUXpBNndPTUhnT2ZkRjZwUzZqaWxJYjhuME9MS05YbzNH?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T13:01:15+00:00",
-          "title": "Portal 2 - Steam"
-        }
-      ],
-      "enrichment": "failed",
-      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "1c00b2cba1163e59a48b2f97",
@@ -2036,32 +1982,6 @@
       "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
-      "id": "36f868adc37a66f3fbc57fe3",
-      "topic": "handhelds",
-      "title": "Sid Meier's Civilization VII - Steam",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1adWZxWW04VXZ6Nzdmb3RKUjR3TTFVSEZGeDVpanNzdk81WWtZd2Z3R3J0TzJwT052UV9mVVhkdVVnR1cwel84dFlqMVI1TkhPMURqNk1nbjVBZHRrMkw1Q3pJaUp6bFBVUVBxVnc1aEF4ZnpfV1owLXJpZw?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "Sid Meier's Civilization VII Steam",
-      "published_utc": "2026-11-24T13:29:29+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1adWZxWW04VXZ6Nzdmb3RKUjR3TTFVSEZGeDVpanNzdk81WWtZd2Z3R3J0TzJwT052UV9mVVhkdVVnR1cwel84dFlqMVI1TkhPMURqNk1nbjVBZHRrMkw1Q3pJaUp6bFBVUVBxVnc1aEF4ZnpfV1owLXJpZw?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T13:29:29+00:00",
-          "title": "Sid Meier's Civilization VII - Steam"
-        }
-      ]
-    },
-    {
       "id": "e66a0abf58c07695bf90a279",
       "topic": "handhelds",
       "title": "Farming Simulator 22 - Steam",
@@ -2162,32 +2082,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T12:32:53+00:00",
           "title": "Workers & Resources: Soviet Republic - Steam"
-        }
-      ]
-    },
-    {
-      "id": "f0e1a584ff4e256b776a11a2",
-      "topic": "handhelds",
-      "title": "Onimusha: Way of the Sword - Steam",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXcmdESG9TZ09KWThMMXBuS1hnRV9hQTdSMlJRZE0tRm9mRXB3QUxheXVPS2E2X1ViR2dRS1QtNkdXaHhqelFrVlBYYy1LeC1RZ0FOeWVORVkzUVM2TWZsdV9uU09tRGVpbGRUU0NIVDVjd3prS0ZpZw?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "Onimusha: Way of the Sword Steam",
-      "published_utc": "2026-11-24T13:07:29+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXcmdESG9TZ09KWThMMXBuS1hnRV9hQTdSMlJRZE0tRm9mRXB3QUxheXVPS2E2X1ViR2dRS1QtNkdXaHhqelFrVlBYYy1LeC1RZ0FOeWVORVkzUVM2TWZsdV9uU09tRGVpbGRUU0NIVDVjd3prS0ZpZw?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T13:07:29+00:00",
-          "title": "Onimusha: Way of the Sword - Steam"
         }
       ]
     },
@@ -2770,6 +2664,32 @@
       ]
     },
     {
+      "id": "b873f34cba74da90b890793b",
+      "topic": "racing_games",
+      "title": "Food Devils - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FczU4eVdUNTFtMnRZZlhQOFhzX3NIdnNRSzZ6WXp3ekltUEliMGs5eVUtT0Q5TFRYY09JZU9XX3ZiQ3pFNDNDbUVCbmhCV21yYWI0ZEtBelUxc1FsNWk2UEcweUxPQQ?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Food Devils Steam",
+      "published_utc": "2026-11-24T08:00:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FczU4eVdUNTFtMnRZZlhQOFhzX3NIdnNRSzZ6WXp3ekltUEliMGs5eVUtT0Q5TFRYY09JZU9XX3ZiQ3pFNDNDbUVCbmhCV21yYWI0ZEtBelUxc1FsNWk2UEcweUxPQQ?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T08:00:00+00:00",
+          "title": "Food Devils - Steam"
+        }
+      ]
+    },
+    {
       "id": "2b6cd6873bf629113cb27d94",
       "topic": "racing_games",
       "title": "LEGO® City Undercover - Steam",
@@ -2924,6 +2844,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T18:01:40+00:00",
           "title": "Farm RPG - Nominate Farm RPG for the \"Just 5 More Minutes\" Steam Award! - Steam News - Steam"
+        }
+      ]
+    },
+    {
+      "id": "3bfd0d03401527479b5dad9d",
+      "topic": "handhelds",
+      "title": "No Asteroids - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14cVJRc2EyeTB1SlpBUnYtME12QmpsUVdIYWNEc0FiZElBWXEzS2ppNHFFRkNudmVuUU0zNW1feERaV2FEVVVhTHNaQ3lDWVF6X0NYWnJLbGdLZDVVZHJnbXVwbWFfWTQ?oc=5",
+      "source": "Valve Steam Deck",
+      "publisher": "Steam",
+      "description": "No Asteroids Steam",
+      "published_utc": "2026-11-24T08:00:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14cVJRc2EyeTB1SlpBUnYtME12QmpsUVdIYWNEc0FiZElBWXEzS2ppNHFFRkNudmVuUU0zNW1feERaV2FEVVVhTHNaQ3lDWVF6X0NYWnJLbGdLZDVVZHJnbXVwbWFfWTQ?oc=5",
+          "source": "Valve Steam Deck",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T08:00:00+00:00",
+          "title": "No Asteroids - Steam"
         }
       ]
     },
@@ -3912,6 +3858,84 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T17:16:46+00:00",
           "title": "fan-made - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "ad4c6172ddec160fe328fd1c",
+      "topic": "handhelds",
+      "title": "Alteah: Sovereign Shores - Steam",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJU3NLT0txZGxHS1RiVVBNczBJRjUtb1ZlQWh0UG56TFc5RnAxTVRxM1ctZGpVbS1od19ZSmk2Unp4WnRuUGJDcTR0OGdEXzBQWk9hMlJTdmhBS2EzM3RkSndhcFdSeXIwRVRLdS01YkpEQklSRnc?oc=5",
+      "source": "Valve Steam Deck",
+      "publisher": "Steam",
+      "description": "Alteah: Sovereign Shores Steam",
+      "published_utc": "2026-11-24T04:10:43+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJU3NLT0txZGxHS1RiVVBNczBJRjUtb1ZlQWh0UG56TFc5RnAxTVRxM1ctZGpVbS1od19ZSmk2Unp4WnRuUGJDcTR0OGdEXzBQWk9hMlJTdmhBS2EzM3RkSndhcFdSeXIwRVRLdS01YkpEQklSRnc?oc=5",
+          "source": "Valve Steam Deck",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T04:10:43+00:00",
+          "title": "Alteah: Sovereign Shores - Steam"
+        }
+      ]
+    },
+    {
+      "id": "a8c74d984c98dad95bc819d4",
+      "topic": "handhelds",
+      "title": "C.L.T. - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84b2lSbnBsQW9BaHlZTmdDemIzWWxzTjVSRzNkUFdpVWpuSXhlU1YzYXB2TTh3SVYzSlVFalRnV2doZFBDZjlHSW5jSnh0YUpsTnphY1BMTGItV2s?oc=5",
+      "source": "Valve Steam Deck",
+      "publisher": "Steam",
+      "description": "C.L.T. Steam",
+      "published_utc": "2026-11-24T08:00:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84b2lSbnBsQW9BaHlZTmdDemIzWWxzTjVSRzNkUFdpVWpuSXhlU1YzYXB2TTh3SVYzSlVFalRnV2doZFBDZjlHSW5jSnh0YUpsTnphY1BMTGItV2s?oc=5",
+          "source": "Valve Steam Deck",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T08:00:00+00:00",
+          "title": "C.L.T. - Steam"
+        }
+      ]
+    },
+    {
+      "id": "f865e1b42e8b6f45213651e9",
+      "topic": "handhelds",
+      "title": "Dead by Daylight: Terrifier - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wcTVsT0tOQWxQSVJUUkRuWExocHJSUV9yZWVrX2N2YktwVVdRQ2s5c3pzS1FBX254d3poUW52RkJiMGdpZ19YV3lhT2xtT05DWlZPM1B4N0JVWmJRSmdkenVSV1JmaVh3QmFEOUpPNjhEdzloMkl3ZDRn?oc=5",
+      "source": "Valve Steam Deck",
+      "publisher": "Steam",
+      "description": "Dead by Daylight: Terrifier Steam",
+      "published_utc": "2026-11-24T08:00:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wcTVsT0tOQWxQSVJUUkRuWExocHJSUV9yZWVrX2N2YktwVVdRQ2s5c3pzS1FBX254d3poUW52RkJiMGdpZ19YV3lhT2xtT05DWlZPM1B4N0JVWmJRSmdkenVSV1JmaVh3QmFEOUpPNjhEdzloMkl3ZDRn?oc=5",
+          "source": "Valve Steam Deck",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T08:00:00+00:00",
+          "title": "Dead by Daylight: Terrifier - Steam"
         }
       ]
     }

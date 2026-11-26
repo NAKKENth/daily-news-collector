@@ -1,0 +1,4 @@
+# ai / 2026-11-26 / 候補 101–102
+
+- [Using the chat bar, files, and screenshots in ChatGPT Classic for Mac - OpenAI Help Center](https://news.google.com/rss/articles/CBMisAFBVV95cUxNbFFpeGVoWWlnU0FTU1pQMmtfSmg1Y1JYdlp6SkFRQVhsU0VQaHJhWlpwalpaNGxIZHhodkdIeVo2M21TMXNZRjBYLUsweVBib0RYdGVBR2hCYjMxemhnbUE2NXc1dmN2NjJpTXpveFlFX2NHalN5aHhNaXh4bTdidkdjelBtSHFWMVJINFp4aHN1N2gyNzBDWFdwSVVlbVVMY09CQUs3UU1YYWlhWWxxYg?oc=5) — OpenAI Help｜要確認｜2026-11-26T00:20:19+00:00 UTC｜discovery_index
+- [Volatility-weary investors side swiped as tariff mayhem adds to tech pain - Reuters](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZGd2TDZySmQ2VXE4QUhfUG1OOGU3S3l4eWVDMGFKLWNVRlp1dE1zYnNmOUNYTGpQeGZtS3RrWC11R0x0aEo2YnBsU2Y1NTEwT2V2eF9fQmhfLXc1ekFmajRGUWg0NVZheFBtUy15RWd6NkpsZzFSZTY1M1FIYjI5b2htVWVYemdvRDQyTUFQbw?oc=5) — Reuters AI｜要確認｜2026-11-25T20:50:19+00:00 UTC｜discovery_index

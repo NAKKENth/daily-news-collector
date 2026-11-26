@@ -18,11 +18,11 @@
     "reason": "一覧・ナビゲーション候補"
   },
   {
-    "id": "10ad9e4d58319a96f5c3d23b",
+    "id": "0de34794d384bee699d86283",
     "group": "pc_ai",
     "topic": "pc",
-    "title": "- TSMC",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMXhSSVByZXpJSVBJNXd5M3FINmtqemdubjltaE0wUWRnM3NTNkVoajMwb2lEcnJPTjdITVpuZWJOQU9yOXNabjBFUjRXeHRIcVI1eUlZZGpDLWdlWEt6RGk2NTNFTk5hUGFMenNVX3pPZXM5M1FZdDNRR3V1bHFjN3laQmxtOFNPRUU1bkpUWF9zVzNmZDdtamFiNC1Vd3pKd25BZQ?oc=5",
+    "title": "- NVIDIA",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JSVNGUDk1MlpOa195LWhRS2VTREU1eEZySHM4Y3I4T19KUkxleGNJZHZqR0N5UDRENW9LS1U4dnRKdnRvck9CQ3hzTkRYdTdNaFBQVktkNENCLWdqSVMzT2pNVnBCT3Fp?oc=5",
     "triage": "exclude",
     "reason": "一覧・ナビゲーション候補"
   },
@@ -34,24 +34,6 @@
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DR3IyNFVtbFFOWDBSTFBuYkFWSzR6QlV4M05IYjE4Y2NVeFVyczBFRDRET3U2dnZiQmNkMFA1NEtVeVVrTXVNRzlzOGVZYmJjLWQ4N1V1RG5YVWttckI4cTZ1TTU?oc=5",
     "triage": "exclude",
     "reason": "一覧・ナビゲーション候補"
-  },
-  {
-    "id": "f0641bd531e23295b7ea2aec",
-    "group": "audio",
-    "topic": "tws",
-    "title": "- Bluetooth® Technology Website",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV1l5SmFsNTQxaHN4TWxNNkRRVDE5dG9xOGp3ZnREVS1qS29LeGtWRVJVMGwxMXJkblBoRnZWdHZUby1GSEVMZ0l1MlY4X0RKbV90WFl2VzNUWTR0eVZrb1JfbXgyeTFNS1ktOTFBYm1faW1lbXJGbWdyTFVnNnNnQXhqbzU3VGxHallJUmtDN3BiWHZqaWttUE1DWU9IRU5mQzRsUVdlUEZDVXRp?oc=5",
-    "triage": "exclude",
-    "reason": "一覧・ナビゲーション候補"
-  },
-  {
-    "id": "2396e680a24882f63d7fc827",
-    "group": "audio",
-    "topic": "tws",
-    "title": "Healthcare & wellness market blueprint - Bluetooth - Bluetooth® Technology Website",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xNmU4RlF3NjU2Q0o1SGtzZWx1OHhhRG43YmhJQ2YxN0swVU5TcHlvWmhSMWJWakY0VVplVkcwMWdBZDRJZmpETVFzdWN6Y01VaHVjWTFENjNkZ1ltWVo4VGhwU0hQT3d4cVMtNzRZYnRQZWRN?oc=5",
-    "triage": "exclude",
-    "reason": "中古・施設一覧・一般資料"
   },
   {
     "id": "c32e37f839958c96aedcde79",
@@ -466,6 +448,15 @@
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83dHU5QnRNb292QWx5V2Y4YlctSTNTd1MxZURfekNoNWl1SWdNaE9saDdqQXNRQVFtaWdWTE9meFY5YWdIUzhjeVRlMGFYUDlB?oc=5",
     "triage": "exclude",
     "reason": "対象外競技"
+  },
+  {
+    "id": "b72e385a26004bb8eea92ca1",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "- NVIDIA Build",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hU3loTXAyX1Rwa3BkWXdjdjVqRjJVTTNMMnJSNkZ1ald0YVFjNHdHX2U2a1dMSlRxZkhEVVl0VEl5SVpqeUExUHhJeHRyQ2g4Z1VsbjRuZmRLNFJfVnJPRTVoZVc3cXhFWkJzWG50ZFVCbzFmdkE?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
   },
   {
     "id": "2ce84c378523fa0e33e1352a",
@@ -1697,6 +1688,204 @@
     "topic": "pc",
     "title": "Massive Black Friday 2026 Offers Now Live on the Industry-Leading Roborock Cleaning Tech",
     "url": "https://wccftech.com/get-black-friday-offers-of-up-to-58-off-on-best-selling-roborock-vacuum-cleaners",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "4d7655d82a8e4dd1d1c9c527",
+    "group": "audio",
+    "topic": "wired",
+    "title": "評論家が認める上質さ！サウンドバー「Sonos Arc Ultra」がブラックフライデーでお得！",
+    "url": "http://www.phileweb.com/review/article/202611/27/6741.html",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "a84a697e7ecad96fa8f55eb5",
+    "group": "audio",
+    "topic": "wired",
+    "title": "安い・かわいい・音もいい！オーテクのプロ推薦イヤホンはAmazon ブラックフライデーで買うべき逸品",
+    "url": "http://www.phileweb.com/review/column/202611/27/3233.html",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "8a901660cbedd2f281293167",
+    "group": "audio",
+    "topic": "wired",
+    "title": "良い音と過ごせる完全ワイヤレス！ オーテク「ATH-TWX7」がAmazon ブラックフライデーで安い【レビュー】",
+    "url": "http://www.phileweb.com/review/column/202611/27/3217.html",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "e27e49d28b3e33c47943272f",
+    "group": "audio",
+    "topic": "wired",
+    "title": "エントリーファン垂涎の的！マランツのコンパクトなオールインワン「MCR 60n」＜販売店の声・売れ筋ランキング10月＞",
+    "url": "http://www.phileweb.com/news/audio/202611/27/28453.html",
+    "triage": "exclude",
+    "reason": "対象外オーディオ・イベント・販促"
+  },
+  {
+    "id": "66f90b8b8f1df61e6760e4a5",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "- Micron",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oR01hVXA3TXBiUk1pSGczNTJIdzl6Y0pWYVRqYXNQbW9HQldOYnptbWpYOEJ4VVRkNDhEMHVlZHl5MDl5YnRodUxMOUJyZmQ3TW1uOWVJVzU?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "f5bb7865fd966a04012481d3",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "- Micron",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yVG9zTkdVZTBSOGRRemhydThaQlZxR2x2ZW5BWlphNjFwRVQ0VWFsUVIyOE5RNzJPN3Z4VnEzdUhiYTh5QmpEMEswcEVWRXVqb2dNaG93TDIyWmZRdDRsSkRiMy1vUXJ5YUZHUE9FMUJGcjFI?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "d75eda60665c4e8a26c07010",
+    "group": "audio",
+    "topic": "wired",
+    "title": "- MusicTeck",
+    "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPX1hOVmVacHpIVVdPY20wenhya0o4aWlNVldZVmlKNEVYemhTeFFJLU1VTUJqTkpRU3B0RGxRbTB2di1xNGUzdGRxQ015TTBDbm53Mk8wdUltU1Zzc1kzUGlBWFdhdWwtNHhKUEhZN29qSHdQcGpaUnFEQjl6VURkNGNCZkk1R2cxaXdSaFpRWVNlX3g0VzRIM3poN1ljMXRxNmtGeTVIRGpPVlBFdGVZdWFnZTFmcGJPWGl4aWo2Wk90aU9zN0V3Z0tuTFJFWFhueHhJVDNSY1h3OVBOd2R6TGEyOG42d1FUYmU1amNybVh4N19JY1hrRDRwYXJnUDlvV3FaVXlUWS00a0l4V0JPWjhIUU9FTEhZM2NFb0oxQ2JfYkwyRVdLUkhkZ2xpNVVDNVZNMFV6UlpveFVBellfajBBWC1jUU0zaU12cng1NTFaSkxCdVhVOHB5bkJtVlFrbnQ4LQ?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "f410c60033b6ecb5d0b6315a",
+    "group": "audio",
+    "topic": "wired",
+    "title": "- MusicTeck",
+    "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPUG12eUdaRkJsOU11X2F2RnQxYVdFMTZ0eE8yRVBWSFVKd2R5Z2JlQ2NaTU9VeXpSQXNyNmtBMUJEU2RaZWZpOFdGRm9scnJNU2JOLUlEb3hmaGJWUzI4cXVFUzdmbnlZUFc0NWZfYWMyMDRtRmpIVU1XczhDamJ6U3JOSThuNklnOTVkZll5a28zT0toMFEwLWRJZ2J6cHpaM0NpZTdlTnZJZGh3aHBxQnVVQmpRTDQyLTZ3SHFCWmNzdlpHRjBqc29HWkd3bTk0ZXEwRlhDSVkwNl9DQlIxV1d2NG1hNE9neXhCUVlBdkI4bVZYeDJqWGxGbHBneDNHUm5oemZWa1I5U1hNbDRCaXRtTUI0Z1hpeGpaUG9UTTgyOWJzdTVyUjhndFBpU05DdDd3VWplOU1peEdSZENjTHYwRF9TRVVyYVl1Tjc5TEo4Qm1RLVhvbkxGT3FPZFo4VDJ0NERn?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "0ad7ed58b0354a1fef562465",
+    "group": "audio",
+    "topic": "wired",
+    "title": "- MusicTeck",
+    "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQR3QtV3pBR2tZbTlLYUprT3d2OVRXZGpzS2pBaVJremx4YW0xS281eGhldWhqeHhaaG9rWG5yalNqSHhIUDA3ZkFBZnFmSldEWGNMRlJ2WU91dTYzQXZYSG5taU4ta21NOU5TVUtxUFlKSmducTUwdXVtRzU4cThNLU00eUhVX1RzRFd1RkJWZFFTa0Q0VVlZR0xBb2w2UkVnNDZaeWYyZGc2c2Q2TktnaERPaF95cEZ3dmw4Q0FtNGstbHQxMXZnRjBmUjd4SWVsd0ZkaWVXVEZaYXZ6YlB3ZFd4cUs5YmswbTdjbXBGMTN2X2lMa1FvZkJod24xWGQ1TER4ZEsyanNlbXBOVk5UNDBRVTgtellYMUZQbGY1cXlhNmV0YWxOM2Z0eDVJZTZlLUJMODFVb3gtZk91RkNNTWRWSVBNZVZMY3hlaDJQNkZtTWVxSTVpRERWSEp1VzgtbUpvNA?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "9efae9ddc8d3f1aefcc2b38e",
+    "group": "audio",
+    "topic": "wired",
+    "title": "- MusicTeck",
+    "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOYTlkeHA5RS1JcG9QQjNDNUZvaExPa1Z5MGhQYXhmSXlDMFZlWHpkY0p1SmtqdEFJUzBmQldQT1htSUFyNHV0T2h0V2VnS3lTS0RtSEhtSy1BV184Qnp6X2dwa1ZmTV84QzhlNVlMZHNBeFcwTXRkbFVZdzBWZk9iM1dTeDB6RW1zenk3ZzdrbTlEWjhnc2xmd2x0WENzeWkzWVdPY3ZJRzI5UnlpdVBscVVLMWdEbUhyUU9jOGdXdHNQSVlzUnBvSDlFemZ4RFpaTkxSMnoteEt2S0VGY3Z4Q0szcXJqOUx1QkRXUmY5c1NwZE1TMTAzcnp0c3pPSnp1SURJaGZJUHpkVHpuc0VnZkZfTnVQS3p4NUluVVZCY2ZWb2xhTmR3ZjV6LU5BRkN5TXQ2VmFzV2VvWk1hTWhkTW1NMHRicWZzX0RXUWZSY2h0UmRCbTlldjV4dVI1am1EXzhYUg?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "6d0a438bd7204b8a6673a6a1",
+    "group": "audio",
+    "topic": "wired",
+    "title": "- MusicTeck",
+    "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxORndfR0pobGFRV01rZjNWZzNHQS10MlQzMVVaUXV0TEVZNWJFd3ExMW9RMmF3UVRhVjNNMlFtd1dhTEhLUm5GaGttOF80Z3RHY3R6aTR0cThZc0R2ZzNzM1YycENseEhPZ2FoRks1SmY4SmZBTkkxLU5xYUFBbm9mRjUxQXp5WW9adXJPaF9sRzFLc2lvLXNmaDZPbS1aSWE2eXVMSVVHRHpRc1JkSWF4M3lDMFVNXy1DNjdxR2RIMWVXS2VINVo2SVdocHRlazg2R3ZGT2NUT3BjSE5hY2xycEpvYm52SEJNWF9fM0dhazFlOFpOcWNjSVpTV2ZJd3ViSVlqNFBWVmJuZFRwZXNMYklzNFNhZU5qWWdQM0t6TExzUHlBRmttajc3b3Mtb0RuTFJXN3BBQmtaYXA1TEYtXzZpOVlobS03OHhJOW5ReWJyMFQtbFFXeGZMUjJ5ZXZnVkhHTXRR?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "c9c13bda4102152c6368942a",
+    "group": "audio",
+    "topic": "wired",
+    "title": "- MusicTeck",
+    "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQYVFmQVRFb1NwZTRjSkk2N3NVTHFvUkhqS2t6cGUxNHV5RFBSMjE2YkI0eXBlS0pPUy1Ed2U5aGMyVUtnaWlycUF1Mzd3R0hSRTYxMXREaEZTT19zdlBiYVFITmQwM0VFTDduUFBlYjY5cHNXYjFOV0lPTDdvemtXTlUydlF5bzN1cmlCVzRXeUZjYjFVVEJkUlNkMldSS0FoOTdSMGxnclhrbjMtblB5Y2h5N3F4dk10QjBaR3ZBclZoLWx4YjBlWTBZV25DalQxcEVRd2JZbDQ3QXJiY0RZNWJwQnhGcDE4ajNnYnhnY1MwVzF0bEstZHR1N2szM0Uxa1J0ZHJkbUxJcUM0Mkp4eWk2NEtnQl9Cc0RESG5GTzhTUXhyc2p5cnlYbkdJTjk3SDhhMGtaZ3g1NkF0ODVqVFAtY3U4cUdwQWtHeVhhOXBWS0QwcXM4aXNvc1RHUDdVWk05M05B?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "49aca2b7fc5dfb9024b48507",
+    "group": "audio",
+    "topic": "wired",
+    "title": "- MusicTeck",
+    "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPWWVGbXhIWWV6V25HeTlKRHZpNV9kMG90TVh2WDhPNnYtMndROGJKYy1EbjY1ZVpROHo3a01lQllBT3JBc2NoRGVfaURfNnIwWGNkSnk3YzZuNkFwLWhaUldFNTVGb2l4RTZVZUU4VzVUeFVINjZ2THdPT1RaRU1Vd0s2ak1veGhpdmlQMGhEZUc1MkJIT284WEhNWE1rWGFORDFfQUlvM1ZQYV9CMFNNUFlQZFpNN3RibnJtbW5pODMwLTVUeXhzdzZKMGJBTjFkNmJpRzhTNjhKUklUbkRCN3FJWEtsLUl4aUFqbGlYQ3RsdlQxZHBLRGhEMmFyRU1vNmpZSzEyX2lJNDJRcGJUbVpreGttQVFtN2l5a2I0U0JPRmd1LXFUcTRfRkQyOHIzLWV6SzdXSzRyaVIwNktmT2RYTVE2bHVnRS16U3ZRZHh3Y2pWV3RPZGoxa0xzdm5NeEp6Tw?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "8b0ec7957cb3f5bf50d25c70",
+    "group": "audio",
+    "topic": "wired",
+    "title": "- MusicTeck",
+    "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQTE4xSHpWLXpPXzlsUU9BTE9MVzJybkZucU9vQURmd3R5X2ZHSnBvNXZlU2k2d2pRVXo4ZVl2T3pQam1HdjlPeG1VQzNvZU9TbmJsZmlLSFhkdUkyWUlHWVVOWVU1V3pON0U0ck0tV3FsT0xlYl9TWVlXU0V6ODN2SF82UmxaLXNTSktld1NrYjQ1U0pxYzJiTnFHSzhaUWtFWmt5RVlOWUJCZTNLaHNSSEY4Vk8zNlpHbGFmMEhhQktnQ3ZzNWVNd2EtUWxxVHJoYnVOYjg3d3hWY2ltY2k1eUZoLW96MGhoYnB1TUMyU0F0ZWRkWEp6TW1BV1l1NlppWS1MVkJFODgxbWRRMU1fUWhzNmJpcHpOSWZ5VGYtR09QYUZ2T19HMkV2OTQ1ZGtuOU91bDRjQm9GSmJLdkZxUE9NQkZ4Q28tOXMtUVptTG13bFZ4UjJmVDJyXzU5b05fN1JuNGdB?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "2d6537901b1d0fcee1488b54",
+    "group": "audio",
+    "topic": "wired",
+    "title": "- MusicTeck",
+    "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQU3pNOTBrNV9iMjNoM0NfbmpRc1JfZ2lWNnNNZFFHQzB2ZFNnWU5neVVwT1BSdWQtSDhrc1VJVGtkZVVGT1p5MjcwWnNEX1ljU0RYVy1yNmRQODNEWE0wRU5nUWk2RmNyTnByajV0dkJsYjRRMzY3Uk1rLVBCX3VxMEMxa2d6LURBYWVSQ1J4ejVUZzdrbEl6a1k1OWhhS19mZnV2UEJvcHhCMkZDM0tBdm5WelZZTmtuVE1BT1NqWDNmN0tOdVRoRmsyWVdSdlJ2TVpHWS1nQkhTbEh2Y0cwMFNOYWh2aWZRbU5TNWNlNE0wZXdEVGlsTUV3N2oxODNpV0hGODRUT0JvUzhteHlIeGNWVkVsY0s2YjNyT1pCRGlUd0R2bWl3Z3BKV2FIV29seXBpblhnRG50WlE1cjVjU0xuT1pVNnVJTFRGREZIdkJZcVdLa1pDVjBveVhCM20ya0ZGOTJR?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "d621abf24f40a6d8384fc131",
+    "group": "audio",
+    "topic": "wired",
+    "title": "- MusicTeck",
+    "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQaWcxUVMzdmM4S21mZy1qS0UtdnpIdkNkOW9KRjAzYnlISjh3Tnhmenp5UHpjUE53bFEzZHRCMDdIMXAya0Z4Um82eTJUYmFWbE9ZZHUyb204S0FURGxodnFYWDNLYldWLW1KeTVpalUyMmxhZnpPcWhiZWdiZlctUU5iQ2IzdEVLUGU1RllBdGQzekFKV29rem5GWmVaYVUzdDFYdVgxQk16Zlpfc0lHQ1FCOTBzdVFhdkI1LUQ2Sng2aDRMQzFOeXFnWEhtTjI0ZkxRWk52ZTNSWWRzMlk0QVYtcDV3N0NEYzBpRFVrUmU4ZHVJVE1RVTJIUDVjQ2F3eF9BZ2JjUkhPdW9BZmhrVHVWS1Vxb3BVeUFrWUEtNWtmRm1wTVFqbktwbU5qMzJtM2pqSWpSNXhjT0ZPSlFIQm92ZVpmQkZqM3pTY1pnNVJzbWNWZkc1YnFlcTFvSm9wR184WEJB?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "36893f56e177bf888c916da7",
+    "group": "audio",
+    "topic": "wired",
+    "title": "- MusicTeck",
+    "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNanhuc0NNRmU5NGtla0RKSGFRRDFYYWRrdTNuYUhzLXBVRGIxeFJ3ZUoxRk5XYlJNamdVdDVNeEhpMVlHemRCd0czdHphV3R2bWgySVg2T2ZqUWhLREptdzVPeExrRy1qdUhCOWF0YnhEUkJBaVNUT1N2SGgxclhsdTk0cG5sWUxfUTdiaTZDZFBDbEJCbGlJQlBOZFZZd1JLZTQ2b20xOXZGY0F5Qm54ekdROHk1M0pHeDFhVkpRcUF6dHFCd0QzWXBLeXRWRm0xLUFGUmVCTTY2MWNlMV9Xb250cDltejdKRTcyS09GYjFwVk9pdXlEZmREcllEcXNBcGh4eXRIX0lnMmdaVlU4MzVnSlE4UDNQcU56dHJYbUV1dUJfUXJHYVQxZkxaaTlEZjBZaGJnOGFWTzBYQnphZkpuN0tPb0dEY0RVX2JNdTNYWDZ6SEY0bGZPVjFJZU1ua0xFZQ?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "1914983e04c39e328fd024b1",
+    "group": "audio",
+    "topic": "wired",
+    "title": "- MusicTeck",
+    "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQM0tpejFFRTMwcm1FRnFPQVVTNVNTVk1oc2cwbE9iOVhEREZCeUR4eGFTLXcyZHlmLXNqWHM1RkZqb1NaaWhUSkFCT1NQcHBnVnd0UXVTUEtoY2lQTmZDeDhGWE9LOU40LUxLV1FjNzhZYmVFaEI1a1M4VmlFeGNZeklFSWlFaUNrVGJZS1VnYUY1YXVBMFl0SVk2NDM2b1BkcTlZSnZPMXJjTXFnRFExN2ZXX0QwRzkyRkItWE9rejRrYzBQQmE2VGRrNXNSVlB4ME9Vd0xwRnE2YUxiZkZiVXhRSkZqMmRITnk1VmpKZm11Sm8xdFEzS3RzQ1NlaG1mbWpxMjdZdUpsRXFsMEFabG9GN2d2eGpxbVc3RzBWZnJUMWtMRVNmdkZMMldaYVplaWV5ZFFwaGEzcWZ5b3FIWHc5N3Y5VjRZck5lT0hoZm9zRjVFbFJ4WVJCX1Q1dFNMLWh5dTJn?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "f86062683348ea9c1a73ff06",
+    "group": "audio",
+    "topic": "wired",
+    "title": "- MusicTeck",
+    "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQNnRKWmNLc3ZlbFRodWVLOTM0bUZKVjlxZUFPS0VYMS14UkY0WnFhcU1JbkxLbDBUQkw3OUJ1eDFzRXg2Wk00QjI1QTlLTU1LX0NSV2ZZVVdhb25GYzlIZzNEYnowdUdBRGxoY3k5bVcweDVqdDJTZnJHbExhZFZvRTNBMVlEdUZzMVFVVHVERlFwcVlXZEpSTkNyNE8xUmxHb3RLd0dIamdOTDZsQXI5TWQzZVkzbWJUZnRoUGJWNVdTT2VLMzByOUJKMVFsSnRTSXA4Y0wybU5raDBoR0Q4LUZoNnBXQUR3VTloTmp0X0trdFZEc0JzQ0RLcThuR3VYT0psTWJKMHFiNFJnbTVOY2tDMmxPV25yRVJBUUxSU0Ztd3hObHNQTkdZamg4Z2lNNHhnRFByNGw0VXZ1M0xCTE1aWHJzUUhHdWp5SjcxM1R0R3pzdFVHSEstWXBSXzlab19acWZB?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "65b552a76dd1134ed705e9d6",
+    "group": "audio",
+    "topic": "wired",
+    "title": "- MusicTeck",
+    "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQZUl2S2V3czVZUDQwbG93eE1BYlVDa2xiZmlicFdhY1JScnlHaUhlRVUzSUhCR2Z4emtIQkZEeVVSZHZEQ1dTbHdxYm96UklCMElkTkJTOEowQnRwTTNuSmtJd21VRHZLMWdEZE9WbFBhU2p1N2lQM2hmZTRINTgyVklmbzVLNUNGWjdTVVpRZVlYQm5zYnA0WDVYdmFRX0NqWGw0M0pYelZVcWhEOGhVc19KMExERW9PeW1XN2VuWjNGVFhYUF84bEVDR19RaEJ5bDhuZDhDWnN3ZGU3NHJ5YnlVcDBFNkdyN0NaT1JWSFNNcjVpV2N5UzB4NVVGdm5VMm5mT29HcWlTazRRbElabjZ1Nm9YbWJESVBIY3UxWFM2dXhsWUhacWNtSE1uZURKM0o3dno1R3BGVG4wQk5XQ3lsREsxRWJBYUJOdnpZWU9YMjFPem5LdUtfaHFjLTJZaWEwSEJB?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "722ed3bca98cc41b5d246064",
+    "group": "audio",
+    "topic": "wired",
+    "title": "- MusicTeck",
+    "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQUk1HY1ppckVaTnp5NmVHQmtEV0U4eUdGY1JLTVV4RlVXeUVKX2taSktGSWZSOVZ6TjNBdUJUMjg5dWxWekQ2dUhrV0ZuZ2w4Z1g3ZVhHVmMzTjBTWnB5czRiaDJEX2UxcDFtWjZZVGZlYmlaSGpEWGZhYVRCampsdzhGTF9RYjFRZlNia2VtQXRYcUxoeVBHd21pZVJiTGRVMWJIUUp5Q2NNdWVtTmRaR1JFcTVDVloxTXluTkxwamVVeVZPSXFNZm4zQllzeDZLdlVJZ19XdzdFZi1SeGNGZHA3QkMyc3FTTWQ0d1NTUlR6MnFOenF2bjdLZFFIWkxlNmRNM21CZWlCX1pUeHpFd29sR3hjWnJfRVJQSTdNYVk4Qm1VZ25MUTdTdTI5ZVVPRjA2UVNaNHdNTk5hNEtlMUtpeGdBVy1lc3dkbmRHRTVTa21icXpzZ25GaWFLMDNNa2Y0dg?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "b5a50d2198c6055c925bbd70",
+    "group": "audio",
+    "topic": "tws",
+    "title": "Google's Pixel Watch 5 Black Friday deal just got even better - Android Authority",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGeHYzUFBKUHprb24wSUR1R1NSTVh3bTNpS015bGFCN3dQWGlDUE5aN19WVElldDNxSGYtZndNTEJFemYyOWI4ZEwwOUQzcWp5clRaSExJY3NrZFJ6X0huYzFlQk11UWVrZUZOU2lCbno0Z043WEpNQkhGdw?oc=5",
     "triage": "exclude",
     "reason": "通常セール・販促・中古"
   }

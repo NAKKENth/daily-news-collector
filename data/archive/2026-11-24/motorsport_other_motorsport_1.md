@@ -1,4 +1,4 @@
-# other_motorsport / 2026-11-24 / 候補 1–29
+# other_motorsport / 2026-11-24 / 候補 1–30
 
 - [Autosport Business Awards open nominations to recognise excellence across global motorsport industry](https://www.autosport.com/autosport-awards/news/autosport-business-awards-open-nominations-to-recognise-excellence-across-global-motorsport-industry/10877252) — Autosport all｜要確認｜2026-11-23T15:38:17+00:00 UTC｜feed_published
 - [Slater to replace Camara for rest of F2 season as Tsolov becomes title favourite](https://www.autosport.com/formula2/news/slater-replaces-camara-in-f2/10877445) — Autosport all｜要確認｜2026-11-24T12:32:26+00:00 UTC｜feed_published
@@ -18,6 +18,7 @@
 - [【写真3】2026FIA GTワールドカップ - autosport web](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jREo5LWZLUGhfMGtSQ3ZWb0ZpZUxseFdwRnVlWHl4SXgzeGFnWUhKaG8zRGlmUUNtTjQ2czNqc2FPWWN6dHlmYWg3cFprODZjci0yaEdwaw?oc=5) — AUTOSPORT web｜要確認｜2026-11-24T09:24:00+00:00 UTC｜discovery_index
 - [【写真3】イゴール・オオムラ・フラガ（PONOS NAKAJIMA RACING） - autosport web](https://news.google.com/rss/articles/CBMibEFVX3lxTE9KaGxWb1FVNXlOdkVNTjVwbV9Fb3p3cmwyMC1BdHZUMFYweXQ1MkRFQk5MS2VIYUdNNXJHdjNuUG5rdEtpQS1PQnFFVWVuLTdOamRTMnQ0U3NJTzRQNVVRZzZseENYWHBBa0RGMg?oc=5) — AUTOSPORT web｜要確認｜2026-11-24T07:15:00+00:00 UTC｜discovery_index
 - [【写真7】宮田莉朋 - autosport web](https://news.google.com/rss/articles/CBMidEFVX3lxTFAzZmlISHJwQVNuTHdoeGg5bVlzYVNvOVZRcEdUMFJBdWpwdTVlcGljQVJzZGxsSDhCTFJDTUwwckJQNVdZTnRYU1BiajBOZG1JNlhXSm1lM1JOQXQtRVprV041QzhmbFdCU2U0TXdGb25xY1pw?oc=5) — AUTOSPORT web｜要確認｜2026-11-24T08:56:00+00:00 UTC｜discovery_index
+- [【写真8】宮田莉朋（ハイテック／TGR-DC） - autosport web](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CNk9qMmNoMl9QSWdHVHBldlRaX2t5UDdXTWpiS3FWaU1qekpvVXkxWm9CcG1jem9ER0R6VjVOcnM0cFhrOEV5eDFxM1Q5aFl2NUQyNm5jNA?oc=5) — AUTOSPORT web｜要確認｜2026-11-24T08:56:00+00:00 UTC｜discovery_index
 - [【写真9】宮田莉朋 - autosport web](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lRGJhX3IwSnptSU5vZEZycXZkemo1bktzM3VPWUEyRlVqRGZHSmY1Ym9acTZQdnFCM2I2OUcyQnhPY25IMTJiWUpWVjlwNE4wcllLUWEtZw?oc=5) — AUTOSPORT web｜要確認｜2026-11-24T08:56:00+00:00 UTC｜discovery_index
 - [サインツ、最終周の最終コーナーでラッセルをオーバーテイク。節目の250戦目に8位入賞「完璧なレースをやり遂げた」 - autosport web](https://news.google.com/rss/articles/CBMiR0FVX3lxTE9LMDBIQnhsdkJLREc1UE9LN3ZKS3J4QmIzaDlTTDl1NEhZeWltUHVic19ORXhRY3NwWWFmSVgxcDZBb3JINzRF?oc=5) — AUTOSPORT web｜要確認｜2026-11-23T22:00:00+00:00 UTC｜discovery_index
 - [チャンピオンとして強くなった太田の成長。「頭がいい悪ガキ」4年間見守った吉田エンジニア兼監督に聞く - autosport web](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiNWM1OTNJbUliRlNUSUg5S1ZXTUxaMkRyRFBDTEpqZVFzMHNNcDJ3YUhvZmtTclo4Z3dIazIzcFRXLWUyUHBQMHcwM3BpQ1AtN0lRRFVR?oc=5) — AUTOSPORT web｜要確認｜2026-11-24T05:28:00+00:00 UTC｜discovery_index

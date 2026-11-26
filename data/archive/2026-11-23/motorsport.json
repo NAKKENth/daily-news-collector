@@ -8914,6 +8914,32 @@
           "title": "Max Verstappen victorious in Vegas and questions for Ferrari after collision - The Verdict - Sky Sports"
         }
       ]
+    },
+    {
+      "id": "e508a4782fde051ef4817ec3",
+      "topic": "F1",
+      "title": "Charles Leclerc News & Rumours - PlanetF1",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05Zk9LQVFvSGFoSVE3QlVUbW9zRGhtYjNRbzBHLV9PS3Y5b1JHS1o4bWhqZ3VQeFFNb0ZkdWhEV1BFaWhLU3BlNUVIUlRTN0tDRnI3Tmg5M05PeU5qNG5saTNn?oc=5",
+      "source": "PlanetF1",
+      "publisher": "PlanetF1",
+      "description": "Charles Leclerc News & Rumours PlanetF1",
+      "published_utc": "2026-11-23T12:16:09+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05Zk9LQVFvSGFoSVE3QlVUbW9zRGhtYjNRbzBHLV9PS3Y5b1JHS1o4bWhqZ3VQeFFNb0ZkdWhEV1BFaWhLU3BlNUVIUlRTN0tDRnI3Tmg5M05PeU5qNG5saTNn?oc=5",
+          "source": "PlanetF1",
+          "publisher": "PlanetF1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T12:16:09+00:00",
+          "title": "Charles Leclerc News & Rumours - PlanetF1"
+        }
+      ]
     }
   ],
   "date_unknown": [],
