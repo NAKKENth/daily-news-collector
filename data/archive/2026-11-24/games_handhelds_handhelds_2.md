@@ -1,6 +1,5 @@
-# handhelds / 2026-11-24 / 候補 51–67
+# handhelds / 2026-11-24 / 候補 51–66
 
-- [Sid Meier's Civilization VII - Steam](https://news.google.com/rss/articles/CBMie0FVX3lxTE1adWZxWW04VXZ6Nzdmb3RKUjR3TTFVSEZGeDVpanNzdk81WWtZd2Z3R3J0TzJwT052UV9mVVhkdVVnR1cwel84dFlqMVI1TkhPMURqNk1nbjVBZHRrMkw1Q3pJaUp6bFBVUVBxVnc1aEF4ZnpfV1owLXJpZw?oc=5) — Valve Steam Deck｜要確認｜2026-11-24T13:29:29+00:00 UTC｜discovery_index
 - [Song of Horror: Enhanced Edition - Steam](https://news.google.com/rss/articles/CBMigAFBVV95cUxQUDdTX1N1LTA0Nlo3SmhCY2pRdjM5dXZXdUhrc04tUURTMTRjNzUyb3BBVjFiVl9FTVZxNUFmVjU1UGZ0Ny1VbTlZX2ExaGlUWk0tcjBfTkxCWVFVVEh0dUstdzV6QVd4VTVNLWFTMDk0TktPd3RVNktyX3BmVWZMRA?oc=5) — Valve Steam Deck｜要確認｜2026-11-24T12:22:50+00:00 UTC｜discovery_index
 - [Stellaris: Willpower - Steam](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rSHZzV3ZTTzY4ajdjS28tdnR2cFlDXzJkZWJnZEFsMl9tNmpzTnhXYXdsQlJJSnZkX3JPMDdJZ0dCQ1pCNG5jdUx2eUV4dk9wcnhScTJn?oc=5) — Valve Steam Deck｜要確認｜2026-11-23T15:42:12+00:00 UTC｜discovery_index
 - [Symphony of War II: Dominion - Steam](https://news.google.com/rss/articles/CBMie0FVX3lxTE1TaTZmV2VuaDJfVGVwVXFCN1h2X29xUE1QRGtiZWxjT19LTkxJZUhNYU4tSXh0QVZNSXJKYk9vTHB2SmFKd1k2MUZlZkIyQzB6eGJxd190VzRON3NvUEQ4QUY2RUNqRnl4aHYtODJTajBPcTdyVE5mZFFVRQ?oc=5) — Valve Steam Deck｜要確認｜2026-11-24T14:24:49+00:00 UTC｜discovery_index

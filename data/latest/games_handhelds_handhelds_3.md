@@ -1,5 +1,6 @@
-# handhelds / 2026-11-25 / 候補 101–119
+# handhelds / 2026-11-25 / 候補 101–120
 
+- [Star Wars Outlaws - Steam](https://news.google.com/rss/articles/CBMibkFVX3lxTE1QRTI1elBBbzdYa3VLWlBjYjNFcWNXdWdGa0puZmVzbkY1UnE0eGRjY2lmZmlBcDBfY1U1ZXlpbmhxcFgxd3ctOTE4cDd1MXZjQnVvR3FXTHg3aENyZ3U4MDlNb0xXQmpwVGdlMzlR?oc=5) — Valve Steam Deck｜要確認｜2026-11-24T18:14:26+00:00 UTC｜discovery_index
 - [Streetwalker Life! - Steam](https://news.google.com/rss/articles/CBMibkFVX3lxTE01NVZ5eXhFMkZQMkdva3NlMFdUYmVmeGx0MnBGLS1uc0NUTEFuUFF6ZUhadzljc3dIbGFhNndCYU5ZMWhjeVR2RHp1bHhzM0FWWHVBV25xZC1Mb21Xc2dGYmpqdzhUYy02RzJmUnh3?oc=5) — Valve Steam Deck｜要確認｜2026-11-24T16:29:54+00:00 UTC｜discovery_index
 - [THE FINALS - Steam](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XTGJMNmNZU1VNbXBGXzlPZjN3QXRldjRGTEdJSWNPaVhLbHJmZUVManRCU0p1Vlo2RU9jckVDaXFhbjVWSVVrajFqcFV0ZjROODNHWERBOE9PeVRWMkxHNTIyTW4?oc=5) — Valve Steam Deck｜要確認｜2026-11-24T16:31:09+00:00 UTC｜discovery_index
 - [The Blood of Dawnwalker - Steam](https://news.google.com/rss/articles/CBMidkFVX3lxTE12YjRpVG5qZEpjYmRBSGV0UXdqd2lGek40cDNucFMyc1RWYjNDTVBpOWpLT2stSkZnbGd5UUhYTWc0RmUxM3VjOEV1RGVBOWF1TkM4REZROGlGRDc2N1M1UlE5ejdpUzlCeW9DTE0wMTdlanBZakE?oc=5) — Valve Steam Deck｜要確認｜2026-11-24T20:42:18+00:00 UTC｜discovery_index

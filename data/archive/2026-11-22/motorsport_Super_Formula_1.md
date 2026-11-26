@@ -1,7 +1,8 @@
-# Super Formula / 2026-11-22 / 候補 1–9
+# Super Formula / 2026-11-22 / 候補 1–10
 
 - [Super Formula Suzuka: Nojiri ends drought with win in season finale](https://www.autosport.com/super-formula/news/super-formula-suzuka-nojiri-ends-drought-with-win-in-season-finale/10876723) — Autosport all｜優先｜2026-11-22T06:37:36+00:00 UTC｜feed_published
 - [【正式結果】2026年スーパーフォーミュラ第12戦鈴鹿 予選 - autosport web](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJVkVPbU4zNjlxR1hBVE44OVo4N0VyNUVudWNnVnpMWlJpWElQb2twaENhYnNpcGJscC0tZmswYXpDTktXaUNmVVJHUzd3ZkJhVE5hY1NB?oc=5) — AUTOSPORT web｜優先｜2026-11-22T01:08:00+00:00 UTC｜discovery_index
+- [【正式結果】2026年スーパーフォーミュラ第12戦鈴鹿 決勝 - autosport web](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tSVBiVml3S0pPakV4Z2FNdUc0YnpjQm9qVWo2TUc5SzY4ZVRFbEo0UXpEZGItVmxBTDducVVheDZMbUxNdGJqbzNjTVBhNFdtdEpWcmVR?oc=5) — AUTOSPORT web｜優先｜2026-11-22T05:54:00+00:00 UTC｜discovery_index
 - [スーパーフォーミュラ新王者の太田格之進、目指すは海外。挑戦の意義を“プレゼン”「日本の育成環境を世界に証明できると思う」](https://jp.motorsport.com/super-formula/news/2026-sf-r12-ohta-champion-presser/10876891) — Motorsport JP｜要確認｜2026-11-22T10:55:19+00:00 UTC｜feed_published
 - [2026年 シリーズ会見 - スーパーフォーミュラ](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYaXZDLWxlQy1QaUtpRkY2azI0OW03VHl2bXAtQUQtc080Y3hNRU1oLUI3aFF2ZThDVVhoMHplTjlfbFJBRmc4TjgxSEVab2NFLXEyWVBR?oc=5) — Super Formula Official｜要確認｜2026-11-22T11:23:49+00:00 UTC｜discovery_index
 - [2026年 第12戦 JAF鈴鹿グランプリ 野尻智紀がポール･トゥ･ウインでシーズンを締めくくる - スーパーフォーミュラ](https://news.google.com/rss/articles/CBMiVkFVX3lxTE01RzFRUTNjLUd1dDdod1MtQ1EtZUdCRHM2ZkVJUXd5Qmh0ZjhhM09sbjhqWkdOaDRlei1KOERlWS1pQkRwbzNpd1I0elFvTy1pZlVWNjBB?oc=5) — Super Formula Official｜要確認｜2026-11-22T08:09:38+00:00 UTC｜discovery_index

@@ -391,34 +391,6 @@
       ]
     },
     {
-      "id": "b8ac2f6ce45958076a0167ab",
-      "topic": "racing_games",
-      "title": "Paddock Wire 0.5.0 (Early Access) - overtake.gg",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wb0hPU3NJYl9uNktVRUl6eTdyN2N2WnQweFdMYWR3aHdLV2dnSmN2T25pU3J0Yzhjam1Pa2lNUV83SEZXVFpuX1doS1pOemFYbHN1c2FGMFppazl6Y2NVSW5fUQ?oc=5",
-      "source": "OverTake",
-      "publisher": "overtake.gg",
-      "description": "Paddock Wire 0.5.0 (Early Access) overtake.gg",
-      "published_utc": "2026-11-24T18:07:01+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wb0hPU3NJYl9uNktVRUl6eTdyN2N2WnQweFdMYWR3aHdLV2dnSmN2T25pU3J0Yzhjam1Pa2lNUV83SEZXVFpuX1doS1pOemFYbHN1c2FGMFppazl6Y2NVSW5fUQ?oc=5",
-          "source": "OverTake",
-          "publisher": "overtake.gg",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T18:07:01+00:00",
-          "title": "Paddock Wire 0.5.0 (Early Access) - overtake.gg"
-        }
-      ],
-      "enrichment": "failed",
-      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
-    },
-    {
       "id": "af81baa8a48e6b3d5d057a90",
       "topic": "racing_games",
       "title": "Assetto Corsa Rally Debuts In The OverTake Racing Club - overtake.gg",
@@ -504,7 +476,7 @@
       "source": "Steam racing updates",
       "publisher": "Steam",
       "description": "Sledders Steam",
-      "published_utc": "2026-11-25T11:11:57+00:00",
+      "published_utc": "2026-11-24T20:42:18+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -517,7 +489,7 @@
           "source": "Steam racing updates",
           "publisher": "Steam",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T11:11:57+00:00",
+          "published_utc": "2026-11-24T20:42:18+00:00",
           "title": "Sledders - Steam"
         }
       ]
@@ -2115,6 +2087,34 @@
       ]
     },
     {
+      "id": "bd28146c69eaf87f3396cfe6",
+      "topic": "handhelds",
+      "title": "CPM 2 - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rTWtsLV9VX0t4VGZnYVFCMWNCeHk1bTF5RTc2TzNCSExvVERJbDBwWXZnX2trWUNocEphaVI1VENMbG9WWHNnbWI0NGt1T2pBVWNjUG5jSUR3SEg0Y3c?oc=5",
+      "source": "Valve Steam Deck",
+      "publisher": "Steam",
+      "description": "CPM 2 Steam",
+      "published_utc": "2026-11-24T22:57:31+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rTWtsLV9VX0t4VGZnYVFCMWNCeHk1bTF5RTc2TzNCSExvVERJbDBwWXZnX2trWUNocEphaVI1VENMbG9WWHNnbWI0NGt1T2pBVWNjUG5jSUR3SEg0Y3c?oc=5",
+          "source": "Valve Steam Deck",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:57:31+00:00",
+          "title": "CPM 2 - Steam"
+        }
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
+    },
+    {
       "id": "c3e564aaa2468c087378c87d",
       "topic": "handhelds",
       "title": "Potato Please - Steam",
@@ -2509,12 +2509,12 @@
     {
       "id": "b490aa12a57bdf20557636af",
       "topic": "racing_games",
-      "title": "Ferrari SF-25 Sound for Assetto Corsa 1.0.1 - overtake.gg",
+      "title": "Ferrari SF-25 Sound for Assetto Corsa 1.0.2 - overtake.gg",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVWJKd3dtU1FBTndoVGdJUUNENGVNblJnNnZfRl9zMGdrdnNPYzBmQ1FpZVA0SWlLUXl3dTNUajRRVUtsZGhtU2YzXzlveXFDS0FmbFdpS09Rd3p6UlBpcVhjdElvazdIaDdGWGhfN0plOHZ2QWNhYXJrMzZYZFZ0czBkWjU?oc=5",
       "source": "OverTake",
       "publisher": "overtake.gg",
-      "description": "Ferrari SF-25 Sound for Assetto Corsa 1.0.1 overtake.gg",
-      "published_utc": "2026-11-24T17:13:47+00:00",
+      "description": "Ferrari SF-25 Sound for Assetto Corsa 1.0.2 overtake.gg",
+      "published_utc": "2026-11-25T12:02:42+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -2527,8 +2527,8 @@
           "source": "OverTake",
           "publisher": "overtake.gg",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T17:13:47+00:00",
-          "title": "Ferrari SF-25 Sound for Assetto Corsa 1.0.1 - overtake.gg"
+          "published_utc": "2026-11-25T12:02:42+00:00",
+          "title": "Ferrari SF-25 Sound for Assetto Corsa 1.0.2 - overtake.gg"
         }
       ]
     },
@@ -3444,6 +3444,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T19:34:19+00:00",
           "title": "Circuit Aurelia 1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "2f10957c274bda0c7cff67e4",
+      "topic": "racing_games",
+      "title": "Hyundai i20 N Rally2 - Pelamourgues - Monte-Carlo 2026 v 0.2 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNamtvRTJGczFSVmh2MHdRZWYwVzhJSk5mMnJXZW05MmNSdkoxQmRBVjVjQTRxbkNTOW9uRzR4cnpfd1BfdktlbDU4UVlRbE12VXRjOXNCalNSb2RGZkVCZ0JpUmoyb2RsVnQybTJubm83bFBmRWFsU09SX1VTS0pwWmIxNFRaaDhJc1IxWThXV1U2TVdWdWc?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Hyundai i20 N Rally2 - Pelamourgues - Monte-Carlo 2026 v 0.2 overtake.gg",
+      "published_utc": "2026-11-24T21:45:41+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNamtvRTJGczFSVmh2MHdRZWYwVzhJSk5mMnJXZW05MmNSdkoxQmRBVjVjQTRxbkNTOW9uRzR4cnpfd1BfdktlbDU4UVlRbE12VXRjOXNCalNSb2RGZkVCZ0JpUmoyb2RsVnQybTJubm83bFBmRWFsU09SX1VTS0pwWmIxNFRaaDhJc1IxWThXV1U2TVdWdWc?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T21:45:41+00:00",
+          "title": "Hyundai i20 N Rally2 - Pelamourgues - Monte-Carlo 2026 v 0.2 - overtake.gg"
         }
       ]
     },
@@ -5474,6 +5500,526 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T19:34:19+00:00",
           "title": "F1 25 - Circuit Aurelia - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "ad060d04178702cf7383b231",
+      "topic": "racing_games",
+      "title": "Assetto Corsa Rally - Steam",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wTHVwNmx5TEU2bm5WQ0hNeWxCRVdaRlVTQzY0WE9wa3YzOUZ3eUZTdTZmRy1XcVNPSjNPNW84Z21EYXBwc0tWMV93M0NYVV91d0haUU5odnQ4ZHBTalhfd0JqdC11NlZwSFhzdlhIWTA?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Assetto Corsa Rally Steam",
+      "published_utc": "2026-11-25T01:11:59+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wTHVwNmx5TEU2bm5WQ0hNeWxCRVdaRlVTQzY0WE9wa3YzOUZ3eUZTdTZmRy1XcVNPSjNPNW84Z21EYXBwc0tWMV93M0NYVV91d0haUU5odnQ4ZHBTalhfd0JqdC11NlZwSFhzdlhIWTA?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T01:11:59+00:00",
+          "title": "Assetto Corsa Rally - Steam"
+        }
+      ]
+    },
+    {
+      "id": "5e90c7716510af96621dc722",
+      "topic": "racing_games",
+      "title": "Forza Horizon 6 1968 Alfa Romeo Tipo 33/2 - Steam",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNalpNYnFDMFBWcGFyaFpTMW5DRmFYU2FtTlBRcG5aVHA4RVdIaUZmUGNaMDVucV90enlMZlI3S1R5bTl6bS00VFg0YmM3U05SV3JfbHVHVDhCLWphNTVhZUI4eUg4LUdYOVpKUTR4OWJfaFZHQ1Nsb1ZCZXgtTEVoMVhLVTBFbDFBeldyUWFzUkNRV3ZzQ1cyekZET3hfQ3I3?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Forza Horizon 6 1968 Alfa Romeo Tipo 33/2 Steam",
+      "published_utc": "2026-11-24T23:42:20+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNalpNYnFDMFBWcGFyaFpTMW5DRmFYU2FtTlBRcG5aVHA4RVdIaUZmUGNaMDVucV90enlMZlI3S1R5bTl6bS00VFg0YmM3U05SV3JfbHVHVDhCLWphNTVhZUI4eUg4LUdYOVpKUTR4OWJfaFZHQ1Nsb1ZCZXgtTEVoMVhLVTBFbDFBeldyUWFzUkNRV3ZzQ1cyekZET3hfQ3I3?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T23:42:20+00:00",
+          "title": "Forza Horizon 6 1968 Alfa Romeo Tipo 33/2 - Steam"
+        }
+      ]
+    },
+    {
+      "id": "623be547b0fe5611ac261cbb",
+      "topic": "racing_games",
+      "title": "Need for Speed™ Heat - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTmY5OGtCd2tKQXE2RVh2ZWVmZ09hSUhLS1hMZE9BQXc0VW9qRmZuejJOQkdOcWc4d1VTRnktcVFHR0EzTTlrM1hxTU9DQTNMaV9xZTQ4VFQ4YUtMVjFyS3BmZkpUdTUwNXcxNXE4Z2NBVWpLb3NHRFVUMHY0NnJVdnpmVS05aFZ0NjZn?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Need for Speed™ Heat Steam",
+      "published_utc": "2026-11-24T22:39:15+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTmY5OGtCd2tKQXE2RVh2ZWVmZ09hSUhLS1hMZE9BQXc0VW9qRmZuejJOQkdOcWc4d1VTRnktcVFHR0EzTTlrM1hxTU9DQTNMaV9xZTQ4VFQ4YUtMVjFyS3BmZkpUdTUwNXcxNXE4Z2NBVWpLb3NHRFVUMHY0NnJVdnpmVS05aFZ0NjZn?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:39:15+00:00",
+          "title": "Need for Speed™ Heat - Steam"
+        }
+      ]
+    },
+    {
+      "id": "1de5f6b632e774640450a341",
+      "topic": "racing_games",
+      "title": "Arma Reforger - Rally - Steam",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kcl9FOUpfaTRsbE4wdng3ejZWZVYwbzZ3RWlsWXBaN1lRTGtOcFZsaEFtWEFqeXVaWHoyYkFTTjRscVBzby1OZlBLeE5sd09LeGVHdnQ4eFRsQjZtR05GOE54VUQweHNMcFpjeExCYmg?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Arma Reforger - Rally Steam",
+      "published_utc": "2026-11-25T00:17:29+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kcl9FOUpfaTRsbE4wdng3ejZWZVYwbzZ3RWlsWXBaN1lRTGtOcFZsaEFtWEFqeXVaWHoyYkFTTjRscVBzby1OZlBLeE5sd09LeGVHdnQ4eFRsQjZtR05GOE54VUQweHNMcFpjeExCYmg?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T00:17:29+00:00",
+          "title": "Arma Reforger - Rally - Steam"
+        }
+      ]
+    },
+    {
+      "id": "9a3203190466e0b6e086f73d",
+      "topic": "racing_games",
+      "title": "Save 20% on STAR WARS: Galactic Racer - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPeGJWZUMyUUphdXlfeFc3N1JtT20tUEMtZ0s4OERkWXFwYTVjczlXSU5JZzdDb1hsWXE0clVTbmcwWTZUTXctdGVyeHBLZ1BteTFkMFpzMXpabWUxZ0w2aExSN01JczdyRnZVQVlQZlQtYjVwWDR6T2ZTZUl0NnRpLUVBbVRPZmVVWlgxOEIzMUg5OUpOS1I1QzJPbDBfczcySmlzMXBHb3otaGFOUXBYWUZaOEdRdkZBRGZWRHJ2dzY1OHB5Vi1QbE9KOUo0TWZneG4wdUZIOXg0Z1FHYUxBcWNYcEJqM0dfRURnUWV2RHVEVi1fTVdlQTJCVnVJVjBSajdWWjNkejg5LUFGV3EwdWZ5R0tWa1ZQREVLeXc5cVdjOXFVeUdhNHRiR2k1Y2VQYjFyV0EtYnJieVE?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Save 20% on STAR WARS: Galactic Racer Steam",
+      "published_utc": "2026-11-25T00:13:50+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPeGJWZUMyUUphdXlfeFc3N1JtT20tUEMtZ0s4OERkWXFwYTVjczlXSU5JZzdDb1hsWXE0clVTbmcwWTZUTXctdGVyeHBLZ1BteTFkMFpzMXpabWUxZ0w2aExSN01JczdyRnZVQVlQZlQtYjVwWDR6T2ZTZUl0NnRpLUVBbVRPZmVVWlgxOEIzMUg5OUpOS1I1QzJPbDBfczcySmlzMXBHb3otaGFOUXBYWUZaOEdRdkZBRGZWRHJ2dzY1OHB5Vi1QbE9KOUo0TWZneG4wdUZIOXg0Z1FHYUxBcWNYcEJqM0dfRURnUWV2RHVEVi1fTVdlQTJCVnVJVjBSajdWWjNkejg5LUFGV3EwdWZ5R0tWa1ZQREVLeXc5cVdjOXFVeUdhNHRiR2k1Y2VQYjFyV0EtYnJieVE?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T00:13:50+00:00",
+          "title": "Save 20% on STAR WARS: Galactic Racer - Steam"
+        }
+      ]
+    },
+    {
+      "id": "85ea8adfde91741a28137e65",
+      "topic": "racing_games",
+      "title": "Easy Delivery Co. - Steam",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LTHVSZ0R0VWNXMGhqdE5vQzV6a3RfVXRjeGRta0xvSUZNaVhCSnBIRUZKeEF6bGFjb0wtNHhqNEh2ZngzWks5TzFDa0ExaG9NQzJENm9fWjhFQUp0ZjVGckxOa3laRzU2Slk5Nw?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Easy Delivery Co. Steam",
+      "published_utc": "2026-11-24T22:13:38+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LTHVSZ0R0VWNXMGhqdE5vQzV6a3RfVXRjeGRta0xvSUZNaVhCSnBIRUZKeEF6bGFjb0wtNHhqNEh2ZngzWks5TzFDa0ExaG9NQzJENm9fWjhFQUp0ZjVGckxOa3laRzU2Slk5Nw?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:13:38+00:00",
+          "title": "Easy Delivery Co. - Steam"
+        }
+      ]
+    },
+    {
+      "id": "45c0fd11c65efd8dffdfcfec",
+      "topic": "racing_games",
+      "title": "NIGHT-RUNNERS™ PROLOGUE - Steam",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT3ZWTUs3b3R1ejZMdHBnNDN1aF9aT3JjSjh5ZGdmRU9RRnRxdTZpa1FabEZ4Uk4zbUZ0dkFVWXJfbnMtYWZlYTFJVU5PVnFYX21yUER1R0ZRRDJkei1MbDFqS3JMbVNwTjFJQzhCRkZtTEZ1UGVGMm1hbWtIRC02WW5ieTdFMjAtVnFydklhUWtkSlpvS2RyMWxfbFF0ZFJHc3RsVjhn?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "NIGHT-RUNNERS™ PROLOGUE Steam",
+      "published_utc": "2026-11-24T23:53:53+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT3ZWTUs3b3R1ejZMdHBnNDN1aF9aT3JjSjh5ZGdmRU9RRnRxdTZpa1FabEZ4Uk4zbUZ0dkFVWXJfbnMtYWZlYTFJVU5PVnFYX21yUER1R0ZRRDJkei1MbDFqS3JMbVNwTjFJQzhCRkZtTEZ1UGVGMm1hbWtIRC02WW5ieTdFMjAtVnFydklhUWtkSlpvS2RyMWxfbFF0ZFJHc3RsVjhn?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T23:53:53+00:00",
+          "title": "NIGHT-RUNNERS™ PROLOGUE - Steam"
+        }
+      ]
+    },
+    {
+      "id": "a4d715841005572f78243f08",
+      "topic": "racing_games",
+      "title": "Blastlane Racers - Steam",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43S0lxU1ZSVFVJQXkyZklmemRfTS16Yk5USi1TbWtjaE1KQ2dlRVlRMElaTkdwSTR2b090cWRLLWpGeDVxLTdrbjR6Mk1WdDgyanMzb2ZEZHNkdGxuQ0lWb3pTNl93NXduN2JzSg?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Blastlane Racers Steam",
+      "published_utc": "2026-11-24T23:14:41+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43S0lxU1ZSVFVJQXkyZklmemRfTS16Yk5USi1TbWtjaE1KQ2dlRVlRMElaTkdwSTR2b090cWRLLWpGeDVxLTdrbjR6Mk1WdDgyanMzb2ZEZHNkdGxuQ0lWb3pTNl93NXduN2JzSg?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T23:14:41+00:00",
+          "title": "Blastlane Racers - Steam"
+        }
+      ]
+    },
+    {
+      "id": "af2a5d886f01033e9b843181",
+      "topic": "racing_games",
+      "title": "Steam 鉴赏家：CGMagazine - Steam",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTYlMxWWp6X3ctc3dqZDdKaHY5VXI3dUlLZ0wxSWZpLUJfSl9LWEk4UHV1RnBNMlJGbVhSazRaOXZzeG1kR0xBYlpTcHdkRTJQamV2Rmt5ek1wSnVsUXJNbDY3SFNXazZteFU2UzNXc3paTmF5QlVoenlrZw?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Steam 鉴赏家：CGMagazine Steam",
+      "published_utc": "2026-11-25T13:09:42+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTYlMxWWp6X3ctc3dqZDdKaHY5VXI3dUlLZ0wxSWZpLUJfSl9LWEk4UHV1RnBNMlJGbVhSazRaOXZzeG1kR0xBYlpTcHdkRTJQamV2Rmt5ek1wSnVsUXJNbDY3SFNXazZteFU2UzNXc3paTmF5QlVoenlrZw?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T13:09:42+00:00",
+          "title": "Steam 鉴赏家：CGMagazine - Steam"
+        }
+      ]
+    },
+    {
+      "id": "82fd9931125c2770d265e341",
+      "topic": "racing_games",
+      "title": "Cadillac V-16 Roadster 1930 1.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzRDVyaGFrOEczbFNUN2lmTEJvUWZjLWZLMGFXb256ZE8tdFAxazVfQ3VHb0dfM1JKU0lPd09CaHBwdC1GVVhHaWF0Ti1NdC0yU000eV8yUlpuUDFYaWVhUTFfV2R4ejZNUDU4bnU1RFMwd0FkN1FJ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Cadillac V-16 Roadster 1930 1.0 overtake.gg",
+      "published_utc": "2026-11-25T04:19:55+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzRDVyaGFrOEczbFNUN2lmTEJvUWZjLWZLMGFXb256ZE8tdFAxazVfQ3VHb0dfM1JKU0lPd09CaHBwdC1GVVhHaWF0Ti1NdC0yU000eV8yUlpuUDFYaWVhUTFfV2R4ejZNUDU4bnU1RFMwd0FkN1FJ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T04:19:55+00:00",
+          "title": "Cadillac V-16 Roadster 1930 1.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "ed55b4a6fbd57ae388213d1f",
+      "topic": "racing_games",
+      "title": "996 gtr Beclar skinpack 2003-2006-2007 0.7 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMk4yTFNrRWxUdHFrY0dwemdieGItTWR6T2lrWDlGY2liMFFWYUZXU0hpaXBCTnVsUGlUTVI4dUloWHkzU0VJYUtyaU9XS3c2b2N4ZTNjX1RudXRWb1VuV2VpX3ZmelZxR0EzT2x3QTZWa2pTUVBvdUs1LXlvY2hpMGxyeVZPUQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "996 gtr Beclar skinpack 2003-2006-2007 0.7 overtake.gg",
+      "published_utc": "2026-11-24T17:52:42+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMk4yTFNrRWxUdHFrY0dwemdieGItTWR6T2lrWDlGY2liMFFWYUZXU0hpaXBCTnVsUGlUTVI4dUloWHkzU0VJYUtyaU9XS3c2b2N4ZTNjX1RudXRWb1VuV2VpX3ZmelZxR0EzT2x3QTZWa2pTUVBvdUs1LXlvY2hpMGxyeVZPUQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T17:52:42+00:00",
+          "title": "996 gtr Beclar skinpack 2003-2006-2007 0.7 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "30a594a8663500bf7cdc5d95",
+      "topic": "racing_games",
+      "title": "BMW Umamusume F1 MyTeam 2026 Livery | SERPs v4.1 1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS0JVQWxFaHRDa3J4RFJyNXhHRWVxd3FvTWc0OUhxSWxMWXNxdjVZU1pGakxBbFE2TnNHSFZGMVZYakU1RVNTSk83MURGUXZraXdxTmQxMzhCNl9NTkVSOHNUVjdrZkZHN1lFVFpZM1MzOUg2enVza0d3a1RwdklpcjRkWDlWZWthQkg4TVE3U08?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "BMW Umamusume F1 MyTeam 2026 Livery | SERPs v4.1 1 overtake.gg",
+      "published_utc": "2026-11-24T21:05:43+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS0JVQWxFaHRDa3J4RFJyNXhHRWVxd3FvTWc0OUhxSWxMWXNxdjVZU1pGakxBbFE2TnNHSFZGMVZYakU1RVNTSk83MURGUXZraXdxTmQxMzhCNl9NTkVSOHNUVjdrZkZHN1lFVFpZM1MzOUg2enVza0d3a1RwdklpcjRkWDlWZWthQkg4TVE3U08?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T21:05:43+00:00",
+          "title": "BMW Umamusume F1 MyTeam 2026 Livery | SERPs v4.1 1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "629fcfdb6a958b40315f84d1",
+      "topic": "racing_games",
+      "title": "Chevrolet 3100 Pickup 1950 1.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DZGZZSGMtZnBfVXR4MWN5MEhRb1NhQmRKOUFCbXBaMkJkWmV1dUxmYWwxT1JVODhKSENaN3VXTzZRSThSTm9DM0hucXBiQVk4THRMai1kcW8zQ3hKUDI4M2wwOVZTa0JSVG1nWDVZbl9XQkFkY0E?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Chevrolet 3100 Pickup 1950 1.0 overtake.gg",
+      "published_utc": "2026-11-25T04:58:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DZGZZSGMtZnBfVXR4MWN5MEhRb1NhQmRKOUFCbXBaMkJkWmV1dUxmYWwxT1JVODhKSENaN3VXTzZRSThSTm9DM0hucXBiQVk4THRMai1kcW8zQ3hKUDI4M2wwOVZTa0JSVG1nWDVZbl9XQkFkY0E?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T04:58:00+00:00",
+          "title": "Chevrolet 3100 Pickup 1950 1.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "e7738678fdb99b7a77359694",
+      "topic": "racing_games",
+      "title": "AE86 Tuned Tokyo Blossom Livery v1.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95am01Vl80VnNnS3FrY1JiVWJQVnlsOHpSU01ieVQyVjRPbWh3SndRODItQ3VIMVI1bjFKRURmUEpaRnFkZjU4Y0pBQnhMNzMyWEpRV3NiYzkzQTdrdXVjTldYbWU0ektfLVBxeThPSDZpVHNGeEhrcnB3aFY?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "AE86 Tuned Tokyo Blossom Livery v1.0 overtake.gg",
+      "published_utc": "2026-11-24T20:45:49+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95am01Vl80VnNnS3FrY1JiVWJQVnlsOHpSU01ieVQyVjRPbWh3SndRODItQ3VIMVI1bjFKRURmUEpaRnFkZjU4Y0pBQnhMNzMyWEpRV3NiYzkzQTdrdXVjTldYbWU0ektfLVBxeThPSDZpVHNGeEhrcnB3aFY?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T20:45:49+00:00",
+          "title": "AE86 Tuned Tokyo Blossom Livery v1.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "40fd857531aad21cba576ea7",
+      "topic": "racing_games",
+      "title": "Slipstream Modification 1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wNk9JcUw5bkxnNmozTDFUUUxMdFpRVDFxU1NOQlRNOU1qWGFhVHlfWEtXSlU2TVhiSi1xMV9VVmNuVUpwX1JRR1NheDVpVGtkQ3FLMXFxZnM4Yk5DUVZ2WWxvRmVROF9Xa3FMZHUwek52Zw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Slipstream Modification 1 overtake.gg",
+      "published_utc": "2026-11-24T22:52:06+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wNk9JcUw5bkxnNmozTDFUUUxMdFpRVDFxU1NOQlRNOU1qWGFhVHlfWEtXSlU2TVhiSi1xMV9VVmNuVUpwX1JRR1NheDVpVGtkQ3FLMXFxZnM4Yk5DUVZ2WWxvRmVROF9Xa3FMZHUwek52Zw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:52:06+00:00",
+          "title": "Slipstream Modification 1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "38ac188c12f58bef1539b36d",
+      "topic": "racing_games",
+      "title": "Bentley Speed Six \"Blue Train\" 1930 1.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHa3o1VEFsSzJzYWh2M3V5Qmt4dlRpdG80SEJIWDFfZzE4bVBxQlRyM252TS1wbkhzNHhITUNOT3VTVWQxb0FsMFBsZS02RmxDWUxva0JESTRUTVcyUThKOU8wMlRuWDFzN3Q2M0JlUEYwN0xIVGhSNWlGQVhvT0U?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Bentley Speed Six \"Blue Train\" 1930 1.0 overtake.gg",
+      "published_utc": "2026-11-25T04:59:57+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHa3o1VEFsSzJzYWh2M3V5Qmt4dlRpdG80SEJIWDFfZzE4bVBxQlRyM252TS1wbkhzNHhITUNOT3VTVWQxb0FsMFBsZS02RmxDWUxva0JESTRUTVcyUThKOU8wMlRuWDFzN3Q2M0JlUEYwN0xIVGhSNWlGQVhvT0U?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T04:59:57+00:00",
+          "title": "Bentley Speed Six \"Blue Train\" 1930 1.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "230c205839eae36b9d4d6699",
+      "topic": "racing_games",
+      "title": "Toyota AE86 Super N2 | 18 Breakable Parts 0.05.162 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdXFaSkl1SThOSVloVlZNQXRBd3dlOVhKVG9lZlJtUjlfRXlBSXozQ1JZakRQWE9teU9EWDdkZ0VGak5mclJzNzZBeUhRWHFDZm5tcUFrRXRoMFZVa3VRTWV0VmNLU1FBb19wR1RRa2swMWFXNm8xQWdHdjRDSG11Q0FKOWNFSkE?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Toyota AE86 Super N2 | 18 Breakable Parts 0.05.162 overtake.gg",
+      "published_utc": "2026-11-25T00:16:16+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdXFaSkl1SThOSVloVlZNQXRBd3dlOVhKVG9lZlJtUjlfRXlBSXozQ1JZakRQWE9teU9EWDdkZ0VGak5mclJzNzZBeUhRWHFDZm5tcUFrRXRoMFZVa3VRTWV0VmNLU1FBb19wR1RRa2swMWFXNm8xQWdHdjRDSG11Q0FKOWNFSkE?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T00:16:16+00:00",
+          "title": "Toyota AE86 Super N2 | 18 Breakable Parts 0.05.162 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "7cefb2b9b9b408e91030ee69",
+      "topic": "racing_games",
+      "title": "RX-7 Tuned MADBUL Livery v1.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yaVZkekJfcGVIM211dEJISVNhelpYZmN0U1J1eENEOVpScVRDblpoY01kTlo4anlfaTJjblA3NzJkQXBaOWJZMVZUeWRKNFRMcDhhX0FyVVpSSThiRHYxMHBrc1l6MExZZlE3MlRyMDNwOTg?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "RX-7 Tuned MADBUL Livery v1.0 overtake.gg",
+      "published_utc": "2026-11-24T20:43:28+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yaVZkekJfcGVIM211dEJISVNhelpYZmN0U1J1eENEOVpScVRDblpoY01kTlo4anlfaTJjblA3NzJkQXBaOWJZMVZUeWRKNFRMcDhhX0FyVVpSSThiRHYxMHBrc1l6MExZZlE3MlRyMDNwOTg?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T20:43:28+00:00",
+          "title": "RX-7 Tuned MADBUL Livery v1.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "6fabf0e79ceb786f0d657264",
+      "topic": "racing_games",
+      "title": "Improved Dousojin Touge AI Line and Hints v1.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSzlycUxfMGhlWFpyRDcyVlUxUmNqcS14U203YWZyTi02dXVEb1V0MU9DNmx6U2c2RmtTVGNQVlM0S1Z4WGpKU25WUi1XQnFxOVRaTWpUekdsQWlHUFI4WjgtbDUxUXEwVGRhM19OT3hFUTVUWDFiYUV0WUhMWWtFZFJKVDcwOFV3Z0E?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Improved Dousojin Touge AI Line and Hints v1.0 overtake.gg",
+      "published_utc": "2026-11-24T20:38:38+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSzlycUxfMGhlWFpyRDcyVlUxUmNqcS14U203YWZyTi02dXVEb1V0MU9DNmx6U2c2RmtTVGNQVlM0S1Z4WGpKU25WUi1XQnFxOVRaTWpUekdsQWlHUFI4WjgtbDUxUXEwVGRhM19OT3hFUTVUWDFiYUV0WUhMWWtFZFJKVDcwOFV3Z0E?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T20:38:38+00:00",
+          "title": "Improved Dousojin Touge AI Line and Hints v1.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "4073d873fc0dbc940e8d1594",
+      "topic": "racing_games",
+      "title": "Peugeot 306 Maxi Europcar 0.1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZMVE5c1AtaEsxYkJTbUxTSlU1TS1qWnlPTUV6NGVrSWVjZzFyZmJ1YkxMN0E0Vk5udWlWTEJsQXVsMVJmS0tLbTJNOENad3M2ZGlZd2FZdVhOaDhVVFBpTFpjYTNmTXduYkxRNkpoLVRBNHdJ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Peugeot 306 Maxi Europcar 0.1 overtake.gg",
+      "published_utc": "2026-11-24T15:08:50+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZMVE5c1AtaEsxYkJTbUxTSlU1TS1qWnlPTUV6NGVrSWVjZzFyZmJ1YkxMN0E0Vk5udWlWTEJsQXVsMVJmS0tLbTJNOENad3M2ZGlZd2FZdVhOaDhVVFBpTFpjYTNmTXduYkxRNkpoLVRBNHdJ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T15:08:50+00:00",
+          "title": "Peugeot 306 Maxi Europcar 0.1 - overtake.gg"
         }
       ]
     }

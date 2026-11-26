@@ -2268,16 +2268,16 @@
     {
       "id": "277d7d17e279ab88232cb798",
       "topic": "pc",
-      "title": "「バザールでござーる」が、35年間の感謝を伝える ～キャラクター総出で「どうもありがとう」",
+      "title": "「バザールでござーる」が、35年間の感謝を伝える",
       "url": "https://pc.watch.impress.co.jp/docs/news/2159142.html",
       "source": "PC Watch",
       "publisher": "PC Watch",
       "description": "2026年11月24日に、サイト公開を終了したNECの「バザールでござーる」の公式ホームページが、11月25日午前に更新され、キャラクター総出で、「35年間、どうもありがとう」と、感謝を伝える内容となっている。",
       "published_utc": "2026-11-25T06:02:47+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2285,11 +2285,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159142.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T06:02:47+00:00",
-          "title": "「バザールでござーる」が、35年間の感謝を伝える ～キャラクター総出で「どうもありがとう」"
+          "title": "「バザールでござーる」が、35年間の感謝を伝える"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T15:02:47+09:00",
+      "article_modified_raw": "2026-11-25T16:33:56+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "b4a89e8e79e3337d35f32b02",
@@ -2301,9 +2305,9 @@
       "description": "国立国会図書館は11月24日、NDLラボを通じてOCRソフトウェア「NDLOCR-Lite ver.2」を公開した。無料で利用でき、ライセンスはCC BY 4.0。",
       "published_utc": "2026-11-25T05:46:58+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2311,11 +2315,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159134.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T05:46:58+00:00",
           "title": "GPUなしで表も手書きも！無料OCR「NDLOCR-Lite ver.2」が登場"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T14:46:58+09:00",
+      "article_modified_raw": "2026-11-25T14:46:58+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "a141b9d6c8311ca3d47fbe6b",
@@ -2327,9 +2335,9 @@
       "description": "プロゲーミングチームのCrazy Raccoonは、RØVAブランドから、木目調の天板が特徴のRyzen 7 8845HS搭載14型ノートPC「RV-L7845」を発売した。2027年1月中旬より順次出荷を予定しており、価格は22万円。",
       "published_utc": "2026-11-25T05:02:16+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2337,11 +2345,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159104.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T05:02:16+00:00",
           "title": "山田涼介×Crazy Raccoonの木目調PC、今度は14型ノートが登場"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T14:02:16+09:00",
+      "article_modified_raw": "2026-11-25T14:02:20+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "80de2edb818a41109fcdf54d",
@@ -2353,9 +2365,9 @@
       "description": "Claudeで作ったちょっとしたツールを、普通のデスクトップアプリとして使えるようになる。Anthropicは11月24日(米国時間)、ClaudeのArtifactsをデスクトップアプリとしてインストールできる機能を、MacおよびWindows向けClaudeでベータ機能として提供開始した。全プランで利用できるが、Teamプランではデフォルトで有効(フルコンピュータアクセスは無効)、Enterpriseプランではオーナーが有効にするまでオフになる。HIPAA対応の組織とハイブリッド導入環境では利用できない。",
       "published_utc": "2026-11-25T03:49:11+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2363,11 +2375,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159065.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T03:49:11+00:00",
           "title": "Claudeで作ったツールがそのままデスクトップアプリに。APIキーも不要"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T12:49:11+09:00",
+      "article_modified_raw": "2026-11-25T12:49:12+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "37572f8a989ab55b89f36d73",
@@ -2379,9 +2395,9 @@
       "description": "27B(270億)クラスのモデルを5.9GBの容量に収めつつ、コーディングエージェントとしての性能をフル精度版に迫る水準まで高めた。PrismMLは11月24日(米国時間)、Qwen3.8 27Bをベースに3値(Ternary)量子化を施したLLM「Ternary Bonsai 2.5 27B」をオープンウェイト(モデルの重み)としてHugging Faceで公開した。ライセンスはApache License 2.0。",
       "published_utc": "2026-11-25T03:17:18+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2389,11 +2405,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159034.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T03:17:18+00:00",
           "title": "5.9GBでエージェント性能アップ！「Ternary Bonsai 2.5 27B」登場"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T12:17:18+09:00",
+      "article_modified_raw": "2026-11-25T12:17:19+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "80dea3f502bd0071ad660d08",
@@ -2405,9 +2425,9 @@
       "description": "GeForce向けドライバがSSDへ大量の書き込みを行なってしまう不具合に関して、NVIDIAは11月24日、修正版ドライバ「GeForce Game Ready Driver 621.40」を公開した。",
       "published_utc": "2026-11-25T03:14:10+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2415,11 +2435,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159016.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T03:14:10+00:00",
           "title": "GeForceドライバがSSDに大量書き込みする不具合、修正版が提供開始"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T12:14:10+09:00",
+      "article_modified_raw": "2026-11-25T12:14:11+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "a10391b7af631bd75f19363b",
@@ -2635,7 +2659,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Getting started with your dot | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T01:38:29+00:00",
+      "published_utc": "2026-11-25T00:07:52+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -2648,7 +2672,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T01:38:29+00:00",
+          "published_utc": "2026-11-25T00:07:52+00:00",
           "title": "Getting started with your dot | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -2680,6 +2704,32 @@
       ]
     },
     {
+      "id": "b158b17edd54d4954ad3cf63",
+      "topic": "ai",
+      "title": "Bidding strategies and how pricing works in ChatGPT Ads | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOTgyWWlDYkkxdXBNRlJEZG03dDgzMmNKOVQ0eElvaGJuQW9lcDhiZFNPWEpvcEJKYVMtT0M0Ulhnbm1IWHUzenBiemwzOUZnbnN2VDl1NDhDS2NQeU5SaXRUYng3dlo1WU4xcDVrLU9ucVlWdkY1TUpTQ1ZNdFBLTThQeUhudWVxbE9fT29vODZxUzRTV2lYczZTdjVaRlZteHc?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "Bidding strategies and how pricing works in ChatGPT Ads | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-25T09:15:38+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOTgyWWlDYkkxdXBNRlJEZG03dDgzMmNKOVQ0eElvaGJuQW9lcDhiZFNPWEpvcEJKYVMtT0M0Ulhnbm1IWHUzenBiemwzOUZnbnN2VDl1NDhDS2NQeU5SaXRUYng3dlo1WU4xcDVrLU9ucVlWdkY1TUpTQ1ZNdFBLTThQeUhudWVxbE9fT29vODZxUzRTV2lYczZTdjVaRlZteHc?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T09:15:38+00:00",
+          "title": "Bidding strategies and how pricing works in ChatGPT Ads | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
       "id": "5f92c89e82512c4787fc5068",
       "topic": "ai",
       "title": "Maximize results bid strategy | OpenAI Help Center - OpenAI Help Center",
@@ -2702,6 +2752,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T16:19:45+00:00",
           "title": "Maximize results bid strategy | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "bfdb725572b2ac7cfd0e46cd",
+      "topic": "ai",
+      "title": "Composer predictions in Codex | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XWV9ab1dGRVJIdGwwR0Y3cWFtbmVZRExRUDVuWUlQankyaGpVaG1zR0VvR1Raa2hYb1FZaGN2MHJuUTVkVjBXZXNqNi1randWMUFBbDRVOWdlY3NGNnAxUXZWQUllbkVwbDYxamlOWnNZcmdXX01sM0s5bWNoYjA?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "Composer predictions in Codex | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-25T14:45:45+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XWV9ab1dGRVJIdGwwR0Y3cWFtbmVZRExRUDVuWUlQankyaGpVaG1zR0VvR1Raa2hYb1FZaGN2MHJuUTVkVjBXZXNqNi1randWMUFBbDRVOWdlY3NGNnAxUXZWQUllbkVwbDYxamlOWnNZcmdXX01sM0s5bWNoYjA?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T14:45:45+00:00",
+          "title": "Composer predictions in Codex | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -4634,6 +4710,32 @@
       ]
     },
     {
+      "id": "b7d1591102eb830d65f71355",
+      "topic": "pc",
+      "title": "US stocks slide as Nvidia rally fizzles out, dollar falls - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGQ3cVhHXzJBLXEybDVWX21xeWcxbUVEOHA1ZV9IU0lacEM2a3dKbmFLSGk2Y1MwLXk0OVFzWV8yT1JNQ3FnX3hWNGxidEZvbDZwTl8tdjNoUDV6MU45ZnJSa3lSMnZJNXdwWk5VRUFOYzJlTk11TmZaS1hocXhPVUE4bw?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "US stocks slide as Nvidia rally fizzles out, dollar falls Reuters",
+      "published_utc": "2026-11-24T23:33:16+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGQ3cVhHXzJBLXEybDVWX21xeWcxbUVEOHA1ZV9IU0lacEM2a3dKbmFLSGk2Y1MwLXk0OVFzWV8yT1JNQ3FnX3hWNGxidEZvbDZwTl8tdjNoUDV6MU45ZnJSa3lSMnZJNXdwWk5VRUFOYzJlTk11TmZaS1hocXhPVUE4bw?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T23:33:16+00:00",
+          "title": "US stocks slide as Nvidia rally fizzles out, dollar falls - Reuters"
+        }
+      ]
+    },
+    {
       "id": "26c7b7a2019fe3accd7151fd",
       "topic": "ai",
       "title": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value - Reuters",
@@ -5238,7 +5340,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2159286.html",
       "source": "PC Watch",
       "publisher": "PC Watch",
-      "description": "LLM(大規模言語モデル)が文章を出力するのと同じ方式で画像を生成するAIモデルが、無償でダウンロードできるようになった。NVIDIAが「Nemotron-Labs-Image-30B-A3B」のオープンウェイト(モデルの重み)を、11月25日(日本時間)までにHugging Faceで公開した。無償利用は研究・評価目的に限られる。",
+      "description": "LLM(大規模言語モデル)が文章を出力するのと同じ方式で画像を生成するAIモデルが、無償でダウンロードできるようになった。NVIDIAが「Nemotron-Labs-Image-30B-A3B」のオープンウェイト(モデルの重み)を、11月25日(日本時間)までにHugging Faceで公開した。利用は非商用の研究・評価目的に限られる。",
       "published_utc": "2026-11-25T13:29:23+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
@@ -8220,32 +8322,6 @@
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T12:36:07+00:00",
           "title": "Intel Core Ultra 4000 \"Nova Lake-S\" Preliminary Specs Leaked"
-        }
-      ]
-    },
-    {
-      "id": "8ae4f83c7a6573d58f2f2e9d",
-      "topic": "pc",
-      "title": "Max Out Your Gen 4 Slot: Predator GM7 NVMe SSD (Up to 7400 MB/s)",
-      "url": "https://www.techpowerup.com/354313/max-out-your-gen-4-slot-predator-gm7-nvme-ssd-up-to-7400-mb-s",
-      "source": "TechPowerUp",
-      "publisher": "TechPowerUp",
-      "description": "If you've been waiting for the Black Friday sales to upgrade your rig, expand your PS5 storage, or give your laptop a massive speed boost, the award-winning Predator GM7 PCIe 4.0 SSD is built to deliver top-tier performance without the top-tier heat. Powered by the highly efficient Maxio MAP1602 controller and fast 3D TLC NAND flash, this award-win",
-      "published_utc": "2026-11-25T14:45:31+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
-      "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "review",
-      "triage_reason": "PC技術候補",
-      "sources": [
-        {
-          "url": "https://www.techpowerup.com/354313/max-out-your-gen-4-slot-predator-gm7-nvme-ssd-up-to-7400-mb-s",
-          "source": "TechPowerUp",
-          "publisher": "TechPowerUp",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-25T14:45:31+00:00",
-          "title": "Max Out Your Gen 4 Slot: Predator GM7 NVMe SSD (Up to 7400 MB/s)"
         }
       ]
     },
@@ -11365,9 +11441,9 @@
       "description": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
       "published_utc": "2026-11-24T21:09:04+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -11375,11 +11451,15 @@
           "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T21:09:04+00:00",
           "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T21:09:04+00:00",
+      "article_modified_raw": "2026-11-24T21:56:09+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "824d8bed7abb71ff4acfe012",
@@ -11391,9 +11471,9 @@
       "description": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
       "published_utc": "2026-11-24T18:30:42+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "AI候補",
       "sources": [
@@ -11401,11 +11481,15 @@
           "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T18:30:42+00:00",
           "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T18:30:42+00:00",
+      "article_modified_raw": "2026-11-24T19:02:50+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "1b97a6600b29a37c290640af",
@@ -11898,16 +11982,16 @@
     {
       "id": "63e82bf3e7eb61fd57d47690",
       "topic": "ai",
-      "title": "Apple has iPads running macOS already, but don’t get too excited",
+      "title": "Apple has iPads running macOS already, but don&#8217;t get too excited",
       "url": "https://9to5mac.com/2026/11/25/apple-has-ipads-running-macos-already-but-dont-get-too-excited",
       "source": "9to5Mac",
       "publisher": "9to5Mac",
-      "description": "With iPads running the same chips as Macs , many have wished Apple would give us the option of running macOS on them instead of the somewhat clunky iPadOS windowing system. Apple’s previous arguments against converging devices have been somewhat weakened by the launch of the touchscreen MacBook Pro . A new report says that Apple already has iPads r",
+      "description": "With iPads running the same chips as Macs, many have wished Apple would give us the option of running macOS...",
       "published_utc": "2026-11-25T13:40:50+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -11915,11 +11999,15 @@
           "url": "https://9to5mac.com/2026/11/25/apple-has-ipads-running-macos-already-but-dont-get-too-excited",
           "source": "9to5Mac",
           "publisher": "9to5Mac",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T13:40:50+00:00",
-          "title": "Apple has iPads running macOS already, but don’t get too excited"
+          "title": "Apple has iPads running macOS already, but don&#8217;t get too excited"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T13:40:50+00:00",
+      "article_modified_raw": "2026-11-25T13:40:51+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "a38f08a5826fe209f4865a60",
@@ -11928,12 +12016,12 @@
       "url": "https://9to5mac.com/2026/11/25/microsoft-declares-a-code-red-in-response-to-worst-ever-outage",
       "source": "9to5Mac",
       "publisher": "9to5Mac",
-      "description": "The recent Microsoft 365 outage was the worst the service had ever experienced, with more than 80% of the company’s servers unresponsive at the worst point. The company has now declared a Code Red to address the way it prevents and responds to major failures in future. Microsoft has explained more about why it took so long to resolve the issue and ",
+      "description": "The recent Microsoft 365 outage was the worst the service had ever experienced, with more than 80% of the company’s...",
       "published_utc": "2026-11-25T12:23:19+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -11941,11 +12029,15 @@
           "url": "https://9to5mac.com/2026/11/25/microsoft-declares-a-code-red-in-response-to-worst-ever-outage",
           "source": "9to5Mac",
           "publisher": "9to5Mac",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T12:23:19+00:00",
           "title": "Microsoft declares a Code Red in response to worst ever outage"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T12:23:19+00:00",
+      "article_modified_raw": "2026-11-25T12:23:21+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "3c25b83c45363c143b302c3e",
@@ -14054,6 +14146,32 @@
       ]
     },
     {
+      "id": "f33efb6dce4c58789c527779",
+      "topic": "ai",
+      "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat Reuters",
+      "published_utc": "2026-11-25T13:15:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T13:15:00+00:00",
+          "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat - Reuters"
+        }
+      ]
+    },
+    {
       "id": "4a6593c65686cd5ddc521df4",
       "topic": "ai",
       "title": "Plaintiffs' law firms fight to lead McDonald's menu pricing lawsuits - Reuters",
@@ -14535,9 +14653,9 @@
       "description": "France blames an Iranian cyber unit for sabotaging hundreds of supermarket freezers.",
       "published_utc": "2026-11-25T14:29:43+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -14545,11 +14663,15 @@
           "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos",
           "source": "Ars Technica",
           "publisher": "Ars Technica",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T14:29:43+00:00",
           "title": "A familiar Iranian hacking group has found a new way to cause chaos"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T14:29:43+00:00",
+      "article_modified_raw": "2026-11-25T14:38:40+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "c3598b1887503822d01efb20",
@@ -14617,9 +14739,9 @@
       "description": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
       "published_utc": "2026-11-24T22:36:28+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -14627,11 +14749,15 @@
           "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war",
           "source": "Ars Technica",
           "publisher": "Ars Technica",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T22:36:28+00:00",
           "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T22:36:28+00:00",
+      "article_modified_raw": "2026-11-25T13:49:50+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "697ddb9c09645f0575d200a8",
@@ -14673,9 +14799,9 @@
       "description": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
       "published_utc": "2026-11-24T20:00:18+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -14683,11 +14809,15 @@
           "url": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000",
           "source": "Ars Technica",
           "publisher": "Ars Technica",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T20:00:18+00:00",
           "title": "Back-to-back measles deaths is our new reality; US tally now at 14"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T20:00:18+00:00",
+      "article_modified_raw": "2026-11-24T21:09:43+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "9049c55c61dd8f8b2d4539d8",
@@ -14729,9 +14859,9 @@
       "description": "Amazon has hundreds of satellites in storage waiting for rides to space.",
       "published_utc": "2026-11-24T18:30:36+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -14739,11 +14869,15 @@
           "url": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver",
           "source": "Ars Technica",
           "publisher": "Ars Technica",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T18:30:36+00:00",
           "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T18:30:36+00:00",
+      "article_modified_raw": "2026-11-24T18:51:56+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "9916855ccf3386d98f5ff862",
@@ -14755,9 +14889,9 @@
       "description": "Study: Brewers can still use up to 50% of smoke-tainted hops without affecting beer taste and aroma.",
       "published_utc": "2026-11-24T18:18:37+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -14765,11 +14899,15 @@
           "url": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops",
           "source": "Ars Technica",
           "publisher": "Ars Technica",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T18:18:37+00:00",
           "title": "How brewers can protect beers from smoke-tainted hops"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T18:18:37+00:00",
+      "article_modified_raw": "2026-11-24T19:36:22+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "afc1dcf12b02cec2c761ad7c",
@@ -14923,9 +15061,9 @@
       "description": "You can learn a surprising amount from a few loose teeth.",
       "published_utc": "2026-11-24T16:01:19+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -14933,11 +15071,15 @@
           "url": "https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans",
           "source": "Ars Technica",
           "publisher": "Ars Technica",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T16:01:19+00:00",
           "title": "Homo erectus lived in the rainforest alongside Denisovans"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T16:01:19+00:00",
+      "article_modified_raw": "2026-11-25T15:38:45+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "174aa794b5f032df5e0e21aa",
@@ -16842,6 +16984,84 @@
           "title": "ChatGPT and Codex will share usage limits for paid users starting in December - Android Authority"
         }
       ]
+    },
+    {
+      "id": "2752ee65208179a93ddcc3d5",
+      "topic": "ai",
+      "title": "Understanding ChatGPT and Codex usage limits | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVXlabXh1MWFtTlJjbmJNZmZ1MlRfczh2RFIyT3ZOdDQxNDNtQUtfOF9keFdXMmtTZDFIN0xvenVELXNNYVdsQzZnT3Jud3phMTcxTVEtanVsRmJZeXJZYlI4RVRySkpwQmUxT3JjVGJUTlNQNDF0LXJiSkF2aDdBRzczbVhyVXlHNzNpZlp6UWpyQTg?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "Understanding ChatGPT and Codex usage limits | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-25T01:27:33+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVXlabXh1MWFtTlJjbmJNZmZ1MlRfczh2RFIyT3ZOdDQxNDNtQUtfOF9keFdXMmtTZDFIN0xvenVELXNNYVdsQzZnT3Jud3phMTcxTVEtanVsRmJZeXJZYlI4RVRySkpwQmUxT3JjVGJUTlNQNDF0LXJiSkF2aDdBRzczbVhyVXlHNzNpZlp6UWpyQTg?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T01:27:33+00:00",
+          "title": "Understanding ChatGPT and Codex usage limits | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "8a6a1f5df908a4f9857f7a3d",
+      "topic": "ai",
+      "title": "Daily budgets | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lbkxOeFBhLUVYaXp1am80T29TS0w0VHJfWHJqR2RXRU9OUG5iLWVzQUY1UjVKbVdwNUdTUmZOR09QTnZUVVVUVTNPQkcwekhfY0hLLTlfOFNpWUY2bmltZTVFQ1MzRkw3UUE?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "Daily budgets | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-25T09:46:31+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lbkxOeFBhLUVYaXp1am80T29TS0w0VHJfWHJqR2RXRU9OUG5iLWVzQUY1UjVKbVdwNUdTUmZOR09QTnZUVVVUVTNPQkcwekhfY0hLLTlfOFNpWUY2bmltZTVFQ1MzRkw3UUE?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T09:46:31+00:00",
+          "title": "Daily budgets | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "5ee1b88616cf536462c33465",
+      "topic": "ai",
+      "title": "US core capital goods orders beat expectations in October - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUTRMbWY1UXFycTFRMXBld3JTVWQ3Qm9taksya2U5d3UyaEVkSWNtME92TzFfRmp3bWM3WUlhMGhXRFBSVzNiNTFjaFNYVEtRNXlIdnhsYmI0djhfQXc4VERTNVEybk50NzZsbUFaMXZYU1JkZzhQSmhwQmJJeDJQY2pJNjd4VUVTbHU3ZXVBUDZNRDB5MTd4LWtNbDlCZFh2Vnlub2xTN195djVKRVdLcFVPcjVLUXpm?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "US core capital goods orders beat expectations in October Reuters",
+      "published_utc": "2026-11-25T14:04:09+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUTRMbWY1UXFycTFRMXBld3JTVWQ3Qm9taksya2U5d3UyaEVkSWNtME92TzFfRmp3bWM3WUlhMGhXRFBSVzNiNTFjaFNYVEtRNXlIdnhsYmI0djhfQXc4VERTNVEybk50NzZsbUFaMXZYU1JkZzhQSmhwQmJJeDJQY2pJNjd4VUVTbHU3ZXVBUDZNRDB5MTd4LWtNbDlCZFh2Vnlub2xTN195djVKRVdLcFVPcjVLUXpm?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T14:04:09+00:00",
+          "title": "US core capital goods orders beat expectations in October - Reuters"
+        }
+      ]
     }
   ],
   "date_unknown": [
@@ -16978,13 +17198,39 @@
           "title": "Model Release Notes：ページ変更を観測（要差分確認）"
         }
       ]
+    },
+    {
+      "id": "79a2da7b91590b28c3fb336c",
+      "topic": "ai",
+      "title": "Model Release Notes：ページ変更を観測（要差分確認）",
+      "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help",
+      "description": "前回観測 2026-11-25T22:07:44+00:00 → 今回観測 2026-11-26T01:36:53+00:00。変更内容・発生日は未確定。",
+      "published_utc": null,
+      "date_jst": null,
+      "timestamp_basis": "page_change_observed",
+      "link_role": "monitor_page",
+      "date_quality": "observed_change",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "d4e216700c35",
+      "sources": [
+        {
+          "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help",
+          "timestamp_basis": "page_change_observed",
+          "published_utc": null,
+          "title": "Model Release Notes：ページ変更を観測（要差分確認）"
+        }
+      ]
     }
   ],
   "health": {
-    "ok": 15,
+    "ok": 13,
     "partial": 6,
-    "empty": 1,
-    "skipped": 21,
+    "skipped": 24,
     "manual": 3
   }
 }

@@ -1077,32 +1077,6 @@
       ]
     },
     {
-      "id": "4bb09f4e438ada7b39e1ceb6",
-      "topic": "tws",
-      "title": "Bluetooth® High Data Throughput communications guide - Bluetooth® Technology Website",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTHpUMHh6RWxnMGUwTFVJRXdvNGtib3R4Wjd5M19PU0Rod190Z0RLWFEzSzNkR0hCMFVnRlBxUi1KY2REb09nRDZTZTVsYkc5WWdNSXN0cThWMHZpOW10WTZPRjlrd2pNOFItOWUxTUN4QWN5bzNseUh5TUk3TjQxa2Rjb0NIWGVWYmVNWDZFN0lGN2ZBYVRz?oc=5",
-      "source": "Bluetooth SIG",
-      "publisher": "Bluetooth® Technology Website",
-      "description": "Bluetooth® High Data Throughput communications guide Bluetooth® Technology Website",
-      "published_utc": "2026-11-24T19:23:39+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTHpUMHh6RWxnMGUwTFVJRXdvNGtib3R4Wjd5M19PU0Rod190Z0RLWFEzSzNkR0hCMFVnRlBxUi1KY2REb09nRDZTZTVsYkc5WWdNSXN0cThWMHZpOW10WTZPRjlrd2pNOFItOWUxTUN4QWN5bzNseUh5TUk3TjQxa2Rjb0NIWGVWYmVNWDZFN0lGN2ZBYVRz?oc=5",
-          "source": "Bluetooth SIG",
-          "publisher": "Bluetooth® Technology Website",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T19:23:39+00:00",
-          "title": "Bluetooth® High Data Throughput communications guide - Bluetooth® Technology Website"
-        }
-      ]
-    },
-    {
       "id": "3c2d9b08e62c339b00aed4c3",
       "topic": "tws",
       "title": "CarPlay Ultra coming to these cars, according to Apple",
@@ -2126,32 +2100,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T16:11:48+00:00",
           "title": "PENDING: Elysian X - Head-Fi.org"
-        }
-      ]
-    },
-    {
-      "id": "25e132927eadbfa7cbd12c1b",
-      "topic": "wired",
-      "title": "PD: ThieAudio Monarch MKIII - Head-Fi.org",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KS2k5MC1xLWo4VUc4bFpNTUZLVmExT3VMSVY2OTlFVU9zbWFVeERHWnpBZkdROXlvY2RmbEJnS25WU2dEMnpaR0JySm9XUnpzMjh1dDd5S1NGTlpPcHI3V2d5VGdyckNYVlFucFdHblM4Qm5JZ2w2NXp3?oc=5",
-      "source": "Head-Fi",
-      "publisher": "Head-Fi.org",
-      "description": "PD: ThieAudio Monarch MKIII Head-Fi.org",
-      "published_utc": "2026-11-25T00:34:41+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KS2k5MC1xLWo4VUc4bFpNTUZLVmExT3VMSVY2OTlFVU9zbWFVeERHWnpBZkdROXlvY2RmbEJnS25WU2dEMnpaR0JySm9XUnpzMjh1dDd5S1NGTlpPcHI3V2d5VGdyckNYVlFucFdHblM4Qm5JZ2w2NXp3?oc=5",
-          "source": "Head-Fi",
-          "publisher": "Head-Fi.org",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T00:34:41+00:00",
-          "title": "PD: ThieAudio Monarch MKIII - Head-Fi.org"
         }
       ]
     },
@@ -3858,14 +3806,539 @@
           "title": "Loxjie Wonky Display Issue Solved? - Audio Science Review (ASR) Forum"
         }
       ]
+    },
+    {
+      "id": "8307edb767018597b20387ef",
+      "topic": "wired",
+      "title": "テレビ・レグザの音を“確実に”格上げ。サウンドシステム「RA-B200」のシンクロドライブを徹底検証",
+      "url": "http://www.phileweb.com/review/article/202611/26/6731.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "TVS REGZAから8月に発売されたサウンドバー「RA-B200」が、VGP2027 ライフスタイル分科会で企画賞を受賞。サウンドバーとレグザテレビ内蔵スピーカーを連携する機能「シンクロドライブ」が高く評価された。今回はVGP審査員の折原一也氏が、アワードで評価された本機のサウンド体験を実機検証する。",
+      "published_utc": "2026-11-25T05:36:57+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/review/article/202611/26/6731.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T05:36:57+00:00",
+          "title": "テレビ・レグザの音を“確実に”格上げ。サウンドシステム「RA-B200」のシンクロドライブを徹底検証"
+        }
+      ]
+    },
+    {
+      "id": "36dc96db3e8ae934ac32504f",
+      "topic": "wired",
+      "title": "オーディオ銘機賞2027／オーディオアクセサリー銘機賞2027の全受賞結果を発表！特設サイトが本日オープン",
+      "url": "http://www.phileweb.com/news/audio/202611/26/28437.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "オーディオ文化の向上とマーケットの活性化を目的として創設された「オーディオ銘機賞2027」「オーディオアクセサリー銘機賞2027」。それらの全受賞結果を発表する特設サイトが、本日11月26日にオープンした。",
+      "published_utc": "2026-11-25T10:01:05+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/audio/202611/26/28437.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T10:01:05+00:00",
+          "title": "オーディオ銘機賞2027／オーディオアクセサリー銘機賞2027の全受賞結果を発表！特設サイトが本日オープン"
+        }
+      ]
+    },
+    {
+      "id": "8d4c919096bf189e0601a2b0",
+      "topic": "tws",
+      "title": "TUNE 770NC: Software Update Release Notes - JBL",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLVYyYjVMbGxyY2J4S2NNMWE5OXRrcDROUmY5OGc1M2RjNlMwb1MzQ25zdEJRVkc0UUN4dktDUUlpTkVFSy1ZbElWMlQxV1RuVm84WEM3UXdEV1lGTFlIbDJBcjFNeEVjTHdieU8xYlptQkh1NmxUeWdzOVQ0Nm4xN0pNNUpKV3NLLW05U01LT1pSVC1VTzBILWg0dTF4eDJzS3NoS2VMbnZZOEFH?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "TUNE 770NC: Software Update Release Notes JBL",
+      "published_utc": "2026-11-25T08:59:45+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLVYyYjVMbGxyY2J4S2NNMWE5OXRrcDROUmY5OGc1M2RjNlMwb1MzQ25zdEJRVkc0UUN4dktDUUlpTkVFSy1ZbElWMlQxV1RuVm84WEM3UXdEV1lGTFlIbDJBcjFNeEVjTHdieU8xYlptQkh1NmxUeWdzOVQ0Nm4xN0pNNUpKV3NLLW05U01LT1pSVC1VTzBILWg0dTF4eDJzS3NoS2VMbnZZOEFH?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:59:45+00:00",
+          "title": "TUNE 770NC: Software Update Release Notes - JBL"
+        }
+      ]
+    },
+    {
+      "id": "7ef98a3c7dfc89831b8c55dd",
+      "topic": "tws",
+      "title": "Why can't I hear game or music audio? - JBL",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRnRObU9XczBPNkx2b0xHUFlMXzdvWkQxZkp4X2syUkJwVkp2UGNWa0V4UGhjS1pYNXNmZmFxS2cxNjdRdEJTSjlLcTFyRDVlM1BOZE9YZ09tLTdoWVJlSjhMQVNsZUI4Qk5HNVh0Y2t0T0diQWMzaUEwY214UHJXWGpScUNtMFVzVUpXdnVkY1ZlWHJfejJUMGtra0tMcjktc0ppdEZmMUxKN19PcEw3M1d5TXY3NWVq?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "Why can't I hear game or music audio? JBL",
+      "published_utc": "2026-11-25T13:12:36+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRnRObU9XczBPNkx2b0xHUFlMXzdvWkQxZkp4X2syUkJwVkp2UGNWa0V4UGhjS1pYNXNmZmFxS2cxNjdRdEJTSjlLcTFyRDVlM1BOZE9YZ09tLTdoWVJlSjhMQVNsZUI4Qk5HNVh0Y2t0T0diQWMzaUEwY214UHJXWGpScUNtMFVzVUpXdnVkY1ZlWHJfejJUMGtra0tMcjktc0ppdEZmMUxKN19PcEw3M1d5TXY3NWVq?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T13:12:36+00:00",
+          "title": "Why can't I hear game or music audio? - JBL"
+        }
+      ]
+    },
+    {
+      "id": "772aa3e65a17d7a7e9e0d90c",
+      "topic": "wired",
+      "title": "Flux Lab Mentor (Black) - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50QVFUeGEyVkgxUUh1TjlRZkR2UDNnT0cxT1h0ODdmNk1adGhwX1ozcVlVTGFiSzNxS1lONVZtWEx1UzdtR1IyRTdOTGc5RkU4VU1feDdac092RTRBOEd4Ny1OUU9mNURycGVkc09VZVIwQnM?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Flux Lab Mentor (Black) Head-Fi.org",
+      "published_utc": "2026-11-25T11:19:06+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50QVFUeGEyVkgxUUh1TjlRZkR2UDNnT0cxT1h0ODdmNk1adGhwX1ozcVlVTGFiSzNxS1lONVZtWEx1UzdtR1IyRTdOTGc5RkU4VU1feDdac092RTRBOEd4Ny1OUU9mNURycGVkc09VZVIwQnM?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T11:19:06+00:00",
+          "title": "Flux Lab Mentor (Black) - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "97a690a59952262ba4cc5035",
+      "topic": "wired",
+      "title": "64 Audio Apex Modules (m15, mX) - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tZW03cTZZeG9yUGN3NzRNWkRZY0hrRzlWYmxzSTBuTHFyc3pLa2NjdklCa0NRY1hpUnZ3dU83Nklqa2gwT2NpYTVObnNYR0xkTEJSMVFtZHhjVzc4QVRmbzlCYV9raXNNQ0sxbGZPNEdaVVUtSWRodXNEcXY?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "64 Audio Apex Modules (m15, mX) Head-Fi.org",
+      "published_utc": "2026-11-25T02:39:21+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tZW03cTZZeG9yUGN3NzRNWkRZY0hrRzlWYmxzSTBuTHFyc3pLa2NjdklCa0NRY1hpUnZ3dU83Nklqa2gwT2NpYTVObnNYR0xkTEJSMVFtZHhjVzc4QVRmbzlCYV9raXNNQ0sxbGZPNEdaVVUtSWRodXNEcXY?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T02:39:21+00:00",
+          "title": "64 Audio Apex Modules (m15, mX) - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "4d1b42e37d84458272083684",
+      "topic": "wired",
+      "title": "MEZE EMPYREAN II - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BV0cyR2RycmxpemNmSWpQeG5ESlo4MHhpcjhPUXpHZFlZS0ZrUGVhZ2NrZmdUNXhibXpBZENJbTl2NjZTQkU4b0puRGR0NW9oaXk1eVhEelVmZjhwdE1KbGQwRzJvVzY4V3JZRQ?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "MEZE EMPYREAN II Head-Fi.org",
+      "published_utc": "2026-11-25T11:17:02+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BV0cyR2RycmxpemNmSWpQeG5ESlo4MHhpcjhPUXpHZFlZS0ZrUGVhZ2NrZmdUNXhibXpBZENJbTl2NjZTQkU4b0puRGR0NW9oaXk1eVhEelVmZjhwdE1KbGQwRzJvVzY4V3JZRQ?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T11:17:02+00:00",
+          "title": "MEZE EMPYREAN II - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "a39e5c7f61c70c4749853c90",
+      "topic": "wired",
+      "title": "Endgame headphone journey - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYzdWWTZDeGxjMm5RS0hvVndFYXVINWdIYnFsdDQ1dldfa28tY0o3cm9HVFU4c19VVTgwVmp6WVBqbVkwSGtMWkFFXzM1MjU0dVlZU2RXRnFqVEVybHp1OU02blBhUnpwWFlYY3hUY3VEYzVvQVd1bFpwVkdrMzNkX1RYMnU?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Endgame headphone journey Head-Fi.org",
+      "published_utc": "2026-11-25T14:20:43+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYzdWWTZDeGxjMm5RS0hvVndFYXVINWdIYnFsdDQ1dldfa28tY0o3cm9HVFU4c19VVTgwVmp6WVBqbVkwSGtMWkFFXzM1MjU0dVlZU2RXRnFqVEVybHp1OU02blBhUnpwWFlYY3hUY3VEYzVvQVd1bFpwVkdrMzNkX1RYMnU?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T14:20:43+00:00",
+          "title": "Endgame headphone journey - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "d8a1611d63b98019f05ab2f2",
+      "topic": "wired",
+      "title": "Eletech Iliad 2pin/MMCX 4.4mm IEM Cable - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmRFZkhwT2dkT0lCa0dGVXR5Wi01RDV0TzNYeVQxSXUwLTlzQWpJLXQ5N0xMZHpWeWNYQ0FUbEhEaHY2TG1Gd2hpQXVBdHZNdVZKeTlxLXdwdk9Yd1lmRU5oUWxZWUNnUTlUOXM4ZGJIbFpTbUpoS0IwLVJsaDBGTU92MXIwM1RwT0hB?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Eletech Iliad 2pin/MMCX 4.4mm IEM Cable Head-Fi.org",
+      "published_utc": "2026-11-25T01:38:03+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmRFZkhwT2dkT0lCa0dGVXR5Wi01RDV0TzNYeVQxSXUwLTlzQWpJLXQ5N0xMZHpWeWNYQ0FUbEhEaHY2TG1Gd2hpQXVBdHZNdVZKeTlxLXdwdk9Yd1lmRU5oUWxZWUNnUTlUOXM4ZGJIbFpTbUpoS0IwLVJsaDBGTU92MXIwM1RwT0hB?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T01:38:03+00:00",
+          "title": "Eletech Iliad 2pin/MMCX 4.4mm IEM Cable - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "d0e567c740d5699d736af9ce",
+      "topic": "wired",
+      "title": "Audeze LCD-X (Post 2020 version) - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QbmhQNzI3UU9TajFRV0tFeXloaU8xaEx2UGFSUjVVQ3JzNTZPazVhV2otNDhHN2hvdlppREVycU8tS0RZdklPQ2stWjFLRjRCNllabHk0SnBJbktXMXJZMm1raEtZaWN3VnhRQk5ENHZZMmk1cUFmaUFNckhIYVU?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Audeze LCD-X (Post 2020 version) Head-Fi.org",
+      "published_utc": "2026-11-24T18:59:16+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QbmhQNzI3UU9TajFRV0tFeXloaU8xaEx2UGFSUjVVQ3JzNTZPazVhV2otNDhHN2hvdlppREVycU8tS0RZdklPQ2stWjFLRjRCNllabHk0SnBJbktXMXJZMm1raEtZaWN3VnhRQk5ENHZZMmk1cUFmaUFNckhIYVU?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T18:59:16+00:00",
+          "title": "Audeze LCD-X (Post 2020 version) - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "f756aa321dbd408fab1592f4",
+      "topic": "wired",
+      "title": "A bit of A.I. fun - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0RXRJVzJ4U1hqQUNVVFNPWWt1NzlkSkZ1eUtXUVlreGF2SVE0cVZvMV9TNDBCZ3JyR05pV08xTU1zQVVfTnQwV083aEtfMS01SkU3Sl9pQ1lwamw2ZndEZ2pWZ1dwRmFOWGx6V1dRbw?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "A bit of A.I. fun Head-Fi.org",
+      "published_utc": "2026-11-25T14:39:25+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0RXRJVzJ4U1hqQUNVVFNPWWt1NzlkSkZ1eUtXUVlreGF2SVE0cVZvMV9TNDBCZ3JyR05pV08xTU1zQVVfTnQwV083aEtfMS01SkU3Sl9pQ1lwamw2ZndEZ2pWZ1dwRmFOWGx6V1dRbw?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T14:39:25+00:00",
+          "title": "A bit of A.I. fun - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "6160e6b96502012d1d40ed40",
+      "topic": "wired",
+      "title": "Oriolus Traillii Ti - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFVzBjRGNZck5EOUZyNlVtMlgwM1NLTXFnSmFhazlfdU9RbXNxOVdNRHo5N2FsRnZnakdzdXRoQmxYdXVnbFJ4Nm12U1k2X0dudkVDLVN3ZkNKTWEzNHZNV2dlT0RIRGc4aWhRLXZJV28?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Oriolus Traillii Ti Head-Fi.org",
+      "published_utc": "2026-11-25T02:00:06+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFVzBjRGNZck5EOUZyNlVtMlgwM1NLTXFnSmFhazlfdU9RbXNxOVdNRHo5N2FsRnZnakdzdXRoQmxYdXVnbFJ4Nm12U1k2X0dudkVDLVN3ZkNKTWEzNHZNV2dlT0RIRGc4aWhRLXZJV28?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T02:00:06+00:00",
+          "title": "Oriolus Traillii Ti - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "1ea67e7165778ca0e90824dc",
+      "topic": "wired",
+      "title": "iBasso DX270 R2R Ultra - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xeXBXZTRxSXFKY1NQNnRQcl9RQUg3UlhBRlZ2TGVEOWhiOG44Tzh5eF9WMHYyZndERC15OXJaZGZsTUJYeDl6S2p1QWJuVDlDdy14ellmTG1sT0lTTFkxd0xzMWpIN2dSdDlGOWdXa3N4UEFt?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "iBasso DX270 R2R Ultra Head-Fi.org",
+      "published_utc": "2026-11-25T00:27:39+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xeXBXZTRxSXFKY1NQNnRQcl9RQUg3UlhBRlZ2TGVEOWhiOG44Tzh5eF9WMHYyZndERC15OXJaZGZsTUJYeDl6S2p1QWJuVDlDdy14ellmTG1sT0lTTFkxd0xzMWpIN2dSdDlGOWdXa3N4UEFt?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T00:27:39+00:00",
+          "title": "iBasso DX270 R2R Ultra - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "7ad48a84f9f04e0e134a7f8c",
+      "topic": "wired",
+      "title": "HEDD Audio HEDDphone D1 Headphones with Capra Comfort Strap - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV28zYXVha2c4Mm8yZlBVYmVYNy1LWXJva3R1azVWaFFzc3NlN0NuTk5KSWt1THVTYmszYUlkREg1LWJFMnc0NTU1TV9oLUZrNVZkOEUxR25KUlg1c0lHLTBITXp3OW9tVlZURUpfQVlXYURRSkpMam5JUWRrekstQmhFcWd5T1dvUGt3V0hlZjV6cmpFdFRSbGhONlNVMFl4bmNzYlh3?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "HEDD Audio HEDDphone D1 Headphones with Capra Comfort Strap Head-Fi.org",
+      "published_utc": "2026-11-25T11:17:03+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV28zYXVha2c4Mm8yZlBVYmVYNy1LWXJva3R1azVWaFFzc3NlN0NuTk5KSWt1THVTYmszYUlkREg1LWJFMnc0NTU1TV9oLUZrNVZkOEUxR25KUlg1c0lHLTBITXp3OW9tVlZURUpfQVlXYURRSkpMam5JUWRrekstQmhFcWd5T1dvUGt3V0hlZjV6cmpFdFRSbGhONlNVMFl4bmNzYlh3?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T11:17:03+00:00",
+          "title": "HEDD Audio HEDDphone D1 Headphones with Capra Comfort Strap - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "433b1402eaa183266ae96e32",
+      "topic": "wired",
+      "title": "Kiwi Ears Astral - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1NEJVakh2NjB4cHJLSlozYjhoTTdWb0w1UVNVUUhJc3ZlQUlSazVCRXdCNmFnaDFpclA3RDJWUUp1OXJNRUpqa1pmNGRxaWU1ZFdURDVRTkhUWjJrVUh2VFF2bk9PaDkyRjhOag?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Kiwi Ears Astral Head-Fi.org",
+      "published_utc": "2026-11-24T22:32:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1NEJVakh2NjB4cHJLSlozYjhoTTdWb0w1UVNVUUhJc3ZlQUlSazVCRXdCNmFnaDFpclA3RDJWUUp1OXJNRUpqa1pmNGRxaWU1ZFdURDVRTkhUWjJrVUh2VFF2bk9PaDkyRjhOag?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:32:00+00:00",
+          "title": "Kiwi Ears Astral - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "b6b2bb6a905da19c95923e40",
+      "topic": "wired",
+      "title": "Sennheiser HD 490 PRO - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YMHl4Mkc0U0pwVUhMOFFkVTFKTnM1SFZQb1VSZzRTcEtEWjVIcUoteXhxZjA4ZERtYktxVEpEdFMtX1lHQzBILU1HNGVtcGdNX05uNE15ZTF4VUpKWW1jVXBoR0l3OEFsWlNRdzN0X0RvSEU?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Sennheiser HD 490 PRO Head-Fi.org",
+      "published_utc": "2026-11-25T11:19:05+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YMHl4Mkc0U0pwVUhMOFFkVTFKTnM1SFZQb1VSZzRTcEtEWjVIcUoteXhxZjA4ZERtYktxVEpEdFMtX1lHQzBILU1HNGVtcGdNX05uNE15ZTF4VUpKWW1jVXBoR0l3OEFsWlNRdzN0X0RvSEU?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T11:19:05+00:00",
+          "title": "Sennheiser HD 490 PRO - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "791372bd8b310b7e7796a81c",
+      "topic": "wired",
+      "title": "Astell & Kern UW100MKII - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Ld2VvWTZOdDJIT1pRM2dZM3REMGRQeGVjaUo4N2puUHZvV2VUdzhhY3l2OERlS2lOYy1iMGhjNWo0V2lBcWJXYTViYjNFVE5OQTkySFpnTW1GOVAtR20tYTRKYUQ4ZkQ5akRuSURBVEZfUVk?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Astell & Kern UW100MKII Head-Fi.org",
+      "published_utc": "2026-11-25T04:57:04+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Ld2VvWTZOdDJIT1pRM2dZM3REMGRQeGVjaUo4N2puUHZvV2VUdzhhY3l2OERlS2lOYy1iMGhjNWo0V2lBcWJXYTViYjNFVE5OQTkySFpnTW1GOVAtR20tYTRKYUQ4ZkQ5akRuSURBVEZfUVk?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T04:57:04+00:00",
+          "title": "Astell & Kern UW100MKII - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "7638b1e195d54ff8317d3f13",
+      "topic": "portable_dac",
+      "title": "FiiO K13 R2R DAC/Ampli Casque + Fiio DARKSIDE PRO PSU COMBO (Mai 2026) - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVZvOGNGU3BIRlNiMjFmV0tzX284Zm82QnhoY0t0Vl9LcnhHanE0RFB4bmdaWmdnbTVDN0tURmtlUUhTTTBraXJRZUNHUkVRTWF2aTJfRUhvZlNZWFNnZ2ZnczBaNG9sVzRxbG1leDJYaDhFVFVsc1FMVUNZazdmTG5rM29RSnVZQWVvRjFhU01vb3lKMGwyVXMzeHAwekp5UVNkc3k4NUlTTGU4UWM4?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "FiiO K13 R2R DAC/Ampli Casque + Fiio DARKSIDE PRO PSU COMBO (Mai 2026) Head-Fi.org",
+      "published_utc": "2026-11-24T18:59:17+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVZvOGNGU3BIRlNiMjFmV0tzX284Zm82QnhoY0t0Vl9LcnhHanE0RFB4bmdaWmdnbTVDN0tURmtlUUhTTTBraXJRZUNHUkVRTWF2aTJfRUhvZlNZWFNnZ2ZnczBaNG9sVzRxbG1leDJYaDhFVFVsc1FMVUNZazdmTG5rM29RSnVZQWVvRjFhU01vb3lKMGwyVXMzeHAwekp5UVNkc3k4NUlTTGU4UWM4?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T18:59:17+00:00",
+          "title": "FiiO K13 R2R DAC/Ampli Casque + Fiio DARKSIDE PRO PSU COMBO (Mai 2026) - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "0e23ba373c6769e86e022e2f",
+      "topic": "wired",
+      "title": "Hiby R6 Pro Max - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NVVg1OWhsRUN6SF9abmd4YnhaNV90dnhIdWl3cmNqd3dLenhEWThvcG1hdzZXWjV4V05xTnBTRzQza0VlOHlzWEZtUjd3SkVuaE1yRjV5NUlkTlNaOTdESjZkeVMxT1Fzd2NN?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Hiby R6 Pro Max Head-Fi.org",
+      "published_utc": "2026-11-25T11:17:02+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NVVg1OWhsRUN6SF9abmd4YnhaNV90dnhIdWl3cmNqd3dLenhEWThvcG1hdzZXWjV4V05xTnBTRzQza0VlOHlzWEZtUjd3SkVuaE1yRjV5NUlkTlNaOTdESjZkeVMxT1Fzd2NN?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T11:17:02+00:00",
+          "title": "Hiby R6 Pro Max - Head-Fi.org"
+        }
+      ]
     }
   ],
-  "date_unknown": [],
+  "date_unknown": [
+    {
+      "id": "b81513af5f02b7dfb733be0c",
+      "topic": "wired",
+      "title": "Kiwi Ears x ふぐみかん: EMBER | 2DD + 4BA Hybrid IEM",
+      "url": "https://www.linsoul.com/products/kiwi-ears-x-fugumikan-ember",
+      "source": "Linsoul",
+      "publisher": "Linsoul",
+      "description": "Kiwi Ears x ふぐみかん (Fugumikan) EMBER is a limited 2DD + 4BA hybrid IEM — dual dynamic sub-woofer, four balanced armatures and a 3-way crossover.",
+      "published_utc": null,
+      "date_jst": null,
+      "timestamp_basis": "listing_seen",
+      "link_role": "source_article",
+      "date_quality": "unknown",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://www.linsoul.com/products/kiwi-ears-x-fugumikan-ember",
+          "source": "Linsoul",
+          "publisher": "Linsoul",
+          "timestamp_basis": "listing_seen",
+          "published_utc": null,
+          "title": "Kiwi Ears x ふぐみかん: EMBER | 2DD + 4BA Hybrid IEM"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
+    }
+  ],
   "health": {
-    "partial": 16,
-    "ok": 12,
+    "partial": 20,
+    "ok": 11,
+    "deferred": 5,
     "empty": 1,
-    "deferred": 8,
     "skipped": 5,
     "manual": 2
   }

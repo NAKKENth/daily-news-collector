@@ -412,6 +412,34 @@
       ]
     },
     {
+      "id": "b8ac2f6ce45958076a0167ab",
+      "topic": "racing_games",
+      "title": "Paddock Wire 0.5.2 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wb0hPU3NJYl9uNktVRUl6eTdyN2N2WnQweFdMYWR3aHdLV2dnSmN2T25pU3J0Yzhjam1Pa2lNUV83SEZXVFpuX1doS1pOemFYbHN1c2FGMFppazl6Y2NVSW5fUQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Paddock Wire 0.5.2 overtake.gg",
+      "published_utc": "2026-11-23T16:19:09+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wb0hPU3NJYl9uNktVRUl6eTdyN2N2WnQweFdMYWR3aHdLV2dnSmN2T25pU3J0Yzhjam1Pa2lNUV83SEZXVFpuX1doS1pOemFYbHN1c2FGMFppazl6Y2NVSW5fUQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T16:19:09+00:00",
+          "title": "Paddock Wire 0.5.2 - overtake.gg"
+        }
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
+    },
+    {
       "id": "50e08fb0a8bc1bfecb706fa7",
       "topic": "racing_games",
       "title": "Driver Display 1.2.16 - overtake.gg",
@@ -494,11 +522,11 @@
     {
       "id": "024d2f3ad76c55b47c9df462",
       "topic": "racing_games",
-      "title": "ButtMeter 0.1.0 - overtake.gg",
+      "title": "ButtMeter 0.1.1 - overtake.gg",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CUmpZUDFVZFBoZnNxZVRRRmEtQ0twSWU1RWtpYU5iLXQwdkZHb3B1MTJBUVMwT05HbGVRNEhwMHp1NzFNRHp0aXFicHBLNUN6aHVkMzU3VGk4TzNXVGNJ?oc=5",
       "source": "OverTake",
       "publisher": "overtake.gg",
-      "description": "ButtMeter 0.1.0 overtake.gg",
+      "description": "ButtMeter 0.1.1 overtake.gg",
       "published_utc": "2026-11-23T17:22:21+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
@@ -513,7 +541,7 @@
           "publisher": "overtake.gg",
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T17:22:21+00:00",
-          "title": "ButtMeter 0.1.0 - overtake.gg"
+          "title": "ButtMeter 0.1.1 - overtake.gg"
         }
       ],
       "enrichment": "failed",
@@ -2244,34 +2272,6 @@
       ]
     },
     {
-      "id": "bd28146c69eaf87f3396cfe6",
-      "topic": "handhelds",
-      "title": "CPM 2 - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rTWtsLV9VX0t4VGZnYVFCMWNCeHk1bTF5RTc2TzNCSExvVERJbDBwWXZnX2trWUNocEphaVI1VENMbG9WWHNnbWI0NGt1T2pBVWNjUG5jSUR3SEg0Y3c?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "CPM 2 Steam",
-      "published_utc": "2026-11-24T14:04:01+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rTWtsLV9VX0t4VGZnYVFCMWNCeHk1bTF5RTc2TzNCSExvVERJbDBwWXZnX2trWUNocEphaVI1VENMbG9WWHNnbWI0NGt1T2pBVWNjUG5jSUR3SEg0Y3c?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T14:04:01+00:00",
-          "title": "CPM 2 - Steam"
-        }
-      ],
-      "enrichment": "failed",
-      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
-    },
-    {
       "id": "3e58fdd5cd8c9fa3aca78be5",
       "topic": "handhelds",
       "title": "Save 10% on Dungeonbound on Steam - Steam",
@@ -2878,32 +2878,6 @@
       ]
     },
     {
-      "id": "2f10957c274bda0c7cff67e4",
-      "topic": "racing_games",
-      "title": "Hyundai i20 N Rally2 - Pelamourgues - Monte-Carlo 2026 v 0.1 - overtake.gg",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNamtvRTJGczFSVmh2MHdRZWYwVzhJSk5mMnJXZW05MmNSdkoxQmRBVjVjQTRxbkNTOW9uRzR4cnpfd1BfdktlbDU4UVlRbE12VXRjOXNCalNSb2RGZkVCZ0JpUmoyb2RsVnQybTJubm83bFBmRWFsU09SX1VTS0pwWmIxNFRaaDhJc1IxWThXV1U2TVdWdWc?oc=5",
-      "source": "OverTake",
-      "publisher": "overtake.gg",
-      "description": "Hyundai i20 N Rally2 - Pelamourgues - Monte-Carlo 2026 v 0.1 overtake.gg",
-      "published_utc": "2026-11-23T22:10:06+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNamtvRTJGczFSVmh2MHdRZWYwVzhJSk5mMnJXZW05MmNSdkoxQmRBVjVjQTRxbkNTOW9uRzR4cnpfd1BfdktlbDU4UVlRbE12VXRjOXNCalNSb2RGZkVCZ0JpUmoyb2RsVnQybTJubm83bFBmRWFsU09SX1VTS0pwWmIxNFRaaDhJc1IxWThXV1U2TVdWdWc?oc=5",
-          "source": "OverTake",
-          "publisher": "overtake.gg",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T22:10:06+00:00",
-          "title": "Hyundai i20 N Rally2 - Pelamourgues - Monte-Carlo 2026 v 0.1 - overtake.gg"
-        }
-      ]
-    },
-    {
       "id": "14b870507d32a46d2fe9110e",
       "topic": "racing_games",
       "title": "Porsche TAG Heuer Racing (takeover red bull racing) v0 - overtake.gg",
@@ -3394,6 +3368,214 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T00:23:17+00:00",
           "title": "Pathos - Steam"
+        }
+      ]
+    },
+    {
+      "id": "5de5537d2fe9a55c73622814",
+      "topic": "racing_games",
+      "title": "Sauber 2025 Miami Set (Car + Suit) - Default Replacement 1.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLXIzekUtTDhLNi1uRC1QaDJ0Zjh5M0tHcWhYdlNFSnI5RU5qc05jR19mRHo0cVNzR1ZQQzdVd0RqdjZIandySFZMVEhnUmQzQTUyd3l3X2FMOVA0bEZreUc3YlhVckU5OUZSLUtRRlZIbkZqVldKXy1SLWNLUC1IUmFHZDdrcUtEbXdMZ3JEdDZmbUt6MVE?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Sauber 2025 Miami Set (Car + Suit) - Default Replacement 1.0 overtake.gg",
+      "published_utc": "2026-11-23T17:26:39+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLXIzekUtTDhLNi1uRC1QaDJ0Zjh5M0tHcWhYdlNFSnI5RU5qc05jR19mRHo0cVNzR1ZQQzdVd0RqdjZIandySFZMVEhnUmQzQTUyd3l3X2FMOVA0bEZreUc3YlhVckU5OUZSLUtRRlZIbkZqVldKXy1SLWNLUC1IUmFHZDdrcUtEbXdMZ3JEdDZmbUt6MVE?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T17:26:39+00:00",
+          "title": "Sauber 2025 Miami Set (Car + Suit) - Default Replacement 1.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "8d995a3eb0296193bef36f81",
+      "topic": "racing_games",
+      "title": "CLEAR WINDSHIELD 2.1 2.1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QaU1VUkJLWXphcmNpRVRWOUlkOU11Vk4wMGd5alZ5SVBpWVBNNzNkQ05NUlNGMC16MzdGS2FheVlIZFVoNFZRWDFvTjl6a1VPZXc2V3VuYnlVZjVwZDVhOEdDVmY4cUF1eTk3R2x3?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "CLEAR WINDSHIELD 2.1 2.1 overtake.gg",
+      "published_utc": "2026-11-23T18:12:06+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QaU1VUkJLWXphcmNpRVRWOUlkOU11Vk4wMGd5alZ5SVBpWVBNNzNkQ05NUlNGMC16MzdGS2FheVlIZFVoNFZRWDFvTjl6a1VPZXc2V3VuYnlVZjVwZDVhOEdDVmY4cUF1eTk3R2x3?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T18:12:06+00:00",
+          "title": "CLEAR WINDSHIELD 2.1 2.1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "7a5d6d6f5bb21e36ab09fd2f",
+      "topic": "racing_games",
+      "title": "Pastor Maldonado is back !!! (Kamui and Chadwick as well) 1.1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjJpdjJENHRPRXRBck1udlpxbkxKbjhDa3diZGV3cWVjYXQ3UUZoanlVbmxtSUZtN1gwLVhTWnExU1FIV2ZXN0JwZjJPSEQ5Wmd2UWx2QU4xdlVwRFUxaEd5Zi04NDJIS0tWN2k4SFBZczgxcEwzd2U2eGU5bm1zOGZqakhFZnFDOVJMaDVHSlgtNDFQSzlJ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Pastor Maldonado is back !!! (Kamui and Chadwick as well) 1.1 overtake.gg",
+      "published_utc": "2026-11-23T17:20:38+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjJpdjJENHRPRXRBck1udlpxbkxKbjhDa3diZGV3cWVjYXQ3UUZoanlVbmxtSUZtN1gwLVhTWnExU1FIV2ZXN0JwZjJPSEQ5Wmd2UWx2QU4xdlVwRFUxaEd5Zi04NDJIS0tWN2k4SFBZczgxcEwzd2U2eGU5bm1zOGZqakhFZnFDOVJMaDVHSlgtNDFQSzlJ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T17:20:38+00:00",
+          "title": "Pastor Maldonado is back !!! (Kamui and Chadwick as well) 1.1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "db6d8dfe103b556b2485fb81",
+      "topic": "racing_games",
+      "title": "D 76 Route d Excideuil Dordogne 1.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1QzMxOXE2eDZPTUxKQ054ZWxFNTZueVZ5bnJJc2hWc2Y4OUhURzFkQWVJNEVHWngyRnJBQl9ERktnS1pxMkJsTFg1cDRkcDZ2dHVZWktudDRwTEltNHpqQ196Y1dsS2VwbXRhQ2tjTkFWTXFsM2hZcUEyRDQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "D 76 Route d Excideuil Dordogne 1.0 overtake.gg",
+      "published_utc": "2026-11-24T14:54:28+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1QzMxOXE2eDZPTUxKQ054ZWxFNTZueVZ5bnJJc2hWc2Y4OUhURzFkQWVJNEVHWngyRnJBQl9ERktnS1pxMkJsTFg1cDRkcDZ2dHVZWktudDRwTEltNHpqQ196Y1dsS2VwbXRhQ2tjTkFWTXFsM2hZcUEyRDQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T14:54:28+00:00",
+          "title": "D 76 Route d Excideuil Dordogne 1.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "6194c69783d07d50b0c8c2b4",
+      "topic": "racing_games",
+      "title": "Kart Silverstone 1.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xaG0yQU9DSWx0bjJhOTdyeTNOU0lFZE9Za3hfcTJ2YmJ2NFJLWDVhVDBpWEhFYVM1QXBNd3ctcmIzWmdrU29oSk1Tby12LW0zVkRURF94QWZtTEJQbW53OEE3RDlFY1RQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Kart Silverstone 1.0 overtake.gg",
+      "published_utc": "2026-11-23T15:22:02+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xaG0yQU9DSWx0bjJhOTdyeTNOU0lFZE9Za3hfcTJ2YmJ2NFJLWDVhVDBpWEhFYVM1QXBNd3ctcmIzWmdrU29oSk1Tby12LW0zVkRURF94QWZtTEJQbW53OEE3RDlFY1RQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T15:22:02+00:00",
+          "title": "Kart Silverstone 1.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "11946afdc8c205b0a7f6549c",
+      "topic": "racing_games",
+      "title": "Overtake = Hotlap + Tires punctures + Tire R&D blocked 1.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdDJzeDNqaUVNZVlSRkNhWkFzZU9GaFFIZm01MnlZa0hXQkZyZFRVRnZVMlhmd2ZsRFNScGhjLVJadldNS0U5aWlwMy15c1FVNTlfQ2ktQVpxTUk4ZXNFc2YyZkhIYVlnVkJvR3dfeFowN0diNWkwNV9vMEhTbXJYbGxhTC1MMVFPanM5YUNKdnhRbTg?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Overtake = Hotlap + Tires punctures + Tire R&D blocked 1.0 overtake.gg",
+      "published_utc": "2026-11-23T15:20:47+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdDJzeDNqaUVNZVlSRkNhWkFzZU9GaFFIZm01MnlZa0hXQkZyZFRVRnZVMlhmd2ZsRFNScGhjLVJadldNS0U5aWlwMy15c1FVNTlfQ2ktQVpxTUk4ZXNFc2YyZkhIYVlnVkJvR3dfeFowN0diNWkwNV9vMEhTbXJYbGxhTC1MMVFPanM5YUNKdnhRbTg?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T15:20:47+00:00",
+          "title": "Overtake = Hotlap + Tires punctures + Tire R&D blocked 1.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "c6d07baa9be232096d20ea95",
+      "topic": "racing_games",
+      "title": "F1 2026 Customizable Gear Ratios V0.3.1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBycTVGeDVKb3Bjc2NCQXBLV2R2OC1ubHliQlUxZzZEeE1rZlJ1M2U3dGwwd0VpcTVDbmJvWFczLWFEMDhuS2lMczd4ODBIdWQ1cmkxNERoeDRPYzA3V3QzeUdrMzdxbkJmTzlzc08wY3UzSG1mQUh6RllOb08xQQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "F1 2026 Customizable Gear Ratios V0.3.1 overtake.gg",
+      "published_utc": "2026-11-23T15:31:52+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBycTVGeDVKb3Bjc2NCQXBLV2R2OC1ubHliQlUxZzZEeE1rZlJ1M2U3dGwwd0VpcTVDbmJvWFczLWFEMDhuS2lMczd4ODBIdWQ1cmkxNERoeDRPYzA3V3QzeUdrMzdxbkJmTzlzc08wY3UzSG1mQUh6RllOb08xQQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T15:31:52+00:00",
+          "title": "F1 2026 Customizable Gear Ratios V0.3.1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "876fddd47cfd757e856a58b9",
+      "topic": "racing_games",
+      "title": "Oldsmobile Starfire 98 1957 1.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VdDIyZ2QwME5EOV9vekMxQjlJdjZqOWF2dktfWmZTeFh2RXFqVXNBSl8xd3hjRFlaUVdLRTRYNzI0dzhVb1BDSW8yZDM5SHZtZ296aGhZSDk0VXpqRUZpTzh4WGtEUTNMVjgtT1dreXByNGJMcTlr?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Oldsmobile Starfire 98 1957 1.0 overtake.gg",
+      "published_utc": "2026-11-23T16:19:13+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VdDIyZ2QwME5EOV9vekMxQjlJdjZqOWF2dktfWmZTeFh2RXFqVXNBSl8xd3hjRFlaUVdLRTRYNzI0dzhVb1BDSW8yZDM5SHZtZ296aGhZSDk0VXpqRUZpTzh4WGtEUTNMVjgtT1dreXByNGJMcTlr?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T16:19:13+00:00",
+          "title": "Oldsmobile Starfire 98 1957 1.0 - overtake.gg"
         }
       ]
     }

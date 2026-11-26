@@ -943,6 +943,32 @@
       ]
     },
     {
+      "id": "25e132927eadbfa7cbd12c1b",
+      "topic": "wired",
+      "title": "PD: ThieAudio Monarch MKIII - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KS2k5MC1xLWo4VUc4bFpNTUZLVmExT3VMSVY2OTlFVU9zbWFVeERHWnpBZkdROXlvY2RmbEJnS25WU2dEMnpaR0JySm9XUnpzMjh1dDd5S1NGTlpPcHI3V2d5VGdyckNYVlFucFdHblM4Qm5JZ2w2NXp3?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "PD: ThieAudio Monarch MKIII Head-Fi.org",
+      "published_utc": "2026-11-23T22:34:38+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KS2k5MC1xLWo4VUc4bFpNTUZLVmExT3VMSVY2OTlFVU9zbWFVeERHWnpBZkdROXlvY2RmbEJnS25WU2dEMnpaR0JySm9XUnpzMjh1dDd5S1NGTlpPcHI3V2d5VGdyckNYVlFucFdHblM4Qm5JZ2w2NXp3?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T22:34:38+00:00",
+          "title": "PD: ThieAudio Monarch MKIII - Head-Fi.org"
+        }
+      ]
+    },
+    {
       "id": "8fccb40810d0f65d2138aaf5",
       "topic": "portable_dac",
       "title": "first dac/amp - Head-Fi.org",
@@ -2095,6 +2121,214 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T09:00:00+00:00",
           "title": "HONOR Magic 9 Pro Max is a video beast, and it's just launched outside China - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "817b3b11b3bc92585512dca9",
+      "topic": "tws",
+      "title": "Connecting a Bluetooth Device | Lifestyle® 235 series II home entertainment system - Bose",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcGNQUFd0UTlfaWJlUEFGLVItNlJ2b0JQeDFIWG5Relp4SXo2UFNjRTdHUkpEQU1sUkQzdmwxZ05pRW4tNndYUWRhck81WW1FSkdMNWtPZVRWY3RIQVRKT2tYaEVCZ3Q3Y0s5SGd1SHl1dmRGZEFTazNxbDNybl9ocGYyX245Zw?oc=5",
+      "source": "Bose",
+      "publisher": "Bose",
+      "description": "Connecting a Bluetooth Device | Lifestyle® 235 series II home entertainment system Bose",
+      "published_utc": "2026-11-24T12:46:34+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcGNQUFd0UTlfaWJlUEFGLVItNlJ2b0JQeDFIWG5Relp4SXo2UFNjRTdHUkpEQU1sUkQzdmwxZ05pRW4tNndYUWRhck81WW1FSkdMNWtPZVRWY3RIQVRKT2tYaEVCZ3Q3Y0s5SGd1SHl1dmRGZEFTazNxbDNybl9ocGYyX245Zw?oc=5",
+          "source": "Bose",
+          "publisher": "Bose",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T12:46:34+00:00",
+          "title": "Connecting a Bluetooth Device | Lifestyle® 235 series II home entertainment system - Bose"
+        }
+      ]
+    },
+    {
+      "id": "8c6c78a1012e84028229b642",
+      "topic": "portable_dac",
+      "title": "[PD] Shanling UA7 Copper Cu Dongle Tube DAC/Amplifier - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSTNULW1QTUNMNkRaNGExWEoybHpUV2hJOGhzRVZlcHdJTDh6RGhTTTRYN2J5anFTNkFDcjY1dUtzZWsyYllSRDl5LTdhQWNNa1RfN09TWHY0eTNQQ3NnM3RYU0JjZHFORVQybVpBazhOWXlRNEtSeHc5M1hpV210TWJkU18xR2l4cXhZaWNpcGtzOHBRNTNnV19KTQ?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "[PD] Shanling UA7 Copper Cu Dongle Tube DAC/Amplifier Head-Fi.org",
+      "published_utc": "2026-11-24T00:56:46+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSTNULW1QTUNMNkRaNGExWEoybHpUV2hJOGhzRVZlcHdJTDh6RGhTTTRYN2J5anFTNkFDcjY1dUtzZWsyYllSRDl5LTdhQWNNa1RfN09TWHY0eTNQQ3NnM3RYU0JjZHFORVQybVpBazhOWXlRNEtSeHc5M1hpV210TWJkU18xR2l4cXhZaWNpcGtzOHBRNTNnV19KTQ?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T00:56:46+00:00",
+          "title": "[PD] Shanling UA7 Copper Cu Dongle Tube DAC/Amplifier - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "9fbccfff3a98ed7f9445b408",
+      "topic": "wired",
+      "title": "Macbeth Forte ears - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rNXBLTF95TWxleVNRSEJodkI0VTRsTmpGUmVad0gwOG9zX1VWVGxRNjF4TktWcDJqM0FPRjVJdUFTMzhZbU92eHN5ajRUMHA2SmhlTkE4d3hVNmh4cUJjM3pZM3NsSVRwOE9tc2RvYw?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Macbeth Forte ears Head-Fi.org",
+      "published_utc": "2026-11-23T18:40:47+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rNXBLTF95TWxleVNRSEJodkI0VTRsTmpGUmVad0gwOG9zX1VWVGxRNjF4TktWcDJqM0FPRjVJdUFTMzhZbU92eHN5ajRUMHA2SmhlTkE4d3hVNmh4cUJjM3pZM3NsSVRwOE9tc2RvYw?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T18:40:47+00:00",
+          "title": "Macbeth Forte ears - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "1162544cc92351961fd2428a",
+      "topic": "wired",
+      "title": "FATFreq Grand Maestro Anniversary or Founders Edition. - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNUY3WTdvTzFsTDNNNzdaWllTaTdUWU9lU0NTWFlTX3VMcjliQ0dTcGVMME1idVg1dDBabnpkaWlocEMxUHlUcUM5a19jQ21Ba3FlekJGbTJNVFg3RW1vQ3NsdlhhNkRmRHFzYlB3VHVtRmRlbTFneFRHLXdYMGQ1d0VHQTdDYmZwVUhkRC1zRHJSTHV6LTVLWVlodERiUQ?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "FATFreq Grand Maestro Anniversary or Founders Edition. Head-Fi.org",
+      "published_utc": "2026-11-24T06:33:38+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNUY3WTdvTzFsTDNNNzdaWllTaTdUWU9lU0NTWFlTX3VMcjliQ0dTcGVMME1idVg1dDBabnpkaWlocEMxUHlUcUM5a19jQ21Ba3FlekJGbTJNVFg3RW1vQ3NsdlhhNkRmRHFzYlB3VHVtRmRlbTFneFRHLXdYMGQ1d0VHQTdDYmZwVUhkRC1zRHJSTHV6LTVLWVlodERiUQ?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T06:33:38+00:00",
+          "title": "FATFreq Grand Maestro Anniversary or Founders Edition. - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "937a62982faa743a833d287b",
+      "topic": "wired",
+      "title": "Fiio M27 - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wdFR3OTR5V0d0QzF2TkZpRzhmdERpeEhvVHNtV25CbmJmY3NITnM4aGZJejZQYUJmcTJ6QVFPOElvcm9qZzBQTHFadkFBQmxoX0lzZi0zcWNvRzMwTHg3clJB?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Fiio M27 Head-Fi.org",
+      "published_utc": "2026-11-23T22:02:24+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wdFR3OTR5V0d0QzF2TkZpRzhmdERpeEhvVHNtV25CbmJmY3NITnM4aGZJejZQYUJmcTJ6QVFPOElvcm9qZzBQTHFadkFBQmxoX0lzZi0zcWNvRzMwTHg3clJB?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T22:02:24+00:00",
+          "title": "Fiio M27 - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "b6c66c8aa3de559576c1af0a",
+      "topic": "wired",
+      "title": "IC: practically new Eletech azrael - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMzBsazhRLWdBSUhnQlozOTkwVFBCVDBFQTFvUlpLNmlVWlo1MjgtbktaZFZtTkc5a3ZoT3VCeUtpRGRDaGcyMkNJaE05TnRtbVlPVV9PNzlaWnBmSUJzQ0VSa3FNR1Fna0dIWlcwZE1wc3pyekhkVG5LWm4xUW9qdUxCSQ?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "IC: practically new Eletech azrael Head-Fi.org",
+      "published_utc": "2026-11-24T11:00:58+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMzBsazhRLWdBSUhnQlozOTkwVFBCVDBFQTFvUlpLNmlVWlo1MjgtbktaZFZtTkc5a3ZoT3VCeUtpRGRDaGcyMkNJaE05TnRtbVlPVV9PNzlaWnBmSUJzQ0VSa3FNR1Fna0dIWlcwZE1wc3pyekhkVG5LWm4xUW9qdUxCSQ?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T11:00:58+00:00",
+          "title": "IC: practically new Eletech azrael - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "7a9b53c4758525aa7db575da",
+      "topic": "wired",
+      "title": "Noble Chronicle - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5STBjaTB6aFF5OExWTkduWDM4ZDdaZVBfQ3NIR1AtX2JQc19zbnBjdU9UX3ZnMngzY2IxbWNDVW9CaHc3MDl5NVBNenl0bXZSMnduMTdxbW8tMENDMG5NOWo5YngtRDJ5WVRz?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Noble Chronicle Head-Fi.org",
+      "published_utc": "2026-11-23T22:34:38+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5STBjaTB6aFF5OExWTkduWDM4ZDdaZVBfQ3NIR1AtX2JQc19zbnBjdU9UX3ZnMngzY2IxbWNDVW9CaHc3MDl5NVBNenl0bXZSMnduMTdxbW8tMENDMG5NOWo5YngtRDJ5WVRz?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T22:34:38+00:00",
+          "title": "Noble Chronicle - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "3667bd758dfb46cbd4ad29e2",
+      "topic": "wired",
+      "title": "Dunu glacier 2 pin - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWemhBRGZOMEFZSnNnZTB3NnFWUWVtYzJPQ3g0VDNZc3h4OG9tbWJ4Zlc3MHBWNEl6NGh4dWRRRnBhNVpoMm1OOW1YNlVDQmpPZDRuc2ZEV2dRUy1qaHVpWm9wb2VWQmxqZmFIZHJKTQ?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Dunu glacier 2 pin Head-Fi.org",
+      "published_utc": "2026-11-23T22:05:49+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWemhBRGZOMEFZSnNnZTB3NnFWUWVtYzJPQ3g0VDNZc3h4OG9tbWJ4Zlc3MHBWNEl6NGh4dWRRRnBhNVpoMm1OOW1YNlVDQmpPZDRuc2ZEV2dRUy1qaHVpWm9wb2VWQmxqZmFIZHJKTQ?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T22:05:49+00:00",
+          "title": "Dunu glacier 2 pin - Head-Fi.org"
         }
       ]
     }

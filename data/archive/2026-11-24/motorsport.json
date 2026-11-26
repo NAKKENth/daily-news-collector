@@ -397,6 +397,32 @@
       "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
+      "id": "ed8204e57d97b68a4977fe96",
+      "topic": "F1",
+      "title": "PALMER: Where do Ferrari go from here after Las Vegas clash? - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOemMyb2RKeVUxRkUzV2l5b2pVY0pmV0Z4VFpwVFdBTUhsdEpGTTRHdFJaekhOUXhYb1NROGVHcS1CV2RjaUdQX1M1RS05OU83cVI2SUozQUZuLWZWb213c1dzamxnUXA3TFE4bWtWbkNtbTJ4c0FtRnBmWmlmS2QwQS1oZEhZX1BuVU1SYjRFM1JOT3RIODBub0FQc1A1enBONmxpa2RaaFFJTm40MWpQcXkyUGZORTJPeUNqSWo4WndCUUtMZlFMR1d1alFncW8?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "PALMER: Where do Ferrari go from here after Las Vegas clash? Formula 1",
+      "published_utc": "2026-11-24T11:53:08+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOemMyb2RKeVUxRkUzV2l5b2pVY0pmV0Z4VFpwVFdBTUhsdEpGTTRHdFJaekhOUXhYb1NROGVHcS1CV2RjaUdQX1M1RS05OU83cVI2SUozQUZuLWZWb213c1dzamxnUXA3TFE4bWtWbkNtbTJ4c0FtRnBmWmlmS2QwQS1oZEhZX1BuVU1SYjRFM1JOT3RIODBub0FQc1A1enBONmxpa2RaaFFJTm40MWpQcXkyUGZORTJPeUNqSWo4WndCUUtMZlFMR1d1alFncW8?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T11:53:08+00:00",
+          "title": "PALMER: Where do Ferrari go from here after Las Vegas clash? - Formula 1"
+        }
+      ]
+    },
+    {
       "id": "dd550a25ef6bd16694391425",
       "topic": "F1",
       "title": "The timeline of Verstappen and Russell’s long rivalry - Formula 1",
@@ -5705,32 +5731,6 @@
       ]
     },
     {
-      "id": "1ebc8b7e3407392254dd9d95",
-      "topic": "F1",
-      "title": "Max Verstappen at centre of McLaren revelation over Lando Norris - PlanetF1",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaDJTMUtjX0F2UEpIbVNKSXZiN1g1d2ZvWlpuZ1RKaGwtd0UtSlFTeXJqaWhqRUtkLUk5c21Kb2Vic1pCZ1h1ZUdkWGM1WVAyVG9KeEJlTkJLWTVCVE1TMzJXRjdyZzZzYk5MdlRnVTV1NzlZdTJjMWtyTnkzQncyTTBB?oc=5",
-      "source": "PlanetF1",
-      "publisher": "PlanetF1",
-      "description": "Max Verstappen at centre of McLaren revelation over Lando Norris PlanetF1",
-      "published_utc": "2026-11-24T13:03:51+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技名一致・新規性の確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaDJTMUtjX0F2UEpIbVNKSXZiN1g1d2ZvWlpuZ1RKaGwtd0UtSlFTeXJqaWhqRUtkLUk5c21Kb2Vic1pCZ1h1ZUdkWGM1WVAyVG9KeEJlTkJLWTVCVE1TMzJXRjdyZzZzYk5MdlRnVTV1NzlZdTJjMWtyTnkzQncyTTBB?oc=5",
-          "source": "PlanetF1",
-          "publisher": "PlanetF1",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T13:03:51+00:00",
-          "title": "Max Verstappen at centre of McLaren revelation over Lando Norris - PlanetF1"
-        }
-      ]
-    },
-    {
       "id": "a2d3f56238409ec9d3bbc5c2",
       "topic": "F1",
       "title": "Oscar Piastri X-rated team radio triggers McLaren response - PlanetF1",
@@ -8798,32 +8798,6 @@
       ]
     },
     {
-      "id": "c0b1f7152d2d96ac30c2fcdc",
-      "topic": "F1",
-      "title": "Why the Barcelona-Catalunya Grand Prix is special - Formula 1",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcVpiRC1WMVl1UGg0SDdHQ3JrMkNOeWJrU2d0RENzWWtXOXpLLVpXUVo2OGh5Mmh4VmFwdWRnd2wwX0xjM1U2VnpnRzdBeHRVcmtWeDlDazVLNkxOcF9UZFNkUEM2dkprazA3YkNpX3RSU0FzSU81bGxhbFlwMEVzWE8xeDVKTkozNlpGZU41dUhPVmpQMEF1eHVmRjk0MGNobk1sTkxDLWItMFRmVXdJbmJSM3pCZDhqWm5OS1p6YV9pOUZOVGRYUTVMOGR4QU5JTExWYkt5NEpnUQ?oc=5",
-      "source": "Formula 1 Official",
-      "publisher": "Formula 1",
-      "description": "Why the Barcelona-Catalunya Grand Prix is special Formula 1",
-      "published_utc": "2026-11-24T06:43:32+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技名一致・新規性の確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcVpiRC1WMVl1UGg0SDdHQ3JrMkNOeWJrU2d0RENzWWtXOXpLLVpXUVo2OGh5Mmh4VmFwdWRnd2wwX0xjM1U2VnpnRzdBeHRVcmtWeDlDazVLNkxOcF9UZFNkUEM2dkprazA3YkNpX3RSU0FzSU81bGxhbFlwMEVzWE8xeDVKTkozNlpGZU41dUhPVmpQMEF1eHVmRjk0MGNobk1sTkxDLWItMFRmVXdJbmJSM3pCZDhqWm5OS1p6YV9pOUZOVGRYUTVMOGR4QU5JTExWYkt5NEpnUQ?oc=5",
-          "source": "Formula 1 Official",
-          "publisher": "Formula 1",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T06:43:32+00:00",
-          "title": "Why the Barcelona-Catalunya Grand Prix is special - Formula 1"
-        }
-      ]
-    },
-    {
       "id": "aef1ed479184d71e3278455c",
       "topic": "other_motorsport",
       "title": "【写真3】イゴール・オオムラ・フラガ（PONOS NAKAJIMA RACING） - autosport web",
@@ -8846,6 +8820,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T07:15:00+00:00",
           "title": "【写真3】イゴール・オオムラ・フラガ（PONOS NAKAJIMA RACING） - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "e98f2125b4177f492d815b37",
+      "topic": "WRC",
+      "title": "Stats 2 Rally Storico del Brunello - Classiche 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzE2UjJFU1A1MmVPZ0hza2w4aEl2Y2FNMW1IWUstYVBJZm85SkItMEZXX1VOUWRyZk5wZXRqZFE0a1NsMDJDNlI4bFRLMHFQOXlRU2hhOERHQVptSXdYbkh5Vm9KYnJIWTcwanhQWDBadTBfcXRiMk9OWnVZSFJOMkxEZGt1cnQ4andCSFdB?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Stats 2 Rally Storico del Brunello - Classiche 2026 eWRC-results.com",
+      "published_utc": "2026-11-24T02:27:22+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzE2UjJFU1A1MmVPZ0hza2w4aEl2Y2FNMW1IWUstYVBJZm85SkItMEZXX1VOUWRyZk5wZXRqZFE0a1NsMDJDNlI4bFRLMHFQOXlRU2hhOERHQVptSXdYbkh5Vm9KYnJIWTcwanhQWDBadTBfcXRiMk9OWnVZSFJOMkxEZGt1cnQ4andCSFdB?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T02:27:22+00:00",
+          "title": "Stats 2 Rally Storico del Brunello - Classiche 2026 - eWRC-results.com"
         }
       ]
     }

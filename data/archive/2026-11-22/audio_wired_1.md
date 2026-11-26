@@ -1,4 +1,4 @@
-# wired / 2026-11-22 / 候補 1–13
+# wired / 2026-11-22 / 候補 1–14
 
 - [＜AAショウ＞25絃箏とハーモニカによるスペシャルライヴ。ティートックレコーズこだわりの録音と生演奏を楽しむ](http://www.phileweb.com/news/audio/202611/22/28425.html) — PHILE WEB｜要確認｜2026-11-22T03:14:20+00:00 UTC｜feed_published
 - [＜AAショウ＞トップウイングのDC電源初披露＆フォステクスの“スパイラル”バックロードも登場](http://www.phileweb.com/news/audio/202611/22/28426.html) — PHILE WEB｜要確認｜2026-11-22T04:57:20+00:00 UTC｜feed_published
@@ -12,4 +12,5 @@
 - [HiFi Headphones Mega Sale - HiFiGo](https://news.google.com/rss/articles/CBMiY0FVX3lxTE90X0duZmJBanVyamZwNEpidXZMdnVDNEdfWEdvZ1YzTndKV1ZlZXdEV09KdGs3WFhXV3pHdGU0NmNTMmVfcUVFUFY2RkFwZHh3eHhVT3VYdWx4OUZRS0xSdkF1QQ?oc=5) — HiFiGo｜要確認｜2026-11-22T01:05:20+00:00 UTC｜discovery_index
 - [Lava launches 7,000mAh phone with 3.5mm headphone jack - Notebookcheck](https://news.google.com/rss/articles/CBMioAFBVV95cUxOc1NhYXB4aVdXRG9rRXdKOVBDZmJLQTNqTk5lc25VVnN2SjFjalpodkxoNE9lV3BKQXlQTU9rd0w2cGxmQnczamFKeDZIUlpKRW53Y0tfNTBpaG5vSjU3bjlna3BWM0d0Y3RfM0RDV1JLT0ljRmpzVGRuc1FUeVhTRkZmQUFoVzlwb3RMaGNJUmU1ZHEwR0x5OE9DRkk4cEV5?oc=5) — Notebookcheck mobile｜要確認｜2026-11-22T09:06:00+00:00 UTC｜discovery_index
 - [USB Interface - shenzhenaudio - shenzhenaudio](https://news.google.com/rss/articles/CBMinwFBVV95cUxPaHczM1gzQkg3ejVqUkpMTmx4WnBrQzlsZ19tS2U1V1FHcEREcFNUbHE1ZGJkQWhOU0IybWJtTGdkVFkxZXhGM205STFEd09mYThRYUlfdHFwSzlqZG9HTUxZc3EtRDlmQlAydDNjNVJwQzlWVkpsU0tlVTBkd2IxVHNQeVBqT1VCaWcybDJuWVVvZFBiM3dwT1V6RXlCdDg?oc=5) — SHENZHENAUDIO｜要確認｜2026-11-21T18:37:07+00:00 UTC｜discovery_index
+- [ZMF Caldera Open - LTD Amboyna Burl - Head-Fi.org](https://news.google.com/rss/articles/CBMigwFBVV95cUxOSzdsOHNrdWdmTEt1Q000VnpDVGVaUk9YX1dqMHZqVmFZNVBKTUNvNDd1M1VWc0JYa25kQ19qN2EzRXhzWjBoRFJfM24zbU5FRC1YNXhOMGlRTXQzMmlpVmtodUp5S01paW96OHRvVzN4bTNEQTAxN3lpY3lSLXB0X2tIbw?oc=5) — Head-Fi｜要確認｜2026-11-22T05:34:39+00:00 UTC｜discovery_index
 - [iBasso DX340 MAX - Head-Fi.org](https://news.google.com/rss/articles/CBMibEFVX3lxTE9kWTlLN3ZqbnBycDY1TnhMVkFCU3cxbzVxX0wySlNncTF0aVBBVm5QZXpVbW1wWnZmRzZucm9BaVVybWNMM0JZM1NwN1lYTzMtTHlBRDZHakNVT2FqVzU5LXN3ZzJzVHdvYUotcw?oc=5) — Head-Fi｜要確認｜2026-11-22T11:03:50+00:00 UTC｜discovery_index

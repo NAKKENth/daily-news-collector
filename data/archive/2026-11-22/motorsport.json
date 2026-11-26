@@ -6437,6 +6437,32 @@
       ]
     },
     {
+      "id": "faadafe10571464efae152ee",
+      "topic": "F1",
+      "title": "George Russell explains Las Vegas GP crash as Max Verstappen declares ‘karma’ - PlanetF1",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMzA4QWhfVnJ5ejhTa2RrXy1ybEoxMGpBRDNDdkdib1AtRU5OM1ZGcU9TNHRqdVE4bzRVT1VQamJuNS1HSVNCd0dRLVFONk5hTHlqaGNvRXFrM18wVWFlOTNia2ZTZWlVRkZ0YTBlcVAwZ0lYVDlvUE9MamFwRnpNZWxCcC1YUQ?oc=5",
+      "source": "PlanetF1",
+      "publisher": "PlanetF1",
+      "description": "George Russell explains Las Vegas GP crash as Max Verstappen declares ‘karma’ PlanetF1",
+      "published_utc": "2026-11-22T14:33:29+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMzA4QWhfVnJ5ejhTa2RrXy1ybEoxMGpBRDNDdkdib1AtRU5OM1ZGcU9TNHRqdVE4bzRVT1VQamJuNS1HSVNCd0dRLVFONk5hTHlqaGNvRXFrM18wVWFlOTNia2ZTZWlVRkZ0YTBlcVAwZ0lYVDlvUE9MamFwRnpNZWxCcC1YUQ?oc=5",
+          "source": "PlanetF1",
+          "publisher": "PlanetF1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T14:33:29+00:00",
+          "title": "George Russell explains Las Vegas GP crash as Max Verstappen declares ‘karma’ - PlanetF1"
+        }
+      ]
+    },
+    {
       "id": "99b979369562f4d99cf916c9",
       "topic": "F1",
       "title": "Lewis Hamilton fumes at Las Vegas penalty as Charles Leclerc comparison emerges - PlanetF1",
@@ -9920,6 +9946,500 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-22T06:14:10+00:00",
           "title": "Perez debriefs with Camara after unavoidable Las Vegas collision - Formula 1"
+        }
+      ]
+    },
+    {
+      "id": "bbcae464ad92f4505da6f43a",
+      "topic": "Super Formula",
+      "title": "【正式結果】2026年スーパーフォーミュラ第12戦鈴鹿 決勝 - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tSVBiVml3S0pPakV4Z2FNdUc0YnpjQm9qVWo2TUc5SzY4ZVRFbEo0UXpEZGItVmxBTDducVVheDZMbUxNdGJqbzNjTVBhNFdtdEpWcmVR?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【正式結果】2026年スーパーフォーミュラ第12戦鈴鹿 決勝 autosport web",
+      "published_utc": "2026-11-22T05:54:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tSVBiVml3S0pPakV4Z2FNdUc0YnpjQm9qVWo2TUc5SzY4ZVRFbEo0UXpEZGItVmxBTDducVVheDZMbUxNdGJqbzNjTVBhNFdtdEpWcmVR?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T05:54:00+00:00",
+          "title": "【正式結果】2026年スーパーフォーミュラ第12戦鈴鹿 決勝 - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "0ced161dad0eb44928d29803",
+      "topic": "other_motorsport",
+      "title": "ベッツェッキ、2026年初のスプリント勝利「ようやく勝てた！」マルクの転倒に驚きも／ポルトガルGP - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE50OEdfU1RodVJJSkdnV29IUkhsbUVXUFRRaDFkV2VMMmw4Y0Y0Z0QtRlJpSFBnN3hveVE3ZkJXcFN0Xy1UTGdPYUZ3?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "ベッツェッキ、2026年初のスプリント勝利「ようやく勝てた！」マルクの転倒に驚きも／ポルトガルGP autosport web",
+      "published_utc": "2026-11-22T03:00:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE50OEdfU1RodVJJSkdnV29IUkhsbUVXUFRRaDFkV2VMMmw4Y0Y0Z0QtRlJpSFBnN3hveVE3ZkJXcFN0Xy1UTGdPYUZ3?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T03:00:00+00:00",
+          "title": "ベッツェッキ、2026年初のスプリント勝利「ようやく勝てた！」マルクの転倒に驚きも／ポルトガルGP - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "fc682bd3e480be56738b1bff",
+      "topic": "other_motorsport",
+      "title": "【写真7】セルジオ・ペレス（キャデラック） - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tckJhTUIzUEdTU3huSjFYX3ZaQ2tRdWtGb25WRnhxQ1FNSnFsSlZvbWlVUVNVRl9WRFl1U0pXTUoyMy1yWUlOOUphQThtdnRKdTBUZzR5LUQtZjRCSWdsY2tQWDExSlRPNUVNRHpn?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真7】セルジオ・ペレス（キャデラック） autosport web",
+      "published_utc": "2026-11-22T05:58:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tckJhTUIzUEdTU3huSjFYX3ZaQ2tRdWtGb25WRnhxQ1FNSnFsSlZvbWlVUVNVRl9WRFl1U0pXTUoyMy1yWUlOOUphQThtdnRKdTBUZzR5LUQtZjRCSWdsY2tQWDExSlRPNUVNRHpn?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T05:58:00+00:00",
+          "title": "【写真7】セルジオ・ペレス（キャデラック） - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "1cdcd61fe498fe15d63707ce",
+      "topic": "other_motorsport",
+      "title": "【写真4】マックス・フェルスタッペン（レッドブル） - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91N2stckNCQzhBLVdZXzBsQi1BWmZwdmtjS1pBUmNpa003cnlFckR6T1NzbHlNQjRVUXpJLVdnVFNVRENHMF9ZUVY1S1BCV0kyWVpSSk1tSmJfNVlzUU9NaDdad25kQWtEMnEySmhEdGxHWUUyeGM3aVJn?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真4】マックス・フェルスタッペン（レッドブル） autosport web",
+      "published_utc": "2026-11-22T14:10:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91N2stckNCQzhBLVdZXzBsQi1BWmZwdmtjS1pBUmNpa003cnlFckR6T1NzbHlNQjRVUXpJLVdnVFNVRENHMF9ZUVY1S1BCV0kyWVpSSk1tSmJfNVlzUU9NaDdad25kQWtEMnEySmhEdGxHWUUyeGM3aVJn?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T14:10:00+00:00",
+          "title": "【写真4】マックス・フェルスタッペン（レッドブル） - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "764f609d76a3c169a5a6dc34",
+      "topic": "F1",
+      "title": "【ポイントランキング】2026年F1第21戦ラスベガスGP終了時点 - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5OdlVWQ0doUzBldVZwWEwtNVJ4WVJHanRYZTAyV25HWnZKU2hrVmJza3l1ZURScFJOUDExUWRIbVRDcGxaS1pn?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【ポイントランキング】2026年F1第21戦ラスベガスGP終了時点 autosport web",
+      "published_utc": "2026-11-22T06:50:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5OdlVWQ0doUzBldVZwWEwtNVJ4WVJHanRYZTAyV25HWnZKU2hrVmJza3l1ZURScFJOUDExUWRIbVRDcGxaS1pn?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T06:50:00+00:00",
+          "title": "【ポイントランキング】2026年F1第21戦ラスベガスGP終了時点 - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "ac65938df3e0d431d04a8b84",
+      "topic": "F1",
+      "title": "決勝／2026 F1第21戦ラスベガスGP - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWJEd05yNU1nNzU3LWFFRzJ1b0ZaZ21WcWR3ckUwc1ExUnVmX3FsdjlValdpSVdHSjdmVlQwdTIyd3lFTmZPQi1malJ3U3duYWpaMVliMkNzNGpxS2Q1Wmd3a0xmMFdDZmdabnBmODlxNWVVcDlmOXh4VzVGbW1GY29La3BmSzd2ankwRFl4R0xSU3NiRVV2S0xYb2ZCSnFWZDZIcWNZX29uaElWSUxFQzI0amRweVNxbEk5WTRNY1lJVXZzNDA0bUtFbm4tZmJn?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "決勝／2026 F1第21戦ラスベガスGP autosport web",
+      "published_utc": "2026-11-22T06:05:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWJEd05yNU1nNzU3LWFFRzJ1b0ZaZ21WcWR3ckUwc1ExUnVmX3FsdjlValdpSVdHSjdmVlQwdTIyd3lFTmZPQi1malJ3U3duYWpaMVliMkNzNGpxS2Q1Wmd3a0xmMFdDZmdabnBmODlxNWVVcDlmOXh4VzVGbW1GY29La3BmSzd2ankwRFl4R0xSU3NiRVV2S0xYb2ZCSnFWZDZIcWNZX29uaElWSUxFQzI0amRweVNxbEk5WTRNY1lJVXZzNDA0bUtFbm4tZmJn?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T06:05:00+00:00",
+          "title": "決勝／2026 F1第21戦ラスベガスGP - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "ea88977cc03c70f860b9cffa",
+      "topic": "other_motorsport",
+      "title": "【写真2】セルジオ・ペレス（キャデラック） - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GYmREbzUycWh4WUJVVU1vOWQxd2FJUTdtSmoxU2U4dVhGRjJmdjhOT2NhQ1V6dzRJa2hpay0wUl9OX3hDQmxxUDlCNzBvVlZPd3FsY2pWbHNBbG1Yek5OWEhlbVE1ZGF5VVFtSEY4akJiUnhWTFVV?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真2】セルジオ・ペレス（キャデラック） autosport web",
+      "published_utc": "2026-11-22T11:37:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GYmREbzUycWh4WUJVVU1vOWQxd2FJUTdtSmoxU2U4dVhGRjJmdjhOT2NhQ1V6dzRJa2hpay0wUl9OX3hDQmxxUDlCNzBvVlZPd3FsY2pWbHNBbG1Yek5OWEhlbVE1ZGF5VVFtSEY4akJiUnhWTFVV?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T11:37:00+00:00",
+          "title": "【写真2】セルジオ・ペレス（キャデラック） - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "8f27486a7324fbce6596662f",
+      "topic": "other_motorsport",
+      "title": "【写真1】アンドレア・キミ・アントネッリ（メルセデス） - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TNnZXazNrS3ZmTDFmX0RUbC1jZWZRQU9Ra1pvMjJPTlc5RDFfd1Q3WTdPT3YtRlJMM21TV1oySEY2eVMtZnBSenEwcGg2SVMxNjRuaHZCODVYTHJ2bXViWWhGNEl3ZGVyUFdNbmZB?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真1】アンドレア・キミ・アントネッリ（メルセデス） autosport web",
+      "published_utc": "2026-11-22T07:12:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TNnZXazNrS3ZmTDFmX0RUbC1jZWZRQU9Ra1pvMjJPTlc5RDFfd1Q3WTdPT3YtRlJMM21TV1oySEY2eVMtZnBSenEwcGg2SVMxNjRuaHZCODVYTHJ2bXViWWhGNEl3ZGVyUFdNbmZB?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T07:12:00+00:00",
+          "title": "【写真1】アンドレア・キミ・アントネッリ（メルセデス） - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "7da09367e717d6a7a719d81f",
+      "topic": "other_motorsport",
+      "title": "【写真2】フェルナンド・アロンソ（アストンマーティン） - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2MUNUV0ZISlNtbFFSVjRNQlo2SHJzUUhKYU5NYWJVYVhoOXo4WktzR0xoRDJ1Njd4YnpnNmlDMHRVSGFiRG9Gam9HNEItdlp3S0FPcTRfSm9KczZvMEVadm52NE1JekJJNWlHZGZzQ1FTaV9GeGc?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真2】フェルナンド・アロンソ（アストンマーティン） autosport web",
+      "published_utc": "2026-11-22T09:31:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2MUNUV0ZISlNtbFFSVjRNQlo2SHJzUUhKYU5NYWJVYVhoOXo4WktzR0xoRDJ1Njd4YnpnNmlDMHRVSGFiRG9Gam9HNEItdlp3S0FPcTRfSm9KczZvMEVadm52NE1JekJJNWlHZGZzQ1FTaV9GeGc?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T09:31:00+00:00",
+          "title": "【写真2】フェルナンド・アロンソ（アストンマーティン） - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "01f8028e8336f1f715e879cc",
+      "topic": "other_motorsport",
+      "title": "【写真4】フェルナンド・アロンソ（アストンマーティン） - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzNGZuZzdpTUgwVVVYMTdIYmM5d3hEdV9TNmdNRkdnaG53YVYyb2VhZjNsYTNIMldsRkJLVGdySVRxMU1aaUh0ajNpOU9WWlMzeFF5RmNBVUFocTdhdHNKMWpBOU0?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真4】フェルナンド・アロンソ（アストンマーティン） autosport web",
+      "published_utc": "2026-11-22T08:01:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzNGZuZzdpTUgwVVVYMTdIYmM5d3hEdV9TNmdNRkdnaG53YVYyb2VhZjNsYTNIMldsRkJLVGdySVRxMU1aaUh0ajNpOU9WWlMzeFF5RmNBVUFocTdhdHNKMWpBOU0?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T08:01:00+00:00",
+          "title": "【写真4】フェルナンド・アロンソ（アストンマーティン） - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "61ee4112340cf15c9246a56f",
+      "topic": "other_motorsport",
+      "title": "【写真3】ランス・ストロール（アストンマーティン） - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xWFpwZ2l3d3lGUExqejZsck0xZmViclEtU1ZPMTRxOFl1bnllVTJnNW9RZHlSQ3RaeThkaVdsLVJJaDVhVWVXVjdPeW5DNmhsUVV5UUZFTXFtelhtRFFBLV8zMl8?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真3】ランス・ストロール（アストンマーティン） autosport web",
+      "published_utc": "2026-11-22T08:01:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xWFpwZ2l3d3lGUExqejZsck0xZmViclEtU1ZPMTRxOFl1bnllVTJnNW9RZHlSQ3RaeThkaVdsLVJJaDVhVWVXVjdPeW5DNmhsUVV5UUZFTXFtelhtRFFBLV8zMl8?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T08:01:00+00:00",
+          "title": "【写真3】ランス・ストロール（アストンマーティン） - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "1c928abadcea6eb3b4a82a00",
+      "topic": "other_motorsport",
+      "title": "【写真4】Juju（HAZAMA ANDO Triple Tree Racing） - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBZ2FORzRYekZtbUdfSHJYSktTd3FzZ1R6VlBqQTczSWdXc1pKNXJSUUplbVh3YXhXNjljWG1acUdVTGRVVmpOTUxPdDJoVTZNX0NobHNweDFxVG5fU3RoSUdUX0xoYU5hQTVhM2l6ZUZKbjQ?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真4】Juju（HAZAMA ANDO Triple Tree Racing） autosport web",
+      "published_utc": "2026-11-22T11:44:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBZ2FORzRYekZtbUdfSHJYSktTd3FzZ1R6VlBqQTczSWdXc1pKNXJSUUplbVh3YXhXNjljWG1acUdVTGRVVmpOTUxPdDJoVTZNX0NobHNweDFxVG5fU3RoSUdUX0xoYU5hQTVhM2l6ZUZKbjQ?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T11:44:00+00:00",
+          "title": "【写真4】Juju（HAZAMA ANDO Triple Tree Racing） - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "204db170a5ed811f5913db60",
+      "topic": "other_motorsport",
+      "title": "【写真4】岩佐歩夢（TEAM MUGEN AUTOBACS） - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjVIVjB6SjlTS3RXMHVxbEowbE5fMG10d0pDQU94c0p1R1hKQmNhOUp0M0ItSEpvTFVOYWRwUXVGUW1MV3M4aGtGVlJIV2FhUmdNQWYwZGhPZ1E0amc5UHI1Znc1Tk1RZzhoamJvSngwbWdOMXJGTFA4SEpXTmdyS2lLb0pkQkVsRDRYXzNQSTNlTlNwR0E?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真4】岩佐歩夢（TEAM MUGEN AUTOBACS） autosport web",
+      "published_utc": "2026-11-22T10:29:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjVIVjB6SjlTS3RXMHVxbEowbE5fMG10d0pDQU94c0p1R1hKQmNhOUp0M0ItSEpvTFVOYWRwUXVGUW1MV3M4aGtGVlJIV2FhUmdNQWYwZGhPZ1E0amc5UHI1Znc1Tk1RZzhoamJvSngwbWdOMXJGTFA4SEpXTmdyS2lLb0pkQkVsRDRYXzNQSTNlTlNwR0E?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T10:29:00+00:00",
+          "title": "【写真4】岩佐歩夢（TEAM MUGEN AUTOBACS） - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "35c2ac6167eaa5d054203570",
+      "topic": "other_motorsport",
+      "title": "【写真1】Juju（HAZAMA ANDO Triple Tree Racing） - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXWUx1Q0xxVkNPQlhGUUhjYkEwX0hFaHJ0WGcxRXREYk4xd2lFenBsdGZnRmxrYmJqQ0hsdjBiU2YzTEpYUVRyQVNnUzRQS1pMS1A1Q2NSQkNDclBzc0hIWXluY1MwQ0NSQm15UUF3czhCZVE?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真1】Juju（HAZAMA ANDO Triple Tree Racing） autosport web",
+      "published_utc": "2026-11-22T10:49:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXWUx1Q0xxVkNPQlhGUUhjYkEwX0hFaHJ0WGcxRXREYk4xd2lFenBsdGZnRmxrYmJqQ0hsdjBiU2YzTEpYUVRyQVNnUzRQS1pMS1A1Q2NSQkNDclBzc0hIWXluY1MwQ0NSQm15UUF3czhCZVE?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T10:49:00+00:00",
+          "title": "【写真1】Juju（HAZAMA ANDO Triple Tree Racing） - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "ad68d3c35197848db1ef8419",
+      "topic": "other_motorsport",
+      "title": "決勝／2026 SF第12戦鈴鹿 - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM2lvUV9fMWZ3ZU1iLXdvQXB1MWNZN2tJLXhENkphd1VaTzkwWUhkTE9aXzVjbHpydkk0dGF6NThpTkh4N1lhX2kyVS1CNzlrOEFHZDBKbVBKSFJfSGNOVVZYNEw5OENuTGJnb2ZLNmN4NzgxQ0c4WGpmNEhhSkR0ZmhyY3hqalljOFVuWjR1YnFwTGxjZW9Nc283UWhRWUpLWE5rTEt2SnRsdw?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "決勝／2026 SF第12戦鈴鹿 autosport web",
+      "published_utc": "2026-11-22T08:04:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM2lvUV9fMWZ3ZU1iLXdvQXB1MWNZN2tJLXhENkphd1VaTzkwWUhkTE9aXzVjbHpydkk0dGF6NThpTkh4N1lhX2kyVS1CNzlrOEFHZDBKbVBKSFJfSGNOVVZYNEw5OENuTGJnb2ZLNmN4NzgxQ0c4WGpmNEhhSkR0ZmhyY3hqalljOFVuWjR1YnFwTGxjZW9Nc283UWhRWUpLWE5rTEt2SnRsdw?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T08:04:00+00:00",
+          "title": "決勝／2026 SF第12戦鈴鹿 - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "b0b0f57e23d69b77c2e97f2b",
+      "topic": "WRC",
+      "title": "【ギャラリー】2026年F1第20戦サンパウロGP - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ZdW4zTXNfWlk4d0c1TFc1c0c4TUwtYm5hTTRhQ3J6MEdOMlVkbmZrVWEzdElnc0ZJNkt0Zi1mMjY4YWN4WWlN?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【ギャラリー】2026年F1第20戦サンパウロGP autosport web",
+      "published_utc": "2026-11-22T10:11:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ZdW4zTXNfWlk4d0c1TFc1c0c4TUwtYm5hTTRhQ3J6MEdOMlVkbmZrVWEzdElnc0ZJNkt0Zi1mMjY4YWN4WWlN?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T10:11:00+00:00",
+          "title": "【ギャラリー】2026年F1第20戦サンパウロGP - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "5489a25afcf503c1e57b081e",
+      "topic": "F1",
+      "title": "【動画】2026年F1第21戦ラスベガスGP ハイライト - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9VWlRSZy1iNlpuOHY1TkNLakMzbWlDTkk4UktaU1YyWHlTeUxGc1VPU3g5eDRRb3E0LURoVkU4b25MQk5qa0I0?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【動画】2026年F1第21戦ラスベガスGP ハイライト autosport web",
+      "published_utc": "2026-11-22T08:22:00+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9VWlRSZy1iNlpuOHY1TkNLakMzbWlDTkk4UktaU1YyWHlTeUxGc1VPU3g5eDRRb3E0LURoVkU4b25MQk5qa0I0?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T08:22:00+00:00",
+          "title": "【動画】2026年F1第21戦ラスベガスGP ハイライト - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "6946cd0492b3993998be94f9",
+      "topic": "WRC",
+      "title": "Wharton J. D. - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11aktkNFJGWEpPZ0s3Q0JMQ3c0eUNYcWhTeUhqcXNVa1dsWGZmVHF4cmlJM2xURXJLbW5RbmkzeHVoeFdvcGVSZk81dzZuQjBPRElZdXVRVmJfWDVEb0Z5UnU4cw?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Wharton J. D. eWRC-results.com",
+      "published_utc": "2026-11-22T09:38:38+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11aktkNFJGWEpPZ0s3Q0JMQ3c0eUNYcWhTeUhqcXNVa1dsWGZmVHF4cmlJM2xURXJLbW5RbmkzeHVoeFdvcGVSZk81dzZuQjBPRElZdXVRVmJfWDVEb0Z5UnU4cw?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T09:38:38+00:00",
+          "title": "Wharton J. D. - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "9ebe34902ce6d7848a2be430",
+      "topic": "WRC",
+      "title": "Inchassendague Benoit - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5dWhJc3kzRWlFbndfMzdlNGlxLURVSFNPUklUckxPY2M2V1RaT29TQ2ZUcVZfamVQOFJYYzFjckdEcTVxeWRkQjVMMEwyb0lhRW1CN2VLTmtkc0dMcWlWTFdYNHRHNzU2WnVxTXlpTEI?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Inchassendague Benoit eWRC-results.com",
+      "published_utc": "2026-11-22T09:38:37+00:00",
+      "date_jst": "2026-11-22",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5dWhJc3kzRWlFbndfMzdlNGlxLURVSFNPUklUckxPY2M2V1RaT29TQ2ZUcVZfamVQOFJYYzFjckdEcTVxeWRkQjVMMEwyb0lhRW1CN2VLTmtkc0dMcWlWTFdYNHRHNzU2WnVxTXlpTEI?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T09:38:37+00:00",
+          "title": "Inchassendague Benoit - eWRC-results.com"
         }
       ]
     }

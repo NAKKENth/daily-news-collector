@@ -9,15 +9,6 @@
     "reason": "対象外競技"
   },
   {
-    "id": "b62b4188835ae8fcf5b48a04",
-    "group": "motorsport",
-    "topic": "F1",
-    "title": "- Federation Internationale de l'Automobile",
-    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE55azk4bWw5QkZ4c3ljUGljYUdZamNfNjZmcGhfQm0zZUJwZkhYazNaSzQtUHRTQW9qSDlLRFpuVEdYdw?oc=5",
-    "triage": "exclude",
-    "reason": "一覧・ナビゲーション候補"
-  },
-  {
     "id": "98e7356b8168d37682e97186",
     "group": "motorsport",
     "topic": "F1",
@@ -936,15 +927,6 @@
     "reason": "一覧・ナビゲーション候補"
   },
   {
-    "id": "c32e37f839958c96aedcde79",
-    "group": "audio",
-    "topic": "tws",
-    "title": "- Bluetooth® Technology Website",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SbEsxQ2JFM0pwYzBNUUEtWXhXUHdfN3IxWDFPTmNtOUlBWlNBVGwxXzFtSW9WOUZNaTlubndZSWFQVm5ZYmczZnZhTkhTSEVUN3hfNXlHZjFDbGpma3ZxNkpVX05kcjZpTThkSU1BVWQ0VDhWXzgyVQ?oc=5",
-    "triage": "exclude",
-    "reason": "一覧・ナビゲーション候補"
-  },
-  {
     "id": "c1b9dc25a11d3e3862566970",
     "group": "audio",
     "topic": "tws",
@@ -1132,15 +1114,6 @@
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yOHJ5U1dYNk9NbnZPSEdGa2hiMGl3OGNhR3FCdThBS3hPWEh1aEVVMUs1ZmN1LWx4V2JYcGQyYzBxS2RUamJYdmVOZ1RUdFRz?oc=5",
     "triage": "exclude",
     "reason": "一覧・ナビゲーション候補"
-  },
-  {
-    "id": "490e308b961fbaa71cfdaaca",
-    "group": "pc_ai",
-    "topic": "pc",
-    "title": "Which Water Filter Is Right for You? Waterdrop Filter's Black Friday Picks for Different Needs",
-    "url": "https://www.techpowerup.com/354429/which-water-filter-is-right-for-you-waterdrop-filters-black-friday-picks-for-different-needs",
-    "triage": "exclude",
-    "reason": "通常セール・販促・中古"
   },
   {
     "id": "90476d27a0c51681a3bb09e8",
@@ -2734,5 +2707,68 @@
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRjRFUXZsT0JUZlhVZ01uRHF3Sm5MZ2VHM2RxbHhUMzVBS18zQzZPWHR1WmxwTUdWZk4zR3JsUTRtSHN0SnJpbXhMSTdwQm5oVzA0bDJxZDZuTWpLSS0zbzdmeGdBSnhmRlBrMkZGRmNtaWw2eGo0Z2ZybExmdEtjV0lTOHdIS3p6TlRj?oc=5",
     "triage": "exclude",
     "reason": "対象外機器・サービス"
+  },
+  {
+    "id": "7541ef7568f0a8828aaf2d5d",
+    "group": "audio",
+    "topic": "tws",
+    "title": "How to charge the detachable surround speaker? - JBL",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR2Z6ZXZjZHNHSVR1a1VEOHhBd3V3VVRuQlhGckhhMmo5NGdOa2VWeHBWN0tnc1hKVndDYVV2QjdQNFBxZm1LbFFSWXpPWm9KRUcyOU45eUwxczM3OFNaOVVSSUctcmlLVDJTdmRJYlBFa0NPNlFNRktWbk1sM192aWdSa2pGS25hYkxhTFplSjM3QXdFZTVRNU12bEtHaDVC?oc=5",
+    "triage": "exclude",
+    "reason": "対象外機器・サービス"
+  },
+  {
+    "id": "66a749577f53d19032fb17a8",
+    "group": "audio",
+    "topic": "wired",
+    "title": "FiiO K17 R2R Pro in Black (Like New) - Head-Fi.org",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT0V5M1N4YlRlVG4yWUN5OUV0eDdqU3RGRFpkS2toOU8zTDlnQlM4ZEJQeWx3enVzdW03eUduNTFsakpsYlZhWHJLdE9MNG5PUmZSTzZGbndISGU2OU15a1ljV2FiQUtTR2JnYlhWZUpFSlVJemdlRmVCbHk3Um1nMkNtNng?oc=5",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "11bf491e35461d7b6f63a7ce",
+    "group": "audio",
+    "topic": "wired",
+    "title": "Sold: Focal Clear OG - Head-Fi.org",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0R09UX29LYjJGQjFfZDFsaE9BQnpUWG55cDcyc0x6T3pmM1VnMnFuNDRUQS1WU3dwcXRDZkxJZWh2Y1BJRDU4dmlnb3lydTJuUmJMXzg4SEdoMmx4UWdUMW5ZSm5OMVVfOVE?oc=5",
+    "triage": "exclude",
+    "reason": "中古・施設一覧・一般資料"
+  },
+  {
+    "id": "c4ce4756c95e95dd3755a759",
+    "group": "audio",
+    "topic": "wired",
+    "title": "Sold: FirAudio XE6 UIEM w/ CFA Flight Tips - Head-Fi.org",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRXB2VEh0N195cmZHa2lvLWZzN2pxNHdDczMxbS1MRkgtREoxU1pmekVFU2ZaeWRyRGtPQXNIcDdyTDV5QW5YcFBrMmJGc2h1RGdQaXF2ZkhLcGhJYkdQNGh5WkNkQVppU1dTbTAxVk01SkQzWk5Wb0s1bkpyTWh0TXh0cFlVQQ?oc=5",
+    "triage": "exclude",
+    "reason": "中古・施設一覧・一般資料"
+  },
+  {
+    "id": "97a27c4b97fbe0b6c0466301",
+    "group": "audio",
+    "topic": "wired",
+    "title": "*Price Drop* ZMF Caldera Closed – Amboyna Burl (Magnesium Chassis) + Extras & Matching Accessories - Head-Fi.org",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMmlNZ0dud0FCdkFaTXQtWWhfNjVma19YV2xTQjBPSGhKNUhiRzBFX1htNzA1WkRfaEZRcjVNZVNkbHRqVkdZRHE3d2dXUTd6b1lsRHZZNllUNG96elFYWnNtTUtXVWEwUkNDT2RWZTJfVFpJWGFpZ2JmaGJPNGVFeGhHSlBsaXhEdDVHVUNweVJLaDR2TTVETlVaUEhVaENFakNVTUNxWTZLMllGcm9sRUxjQzdYT3FqVlVPdDFLUXZ2UXh2NEdFcEU4WUlfblNvOGZhV0lhT1MxUQ?oc=5",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "ccb589d57706e6370187f704",
+    "group": "audio",
+    "topic": "wired",
+    "title": "*PRICE DROP* Massive ZMF Collection: Atrium Closed (Signed), Bokeh Open, Verite Closed - Head-Fi.org",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTUFtR0dQTEhoQ004ZnFyR0ZVUTZ0dHFIQWw0VlpTWGw3M0lJRXpQMEJmaVlvaW5YQ2IzWWVfaU1Ba212dUhUUXpoQWhEUHBfYlZiNmxLQzBBSkszd01JWEdXbElzVzE4QXp6WnZ2MElYRWNHMHpiRzhLYnNWTUgxMTFHT1V6Zzk1OGY0Ulg2R21rX2kzT0EyaURkMzd6VFZfa2JUWTJjRC1PY0lsWHlqc1NDcW5zRjE0TDBfMVd3TFI?oc=5",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "9b3653cdd135c6b5ea7eae7f",
+    "group": "audio",
+    "topic": "wired",
+    "title": "Sold: *PRICE DROP* ZMF Grand Silver Palladium (4-Strand) 10ft Cable + Matching 4.4mm Adapter & Leather Case - Head-Fi.org",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSkxoRkU1NGtESEhEa01zeU5oOHhJcnRlOGdKVnJ3QmNXdHZGNUpCOTdHU0pCOUwwbUtOdlFQOVhjNV9YYmRieDBCalc4ajlyQlB2UDdvNF84b2xCMG9QMzBSOE9Fb3ZOTVNyNXNrVXJCTUF2a3B2WVo0dHVCOS1xSk5pSTM2UmhKN1ljOGpkUkdMNFNjcUtZLXQ2ejNXRTJyOFhxVW43c1BJclEzNWNHS0MwaHVGWUhVOWU3NFR3dUlsQXRKblVjUkZTRHdkU2tGc3N3?oc=5",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
   }
 ]
