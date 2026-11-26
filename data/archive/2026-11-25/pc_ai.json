@@ -2197,9 +2197,9 @@
       "description": "Google DeepMindは、オープンモデル向けのベンチマークツール「gBench」を公開した。Gemmaなどの大規模言語モデル(LLM)や視覚言語モデル(VLM)を対象に、能力やサービング性能を評価できる。",
       "published_utc": "2026-11-25T07:57:20+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2207,11 +2207,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159193.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T07:57:20+00:00",
           "title": "学術評価から負荷試験まで、オープンLLMを丸ごと測る「gBench」"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T16:57:20+09:00",
+      "article_modified_raw": "2026-11-25T16:57:20+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "9044053132ff2a15d6205672",
@@ -2223,9 +2227,9 @@
       "description": "インフィニットループは11月30日、デスクトップマスコットアプリ「VRM Mate」をSteamで発売する。価格は2,200円。リリース記念セールとして、12月14日3時までは440円オフの1,760円で販売する。",
       "published_utc": "2026-11-25T07:32:06+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2233,11 +2237,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159182.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T07:32:06+00:00",
           "title": "自作VRMキャラがウィンドウに座る！「VRM Mate」30日Steam発売"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T16:32:06+09:00",
+      "article_modified_raw": "2026-11-25T16:32:07+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "7e7ebddb9cddd8800bc82ab9",
@@ -2249,9 +2257,9 @@
       "description": "GIGABYTEは、RTX Sparkを採用したミニAIデスクトップPC「AI TOP AERO」を発売した。メモリとストレージの容量が異なる5モデルを用意する。",
       "published_utc": "2026-11-25T07:23:23+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2259,11 +2267,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159177.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T07:23:23+00:00",
           "title": "GIGABYTE、RTX Spark搭載の1.1LミニPC「AI TOP AERO」"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T16:23:23+09:00",
+      "article_modified_raw": "2026-11-25T16:23:24+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "277d7d17e279ab88232cb798",
@@ -2448,16 +2460,16 @@
     {
       "id": "a10391b7af631bd75f19363b",
       "topic": "pc",
-      "title": "【本日みつけたお買い得品】松屋のうなぎ12食セットが5,000円引き！",
+      "title": "松屋のうなぎ12食セットが5,000円引き！",
       "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2159029.html",
       "source": "PC Watch",
       "publisher": "PC Watch",
       "description": "Amazonにおいて、松屋の「うな丼」の具材である鰻12枚セット「【松屋ベストセレクト】秋の土用の丑の日 ふわぁとろ うなぎ蒲焼12食セット」が直近価格の5,000円引きとなる6,680円で販売中だ。1食あたりの価格は約557円。",
       "published_utc": "2026-11-25T03:06:32+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2465,11 +2477,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2159029.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T03:06:32+00:00",
-          "title": "【本日みつけたお買い得品】松屋のうなぎ12食セットが5,000円引き！"
+          "title": "松屋のうなぎ12食セットが5,000円引き！"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T12:06:32+09:00",
+      "article_modified_raw": "2026-11-25T12:06:32+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "bf8c1e69d838dd43e781b623",
@@ -2650,32 +2666,6 @@
       "article_published_raw": "2026-11-25T10:25:00+09:00",
       "article_modified_raw": "2026-11-25T10:24:59+09:00",
       "enrichment": "article_metadata"
-    },
-    {
-      "id": "6be95d95447ab72f48538241",
-      "topic": "ai",
-      "title": "Getting started with your dot | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13di0yRW0tMF9iS1NfZlFCUmVSNEZ6WEVka2U2TkVrMUI5Q0ROdUlrS0tER3NVa0d2eFBUTGdPVERXMXRlMmJET3FVaUxHWFhYOVZJamtBV1JqMGx0MzFKSUdrZmdZNmZPTF8weUdmNmFHdFNVTGNCdTY4QTVjOVE?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "Getting started with your dot | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T00:07:52+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13di0yRW0tMF9iS1NfZlFCUmVSNEZ6WEVka2U2TkVrMUI5Q0ROdUlrS0tER3NVa0d2eFBUTGdPVERXMXRlMmJET3FVaUxHWFhYOVZJamtBV1JqMGx0MzFKSUdrZmdZNmZPTF8weUdmNmFHdFNVTGNCdTY4QTVjOVE?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T00:07:52+00:00",
-          "title": "Getting started with your dot | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
     },
     {
       "id": "2510007fe4056fc812337296",
@@ -5343,9 +5333,9 @@
       "description": "LLM(大規模言語モデル)が文章を出力するのと同じ方式で画像を生成するAIモデルが、無償でダウンロードできるようになった。NVIDIAが「Nemotron-Labs-Image-30B-A3B」のオープンウェイト(モデルの重み)を、11月25日(日本時間)までにHugging Faceで公開した。利用は非商用の研究・評価目的に限られる。",
       "published_utc": "2026-11-25T13:29:23+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "AI候補",
       "sources": [
@@ -5353,11 +5343,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159286.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T13:29:23+00:00",
           "title": "NVIDIA、LLM方式の画像生成AI「Nemotron-Labs-Image」を無償公開"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T22:29:23+09:00",
+      "article_modified_raw": "2026-11-26T09:30:49+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "daf2366b451fc46769849e67",
@@ -11337,9 +11331,9 @@
       "description": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
       "published_utc": "2026-11-24T22:27:52+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -11347,25 +11341,29 @@
           "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T22:27:52+00:00",
           "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T22:27:52+00:00",
+      "article_modified_raw": "2026-11-24T22:49:09+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "1f6760724a3acd310850451e",
       "topic": "ai",
-      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he&#8217;s in therapy",
       "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy",
       "source": "TechCrunch",
       "publisher": "TechCrunch",
       "description": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
       "published_utc": "2026-11-24T21:48:27+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -11373,11 +11371,15 @@
           "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T21:48:27+00:00",
-          "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy"
+          "title": "In all-hands meeting, Jensen Huang thanks White House and says he&#8217;s in therapy"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T21:48:27+00:00",
+      "article_modified_raw": "2026-11-24T22:28:39+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "7b58452e25cd947725352dcc",
@@ -11389,9 +11391,9 @@
       "description": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
       "published_utc": "2026-11-24T21:33:29+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -11399,11 +11401,15 @@
           "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T21:33:29+00:00",
           "title": "Even the best AI agents struggle with everyday life"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T21:33:29+00:00",
+      "article_modified_raw": "2026-11-24T22:17:17+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "dbe74d514f36c8a493e1ef06",
@@ -11415,9 +11421,9 @@
       "description": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
       "published_utc": "2026-11-24T21:19:52+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -11425,11 +11431,15 @@
           "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T21:19:52+00:00",
           "title": "Maple raises $5.3M to build AI products that protect your data, even from itself"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T21:19:52+00:00",
+      "article_modified_raw": "2026-11-25T02:01:43+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "739910b672b7ac3c266e9e1c",
@@ -11546,16 +11556,16 @@
     {
       "id": "abc7b69fabfd30e971f5112a",
       "topic": "ai",
-      "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
+      "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey&#8217;s bank",
       "url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank",
       "source": "TechCrunch",
       "publisher": "TechCrunch",
       "description": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
       "published_utc": "2026-11-24T17:29:09+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -11563,11 +11573,15 @@
           "url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T17:29:09+00:00",
-          "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank"
+          "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey&#8217;s bank"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T17:29:09+00:00",
+      "article_modified_raw": "2026-11-24T17:44:38+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "9219fdb5d78946305f73d1eb",
@@ -11579,9 +11593,9 @@
       "description": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
       "published_utc": "2026-11-24T17:00:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -11589,11 +11603,15 @@
           "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T17:00:00+00:00",
           "title": "Meta brings its Muse AI assistant directly into Instagram DMs"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T17:00:00+00:00",
+      "article_modified_raw": "2026-11-24T17:36:37+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "69f65fac249ccdde5f467638",
@@ -14713,9 +14731,9 @@
       "description": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
       "published_utc": "2026-11-24T22:50:11+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -14723,11 +14741,15 @@
           "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues",
           "source": "Ars Technica",
           "publisher": "Ars Technica",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T22:50:11+00:00",
           "title": "Half of NASA's aging Mars fleet knocked offline by technical issues"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T22:50:11+00:00",
+      "article_modified_raw": "2026-11-25T13:45:51+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "2bd95bb65cf812a6a686265f",
@@ -14919,9 +14941,9 @@
       "description": "Kalshi’s pause in Utah draws cheers as critics bash ads and boo insider trading.",
       "published_utc": "2026-11-24T18:03:58+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -14929,11 +14951,15 @@
           "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights",
           "source": "Ars Technica",
           "publisher": "Ars Technica",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T18:03:58+00:00",
           "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T18:03:58+00:00",
+      "article_modified_raw": "2026-11-24T19:22:17+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "87c47f3cdeaec7ea3ebc3da7",
@@ -15032,12 +15058,12 @@
       "url": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis",
       "source": "Ars Technica",
       "publisher": "Ars Technica",
-      "description": "\"Without this funding, activities would be delayed.\"",
+      "description": "Without this funding, activities would be delayed.\"",
       "published_utc": "2026-11-24T16:12:46+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -15045,11 +15071,15 @@
           "url": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis",
           "source": "Ars Technica",
           "publisher": "Ars Technica",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T16:12:46+00:00",
           "title": "NASA may get $2 billion boost as White House seeks to accelerate Artemis"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T16:12:46+00:00",
+      "article_modified_raw": "2026-11-24T17:16:10+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "fe098366b11ba711aa4fa01f",
@@ -16993,7 +17023,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Understanding ChatGPT and Codex usage limits | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T01:27:33+00:00",
+      "published_utc": "2026-11-25T05:45:42+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -17006,7 +17036,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T01:27:33+00:00",
+          "published_utc": "2026-11-25T05:45:42+00:00",
           "title": "Understanding ChatGPT and Codex usage limits | OpenAI Help Center - OpenAI Help Center"
         }
       ]

@@ -68,8 +68,8 @@
           "title": "PSA: AirPods Pro 3 are back in stock for $149 ($100 off)"
         }
       ],
-      "enrichment": "deferred_host",
-      "enrichment_error": "previous 403 for this host in this run"
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://9to5mac.com/2026/11/24/airpods-pro-3-best-black-friday-price"
     },
     {
       "id": "f65e5e6b4439d116eef78803",
@@ -4298,6 +4298,33 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T11:17:02+00:00",
           "title": "Hiby R6 Pro Max - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "9bf9f0753432e47e5f2bc8c7",
+      "topic": "wired",
+      "title": "HEDD Audio HEDDphone DX Review - Headfonics",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPZnBIb0ZKbWJJSGVucTNtRTV0d2M2djhRU2tKeGoyVHNsbXpWYnk2Z0pxYXdSQV9OXzN6b2ZNYWd2WGE0MGgwbkRrRk1JMXpwT2ZPNkpTNzRpUDNZQUtoRGxkZTY?oc=5",
+      "source": "Headfonics",
+      "publisher": "Headfonics",
+      "description": "HEDD Audio HEDDphone DX Review Headfonics",
+      "published_utc": "2026-11-25T10:59:07+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "possible_event_id": "4b819c4b7ffb",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPZnBIb0ZKbWJJSGVucTNtRTV0d2M2djhRU2tKeGoyVHNsbXpWYnk2Z0pxYXdSQV9OXzN6b2ZNYWd2WGE0MGgwbkRrRk1JMXpwT2ZPNkpTNzRpUDNZQUtoRGxkZTY?oc=5",
+          "source": "Headfonics",
+          "publisher": "Headfonics",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T10:59:07+00:00",
+          "title": "HEDD Audio HEDDphone DX Review - Headfonics"
         }
       ]
     }

@@ -1255,7 +1255,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Austin Cindric Archives NASCAR.com",
-      "published_utc": "2026-11-25T07:12:58+00:00",
+      "published_utc": "2026-11-25T13:27:16+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -1268,7 +1268,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T07:12:58+00:00",
+          "published_utc": "2026-11-25T13:27:16+00:00",
           "title": "Austin Cindric Archives - NASCAR.com"
         }
       ]
@@ -1307,7 +1307,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Ryan Preece Archives NASCAR.com",
-      "published_utc": "2026-11-25T06:23:01+00:00",
+      "published_utc": "2026-11-24T22:23:01+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -1320,8 +1320,86 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T06:23:01+00:00",
+          "published_utc": "2026-11-24T22:23:01+00:00",
           "title": "Ryan Preece Archives - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "84c930ceb9e30305d9975b25",
+      "topic": "NASCAR",
+      "title": "Noah Gragson Archives - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81cnhPMWs0bFlmM2dibG1BS1FVN1RDSHdiRldvTDcwVWdUdkg5UlktYmhEVmd2R3Q5VFNYU2hLQ016T3pWZk1zV2U3dVY4bHNzQlFTYW1kazA2RnpMekkxbmMzVm5RbU9QemhSNFpFek5odw?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Noah Gragson Archives NASCAR.com",
+      "published_utc": "2026-11-25T03:08:35+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81cnhPMWs0bFlmM2dibG1BS1FVN1RDSHdiRldvTDcwVWdUdkg5UlktYmhEVmd2R3Q5VFNYU2hLQ016T3pWZk1zV2U3dVY4bHNzQlFTYW1kazA2RnpMekkxbmMzVm5RbU9QemhSNFpFek5odw?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T03:08:35+00:00",
+          "title": "Noah Gragson Archives - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "136a83da35b58ef2478b63e9",
+      "topic": "NASCAR",
+      "title": "Joey Logano Archives - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80S1VOd3NsdjYyS0V5dmluRDJ2ZGRXZTVHeFZKYmtaQkZ4ZmkyTnRVSUFXM0E5OGVoeDBxOVYxazlYazhZaGF2eG5DZWJjM1BISUktbkU3bTQyQ1VFclNZaUpubzVuUndOZ1k1NEIxcEs?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Joey Logano Archives NASCAR.com",
+      "published_utc": "2026-11-25T06:15:02+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80S1VOd3NsdjYyS0V5dmluRDJ2ZGRXZTVHeFZKYmtaQkZ4ZmkyTnRVSUFXM0E5OGVoeDBxOVYxazlYazhZaGF2eG5DZWJjM1BISUktbkU3bTQyQ1VFclNZaUpubzVuUndOZ1k1NEIxcEs?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T06:15:02+00:00",
+          "title": "Joey Logano Archives - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "ea40ab3297b05b888b96c8ad",
+      "topic": "NASCAR",
+      "title": "Zack Albert - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16a3FBbnhrSldycy1FY3hFbGktQzdLUVpSSC1hRjcwRk1ZdWl2NUhhMEItTFc1X1hKWDB4TWN6Nzl6aENXdERjSDZyQUQyQXFYUk5TQzB2UzUtY2tHY2c?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Zack Albert NASCAR.com",
+      "published_utc": "2026-11-24T22:20:53+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16a3FBbnhrSldycy1FY3hFbGktQzdLUVpSSC1hRjcwRk1ZdWl2NUhhMEItTFc1X1hKWDB4TWN6Nzl6aENXdERjSDZyQUQyQXFYUk5TQzB2UzUtY2tHY2c?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:20:53+00:00",
+          "title": "Zack Albert - NASCAR.com"
         }
       ]
     },
@@ -1333,7 +1411,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Ross Chastain Archives NASCAR.com",
-      "published_utc": "2026-11-25T13:38:40+00:00",
+      "published_utc": "2026-11-25T03:38:40+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -1346,34 +1424,8 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T13:38:40+00:00",
+          "published_utc": "2026-11-25T03:38:40+00:00",
           "title": "Ross Chastain Archives - NASCAR.com"
-        }
-      ]
-    },
-    {
-      "id": "77739e056d106c82c9e56856",
-      "topic": "NASCAR",
-      "title": "Ty Gibbs Archives - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GNmF6UmFHcl9tV0paeDlSNFhTZE9MTGhJY21NUHFSMHpMV1lZUEl2YWdzNThBZ2xZeHdCeTNnVHBnOG9ieE9UbHQ1aFhqTW9DeDA3MkM5MGR3MDVGR0FmRDI2NUdxSmo0SFJWbA?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "Ty Gibbs Archives NASCAR.com",
-      "published_utc": "2026-11-24T21:56:08+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GNmF6UmFHcl9tV0paeDlSNFhTZE9MTGhJY21NUHFSMHpMV1lZUEl2YWdzNThBZ2xZeHdCeTNnVHBnOG9ieE9UbHQ1aFhqTW9DeDA3MkM5MGR3MDVGR0FmRDI2NUdxSmo0SFJWbA?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T21:56:08+00:00",
-          "title": "Ty Gibbs Archives - NASCAR.com"
         }
       ]
     },
@@ -1977,7 +2029,9 @@
           "published_utc": "2026-11-25T09:12:51+00:00",
           "title": "Fernando Alonso: “We can't be competitive with the power unit we have”"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "7f77611ddcc26ccbb0cb005d",
@@ -2059,7 +2113,9 @@
           "published_utc": "2026-11-24T20:05:06+00:00",
           "title": "Jolyon Palmer: No rival could match Max Verstappen's fight against George Russell in Las Vegas"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "9c0b26e25d055d46339f7199",
@@ -2085,7 +2141,9 @@
           "published_utc": "2026-11-24T17:57:03+00:00",
           "title": "Decision time looms for Colton Herta after 2027 Cadillac F1 snub"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://www.motorsport.com/f1/news/decision-time-looms-for-colton-herta-after-2027-cadillac-f1-snub/10877531"
     },
     {
       "id": "5857f6acdeb48a04b49fde80",
@@ -3088,12 +3146,12 @@
       "url": "https://www.gpblog.com/en/news/schumacher-criticizes-both-russell-and-verstappen-after-vegas-war-of-words",
       "source": "GPblog",
       "publisher": "GPblog",
-      "description": "Former Formula 1 driver Ralf Schumacher had criticism for both Max Verstappen and George Russell after the Las Vegas Grand Prix. Another chapter in the conflict between Verstappen and Russell took place during last weekend's Las Vegas Grand Prix. After their incident during the third free practice s...",
+      "description": "Ralf Schumacher criticises Max Verstappen’s comments about George Russell after their Las Vegas Grand Prix feud and assesses Russell’s costly mistake.",
       "published_utc": "2026-11-25T13:30:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -3101,11 +3159,15 @@
           "url": "https://www.gpblog.com/en/news/schumacher-criticizes-both-russell-and-verstappen-after-vegas-war-of-words",
           "source": "GPblog",
           "publisher": "GPblog",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T13:30:00+00:00",
           "title": "Schumacher criticizes both Russell and Verstappen after Vegas war of words"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T13:30:00.000Z",
+      "article_modified_raw": "2026-11-25T13:30:00.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "a33b9fd6279e588eff152021",
@@ -3114,24 +3176,28 @@
       "url": "https://www.gpblog.com/en/news/russell-and-leclerc-called-up-by-the-fia-at-the-qatar-grand-prix",
       "source": "GPblog",
       "publisher": "GPblog",
-      "description": "George Russell and Charles Leclerc will headline the drivers' press conference at the Qatar Grand Prix tomorrow afternoon. Red Bull Racing team principal Laurent Mekies will also answer questions on Friday. Next up on the Formula 1 calendar is the Qatar Grand Prix at the Lusail circuit. As usual, si...",
+      "description": "George Russell and Charles Leclerc lead Thursday’s Qatar GP press conferences, while Red Bull’s Laurent Mekies joins team principals on Friday.",
       "published_utc": "2026-11-25T12:20:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "review",
+      "date_quality": "article_metadata",
+      "triage": "priority",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
         {
           "url": "https://www.gpblog.com/en/news/russell-and-leclerc-called-up-by-the-fia-at-the-qatar-grand-prix",
           "source": "GPblog",
           "publisher": "GPblog",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T12:20:00+00:00",
           "title": "Russell and Red Bull boss called up by the FIA at the Qatar Grand Prix"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T12:20:00.000Z",
+      "article_modified_raw": "2026-11-25T12:20:00.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "4c24b81c365aae63e4936332",
@@ -3410,12 +3476,12 @@
       "url": "https://www.gpblog.com/en/rumors/christian-horner-and-geri-buy-world-famous-estate-listed-at-a-stunning-price",
       "source": "GPblog",
       "publisher": "GPblog",
-      "description": "Christian Horner and his wife, Geri Halliwell, have reportedly bought the historic Edgcote House. The former Red Bull Racing team principal and the former Spice Girls singer are said to have received the keys to the enormous English estate last week, after paying a staggering £52 million. The purcha...",
+      "description": "Christian Horner and Geri have reportedly bought the estate featured in Pride and Prejudice, after making an offer of €62 million. Horner previously received €80 million from",
       "published_utc": "2026-11-24T17:57:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -3423,11 +3489,15 @@
           "url": "https://www.gpblog.com/en/rumors/christian-horner-and-geri-buy-world-famous-estate-listed-at-a-stunning-price",
           "source": "GPblog",
           "publisher": "GPblog",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T17:57:00+00:00",
           "title": "Christian Horner and Geri buy world-famous estate listed at a stunning price"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T17:57:00.000Z",
+      "article_modified_raw": "2026-11-24T17:57:00.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "0ef7646d293a900733ddabcd",
@@ -3436,12 +3506,12 @@
       "url": "https://www.gpblog.com/en/news/unfortunate-incident-leads-to-qatar-grid-penalty-he-didnt-see-me",
       "source": "GPblog",
       "publisher": "GPblog",
-      "description": "Sergio Perez revealed what led to his crash with Rafael Camara at the Las Vegas Grand Prix, which resulted in a grid penalty for the Mexican ahead of the upcoming weekend. The stewards believed that Perez was entirely at fault for the incident with the Haas F1 driver in Las Vegas. As the Cadillac dr...",
+      "description": "Sergio Perez explained his Las Vegas GP crash with Rafael Camara and received a five-place grid penalty for Qatar after retiring from the race.",
       "published_utc": "2026-11-24T17:15:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -3449,11 +3519,15 @@
           "url": "https://www.gpblog.com/en/news/unfortunate-incident-leads-to-qatar-grid-penalty-he-didnt-see-me",
           "source": "GPblog",
           "publisher": "GPblog",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T17:15:00+00:00",
           "title": "Las Vegas GP called out with sarcastic comment: 'Yes, great, artificial'"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T17:15:00.000Z",
+      "article_modified_raw": "2026-11-24T17:15:00.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "73a6dec698ca75a6d773c2af",
@@ -5194,16 +5268,16 @@
     {
       "id": "2ab489c27555d48a9f5323f0",
       "topic": "WRC",
-      "title": "Hyundain WRC-tallilta odotetaan isoa uutista – Thierry Neuvillelta viileä kuitti",
+      "title": "Hyundain WRC-tallilta odotetaan isoa uutista &#8211; Thierry Neuvillelta viileä kuitti",
       "url": "https://www.rallit.fi/hyundain-wrc-tallilta-odotetaan-isoa-uutista-thierry-neuvillelta-viilea-kuitti",
       "source": "Rallit",
       "publisher": "Rallit",
-      "description": "Thierry Neuville ei vielä vahvistanut Hyundain WRC-suunnitelmista liikkuneita tietoja. Artikkeli Hyundain WRC-tallilta odotetaan isoa uutista – Thierry Neuvillelta viileä kuitti julkaistiin ensimmäisen kerran Rallit.fi .",
+      "description": "Thierry Neuville ei vielä vahvistanut Hyundain WRC-suunnitelmista liikkuneita tietoja.",
       "published_utc": "2026-11-25T11:55:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -5211,11 +5285,15 @@
           "url": "https://www.rallit.fi/hyundain-wrc-tallilta-odotetaan-isoa-uutista-thierry-neuvillelta-viilea-kuitti",
           "source": "Rallit",
           "publisher": "Rallit",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T11:55:00+00:00",
-          "title": "Hyundain WRC-tallilta odotetaan isoa uutista – Thierry Neuvillelta viileä kuitti"
+          "title": "Hyundain WRC-tallilta odotetaan isoa uutista &#8211; Thierry Neuvillelta viileä kuitti"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T11:55:00+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "028f2888abe64b8ecefc8ec6",
@@ -5224,12 +5302,12 @@
       "url": "https://www.rallit.fi/forbes-paljasti-f1-tallien-hurjat-arvot-yksi-talli-lahes-tuplasi-arvonsa",
       "source": "Rallit",
       "publisher": "Rallit",
-      "description": "Formula 1 -sarjan taloudellinen kasvu jatkuu voimakkaana. Artikkeli Forbes paljasti F1-tallien hurjat arvot – yksi talli lähes tuplasi arvonsa julkaistiin ensimmäisen kerran Rallit.fi .",
+      "description": "Formula 1 -sarjan taloudellinen kasvu jatkuu voimakkaana.",
       "published_utc": "2026-11-25T10:12:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -5237,11 +5315,15 @@
           "url": "https://www.rallit.fi/forbes-paljasti-f1-tallien-hurjat-arvot-yksi-talli-lahes-tuplasi-arvonsa",
           "source": "Rallit",
           "publisher": "Rallit",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T10:12:00+00:00",
           "title": "Forbes paljasti F1-tallien hurjat arvot – yksi talli lähes tuplasi arvonsa"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T10:12:00+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "edf981fc3f684f22557e33cb",
@@ -5276,12 +5358,12 @@
       "url": "https://www.rallit.fi/f1-mestarilta-tyly-nakemys-charles-leclercista-hanella-ei-koskaan-oikeastaan-ollut-sita",
       "source": "Rallit",
       "publisher": "Rallit",
-      "description": "Ferrarin kuljettajien välinen kilpailuasetelma on herättänyt jälleen keskustelua F1-sarjassa. Artikkeli F1-mestarilta tyly näkemys Charles Leclercistä – ”Hänellä ei koskaan oikeastaan ollut sitä” julkaistiin ensimmäisen kerran Rallit.fi .",
+      "description": "Ferrarin kuljettajien välinen kilpailuasetelma on herättänyt jälleen keskustelua F1-sarjassa.",
       "published_utc": "2026-11-25T07:02:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -5289,11 +5371,15 @@
           "url": "https://www.rallit.fi/f1-mestarilta-tyly-nakemys-charles-leclercista-hanella-ei-koskaan-oikeastaan-ollut-sita",
           "source": "Rallit",
           "publisher": "Rallit",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T07:02:00+00:00",
           "title": "F1-mestarilta tyly näkemys Charles Leclercistä – ”Hänellä ei koskaan oikeastaan ollut sitä”"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T07:02:00+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "d94e4e0ed5411e39b7098b5d",
@@ -5302,12 +5388,12 @@
       "url": "https://www.rallit.fi/m-sport-fordin-mm-rallisuunnitelmista-iso-paljastus",
       "source": "Rallit",
       "publisher": "Rallit",
-      "description": "Rallin MM-sarjassa kilpaileva M-Sport Ford on paiskinut kovasti töitä, jotta se olisi valmis tulevaan kauteen. Artikkeli M-Sport Fordin MM-rallisuunnitelmista iso paljastus julkaistiin ensimmäisen kerran Rallit.fi .",
+      "description": "Rallin MM-sarjassa kilpaileva M-Sport Ford on paiskinut kovasti töitä, jotta se olisi valmis tulevaan kauteen.",
       "published_utc": "2026-11-25T06:35:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -5315,11 +5401,15 @@
           "url": "https://www.rallit.fi/m-sport-fordin-mm-rallisuunnitelmista-iso-paljastus",
           "source": "Rallit",
           "publisher": "Rallit",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T06:35:00+00:00",
           "title": "M-Sport Fordin MM-rallisuunnitelmista iso paljastus"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T06:35:00+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "8f92356537ac1bcf5d9c5769",
@@ -5328,12 +5418,12 @@
       "url": "https://www.rallit.fi/aston-martin-menettaa-suorilla-jopa-kolme-sekuntia-kuljettajat-turhautuneina",
       "source": "Rallit",
       "publisher": "Rallit",
-      "description": "Lance Stroll ei peitellyt pettymystään Aston Martinin suorituskykyyn Las Vegasin F1-kilpailun jälkeen. Artikkeli Aston Martin menettää suorilla jopa kolme sekuntia – kuljettajat turhautuneina julkaistiin ensimmäisen kerran Rallit.fi .",
+      "description": "Lance Stroll ei peitellyt pettymystään Aston Martinin suorituskykyyn Las Vegasin F1-kilpailun jälkeen.",
       "published_utc": "2026-11-24T16:37:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -5341,11 +5431,15 @@
           "url": "https://www.rallit.fi/aston-martin-menettaa-suorilla-jopa-kolme-sekuntia-kuljettajat-turhautuneina",
           "source": "Rallit",
           "publisher": "Rallit",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-24T16:37:00+00:00",
           "title": "Aston Martin menettää suorilla jopa kolme sekuntia – kuljettajat turhautuneina"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-24T16:37:00+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "97a5f3ae86dfb83a6099cf7d",
@@ -8102,7 +8196,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Kyle Busch Archives NASCAR.com",
-      "published_utc": "2026-11-25T07:12:57+00:00",
+      "published_utc": "2026-11-24T22:12:57+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -8115,7 +8209,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T07:12:57+00:00",
+          "published_utc": "2026-11-24T22:12:57+00:00",
           "title": "Kyle Busch Archives - NASCAR.com"
         }
       ]
@@ -8128,7 +8222,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Front Row Motorsports Archives NASCAR.com",
-      "published_utc": "2026-11-25T06:20:59+00:00",
+      "published_utc": "2026-11-24T22:20:59+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -8141,7 +8235,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T06:20:59+00:00",
+          "published_utc": "2026-11-24T22:20:59+00:00",
           "title": "Front Row Motorsports Archives - NASCAR.com"
         }
       ]
@@ -8154,7 +8248,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "William Byron Archives NASCAR.com",
-      "published_utc": "2026-11-25T06:20:59+00:00",
+      "published_utc": "2026-11-24T22:20:59+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -8167,7 +8261,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T06:20:59+00:00",
+          "published_utc": "2026-11-24T22:20:59+00:00",
           "title": "William Byron Archives - NASCAR.com"
         }
       ]
@@ -8180,7 +8274,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Chase Briscoe Archives NASCAR.com",
-      "published_utc": "2026-11-25T07:23:01+00:00",
+      "published_utc": "2026-11-24T21:23:01+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -8193,8 +8287,60 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T07:23:01+00:00",
+          "published_utc": "2026-11-24T21:23:01+00:00",
           "title": "Chase Briscoe Archives - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "39c1823855a5f6ea4d51a927",
+      "topic": "NASCAR",
+      "title": "Josh Berry Archives - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tSXg0WkFUZGxSWV96WjNqVUMtRHNhanhKNVVHblpEZ0VDWmtKZ0tPdF9neGpERGlnOVpKMkVZWFUta0dROTZyamdKUFhhMTFPdGxlU1hpSDI3c2xoR1FMaTB2LXVQX0tsVE44d1JFLXNNYzBHQXI4YVZR?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Josh Berry Archives NASCAR.com",
+      "published_utc": "2026-11-24T21:26:57+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tSXg0WkFUZGxSWV96WjNqVUMtRHNhanhKNVVHblpEZ0VDWmtKZ0tPdF9neGpERGlnOVpKMkVZWFUta0dROTZyamdKUFhhMTFPdGxlU1hpSDI3c2xoR1FMaTB2LXVQX0tsVE44d1JFLXNNYzBHQXI4YVZR?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T21:26:57+00:00",
+          "title": "Josh Berry Archives - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "ecc13ac771d0c5058646ef47",
+      "topic": "NASCAR",
+      "title": "Richard Childress Racing Archives - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81WWY4bmpTRlpPb0NmQUR2MS0yZ0wzVWpKbDNpUW1pM3NsS1hLSVBIRWh1OGd6RXdiVUNoTlB4N3V3Q0NJcGNQak9maWhNREZjei1UOEJIdjF3Q2xHaWR5MzlsTFdxUlFfM1Z2dFhhTjVPX0VJT093bmlQOWZlams?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Richard Childress Racing Archives NASCAR.com",
+      "published_utc": "2026-11-25T04:08:44+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81WWY4bmpTRlpPb0NmQUR2MS0yZ0wzVWpKbDNpUW1pM3NsS1hLSVBIRWh1OGd6RXdiVUNoTlB4N3V3Q0NJcGNQak9maWhNREZjei1UOEJIdjF3Q2xHaWR5MzlsTFdxUlFfM1Z2dFhhTjVPX0VJT093bmlQOWZlams?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T04:08:44+00:00",
+          "title": "Richard Childress Racing Archives - NASCAR.com"
         }
       ]
     },
@@ -8206,7 +8352,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Team Penske Archives NASCAR.com",
-      "published_utc": "2026-11-25T08:05:18+00:00",
+      "published_utc": "2026-11-24T22:05:18+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -8219,7 +8365,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T08:05:18+00:00",
+          "published_utc": "2026-11-24T22:05:18+00:00",
           "title": "Team Penske Archives - NASCAR.com"
         }
       ]
@@ -8719,6 +8865,32 @@
       ]
     },
     {
+      "id": "a01c6f5752e37c0071e0a53b",
+      "topic": "IndyCar",
+      "title": "Why can some series race in the wet and others can’t? - RACER - Racing News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTm9qREZIckpzdjZKUE1JU0VEamJ3N2JDZHgwajlfQi1zQlM0aFd5Q2Z6el93Mll1SnpXeU8wemNHX1hJOHpmNEdadzYwUE02dDFadjM5RzBsUDd2bGJNTF81R0xpLVFBN1JqS0tYWFZnbEQ0VFMxam1raG5GN0YtclVhV0ZQdFYxRDZ0S25ES1o5SlRfbkE?oc=5",
+      "source": "RACER",
+      "publisher": "Racer",
+      "description": "Why can some series race in the wet and others can’t? RACER - Racing News",
+      "published_utc": "2026-11-24T23:56:11+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTm9qREZIckpzdjZKUE1JU0VEamJ3N2JDZHgwajlfQi1zQlM0aFd5Q2Z6el93Mll1SnpXeU8wemNHX1hJOHpmNEdadzYwUE02dDFadjM5RzBsUDd2bGJNTF81R0xpLVFBN1JqS0tYWFZnbEQ0VFMxam1raG5GN0YtclVhV0ZQdFYxRDZ0S25ES1o5SlRfbkE?oc=5",
+          "source": "RACER",
+          "publisher": "Racer",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T23:56:11+00:00",
+          "title": "Why can some series race in the wet and others can’t? - RACER - Racing News"
+        }
+      ]
+    },
+    {
       "id": "9f24991db542e660ab0fa0f2",
       "topic": "IndyCar",
       "title": "What is the difference between Virtual Safety Car and a Full Course Yellow? - RACER - Racing News",
@@ -8751,12 +8923,12 @@
       "url": "https://www.rallit.fi/hurja-legendojen-kohtaaminen-sebastien-loeb-haastaa-kahdeksankertaisen-maailmanmestarin",
       "source": "Rallit",
       "publisher": "Rallit",
-      "description": "Rallin ja rallicrossin supertähdet Sebastien Loeb ja Johan Kristoffersson iskevät yhteen joulukuussa Indonesiassa. Artikkeli Hurja legendojen kohtaaminen! Sebastien Loeb haastaa kahdeksankertaisen maailmanmestarin julkaistiin ensimmäisen kerran Rallit.fi .",
+      "description": "Rallin ja rallicrossin supertähdet Sebastien Loeb ja Johan Kristoffersson iskevät yhteen joulukuussa Indonesiassa.",
       "published_utc": "2026-11-25T14:18:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -8764,11 +8936,15 @@
           "url": "https://www.rallit.fi/hurja-legendojen-kohtaaminen-sebastien-loeb-haastaa-kahdeksankertaisen-maailmanmestarin",
           "source": "Rallit",
           "publisher": "Rallit",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T14:18:00+00:00",
           "title": "Hurja legendojen kohtaaminen! Sebastien Loeb haastaa kahdeksankertaisen maailmanmestarin"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T14:18:00+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "70e3218bcf45f4f3a1004808",
@@ -8945,12 +9121,12 @@
       "url": "https://www.formulapassion.it/motogp/motogp-news/di-giannantonio-morbidelli-la-fine-di-una-storia-in-vr46-a-valencia",
       "source": "FormulaPassion",
       "publisher": "FormulaPassion",
-      "description": "Le dichiarazioni di entrambi i piloti in attesa del GP spagnolo, l'ultimo della loro esperienza in MotoGP con il team di Valentino Rossi",
+      "description": "Il pilota del team VR46 sente già l'emozione per il suo ultimo weekend con la squadra. Una gara che sarà inoltre l'ultima in MotoGP per Morbidelli",
       "published_utc": "2026-11-25T14:00:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -8958,11 +9134,15 @@
           "url": "https://www.formulapassion.it/motogp/motogp-news/di-giannantonio-morbidelli-la-fine-di-una-storia-in-vr46-a-valencia",
           "source": "FormulaPassion",
           "publisher": "FormulaPassion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T14:00:00+00:00",
           "title": "Di Giannantonio e Morbidelli: la fine di una storia in VR46 a Valencia"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T14:00:00+00:00",
+      "article_modified_raw": "2026-11-25T13:15:26+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "122644b92efe58902755ac5e",
@@ -9091,12 +9271,12 @@
       "url": "https://www.formulapassion.it/moto2/moto2-news/gonzalez-vs-guevara-tutte-combinazioni-per-titolo-iridato-2026-valencia",
       "source": "FormulaPassion",
       "publisher": "FormulaPassion",
-      "description": "Tutti i dettagli che potrebbero premiare l'uno o l'altro pilota nella corsa al mondiale in occasione dell'ultima gara stagionale",
+      "description": "L'elenco di tutti i risultati nel dettaglio che potrebbero premiare il madrileno della Pramac o il maiorchino del team Intact GP",
       "published_utc": "2026-11-25T10:00:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -9104,11 +9284,15 @@
           "url": "https://www.formulapassion.it/moto2/moto2-news/gonzalez-vs-guevara-tutte-combinazioni-per-titolo-iridato-2026-valencia",
           "source": "FormulaPassion",
           "publisher": "FormulaPassion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T10:00:00+00:00",
           "title": "Gonzalez vs Guevara: tutte le combinazioni per il titolo iridato 2026 a Valencia"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T10:00:00+00:00",
+      "article_modified_raw": "2026-11-25T08:53:36+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "9f8093e4b32b01c8fd97edf2",
@@ -9117,12 +9301,12 @@
       "url": "https://www.formulapassion.it/indycar/novita-calendario-2027-dopo-17-anni-torna-kansas-speedway",
       "source": "FormulaPassion",
       "publisher": "FormulaPassion",
-      "description": "In programma il prossimo 8 maggio, la gara aumenterà a 18 il numero di appuntamenti",
+      "description": "Il circuito ovale, assente dal 2010, aumenterà a 18 il numero di appuntamenti stagionali nel 2027",
       "published_utc": "2026-11-25T09:41:36+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -9130,11 +9314,15 @@
           "url": "https://www.formulapassion.it/indycar/novita-calendario-2027-dopo-17-anni-torna-kansas-speedway",
           "source": "FormulaPassion",
           "publisher": "FormulaPassion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T09:41:36+00:00",
           "title": "Novità nel calendario 2027: dopo 17 anni torna il Kansas Speedway"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T09:41:36+00:00",
+      "article_modified_raw": "2026-11-25T09:41:41+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "ea8f8cb142e2af0507895388",
@@ -9173,12 +9361,12 @@
       "url": "https://www.formulapassion.it/f2/f2-news/tutto-pronto-per-ripresa-campionato-2026-lotta-titolo-notiva-orari",
       "source": "FormulaPassion",
       "publisher": "FormulaPassion",
-      "description": "Tutto ciò che c'è da sapere in vista del penultimo appuntamento della stagione",
+      "description": "Tutte le informazioni anche sugli orari e le dirette del penultimo appuntamento stagionale, il primo dopo due mesi di attesa",
       "published_utc": "2026-11-25T09:00:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -9186,11 +9374,15 @@
           "url": "https://www.formulapassion.it/f2/f2-news/tutto-pronto-per-ripresa-campionato-2026-lotta-titolo-notiva-orari",
           "source": "FormulaPassion",
           "publisher": "FormulaPassion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T09:00:00+00:00",
           "title": "Tutto pronto per la ripresa del campionato in Qatar: la lotta al titolo, le novità e gli orari"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T09:00:00+00:00",
+      "article_modified_raw": "2026-11-25T13:20:20+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "0eaed6c970a752ac1ea17b29",
@@ -9337,16 +9529,16 @@
     {
       "id": "7a638d9590b0eebd32eb3d61",
       "topic": "F1",
-      "title": "Pernat: “Gestione sportiva Ducati fondamentale nel titolo di Marquez. Tardozzi e Dall’Igna meritano 10 e lode”",
+      "title": "Pernat: &#8220;Gestione sportiva Ducati fondamentale nel titolo di Marquez. Tardozzi e Dall&#8217;Igna meritano 10 e lode&#8221;",
       "url": "https://www.formulapassion.it/motogp/motogp-news/pernat-gestione-sportiva-ducati-fondamentale-nel-titolo-di-marquez-tardozzi-e-dalligna-meritano-10-e-lode",
       "source": "FormulaPassion",
       "publisher": "FormulaPassion",
       "description": "Il manager genovese ha parlato in esclusiva a FormulaPassion.it del ruolo che il management Ducati ha avuto nella rinascita di Marquez",
       "published_utc": "2026-11-25T07:00:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -9354,11 +9546,15 @@
           "url": "https://www.formulapassion.it/motogp/motogp-news/pernat-gestione-sportiva-ducati-fondamentale-nel-titolo-di-marquez-tardozzi-e-dalligna-meritano-10-e-lode",
           "source": "FormulaPassion",
           "publisher": "FormulaPassion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T07:00:00+00:00",
-          "title": "Pernat: “Gestione sportiva Ducati fondamentale nel titolo di Marquez. Tardozzi e Dall’Igna meritano 10 e lode”"
+          "title": "Pernat: &#8220;Gestione sportiva Ducati fondamentale nel titolo di Marquez. Tardozzi e Dall&#8217;Igna meritano 10 e lode&#8221;"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T07:00:00+00:00",
+      "article_modified_raw": "2026-11-25T07:06:41+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "808813071218dedbf6b609b8",
@@ -9393,16 +9589,16 @@
     {
       "id": "39d2433ca57741c6f5775023",
       "topic": "F1",
-      "title": "Ancora 10 vittorie: il target di Marquez per l’ultimo sorpasso a Rossi",
+      "title": "Ancora 10 vittorie: il target di Marquez per l&#8217;ultimo sorpasso a Rossi",
       "url": "https://www.formulapassion.it/motogp/motogp-news/ancora-10-vittorie-il-target-di-marquez-per-ultimo-sorpasso-a-rossi",
       "source": "FormulaPassion",
       "publisher": "FormulaPassion",
       "description": "Il campione di Tavullia ha nove successi in MotoGP in più dello spagnolo, ma nel prossimo biennio anche questo primato potrebbe cadere",
       "published_utc": "2026-11-25T07:00:00+00:00",
       "date_jst": "2026-11-25",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -9410,11 +9606,15 @@
           "url": "https://www.formulapassion.it/motogp/motogp-news/ancora-10-vittorie-il-target-di-marquez-per-ultimo-sorpasso-a-rossi",
           "source": "FormulaPassion",
           "publisher": "FormulaPassion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T07:00:00+00:00",
-          "title": "Ancora 10 vittorie: il target di Marquez per l’ultimo sorpasso a Rossi"
+          "title": "Ancora 10 vittorie: il target di Marquez per l&#8217;ultimo sorpasso a Rossi"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T07:00:00+00:00",
+      "article_modified_raw": "2026-11-25T07:07:02+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "fc65aa0fe3eccec95fe216c9",
@@ -9566,7 +9766,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Nathan Solomon NASCAR.com",
-      "published_utc": "2026-11-25T08:05:18+00:00",
+      "published_utc": "2026-11-25T05:50:58+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -9579,7 +9779,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T08:05:18+00:00",
+          "published_utc": "2026-11-25T05:50:58+00:00",
           "title": "Nathan Solomon - NASCAR.com"
         }
       ]
@@ -10138,7 +10338,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Zane Smith Archives NASCAR.com",
-      "published_utc": "2026-11-25T10:12:35+00:00",
+      "published_utc": "2026-11-25T02:12:35+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -10151,7 +10351,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T10:12:35+00:00",
+          "published_utc": "2026-11-25T02:12:35+00:00",
           "title": "Zane Smith Archives - NASCAR.com"
         }
       ]
@@ -10190,7 +10390,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Hyak Motorsports Archives NASCAR.com",
-      "published_utc": "2026-11-25T07:26:57+00:00",
+      "published_utc": "2026-11-24T22:26:57+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -10203,7 +10403,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T07:26:57+00:00",
+          "published_utc": "2026-11-24T22:26:57+00:00",
           "title": "Hyak Motorsports Archives - NASCAR.com"
         }
       ]
@@ -10728,13 +10928,117 @@
           "title": "Hitting the links, movie premieres and two-wheel racing – what F1 drivers have been up to during the summer break - Formula 1"
         }
       ]
+    },
+    {
+      "id": "68621f73294dd5682f1c0abe",
+      "topic": "NASCAR",
+      "title": "Chris Buescher Archives - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRRTJ1Q0YtcWp5Wk4yZzlsdnM5RmxoZGltNUJ2VDJvWHNUdER4c1NvaURSTnNtaV9RdkRRMUthaHFPa1MyQklaTHhhdDdjalJFUXVsSEdFclJQTVF6ZE5vQzJQUEJnYU1yYXdIMVotdzc5QXBr?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Chris Buescher Archives NASCAR.com",
+      "published_utc": "2026-11-24T23:27:46+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRRTJ1Q0YtcWp5Wk4yZzlsdnM5RmxoZGltNUJ2VDJvWHNUdER4c1NvaURSTnNtaV9RdkRRMUthaHFPa1MyQklaTHhhdDdjalJFUXVsSEdFclJQTVF6ZE5vQzJQUEJnYU1yYXdIMVotdzc5QXBr?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T23:27:46+00:00",
+          "title": "Chris Buescher Archives - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "abd3d4cd37920d1c82194324",
+      "topic": "NASCAR",
+      "title": "Rick Ware Racing Archives - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96dTdKV3NyR1Zncm9mTGVCNGxCMjhnbTJPRDFZcGNDRkVYRFlzRFpDdE85QnlSd21nSG9PTGo5X2E3QXo1TjJMbmRIb01Yc0lzMzIzNWlHUkF3STQxOFJYWThzT0YyQVRtTmZpcDdNVTYzOVNu?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Rick Ware Racing Archives NASCAR.com",
+      "published_utc": "2026-11-25T04:38:40+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96dTdKV3NyR1Zncm9mTGVCNGxCMjhnbTJPRDFZcGNDRkVYRFlzRFpDdE85QnlSd21nSG9PTGo5X2E3QXo1TjJMbmRIb01Yc0lzMzIzNWlHUkF3STQxOFJYWThzT0YyQVRtTmZpcDdNVTYzOVNu?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T04:38:40+00:00",
+          "title": "Rick Ware Racing Archives - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "1ad7e50e4f7b99be7638d337",
+      "topic": "NASCAR",
+      "title": "Christian Eckes - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TSEtvRmtzN3B1Y0tIMGJnRDc3LUVieXlFS0VLSldsc1Atbm5LamFLalhqUXM5QTNFQUo4MjFaWDdWUGVJUWplM1VxaXJSLUNHRGhvYlJIamZWR1U?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Christian Eckes NASCAR.com",
+      "published_utc": "2026-11-24T23:00:45+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TSEtvRmtzN3B1Y0tIMGJnRDc3LUVieXlFS0VLSldsc1Atbm5LamFLalhqUXM5QTNFQUo4MjFaWDdWUGVJUWplM1VxaXJSLUNHRGhvYlJIamZWR1U?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T23:00:45+00:00",
+          "title": "Christian Eckes - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "fc3e5c00e9b5657530facdf8",
+      "topic": "NASCAR",
+      "title": "Neil Paine - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KY25MTW9weC1SRjBQNkVxc2pTUktSUlF1UGIxb3hfOS1XbVRlQ01LU1dLbkQxT3VhRlVDVTlMeWplRXFjMmVtQTRTYTE0WUtkSC1RSnpiOXhZR3Bl?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Neil Paine NASCAR.com",
+      "published_utc": "2026-11-24T22:08:18+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KY25MTW9weC1SRjBQNkVxc2pTUktSUlF1UGIxb3hfOS1XbVRlQ01LU1dLbkQxT3VhRlVDVTlMeWplRXFjMmVtQTRTYTE0WUtkSC1RSnpiOXhZR3Bl?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:08:18+00:00",
+          "title": "Neil Paine - NASCAR.com"
+        }
+      ]
     }
   ],
   "date_unknown": [],
   "health": {
-    "ok": 15,
-    "partial": 8,
-    "deferred": 2,
+    "ok": 9,
+    "deferred": 14,
+    "partial": 2,
     "empty": 1,
     "skipped": 7
   }

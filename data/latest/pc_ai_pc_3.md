@@ -34,19 +34,19 @@
 - [「WD Blue」12TB HDDが72,980円など特売、東芝のNAS向けHDD「N300」のキャッシュ1GBモデルが増加 \[11月後半のHDD価格\]](https://akiba-pc.watch.impress.co.jp/docs/price/monthly_repo/2158917.html) — AKIBA PC Hotline｜要確認｜2026-11-24T23:05:00+00:00 UTC｜article_metadata
 - [「バザールでござーる」が、35年間の感謝を伝える](https://pc.watch.impress.co.jp/docs/news/2159142.html) — PC Watch｜要確認｜2026-11-25T06:02:47+00:00 UTC｜article_metadata
 - [「半導体氷河期」を招く3つの衝撃――トランプ敗北、NVIDIAの経営混乱、メモリ各社の巨額投資：湯之上隆のナノフォーカス（97）（1/5 ページ）](https://eetimes.itmedia.co.jp/ee/articles/2611/25/news044.html) — ITmedia Mobile｜要確認｜2026-11-25T11:00:00+00:00 UTC｜article_metadata
-- [【本日みつけたお買い得品】松屋のうなぎ12食セットが5,000円引き！](https://pc.watch.impress.co.jp/docs/news/todays_sales/2159029.html) — PC Watch｜要確認｜2026-11-25T03:06:32+00:00 UTC｜feed_published
 - [シャドウで勝てずミニオン召喚で突破！「Path of Exile 2」1.0を試遊](https://pc.watch.impress.co.jp/docs/news/2158604.html) — PC Watch｜要確認｜2026-11-25T01:25:00+00:00 UTC｜article_metadata
 - [ヘッドセット・ゲームパッド用の収納フックがアイネックスから](https://akiba-pc.watch.impress.co.jp/docs/news/news/2158448.html) — AKIBA PC Hotline｜要確認｜2026-11-25T05:05:00+00:00 UTC｜article_metadata
 - [マウス、インテリアになじむ白いミニPC「mouse CA」](https://pc.watch.impress.co.jp/docs/news/2158984.html) — PC Watch｜要確認｜2026-11-25T02:36:34+00:00 UTC｜article_metadata
 - [ヨドバシ・ドット・コム「2027年 夢のお年玉箱」の告知ニュースが注目を集める](https://akiba-pc.watch.impress.co.jp/docs/rank/access/2159067.html) — AKIBA PC Hotline｜要確認｜2026-11-25T08:05:00+00:00 UTC｜article_metadata
 - [半導体後工程の基礎工事「ダイボンディング」　超精密実装の仕組みと重要性：いまさら聞けない 半導体後工程（4）（1/3 ページ）](https://monoist.itmedia.co.jp/mn/articles/2611/25/news010.html) — ITmedia Mobile｜要確認｜2026-11-25T08:00:00+00:00 UTC｜article_metadata
-- [学術評価から負荷試験まで、オープンLLMを丸ごと測る「gBench」](https://pc.watch.impress.co.jp/docs/news/2159193.html) — PC Watch｜要確認｜2026-11-25T07:57:20+00:00 UTC｜feed_published
+- [学術評価から負荷試験まで、オープンLLMを丸ごと測る「gBench」](https://pc.watch.impress.co.jp/docs/news/2159193.html) — PC Watch｜要確認｜2026-11-25T07:57:20+00:00 UTC｜article_metadata
 - [小型で低発熱なUSB充電器。エレコムが日本電源技術メーカーと協業](https://pc.watch.impress.co.jp/docs/news/2158950.html) — PC Watch｜要確認｜2026-11-25T02:00:00+00:00 UTC｜article_metadata
 - [山田涼介×Crazy Raccoonの木目調PC、今度は14型ノートが登場](https://pc.watch.impress.co.jp/docs/news/2159104.html) — PC Watch｜要確認｜2026-11-25T05:02:16+00:00 UTC｜article_metadata
 - [有線/無線両対応の75%ゲーミングキーボード「VGN N75 V2」が入荷、計3モデル](https://akiba-pc.watch.impress.co.jp/docs/news/news/2157952.html) — AKIBA PC Hotline｜要確認｜2026-11-25T01:05:00+00:00 UTC｜article_metadata
+- [松屋のうなぎ12食セットが5,000円引き！](https://pc.watch.impress.co.jp/docs/news/todays_sales/2159029.html) — PC Watch｜要確認｜2026-11-25T03:06:32+00:00 UTC｜article_metadata
 - [海外で変換アダプタが不要！プラグ3種内蔵の100W急速充電器、Ankerから](https://pc.watch.impress.co.jp/docs/news/2158965.html) — PC Watch｜要確認｜2026-11-25T01:57:07+00:00 UTC｜article_metadata
 - [片手で使える「NEKO ミニ電動式ミシン」が1,500円](https://akiba-pc.watch.impress.co.jp/docs/news/news/2158368.html) — AKIBA PC Hotline｜要確認｜2026-11-25T04:05:00+00:00 UTC｜article_metadata
 - [管理画面は本体ボタンを押さないと開かない、アイオーデータの新NAS「HDL-LH」](https://pc.watch.impress.co.jp/docs/news/2158654.html) — PC Watch｜要確認｜2026-11-25T02:00:00+00:00 UTC｜article_metadata
 - [腕時計風デザインのトイカメラ「スマートウォッチ型TOYカメラ2」が800円](https://akiba-pc.watch.impress.co.jp/docs/news/news/2158380.html) — AKIBA PC Hotline｜要確認｜2026-11-25T01:30:00+00:00 UTC｜article_metadata
-- [自作VRMキャラがウィンドウに座る！「VRM Mate」30日Steam発売](https://pc.watch.impress.co.jp/docs/news/2159182.html) — PC Watch｜要確認｜2026-11-25T07:32:06+00:00 UTC｜feed_published
+- [自作VRMキャラがウィンドウに座る！「VRM Mate」30日Steam発売](https://pc.watch.impress.co.jp/docs/news/2159182.html) — PC Watch｜要確認｜2026-11-25T07:32:06+00:00 UTC｜article_metadata
 - [400 Bad Request Request Header Or Cookie Too Large Microsoft-Azure-Application-Gateway/v2 - Microsoft Learn](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVnl3bVdseXE5SWZaR1BCOVB5dzlyM3hhVWpXWGYyRk1mdEZCVnprVTRfNXg5Nzk4SnhjMlRUb0xoRGhXZFE4cHdxNW1vRHBfODF6TmRDOElqMmdRYWFYUXFlU1dBbGJmRFM0amV1amd4aWJucVBLRHl1ZjJOUGk0T0tOMmVkT3FtYjFmUHRRZGRoQ3FQdk5TVjRnWlVfRjZ0Y0tQSnU1bUVBR0RUX1JN?oc=5) — Microsoft Windows｜要確認｜2026-11-25T07:58:34+00:00 UTC｜discovery_index

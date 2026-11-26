@@ -875,7 +875,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Using the new experience in the ChatGPT mobile app | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-23T12:00:24+00:00",
+      "published_utc": "2026-11-22T23:36:17+00:00",
       "date_jst": "2026-11-23",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -888,7 +888,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T12:00:24+00:00",
+          "published_utc": "2026-11-22T23:36:17+00:00",
           "title": "Using the new experience in the ChatGPT mobile app | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -901,7 +901,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Using ChatGPT for accounting work | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-22T23:42:34+00:00",
+      "published_utc": "2026-11-23T00:05:18+00:00",
       "date_jst": "2026-11-23",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -914,7 +914,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-22T23:42:34+00:00",
+          "published_utc": "2026-11-23T00:05:18+00:00",
           "title": "Using ChatGPT for accounting work | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -927,7 +927,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Claiming ad credits with ChatGPT Business | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-23T11:41:24+00:00",
+      "published_utc": "2026-11-23T03:01:16+00:00",
       "date_jst": "2026-11-23",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -940,7 +940,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T11:41:24+00:00",
+          "published_utc": "2026-11-23T03:01:16+00:00",
           "title": "Claiming ad credits with ChatGPT Business | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -972,6 +972,32 @@
       ]
     },
     {
+      "id": "943dffa0e5a1f3bafecd65b7",
+      "topic": "ai",
+      "title": "Making purchases with ChatGPT Wallet | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelJhRTJ5YjExZkJKUllxcWI5TVZnUEp4MGpTSDdXMGQzbGt1dHJ5dkFkM1dqaHpkRkNjcFR0LXJ2SS1FTTJJbE5EU1dKZGFLTXF6eGlnMEQyVkROb3piVEwzUk94NnZnZWtWMzN6dlJQTnVUQUVHYl9aNkJSc3dqQkdZXzdOeE9J?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "Making purchases with ChatGPT Wallet | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-23T05:36:14+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelJhRTJ5YjExZkJKUllxcWI5TVZnUEp4MGpTSDdXMGQzbGt1dHJ5dkFkM1dqaHpkRkNjcFR0LXJ2SS1FTTJJbE5EU1dKZGFLTXF6eGlnMEQyVkROb3piVEwzUk94NnZnZWtWMzN6dlJQTnVUQUVHYl9aNkJSc3dqQkdZXzdOeE9J?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T05:36:14+00:00",
+          "title": "Making purchases with ChatGPT Wallet | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
       "id": "5136200f3261bff07d6bb43b",
       "topic": "ai",
       "title": "Retiring Advanced and Standard Voice in ChatGPT | OpenAI Help Center - OpenAI Help Center",
@@ -979,7 +1005,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Retiring Advanced and Standard Voice in ChatGPT | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-23T00:25:18+00:00",
+      "published_utc": "2026-11-23T03:17:34+00:00",
       "date_jst": "2026-11-23",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -992,7 +1018,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T00:25:18+00:00",
+          "published_utc": "2026-11-23T03:17:34+00:00",
           "title": "Retiring Advanced and Standard Voice in ChatGPT | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -1046,6 +1072,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T03:16:51+00:00",
           "title": "Instructions for AI Assistants - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "7de7f34760d1ac87d69e2c20",
+      "topic": "ai",
+      "title": "Setting up a Sponsored Business Agent in Ads Manager | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbnMtd2YydVc0M241aWlTcjdFRTNfRU9pdVc3c3EzMUhaOHpFdERFYzFYR3VaQ0FZYWlfcFBUVXp3azdNQWFFalZ0NWdpT0ktUXpDYnhLWFQ1LURTNUdqVmpOMjFPQXJQdWtjUUl3VFlvRGdzaUJEQ1p6RXNFeTNvcS1MQXNBRk9oRmhwTWIzd0Z0b1VhMUZ3UUUzeklvUQ?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "Setting up a Sponsored Business Agent in Ads Manager | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-23T02:28:33+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbnMtd2YydVc0M241aWlTcjdFRTNfRU9pdVc3c3EzMUhaOHpFdERFYzFYR3VaQ0FZYWlfcFBUVXp3azdNQWFFalZ0NWdpT0ktUXpDYnhLWFQ1LURTNUdqVmpOMjFPQXJQdWtjUUl3VFlvRGdzaUJEQ1p6RXNFeTNvcS1MQXNBRk9oRmhwTWIzd0Z0b1VhMUZ3UUUzeklvUQ?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T02:28:33+00:00",
+          "title": "Setting up a Sponsored Business Agent in Ads Manager | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -3655,6 +3707,32 @@
       ]
     },
     {
+      "id": "048704cef30e565495385595",
+      "topic": "ai",
+      "title": "Using locked chats in ChatGPT | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OaXFlekxiYk1nMWJRelNPLUVCd3pvOFhMRUFmUXJudGJ6OWhPNno5OW5pYlk1UXhhMXdzRDNTaElreWM3VmtXZzBBZlF5Tzh5cV9IV25VUkt6OTFzZVI3dnlma18yV1ItcmJRbTdMWFVOR2QzeEd3aUlZVTQ0cm8?oc=5",
+      "source": "OpenAI",
+      "publisher": "OpenAI Help Center",
+      "description": "Using locked chats in ChatGPT | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-23T07:31:09+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OaXFlekxiYk1nMWJRelNPLUVCd3pvOFhMRUFmUXJudGJ6OWhPNno5OW5pYlk1UXhhMXdzRDNTaElreWM3VmtXZzBBZlF5Tzh5cV9IV25VUkt6OTFzZVI3dnlma18yV1ItcmJRbTdMWFVOR2QzeEd3aUlZVTQ0cm8?oc=5",
+          "source": "OpenAI",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T07:31:09+00:00",
+          "title": "Using locked chats in ChatGPT | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
       "id": "1c004056727102065c8d86f5",
       "topic": "ai",
       "title": "Ads Manager Account Setup | OpenAI Help Center - OpenAI Help Center",
@@ -3688,7 +3766,7 @@
       "source": "OpenAI",
       "publisher": "OpenAI Help Center",
       "description": "Custom GPT retirement and migration FAQ | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-22T15:50:21+00:00",
+      "published_utc": "2026-11-23T03:58:55+00:00",
       "date_jst": "2026-11-23",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -3701,7 +3779,7 @@
           "source": "OpenAI",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-22T15:50:21+00:00",
+          "published_utc": "2026-11-23T03:58:55+00:00",
           "title": "Custom GPT retirement and migration FAQ | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -4810,7 +4888,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Using the ChatGPT mobile app (classic experience) | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-23T01:12:00+00:00",
+      "published_utc": "2026-11-23T06:44:27+00:00",
       "date_jst": "2026-11-23",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -4823,7 +4901,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T01:12:00+00:00",
+          "published_utc": "2026-11-23T06:44:27+00:00",
           "title": "Using the ChatGPT mobile app (classic experience) | OpenAI Help Center - OpenAI Help Center"
         }
       ]

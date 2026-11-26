@@ -1278,7 +1278,7 @@
       "source": "Valve Steam Deck",
       "publisher": "Steam",
       "description": "UNCHARTED™: Legacy of Thieves Collection Steam",
-      "published_utc": "2026-11-24T21:12:16+00:00",
+      "published_utc": "2026-11-25T03:22:15+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -1291,7 +1291,7 @@
           "source": "Valve Steam Deck",
           "publisher": "Steam",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T21:12:16+00:00",
+          "published_utc": "2026-11-25T03:22:15+00:00",
           "title": "UNCHARTED™: Legacy of Thieves Collection - Steam"
         }
       ]
@@ -2094,7 +2094,7 @@
       "source": "Valve Steam Deck",
       "publisher": "Steam",
       "description": "CPM 2 Steam",
-      "published_utc": "2026-11-24T22:57:31+00:00",
+      "published_utc": "2026-11-25T04:56:31+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -2107,7 +2107,7 @@
           "source": "Valve Steam Deck",
           "publisher": "Steam",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T22:57:31+00:00",
+          "published_utc": "2026-11-25T04:56:31+00:00",
           "title": "CPM 2 - Steam"
         }
       ],
@@ -3269,7 +3269,7 @@
       "source": "Steam racing updates",
       "publisher": "Steam",
       "description": "Tom Clancy's Ghost Recon® Breakpoint Steam",
-      "published_utc": "2026-11-24T15:28:04+00:00",
+      "published_utc": "2026-11-25T06:48:26+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -3282,7 +3282,7 @@
           "source": "Steam racing updates",
           "publisher": "Steam",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T15:28:04+00:00",
+          "published_utc": "2026-11-25T06:48:26+00:00",
           "title": "Tom Clancy's Ghost Recon® Breakpoint - Steam"
         }
       ]
@@ -3560,7 +3560,7 @@
       "source": "Steam racing updates",
       "publisher": "Steam",
       "description": "Sonic Racing: CrossWorlds Steam",
-      "published_utc": "2026-11-24T19:29:56+00:00",
+      "published_utc": "2026-11-25T07:39:21+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -3573,7 +3573,7 @@
           "source": "Steam racing updates",
           "publisher": "Steam",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T19:29:56+00:00",
+          "published_utc": "2026-11-25T07:39:21+00:00",
           "title": "Sonic Racing: CrossWorlds - Steam"
         }
       ]
@@ -5589,7 +5589,7 @@
       "source": "Steam racing updates",
       "publisher": "Steam",
       "description": "Arma Reforger - Rally Steam",
-      "published_utc": "2026-11-25T00:17:29+00:00",
+      "published_utc": "2026-11-25T03:24:50+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -5602,7 +5602,7 @@
           "source": "Steam racing updates",
           "publisher": "Steam",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T00:17:29+00:00",
+          "published_utc": "2026-11-25T03:24:50+00:00",
           "title": "Arma Reforger - Rally - Steam"
         }
       ]
@@ -6022,12 +6022,325 @@
           "title": "Peugeot 306 Maxi Europcar 0.1 - overtake.gg"
         }
       ]
+    },
+    {
+      "id": "c1df8c9f2a1edcc9cbf1d6b2",
+      "topic": "racing_games",
+      "title": "Forza Horizon 5 - Steam",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2M1AxQXZOM0dQSEQydWVJSnhSckF2RFh2VGp4bUJScXA0RkJUMFJleDZkM1doSE5leVlpdGVMOHRtLWMzWE9Pcmw5RXpmUy1sRVIwWGZVZ0Vjb1U3SVNpQlBudnNPcnNPRm9Z?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Forza Horizon 5 Steam",
+      "published_utc": "2026-11-25T05:38:50+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2M1AxQXZOM0dQSEQydWVJSnhSckF2RFh2VGp4bUJScXA0RkJUMFJleDZkM1doSE5leVlpdGVMOHRtLWMzWE9Pcmw5RXpmUy1sRVIwWGZVZ0Vjb1U3SVNpQlBudnNPcnNPRm9Z?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T05:38:50+00:00",
+          "title": "Forza Horizon 5 - Steam"
+        }
+      ]
+    },
+    {
+      "id": "519e19b8c113b789656a352e",
+      "topic": "racing_games",
+      "title": "STAR WARS: Galactic Racer™ - Steam",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuSmYtVHR1WnZZR0I4MzhUVmNSa09nWDJmUjl2V1p2MzgwVkc2TkduSmtRREpRXzFaWmRnWDBOaGhxUV9rcW9Zb1I2RFFGZFJ5WTJJdFh6elhEcWF4TjI2ZXM3TXZwejhtMXB6SHZZQkwxdkZFaWNz?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "STAR WARS: Galactic Racer™ Steam",
+      "published_utc": "2026-11-25T05:36:49+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuSmYtVHR1WnZZR0I4MzhUVmNSa09nWDJmUjl2V1p2MzgwVkc2TkduSmtRREpRXzFaWmRnWDBOaGhxUV9rcW9Zb1I2RFFGZFJ5WTJJdFh6elhEcWF4TjI2ZXM3TXZwejhtMXB6SHZZQkwxdkZFaWNz?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T05:36:49+00:00",
+          "title": "STAR WARS: Galactic Racer™ - Steam"
+        }
+      ]
+    },
+    {
+      "id": "e96b361b273c951a45c8f58d",
+      "topic": "racing_games",
+      "title": "F1® 25 - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3aUYzbkVKTDNRbGItVDRQU3Fvd0RRTE1OT2hzMFV3ZERIdmxodkRxR3d1OTBSR19wUlNxNlQzNVZVV1B2VEpNX1NTNnFTUV9HTHVOekl2R2JicDhQN1E?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "F1® 25 Steam",
+      "published_utc": "2026-11-25T07:19:16+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3aUYzbkVKTDNRbGItVDRQU3Fvd0RRTE1OT2hzMFV3ZERIdmxodkRxR3d1OTBSR19wUlNxNlQzNVZVV1B2VEpNX1NTNnFTUV9HTHVOekl2R2JicDhQN1E?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T07:19:16+00:00",
+          "title": "F1® 25 - Steam"
+        }
+      ]
+    },
+    {
+      "id": "d6aebe8ece9a174a4b52f29c",
+      "topic": "racing_games",
+      "title": "Taxi Life: A City Driving Simulator - Steam",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbzFsVEl0ZFZIOUtYQlM0Rm5oVlM3d2tLRXRpbzNIWl80NW5YQ3l1S3d3OTZnRjlpOHZrZExQcmt5MXhudDBLT2tyc29MYll5bVZ5LXNfWUFDUGluRW1zVXd3LUN6ME5YdzdnTFMzd2gxZkRjRmJaeDZWb3NIZENSYTItOS0?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Taxi Life: A City Driving Simulator Steam",
+      "published_utc": "2026-11-25T01:29:40+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbzFsVEl0ZFZIOUtYQlM0Rm5oVlM3d2tLRXRpbzNIWl80NW5YQ3l1S3d3OTZnRjlpOHZrZExQcmt5MXhudDBLT2tyc29MYll5bVZ5LXNfWUFDUGluRW1zVXd3LUN6ME5YdzdnTFMzd2gxZkRjRmJaeDZWb3NIZENSYTItOS0?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T01:29:40+00:00",
+          "title": "Taxi Life: A City Driving Simulator - Steam"
+        }
+      ]
+    },
+    {
+      "id": "283858ca2a079542643956e0",
+      "topic": "racing_games",
+      "title": "Bar After Bar - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CRmFwX1pETHY2ZjJrblBsU0lKVXVzenZGRVEyZTlSVl81R191Y01yZVhILU9SLTFENWFBbmRNd2tvUi1odWhoQXlHSXhOTTZ6UGxNcU0xWDd3cS04M2J1bGhId2s5UHhq?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Bar After Bar Steam",
+      "published_utc": "2026-11-25T06:13:02+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CRmFwX1pETHY2ZjJrblBsU0lKVXVzenZGRVEyZTlSVl81R191Y01yZVhILU9SLTFENWFBbmRNd2tvUi1odWhoQXlHSXhOTTZ6UGxNcU0xWDd3cS04M2J1bGhId2s5UHhq?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T06:13:02+00:00",
+          "title": "Bar After Bar - Steam"
+        }
+      ]
+    },
+    {
+      "id": "9a47819a555a6cf3e91c1631",
+      "topic": "racing_games",
+      "title": "My Summer Car - Steam",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSjBqbmdQaU0wMTlJVEVkS0s2RTd5cEpkeGhUb0JZZWNUVVA4czlmQlNKUmpEcEs1VmcyT0lsV015aDZuVEp5MW9XVGh5dkpaNmJGbTkteUxTdTVCM3BvdWlZWWZKSnExSUdiS2FjTVlfa21BMlltdGJ2WlhKeDFyTUZLN1psMnc?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "My Summer Car Steam",
+      "published_utc": "2026-11-24T19:20:23+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSjBqbmdQaU0wMTlJVEVkS0s2RTd5cEpkeGhUb0JZZWNUVVA4czlmQlNKUmpEcEs1VmcyT0lsV015aDZuVEp5MW9XVGh5dkpaNmJGbTkteUxTdTVCM3BvdWlZWWZKSnExSUdiS2FjTVlfa21BMlltdGJ2WlhKeDFyTUZLN1psMnc?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T19:20:23+00:00",
+          "title": "My Summer Car - Steam"
+        }
+      ]
+    },
+    {
+      "id": "ae1dae9e68f953abc259f4e7",
+      "topic": "racing_games",
+      "title": "Save 67% on Mafia on Steam - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyTHplUjZpR1drUWUzZWRwTU9BeUhNeGRrdkZwdmFIYWpxbGFWaEpPZGRMTmtITmtQWVotTkJsRXVwZVVJU3daTkR5U21GTFFucHc?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Save 67% on Mafia on Steam Steam",
+      "published_utc": "2026-11-25T03:54:25+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyTHplUjZpR1drUWUzZWRwTU9BeUhNeGRrdkZwdmFIYWpxbGFWaEpPZGRMTmtITmtQWVotTkJsRXVwZVVJU3daTkR5U21GTFFucHc?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T03:54:25+00:00",
+          "title": "Save 67% on Mafia on Steam - Steam"
+        }
+      ]
+    },
+    {
+      "id": "26f37ce58af04341506fd6fa",
+      "topic": "racing_games",
+      "title": "Horsey Game - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kcXN4MjNPLWhqVVo2YlZyUHlzRFlWdTFjWnFWMk9XUUlvWV83XzlLMzBQRDFVMWFPNVpsSlo3SG1KRk9zWndxV21pVmZ6bF9ldnJQaA?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Horsey Game Steam",
+      "published_utc": "2026-11-25T03:23:26+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kcXN4MjNPLWhqVVo2YlZyUHlzRFlWdTFjWnFWMk9XUUlvWV83XzlLMzBQRDFVMWFPNVpsSlo3SG1KRk9zWndxV21pVmZ6bF9ldnJQaA?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T03:23:26+00:00",
+          "title": "Horsey Game - Steam"
+        }
+      ]
+    },
+    {
+      "id": "1c08bbd7080c71527642a4b1",
+      "topic": "racing_games",
+      "title": "Vampires: Bloodlord Rising - Steam",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJdS1LVVBIWk1zTXhuOGZtckxadGZaN0FrUXExdWNsN1Y2UExaVFNFME1fVzhfYmkwcnNxMEg0N1Z5U3ZRdGQwY3QyRm5xWTdJRExfUlZSZDF3Mmtfb2hVbmNHakNHUUFUOUlUcmpldFhmYmh5bzF6WA?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Vampires: Bloodlord Rising Steam",
+      "published_utc": "2026-11-25T02:21:31+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJdS1LVVBIWk1zTXhuOGZtckxadGZaN0FrUXExdWNsN1Y2UExaVFNFME1fVzhfYmkwcnNxMEg0N1Z5U3ZRdGQwY3QyRm5xWTdJRExfUlZSZDF3Mmtfb2hVbmNHakNHUUFUOUlUcmpldFhmYmh5bzF6WA?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T02:21:31+00:00",
+          "title": "Vampires: Bloodlord Rising - Steam"
+        }
+      ]
+    },
+    {
+      "id": "12ce6230d955ee4f65519c66",
+      "topic": "racing_games",
+      "title": "Resident Evil 5 - Steam",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FdXVyOWJrLVBJdDNYcDhraS1rMEFYcXpBWmlMVHc4S21EbXoyRGx5ZjNubHBVbEh6eExPeWl0VlJlVTM2cFVVWXpPSWM2RUNSLTBBSHViZGFYX2U4bkI1SnhFMVBvLWRnYlNRaVVtY2lycWFQYlE?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Resident Evil 5 Steam",
+      "published_utc": "2026-11-25T04:29:37+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FdXVyOWJrLVBJdDNYcDhraS1rMEFYcXpBWmlMVHc4S21EbXoyRGx5ZjNubHBVbEh6eExPeWl0VlJlVTM2cFVVWXpPSWM2RUNSLTBBSHViZGFYX2U4bkI1SnhFMVBvLWRnYlNRaVVtY2lycWFQYlE?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T04:29:37+00:00",
+          "title": "Resident Evil 5 - Steam"
+        }
+      ]
+    },
+    {
+      "id": "8920272aa8d7be33871297ab",
+      "topic": "racing_games",
+      "title": "Car For Sale Simulator - Steam",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tSEdwdWUxdUFHVEUxeU15Zk1Pb29GN0R6QS1JZ09ncFNpLXFDcjFjWm5jWWh3WXg0N1IxU2FVbFJRT1c1VDdwVDgwZHJ0MXdOREE1LWxoMzRqalJrNC1jcW9jZWFiY0VVZC1PcVkyVWxLekVs?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Car For Sale Simulator Steam",
+      "published_utc": "2026-11-25T02:03:02+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tSEdwdWUxdUFHVEUxeU15Zk1Pb29GN0R6QS1JZ09ncFNpLXFDcjFjWm5jWWh3WXg0N1IxU2FVbFJRT1c1VDdwVDgwZHJ0MXdOREE1LWxoMzRqalJrNC1jcW9jZWFiY0VVZC1PcVkyVWxLekVs?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T02:03:02+00:00",
+          "title": "Car For Sale Simulator - Steam"
+        }
+      ]
+    },
+    {
+      "id": "0ddbfd0e47e26cc68813bd06",
+      "topic": "racing_games",
+      "title": "FEED IT - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41d3FtTzBCeGdKamdDdkxBM0VqOWpzcXI4aEg1R0FxbTc3eUJ4Um1rNmZPSFQ5c2duNEpraVhhQ3JGazhCRGE5ZEtSRVBpTFVXb3R6a29uSlZjd29nZW9fag?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "FEED IT Steam",
+      "published_utc": "2026-11-25T05:32:32+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41d3FtTzBCeGdKamdDdkxBM0VqOWpzcXI4aEg1R0FxbTc3eUJ4Um1rNmZPSFQ5c2duNEpraVhhQ3JGazhCRGE5ZEtSRVBpTFVXb3R6a29uSlZjd29nZW9fag?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T05:32:32+00:00",
+          "title": "FEED IT - Steam"
+        }
+      ]
     }
   ],
   "date_unknown": [],
   "health": {
-    "partial": 8,
-    "ok": 15,
+    "partial": 6,
+    "ok": 12,
+    "deferred": 5,
     "empty": 9,
     "skipped": 9,
     "manual": 4

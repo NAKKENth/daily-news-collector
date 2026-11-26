@@ -2689,6 +2689,32 @@
           "title": "WINDSCREEN DIRT v1.0 – for RSS GTM Furiano 96 V6 - overtake.gg"
         }
       ]
+    },
+    {
+      "id": "15f7b57cef22f5b6443cd379",
+      "topic": "racing_games",
+      "title": "VMX - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wS240Qno1aTZFSkZUV1BWdGRpeFd2OGYwSl9sbjVCOC1RaDZaMXVnSlNyTFU0NTFTQ3VIRm1wd0s4R2FQdzc2MVJYN1VPdGNLcTdwWlY1cVpxT1U?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "VMX Steam",
+      "published_utc": "2026-11-23T08:00:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wS240Qno1aTZFSkZUV1BWdGRpeFd2OGYwSl9sbjVCOC1RaDZaMXVnSlNyTFU0NTFTQ3VIRm1wd0s4R2FQdzc2MVJYN1VPdGNLcTdwWlY1cVpxT1U?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T08:00:00+00:00",
+          "title": "VMX - Steam"
+        }
+      ]
     }
   ],
   "date_unknown": [],

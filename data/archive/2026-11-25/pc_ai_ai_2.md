@@ -2,8 +2,8 @@
 
 - [Microsoft declares ‘Code Red’ after huge Outlook outage](https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage) — The Verge｜要確認｜2026-11-25T11:12:42+00:00 UTC｜feed_published
 - [Microsoft's historic cloud outage exposed an engineering “fog of war”](https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war) — Ars Technica｜要確認｜2026-11-24T22:36:28+00:00 UTC｜article_metadata
-- [NASA may get $2 billion boost as White House seeks to accelerate Artemis](https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis) — Ars Technica｜要確認｜2026-11-24T16:12:46+00:00 UTC｜feed_published
-- [NVIDIA、LLM方式の画像生成AI「Nemotron-Labs-Image」を無償公開](https://pc.watch.impress.co.jp/docs/news/2159286.html) — PC Watch｜要確認｜2026-11-25T13:29:23+00:00 UTC｜feed_published
+- [NASA may get $2 billion boost as White House seeks to accelerate Artemis](https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis) — Ars Technica｜要確認｜2026-11-24T16:12:46+00:00 UTC｜article_metadata
+- [NVIDIA、LLM方式の画像生成AI「Nemotron-Labs-Image」を無償公開](https://pc.watch.impress.co.jp/docs/news/2159286.html) — PC Watch｜要確認｜2026-11-25T13:29:23+00:00 UTC｜article_metadata
 - [No more heated seat subscriptions for cars in New York from 2027](https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it) — Ars Technica｜要確認｜2026-11-24T16:20:37+00:00 UTC｜article_metadata
 - [OpenAI prepares dedicated email inboxes for ChatGPT Dots](https://www.testingcatalog.com/openai-prepares-dedicated-email-inboxes-for-chatgpt-dots) — TestingCatalog｜要確認｜2026-11-24T17:05:51+00:00 UTC｜feed_published
 - [Pinterest will now let parents limit the AI-generated content their teens see](https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see) — TechCrunch｜要確認｜2026-11-24T16:02:37+00:00 UTC｜feed_published

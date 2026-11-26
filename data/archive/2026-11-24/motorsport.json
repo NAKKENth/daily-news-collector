@@ -2104,58 +2104,6 @@
       ]
     },
     {
-      "id": "136a83da35b58ef2478b63e9",
-      "topic": "NASCAR",
-      "title": "Joey Logano Archives - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80S1VOd3NsdjYyS0V5dmluRDJ2ZGRXZTVHeFZKYmtaQkZ4ZmkyTnRVSUFXM0E5OGVoeDBxOVYxazlYazhZaGF2eG5DZWJjM1BISUktbkU3bTQyQ1VFclNZaUpubzVuUndOZ1k1NEIxcEs?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "Joey Logano Archives NASCAR.com",
-      "published_utc": "2026-11-24T01:03:03+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80S1VOd3NsdjYyS0V5dmluRDJ2ZGRXZTVHeFZKYmtaQkZ4ZmkyTnRVSUFXM0E5OGVoeDBxOVYxazlYazhZaGF2eG5DZWJjM1BISUktbkU3bTQyQ1VFclNZaUpubzVuUndOZ1k1NEIxcEs?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T01:03:03+00:00",
-          "title": "Joey Logano Archives - NASCAR.com"
-        }
-      ]
-    },
-    {
-      "id": "ea40ab3297b05b888b96c8ad",
-      "topic": "NASCAR",
-      "title": "Zack Albert - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16a3FBbnhrSldycy1FY3hFbGktQzdLUVpSSC1hRjcwRk1ZdWl2NUhhMEItTFc1X1hKWDB4TWN6Nzl6aENXdERjSDZyQUQyQXFYUk5TQzB2UzUtY2tHY2c?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "Zack Albert NASCAR.com",
-      "published_utc": "2026-11-24T14:08:33+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16a3FBbnhrSldycy1FY3hFbGktQzdLUVpSSC1hRjcwRk1ZdWl2NUhhMEItTFc1X1hKWDB4TWN6Nzl6aENXdERjSDZyQUQyQXFYUk5TQzB2UzUtY2tHY2c?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T14:08:33+00:00",
-          "title": "Zack Albert - NASCAR.com"
-        }
-      ]
-    },
-    {
       "id": "ce9f5ef63fc5ba113684c76f",
       "topic": "NASCAR",
       "title": "misc Archives - NASCAR.com",
@@ -7987,32 +7935,6 @@
       ]
     },
     {
-      "id": "70ae6e7100944ddb4338fcdb",
-      "topic": "NASCAR",
-      "title": "Kyle Larson Archives - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TSm1zNVZ6LTZSZG9QQkx6Zy1qbnEzTnBKU3RhalpZaVp2c0poRWQxcV9xTjFoRnZBRTh3TzZVZEhjRENPdHc0VW0tTW1jOEVxTHhCU09fWlJCTGhCaXJ0LUYyUWlvWTBNR3NCMTlybXk?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "Kyle Larson Archives NASCAR.com",
-      "published_utc": "2026-11-23T21:27:36+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TSm1zNVZ6LTZSZG9QQkx6Zy1qbnEzTnBKU3RhalpZaVp2c0poRWQxcV9xTjFoRnZBRTh3TzZVZEhjRENPdHc0VW0tTW1jOEVxTHhCU09fWlJCTGhCaXJ0LUYyUWlvWTBNR3NCMTlybXk?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T21:27:36+00:00",
-          "title": "Kyle Larson Archives - NASCAR.com"
-        }
-      ]
-    },
-    {
       "id": "0bed24864591b892666f191e",
       "topic": "NASCAR",
       "title": "Ricky Stenhouse Jr Archives - NASCAR.com",
@@ -8846,6 +8768,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T02:27:22+00:00",
           "title": "Stats 2 Rally Storico del Brunello - Classiche 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "0516a1a90905f67dc5bf7f71",
+      "topic": "NASCAR",
+      "title": "Bubba Wallace Archives - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aY1pIaUhzN2I0YjluWXlvNE52SHJNQU9odFZWR1Axcm1SVjctcGp5TThCOHpUM0hENmhleElfbnVtN1libnBaYUx1STk4U29SaWtzZWtzQTNWdzVWUnM5d2FHeFh5aVduMWpsYVRmMnk1eVE?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Bubba Wallace Archives NASCAR.com",
+      "published_utc": "2026-11-23T18:39:16+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aY1pIaUhzN2I0YjluWXlvNE52SHJNQU9odFZWR1Axcm1SVjctcGp5TThCOHpUM0hENmhleElfbnVtN1libnBaYUx1STk4U29SaWtzZWtzQTNWdzVWUnM5d2FHeFh5aVduMWpsYVRmMnk1eVE?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T18:39:16+00:00",
+          "title": "Bubba Wallace Archives - NASCAR.com"
         }
       ]
     }

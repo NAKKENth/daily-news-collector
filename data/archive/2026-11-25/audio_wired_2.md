@@ -1,5 +1,6 @@
-# wired / 2026-11-25 / 候補 51–98
+# wired / 2026-11-25 / 候補 51–99
 
+- [Closed: Hisenior MEGA-5 EST 7th Anniversary - Head-Fi.org](https://news.google.com/rss/articles/CBMihgFBVV95cUxQNDJPRkRreFJ1T2xEdTE4Mi1SaUF2RDdyT3RjNlIwaGdiTHFTeDhnWExMUDVJcHhjcklTX1Z1VC1PZGdpaHJQbkFOSV9RTFhORkhIS1JuVzVUS24xZVhCRGthOEFidUdtb000NXV5LWFwaER5cWk0eHpZTmVrRWJ6MG9zRVplUQ?oc=5) — Head-Fi｜要確認｜2026-11-25T11:20:57+00:00 UTC｜discovery_index
 - [DACs & amps - Linsoul Audio - Linsoul Audio](https://news.google.com/rss/articles/CBMiggFBVV95cUxPOHJsY1lEYTEweHNiOUdhUTAtS2dlN3ZUNzRldVBPWmRTS3U2UWFrdWZnMXBrY0pYallvYU11a29lUWpYV0FGNDRDUVYxSzdLeEJ3dWpnQlp4SEg3cnlJNGE2TTI4eXdDSFFUMm5kZHBYbTRJZnFCcWdPbTQ1T0tVWm9R?oc=5) — Linsoul｜要確認｜2026-11-24T21:44:56+00:00 UTC｜discovery_index
 - [Digital audio players - Linsoul Audio](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcU5oSjV0QWdNeGFRVFliTHp0T1dkQ2RIUC00VnpLU1pJMlV6RXMxbDYySFJsREw4dTZXVkZtc2dRMzl0cGhXYTJINEY4QjA4SENiYmZrc3BBeDM3ZFBORmxyclNIck5Zbmw5dHd3SVVEb1Q2dUJtVkZra1VES3dfOXFndzRDcG91N3ZucQ?oc=5) — Linsoul｜要確認｜2026-11-25T06:42:13+00:00 UTC｜discovery_index
 - [Effect Audio Ares 10 cable - Head-Fi.org](https://news.google.com/rss/articles/CBMiekFVX3lxTFAtaksyUnYwb1hMUm5SWEpRRmFBT0RETDllOUNWVkNKTmVQTm5PU2FraXpWbnE4S1pzOGlxSjlNeUZCenQ5b0g1eW9DVk9rYUpURlJ3ZUdzaENhdFdlVnpWZHQ4aHUzcnJwM0c3Nzg3WXhLZGJUOWRSc3dn?oc=5) — Head-Fi｜要確認｜2026-11-25T11:17:03+00:00 UTC｜discovery_index

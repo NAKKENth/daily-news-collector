@@ -1,6 +1,6 @@
 # モータースポーツ｜2026-11-22 JST 候補（v0.3）
 候補のみ。記事の日時・出来事・重要度は要検証。検索索引時刻・更新時刻・観測時刻は正式発表時刻ではない。
-日付付き候補 401件／日時不明 0件。全文はJSON・下記の分割ファイル。
+日付付き候補 400件／日時不明 0件。全文はJSON・下記の分割ファイル。
 
 - [F1 1–50件](motorsport_F1_1.md)
 - [F1 51–100件](motorsport_F1_2.md)
@@ -8,7 +8,7 @@
 - [F1 151–200件](motorsport_F1_4.md)
 - [F1 201–250件](motorsport_F1_5.md)
 - [F1 251–281件](motorsport_F1_6.md)
-- [IndyCar 1–25件](motorsport_IndyCar_1.md)
+- [IndyCar 1–24件](motorsport_IndyCar_1.md)
 - [NASCAR 1–2件](motorsport_NASCAR_1.md)
 - [Super Formula 1–10件](motorsport_Super_Formula_1.md)
 - [Super GT 1–2件](motorsport_Super_GT_1.md)

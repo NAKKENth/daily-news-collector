@@ -11,7 +11,7 @@
 - [EUA investigam possíveis ciberataques a até 50 navios na Europa e Ásia](https://tugatech.com.pt/t95199-eua-investigam-possiveis-ciberataques-a-ate-50-navios-na-europa-e-asia) — VideoCardz｜要確認｜2026-11-25T13:23:10+00:00 UTC｜feed_published
 - [Firefox 161: Mit Update kehrt klassisches Theme (teilweise) zurück](https://www.computerbase.de/news/apps/firefox-161-mit-update-kehrt-klassisches-theme-teilweise-zurueck.100503) — ComputerBase｜要確認｜2026-11-25T05:30:00+00:00 UTC｜feed_published
 - [GIGABYTE Is Offering Massive Price Cuts On Its High-Refresh Rate OLED and IPS Panels, Bringing Fluidity and High-Fidelity Visuals – Starting at $175](https://wccftech.com/gigabyte-black-friday-offers-live-on-oled-and-ips-gaming-monitors) — Wccftech｜要確認｜2026-11-25T14:08:47+00:00 UTC｜feed_published
-- [GIGABYTE、RTX Spark搭載の1.1LミニPC「AI TOP AERO」](https://pc.watch.impress.co.jp/docs/news/2159177.html) — PC Watch｜要確認｜2026-11-25T07:23:23+00:00 UTC｜feed_published
+- [GIGABYTE、RTX Spark搭載の1.1LミニPC「AI TOP AERO」](https://pc.watch.impress.co.jp/docs/news/2159177.html) — PC Watch｜要確認｜2026-11-25T07:23:23+00:00 UTC｜article_metadata
 - [GL.iNet GoodCloud: Hacker kapern Router über die Hersteller-Cloud](https://www.computerbase.de/news/internet/gl-inet-goodcloud-hacker-kapern-router-ueber-die-hersteller-cloud.100502) — ComputerBase｜要確認｜2026-11-24T20:12:00+00:00 UTC｜feed_published
 - [GPUなしで表も手書きも！無料OCR「NDLOCR-Lite ver.2」が登場](https://pc.watch.impress.co.jp/docs/news/2159134.html) — PC Watch｜要確認｜2026-11-25T05:46:58+00:00 UTC｜article_metadata
 - [GTA 5 mit 64 MB VRAM: Für Autos reicht der Speicher nicht](https://www.computerbase.de/news/gaming/gta-5-mit-64-mb-vram-fuer-autos-reicht-der-speicher-nicht.100497) — ComputerBase｜要確認｜2026-11-24T18:39:00+00:00 UTC｜feed_published
