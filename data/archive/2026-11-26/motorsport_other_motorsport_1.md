@@ -1,5 +1,6 @@
-# other_motorsport / 2026-11-26 / 候補 1–20
+# other_motorsport / 2026-11-26 / 候補 1–21
 
+- [Excelr8 goes for customer BTCC engine for 2027](https://www.autosport.com/btcc/news/excelr8-goes-for-customer-btcc-engine-for-2027/10877832) — Autosport all｜要確認｜2026-11-26T09:54:56+00:00 UTC｜feed_published
 - [BMW、新世代ノイエ・クラッセ第3弾『X5』の事前商談申込開始。ディーゼル搭載の“40d xDrive”から - autosport web](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVanJwcV8xd1ZQeVVndjlzdV9SMnpZbXJGUWV0YUw4Umd1Z1R5dWUtTExKUTRoUXRMUlEyenJ5VE1kRWhUOHpRVQ?oc=5) — AUTOSPORT web｜要確認｜2026-11-26T04:21:00+00:00 UTC｜discovery_index
 - [F1カタール＆アブダビGPへの懸念は払拭されず。中東情勢を考慮し、大手テレビ局多数が取材スタッフ派遣を見送り - autosport web](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5uWmdpdEtvajRxUHYwalBMVEFmdFVweUQtOTUxWWNDUGlDMHJOazRDdHlmN1hfOUFBNWdVNFhDSVhUMlJfTnVr?oc=5) — AUTOSPORT web｜要確認｜2026-11-26T04:11:00+00:00 UTC｜discovery_index
 - [KDDIが『TGR TEAM au TOM’S＆KDDI TGMGP TGR-DCファン感謝祭2026』を12月26日に開催 - autosport web](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yYnBmYzhKM0JPYXlMTHdYMlRQQ2lXbWNDRkdEUW5wbEktUzFHMy1kX0dpZ0xlX1czODFKbnBtS1hpd2JodGF1VTFfOTd4dw?oc=5) — AUTOSPORT web｜要確認｜2026-11-26T10:55:00+00:00 UTC｜discovery_index

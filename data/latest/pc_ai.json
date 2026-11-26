@@ -221,7 +221,7 @@
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
       "description": "GIGABYTE and Newegg will host AORUS VS40 at the Newegg Gamer Zone in City of Industry, California, on Saturday, November 21, 2026, from 11 a.m. to 4 p.m. PST. The event invites local collegiate PC gamers and hardware enthusiasts to celebrate 40 years of GIGABYTE by putting their skills to the test on the tournament floor and at gaming stations thro",
-      "published_utc": "2026-11-26T11:22:20+00:00",
+      "published_utc": "2026-11-26T13:39:31+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
@@ -234,7 +234,7 @@
           "source": "TechPowerUp",
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-26T11:22:20+00:00",
+          "published_utc": "2026-11-26T13:39:31+00:00",
           "title": "GIGABYTE and Newegg Bring \"AORUS VS40\" to Southern California in November 2026"
         }
       ]
@@ -247,7 +247,7 @@
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
       "description": "If you've been waiting for the Black Friday sales to upgrade your rig, expand your PS5 storage, or give your laptop a massive speed boost, the award-winning Predator GM7 PCIe 4.0 SSD is built to deliver top-tier performance without the top-tier heat. Powered by the highly efficient Maxio MAP1602 controller and fast 3D TLC NAND flash, this award-win",
-      "published_utc": "2026-11-26T05:39:31+00:00",
+      "published_utc": "2026-11-26T08:52:49+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
@@ -260,7 +260,7 @@
           "source": "TechPowerUp",
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-26T05:39:31+00:00",
+          "published_utc": "2026-11-26T08:52:49+00:00",
           "title": "Max Out Your Gen 4 Slot: Predator GM7 NVMe SSD (Up to 7400 MB/s)"
         }
       ]
@@ -273,7 +273,7 @@
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
       "description": "Typing faster is useful, but what if practice could also teach you something? Typing 365 is a free native Windows app that combines structured typing lessons, educational content, and competitive challenges. With over 100,000 installs and nearly 4 million typing races completed worldwide , Typing 365 has grown into more than a speed test. Its Album",
-      "published_utc": "2026-11-26T04:16:24+00:00",
+      "published_utc": "2026-11-26T05:39:31+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
@@ -286,7 +286,7 @@
           "source": "TechPowerUp",
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-26T04:16:24+00:00",
+          "published_utc": "2026-11-26T05:39:31+00:00",
           "title": "Typing 365 Turns PC Building, Technology and More into Typing Practice"
         }
       ]
@@ -299,7 +299,7 @@
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
       "description": "An all-in-one 3D scanner combining high-precision capture, powerful onboard computing, and AI-driven workflows—with Super Early Bird pricing starting at $1,425. The Offer is available from today, November 18 on Kickstarter . Grab the Super Early Bird Offer, with up to 38% off, starting at $1,425 . Back MIRACO 2 on Kickstarter Read full story",
-      "published_utc": "2026-11-25T22:53:23+00:00",
+      "published_utc": "2026-11-25T23:32:02+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
@@ -312,7 +312,7 @@
           "source": "TechPowerUp",
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-25T22:53:23+00:00",
+          "published_utc": "2026-11-25T23:32:02+00:00",
           "title": "Revopoint Launches MIRACO 2 on Kickstarter: Scan in One, Create with Agents"
         }
       ]
@@ -692,28 +692,32 @@
     {
       "id": "87f51ee157449bf79250d0fd",
       "topic": "smartphones",
-      "title": "More details about vivo's first wide candybar smartphone appear",
+      "title": "More details about vivo&#039;s first wide candybar smartphone appear",
       "url": "https://www.gsmarena.com/more_details_about_vivos_first_wide_candybar_smartphone_appear-news-75632.php",
       "source": "GSMArena",
       "publisher": "GSMArena",
-      "description": "Earlier this month rumors started coming in saying that vivo is working on a wide candybar smartphone, and today we have some new information about it courtesy of Digital Chat Station on Weibo. He says it will be photo and video oriented, and interestingly it seems like vivo hasn't yet decided what to call it. According to DCS, the phone could be p",
+      "description": "It could be part of two different lines. Earlier this month rumors started coming in saying that vivo is working on a wide candybar smartphone, and today...",
       "published_utc": "2026-11-25T16:02:03+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "priority",
+      "date_quality": "article_metadata",
+      "triage": "review",
       "triage_reason": "スマートフォンへ分類",
       "sources": [
         {
           "url": "https://www.gsmarena.com/more_details_about_vivos_first_wide_candybar_smartphone_appear-news-75632.php",
           "source": "GSMArena",
           "publisher": "GSMArena",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T16:02:03+00:00",
-          "title": "More details about vivo's first wide candybar smartphone appear"
+          "title": "More details about vivo&#039;s first wide candybar smartphone appear"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T17:02:03+01:00",
+      "article_modified_raw": "2026-11-25T17:02:03+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "490bcaba83cd998e2343c486",
@@ -843,7 +847,9 @@
           "published_utc": "2026-11-25T16:09:00+00:00",
           "title": "iiyama Launches ProLite XCB4994DQSU-B1 49-inch Curved Dual QHD Monitor"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://www.techpowerup.com/355208/iiyama-launches-prolite-xcb4994dqsu-b1-49-inch-curved-dual-qhd-monitor"
     },
     {
       "id": "d3e48b7689b9bb90ea365e85",
@@ -878,12 +884,12 @@
       "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6",
       "source": "TestingCatalog",
       "publisher": "TestingCatalog",
-      "description": "Testers say a new Claude model, possibly Opus 5.6, is routing through Opus 5.5 Extra.",
+      "description": "A new wave of coded shorts and SVG tests is circulating on X, and testers think they're hitting Claude Opus 5.6 through an Opus 5.5 Extra route.",
       "published_utc": "2026-11-25T16:31:28+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "AI候補",
       "sources": [
@@ -891,11 +897,15 @@
           "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6",
           "source": "TestingCatalog",
           "publisher": "TestingCatalog",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T16:31:28+00:00",
           "title": "Early outputs: Anthropic is A/B testing Claude Opus 5.6"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T16:31:28.000+00:00",
+      "article_modified_raw": "2026-11-25T16:31:28.000+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "91c9a7e9ea61ce6224325805",
@@ -1012,16 +1022,16 @@
     {
       "id": "5f6c8fc106e4932a15b05e99",
       "topic": "pc",
-      "title": "7 new Intel Nova Lake-S Core Ultra 4000-series CPUs detailed in new leak",
+      "title": "7 new Intel Nova Lake-S Core Ultra 4000-series CPUs detailed in new leak — lineup includes 5.5GHz Ultra 9 4970K BFC, ahead of the expected February 2027 release",
       "url": "https://www.tomshardware.com/pc-components/cpus/7-new-intel-nova-lake-s-core-ultra-4000-series-cpus-detailed-in-new-leak-lineup-includes-5-5ghz-ultra-9-4970k-bfc-ahead-of-the-expected-february-2027-release",
       "source": "Tom’s Hardware",
       "publisher": "Tom’s Hardware",
-      "description": "A number of new, unannounced Intel Core Ultra 4000-series chips have been detailed in a Nova Lake document, ahead of what is expected to be an official unveiling of the chips at a next-generation desktop chip event in Berlin, Germany, in February 2027.",
+      "description": "The desktop chips range from 22 to 28 cores, featuring boost speeds up to 5.5 GHz, with manufacturers expected to show compatible motherboards at CES in January.",
       "published_utc": "2026-11-25T15:30:00+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -1029,11 +1039,15 @@
           "url": "https://www.tomshardware.com/pc-components/cpus/7-new-intel-nova-lake-s-core-ultra-4000-series-cpus-detailed-in-new-leak-lineup-includes-5-5ghz-ultra-9-4970k-bfc-ahead-of-the-expected-february-2027-release",
           "source": "Tom’s Hardware",
           "publisher": "Tom’s Hardware",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T15:30:00+00:00",
-          "title": "7 new Intel Nova Lake-S Core Ultra 4000-series CPUs detailed in new leak"
+          "title": "7 new Intel Nova Lake-S Core Ultra 4000-series CPUs detailed in new leak — lineup includes 5.5GHz Ultra 9 4970K BFC, ahead of the expected February 2027 release"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T15:30:00+00:00",
+      "article_modified_raw": "2026-11-25T15:30:00+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "bdb48501b12a81a9c130faa1",
@@ -2211,7 +2225,9 @@
           "published_utc": "2026-11-25T21:04:00+00:00",
           "title": "Apple TV just won prestigious award for hit drama series"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "932159e3f477ce87879b1fe7",
@@ -2291,7 +2307,9 @@
           "published_utc": "2026-11-25T16:34:01+00:00",
           "title": "Major MacBook Air ‘overhaul’ could launch next year, per Gurman"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "48a136290350c03afb97207a",
@@ -2303,9 +2321,9 @@
       "description": "The pitch is an unusual combination of privacy promises and AI features.",
       "published_utc": "2026-11-25T20:57:09+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2313,11 +2331,15 @@
           "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival",
           "source": "Ars Technica",
           "publisher": "Ars Technica",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T20:57:09+00:00",
           "title": "Google search alternative Kagi launches Gmail rival"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T20:57:09+00:00",
+      "article_modified_raw": "2026-11-25T21:15:08+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "32adbebb78256c105d2bb42c",
@@ -2329,9 +2351,9 @@
       "description": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
       "published_utc": "2026-11-25T18:38:29+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2339,11 +2361,15 @@
           "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers",
           "source": "Ars Technica",
           "publisher": "Ars Technica",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T18:38:29+00:00",
           "title": "Backblaze explains why it's sharing customer information with advertisers"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T18:38:29+00:00",
+      "article_modified_raw": "2026-11-25T18:38:29+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "2bdf759293bb4a226da87ea3",
@@ -2381,9 +2407,9 @@
       "description": "An independent browser engine arrives on Linux and macOS, and we've tried it.",
       "published_utc": "2026-11-25T17:33:30+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2391,11 +2417,15 @@
           "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium",
           "source": "Ars Technica",
           "publisher": "Ars Technica",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T17:33:30+00:00",
           "title": "Ladybird browser's first downloadable alpha is surprisingly capable"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T17:33:30+00:00",
+      "article_modified_raw": "2026-11-25T19:41:26+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "b9bc5357180fa5aa996135c1",
@@ -2433,9 +2463,9 @@
       "description": "Militaries have many reasons to target data centers and the cloud in wartime.",
       "published_utc": "2026-11-25T16:47:14+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2443,11 +2473,15 @@
           "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop",
           "source": "Ars Technica",
           "publisher": "Ars Technica",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T16:47:14+00:00",
           "title": "Ars Live recap: Don’t expect military attacks on data centers to stop"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T16:47:14+00:00",
+      "article_modified_raw": "2026-11-25T16:47:14+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "57a9fccfe152a63ab56d2df1",
@@ -2485,9 +2519,9 @@
       "description": "Prior modeling estimated the plume would cover hundreds of square miles.",
       "published_utc": "2026-11-25T15:35:17+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2495,11 +2529,15 @@
           "url": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume",
           "source": "Ars Technica",
           "publisher": "Ars Technica",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T15:35:17+00:00",
           "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T15:35:17+00:00",
+      "article_modified_raw": "2026-11-25T17:48:39+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "8a88cf60a2c85fc3aff64c0b",
@@ -2980,7 +3018,7 @@
     {
       "id": "e5ba1dace776cad96a2b17e2",
       "topic": "ai",
-      "title": "Allstate suffers multi-day tech outage ahead of Thanksgiving",
+      "title": "Allstate suffers multiday tech outage ahead of Thanksgiving",
       "url": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving",
       "source": "TechCrunch",
       "publisher": "TechCrunch",
@@ -2999,7 +3037,7 @@
           "publisher": "TechCrunch",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T15:08:37+00:00",
-          "title": "Allstate suffers multi-day tech outage ahead of Thanksgiving"
+          "title": "Allstate suffers multiday tech outage ahead of Thanksgiving"
         }
       ]
     },
@@ -4213,11 +4251,11 @@
     {
       "id": "6549a8a01313b35ab3660878",
       "topic": "pc",
-      "title": "Windows Update distribui driver Intel com falha WinRing0 de 2020 | TugaTech",
+      "title": "Windows Update distribui driver Intel com falha WinRing0 de 2020",
       "url": "https://tugatech.com.pt/t95223-windows-update-distribui-driver-intel-com-falha-winring0-de-2020",
       "source": "VideoCardz",
       "publisher": "VideoCardz",
-      "description": "A Microsoft continua a disponibilizar através do canal oficial do Windows Update no Windows 11 um pacote desatualizado da Intel que inclui a componente WinRing0",
+      "description": "A Microsoft continua a disponibilizar através do canal oficial do Windows Update no Windows 11 um pacote desatualizado da Intel que inclui a componente WinRing0, classificada pelo próprio Microsoft Defender como vulnerável. A situação expõe equipamentos compatíveis com o pacote Intel Performance Driver Extension 1.0.0.38 a um vetor conhecido de esc",
       "published_utc": "2026-11-25T22:10:29+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "source_feed_published",
@@ -4232,7 +4270,7 @@
           "publisher": "VideoCardz",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T22:10:29+00:00",
-          "title": "Windows Update distribui driver Intel com falha WinRing0 de 2020 | TugaTech"
+          "title": "Windows Update distribui driver Intel com falha WinRing0 de 2020"
         }
       ],
       "discovery_url": null,
@@ -5024,7 +5062,9 @@
           "published_utc": "2026-11-26T03:55:54+00:00",
           "title": "Thermal Grizzly Launches Delid Heat Mate for Lower-Risk DIY CPU Delidding"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "fea864be414f7c3a2c649650",
@@ -5602,7 +5642,81 @@
           "published_utc": "2026-11-26T11:03:28+00:00",
           "title": "(PR) Kioxia Announces GP2 Super High IOPS SSD Series"
         }
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
+    },
+    {
+      "id": "df9e395a35c0b25a5df4e9ec",
+      "topic": "smartphones",
+      "title": "An ultra-compact robot vacuum that reaches almost every corner: Lefant L12 Pro review",
+      "url": "https://www.notebookcheck.net/An-ultra-compact-robot-vacuum-that-reaches-almost-every-corner-Lefant-L12-Pro-review.1460757.0.html",
+      "source": "Notebookcheck mobile",
+      "publisher": "Notebookcheck mobile",
+      "description": "With a mop roller. | The Lefant L12 Pro is much smaller than other robot vacuums, so it gets into corners far more easily. Our review looks at what else sets this affordable model with a mop roller apart and whether it’s worth buying.",
+      "published_utc": "2026-11-26T13:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.notebookcheck.net/An-ultra-compact-robot-vacuum-that-reaches-almost-every-corner-Lefant-L12-Pro-review.1460757.0.html",
+          "source": "Notebookcheck Handheld",
+          "publisher": "Notebookcheck Handheld",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T13:00:00+00:00",
+          "title": "An ultra-compact robot vacuum that reaches almost every corner: Lefant L12 Pro review"
+        },
+        {
+          "url": "https://www.notebookcheck.net/An-ultra-compact-robot-vacuum-that-reaches-almost-every-corner-Lefant-L12-Pro-review.1460757.0.html",
+          "source": "Notebookcheck mobile",
+          "publisher": "Notebookcheck mobile",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T13:00:00+00:00",
+          "title": "An ultra-compact robot vacuum that reaches almost every corner: Lefant L12 Pro review"
+        }
       ]
+    },
+    {
+      "id": "ab62124f7ba264ed554bc32c",
+      "topic": "pc",
+      "title": "Apple MacBook Pro 14 M6 Review - No OLED, but the best single-core performance",
+      "url": "https://www.notebookcheck.net/Apple-MacBook-Pro-14-M6-Review-No-OLED-but-the-best-single-core-performance.1458776.0.html",
+      "source": "Notebookcheck mobile",
+      "publisher": "Notebookcheck mobile",
+      "description": "The MacBook Pro 14 is the first laptop from Apple that is available with the 2 nm M6-SoC, which offers improved performance as well as efficiency figures. The base model is also more expensive than before, but keeps the inferior cooling with just a single fan.",
+      "published_utc": "2026-11-26T12:38:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://www.notebookcheck.net/Apple-MacBook-Pro-14-M6-Review-No-OLED-but-the-best-single-core-performance.1458776.0.html",
+          "source": "Notebookcheck Handheld",
+          "publisher": "Notebookcheck Handheld",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T12:38:00+00:00",
+          "title": "Apple MacBook Pro 14 M6 Review - No OLED, but the best single-core performance"
+        },
+        {
+          "url": "https://www.notebookcheck.net/Apple-MacBook-Pro-14-M6-Review-No-OLED-but-the-best-single-core-performance.1458776.0.html",
+          "source": "Notebookcheck mobile",
+          "publisher": "Notebookcheck mobile",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T12:38:00+00:00",
+          "title": "Apple MacBook Pro 14 M6 Review - No OLED, but the best single-core performance"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T13:38:00+01:00",
+      "article_modified_raw": "2026-11-26T13:38:48+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "f45c82608533c3cdc5ec0692",
@@ -6464,6 +6578,40 @@
       ]
     },
     {
+      "id": "bb400641e54d1dc7498c9828",
+      "topic": "smartphones",
+      "title": "The best AMD-based ThinkPad laptop of 2026: Lenovo ThinkPad P16s Gen 5 review",
+      "url": "https://www.notebookcheck.net/The-best-AMD-based-ThinkPad-laptop-of-2026-Lenovo-ThinkPad-P16s-Gen-5-review.1444069.0.html",
+      "source": "Notebookcheck mobile",
+      "publisher": "Notebookcheck mobile",
+      "description": "Boss transformation. | If one bought a ThinkPad P16s in the past, it was always a bit underpowered for a mobile workstation. With the new Lenovo ThinkPad P16s Gen 5 AMD, this is no longer the case, as this 16-inch ThinkPad reveals in our extensive review why it is the best AMD-based ThinkPad laptop of 2026.",
+      "published_utc": "2026-11-26T14:06:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.notebookcheck.net/The-best-AMD-based-ThinkPad-laptop-of-2026-Lenovo-ThinkPad-P16s-Gen-5-review.1444069.0.html",
+          "source": "Notebookcheck Handheld",
+          "publisher": "Notebookcheck Handheld",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T14:06:00+00:00",
+          "title": "The best AMD-based ThinkPad laptop of 2026: Lenovo ThinkPad P16s Gen 5 review"
+        },
+        {
+          "url": "https://www.notebookcheck.net/The-best-AMD-based-ThinkPad-laptop-of-2026-Lenovo-ThinkPad-P16s-Gen-5-review.1444069.0.html",
+          "source": "Notebookcheck mobile",
+          "publisher": "Notebookcheck mobile",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T14:06:00+00:00",
+          "title": "The best AMD-based ThinkPad laptop of 2026: Lenovo ThinkPad P16s Gen 5 review"
+        }
+      ]
+    },
+    {
       "id": "d6e19b6e7fc87288a8d14e5f",
       "topic": "pc",
       "title": "Ukraine downs Russian jet-drone with cheap high-powered laser for the first time",
@@ -6827,6 +6975,1514 @@
           "title": "GPT-6 Luna vs. Nova 2.0 Omni: comparación de inteligencia, rendimiento y precio de los lanzamientos - Artificial Analysis"
         }
       ]
+    },
+    {
+      "id": "daecaa208fd318c82451066a",
+      "topic": "smartphones",
+      "title": "Sketchy suggestion of ceramic iPhone 20 Pro",
+      "url": "https://9to5mac.com/2026/11/26/sketchy-suggestion-of-ceramic-iphone-20-pro",
+      "source": "9to5Mac",
+      "publisher": "9to5Mac",
+      "description": "A sketchy rumor is doing the rounds suggesting that Apple is working on a ceramic edition of the iPhone 20 Pro . There are no details, and while one concept image shows a ceramic back, this seems a rather unlikely possibility … more…",
+      "published_utc": "2026-11-26T14:00:25+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "スマートフォンへ分類",
+      "sources": [
+        {
+          "url": "https://9to5mac.com/2026/11/26/sketchy-suggestion-of-ceramic-iphone-20-pro",
+          "source": "9to5Mac",
+          "publisher": "9to5Mac",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T14:00:25+00:00",
+          "title": "Sketchy suggestion of ceramic iPhone 20 Pro"
+        }
+      ]
+    },
+    {
+      "id": "048e9d88d3231d952b356e02",
+      "topic": "ai",
+      "title": "The Character․AI mess underlines the importance of Apple’s approach to AI privacy",
+      "url": "https://9to5mac.com/2026/11/26/the-character%e2%80%a4ai-mess-underlines-the-importance-of-apples-approach-to-ai-privacy",
+      "source": "9to5Mac",
+      "publisher": "9to5Mac",
+      "description": "With most AI chatbots using your interactions as training data, we’ve previously cautioned against sharing sensitive personal details with them, highlighting the much stronger privacy protections offered by Apple . If you ever needed evidence of the importance of this, the Character ․ ai mess provides it. The company recently filed for bankruptcy a",
+      "published_utc": "2026-11-26T12:58:21+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://9to5mac.com/2026/11/26/the-character%e2%80%a4ai-mess-underlines-the-importance-of-apples-approach-to-ai-privacy",
+          "source": "9to5Mac",
+          "publisher": "9to5Mac",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T12:58:21+00:00",
+          "title": "The Character․AI mess underlines the importance of Apple’s approach to AI privacy"
+        }
+      ]
+    },
+    {
+      "id": "0daafa2c35702a69a6586504",
+      "topic": "ai",
+      "title": "Check out this beautiful wallpaper to celebrate the opening of the latest Apple Store",
+      "url": "https://9to5mac.com/2026/11/26/check-out-this-beautiful-wallpaper-to-celebrate-the-opening-of-the-latest-apple-store",
+      "source": "9to5Mac",
+      "publisher": "9to5Mac",
+      "description": "Apple has quietly announced the upcoming opening of its latest retail store in Hyderabad, India . Located at the Lakeshore Mall in Kukatpally, it opens at 5pm on Thursday, December 10. As is now usual, the company has created some exclusive wallpaper to mark the event, and you can download it for iPhone, iPad, and Mac … more…",
+      "published_utc": "2026-11-26T12:03:10+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://9to5mac.com/2026/11/26/check-out-this-beautiful-wallpaper-to-celebrate-the-opening-of-the-latest-apple-store",
+          "source": "9to5Mac",
+          "publisher": "9to5Mac",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T12:03:10+00:00",
+          "title": "Check out this beautiful wallpaper to celebrate the opening of the latest Apple Store"
+        }
+      ]
+    },
+    {
+      "id": "1042e689fbdc16d1d9a59afb",
+      "topic": "ai",
+      "title": "Apple pulls popular Chinese AI chatbot from the App Store amid child safety concerns",
+      "url": "https://9to5mac.com/2026/11/25/apple-pulls-popular-chinese-ai-chatbot-from-the-app-store-amid-child-safety-concerns",
+      "source": "9to5Mac",
+      "publisher": "9to5Mac",
+      "description": "Following reports that its characters sent inappropriate messages to minors, Apple has removed the popular Chinese AI companion app Talkie from the App Store. Here are the details. more…",
+      "published_utc": "2026-11-26T02:12:24+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://9to5mac.com/2026/11/25/apple-pulls-popular-chinese-ai-chatbot-from-the-app-store-amid-child-safety-concerns",
+          "source": "9to5Mac",
+          "publisher": "9to5Mac",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T02:12:24+00:00",
+          "title": "Apple pulls popular Chinese AI chatbot from the App Store amid child safety concerns"
+        }
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
+    },
+    {
+      "id": "61a9e29421b677a0fd74d384",
+      "topic": "ai",
+      "title": "Wispr Flow improves dictation accuracy with new Canto-2 speech-to-text model",
+      "url": "https://9to5mac.com/2026/11/25/wispr-flow-improves-dictation-accuracy-with-new-canto-2-speech-to-text-model",
+      "source": "9to5Mac",
+      "publisher": "9to5Mac",
+      "description": "Popular AI dictation app Wispr Flow is rolling out a new speech-to-text model for Mac, iPhone, and other platforms, promising fewer transcription errors and better recognition of names and technical terms. Here are the details. more…",
+      "published_utc": "2026-11-26T00:35:52+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://9to5mac.com/2026/11/25/wispr-flow-improves-dictation-accuracy-with-new-canto-2-speech-to-text-model",
+          "source": "9to5Mac",
+          "publisher": "9to5Mac",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T00:35:52+00:00",
+          "title": "Wispr Flow improves dictation accuracy with new Canto-2 speech-to-text model"
+        }
+      ]
+    },
+    {
+      "id": "bd6f89bb98d9b260dc8c2c5b",
+      "topic": "ai",
+      "title": "9to5Mac Daily: November 25, 2026 – CarPlay Ultra update, iPad rumors",
+      "url": "https://9to5mac.com/2026/11/25/daily-november-25-2026",
+      "source": "9to5Mac",
+      "publisher": "9to5Mac",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by LiberNovo : If you spend hours at your desk, LiberNovo’s dynamic ergonomic chairs are worth a look. Th",
+      "published_utc": "2026-11-25T23:46:20+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://9to5mac.com/2026/11/25/daily-november-25-2026",
+          "source": "9to5Mac",
+          "publisher": "9to5Mac",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T23:46:20+00:00",
+          "title": "9to5Mac Daily: November 25, 2026 – CarPlay Ultra update, iPad rumors"
+        }
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
+    },
+    {
+      "id": "b5fc76dc9bae6d9a15a90668",
+      "topic": "ai",
+      "title": "1Password confirms security incident, here’s what you need to know",
+      "url": "https://9to5mac.com/2026/11/25/1password-confirms-security-incident-heres-what-you-need-to-know",
+      "source": "9to5Mac",
+      "publisher": "9to5Mac",
+      "description": "Password management platform 1Password today disclosed a security incident in which an attacker gained access to internal systems and stole select customer account information. Here are the details. more…",
+      "published_utc": "2026-11-25T23:30:05+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://9to5mac.com/2026/11/25/1password-confirms-security-incident-heres-what-you-need-to-know",
+          "source": "9to5Mac",
+          "publisher": "9to5Mac",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T23:30:05+00:00",
+          "title": "1Password confirms security incident, here’s what you need to know"
+        }
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://9to5mac.com/2026/11/25/1password-confirms-security-incident-heres-what-you-need-to-know"
+    },
+    {
+      "id": "3a885432402a400ac9d8a53d",
+      "topic": "ai",
+      "title": "Major developers, legal experts, and 32 states back Epic in Apple’s SCOTUS appeal",
+      "url": "https://9to5mac.com/2026/11/25/major-developers-legal-experts-and-32-states-back-epic-in-apples-scotus-appeal",
+      "source": "9to5Mac",
+      "publisher": "9to5Mac",
+      "description": "In a significant development in Apple’s Supreme Court appeal of a civil contempt ruling, Epic Games has received backing from 32 states and the District of Columbia, along with major developers, legal experts, former federal judges, and more. Here are the details. more…",
+      "published_utc": "2026-11-25T22:16:14+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://9to5mac.com/2026/11/25/major-developers-legal-experts-and-32-states-back-epic-in-apples-scotus-appeal",
+          "source": "9to5Mac",
+          "publisher": "9to5Mac",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T22:16:14+00:00",
+          "title": "Major developers, legal experts, and 32 states back Epic in Apple’s SCOTUS appeal"
+        }
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
+    },
+    {
+      "id": "0dfbe44d2474cc07f92c3af8",
+      "topic": "ai",
+      "title": "Draining peatlands is responsible for a few percent of our global warming",
+      "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "description": "Detailed estimate going back to 1800 shows how much carbon is being liberated.",
+      "published_utc": "2026-11-26T12:15:42+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming",
+          "source": "Ars Technica",
+          "publisher": "Ars Technica",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T12:15:42+00:00",
+          "title": "Draining peatlands is responsible for a few percent of our global warming"
+        }
+      ]
+    },
+    {
+      "id": "ca758366d3e3ddc373137d48",
+      "topic": "ai",
+      "title": "From minimalist to maximalist: Ars staffers show off their home offices",
+      "url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "description": "Our home offices range from tasteful to \"please explain yourself.\"",
+      "published_utc": "2026-11-26T12:00:14+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices",
+          "source": "Ars Technica",
+          "publisher": "Ars Technica",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T12:00:14+00:00",
+          "title": "From minimalist to maximalist: Ars staffers show off their home offices"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T12:00:14+00:00",
+      "article_modified_raw": "2026-11-26T12:49:35+00:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "f1e126422eb5871f47b8284b",
+      "topic": "ai",
+      "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "description": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
+      "published_utc": "2026-11-25T22:36:45+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup",
+          "source": "Ars Technica",
+          "publisher": "Ars Technica",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T22:36:45+00:00",
+          "title": "European spacecraft finds chaotic scene after asteroid deflection experiment"
+        }
+      ]
+    },
+    {
+      "id": "00cc6e73ba1b2b3c75539dca",
+      "topic": "pc",
+      "title": "『不思議の国のアリス』などをモチーフにしたODYSSEYの布製ゲーミングマウスパッド",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2157518.html",
+      "source": "AKIBA PC Hotline",
+      "publisher": "AKIBA PC Hotline",
+      "description": "ゲーミングブランド「ODYSSEY」の布製ゲーミングマウスパッドが登場、パソコンショップ アークでサンプル展示が始まっている。",
+      "published_utc": "2026-11-26T08:05:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2157518.html",
+          "source": "AKIBA PC Hotline",
+          "publisher": "AKIBA PC Hotline",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T08:05:00+00:00",
+          "title": "『不思議の国のアリス』などをモチーフにしたODYSSEYの布製ゲーミングマウスパッド"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T17:05:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "5b3da196a7e6b88dca458469",
+      "topic": "pc",
+      "title": "ダニや髪の毛の掃除に使える「NEKO コードレスふとんクリーナー」が3,000円",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2158370.html",
+      "source": "AKIBA PC Hotline",
+      "publisher": "AKIBA PC Hotline",
+      "description": "ダニやホコリ取りに使える「NEKO コードレスふとんクリーナー（NK-337）」が、あきばお～八號店に入荷。",
+      "published_utc": "2026-11-26T06:05:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2158370.html",
+          "source": "AKIBA PC Hotline",
+          "publisher": "AKIBA PC Hotline",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T06:05:00+00:00",
+          "title": "ダニや髪の毛の掃除に使える「NEKO コードレスふとんクリーナー」が3,000円"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T15:05:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "e3feb1705a29475c10a25cb6",
+      "topic": "pc",
+      "title": "USB Type-A/C両対応のUSBメモリ「Lexar JumpDrive Dual Drive D400」が入荷",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2158366.html",
+      "source": "AKIBA PC Hotline",
+      "publisher": "AKIBA PC Hotline",
+      "description": "LexarのUSB Type-A/C両対応USBフラッシュメモリ「JumpDrive Dual Drive D400」が、あきばお～八號店に入荷。",
+      "published_utc": "2026-11-26T05:05:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2158366.html",
+          "source": "AKIBA PC Hotline",
+          "publisher": "AKIBA PC Hotline",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T05:05:00+00:00",
+          "title": "USB Type-A/C両対応のUSBメモリ「Lexar JumpDrive Dual Drive D400」が入荷"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T14:05:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "8823a6e656590f20e3f26868",
+      "topic": "pc",
+      "title": "ラピトリ/8Kポーリングレート対応の68%キーボード「VGN Neon 68」が登場、価格は10,980円",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2157964.html",
+      "source": "AKIBA PC Hotline",
+      "publisher": "AKIBA PC Hotline",
+      "description": "8Kポーリングレート対応で68%サイズのゲーミングキーボード「VGN Neon 68」が秋葉原の一部ショップに入荷。販売されているのは本体カラーがホワイト/搭載スイッチがTianba Magneticスイッチのモデル。",
+      "published_utc": "2026-11-26T04:05:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2157964.html",
+          "source": "AKIBA PC Hotline",
+          "publisher": "AKIBA PC Hotline",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T04:05:00+00:00",
+          "title": "ラピトリ/8Kポーリングレート対応の68%キーボード「VGN Neon 68」が登場、価格は10,980円"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T13:05:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "584a28f1e615aa3e659f5f04",
+      "topic": "pc",
+      "title": "Cooler Masterの80 PLUS Platinum電源「ELITE Platinum」が27日発売、容量・色違いで計6モデル",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2159272.html",
+      "source": "AKIBA PC Hotline",
+      "publisher": "AKIBA PC Hotline",
+      "description": "Cooler MasterのATX電源ユニット「ELITE Platinum」シリーズが登場、27日（金）から販売が始まる。ラインアップは850W、1,000W、1,300Wの3種類で、それぞれブラックとホワイトの2色が用意されている。",
+      "published_utc": "2026-11-26T03:30:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2159272.html",
+          "source": "AKIBA PC Hotline",
+          "publisher": "AKIBA PC Hotline",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T03:30:00+00:00",
+          "title": "Cooler Masterの80 PLUS Platinum電源「ELITE Platinum」が27日発売、容量・色違いで計6モデル"
+        }
+      ]
+    },
+    {
+      "id": "3c8fd507227c76fbda6e709a",
+      "topic": "pc",
+      "title": "CORSAIRの一体型ケースファン「iCUE LINK LX360 RGB」が発売、リバースモデルもあり",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2159268.html",
+      "source": "AKIBA PC Hotline",
+      "publisher": "AKIBA PC Hotline",
+      "description": "CORSAIRのiCUE LINK対応ケースファンに新モデルが登場。360mm一体型ファンとiCUE LINKシステムハブがセットになった「iCUE LINK LX360 RGB」と「iCUE LINK LX360-R RGB」が発売された。",
+      "published_utc": "2026-11-26T02:30:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2159268.html",
+          "source": "AKIBA PC Hotline",
+          "publisher": "AKIBA PC Hotline",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T02:30:00+00:00",
+          "title": "CORSAIRの一体型ケースファン「iCUE LINK LX360 RGB」が発売、リバースモデルもあり"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T11:30:00+09:00",
+      "article_modified_raw": "2026-11-26T17:12:10+09:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "be766599c5ee54e096cfa921",
+      "topic": "pc",
+      "title": "Sandiskの監視カメラ/ドラレコ向け高耐久microSDカードが複数入荷",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2158409.html",
+      "source": "AKIBA PC Hotline",
+      "publisher": "AKIBA PC Hotline",
+      "description": "Sandiskの高耐久microSDカードが複数登場。監視カメラ向けの「SANDISK Security Cam Card」（以下、Security Cam Card）とドライブレコーダー向けの「SANDISK Dash Cam Card」（同Dash Cam Card）が、テクノハウス東映に入荷している。",
+      "published_utc": "2026-11-26T02:05:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2158409.html",
+          "source": "AKIBA PC Hotline",
+          "publisher": "AKIBA PC Hotline",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T02:05:00+00:00",
+          "title": "Sandiskの監視カメラ/ドラレコ向け高耐久microSDカードが複数入荷"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T11:05:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "18a53d24b1fc1d4564a8fa5c",
+      "topic": "pc",
+      "title": "ASUS ProArt 未來創藝節，推動新文藝復興",
+      "url": "https://benchlife.info/asus-proart-event",
+      "source": "BenchLife",
+      "publisher": "BenchLife",
+      "description": "華碩自2024連續兩年舉辦「ProArt影視菁英交流會」，廣獲業界好評，今年更進一步拓展跨界合作，打 […] 這篇文章 ASUS ProArt 未來創藝節，推動新文藝復興 最早出現於 BenchLife.info 。",
+      "published_utc": "2026-11-26T06:15:20+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://benchlife.info/asus-proart-event",
+          "source": "BenchLife",
+          "publisher": "BenchLife",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T06:15:20+00:00",
+          "title": "ASUS ProArt 未來創藝節，推動新文藝復興"
+        }
+      ]
+    },
+    {
+      "id": "c19e05fb9384c9a7199dd27d",
+      "topic": "pc",
+      "title": "很大一顆，Intel Razor Lake-AX 處理器樣品曝光",
+      "url": "https://benchlife.info/intel-razor-lake-ax-sample-sold-in-china",
+      "source": "BenchLife",
+      "publisher": "BenchLife",
+      "description": "沒事，對岸總會給我們不少驚喜。 距離還有好一段時間，畢竟要先等 Nova Lake 在 2027 年 […] 這篇文章 很大一顆，Intel Razor Lake-AX 處理器樣品曝光 最早出現於 BenchLife.info 。",
+      "published_utc": "2026-11-26T03:49:30+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://benchlife.info/intel-razor-lake-ax-sample-sold-in-china",
+          "source": "BenchLife",
+          "publisher": "BenchLife",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T03:49:30+00:00",
+          "title": "很大一顆，Intel Razor Lake-AX 處理器樣品曝光"
+        }
+      ]
+    },
+    {
+      "id": "7731e909e21a4b01c425c268",
+      "topic": "pc",
+      "title": "NVIDIA DLSS 5 現已支援《燕雲十六聲》",
+      "url": "https://benchlife.info/nvidia-dlss-5-update-nov-2026",
+      "source": "BenchLife",
+      "publisher": "BenchLife",
+      "description": "搭載 3D 引導式神經渲染的 DLSS 5 現已支援《燕雲十六聲（Where Winds Meet） […] 這篇文章 NVIDIA DLSS 5 現已支援《燕雲十六聲》 最早出現於 BenchLife.info 。",
+      "published_utc": "2026-11-25T23:00:28+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://benchlife.info/nvidia-dlss-5-update-nov-2026",
+          "source": "BenchLife",
+          "publisher": "BenchLife",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T23:00:28+00:00",
+          "title": "NVIDIA DLSS 5 現已支援《燕雲十六聲》"
+        }
+      ]
+    },
+    {
+      "id": "47fdcd9a55de245321932917",
+      "topic": "pc",
+      "title": "AMD 白皮書解析零信任架構：從晶片層級建立端點安全基礎",
+      "url": "https://benchlife.info/amd-whitepaper-for-cpu-trust",
+      "source": "BenchLife",
+      "publisher": "BenchLife",
+      "description": "「零信任」(Zero Trust)已成為全球現代企業對安全性的標準。 許多企業的零信任架構仍將端點視 […] 這篇文章 AMD 白皮書解析零信任架構：從晶片層級建立端點安全基礎 最早出現於 BenchLife.info 。",
+      "published_utc": "2026-11-25T22:58:27+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://benchlife.info/amd-whitepaper-for-cpu-trust",
+          "source": "BenchLife",
+          "publisher": "BenchLife",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T22:58:27+00:00",
+          "title": "AMD 白皮書解析零信任架構：從晶片層級建立端點安全基礎"
+        }
+      ]
+    },
+    {
+      "id": "901ef466aedf2fe2f1a5103e",
+      "topic": "pc",
+      "title": "Forged BGP Route Diverted Up to 1.9 EH/s From Bitcoin Miners, and Their Rigs Never Noticed",
+      "url": "https://hwbusters.com/news/forged-bgp-route-diverted-up-to-1-9-eh-s-from-bitcoin-miners-and-their-rigs-never-noticed",
+      "source": "Hardware Busters",
+      "publisher": "Hardware Busters",
+      "description": "A forged internet route quietly pointed more than a thousand Bitcoin mining sites at a fake pool server on November 20, peaking at 1.9 EH/s The post Forged BGP Route Diverted Up to 1.9 EH/s From Bitcoin Miners, and Their Rigs Never Noticed appeared first on Hardware Busters .",
+      "published_utc": "2026-11-26T13:10:47+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://hwbusters.com/news/forged-bgp-route-diverted-up-to-1-9-eh-s-from-bitcoin-miners-and-their-rigs-never-noticed",
+          "source": "Hardware Busters",
+          "publisher": "Hardware Busters",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T13:10:47+00:00",
+          "title": "Forged BGP Route Diverted Up to 1.9 EH/s From Bitcoin Miners, and Their Rigs Never Noticed"
+        }
+      ]
+    },
+    {
+      "id": "2790abf793e17c95786c781c",
+      "topic": "pc",
+      "title": "ESA’s Hera Finds DART Flattened One Face of Dimorphos Into a Stadium-Sized Crater, and Left It Tumbling",
+      "url": "https://hwbusters.com/news/esas-hera-finds-dart-flattened-one-face-of-dimorphos-into-a-stadium-sized-crater-and-left-it-tumbling",
+      "source": "Hardware Busters",
+      "publisher": "Hardware Busters",
+      "description": "Four years after NASA rammed DART into Dimorphos, ESA’s Hera probe has seen the result up close: one side of the little moonlet is now The post ESA’s Hera Finds DART Flattened One Face of Dimorphos Into a Stadium-Sized Crater, and Left It Tumbling appeared first on Hardware Busters .",
+      "published_utc": "2026-11-26T10:10:54+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://hwbusters.com/news/esas-hera-finds-dart-flattened-one-face-of-dimorphos-into-a-stadium-sized-crater-and-left-it-tumbling",
+          "source": "Hardware Busters",
+          "publisher": "Hardware Busters",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T10:10:54+00:00",
+          "title": "ESA’s Hera Finds DART Flattened One Face of Dimorphos Into a Stadium-Sized Crater, and Left It Tumbling"
+        }
+      ]
+    },
+    {
+      "id": "1e6e0aa1e51f2fc86315f9e9",
+      "topic": "pc",
+      "title": "Khronos Deprecates MoltenVK, Making KosmicKrisp the Default Vulkan Path on Apple Silicon Macs",
+      "url": "https://hwbusters.com/news/khronos-deprecates-moltenvk-making-kosmickrisp-the-default-vulkan-path-on-apple-silicon-macs",
+      "source": "Hardware Busters",
+      "publisher": "Hardware Busters",
+      "description": "Khronos has formally deprecated MoltenVK and is retiring the Vulkan Portability Initiative built around it. With the SDK due in mid-December, LunarG’s KosmicKrisp becomes the The post Khronos Deprecates MoltenVK, Making KosmicKrisp the Default Vulkan Path on Apple Silicon Macs appeared first on Hardware Busters .",
+      "published_utc": "2026-11-26T07:10:48+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://hwbusters.com/news/khronos-deprecates-moltenvk-making-kosmickrisp-the-default-vulkan-path-on-apple-silicon-macs",
+          "source": "Hardware Busters",
+          "publisher": "Hardware Busters",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T07:10:48+00:00",
+          "title": "Khronos Deprecates MoltenVK, Making KosmicKrisp the Default Vulkan Path on Apple Silicon Macs"
+        }
+      ]
+    },
+    {
+      "id": "282a54c07235ae4bcfb4a325",
+      "topic": "ai",
+      "title": "Google、Chrome の Gemini ウェブアプリが大量の RAM を消費する問題を修正",
+      "url": "https://helentech.jp/news-gemini-chrome-ram-issue-fixed-94089",
+      "source": "HelenTech",
+      "publisher": "HelenTech",
+      "description": "Google は、Chrome 上で Gemini のウェブアプリが大量の RAM を消費していた問題について、すでに解決済みであることを明らかにしました。 これは PC の Chrome で Gemini のタブが 5 […]",
+      "published_utc": "2026-11-26T10:53:41+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://helentech.jp/news-gemini-chrome-ram-issue-fixed-94089",
+          "source": "HelenTech",
+          "publisher": "HelenTech",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T10:53:41+00:00",
+          "title": "Google、Chrome の Gemini ウェブアプリが大量の RAM を消費する問題を修正"
+        }
+      ]
+    },
+    {
+      "id": "9939d2c043b518377dcfcff4",
+      "topic": "smartphones",
+      "title": "八潮の道路陥没事故が突きつけた現実 「AI／DXだけでは解けない」インフラ政策の大転換",
+      "url": "https://built.itmedia.co.jp/bt/articles/2611/26/news084.html",
+      "source": "ITmedia Mobile",
+      "publisher": "ITmedia Mobile",
+      "description": "埼玉県八潮市の道路陥没事故は、老朽インフラ対策の論点を改めて浮かび上がらせた。IPA圧入工学セミナーに登壇した政策研究大学院大学 特別教授の家田仁氏は、「課題は技術だけでは解けない」と断言。社会の関心、行政体制、維持管理、住民理解までを包含する「インフラマネジメント」への転換を訴えた。",
+      "published_utc": "2026-11-26T11:42:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://built.itmedia.co.jp/bt/articles/2611/26/news084.html",
+          "source": "ITmedia Mobile",
+          "publisher": "ITmedia Mobile",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T11:42:00+00:00",
+          "title": "八潮の道路陥没事故が突きつけた現実 「AI／DXだけでは解けない」インフラ政策の大転換"
+        }
+      ]
+    },
+    {
+      "id": "cc66e6ecacedebfad5f1c798",
+      "topic": "smartphones",
+      "title": "フォルダブルスマホを折りたたむ時は“異物”がないか確認を――国民生活センターが注意喚起",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/26/news077.html",
+      "source": "ITmedia Mobile",
+      "publisher": "ITmedia Mobile",
+      "description": "国民生活センターが、折りたたみ（フォルダブル）スマートフォンの破損に関するテストを実施し、その結果を公開した。折りたたみスマートフォンを折りたたむ際は、異物がないかどうかを確認するように呼びかけている。",
+      "published_utc": "2026-11-26T08:30:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "スマートフォンへ分類",
+      "sources": [
+        {
+          "url": "https://www.itmedia.co.jp/mobile/articles/2611/26/news077.html",
+          "source": "ITmedia Mobile",
+          "publisher": "ITmedia Mobile",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T08:30:00+00:00",
+          "title": "フォルダブルスマホを折りたたむ時は“異物”がないか確認を――国民生活センターが注意喚起"
+        }
+      ]
+    },
+    {
+      "id": "c441568f4ebf80e95eb0be4b",
+      "topic": "smartphones",
+      "title": "Obsidian公式の「エージェント向け」スキル集が登場 Vault操作法とファイル形式をひとまとめに",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003470",
+      "source": "ITmedia Mobile",
+      "publisher": "ITmedia Mobile",
+      "description": "マークダウンエディタ「Obsidian」に「エージェント向けの公式コネクタ」機能が登場した。",
+      "published_utc": "2026-11-26T00:35:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003470",
+          "source": "ITmedia Mobile",
+          "publisher": "ITmedia Mobile",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T00:35:00+00:00",
+          "title": "Obsidian公式の「エージェント向け」スキル集が登場 Vault操作法とファイル形式をひとまとめに"
+        }
+      ]
+    },
+    {
+      "id": "d33845892f62756cd4b76ab3",
+      "topic": "smartphones",
+      "title": "置くだけ充電＋最大8000Hz対応ドングルの1台2役！ 「Razer Mouse Dock V2 Pro」をBasilisk V4 Proと組み合わせて試す",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/26/news068.html",
+      "source": "ITmedia Mobile",
+      "publisher": "ITmedia Mobile",
+      "description": "Razerのハイエンドワイヤレスマウスには、内蔵バッテリーの充電もワイヤレス化する「Razer Mouse Dock Pro」というオプション品がある。その第2世代モデルが登場したので、同じく新型のワイヤレスマウス「Razer Basilisk V4 Pro」と組み合わせて使ってみた。",
+      "published_utc": "2026-11-26T07:45:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.itmedia.co.jp/pcuser/articles/2611/26/news068.html",
+          "source": "ITmedia Mobile",
+          "publisher": "ITmedia Mobile",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T07:45:00+00:00",
+          "title": "置くだけ充電＋最大8000Hz対応ドングルの1台2役！ 「Razer Mouse Dock V2 Pro」をBasilisk V4 Proと組み合わせて試す"
+        }
+      ]
+    },
+    {
+      "id": "ae4628fb34a10cbc7e3579b9",
+      "topic": "smartphones",
+      "title": "GPT-6.2の使用量「誤って割引されていた」 修正後はAstraで上限に40％早く達する見込み",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003495",
+      "source": "ITmedia Mobile",
+      "publisher": "ITmedia Mobile",
+      "description": "OpenAIのプロダクト責任者ティボー・ソティオ氏（通称Tibo）は「GPT-6.2 Astra」と「GPT-6.2 Sol」の使用量の計算に誤りがあり、実際よりも少なく計算されていたとXで明かした。",
+      "published_utc": "2026-11-26T07:43:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003495",
+          "source": "ITmedia Mobile",
+          "publisher": "ITmedia Mobile",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T07:43:00+00:00",
+          "title": "GPT-6.2の使用量「誤って割引されていた」 修正後はAstraで上限に40％早く達する見込み"
+        }
+      ]
+    },
+    {
+      "id": "383f7736e6d3e5f42d244257",
+      "topic": "smartphones",
+      "title": "ドコモに聞く「新ahamo」の狙い 3段階制と165円値上げ、既存契約者に“40GBリミッター”実装の理由",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/26/news074.html",
+      "source": "ITmedia Mobile",
+      "publisher": "ITmedia Mobile",
+      "description": "ドコモは12月1日にahamoを改定し、40GB・60GB・120GBの3段階制へ移行する。ユーザーの離脱防止や中容量帯の需要に応えるため、値上げ幅を165円に抑えつつ利便性を高めた。流動性の高い価格レンジだが競争力を維持させ、ドコモ MAXへの誘導を図る。",
+      "published_utc": "2026-11-26T07:09:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.itmedia.co.jp/mobile/articles/2611/26/news074.html",
+          "source": "ITmedia Mobile",
+          "publisher": "ITmedia Mobile",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T07:09:00+00:00",
+          "title": "ドコモに聞く「新ahamo」の狙い 3段階制と165円値上げ、既存契約者に“40GBリミッター”実装の理由"
+        }
+      ]
+    },
+    {
+      "id": "879258fe7c7f1e632d2567e8",
+      "topic": "ai",
+      "title": "家計データをなぜ「Muse」「ChatGPT」に渡すのか？ マネーフォワードに聞いた狙いと安全策",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003490",
+      "source": "ITmedia Mobile",
+      "publisher": "ITmedia Mobile",
+      "description": "頼んでもいないのに、AIが朝一番にカードの引き落としと預金を照らし合わせて知らせてくる。家計簿アプリ「マネーフォワード ME」のデータがMetaのMuseに届くようになったからだ。だが家計の記録は、マネーフォワードにとって最大の資産のはず。なぜ外のAIに差し出したのか。安全は誰が守るのか。",
+      "published_utc": "2026-11-26T06:09:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003490",
+          "source": "ITmedia Mobile",
+          "publisher": "ITmedia Mobile",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T06:09:00+00:00",
+          "title": "家計データをなぜ「Muse」「ChatGPT」に渡すのか？ マネーフォワードに聞いた狙いと安全策"
+        }
+      ]
+    },
+    {
+      "id": "a4d9ba117fa1c39523c33222",
+      "topic": "smartphones",
+      "title": "Character.AIのチャット履歴競売に41州とワシントンD.C.が異議 未成年者の約210万アカウント分も対象",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003479",
+      "source": "ITmedia Mobile",
+      "publisher": "ITmedia Mobile",
+      "description": "米カリフォルニアやコネチカットなど41州とワシントンD.C.の司法長官は、破産申請した「Character.AI」の資産競売に異議を申し立てた。競売には未成年者の210万以上を含む2100万超のチャット履歴が含まれるが、買い手にデータ保護の義務がなく、プライバシー法に反するとして売却の却下を求めている。",
+      "published_utc": "2026-11-26T04:32:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003479",
+          "source": "ITmedia Mobile",
+          "publisher": "ITmedia Mobile",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T04:32:00+00:00",
+          "title": "Character.AIのチャット履歴競売に41州とワシントンD.C.が異議 未成年者の約210万アカウント分も対象"
+        }
+      ]
+    },
+    {
+      "id": "dcc7bcd4f79d44dcbfe47c1d",
+      "topic": "smartphones",
+      "title": "AnthropicのアモデイCEO、「人間の自由意志をAIに明け渡す」考えを否定 AI企業間で議論",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003473",
+      "source": "ITmedia Mobile",
+      "publisher": "ITmedia Mobile",
+      "description": "Anthropicのダリオ・アモデイCEOは、超知能AIに人間の意思決定権を委ねるべきだと考えているとしたAxiosの報道をXで否定した。社会の統治と個別タスクの自動化を混同していると反論し、AIは民主的プロセスで管理されるべきだと強調した。超知能時代の主導権を巡っては、OpenAIやMeta幹部も発言しており議論が広がっている。",
+      "published_utc": "2026-11-26T02:24:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003473",
+          "source": "ITmedia Mobile",
+          "publisher": "ITmedia Mobile",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T02:24:00+00:00",
+          "title": "AnthropicのアモデイCEO、「人間の自由意志をAIに明け渡す」考えを否定 AI企業間で議論"
+        }
+      ]
+    },
+    {
+      "id": "94b36a25def860ba5425ff01",
+      "topic": "smartphones",
+      "title": "SpaceXの軌道上データセンター衛星「Starmind」、米FCCが最大100万基を承認",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003468",
+      "source": "ITmedia Mobile",
+      "publisher": "ITmedia Mobile",
+      "description": "米連邦通信委員会（FCC）は、SpaceXによる軌道上データセンター衛星群「Starmind」の配備を条件付きで承認した。宇宙空間のデータセンター群に対する認可は米国初で、最大100万基の軌道コンピュートモジュールで構成する。一方、高度600km超の衛星の一部に関する宇宙デブリ対策については判断を保留した。",
+      "published_utc": "2026-11-26T00:15:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003468",
+          "source": "ITmedia Mobile",
+          "publisher": "ITmedia Mobile",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T00:15:00+00:00",
+          "title": "SpaceXの軌道上データセンター衛星「Starmind」、米FCCが最大100万基を承認"
+        }
+      ]
+    },
+    {
+      "id": "7bcfdc9d0959bcbb63db978a",
+      "topic": "ai",
+      "title": "旅行会社に残る価値は？　生成AIに「旅の相談」が当たり前の今、業界の生存戦略（1/3 ページ）",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/26/news033.html",
+      "source": "ITmedia Mobile",
+      "publisher": "ITmedia Mobile",
+      "description": "検索から予約、決済まで自律的にこなす「AIエージェント」の普及で、旅行会社の存在意義が問われている。日本旅行業協会（JATA）主催のシンポジウムに旅行・食・IT・大手旅行会社のプロ4人が登壇。「おいしい」を味わう感覚や、顧客の言葉の裏にある本音までは読み取れないAIの限界を指摘し、AIによる業務効率化で生み出した時間を「信頼関係」や現場の感動体験に振り向ける共創の生存戦略を議論した。",
+      "published_utc": "2026-11-26T12:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://www.itmedia.co.jp/business/articles/2611/26/news033.html",
+          "source": "ITmedia Mobile",
+          "publisher": "ITmedia Mobile",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T12:00:00+00:00",
+          "title": "旅行会社に残る価値は？　生成AIに「旅の相談」が当たり前の今、業界の生存戦略（1/3 ページ）"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T12:00:00Z",
+      "article_modified_raw": "2026-11-26T12:00:00Z",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "b237ce26fd604d49d80d3778",
+      "topic": "smartphones",
+      "title": "画面に映り込まず、デスク全体が明るい！ BenQ初のデュアルディスプレイ対応ライト「ScreenBar Max」＆iMac専用「iScreenBar」を試す",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/26/news022.html",
+      "source": "ITmedia Mobile",
+      "publisher": "ITmedia Mobile",
+      "description": "BenQから、同社初となるデュアルディスプレイ環境に対応したディスプレイライト「ScreenBar Max」が登場した。同時発売されたiMac専用の「iScreenBar」と併せて、ScreenBarシリーズ10年目の節目となる2製品の実力と、そもそもディスプレイライトがなぜ必要なのかをじっくり検証する。",
+      "published_utc": "2026-11-26T03:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.itmedia.co.jp/pcuser/articles/2611/26/news022.html",
+          "source": "ITmedia Mobile",
+          "publisher": "ITmedia Mobile",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T03:00:00+00:00",
+          "title": "画面に映り込まず、デスク全体が明るい！ BenQ初のデュアルディスプレイ対応ライト「ScreenBar Max」＆iMac専用「iScreenBar」を試す"
+        }
+      ]
+    },
+    {
+      "id": "0285e92fb24e01e66e14d2e3",
+      "topic": "smartphones",
+      "title": "図面を探す時間から技能を伝える時間へ、AI活用で業務効率化を進める空研工業",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/26/news014.html",
+      "source": "ITmedia Mobile",
+      "publisher": "ITmedia Mobile",
+      "description": "創業70周年を迎えた空研工業は、長年蓄積してきた図面や技術資料をAIで活用する「AIナレッジ基盤システム」をRecursiveと共同開発した。試行利用の結果を基にした試算では、図面検索工数を最大約90％削減する見通しで、業務効率化の先には技能伝承も見据える。AI活用に至った背景や現場が抱えていた課題、試行利用で得られた手応えについて、工場長と現場の技術者に話を聞いた。",
+      "published_utc": "2026-11-26T00:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2611/26/news014.html",
+          "source": "ITmedia Mobile",
+          "publisher": "ITmedia Mobile",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T00:00:00+00:00",
+          "title": "図面を探す時間から技能を伝える時間へ、AI活用で業務効率化を進める空研工業"
+        }
+      ]
+    },
+    {
+      "id": "cf7db5e5a44232e8eb59dcda",
+      "topic": "smartphones",
+      "title": "国内造船業再生の鍵はフィジカルAI、デジタルシップヤード開発の現状を知る",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/26/news018.html",
+      "source": "ITmedia Mobile",
+      "publisher": "ITmedia Mobile",
+      "description": "政府策定の「造船業再生ロードマップ」では、AIとロボット技術を組み合わせたフィジカルAIによる建造工程の自動化が求められている。「造船業界におけるAI・ロボティクス普及に向けたシンポジウム」では、ジャパン マリンユナイテッドや川崎重工業、ソフトバンクロボティクス、日立の取り組みが紹介された。",
+      "published_utc": "2026-11-25T23:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2611/26/news018.html",
+          "source": "ITmedia Mobile",
+          "publisher": "ITmedia Mobile",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T23:00:00+00:00",
+          "title": "国内造船業再生の鍵はフィジカルAI、デジタルシップヤード開発の現状を知る"
+        }
+      ]
+    },
+    {
+      "id": "453ab37eed1a34a61309776d",
+      "topic": "smartphones",
+      "title": "「AI検索に電話番号が……」鳴りやまぬコールセンター バッファローは壊れた「顧客導線」をどう改善した？",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/26/news015.html",
+      "source": "ITmedia Mobile",
+      "publisher": "ITmedia Mobile",
+      "description": "PC周辺機器大手バッファローのコンタクトセンターでは、AI検索にコールセンターの電話番号が直接表示されるようになり、機器サポートに関する電話問い合わせが急増。現場が逼迫（ひっぱく）していた。",
+      "published_utc": "2026-11-25T22:30:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.itmedia.co.jp/business/articles/2611/26/news015.html",
+          "source": "ITmedia Mobile",
+          "publisher": "ITmedia Mobile",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T22:30:00+00:00",
+          "title": "「AI検索に電話番号が……」鳴りやまぬコールセンター バッファローは壊れた「顧客導線」をどう改善した？"
+        }
+      ]
+    },
+    {
+      "id": "c027886634a2f3b3b49eee72",
+      "topic": "pc",
+      "title": "Dell Pro Precision with GB10 Review: 64GB Matches 128GB on Every Test That Fits",
+      "url": "https://www.storagereview.com/review/dell-pro-precision-with-gb10-review-64gb-vs-128gb",
+      "source": "StorageReview",
+      "publisher": "StorageReview",
+      "description": "Dell now sells its GB10 desktop in two memory sizes, and the question buyers keep asking is whether the 64GB version gives anything up beyond capacity. We put a 64GB and a 128GB Dell Pro Precision with GB10 side by side on the same bench, ran the same Linux suites on both in parallel, and The post Dell Pro Precision with GB10 Review: 64GB Matches 1",
+      "published_utc": "2026-11-25T21:43:09+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.storagereview.com/review/dell-pro-precision-with-gb10-review-64gb-vs-128gb",
+          "source": "StorageReview",
+          "publisher": "StorageReview",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T21:43:09+00:00",
+          "title": "Dell Pro Precision with GB10 Review: 64GB Matches 128GB on Every Test That Fits"
+        }
+      ]
+    },
+    {
+      "id": "7efb4f68221838543e84c8c0",
+      "topic": "pc",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
+      "source": "TechCrunch",
+      "publisher": "TechCrunch",
+      "description": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "published_utc": "2026-11-25T22:44:32+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
+          "source": "TechCrunch",
+          "publisher": "TechCrunch",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T22:44:32+00:00",
+          "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks"
+        }
+      ]
+    },
+    {
+      "id": "436003a543aef27d185c8668",
+      "topic": "ai",
+      "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
+      "url": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "publisher": "The Verge",
+      "description": "A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 on their holiday wishlist. In case you haven’t bought it yet, I wanted to share some small but welcome deals happening on the physical and digital versions of the game. Costco members can currently grab the cartridge edition […]",
+      "published_utc": "2026-11-26T14:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
+          "source": "The Verge",
+          "publisher": "The Verge",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T14:00:00+00:00",
+          "title": "Here’s where you can save (a little) on the Ocarina of Time remake"
+        }
+      ]
+    },
+    {
+      "id": "219cfde8ab7612d2006be2fd",
+      "topic": "pc",
+      "title": "Thermal Grizzly’s Delid-Heat-Mate Heats A CPU Upside Down In An Oven Until The Indium Solder Melts And The IHS Drops Off Under Its Own Weight",
+      "url": "https://wccftech.com/thermal-grizzly-launches-delid-heat-mate",
+      "source": "Wccftech",
+      "publisher": "Wccftech",
+      "description": "A cheaper solution is out for enthusiasts who want a hassle-free CPU delidding, and supports multiple AMD and Intel platforms. The Delid-Heat-Mate Brings Controlled Oven Heating to Delid CPUs, Allowing the Heat Spreader to Detach Under its Own Weight Delidding a CPU to remove the IHS for direct contact with the CPU cooler is a popular practice amon",
+      "published_utc": "2026-11-26T14:26:02+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://wccftech.com/thermal-grizzly-launches-delid-heat-mate",
+          "source": "Wccftech",
+          "publisher": "Wccftech",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T14:26:02+00:00",
+          "title": "Thermal Grizzly’s Delid-Heat-Mate Heats A CPU Upside Down In An Oven Until The Indium Solder Melts And The IHS Drops Off Under Its Own Weight"
+        }
+      ]
+    },
+    {
+      "id": "76726391521732e8adf8e29a",
+      "topic": "pc",
+      "title": "Elon Musk Offered To Guarantee Financing For Samsung’s Upcoming Chip Fab, But Chairman Lee Jae-yong Replied ‘We Get That Offer From Everyone’",
+      "url": "https://wccftech.com/elon-musk-offered-to-guarantee-financing-for-samsungs-upcoming-chip-fab-but-chairman-lee-jae-yong-replied-we-get-that-offer-from-everyone",
+      "source": "Wccftech",
+      "publisher": "Wccftech",
+      "description": "When Elon Musk suddenly unloaded on Samsung while praising Micron back in October, nearly everyone was caught off-guard. Now, we finally know what sparked his harsh reaction—and it all comes down to a tense meeting between Samsung Chairman Lee Jae-yong and the CEO of Tesla and SpaceX. A tense meeting explains why Elon Musk suddenly turned on Samsun",
+      "published_utc": "2026-11-26T14:05:01+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://wccftech.com/elon-musk-offered-to-guarantee-financing-for-samsungs-upcoming-chip-fab-but-chairman-lee-jae-yong-replied-we-get-that-offer-from-everyone",
+          "source": "Wccftech",
+          "publisher": "Wccftech",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T14:05:01+00:00",
+          "title": "Elon Musk Offered To Guarantee Financing For Samsung’s Upcoming Chip Fab, But Chairman Lee Jae-yong Replied ‘We Get That Offer From Everyone’"
+        }
+      ]
+    },
+    {
+      "id": "579423622631e27cc90af4ac",
+      "topic": "ai",
+      "title": "Anthropic&#8217;s Claude Can Now Build Installable Windows And Mac Apps Without A Single Line Of Code, Even On Its Free Plan",
+      "url": "https://wccftech.com/anthropics-claude-can-now-build-installable-windows-and-mac-apps-without-a-single-line-of-code-even-on-its-free-plan",
+      "source": "Wccftech",
+      "publisher": "Wccftech",
+      "description": "Anthropic's Claude can now create installable Windows and Mac desktop apps without coding, with OS-level integration, even on its free plan.",
+      "published_utc": "2026-11-26T13:34:01+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://wccftech.com/anthropics-claude-can-now-build-installable-windows-and-mac-apps-without-a-single-line-of-code-even-on-its-free-plan",
+          "source": "Wccftech",
+          "publisher": "Wccftech",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T13:34:01+00:00",
+          "title": "Anthropic&#8217;s Claude Can Now Build Installable Windows And Mac Apps Without A Single Line Of Code, Even On Its Free Plan"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T13:34:01+00:00",
+      "article_modified_raw": "2026-11-26T13:34:09+00:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "354c2b5b897f025b4657a8d9",
+      "topic": "pc",
+      "title": "Undervolted RTX 5070 Running Melts The PSU-Side 8-Pin Connector, While The 16-Pin End On The GPU Stays Intact",
+      "url": "https://wccftech.com/undervolted-rtx-5070-setup-suffers-from-8-pin-connector-melting",
+      "source": "Wccftech",
+      "publisher": "Wccftech",
+      "description": "Interestingly, this is one of the rare cases where the 16-pin connector was safe, but the 8-pin connector got melted. MSI RTX 5070 Ti Shadow 2X Running at 180W Still Results in Connector Melting, but 16-pin Connector Remained Safe While 8-pin on the PSU Side Melted One should adhere to the manufacturer's guidelines when it comes to the RTX 50 serie",
+      "published_utc": "2026-11-26T13:31:32+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://wccftech.com/undervolted-rtx-5070-setup-suffers-from-8-pin-connector-melting",
+          "source": "Wccftech",
+          "publisher": "Wccftech",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T13:31:32+00:00",
+          "title": "Undervolted RTX 5070 Running Melts The PSU-Side 8-Pin Connector, While The 16-Pin End On The GPU Stays Intact"
+        }
+      ]
+    },
+    {
+      "id": "0b8fc459f5a54799d9a70dd8",
+      "topic": "pc",
+      "title": "Huawei Poised To Grow China’s AI Chip Market With A Next-Generation HBM Design With Double The Data Pin Density To Surpass Bandwidth Limitations",
+      "url": "https://wccftech.com/huawei-poised-to-grow-chinas-ai-chip-market-next-generation-hbm-design-double-data-pin-density",
+      "source": "Wccftech",
+      "publisher": "Wccftech",
+      "description": "The LogicFolding design for chips was only the start of Huawei’s ambitions, because the Chinese giant is reportedly set to share technical details of a next-generation High-Bandwidth Memory (HBM) architecture engineered to rival and potentially surpass existing solutions from South Korean memory manufacturers Samsung and SK hynix. A key difference ",
+      "published_utc": "2026-11-26T13:16:59+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://wccftech.com/huawei-poised-to-grow-chinas-ai-chip-market-next-generation-hbm-design-double-data-pin-density",
+          "source": "Wccftech",
+          "publisher": "Wccftech",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T13:16:59+00:00",
+          "title": "Huawei Poised To Grow China’s AI Chip Market With A Next-Generation HBM Design With Double The Data Pin Density To Surpass Bandwidth Limitations"
+        }
+      ]
+    },
+    {
+      "id": "04bf00f1d52405c7852048ee",
+      "topic": "pc",
+      "title": "Microsoft Frees Up Nearly 900 MB Of RAM On Windows 11 By Cutting Memory Usage Across Its Own Apps And Services",
+      "url": "https://wccftech.com/microsoft-frees-up-nearly-900-mb-of-ram-on-windows-11-by-cutting-memory-usage-across-its-own-apps-and-services",
+      "source": "Wccftech",
+      "publisher": "Wccftech",
+      "description": "Amid the ongoing DRAM shortage and skyrocketing memory prices, Microsoft is finally making meaningful progress in addressing Windows 11's notoriously resource-hungry nature. During its recent Ignite 2026 conference, the Redmond giant revealed that optimizations to its own applications and background services have collectively reclaimed over 860 MB ",
+      "published_utc": "2026-11-26T13:14:39+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://wccftech.com/microsoft-frees-up-nearly-900-mb-of-ram-on-windows-11-by-cutting-memory-usage-across-its-own-apps-and-services",
+          "source": "Wccftech",
+          "publisher": "Wccftech",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T13:14:39+00:00",
+          "title": "Microsoft Frees Up Nearly 900 MB Of RAM On Windows 11 By Cutting Memory Usage Across Its Own Apps And Services"
+        }
+      ]
+    },
+    {
+      "id": "9ac7e7a389fb0da759a31039",
+      "topic": "pc",
+      "title": "Phantom Blade Zero’s November 28 Patch Cuts RAM and VRAM Use in Cutscenes and Snowy Areas, Smoothing Performance And Reducing Stuttering",
+      "url": "https://wccftech.com/phantom-blade-zero-november-28-patch-ram-vram-optimization-performance",
+      "source": "Wccftech",
+      "publisher": "Wccftech",
+      "description": "Following the first couple of patches that tweaked performance and difficulty, S-Game confirmed a new Phantom Blade Zero patch will launch on November 28 on PC and PlayStation 5, which will not only tackle some of the game's remaining issues but also boost performance by optimizing RAM and VRAM usage, among other things. The 1.0304629 patch, which ",
+      "published_utc": "2026-11-26T12:23:06+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://wccftech.com/phantom-blade-zero-november-28-patch-ram-vram-optimization-performance",
+          "source": "Wccftech",
+          "publisher": "Wccftech",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T12:23:06+00:00",
+          "title": "Phantom Blade Zero’s November 28 Patch Cuts RAM and VRAM Use in Cutscenes and Snowy Areas, Smoothing Performance And Reducing Stuttering"
+        }
+      ]
+    },
+    {
+      "id": "674cdfb7c1948f48a1d2120f",
+      "topic": "pc",
+      "title": "Grand Theft Auto VI Is the “Toughest Real-World PlayStation 5 Stress Test” to Date, As It Pulls 220 W With Barely Anything Happening On Screen",
+      "url": "https://wccftech.com/grand-theft-auto-vi-toughest-playstation-5-stress-test",
+      "source": "Wccftech",
+      "publisher": "Wccftech",
+      "description": "Even before release, everyone was well aware that Rockstar Games would push the PlayStation 5 and Xbox Series X|S hardware hard with Grand Theft Auto VI, and the expectations were fully met when the game finally launched on November 19. However, this came at a cost, as long-standing issues with the PlayStation 5 hardware, especially liquid metal co",
+      "published_utc": "2026-11-26T11:23:42+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://wccftech.com/grand-theft-auto-vi-toughest-playstation-5-stress-test",
+          "source": "Wccftech",
+          "publisher": "Wccftech",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T11:23:42+00:00",
+          "title": "Grand Theft Auto VI Is the “Toughest Real-World PlayStation 5 Stress Test” to Date, As It Pulls 220 W With Barely Anything Happening On Screen"
+        }
+      ]
+    },
+    {
+      "id": "346730fe738e38ac4f5a1832",
+      "topic": "ai",
+      "title": "NVIDIA VP Who Opposed Bringing Jensen Huang Back Used To Work At China’s Baidu And Co-Authored A Paper With Anthropic’s Dario Amodei",
+      "url": "https://wccftech.com/nvidia-vp-who-opposed-bringing-jensen-huang-back-used-to-work-at-chinas-baidu-and-co-authored-a-paper-with-anthropics-dario-amodei",
+      "source": "Wccftech",
+      "publisher": "Wccftech",
+      "description": "The plot thickens. Bryan Catanzaro, NVIDIA's vice president of applied deep learning research, was notably outspoken in his refusal to advocate for Jensen Huang's return as CEO. Now, a look at his past research ties offers a potential clue to his thinking — specifically, a past collaboration with Anthropic CEO Dario Amodei. Years before Bryan Catan",
+      "published_utc": "2026-11-26T11:10:37+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://wccftech.com/nvidia-vp-who-opposed-bringing-jensen-huang-back-used-to-work-at-chinas-baidu-and-co-authored-a-paper-with-anthropics-dario-amodei",
+          "source": "Wccftech",
+          "publisher": "Wccftech",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T11:10:37+00:00",
+          "title": "NVIDIA VP Who Opposed Bringing Jensen Huang Back Used To Work At China’s Baidu And Co-Authored A Paper With Anthropic’s Dario Amodei"
+        }
+      ]
+    },
+    {
+      "id": "0a05fc676a576046fe87a1a4",
+      "topic": "pc",
+      "title": "Xenoblade Chronicles 3 Hits 4K@60 FPS on Switch 2 From December 3, but an Unofficial Xenoblade 2 PC Port Already Delivers 120 FPS",
+      "url": "https://wccftech.com/xenoblade-chronicles-3-4k60-fps-switch-2-xenoblade-2-pc-port-120-fps",
+      "source": "Wccftech",
+      "publisher": "Wccftech",
+      "description": "Xenoblade Chronicles 3 hits Switch 2 at 4K/60 FPS on Dec 3, but an unofficial PC port already pushes 120 FPS and HDR",
+      "published_utc": "2026-11-26T10:37:56+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://wccftech.com/xenoblade-chronicles-3-4k60-fps-switch-2-xenoblade-2-pc-port-120-fps",
+          "source": "Wccftech",
+          "publisher": "Wccftech",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T10:37:56+00:00",
+          "title": "Xenoblade Chronicles 3 Hits 4K@60 FPS on Switch 2 From December 3, but an Unofficial Xenoblade 2 PC Port Already Delivers 120 FPS"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T10:37:56+00:00",
+      "article_modified_raw": "2026-11-26T12:37:29+00:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "1fcb8f0b09cc4b4f8471a108",
+      "topic": "pc",
+      "title": "Unofficial Grand Theft Auto VI PC Recompilations Are Now Running at 20-30 FPS, With One Player Reporting Up to 44 FPS",
+      "url": "https://wccftech.com/unofficial-grand-theft-auto-vi-pc-recompilations-20-30-fps",
+      "source": "Wccftech",
+      "publisher": "Wccftech",
+      "description": "Rockstar's Grand Theft Auto VI is close to running properly on PC through unofficial means, if the latest progress reports from the recompilation scene are to be believed. Reddit and social media channels are flooded with videos of the game seemingly running at 20-30 FPS. Of course, that doesn't mean there are no bugs, glitches, freezes, and crashe",
+      "published_utc": "2026-11-26T10:30:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://wccftech.com/unofficial-grand-theft-auto-vi-pc-recompilations-20-30-fps",
+          "source": "Wccftech",
+          "publisher": "Wccftech",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T10:30:00+00:00",
+          "title": "Unofficial Grand Theft Auto VI PC Recompilations Are Now Running at 20-30 FPS, With One Player Reporting Up to 44 FPS"
+        }
+      ]
+    },
+    {
+      "id": "a8b54abeebe16a6f006bd951",
+      "topic": "pc",
+      "title": "NVIDIA GeForce GPU Owners Can’t Catch A Break; Latest 621.40 Drivers Meant To Fix SSD Wear Now Causing Display Signal Loss And Black Screens",
+      "url": "https://wccftech.com/nvidia-geforce-621-40-drivers-ssd-wear-display-signal-loss-black-screens",
+      "source": "Wccftech",
+      "publisher": "Wccftech",
+      "description": "NVIDIA GeForce 621.40 drivers released to address SSD wear issues are now causing display signal loss and black screens for GPU owners",
+      "published_utc": "2026-11-26T10:02:56+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://wccftech.com/nvidia-geforce-621-40-drivers-ssd-wear-display-signal-loss-black-screens",
+          "source": "Wccftech",
+          "publisher": "Wccftech",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T10:02:56+00:00",
+          "title": "NVIDIA GeForce GPU Owners Can’t Catch A Break; Latest 621.40 Drivers Meant To Fix SSD Wear Now Causing Display Signal Loss And Black Screens"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T10:02:56+00:00",
+      "article_modified_raw": "2026-11-26T10:03:01+00:00",
+      "enrichment": "article_metadata"
     }
   ],
   "date_unknown": [
@@ -7098,12 +8754,68 @@
           "title": "Model Release Notes：ページ変更を観測（要差分確認）"
         }
       ]
+    },
+    {
+      "id": "ffa9eae626a9b989d4ea32e9",
+      "topic": "ai",
+      "title": "Model Release Notes：ページ変更を観測（要差分確認）",
+      "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help",
+      "description": "前回観測 2026-11-26T19:18:36+00:00 → 今回観測 2026-11-26T21:17:10+00:00。変更内容・発生日は未確定。",
+      "published_utc": null,
+      "date_jst": null,
+      "timestamp_basis": "page_change_observed",
+      "link_role": "monitor_page",
+      "date_quality": "observed_change",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "d4e216700c35",
+      "sources": [
+        {
+          "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help",
+          "timestamp_basis": "page_change_observed",
+          "published_utc": null,
+          "title": "Model Release Notes：ページ変更を観測（要差分確認）"
+        }
+      ]
+    },
+    {
+      "id": "5cf3d55571ec714502edcb3c",
+      "topic": "ai",
+      "title": "ChatGPT/Codex usage limits：ページ変更を観測（要差分確認）",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help",
+      "description": "前回観測 2026-11-26T19:18:36+00:00 → 今回観測 2026-11-26T21:17:10+00:00。変更内容・発生日は未確定。",
+      "published_utc": null,
+      "date_jst": null,
+      "timestamp_basis": "page_change_observed",
+      "link_role": "monitor_page",
+      "date_quality": "observed_change",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "possible_event_id": "b1569d09984b",
+      "sources": [
+        {
+          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help",
+          "timestamp_basis": "page_change_observed",
+          "published_utc": null,
+          "title": "ChatGPT/Codex usage limits：ページ変更を観測（要差分確認）"
+        }
+      ]
     }
   ],
   "health": {
-    "ok": 13,
-    "partial": 6,
-    "skipped": 24,
+    "ok": 25,
+    "deferred": 13,
+    "partial": 2,
+    "failed": 2,
+    "empty": 1,
     "manual": 3
   }
 }

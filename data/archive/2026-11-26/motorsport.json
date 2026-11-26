@@ -923,7 +923,11 @@
           "published_utc": "2026-11-25T17:51:29+00:00",
           "title": "Brembo, come cambia la frenata in Qatar con le auto 2026. Curiosità: Ferrari mai in testa a Lusail"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "b15e868c8a5c9775b355856b",
@@ -975,7 +979,11 @@
           "published_utc": "2026-11-25T16:19:47+00:00",
           "title": "FIA: ufficiali i risultati del budget cap 2025, solo Williams ha sforato il limite di spesa"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "f71a784799d117974275a115",
@@ -1001,7 +1009,11 @@
           "published_utc": "2026-11-25T15:55:12+00:00",
           "title": "Ferrari, il caso Leclerc-Hamilton è anche un problema di Vigna"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "facec94268eaa1151fe65f38",
@@ -1708,7 +1720,9 @@
           "published_utc": "2026-11-25T20:31:23+00:00",
           "title": "FIA filings reveal the Red Bull aero update behind Max Verstappen’s Las Vegas GP win"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "8c67867ac90e2c8d0d7e2d51",
@@ -3139,7 +3153,9 @@
           "published_utc": "2026-11-25T21:25:17+00:00",
           "title": "Max Verstappen admits he would “rather stay at home” ahead of Qatar and Abu Dhabi"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "dd20cfc1e98b374329c4e4f9",
@@ -3451,7 +3467,9 @@
           "published_utc": "2026-11-26T00:30:03+00:00",
           "title": "Nico Rosberg rules George Russell out of 2027 F1 title fight: “Dug himself into a mental hole”"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "f4e0bc69be510ff04dc8597e",
@@ -4053,7 +4071,9 @@
           "published_utc": "2026-11-26T10:57:58+00:00",
           "title": "Fernando Alonso to miss Qatar F1 media day with viral illness"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "ae0cf8e7ed97f2be656a917a",
@@ -4079,7 +4099,9 @@
           "published_utc": "2026-11-26T10:39:33+00:00",
           "title": "Fernando Alonso: ‘I will quit F1 when I feel slow, not at a specific age’"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://www.motorsport.com/f1/news/fernando-alonso-i-will-quit-f1-when-i-feel-slow-not-at-a-specific-age/10877599"
     },
     {
       "id": "a71aa8d70bdb29c13138ce65",
@@ -4131,7 +4153,9 @@
           "published_utc": "2026-11-26T09:00:41+00:00",
           "title": "Oliver Bearman locks in Haas F1 seat as 2027 grid officially set"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "be6a4a713ab656b18a5ca9f1",
@@ -4391,7 +4415,11 @@
           "published_utc": "2026-11-26T09:01:56+00:00",
           "title": "UFFICIALE: Oliver Bearman rinnova con Haas, sarà al fianco di Camara nel 2027"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "1d6f74aa28a9639459930514",
@@ -4417,7 +4445,11 @@
           "published_utc": "2026-11-26T08:42:21+00:00",
           "title": "F1, Bearman rinnova con la Ferrari oltre il 2027"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "21219987e0e4246d50798841",
@@ -4443,7 +4475,11 @@
           "published_utc": "2026-11-26T08:11:00+00:00",
           "title": "Haas, prove di 2027: tra Qatar e Abu Dhabi si testa l’ala “reverse”"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "0816e689c4bc3e31f81d5db5",
@@ -8238,6 +8274,1496 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T18:59:20+00:00",
           "title": "Ford GT41 Hypercar gets big-ticket launch in Detroit - RACER - Racing News"
+        }
+      ]
+    },
+    {
+      "id": "9e03dce3c7c7e95c8871127d",
+      "topic": "other_motorsport",
+      "title": "Excelr8 goes for customer BTCC engine for 2027",
+      "url": "https://www.autosport.com/btcc/news/excelr8-goes-for-customer-btcc-engine-for-2027/10877832",
+      "source": "Autosport all",
+      "publisher": "Autosport all",
+      "description": "Tom Ingram’s bid for a third British Touring Car Championship title in 2027 will be powered by a customer TOCA engine. Excelr8 Motorsport, the team with which Ingram has raced since 2021 and won both his crowns, has confirmed its switch to the M-Sport-built powerplant for its squad of four Hyundai i30 N Fastbacks. The news comes as little surprise.",
+      "published_utc": "2026-11-26T09:54:56+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.autosport.com/btcc/news/excelr8-goes-for-customer-btcc-engine-for-2027/10877832",
+          "source": "Autosport all",
+          "publisher": "Autosport all",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T09:54:56+00:00",
+          "title": "Excelr8 goes for customer BTCC engine for 2027"
+        }
+      ]
+    },
+    {
+      "id": "391964b484c5cbf0ad60ba35",
+      "topic": "F1",
+      "title": "Bagnaia: “Il piede è relativamente ok. Sono fermo per un’emorragia cerebrale”",
+      "url": "https://www.formulapassion.it/motogp/motogp-news/bagnaia-il-piede-e-relativamente-ok-sono-fermo-per-emorragia-cerebrale-ducati-valencia",
+      "source": "FormulaPassion",
+      "publisher": "FormulaPassion",
+      "description": "Francesco Bagnaia ha rivelato che i medici MotoGP gli hanno impedito di partecipare a Valencia per una lieve emorragia cerebrale rimediata in Qatar",
+      "published_utc": "2026-11-26T14:45:36+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.formulapassion.it/motogp/motogp-news/bagnaia-il-piede-e-relativamente-ok-sono-fermo-per-emorragia-cerebrale-ducati-valencia",
+          "source": "FormulaPassion",
+          "publisher": "FormulaPassion",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T14:45:36+00:00",
+          "title": "Bagnaia: “Il piede è relativamente ok. Sono fermo per un’emorragia cerebrale”"
+        }
+      ]
+    },
+    {
+      "id": "6743d58aebd2ffd7e22e9d71",
+      "topic": "F1",
+      "title": "Valencia: rimosso il murale dedicato a Valentino Rossi",
+      "url": "https://www.formulapassion.it/motogp/motogp-news/valencia-rimosso-murale-dedicato-a-valentino-rossi",
+      "source": "FormulaPassion",
+      "publisher": "FormulaPassion",
+      "description": "Al suo posto vi sarà un maxischermo che continuerà a rendere omaggio alla carriera del 'Dottore', ma anche a quella di altri piloti come Marc Marquez",
+      "published_utc": "2026-11-26T14:35:32+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.formulapassion.it/motogp/motogp-news/valencia-rimosso-murale-dedicato-a-valentino-rossi",
+          "source": "FormulaPassion",
+          "publisher": "FormulaPassion",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T14:35:32+00:00",
+          "title": "Valencia: rimosso il murale dedicato a Valentino Rossi"
+        }
+      ]
+    },
+    {
+      "id": "f2902b78b437d65c7c25436d",
+      "topic": "F1",
+      "title": "Ferrari: in Qatar l’ultima vera chance",
+      "url": "https://www.formulapassion.it/f1/f1-analisi-tecnica/ferrari-qatar-ultima-vera-chance",
+      "source": "FormulaPassion",
+      "publisher": "FormulaPassion",
+      "description": "La pista di Lusail presenta caratteristiche affini alla SF-26, ma la sfida per la Ferrari sarà fare bene in una qualifica che sarà decisiva",
+      "published_utc": "2026-11-26T13:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.formulapassion.it/f1/f1-analisi-tecnica/ferrari-qatar-ultima-vera-chance",
+          "source": "FormulaPassion",
+          "publisher": "FormulaPassion",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T13:00:00+00:00",
+          "title": "Ferrari: in Qatar l’ultima vera chance"
+        }
+      ]
+    },
+    {
+      "id": "04eb9d1a449a7a967ea4e28a",
+      "topic": "F1",
+      "title": "Ferrari: dalla pista peggiore a quella migliore",
+      "url": "https://www.formulapassion.it/video/video-f1/ferrari-dalla-pista-peggiore-a-quella-migliore",
+      "source": "FormulaPassion",
+      "publisher": "FormulaPassion",
+      "description": "La pista di Las Vegas ha fatto segnare il record di sorpassi ma era anche lo scenario peggiore per la Ferrari, che invece in Qatar troverà un circuito amico",
+      "published_utc": "2026-11-26T12:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.formulapassion.it/video/video-f1/ferrari-dalla-pista-peggiore-a-quella-migliore",
+          "source": "FormulaPassion",
+          "publisher": "FormulaPassion",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T12:00:00+00:00",
+          "title": "Ferrari: dalla pista peggiore a quella migliore"
+        }
+      ]
+    },
+    {
+      "id": "7db01f78bcbadfb060ebe3a2",
+      "topic": "F1",
+      "title": "Retroscena Hamilton: si può autoconfermare in Ferrari anche per il 2028",
+      "url": "https://www.formulapassion.it/f1/f1-news/retroscena-hamilton-si-puo-autoconfermare-in-ferrari-anche-per-il-2028",
+      "source": "FormulaPassion",
+      "publisher": "FormulaPassion",
+      "description": "Sia La Repubblica che The Race hanno rivelato che l'inglese ha una clausola a suo favore anche per il 2028",
+      "published_utc": "2026-11-26T10:20:05+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.formulapassion.it/f1/f1-news/retroscena-hamilton-si-puo-autoconfermare-in-ferrari-anche-per-il-2028",
+          "source": "FormulaPassion",
+          "publisher": "FormulaPassion",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T10:20:05+00:00",
+          "title": "Retroscena Hamilton: si può autoconfermare in Ferrari anche per il 2028"
+        }
+      ]
+    },
+    {
+      "id": "bf588540bd6bd2ee386a067a",
+      "topic": "F1",
+      "title": "Campos ufficializza per il 2027 Theophile Nael, il nuovo pilota del Red Bull Junior Team",
+      "url": "https://www.formulapassion.it/f2/f2-news/campos-ufficializza-per-2027-theophile-nael-nuovo-pilota-red-bull-junior-team",
+      "source": "FormulaPassion",
+      "publisher": "FormulaPassion",
+      "description": "Il francese, oltre a esser stato promosso nell'academy di Milton Keynes, farà il suo esordio in F2 con il team spagnolo",
+      "published_utc": "2026-11-26T09:55:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.formulapassion.it/f2/f2-news/campos-ufficializza-per-2027-theophile-nael-nuovo-pilota-red-bull-junior-team",
+          "source": "FormulaPassion",
+          "publisher": "FormulaPassion",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T09:55:00+00:00",
+          "title": "Campos ufficializza per il 2027 Theophile Nael, il nuovo pilota del Red Bull Junior Team"
+        }
+      ]
+    },
+    {
+      "id": "365fe7de821d8d8b4f4356f6",
+      "topic": "F1",
+      "title": "Ufficiale: Bearman rinnova con la Haas per il 2027",
+      "url": "https://www.formulapassion.it/f1/f1-news/lamentele-bearman-segno-ufficiale-rinnovo-haas-2027-contratti-ferrari-hamilton-leclerc",
+      "source": "FormulaPassion",
+      "publisher": "FormulaPassion",
+      "description": "Il pilota inglese per il terzo anno consecutivo sarà portacolori della Haas",
+      "published_utc": "2026-11-26T09:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.formulapassion.it/f1/f1-news/lamentele-bearman-segno-ufficiale-rinnovo-haas-2027-contratti-ferrari-hamilton-leclerc",
+          "source": "FormulaPassion",
+          "publisher": "FormulaPassion",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T09:00:00+00:00",
+          "title": "Ufficiale: Bearman rinnova con la Haas per il 2027"
+        }
+      ]
+    },
+    {
+      "id": "7d9e4171a40652de4f27715f",
+      "topic": "F1",
+      "title": "Max Verstappen si sente a disagio e le altre news del 26/11 | WarmUp F1 Podcast #331",
+      "url": "https://www.formulapassion.it/video/video-f1/f1-max-verstappen-disagio-qatar-guerra-medio-oriente-news-26-11-warmup-podcast-331",
+      "source": "FormulaPassion",
+      "publisher": "FormulaPassion",
+      "description": "Ogni mattina prima delle 9.00 tutte le news di F1 e MotoGP, con una chiave di lettura per capirci qualcosa: è WarmUp, il podcast giornaliero di FP. L'episodio del 26 novembre 2026",
+      "published_utc": "2026-11-26T08:50:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.formulapassion.it/video/video-f1/f1-max-verstappen-disagio-qatar-guerra-medio-oriente-news-26-11-warmup-podcast-331",
+          "source": "FormulaPassion",
+          "publisher": "FormulaPassion",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T08:50:00+00:00",
+          "title": "Max Verstappen si sente a disagio e le altre news del 26/11 | WarmUp F1 Podcast #331"
+        }
+      ]
+    },
+    {
+      "id": "7849f81d25ceff8d10610c73",
+      "topic": "F1",
+      "title": "ハジャーが提案した、自転車レースのような戦略……しかしレッドブルはその効果を理解できず「スリップストリームを過小評価していたみたい」",
+      "url": "https://jp.motorsport.com/f1/news/isack-hadjar-frustrated-what-really-happened-on-red-bulls-team-radio-in-las-vegas/10877583",
+      "source": "Motorsport JP",
+      "publisher": "Motorsport JP",
+      "description": "アイザック・ハジャーはF1ラスベガスGPの決勝レースを4番グリッドからスタートし、すぐにチームメイトのマックス・フェルスタッペンのすぐ後ろ、2番手に浮上した。 レースはスリップストリームとオーバーテイクモードを使い合う格好となり、各所で抜きつ抜かれつの激戦が展開された。 それはフェルスタッペンとハジャーとて例外ではなかった。ハジャーはフェルスタッペンに十分オーバーテイクを仕掛けられる状況にあった。しかしハジャーの担当エンジニアであるリチャード・ウッドは、チームとしての最優先事項はタイムを失わずに周回を重ねることであり、ハジャーに対して「マックスに攻撃を仕掛けるな」と指示を飛ばした。 ハジャーは自信家でありながら、レッドブルへの忠誠心を忘れない。そのため、その指示に忠実に従った。 それでも、ラ",
+      "published_utc": "2026-11-26T11:04:12+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://jp.motorsport.com/f1/news/isack-hadjar-frustrated-what-really-happened-on-red-bulls-team-radio-in-las-vegas/10877583",
+          "source": "Motorsport JP",
+          "publisher": "Motorsport JP",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T11:04:12+00:00",
+          "title": "ハジャーが提案した、自転車レースのような戦略……しかしレッドブルはその効果を理解できず「スリップストリームを過小評価していたみたい」"
+        }
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
+    },
+    {
+      "id": "e816da00eede84092bbfc950",
+      "topic": "F1",
+      "title": "絶対に勝ってやる！ マカオGP優勝の中村紀庵ベルタが明かす思い「1月からずっとこのことを考えていた」",
+      "url": "https://jp.motorsport.com/general/news/the-star-performers-of-a-wild-macau-weekend/10877800",
+      "source": "Motorsport JP",
+      "publisher": "Motorsport JP",
+      "description": "先日開催されたマカオGPの各レースをひと言で表すなら、おそらく「クレイジー」という言葉に尽きるだろう。FIA ... 読み続ける",
+      "published_utc": "2026-11-26T10:24:48+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://jp.motorsport.com/general/news/the-star-performers-of-a-wild-macau-weekend/10877800",
+          "source": "Motorsport JP",
+          "publisher": "Motorsport JP",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T10:24:48+00:00",
+          "title": "絶対に勝ってやる！ マカオGP優勝の中村紀庵ベルタが明かす思い「1月からずっとこのことを考えていた」"
+        }
+      ]
+    },
+    {
+      "id": "c4f456965aefe3084cbd2440",
+      "topic": "F1",
+      "title": "マルティンとベッツェッキ、ランキング2位を懸けて最終戦直接対決「倒すのは難しい」「良いバトルになるはず」",
+      "url": "https://jp.motorsport.com/motogp/news/aprilia-motogp-duo-set-for-fond-farewell-after-valencia-duel-we-found-something-we-didnt-expect/10877783",
+      "source": "Motorsport JP",
+      "publisher": "Motorsport JP",
+      "description": "今週末行なわれるMotoGPの2026年最終戦バレンシアGP。ホルヘ・マルティンがこのレース限りでアプリリアを離脱するが、チームメイトのマルコ・ベッツェッキとの関係は事前に予想されていたよりも良好なまま終わりを迎えられている。 2025年にふたりがチームメイトになった当初、互いにそりが合わないだろうという見方が多かった。ただ2シーズンを通じて公の場では良好な関係を保ってきた。 マルティンがアプリリアからの離脱を試みた際や、昨年の日本GPや今季のハンガリーGPで同士討ちのクラッシュが起きた時など緊張が高まった場面はあったものの、全体的に良好な関係だった。 最終戦ではランキング2位を2ポイント差という僅差で争っているが、ベッツェッキとヤマハへ移籍するマルティンは、チームメイトとして挑む最後のレー",
+      "published_utc": "2026-11-26T09:47:17+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://jp.motorsport.com/motogp/news/aprilia-motogp-duo-set-for-fond-farewell-after-valencia-duel-we-found-something-we-didnt-expect/10877783",
+          "source": "Motorsport JP",
+          "publisher": "Motorsport JP",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T09:47:17+00:00",
+          "title": "マルティンとベッツェッキ、ランキング2位を懸けて最終戦直接対決「倒すのは難しい」「良いバトルになるはず」"
+        }
+      ]
+    },
+    {
+      "id": "a0cdd6a9070ac5e88877763a",
+      "topic": "F1",
+      "title": "ハースF1、オリバー・ベアマンの残留発表。これで2027年のドライバーラインアップ出揃う",
+      "url": "https://jp.motorsport.com/f1/news/oliver-bearman-locks-in-haas-f1-seat-as-2027-grid-officially-set/10877816",
+      "source": "Motorsport JP",
+      "publisher": "Motorsport JP",
+      "description": "ハースF1チームは11月26日、オリバー・ベアマンの残留を正式に発表した。チームメイトはルーキーのラファエル・カマラとなる。 フェラーリの育成ドライバーであるベアマンは、もともとハースに残留するのが規定路線だった。過去2シーズン、同チームはフェラーリからベアマンを期限付きで受け入れていた。 しかし、ハースで3年目を迎えるにあたり、ベアマンのマネジメント陣は彼の長期的な将来についても一定の保証を求めていた。また、過去2年間でチームの中心的なドライバーへと成長し、すでにチームを離れたエステバン・オコンを上回るパフォーマンスを見せてきたこと、そして来年はルーキーのカマラと組むことから、大幅な昇給も求めていたとみられていたが、小松礼雄代表はそれを否定している。 ... 読み続ける",
+      "published_utc": "2026-11-26T09:19:46+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://jp.motorsport.com/f1/news/oliver-bearman-locks-in-haas-f1-seat-as-2027-grid-officially-set/10877816",
+          "source": "Motorsport JP",
+          "publisher": "Motorsport JP",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T09:19:46+00:00",
+          "title": "ハースF1、オリバー・ベアマンの残留発表。これで2027年のドライバーラインアップ出揃う"
+        }
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
+    },
+    {
+      "id": "5b757ee13a1c0ba829d33094",
+      "topic": "F1",
+      "title": "今も消えぬ三冠への野望……アロンソ「もう一度インディ500に挑戦してみたいね！」",
+      "url": "https://jp.motorsport.com/f1/news/f1-2026-astonmartin-undercut-alonso-interview-3/10877655",
+      "source": "Motorsport JP",
+      "publisher": "Motorsport JP",
+      "description": "フェルナンド・アロンソは、将来インディ500に改めて参戦し、世界三大レース完全制覇を達成したいと語った。 来年1月に開催されるダカール・ラリーに参戦することを発表したアロンソ。近年ではマックス・フェルスタッペンやランス・ストロールがGTカーのレースに出走したりしているものの、その幅の広さは、アロンソの足元にも及ばない。 アロンソはダカール・ラリーのみならず、かつてはインディ500やル・マン24時間レース、デイトナ24時間レース……ありとあらゆるタイプのレースに参加している。その中で、WECの世界チャンピオンに輝き、ル・マンを制している。 このル・マン24時間レースは、F1モナコGP、インディ500と共に世界三大レースに数えられる。アロンソはル・マンとモナコは既に制覇しており、インディ500を",
+      "published_utc": "2026-11-26T08:17:23+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://jp.motorsport.com/f1/news/f1-2026-astonmartin-undercut-alonso-interview-3/10877655",
+          "source": "Motorsport JP",
+          "publisher": "Motorsport JP",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T08:17:23+00:00",
+          "title": "今も消えぬ三冠への野望……アロンソ「もう一度インディ500に挑戦してみたいね！」"
+        }
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
+    },
+    {
+      "id": "f37acceceff0cf1d8266c984",
+      "topic": "F1",
+      "title": "ジョアン・ミル、バレンシアGPで復帰。ホンダ4年間を締めくくるレースに",
+      "url": "https://jp.motorsport.com/motogp/news/joan-mir-viaja-a-valencia-tras-recibir-el-ok-de-sus-medicos/10877787",
+      "source": "Motorsport JP",
+      "publisher": "Motorsport JP",
+      "description": "... 読み続ける",
+      "published_utc": "2026-11-26T07:18:54+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://jp.motorsport.com/motogp/news/joan-mir-viaja-a-valencia-tras-recibir-el-ok-de-sus-medicos/10877787",
+          "source": "Motorsport JP",
+          "publisher": "Motorsport JP",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T07:18:54+00:00",
+          "title": "ジョアン・ミル、バレンシアGPで復帰。ホンダ4年間を締めくくるレースに"
+        }
+      ]
+    },
+    {
+      "id": "d84fc29fafbd5ac662d08926",
+      "topic": "Super Formula",
+      "title": "スーパーフォーミュラデビューの鈴木斗輝哉、クラッシュ＆スピンもあり厳しい自己採点「チャンスを活かせるドライバーじゃないと」",
+      "url": "https://jp.motorsport.com/super-formula/news/sf-2026-tokiya-r11-postrace/10877388",
+      "source": "Motorsport JP",
+      "publisher": "Motorsport JP",
+      "description": "鈴鹿サーキットで行なわれたスーパーフォーミュラ第11戦・第12戦では、トヨタの若手ドライバーである鈴木斗輝哉がTEAM IMPULから出走。国内トップフォーミュラデビューを果たした。しかし結果は2レース共にリタイアに終わり、ほろ苦い週末となった。 TEAM ... 読み続ける",
+      "published_utc": "2026-11-26T06:56:11+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://jp.motorsport.com/super-formula/news/sf-2026-tokiya-r11-postrace/10877388",
+          "source": "Motorsport JP",
+          "publisher": "Motorsport JP",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T06:56:11+00:00",
+          "title": "スーパーフォーミュラデビューの鈴木斗輝哉、クラッシュ＆スピンもあり厳しい自己採点「チャンスを活かせるドライバーじゃないと」"
+        }
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://jp.motorsport.com/super-formula/news/sf-2026-tokiya-r11-postrace/10877388"
+    },
+    {
+      "id": "e1b2f4f1a358233796f647fb",
+      "topic": "F1",
+      "title": "2030年のV8エンジン復活、ドライバーたちの受け止めは？ 期待の声と慎重論「実際に試してみないと……」",
+      "url": "https://jp.motorsport.com/f1/news/What-do-F1-drivers-think-about-the-return-of-V8-engines-in-2030/10877592",
+      "source": "Motorsport JP",
+      "publisher": "Motorsport JP",
+      "description": "ラスベガスGPの週末初日となった木曜日、F1ではV8エンジンが大きな話題となった。2030年からF1のパワーユニット（PU）が、2.1リッターV8ターボエンジンに小型の電気デバイスを組み合わせたモノにすることで、概ね合意に至ったことが明らかになったからだ。 次世代PUもハイブリッドのままだが、現在のものとは大きく異なる構成になる。ラスベガスGPの木曜日は、ドライバーたちがこの変更について意見を述べる初めての機会となったのだ。 マックス・フェルスタッペン（レッドブル）を筆頭に、現行世代のパワーユニットにあまり魅力を感じていないドライバーが複数いることは周知の事実だ。V8復帰の発表を受け、将来のF1を担うドライバーたちからも反応が寄せられた。 現役F1ドライバー22人のうち、多くがこの件について",
+      "published_utc": "2026-11-26T02:59:53+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://jp.motorsport.com/f1/news/What-do-F1-drivers-think-about-the-return-of-V8-engines-in-2030/10877592",
+          "source": "Motorsport JP",
+          "publisher": "Motorsport JP",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T02:59:53+00:00",
+          "title": "2030年のV8エンジン復活、ドライバーたちの受け止めは？ 期待の声と慎重論「実際に試してみないと……」"
+        }
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
+    },
+    {
+      "id": "ffecab1d2c97a59c54fbd7d5",
+      "topic": "F1",
+      "title": "ウイリアムズとアルピーヌに2025年F1コストキャップの違反が発覚。FIAは競技的アドバンテージを狙ったものではないと判断、軽微な制裁に",
+      "url": "https://jp.motorsport.com/f1/news/williams-alpine-fall-foul-of-f1s-2025-cost-cap/10877777",
+      "source": "Motorsport JP",
+      "publisher": "Motorsport JP",
+      "description": "... 読み続ける",
+      "published_utc": "2026-11-26T02:31:50+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://jp.motorsport.com/f1/news/williams-alpine-fall-foul-of-f1s-2025-cost-cap/10877777",
+          "source": "Motorsport JP",
+          "publisher": "Motorsport JP",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T02:31:50+00:00",
+          "title": "ウイリアムズとアルピーヌに2025年F1コストキャップの違反が発覚。FIAは競技的アドバンテージを狙ったものではないと判断、軽微な制裁に"
+        }
+      ]
+    },
+    {
+      "id": "c8068257c65c9c6f60f14b63",
+      "topic": "F1",
+      "title": "右足骨折のバニャイヤ、最終戦バレンシアGPも欠場。ドゥカティでのラストレース走れず",
+      "url": "https://jp.motorsport.com/motogp/news/injured-francesco-bagnaia-will-miss-last-gp-with-ducati-first-test-with-aprilia/10877781",
+      "source": "Motorsport JP",
+      "publisher": "Motorsport JP",
+      "description": "... 読み続ける",
+      "published_utc": "2026-11-26T01:53:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://jp.motorsport.com/motogp/news/injured-francesco-bagnaia-will-miss-last-gp-with-ducati-first-test-with-aprilia/10877781",
+          "source": "Motorsport JP",
+          "publisher": "Motorsport JP",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T01:53:00+00:00",
+          "title": "右足骨折のバニャイヤ、最終戦バレンシアGPも欠場。ドゥカティでのラストレース走れず"
+        }
+      ]
+    },
+    {
+      "id": "1fdbc746c2b68b375a6e98c7",
+      "topic": "F1",
+      "title": "マルケスは「史上最高のライダー」ドゥカティ率いるダッリーニャ、2026年タイトル獲得でべた褒め",
+      "url": "https://jp.motorsport.com/motogp/news/gigi-dalligna-marc-marquez-is-the-best-rider-in-history-no-doubt-about-that/10877610",
+      "source": "Motorsport JP",
+      "publisher": "Motorsport JP",
+      "description": "ドゥカティは2026年のMotoGPライダーズタイトルをマルク・マルケスとともに獲得。この結果をジジ・ダッリーニャ（ゼネラルマネージャー）は褒め称えている。 2026年シーズンはアプリリアとドゥカティによるタイトル争いが繰り広げられた。前半戦は特にアプリリアが圧倒していたが、怪我の手術を終えたマルケスが復帰してからは猛追。アプリリア陣営が自滅を重ねたことも助けとなり、マルケスはMotoGPクラスで8度目のタイトル争いに完全に立ち返った。 そして先日のポルトガルGPでマルケスは2026年のチャンピオンに輝いた。 ドゥカティを率いるダッリーニャはこの勝利がエースライダーのマルケスのおかげであることをよく理解している。マルケスの戴冠が決まったあと、彼はアプリリアの技術的な優位性があったとされること",
+      "published_utc": "2026-11-25T23:54:58+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://jp.motorsport.com/motogp/news/gigi-dalligna-marc-marquez-is-the-best-rider-in-history-no-doubt-about-that/10877610",
+          "source": "Motorsport JP",
+          "publisher": "Motorsport JP",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T23:54:58+00:00",
+          "title": "マルケスは「史上最高のライダー」ドゥカティ率いるダッリーニャ、2026年タイトル獲得でべた褒め"
+        }
+      ]
+    },
+    {
+      "id": "beebf99d820c04dbd1c3a2ec",
+      "topic": "F1",
+      "title": "フェルナンド・アロンソは一体いつ引退するのか……今も溢れ出る大自信「自分より優れたドライバーなんていないと思っているよ」",
+      "url": "https://jp.motorsport.com/f1/news/f1-2026-astonmartin-undercut-alonso-interview-2/10877648",
+      "source": "Motorsport JP",
+      "publisher": "Motorsport JP",
+      "description": "現在45歳のフェルナンド・アロンソは、自身の引退時期については「自分が遅くなったと感じた時」と語った。 2030年からF1のパワーユニット（PU）をV8ターボ＋小型のハイブリッドシステムとする方針で大筋合意された。先日このことについた尋ねられたアストンマーティン・ホンダのアロンソは、「その頃には間違いなく僕はもうF1にいないだろう」と語り、引退が近いことを匂わせた。 アロンソは2001年にデビュー……既に四半世紀が経ったが、今もその能力は衰えを見せない。では彼はいつまでF1に乗り続けるつもりなのか？ 「そう質問はできればされたくないね！ でも尋ねられた時には、自分なりに積極的に答えるようにしている。そういうことでメディアの皆さんと一緒に楽しめるなら、構わないよ」 アロンソはアストンマーティン",
+      "published_utc": "2026-11-25T22:43:31+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://jp.motorsport.com/f1/news/f1-2026-astonmartin-undercut-alonso-interview-2/10877648",
+          "source": "Motorsport JP",
+          "publisher": "Motorsport JP",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T22:43:31+00:00",
+          "title": "フェルナンド・アロンソは一体いつ引退するのか……今も溢れ出る大自信「自分より優れたドライバーなんていないと思っているよ」"
+        }
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
+    },
+    {
+      "id": "1e0810677da10f06f3d73f78",
+      "topic": "F1",
+      "title": "Colapinto has a theory on why F1’s top drivers enjoyed Las Vegas less",
+      "url": "https://www.gpblog.com/en/news/colapinto-has-a-theory-on-why-f1s-top-drivers-enjoyed-las-vegas-less",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Franco Colapinto has disagreed with criticism of the Las Vegas Grand Prix, insisting that he enjoyed the sheer number of overtakes during the race and offered a theory as to why drivers from the top teams were less enthusiastic. Last weekend’s Las Vegas Grand Prix produced an unprecedented number o...",
+      "published_utc": "2026-11-26T14:29:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/colapinto-has-a-theory-on-why-f1s-top-drivers-enjoyed-las-vegas-less",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T14:29:00+00:00",
+          "title": "Colapinto has a theory on why F1’s top drivers enjoyed Las Vegas less"
+        }
+      ]
+    },
+    {
+      "id": "94c1ba2f95f43e9a15fbe7a9",
+      "topic": "F1",
+      "title": "Norris weighs in on Verstappen-Russell feud: 'Helps when you back it up on track'",
+      "url": "https://www.gpblog.com/en/news/norris-weighs-in-on-verstappen-russell-feud-helps-when-you-back-it-up-on-track",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Lando Norris says George Russell is yet to show what he is capable of in Formula 1, as he weighed in on the bitter feud between his British compatriot and Max Verstappen. Russell and Verstappen's rivalry took a major step during the Las Vegas Grand Prix weekend which started with an on-track clash d...",
+      "published_utc": "2026-11-26T13:55:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/norris-weighs-in-on-verstappen-russell-feud-helps-when-you-back-it-up-on-track",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T13:55:00+00:00",
+          "title": "Norris weighs in on Verstappen-Russell feud: 'Helps when you back it up on track'"
+        }
+      ]
+    },
+    {
+      "id": "e8d66e09eedba3b3a91beb80",
+      "topic": "F1",
+      "title": "Bottas reveals why Cadillac faces a longer wait for its new F1 simulator",
+      "url": "https://www.gpblog.com/en/news/valtteri-bottas-reveals-delay-to-cadillacs-new-f1-simulator",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Valtteri Bottas has revealed that the arrival of Cadillac's new Formula 1 simulator has been delayed from its original end-of-year target. The delay means the new simulator is likely to play a bigger role in the development of Cadillac's 2028 car. In the meantime, the team will continue to use its...",
+      "published_utc": "2026-11-26T13:20:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/valtteri-bottas-reveals-delay-to-cadillacs-new-f1-simulator",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T13:20:00+00:00",
+          "title": "Bottas reveals why Cadillac faces a longer wait for its new F1 simulator"
+        }
+      ]
+    },
+    {
+      "id": "d4df74abb796e2091f340f88",
+      "topic": "F1",
+      "title": "What time is the Qatar Grand Prix? Full F1 schedule and UK TV guide",
+      "url": "https://www.gpblog.com/en/news/qatar-gp-timetable-when-to-watch-practice-qualifying-and-the-race",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Formula 1 heads to the Lusail International Circuit from November 27–29 for the Qatar Grand Prix, the penultimate round of the 2026 season. Here is the full timetable and how viewers can follow every session. Last time out, Max Verstappen drove a masterclass to win in Las Vegas in a race that saw 35...",
+      "published_utc": "2026-11-26T13:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/qatar-gp-timetable-when-to-watch-practice-qualifying-and-the-race",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T13:00:00+00:00",
+          "title": "What time is the Qatar Grand Prix? Full F1 schedule and UK TV guide"
+        }
+      ]
+    },
+    {
+      "id": "b5ed29865f1d18ee1f47dd8a",
+      "topic": "F1",
+      "title": "Lando Norris suggests push-to-pass for F1’s next rules overhaul",
+      "url": "https://www.gpblog.com/en/news/lando-norris-names-his-best-bet-for-f1s-future-overtaking-rules",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Lando Norris has suggested Formula 1 could turn to push-to-pass or a KERS-style energy allowance under its next set of rules, after explaining how battery deployment left drivers powerless to defend positions they had just gained at the Las Vegas Grand Prix. The McLaren driver finished second behind...",
+      "published_utc": "2026-11-26T12:31:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/lando-norris-names-his-best-bet-for-f1s-future-overtaking-rules",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T12:31:00+00:00",
+          "title": "Lando Norris suggests push-to-pass for F1’s next rules overhaul"
+        }
+      ]
+    },
+    {
+      "id": "1556a5cfe5c8f9de783a7c3b",
+      "topic": "F1",
+      "title": "Honda left baffled by Fernando Alonso's engine problem accusation",
+      "url": "https://www.gpblog.com/en/news/honda-left-baffled-by-fernando-alonsos-engine-problem-accusation",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Honda say there is no evidence to support Fernando Alonso's claim during the Las Vegas Grand Prix that he was suffering from an engine problem.The Spanish driver, who skipped the media day in Qatar as he recovers from a virus, claimed the Las Vegas race was like a 'demo lap' due to the poor performa...",
+      "published_utc": "2026-11-26T12:15:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/honda-left-baffled-by-fernando-alonsos-engine-problem-accusation",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T12:15:00+00:00",
+          "title": "Honda left baffled by Fernando Alonso's engine problem accusation"
+        }
+      ]
+    },
+    {
+      "id": "83cb2566f11f4489ff487b2e",
+      "topic": "F1",
+      "title": "Ferrari Has Brought All Its Problems with Hamilton and Leclerc upon Itself",
+      "url": "https://www.gpblog.com/en/column/ferrari-has-brought-all-its-problems-with-hamilton-and-leclerc-upon-itself",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Ferrari has brought its problems with Charles Leclerc and Lewis Hamilton upon itself. After a series of incomprehensible decisions, Ferrari is stuck with two drivers who are not moving the team forward, but holding it back. Ferrari is currently at its wits’ end. No matter how many talks take place...",
+      "published_utc": "2026-11-26T12:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/column/ferrari-has-brought-all-its-problems-with-hamilton-and-leclerc-upon-itself",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T12:00:00+00:00",
+          "title": "Ferrari Has Brought All Its Problems with Hamilton and Leclerc upon Itself"
+        }
+      ]
+    },
+    {
+      "id": "b34edc615298d0dc1d87c6df",
+      "topic": "F1",
+      "title": "Russell vs Verstappen: Every flashpoint in F1's increasingly bitter rivalry",
+      "url": "https://www.gpblog.com/en/features/george-russell-vs-max-verstappen-every-flashpoint-in-f1s-increasingly-bitter-rivalry",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "From their first clash in Baku to accusations of bullying, threats and explosive exchanges, the relationship between George Russell and Max Verstappen has become one of Formula 1's most intriguing riv...",
+      "published_utc": "2026-11-26T11:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/features/george-russell-vs-max-verstappen-every-flashpoint-in-f1s-increasingly-bitter-rivalry",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T11:00:00+00:00",
+          "title": "Russell vs Verstappen: Every flashpoint in F1's increasingly bitter rivalry"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T11:00:00.000Z",
+      "article_modified_raw": "2026-11-26T11:49:00.000Z",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "66be59d73a2c3de40a1b01a7",
+      "topic": "F1",
+      "title": "F1 world champion given time off to recover from illness ahead of Qatar GP",
+      "url": "https://www.gpblog.com/en/breaking-news/f1-world-champion-given-time-off-to-recover-from-illness-ahead-of-qatar-gp",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Aston Martin have announced that Fernando Alonso will skip today's media days in Qatar today as he recovered from a virus.A brief team statement said: \"Fernando will miss media day today as he contin...",
+      "published_utc": "2026-11-26T10:33:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/breaking-news/f1-world-champion-given-time-off-to-recover-from-illness-ahead-of-qatar-gp",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T10:33:00+00:00",
+          "title": "F1 world champion given time off to recover from illness ahead of Qatar GP"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T10:33:00.000Z",
+      "article_modified_raw": "2026-11-26T10:37:00.000Z",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "cda0bbbe469e4fcf9da419b2",
+      "topic": "F1",
+      "title": "Bearman's decision to stay buys him time while Ferrari resolve their mess",
+      "url": "https://www.gpblog.com/en/column/why-ollie-bearman-stayed-at-haas-for-another-season-as-ferrari-figure-out-their-problems",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Ollie Bearman has made little secret of his ambition to become a Ferrari Formula 1 driver. Having come through the Scuderia's junior programme and impressed during his substitute appearance for the team at the 2024 Saudi Arabian Grand Prix, the British youngster has seemingly been earmarked as a pot...",
+      "published_utc": "2026-11-26T09:45:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/column/why-ollie-bearman-stayed-at-haas-for-another-season-as-ferrari-figure-out-their-problems",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T09:45:00+00:00",
+          "title": "Bearman's decision to stay buys him time while Ferrari resolve their mess"
+        }
+      ]
+    },
+    {
+      "id": "a97172759d29a6880cf1c12e",
+      "topic": "F1",
+      "title": "Haas confirm F1 driver line up for 2027 in new partnership",
+      "url": "https://www.gpblog.com/en/breaking-news/bearman-signs-new-haas-deal",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Ollie Bearman will continue with Haas for the 2027 FIA Formula 1 World Championship, extending his commitment into a third consecutive season with team. The 21-year-old Briton, with 48 career starts i...",
+      "published_utc": "2026-11-26T09:02:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/breaking-news/bearman-signs-new-haas-deal",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T09:02:00+00:00",
+          "title": "Haas confirm F1 driver line up for 2027 in new partnership"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T09:02:00.000Z",
+      "article_modified_raw": "2026-11-26T09:22:00.000Z",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "be405470ca0834f3b63c383f",
+      "topic": "F1",
+      "title": "Aston Martin faces crucial decision that could determine its 2027 ambitions",
+      "url": "https://www.gpblog.com/en/analysis/aston-martin-faces-crucial-decision-that-could-determine-its-2027-f1-ambitions",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Aston Martin entered Formula 1's new technical era with considerable expectations, but the team's progress has not matched its ambitions. Despite significant investment, the arrival of Adrian Newey and its partnership with Honda, the Silverstone-based outfit has faced another challenging campaign. A...",
+      "published_utc": "2026-11-26T08:30:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/analysis/aston-martin-faces-crucial-decision-that-could-determine-its-2027-f1-ambitions",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T08:30:00+00:00",
+          "title": "Aston Martin faces crucial decision that could determine its 2027 ambitions"
+        }
+      ]
+    },
+    {
+      "id": "268029ff06916bc49a9ff982",
+      "topic": "F1",
+      "title": "Red Bull Racing signs potential replacement for Verstappen",
+      "url": "https://www.gpblog.com/en/breaking-news/red-bull-racing-signs-potential-replacement-for-verstappen",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Red Bull confirms that French Formula 3 driver Théophile Naël will join the Junior Team from 2027 and move up to Formula 2 in 2026.",
+      "published_utc": "2026-11-26T07:15:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/breaking-news/red-bull-racing-signs-potential-replacement-for-verstappen",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T07:15:00+00:00",
+          "title": "Red Bull Racing signs potential replacement for Verstappen"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T07:15:00.000Z",
+      "article_modified_raw": "2026-11-26T07:15:00.000Z",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "c7ba7b95cbb537b311d2359d",
+      "topic": "F1",
+      "title": "This is how the 2026 regulations change Verstappens qualifying lap in Qatar",
+      "url": "https://www.gpblog.com/en/analysis/verstappen-could-lose-more-than-two-seconds-in-a-single-lap-in-qatar",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "A simulation of Verstappen’s qualifying lap in Qatar shows how the RB22 distributes energy and where tire temperatures could cost time at Lusail.",
+      "published_utc": "2026-11-26T06:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/analysis/verstappen-could-lose-more-than-two-seconds-in-a-single-lap-in-qatar",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T06:00:00+00:00",
+          "title": "This is how the 2026 regulations change Verstappens qualifying lap in Qatar"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T06:00:00.000Z",
+      "article_modified_raw": "2026-11-26T06:00:00.000Z",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "c40ed95e186a8e2430f79cd1",
+      "topic": "F1",
+      "title": "Qatar GP could expose a major weakness in F1's 2026 cars",
+      "url": "https://www.gpblog.com/en/analysis/qatar-gp-could-expose-a-major-weakness-in-f1s-2026-cars",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Formula 1's new technical regulations have fundamentally changed the characteristics of the cars in 2026. However, as the season approaches its conclusion, the Qatar Grand Prix could provide another i...",
+      "published_utc": "2026-11-26T02:30:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/analysis/qatar-gp-could-expose-a-major-weakness-in-f1s-2026-cars",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T02:30:00+00:00",
+          "title": "Qatar GP could expose a major weakness in F1's 2026 cars"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T02:30:00.000Z",
+      "article_modified_raw": "2026-11-26T02:30:00.000Z",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "48a77056903ab53354901229",
+      "topic": "F1",
+      "title": "Piastri to play crucial role that could have a bearing on his 2027 campaign",
+      "url": "https://www.gpblog.com/en/analysis/piastri-to-play-crucial-role-in-final-two-races-that-could-have-a-huge-bearing-on-his-2027-campaign",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "The Formula 1 season is rapidly approaching its conclusion, but the battle between McLaren and Red Bull Racing is far from over. With just two Grands Prix remaining, the fight for third place in the Constructors' Championship could have implications extending well beyond the final race of 2026. Alth...",
+      "published_utc": "2026-11-25T23:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/analysis/piastri-to-play-crucial-role-in-final-two-races-that-could-have-a-huge-bearing-on-his-2027-campaign",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T23:00:00+00:00",
+          "title": "Piastri to play crucial role that could have a bearing on his 2027 campaign"
+        }
+      ]
+    },
+    {
+      "id": "66344af041a3a5ab005537da",
+      "topic": "F1",
+      "title": "Analysts side with Hamilton after Las Vegas: 'That felt too harsh'",
+      "url": "https://www.gpblog.com/en/news/analysts-side-with-hamilton-after-las-vegas-that-felt-too-harsh",
+      "source": "GPblog",
+      "publisher": "GPblog",
+      "description": "Former Formula 1 drivers Jolyon Palmer and David Coulthard both believe the time penalty Lewis Hamilton received was too harsh at the Las Vegas Grand Prix. On Saturday evening in Las Vegas, Hamilton received a 10-second time penalty for leaving the track and gaining an advantage when overtaking Land...",
+      "published_utc": "2026-11-25T21:30:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://www.gpblog.com/en/news/analysts-side-with-hamilton-after-las-vegas-that-felt-too-harsh",
+          "source": "GPblog",
+          "publisher": "GPblog",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T21:30:00+00:00",
+          "title": "Analysts side with Hamilton after Las Vegas: 'That felt too harsh'"
+        }
+      ]
+    },
+    {
+      "id": "2e117f8fe1c3bfa1778cb93d",
+      "topic": "WEC",
+      "title": "Watson Racing: The Birthplace Of The Mustang Challenge Dark Horse R",
+      "url": "https://www.dailysportscar.com/2026/11/26/watson-racing-the-birthplace-of-mustang-challenges-dark-horse-rs.html",
+      "source": "DailySportscar",
+      "publisher": "DailySportscar",
+      "description": "In the greater Detroit area, equidistant between Ford’s global headquarters in Dearborn and the 2.9-million-square-foot Flat Rock Assembly Plant, sits the Watson Racing engineering facility, the birthplace of the Mustang Challenge Dark Horse R race cars. The engineering company is a highly specialised automotive parts manufacturer that now works wi",
+      "published_utc": "2026-11-26T07:38:47+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.dailysportscar.com/2026/11/26/watson-racing-the-birthplace-of-mustang-challenges-dark-horse-rs.html",
+          "source": "DailySportscar",
+          "publisher": "DailySportscar",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T07:38:47+00:00",
+          "title": "Watson Racing: The Birthplace Of The Mustang Challenge Dark Horse R"
+        }
+      ]
+    },
+    {
+      "id": "d1711be0bead4e6b785ccef7",
+      "topic": "WEC",
+      "title": "Driver’s Championship, Global Manufacturer’s Title Up For Grabs In GTWC Australia Finale",
+      "url": "https://www.dailysportscar.com/2026/11/26/drivers-championship-global-manufacturers-title-up-for-grabs-in-gtwc-australia-finale.html",
+      "source": "DailySportscar",
+      "publisher": "DailySportscar",
+      "description": "The final GT World Challenge event of season 2026 takes place this weekend, with GTWC Australia concluding its championship on the streets of Adelaide. A season-high 19 car grid will take to the Adelaide Street Circuit, in support of the Australian Supercars Grand Final, with championships up for grabs in the Pro-Am and Trophy classes, […] The post",
+      "published_utc": "2026-11-26T06:45:36+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.dailysportscar.com/2026/11/26/drivers-championship-global-manufacturers-title-up-for-grabs-in-gtwc-australia-finale.html",
+          "source": "DailySportscar",
+          "publisher": "DailySportscar",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T06:45:36+00:00",
+          "title": "Driver’s Championship, Global Manufacturer’s Title Up For Grabs In GTWC Australia Finale"
+        }
+      ]
+    },
+    {
+      "id": "bec7bb17093ee591c3b970d7",
+      "topic": "WEC",
+      "title": "TF Sport Names Bateman & Eastwood For ELMS LMGT3 Title Defence",
+      "url": "https://www.dailysportscar.com/2026/11/25/tf-sport-names-bateman-eastwood-for-elms-lmgt3-title-defence.html",
+      "source": "DailySportscar",
+      "publisher": "DailySportscar",
+      "description": "TF Sport has announced British racer Charles Bateman and factory driver Charlie Eastwood as the first two drivers set to contest the 2027 ELMS season in its LMGT3 title-defending Corvette Z06 GT3.R. Eastwood, who formed the backbone of the team’s back-to-back LMGT3 Drivers’ and Teams’ title-winning campaigns in 2025 and 2026, and Bateman, who won [",
+      "published_utc": "2026-11-25T15:15:25+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://www.dailysportscar.com/2026/11/25/tf-sport-names-bateman-eastwood-for-elms-lmgt3-title-defence.html",
+          "source": "DailySportscar",
+          "publisher": "DailySportscar",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T15:15:25+00:00",
+          "title": "TF Sport Names Bateman & Eastwood For ELMS LMGT3 Title Defence"
+        }
+      ]
+    },
+    {
+      "id": "8076af2ac2b0429468078fd9",
+      "topic": "F1",
+      "title": "How Hamilton and Leclerc's Ferrari partnership descended into crisis",
+      "url": "https://racingnews365.com/how-hamilton-and-leclercs-ferrari-partnership-descended-into-crisis",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Ferrari told Charles Leclerc not to attack Lewis Hamilton in Las Vegas.",
+      "published_utc": "2026-11-26T14:45:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/how-hamilton-and-leclercs-ferrari-partnership-descended-into-crisis",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T14:45:00+00:00",
+          "title": "How Hamilton and Leclerc's Ferrari partnership descended into crisis"
+        }
+      ]
+    },
+    {
+      "id": "d9c9cd902936c950089a9026",
+      "topic": "F1",
+      "title": "McLaren address major upcoming F1 change after 'anomaly' problem",
+      "url": "https://racingnews365.com/mclaren-address-major-f1-change-after",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "The FIA will introduce permanent F1 stewards starting next year in the hope of fixing inconsistencies that have generated complaints from the drivers.",
+      "published_utc": "2026-11-26T14:05:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/mclaren-address-major-f1-change-after",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T14:05:00+00:00",
+          "title": "McLaren address major upcoming F1 change after 'anomaly' problem"
+        }
+      ]
+    },
+    {
+      "id": "a26349c677bda50c2acfcc06",
+      "topic": "F1",
+      "title": "Lando Norris confirms key McLaren meeting topic on shocking error anniversary",
+      "url": "https://racingnews365.com/lando-norris-confirms-key-mclaren-meeting-topic-on-shocking-error-anniversary",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "McLaren is eager to avoid a repeat of what happened in Qatar last season.",
+      "published_utc": "2026-11-26T13:21:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/lando-norris-confirms-key-mclaren-meeting-topic-on-shocking-error-anniversary",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T13:21:00+00:00",
+          "title": "Lando Norris confirms key McLaren meeting topic on shocking error anniversary"
+        }
+      ]
+    },
+    {
+      "id": "f25bf4800c1e9d9730c3f39d",
+      "topic": "F1",
+      "title": "Honda deny problem with Fernando Alonso engine after mysterious issue",
+      "url": "https://racingnews365.com/honda-deny-problem-with-fernando-alonso-engine-after-mysterious-issue",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Honda and Fernando Alonso have provided contradictory accounts of his perceived power unit issue that saw him pull into the pits to retire at the end of the Las Vegas Grand Prix.",
+      "published_utc": "2026-11-26T12:15:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/honda-deny-problem-with-fernando-alonso-engine-after-mysterious-issue",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T12:15:00+00:00",
+          "title": "Honda deny problem with Fernando Alonso engine after mysterious issue"
+        }
+      ]
+    },
+    {
+      "id": "656e5e1d304481a1e37b5d1c",
+      "topic": "F1",
+      "title": "Arvid Lindblad makes Qatar F1 prediction that amplifies Las Vegas 'hurt'",
+      "url": "https://racingnews365.com/arvid-lindblad-makes-qatar-f1-prediction-that-amplifies-las-vegas-hurt",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Arvid Lindblad spun into retirement on Lap 20 of the Las Vegas Grand Prix — but this is why it \"hurts\" so much.",
+      "published_utc": "2026-11-26T11:25:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/arvid-lindblad-makes-qatar-f1-prediction-that-amplifies-las-vegas-hurt",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T11:25:00+00:00",
+          "title": "Arvid Lindblad makes Qatar F1 prediction that amplifies Las Vegas 'hurt'"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T12:25:00+01:00",
+      "article_modified_raw": "2026-11-26T17:00:35+01:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "7eb3ae68ea32c7a06b4d7240",
+      "topic": "F1",
+      "title": "Fernando Alonso to miss key Qatar GP duties due to viral infection",
+      "url": "https://racingnews365.com/fernando-alonso-to-miss-key-qatar-gp-duties-due-to-viral-infection",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Fernando Alonso will miss part of the Qatar Grand Prix weekend due to sickness.",
+      "published_utc": "2026-11-26T10:36:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/fernando-alonso-to-miss-key-qatar-gp-duties-due-to-viral-infection",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T10:36:00+00:00",
+          "title": "Fernando Alonso to miss key Qatar GP duties due to viral infection"
+        }
+      ]
+    },
+    {
+      "id": "b2968b0a0833928195190ee3",
+      "topic": "F1",
+      "title": "Ferrari boss sets Lewis Hamilton and Charles Leclerc clear target after latest clash",
+      "url": "https://racingnews365.com/ferrari-boss-sets-lewis-hamilton-and-charles-leclerc-clear-target-after-latest-clash",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Ferrari boss Fred Vasseur has made a \"determined\" vow for the team to \"respond\" after the incident between Charles Leclerc and Lewis Hamilton at the Las Vegas Grand Prix.",
+      "published_utc": "2026-11-26T10:05:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/ferrari-boss-sets-lewis-hamilton-and-charles-leclerc-clear-target-after-latest-clash",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T10:05:00+00:00",
+          "title": "Ferrari boss sets Lewis Hamilton and Charles Leclerc clear target after latest clash"
+        }
+      ]
+    },
+    {
+      "id": "c773be38b0d88c511504158f",
+      "topic": "F1",
+      "title": "Complete F1 2027 confirmed driver line-ups",
+      "url": "https://racingnews365.com/complete-f1-2027-confirmed-driver-line-ups",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Which drivers will be on the F1 grid next season and which team will they race for? See how the field will shape up for the 2027 campaign below!",
+      "published_utc": "2026-11-26T09:15:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/complete-f1-2027-confirmed-driver-line-ups",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T09:15:00+00:00",
+          "title": "Complete F1 2027 confirmed driver line-ups"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T10:15:00+01:00",
+      "article_modified_raw": "2026-11-26T11:07:16+01:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "79a6bfda6387622f6013074f",
+      "topic": "F1",
+      "title": "Breaking: Haas announce completed F1 driver line-up after mysterious delay",
+      "url": "https://racingnews365.com/haas-announce-completed-f1-driver-line-up-after-mysterious-delay",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Haas has confirmed who will partner Rafael Camara in F1 next season after a prolonged negotiation with Oliver Bearman.",
+      "published_utc": "2026-11-26T09:01:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/haas-announce-completed-f1-driver-line-up-after-mysterious-delay",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T09:01:00+00:00",
+          "title": "Breaking: Haas announce completed F1 driver line-up after mysterious delay"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T10:01:00+01:00",
+      "article_modified_raw": "2026-11-26T13:11:00+01:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "4420a10d6354b17e9809a672",
+      "topic": "F1",
+      "title": "Max Verstappen torn into during stunning rebuke: 'That really disgusts me'",
+      "url": "https://racingnews365.com/max-verstappen-torn-into-during-stunning-rebuke-that-really-disgusts-me",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Max Verstappen has been scolded by former F1 driver Sebastien Bourdais for what the Frenchman feels are hypocritical standards from the four-time F1 drivers' champion.",
+      "published_utc": "2026-11-26T08:15:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/max-verstappen-torn-into-during-stunning-rebuke-that-really-disgusts-me",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T08:15:00+00:00",
+          "title": "Max Verstappen torn into during stunning rebuke: 'That really disgusts me'"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T09:15:00+01:00",
+      "article_modified_raw": "2026-11-26T09:38:51+01:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "f24330ef11215cacf798c141",
+      "topic": "F1",
+      "title": "Toto Wolff issues 'fierce' Mercedes prediction ahead of unique F1 weekend",
+      "url": "https://racingnews365.com/toto-wolff-issues-fierce-mercedes-prediction-ahead-of-unique-f1-weekend",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "The Qatar Grand Prix sits as the host of the second-to-last round of the 2026 season.",
+      "published_utc": "2026-11-26T07:20:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/toto-wolff-issues-fierce-mercedes-prediction-ahead-of-unique-f1-weekend",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T07:20:00+00:00",
+          "title": "Toto Wolff issues 'fierce' Mercedes prediction ahead of unique F1 weekend"
+        }
+      ]
+    },
+    {
+      "id": "6c1503bfae633d09e63728d6",
+      "topic": "F1",
+      "title": "Inside the Ferrari meeting that cleared the air – until Lewis Hamilton and Charles Leclerc clashed again",
+      "url": "https://racingnews365.com/inside-the-ferrari-meeting-that-cleared-the-air-until-lewis-hamilton-and-charles-leclerc-clashed-again",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Ferrari held crunch talks with its drivers at the São Paulo Grand Prix after tensions developed following their first-lap incident in Mexico City. However, emotions erupted again following another coming together in Las Vegas.",
+      "published_utc": "2026-11-26T06:25:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/inside-the-ferrari-meeting-that-cleared-the-air-until-lewis-hamilton-and-charles-leclerc-clashed-again",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T06:25:00+00:00",
+          "title": "Inside the Ferrari meeting that cleared the air – until Lewis Hamilton and Charles Leclerc clashed again"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T07:25:00+01:00",
+      "article_modified_raw": "2026-11-26T11:05:50+01:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "eca71af1cf1caaebf1063f44",
+      "topic": "F1",
+      "title": "Max Verstappen achieved a special first with his 75th F1 win last weekend",
+      "url": "https://racingnews365.com/max-verstappen-achieved-a-special-first-with-his-75th-f1-win-last-weekend",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Max Verstappen achieved a milestone race victory last time out in Las Vegas as he crossed the line to secure his 75th win. But there was one key difference this time around compared to all the others.",
+      "published_utc": "2026-11-26T05:30:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/max-verstappen-achieved-a-special-first-with-his-75th-f1-win-last-weekend",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T05:30:00+00:00",
+          "title": "Max Verstappen achieved a special first with his 75th F1 win last weekend"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T06:30:00+01:00",
+      "article_modified_raw": "2026-11-26T10:20:52+01:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "6d6b73f16a80f4bcb0a5cb4b",
+      "topic": "F1",
+      "title": "2026 F1 Qatar Grand Prix - Time Schedule",
+      "url": "https://racingnews365.com/2026-f1-qatar-grand-prix-time-schedule",
+      "source": "RacingNews365",
+      "publisher": "RacingNews365",
+      "description": "Check out the full time schedule for the 2026 F1 Qatar Grand Prix.",
+      "published_utc": "2026-11-26T05:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://racingnews365.com/2026-f1-qatar-grand-prix-time-schedule",
+          "source": "RacingNews365",
+          "publisher": "RacingNews365",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T05:00:00+00:00",
+          "title": "2026 F1 Qatar Grand Prix - Time Schedule"
         }
       ]
     }

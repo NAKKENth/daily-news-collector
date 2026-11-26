@@ -1045,62 +1045,6 @@
       ]
     },
     {
-      "id": "3a6ab3fc1683e979ecb52246",
-      "topic": "handhelds",
-      "title": "An ultra-compact robot vacuum that reaches almost every corner: Lefant L12 Pro review",
-      "url": "https://www.notebookcheck.net/An-ultra-compact-robot-vacuum-that-reaches-almost-every-corner-Lefant-L12-Pro-review.1460757.0.html",
-      "source": "Notebookcheck Handheld",
-      "publisher": "Notebookcheck Handheld",
-      "description": "The Lefant L12 Pro is much smaller than other robot vacuums, so it gets into corners far more easily. Our review looks at what else sets this affordable model with a mop roller apart and whether it’s worth buying.",
-      "published_utc": "2026-11-26T13:00:00+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "article_published",
-      "link_role": "source_article",
-      "date_quality": "article_metadata",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://www.notebookcheck.net/An-ultra-compact-robot-vacuum-that-reaches-almost-every-corner-Lefant-L12-Pro-review.1460757.0.html",
-          "source": "Notebookcheck Handheld",
-          "publisher": "Notebookcheck Handheld",
-          "timestamp_basis": "article_published",
-          "published_utc": "2026-11-26T13:00:00+00:00",
-          "title": "An ultra-compact robot vacuum that reaches almost every corner: Lefant L12 Pro review"
-        }
-      ],
-      "discovery_url": null,
-      "article_published_raw": "2026-11-26T14:00:00+01:00",
-      "article_modified_raw": "2026-11-26T14:00:00+01:00",
-      "enrichment": "article_metadata"
-    },
-    {
-      "id": "aa91f5a03b6962d2b2bd5d74",
-      "topic": "handhelds",
-      "title": "Apple MacBook Pro 14 M6 Review - No OLED, but the best single-core performance",
-      "url": "https://www.notebookcheck.net/Apple-MacBook-Pro-14-M6-Review-No-OLED-but-the-best-single-core-performance.1458776.0.html",
-      "source": "Notebookcheck Handheld",
-      "publisher": "Notebookcheck Handheld",
-      "description": "Performance and efficiency boost. | The MacBook Pro 14 is the first laptop from Apple that is available with the 2 nm M6-SoC, which offers improved performance as well as efficiency figures. The base model is also more expensive than before, but keeps the inferior cooling with just a single fan.",
-      "published_utc": "2026-11-26T12:38:00+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
-      "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://www.notebookcheck.net/Apple-MacBook-Pro-14-M6-Review-No-OLED-but-the-best-single-core-performance.1458776.0.html",
-          "source": "Notebookcheck Handheld",
-          "publisher": "Notebookcheck Handheld",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-26T12:38:00+00:00",
-          "title": "Apple MacBook Pro 14 M6 Review - No OLED, but the best single-core performance"
-        }
-      ]
-    },
-    {
       "id": "2bd3181d9b9aa2f54a99df8b",
       "topic": "handhelds",
       "title": "ANBERNIC Reveals New Colourful RG 47G1 Retro Handheld",
@@ -1579,32 +1523,6 @@
       ]
     },
     {
-      "id": "a528cd4ec38a6ce6ea05720a",
-      "topic": "handhelds",
-      "title": "The best AMD-based ThinkPad laptop of 2026: Lenovo ThinkPad P16s Gen 5 review",
-      "url": "https://www.notebookcheck.net/The-best-AMD-based-ThinkPad-laptop-of-2026-Lenovo-ThinkPad-P16s-Gen-5-review.1444069.0.html",
-      "source": "Notebookcheck Handheld",
-      "publisher": "Notebookcheck Handheld",
-      "description": "Boss transformation. | If one bought a ThinkPad P16s in the past, it was always a bit underpowered for a mobile workstation. With the new Lenovo ThinkPad P16s Gen 5 AMD, this is no longer the case, as this 16-inch ThinkPad reveals in our extensive review why it is the best AMD-based ThinkPad laptop of 2026.",
-      "published_utc": "2026-11-26T14:06:00+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
-      "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://www.notebookcheck.net/The-best-AMD-based-ThinkPad-laptop-of-2026-Lenovo-ThinkPad-P16s-Gen-5-review.1444069.0.html",
-          "source": "Notebookcheck Handheld",
-          "publisher": "Notebookcheck Handheld",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-26T14:06:00+00:00",
-          "title": "The best AMD-based ThinkPad laptop of 2026: Lenovo ThinkPad P16s Gen 5 review"
-        }
-      ]
-    },
-    {
       "id": "85049b4fa4db3356fe28da88",
       "topic": "handhelds",
       "title": "5 Retro Games to Help Avoid Your Family Members This Thanksgiving",
@@ -1867,14 +1785,67 @@
           "title": "Startlight sound - History - overtake.gg"
         }
       ]
+    },
+    {
+      "id": "14a49beb8c945c2fa9d71c70",
+      "topic": "emulators",
+      "title": "Merged PR #14806: JitRegCache: Refactor using a data oriented design",
+      "url": "https://github.com/dolphin-emu/dolphin/pull/14806",
+      "source": "Dolphin merged PR",
+      "publisher": "dolphin-emu/dolphin",
+      "description": "(Revival of #14403.) Replace the \"array of structure\" design with a \"structure of array\". Boolean members are represented by a bitset. The main benefit is that filtering the registers in regcache operations can be done in one simple bitwise instruction. This is especially useful on `Flush`, as callers don't need anymore to limit the iterated regist",
+      "published_utc": "2026-11-25T21:21:44+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "github_pr_merged",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "review",
+      "triage_reason": "GitHub開発情報",
+      "sources": [
+        {
+          "url": "https://github.com/dolphin-emu/dolphin/pull/14806",
+          "source": "Dolphin merged PR",
+          "publisher": "dolphin-emu/dolphin",
+          "timestamp_basis": "github_pr_merged",
+          "published_utc": "2026-11-25T21:21:44+00:00",
+          "title": "Merged PR #14806: JitRegCache: Refactor using a data oriented design"
+        }
+      ]
+    },
+    {
+      "id": "2ff2f09b9a154320f91fe69f",
+      "topic": "emulators",
+      "title": "Merged PR #15051: Android: Fix online system update after disc system update",
+      "url": "https://github.com/dolphin-emu/dolphin/pull/15051",
+      "source": "Dolphin merged PR",
+      "publisher": "dolphin-emu/dolphin",
+      "description": "This bug has been in Dolphin for a while now. If you installed a system update from a disc, attempting to do an online system update afterwards would result in Dolphin doing a disc update again because the disc path was never cleared. Split out from PR #14561.",
+      "published_utc": "2026-11-25T21:21:31+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "github_pr_merged",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "priority",
+      "triage_reason": "GitHub開発情報",
+      "sources": [
+        {
+          "url": "https://github.com/dolphin-emu/dolphin/pull/15051",
+          "source": "Dolphin merged PR",
+          "publisher": "dolphin-emu/dolphin",
+          "timestamp_basis": "github_pr_merged",
+          "published_utc": "2026-11-25T21:21:31+00:00",
+          "title": "Merged PR #15051: Android: Fix online system update after disc system update"
+        }
+      ]
     }
   ],
   "date_unknown": [],
   "health": {
-    "ok": 15,
-    "partial": 8,
-    "empty": 9,
-    "skipped": 9,
+    "deferred": 10,
+    "partial": 4,
+    "empty": 11,
+    "ok": 14,
+    "failed": 2,
     "manual": 4
   }
 }

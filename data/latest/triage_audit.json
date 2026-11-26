@@ -63,15 +63,6 @@
     "reason": "一覧・ナビゲーション候補"
   },
   {
-    "id": "8f1649bb537db63d04b0acc1",
-    "group": "pc_ai",
-    "topic": "pc",
-    "title": "Put Your GPU to Work: Offline AI Video Enhancement with Aiarty (Black Friday Deal)",
-    "url": "https://www.techpowerup.com/354822/put-your-gpu-to-work-offline-ai-video-enhancement-with-aiarty-black-friday-deal",
-    "triage": "exclude",
-    "reason": "通常セール・販促・中古"
-  },
-  {
     "id": "490e308b961fbaa71cfdaaca",
     "group": "pc_ai",
     "topic": "pc",
@@ -1652,6 +1643,60 @@
     "topic": "IndyCar",
     "title": "Bearman finally gets 2027 Haas deal confirmed - RACER - Racing News",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5talJKeG9LSjAwY05UeUs1TC1LS2hfTUwxWXhUNzkxbkYwb2NLcXVuOTl4TkxJOWVFR1lwOE5IaUhRN1BKVDlRTlRqVjF4eTctTXJvM0FPNkh0Uy1kcEtWNVJKdkx0b0c2Qm9KczFlQVN1RllUTFNZeFg0X25wRTA?oc=5",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "fb38fd6ad4faa174141ae531",
+    "group": "pc_ai",
+    "topic": "ai",
+    "title": "Best Apple Black Friday Thanksgiving deals: AirPods, MacBook, Apple Watch, AirTag 2, more",
+    "url": "https://9to5mac.com/2026/11/26/best-apple-black-friday-thanksgiving-deals",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "70ca72d8e41736c73cc22bf2",
+    "group": "pc_ai",
+    "topic": "ai",
+    "title": "Best Mac Black Friday deals: $400 off MacBook Air, Neo $100 off, $220 off M6, PROLED, more",
+    "url": "https://9to5mac.com/2026/11/26/best-mac-black-friday-deals",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "5a16a2332a6453c9012e45f2",
+    "group": "pc_ai",
+    "topic": "ai",
+    "title": "Proton Pass is up to 60% off for Black Friday, and it does way more than just store your passwords",
+    "url": "https://9to5mac.com/2026/11/26/proton-pass-is-up-to-60-off-for-black-friday-and-it-does-way-more-than-just-store-your-passwords-sponsored",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "519b1dcfb04e179e3202ee45",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "Core i5-8500や8GBメモリを搭載したHP製デスクトップPCが21,780円、Qualitの中古Bランク品の期間限定セール",
+    "url": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2159277.html",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "625ca4f796bb261d97c90402",
+    "group": "motorsport",
+    "topic": "F1",
+    "title": "シート喪失のマーベリック・ビニャーレス、リザーブライダー役も検討「MotoGPで走る方法を探す」フリーランスもOK？",
+    "url": "https://jp.motorsport.com/motogp/news/maverick-vinales-considering-a-freelance-role-i-want-to-stay-in-motogp/10876033",
+    "triage": "exclude",
+    "reason": "対象外競技"
+  },
+  {
+    "id": "d48c5368f5d9beb2809f649c",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "Massive Black Friday 2026 Offers Now Live on the Industry-Leading Roborock Cleaning Tech",
+    "url": "https://wccftech.com/get-black-friday-offers-of-up-to-58-off-on-best-selling-roborock-vacuum-cleaners",
     "triage": "exclude",
     "reason": "通常セール・販促・中古"
   }

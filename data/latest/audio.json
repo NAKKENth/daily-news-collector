@@ -219,16 +219,16 @@
     {
       "id": "e83e15ee6415f471f03f7e9d",
       "topic": "tws",
-      "title": "Nothing Ear (note) has to prove the charging case isn’t just another gimmick",
+      "title": "Nothing Ear (note) has to prove the charging case isn&#8217;t just another gimmick",
       "url": "https://www.soundguys.com/nothing-ear-note-news-166842",
       "source": "SoundGuys",
       "publisher": "SoundGuys",
-      "description": "The Ear (note) turns the charging case into an AI notetaker. After using the Ear (3), here's what it needs to get right.",
+      "description": "I tested the Nothing Ear (3). Ahead of the Ear (note), here's what Nothing's new AI notetaking earbuds need to get right.",
       "published_utc": "2026-11-25T18:45:16+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -236,11 +236,15 @@
           "url": "https://www.soundguys.com/nothing-ear-note-news-166842",
           "source": "SoundGuys",
           "publisher": "SoundGuys",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T18:45:16+00:00",
-          "title": "Nothing Ear (note) has to prove the charging case isn’t just another gimmick"
+          "title": "Nothing Ear (note) has to prove the charging case isn&#8217;t just another gimmick"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T18:45:16+00:00",
+      "article_modified_raw": "2026-11-25T19:33:29+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "8f141f786ad90fcaded9f9aa",
@@ -699,12 +703,12 @@
       "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
       "source": "The Verge",
       "publisher": "The Verge",
-      "description": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes with a \"Talk\" button that you […]",
+      "description": "Nothing shows off the new Ear Note buds and charging case coming on December 9th that record calls and conversations to generate AI summaries.",
       "published_utc": "2026-11-25T16:00:59+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "オーディオへ再分類",
       "sources": [
@@ -712,11 +716,15 @@
           "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
           "source": "The Verge",
           "publisher": "The Verge",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T16:00:59+00:00",
           "title": "Nothing offers a full look at its AI earbuds and charging case"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T16:00:59+00:00",
+      "article_modified_raw": "2026-11-25T16:00:59+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "7e44c54201d76620b2234688",
@@ -1561,9 +1569,9 @@
       "description": "イースタンサウンドファクトリーは、audiolabのDAC「D9」を12月1日に発売する。PC接続用のUSB入力やBluetooth入力を備え、価格は242,000円。カラーはブラックとシルバー(受注生産)。",
       "published_utc": "2026-11-26T05:00:00+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1571,11 +1579,15 @@
           "url": "https://av.watch.impress.co.jp/docs/news/2159389.html",
           "source": "AV Watch Audio",
           "publisher": "AV Watch Audio",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T05:00:00+00:00",
           "title": "audiolab、USB入力やBluetooth接続も可能なDAC「D9」。ESS ES9038PRO搭載"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T14:00:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "d0bf2e84d1e22e11d34d313d",
@@ -1601,7 +1613,8 @@
           "published_utc": "2026-11-26T03:00:00+00:00",
           "title": "【随時更新】ポタフェス 2026冬 秋葉原 情報まとめ【12月12日(土)・13日(日)開催】"
         }
-      ]
+      ],
+      "enrichment": "not_article"
     },
     {
       "id": "d4d692ad032db000db23a603",
@@ -1627,7 +1640,8 @@
           "published_utc": "2026-11-26T02:00:00+00:00",
           "title": "【12/4発売】Moeetechから最⾼峰の磁気シールド材「スーパーパーマロイ」を採⽤したGlitter Opera / Glitter Opera S が登場！"
         }
-      ]
+      ],
+      "enrichment": "not_article"
     },
     {
       "id": "f676449df5180ea942bfbb6b",
@@ -1653,7 +1667,8 @@
           "published_utc": "2026-11-26T02:00:00+00:00",
           "title": "【#ポタフェス 2026冬 秋葉原 】インプレッション(耳型)採取の予約受付開始しました！"
         }
-      ]
+      ],
+      "enrichment": "not_article"
     },
     {
       "id": "ebc8d6edaab47f6eea8e7585",
@@ -1679,7 +1694,8 @@
           "published_utc": "2026-11-26T02:00:00+00:00",
           "title": "【#ポタフェス 2026冬 秋葉原】SeeAudioオーダーメイドイヤホン受注会vol.7"
         }
-      ]
+      ],
+      "enrichment": "not_article"
     },
     {
       "id": "cff766ddbbfd9ad70dfd227f",
@@ -1933,9 +1949,9 @@
       "description": "パイオニアは、カロッツェリアのディスプレイオーディオ「DMH-SF900」と「DMH-SF600」、専用アプリ「PxLink」のソフトウェアアップデートを実施。ホンダ「N-BOX」など、5車種を対象とした「車種専用オーディオ設定」を追加した。",
       "published_utc": "2026-11-26T08:00:00+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1943,11 +1959,15 @@
           "url": "https://av.watch.impress.co.jp/docs/news/2159514.html",
           "source": "AV Watch Audio",
           "publisher": "AV Watch Audio",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T08:00:00+00:00",
           "title": "カロッツェリアのディスプレイオーディオで、N-BOXやジムニーの“専用チューニングデータ”利用可能に"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T17:00:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "f12d7a2a1c7a83d6b6bed5e9",
@@ -1956,12 +1976,12 @@
       "url": "https://www.gsmarena.com/nothing_releases_new_images_of_the_ear_note_ai_notetaker_earbuds-news-75643.php",
       "source": "GSMArena",
       "publisher": "GSMArena",
-      "description": "Yesterday we learned that Nothing's first AI-native device is a pair of earbuds called the Ear (note), and today the company has made it official with a first look at the product, ahead of its December 8 launch. The first step in our AI vision will change how we work. And play. This is Ear (note), an AI notetaker with our best in-ear audio to date.",
+      "description": "The case borrows a couple of ideas from the Walkman. Yesterday we learned that Nothing's first AI-native device is a pair of earbuds called the Ear (note),...",
       "published_utc": "2026-11-26T07:41:02+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "オーディオへ再分類",
       "sources": [
@@ -1969,25 +1989,29 @@
           "url": "https://www.gsmarena.com/nothing_releases_new_images_of_the_ear_note_ai_notetaker_earbuds-news-75643.php",
           "source": "GSMArena",
           "publisher": "GSMArena",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T07:41:02+00:00",
           "title": "Nothing releases new images of the Ear (note) AI notetaker earbuds"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T08:41:02+01:00",
+      "article_modified_raw": "2026-11-26T08:41:02+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "b2d540426db9aee5e89f04a0",
       "topic": "tws",
-      "title": "Host bigger holiday parties with $170 off JBL’s PartyBox Club 120",
+      "title": "Host bigger holiday parties with $170 off JBL&#8217;s PartyBox Club 120",
       "url": "https://www.soundguys.com/jbl-partybox-club-120-deal-166864",
       "source": "SoundGuys",
       "publisher": "SoundGuys",
-      "description": "JBL's 160W party speaker with a light show and mic inputs is 38% off on Amazon, matching its lowest price.",
+      "description": "The JBL PartyBox Club 120 is $279.95 on Amazon ahead of Black Friday, matching its lowest price, with 160W of sound and a light show.",
       "published_utc": "2026-11-26T12:49:06+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1995,11 +2019,15 @@
           "url": "https://www.soundguys.com/jbl-partybox-club-120-deal-166864",
           "source": "SoundGuys",
           "publisher": "SoundGuys",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T12:49:06+00:00",
-          "title": "Host bigger holiday parties with $170 off JBL’s PartyBox Club 120"
+          "title": "Host bigger holiday parties with $170 off JBL&#8217;s PartyBox Club 120"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T12:49:06+00:00",
+      "article_modified_raw": "2026-11-26T12:49:06+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "25b5a8df54c96af5b08f62a0",
@@ -2034,16 +2062,16 @@
     {
       "id": "4f2510babdffd34866968ada",
       "topic": "wired",
-      "title": "Samsung’s Galaxy Studio headphones need these 7 things to beat the Sony WH-1000XM6",
+      "title": "Samsung&#8217;s Galaxy Studio headphones need these 7 things to beat the Sony WH-1000XM6",
       "url": "https://www.soundguys.com/samsung-galaxy-studio-wishlist-166747",
       "source": "SoundGuys",
       "publisher": "SoundGuys",
-      "description": "Leaks show Samsung's Galaxy Studio over-ear headphones are on the way. Here are 7 things they need to beat the Sony WH-1000XM6, from USB-C audio to comfort.",
+      "description": "Leaks show Samsung's Galaxy Studio headphones are coming. Here are 7 things they need to beat the Sony WH-1000XM6.",
       "published_utc": "2026-11-26T09:00:13+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "対象オーディオ候補",
       "sources": [
@@ -2051,11 +2079,15 @@
           "url": "https://www.soundguys.com/samsung-galaxy-studio-wishlist-166747",
           "source": "SoundGuys",
           "publisher": "SoundGuys",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T09:00:13+00:00",
-          "title": "Samsung’s Galaxy Studio headphones need these 7 things to beat the Sony WH-1000XM6"
+          "title": "Samsung&#8217;s Galaxy Studio headphones need these 7 things to beat the Sony WH-1000XM6"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T09:00:13+00:00",
+      "article_modified_raw": "2026-11-25T22:26:19+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "b6b48a527b32fb5c040fe1a9",
@@ -3243,6 +3275,36 @@
           "title": "[PD x3] Fir E12 Single DD - Head-Fi.org"
         }
       ]
+    },
+    {
+      "id": "0b995f2b74c174d940fd0117",
+      "topic": "tws",
+      "title": "Huawei Freebuds SE 5 MAX review: Superb sound!",
+      "url": "https://www.scarbir.com/tws/huawei-freebuds-se5-max-review",
+      "source": "Scarbir",
+      "publisher": "Scarbir",
+      "description": "REVIEW: The Huawei Freebuds SE 5 MAX wireless earbuds don't have the best ANC Noise Cancelling or clearest calls, but they sound amazing! Test vs Roseselsa Ceramics Ultra, Realme Anker and SoundPEATS Air6 Pro.",
+      "published_utc": "2026-11-26T10:33:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.scarbir.com/tws/huawei-freebuds-se5-max-review",
+          "source": "Scarbir",
+          "publisher": "Scarbir",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T10:33:00+00:00",
+          "title": "Huawei Freebuds SE 5 MAX review: Superb sound!"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T11:33:00+0100",
+      "article_modified_raw": "2026-11-26T11:33:26+0100",
+      "enrichment": "article_metadata"
     }
   ],
   "date_unknown": [
@@ -3308,11 +3370,11 @@
     }
   ],
   "health": {
-    "partial": 24,
-    "ok": 9,
-    "deferred": 3,
-    "empty": 1,
-    "skipped": 5,
+    "partial": 13,
+    "ok": 10,
+    "deferred": 16,
+    "empty": 2,
+    "failed": 1,
     "manual": 2
   }
 }

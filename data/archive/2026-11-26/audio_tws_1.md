@@ -1,10 +1,11 @@
-# tws / 2026-11-26 / 候補 1–42
+# tws / 2026-11-26 / 候補 1–43
 
 - [Apple AirPods Max 2 review: Whatever happened to thinking different?](https://www.soundguys.com/apple-airpods-max-2-review-155613) — SoundGuys｜優先｜2026-11-25T19:43:52+00:00 UTC｜article_metadata
-- [Host bigger holiday parties with $170 off JBL’s PartyBox Club 120](https://www.soundguys.com/jbl-partybox-club-120-deal-166864) — SoundGuys｜要確認｜2026-11-26T12:49:06+00:00 UTC｜feed_published
-- [Nothing Ear (note) has to prove the charging case isn’t just another gimmick](https://www.soundguys.com/nothing-ear-note-news-166842) — SoundGuys｜要確認｜2026-11-25T18:45:16+00:00 UTC｜feed_published
-- [Nothing offers a full look at its AI earbuds and charging case](https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal) — The Verge｜要確認｜2026-11-25T16:00:59+00:00 UTC｜feed_published
-- [Nothing releases new images of the Ear (note) AI notetaker earbuds](https://www.gsmarena.com/nothing_releases_new_images_of_the_ear_note_ai_notetaker_earbuds-news-75643.php) — GSMArena｜要確認｜2026-11-26T07:41:02+00:00 UTC｜feed_published
+- [Host bigger holiday parties with $170 off JBL&#8217;s PartyBox Club 120](https://www.soundguys.com/jbl-partybox-club-120-deal-166864) — SoundGuys｜要確認｜2026-11-26T12:49:06+00:00 UTC｜article_metadata
+- [Huawei Freebuds SE 5 MAX review: Superb sound!](https://www.scarbir.com/tws/huawei-freebuds-se5-max-review) — Scarbir｜要確認｜2026-11-26T10:33:00+00:00 UTC｜article_metadata
+- [Nothing Ear (note) has to prove the charging case isn&#8217;t just another gimmick](https://www.soundguys.com/nothing-ear-note-news-166842) — SoundGuys｜要確認｜2026-11-25T18:45:16+00:00 UTC｜article_metadata
+- [Nothing offers a full look at its AI earbuds and charging case](https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal) — The Verge｜要確認｜2026-11-25T16:00:59+00:00 UTC｜article_metadata
+- [Nothing releases new images of the Ear (note) AI notetaker earbuds](https://www.gsmarena.com/nothing_releases_new_images_of_the_ear_note_ai_notetaker_earbuds-news-75643.php) — GSMArena｜要確認｜2026-11-26T07:41:02+00:00 UTC｜article_metadata
 - [USB-C finally made wired earbuds good again](https://www.soundguys.com/usb-c-wired-earbuds-comeback-166781) — SoundGuys｜要確認｜2026-11-26T10:00:04+00:00 UTC｜article_metadata
 - [Android 17 is getting a new setting to prevent unwanted Bluetooth audio switching - Android Authority](https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3JUcHk0RDh1X01Dd2VzTDZMSGZMYVJ2dmgxWF9PSHQ5TU1pYlZlOWtSRWNxUExPUHZzV1I0Mk12a05VRkpXOGM4ZnFXNDZLaFp0SDdfWDVDLV9GbklKRThHX2pvTUZ2a25PWHk5bVdwNjdVenJONnVNbGRvaUdxQWxGbw?oc=5) — Android Authority TWS｜要確認｜2026-11-26T08:45:00+00:00 UTC｜discovery_index
 - [Assigned Numbers - Bluetooth® Technology Website](https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2tzQTRxd1g0M2Jrd1JMbUROa0VoRzFtZFIycU9lbHlha3ZQZkh0MmxmYTRyd1V5UW5sTG95cW0ySTlKUmxGMDhfbEhxTkVWSVBpRXhDTVNDeTRSS1lLRFZNRDFuazBRaGU3SGFDVWIyZVFEanpvbmp6NjdWc0dnWFpWekNhX0U1MTRYYWRXdDVCNDdBVTZveDcySnVXaTBiTjBaN0lTY2RyN0JQSzRCNFVVUHk?oc=5) — Bluetooth SIG｜要確認｜2026-11-26T07:13:42+00:00 UTC｜discovery_index

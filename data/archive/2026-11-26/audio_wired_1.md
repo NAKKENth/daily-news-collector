@@ -2,9 +2,9 @@
 
 - [Bose QuietComfort Ultra Headphones (2nd Gen) review: Boring refresh or notable upgrade?](https://www.soundguys.com/bose-quietcomfort-ultra-headphones-2nd-gen-review-boring-refresh-or-notable-upgrade-144545) — SoundGuys｜優先｜2026-11-25T18:10:29+00:00 UTC｜article_metadata
 - [Improving Lipsync Performance with App Compatible Headphones - JBL](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVGZLcHZFVzRSNHdzM2RmT2ZTNGRKdVl2Tmk2ZUJfemQyU2FpalNqYTBhMkRadkl6Z2hzQUhNcXV4ZjhJTjFnRU1sN29ZZjdWclFMb0JPU3VPNWphRHI1UzgwNEFhakltc1ZDX3FLbTZrb3lOWUhjTXZCVFNlWWtGR0JPaGwxVnIwOTNqN3NCQnZHQ0tUczBUVG1DeHBVaFNyTHV2M0JkanlIUjFYc29jTk94cEFpanVFcUIxd2s2aFljLUUxTTJZ?oc=5) — JBL｜優先｜2026-11-26T02:40:24+00:00 UTC｜discovery_index
-- [Samsung’s Galaxy Studio headphones need these 7 things to beat the Sony WH-1000XM6](https://www.soundguys.com/samsung-galaxy-studio-wishlist-166747) — SoundGuys｜要確認｜2026-11-26T09:00:13+00:00 UTC｜feed_published
+- [Samsung&#8217;s Galaxy Studio headphones need these 7 things to beat the Sony WH-1000XM6](https://www.soundguys.com/samsung-galaxy-studio-wishlist-166747) — SoundGuys｜要確認｜2026-11-26T09:00:13+00:00 UTC｜article_metadata
 - [U-NEXT、「Universal+」初の日本独占配信作を発表。海外ドラマなど4作品／吹替版は井上和彦・沢城みゆきら起用](http://www.phileweb.com/news/hobby/202611/26/8737.html) — PHILE WEB｜要確認｜2026-11-26T08:11:32+00:00 UTC｜feed_published
-- [audiolab、USB入力やBluetooth接続も可能なDAC「D9」。ESS ES9038PRO搭載](https://av.watch.impress.co.jp/docs/news/2159389.html) — AV Watch Audio｜要確認｜2026-11-26T05:00:00+00:00 UTC｜feed_published
+- [audiolab、USB入力やBluetooth接続も可能なDAC「D9」。ESS ES9038PRO搭載](https://av.watch.impress.co.jp/docs/news/2159389.html) — AV Watch Audio｜要確認｜2026-11-26T05:00:00+00:00 UTC｜article_metadata
 - [「FUJI ROCK FESTIVAL ’26」を振り返る5時間超の特番。12/13にPrime Video／Twitchで一夜限り配信](http://www.phileweb.com/news/hobby/202611/26/8734.html) — PHILE WEB｜要確認｜2026-11-26T01:03:21+00:00 UTC｜feed_published
 - [「初めてのJBLスピーカー」に最適。JBLのプロフェッショナル向けモニター「305P MkIII」](http://www.phileweb.com/review/article/202611/26/6752.html) — PHILE WEB｜要確認｜2026-11-25T15:53:41+00:00 UTC｜feed_published
 - [『VIVANT』『アメトーーク！』ネット配信の効果は？ TVerと民放キー局が共同カンファレンス開催](https://www.phileweb.com/news/d-av/202611/26/66464.html) — PHILE WEB｜要確認｜2026-11-26T02:48:40+00:00 UTC｜article_metadata
@@ -19,7 +19,7 @@
 - [オーディオテクニカ、”音が良い会議室”を体験できるショールーム「響間｜KYOKAN」開設](http://www.phileweb.com/news/d-av/202611/26/66468.html) — PHILE WEB｜要確認｜2026-11-26T06:34:12+00:00 UTC｜feed_published
 - [オーディオ・ノート、“あらゆるジャンルを豊かに表現”するNF型フォノアンプ「GE-2」](https://www.phileweb.com/news/audio/202611/26/28452.html) — PHILE WEB｜要確認｜2026-11-26T10:22:06+00:00 UTC｜article_metadata
 - [カロッツェリア、「車種専用オーディオ設定」をディスプレイオーディオ「DMH-SF900」「DMH-SF600」に追加](http://www.phileweb.com/news/d-av/202611/26/66476.html) — PHILE WEB｜要確認｜2026-11-26T09:41:39+00:00 UTC｜feed_published
-- [カロッツェリアのディスプレイオーディオで、N-BOXやジムニーの“専用チューニングデータ”利用可能に](https://av.watch.impress.co.jp/docs/news/2159514.html) — AV Watch Audio｜要確認｜2026-11-26T08:00:00+00:00 UTC｜feed_published
+- [カロッツェリアのディスプレイオーディオで、N-BOXやジムニーの“専用チューニングデータ”利用可能に](https://av.watch.impress.co.jp/docs/news/2159514.html) — AV Watch Audio｜要確認｜2026-11-26T08:00:00+00:00 UTC｜article_metadata
 - [サンワサプライ、光ファイバーコネクター用クリーナー「HKB-CLEAN2」。LC、SC、STなど各種コネクターに対応](https://www.phileweb.com/news/audio/202611/26/28451.html) — PHILE WEB｜要確認｜2026-11-26T06:39:52+00:00 UTC｜article_metadata
 - [2026’s Must-Have DAPs 🔊 – Best Portable Music Players for MP3, FLAC & Hi-Res Audio - Head-Fi.org](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaEc3SGNfcnZXRWp2UUgyWk5fQVUyWlpuMzRZME9UVmIzMjFVdTdhMEN4MHhtYUYwdUtUejdTWjBRQTVWaWl3S0ktOWxKZFBnMVpNWkpvOEZqYW00aEVGSURwcHpac3p2WDdlVjhiWFlvQjR3aUhQdDFPU0xFNnEyd0ZJeTI0akdVM1g1M19IWEx1aFRNOXlXZG1NaDh1bHZlemljY0FOZG1SMGRuTEhVZ1NTd3BOcmdLNzhXbUVWT045aUJoSG9wbEJqVW5mTVpqRTVGWFdfS3V5VVVjQ3h3?oc=5) — Head-Fi｜要確認｜2026-11-25T20:01:16+00:00 UTC｜discovery_index
 - [64 Audio Trio - Head-Fi.org](https://news.google.com/rss/articles/CBMiaEFVX3lxTE53U25DLWtMUVAwVkxTWWd3alM4WUJSSFl0R3pldmlia3ZnS3c0QlJxTEZCSHVMZmZCcVhUS29IRzQybk85eFBUODRRbHhaVmdnTklGZ0xRcGw5VHU5RmlwWnI2Z2R6QWhu?oc=5) — Head-Fi｜要確認｜2026-11-25T19:37:10+00:00 UTC｜discovery_index
