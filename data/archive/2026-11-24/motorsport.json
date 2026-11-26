@@ -1108,14 +1108,14 @@
       ]
     },
     {
-      "id": "3c4cd26091bf0f27349c295d",
+      "id": "f74e383d423401e73c7a2f58",
       "topic": "F1",
-      "title": "McLaren and Red Bull F1 2026 gains under Sainz scrutiny - PlanetF1",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWllla0hoX082YS0tVUdlOGJpc0x5Z3N0aEFwYUNmbWx3RWEwNnJaSThWaE1OSXcwQ2txTzNhMFRKYVdGX21iQy12TUJJT1AyRHFUOXNNcE9BUEJxVEZCZFVVWl9SLVl4OXl0aWE0X25OcW9meDRBRVFSSTd5S0Y3QVRoeXdfQzhL?oc=5",
+      "title": "Lewis Hamilton reignites Charles Leclerc criticism after Las Vegas clash - PlanetF1",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUjFoV1l6TG0wTlpyLWYwYUJsN2pBVkR2dFBtNlYxaFBnYURLVzNOWld1M0JBVmJLdjFqbm5ZWFdsUUFyLUs3WHJtQ1dMTGVZYlo2eUVSaGJMX1FEbkZEZUhsVWo5bVg5djB4TzgwSjRjeTBIeFc4a0hYQzU3UXdmdU5B?oc=5",
       "source": "PlanetF1",
       "publisher": "PlanetF1",
-      "description": "McLaren and Red Bull F1 2026 gains under Sainz scrutiny PlanetF1",
-      "published_utc": "2026-11-24T10:14:46+00:00",
+      "description": "Lewis Hamilton reignites Charles Leclerc criticism after Las Vegas clash PlanetF1",
+      "published_utc": "2026-11-24T06:08:11+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -1124,12 +1124,12 @@
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
         {
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWllla0hoX082YS0tVUdlOGJpc0x5Z3N0aEFwYUNmbWx3RWEwNnJaSThWaE1OSXcwQ2txTzNhMFRKYVdGX21iQy12TUJJT1AyRHFUOXNNcE9BUEJxVEZCZFVVWl9SLVl4OXl0aWE0X25OcW9meDRBRVFSSTd5S0Y3QVRoeXdfQzhL?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUjFoV1l6TG0wTlpyLWYwYUJsN2pBVkR2dFBtNlYxaFBnYURLVzNOWld1M0JBVmJLdjFqbm5ZWFdsUUFyLUs3WHJtQ1dMTGVZYlo2eUVSaGJMX1FEbkZEZUhsVWo5bVg5djB4TzgwSjRjeTBIeFc4a0hYQzU3UXdmdU5B?oc=5",
           "source": "PlanetF1",
           "publisher": "PlanetF1",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T10:14:46+00:00",
-          "title": "McLaren and Red Bull F1 2026 gains under Sainz scrutiny - PlanetF1"
+          "published_utc": "2026-11-24T06:08:11+00:00",
+          "title": "Lewis Hamilton reignites Charles Leclerc criticism after Las Vegas clash - PlanetF1"
         }
       ]
     },
@@ -1268,18 +1268,18 @@
     {
       "id": "37ae0e37f2f8ef9b7fa51ef1",
       "topic": "WRC",
-      "title": "Breen’s Brattby joy or Sesks’ Poland debut? - WRC.com",
+      "title": "Breen’s Brattby joy or Sesks’ Poland debut? - FIA World Rally Championship",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UcWFmb3BjRnc3R1dJNkx4Q3hIT0JxWEs5QnQxSjc3ZXViTDhqdFBuS1VIVEJWb0hBNFNBNGtnLV8xYjlORmY5ZWs5anUtNTdkWVBHSU83MWJOeThNSU1oblk1LU14dTh1QlVKQ2xKcElEMGVoUUs4?oc=5",
       "source": "WRC Official",
       "publisher": "WRC.com",
-      "description": "Breen’s Brattby joy or Sesks’ Poland debut? WRC.com",
+      "description": "Breen’s Brattby joy or Sesks’ Poland debut? FIA World Rally Championship",
       "published_utc": "2026-11-24T09:54:51+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
       "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UcWFmb3BjRnc3R1dJNkx4Q3hIT0JxWEs5QnQxSjc3ZXViTDhqdFBuS1VIVEJWb0hBNFNBNGtnLV8xYjlORmY5ZWs5anUtNTdkWVBHSU83MWJOeThNSU1oblk1LU14dTh1QlVKQ2xKcElEMGVoUUs4?oc=5",
@@ -1287,7 +1287,7 @@
           "publisher": "WRC.com",
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T09:54:51+00:00",
-          "title": "Breen’s Brattby joy or Sesks’ Poland debut? - WRC.com"
+          "title": "Breen’s Brattby joy or Sesks’ Poland debut? - FIA World Rally Championship"
         }
       ]
     },
@@ -2283,32 +2283,6 @@
       ]
     },
     {
-      "id": "d8477827bf68e38dc07e8afd",
-      "topic": "IndyCar",
-      "title": "Latest News - INDYCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBITTNpazZWWUFqd01CVjc0cFl5T0ZfMlB3QWpRaDRqSU5aV3JJdzdPU3FHQ0lwcURzbGhLTGhsZmp5OWRfNWdweXR1bUx4RkRUSC12QQ?oc=5",
-      "source": "IndyCar Official",
-      "publisher": "INDYCAR.com",
-      "description": "Latest News INDYCAR.com",
-      "published_utc": "2026-11-23T23:36:27+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBITTNpazZWWUFqd01CVjc0cFl5T0ZfMlB3QWpRaDRqSU5aV3JJdzdPU3FHQ0lwcURzbGhLTGhsZmp5OWRfNWdweXR1bUx4RkRUSC12QQ?oc=5",
-          "source": "IndyCar Official",
-          "publisher": "INDYCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T23:36:27+00:00",
-          "title": "Latest News - INDYCAR.com"
-        }
-      ]
-    },
-    {
       "id": "b729199f78bf6061180b400b",
       "topic": "F1",
       "title": "F1 pundit calls for real consequences at Ferrari: \"I'd chuck Ollie Bearman in for a race\"",
@@ -3137,6 +3111,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T13:12:24+00:00",
           "title": "F1 Lando Norris Kids Home Decor, Formula 1 Office Accessories - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "6716688aea383ff96b613a27",
+      "topic": "F1",
+      "title": "Top 10 Onboard Moments: 2026 Las Vegas Grand Prix - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMk8yTG1ZRng1THgxM0hsUEZFQmgwN1Qxb01mVm0wUUhVR1hCZVlacm1UZ09NbEY5WjlFN0hYNjhrVnZSQ1FpNG1NZGl2U295X2hmWk5KZUwtWkdkYm51dFEtY0xrWnFjc25oREhUVERuZi1jNm53ZnZHZTFlMHRYU2lkY21TclpqX0RPSG5UWEN0MGRaMUx5R0VnZmhQcW5nb0Nyaw?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "Top 10 Onboard Moments: 2026 Las Vegas Grand Prix Formula 1",
+      "published_utc": "2026-11-24T13:03:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMk8yTG1ZRng1THgxM0hsUEZFQmgwN1Qxb01mVm0wUUhVR1hCZVlacm1UZ09NbEY5WjlFN0hYNjhrVnZSQ1FpNG1NZGl2U295X2hmWk5KZUwtWkdkYm51dFEtY0xrWnFjc25oREhUVERuZi1jNm53ZnZHZTFlMHRYU2lkY21TclpqX0RPSG5UWEN0MGRaMUx5R0VnZmhQcW5nb0Nyaw?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T13:03:00+00:00",
+          "title": "Top 10 Onboard Moments: 2026 Las Vegas Grand Prix - Formula 1"
         }
       ]
     },
@@ -5809,32 +5809,6 @@
       "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
-      "id": "70480ccd9020f99179378468",
-      "topic": "F1",
-      "title": "George Russell News, Results, Career, Biography & Standings archives - PlanetF1",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jZS1EUFJyZkMwN1QzN19vUW4yLWVJdDJlaU1vZGJPVWNEVlhraWlPNDRubDRwclRaOUpPemtuWlpDNnN2cERodEtwbEVwQVR2RGxjSFZaWC1XUQ?oc=5",
-      "source": "PlanetF1",
-      "publisher": "PlanetF1",
-      "description": "George Russell News, Results, Career, Biography & Standings archives PlanetF1",
-      "published_utc": "2026-11-23T22:45:05+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jZS1EUFJyZkMwN1QzN19vUW4yLWVJdDJlaU1vZGJPVWNEVlhraWlPNDRubDRwclRaOUpPemtuWlpDNnN2cERodEtwbEVwQVR2RGxjSFZaWC1XUQ?oc=5",
-          "source": "PlanetF1",
-          "publisher": "PlanetF1",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T22:45:05+00:00",
-          "title": "George Russell News, Results, Career, Biography & Standings archives - PlanetF1"
-        }
-      ]
-    },
-    {
       "id": "dbd91a229fa20c1db1c30950",
       "topic": "F1",
       "title": "Lance Stroll News, Results, Career, Biography & Standings - PlanetF1",
@@ -7907,32 +7881,6 @@
       ]
     },
     {
-      "id": "5c578c4d40771b711dcea5e6",
-      "topic": "NASCAR",
-      "title": "NASCAR Cup Series Chase Archives - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHBIMzNhNmFJR3ZWRWl0ZDBkZ3k0Q1hfck85X0lSV201clpYeHJVbDVrOUE0elZabkpZYkpINTV4RVR4eGpwdzI4aXBKZlVKNmlMalRnZFlaa0JwYUI4OTRJYnFiMVVFRW5FZU56RGlmUS1PTjdIY3A1aEhmVVVkWUxLT0dac2JKYTFRUUtUcjE4VWdkUGRZ?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "NASCAR Cup Series Chase Archives NASCAR.com",
-      "published_utc": "2026-11-24T14:35:06+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技名一致・新規性の確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHBIMzNhNmFJR3ZWRWl0ZDBkZ3k0Q1hfck85X0lSV201clpYeHJVbDVrOUE0elZabkpZYkpINTV4RVR4eGpwdzI4aXBKZlVKNmlMalRnZFlaa0JwYUI4OTRJYnFiMVVFRW5FZU56RGlmUS1PTjdIY3A1aEhmVVVkWUxLT0dac2JKYTFRUUtUcjE4VWdkUGRZ?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T14:35:06+00:00",
-          "title": "NASCAR Cup Series Chase Archives - NASCAR.com"
-        }
-      ]
-    },
-    {
       "id": "245a5fd52a81fa66306c4ba3",
       "topic": "WEC",
       "title": "Peugeot WEC team axed, Citroen and Opel Formula E squads to close after 2027 - RaceFans",
@@ -8848,6 +8796,266 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T13:04:32+00:00",
           "title": "GP Qatar 2026: Pirelli porta le mescole più dure e alza a 27 il limite di giri per set - AutoRacer.it"
+        }
+      ]
+    },
+    {
+      "id": "0b5a821e4ae891c418304452",
+      "topic": "other_motorsport",
+      "title": "ペレス、カマラとの接触でリタイア「彼は僕に気づいていなかった」ボッタスはソフトタイヤ使用を優先し2度ピットイン - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBYZkpIZnNIdkpmNWh6YmFWbElhR2psZGxnZHY5bnQwR2ctcDc1eHMzY0xWVUpjeHlhdXhwVEtHNVhDMDNaQ21z?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "ペレス、カマラとの接触でリタイア「彼は僕に気づいていなかった」ボッタスはソフトタイヤ使用を優先し2度ピットイン autosport web",
+      "published_utc": "2026-11-24T03:20:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBYZkpIZnNIdkpmNWh6YmFWbElhR2psZGxnZHY5bnQwR2ctcDc1eHMzY0xWVUpjeHlhdXhwVEtHNVhDMDNaQ21z?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T03:20:00+00:00",
+          "title": "ペレス、カマラとの接触でリタイア「彼は僕に気づいていなかった」ボッタスはソフトタイヤ使用を優先し2度ピットイン - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "08b890a3517eb5996a696b62",
+      "topic": "other_motorsport",
+      "title": "プジョー、SUV兄弟『3008／5008』に専用チタニウムグレーの限定車。主力の『308』には“BlueHDi”が復活 - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKSXVLQnRUU0N1WWtKOHlUYVpvVVp3RUVySzRSTThNWEZ4QmVSNjA4bi1xV2E2NzJReTZrLXNYSjFkVUVaVzdNUQ?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "プジョー、SUV兄弟『3008／5008』に専用チタニウムグレーの限定車。主力の『308』には“BlueHDi”が復活 autosport web",
+      "published_utc": "2026-11-24T04:14:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKSXVLQnRUU0N1WWtKOHlUYVpvVVp3RUVySzRSTThNWEZ4QmVSNjA4bi1xV2E2NzJReTZrLXNYSjFkVUVaVzdNUQ?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T04:14:00+00:00",
+          "title": "プジョー、SUV兄弟『3008／5008』に専用チタニウムグレーの限定車。主力の『308』には“BlueHDi”が復活 - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "06f0649233d7378123023aaf",
+      "topic": "other_motorsport",
+      "title": "一部改良受けたフリード、利便性向上＆新色に加え特別仕様車設定。無限パーツの適合拡大も発表に - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1nNTd0dVNmcU1CV2NONGlCblpEZmREVE1qN1VGVzM3YW1ncTZOYk9wMVlfUE9hdVhxOEU5RlJwWFl6dG5UaktlMw?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "一部改良受けたフリード、利便性向上＆新色に加え特別仕様車設定。無限パーツの適合拡大も発表に autosport web",
+      "published_utc": "2026-11-24T08:30:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1nNTd0dVNmcU1CV2NONGlCblpEZmREVE1qN1VGVzM3YW1ncTZOYk9wMVlfUE9hdVhxOEU5RlJwWFl6dG5UaktlMw?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T08:30:00+00:00",
+          "title": "一部改良受けたフリード、利便性向上＆新色に加え特別仕様車設定。無限パーツの適合拡大も発表に - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "8b115521d010d98459fbd9d5",
+      "topic": "WRC",
+      "title": "Final Results Pig Saddle Road Gravel Sprint 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZmZIV2ZzekNqbHc4bXc4X2JFd3NCSWZ5NlRRTUZlTlcwUUdVVmo0cERySnFXQWo2aTd0TElNd0llS19zQnozNDZWTTR0azQ3SEgzcmFDSnBEOVEyZm1FTzZhRVJoTTE2VDA1d3J0eW85TGttbVJJSjMwVzhrRjhidDQ1NEZkVHpnc2pQRGV2NA?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Final Results Pig Saddle Road Gravel Sprint 2026 eWRC-results.com",
+      "published_utc": "2026-11-24T11:21:16+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZmZIV2ZzekNqbHc4bXc4X2JFd3NCSWZ5NlRRTUZlTlcwUUdVVmo0cERySnFXQWo2aTd0TElNd0llS19zQnozNDZWTTR0azQ3SEgzcmFDSnBEOVEyZm1FTzZhRVJoTTE2VDA1d3J0eW85TGttbVJJSjMwVzhrRjhidDQ1NEZkVHpnc2pQRGV2NA?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T11:21:16+00:00",
+          "title": "Final Results Pig Saddle Road Gravel Sprint 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "e391be452e5796a60f8d9b4e",
+      "topic": "WRC",
+      "title": "Entries Rally Ciudad de Termas de Rio Hondo 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVlVhNVNXdnp0S0NtazR2VUdrSlRwTDlWXzBoTDktVjlTTU1DbHRfV2wyVzJYdGZHa19rSmN2VTdkakFxQ0VYaVlpTXFEeDNra1NkOElwWEx6REZMVklCcGxhM1NmOUtSVDVIT0dEOVdBeW5od3FQREI5b19TNzgtcURVb18zQnZXV2Rra3NUOA?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Entries Rally Ciudad de Termas de Rio Hondo 2026 eWRC-results.com",
+      "published_utc": "2026-11-24T07:16:30+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVlVhNVNXdnp0S0NtazR2VUdrSlRwTDlWXzBoTDktVjlTTU1DbHRfV2wyVzJYdGZHa19rSmN2VTdkakFxQ0VYaVlpTXFEeDNra1NkOElwWEx6REZMVklCcGxhM1NmOUtSVDVIT0dEOVdBeW5od3FQREI5b19TNzgtcURVb18zQnZXV2Rra3NUOA?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T07:16:30+00:00",
+          "title": "Entries Rally Ciudad de Termas de Rio Hondo 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "20ade2ea73b975f397b03623",
+      "topic": "F1",
+      "title": "Aston Martin: News, Results, Standings, Schedule | Page 6 of 119 - PlanetF1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SaDU5VVpHbTN3RGNGXzlZM2J6MWdvRWVEV3BNczktSFJLbkh6U0RoNnp3ZDdYOGJ0Q0ZYYUR3TTdJMjZiUmtLQXpxaWJHcmhXQ3F0TXkydw?oc=5",
+      "source": "PlanetF1",
+      "publisher": "PlanetF1",
+      "description": "Aston Martin: News, Results, Standings, Schedule | Page 6 of 119 PlanetF1",
+      "published_utc": "2026-11-23T23:00:01+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SaDU5VVpHbTN3RGNGXzlZM2J6MWdvRWVEV3BNczktSFJLbkh6U0RoNnp3ZDdYOGJ0Q0ZYYUR3TTdJMjZiUmtLQXpxaWJHcmhXQ3F0TXkydw?oc=5",
+          "source": "PlanetF1",
+          "publisher": "PlanetF1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T23:00:01+00:00",
+          "title": "Aston Martin: News, Results, Standings, Schedule | Page 6 of 119 - PlanetF1"
+        }
+      ]
+    },
+    {
+      "id": "c190e743b11d7451f21bc8f3",
+      "topic": "F1",
+      "title": "Radio Rewind: 2026 Las Vegas Grand Prix - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbVhvMENfMHdnVUdLWnF5N2FNODBwbXR3NE1SUVU0TU1SMTQ2UkZNSG0teEM2V2dQc1laOTZTT0c2Nm1GOENXX0txMTJOOUd5UWpJTjhFY01XdkVoajBmaGVSWTRXWXBZNExvaFB0YXYwZmdBZmVwTUxoTWdMbFNDTG1BRGVlUWdFbVZYTkM3cFhERlZSMkpz?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "Radio Rewind: 2026 Las Vegas Grand Prix Formula 1",
+      "published_utc": "2026-11-23T15:10:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbVhvMENfMHdnVUdLWnF5N2FNODBwbXR3NE1SUVU0TU1SMTQ2UkZNSG0teEM2V2dQc1laOTZTT0c2Nm1GOENXX0txMTJOOUd5UWpJTjhFY01XdkVoajBmaGVSWTRXWXBZNExvaFB0YXYwZmdBZmVwTUxoTWdMbFNDTG1BRGVlUWdFbVZYTkM3cFhERlZSMkpz?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T15:10:00+00:00",
+          "title": "Radio Rewind: 2026 Las Vegas Grand Prix - Formula 1"
+        }
+      ]
+    },
+    {
+      "id": "aa43a4a2b27f13c9ac8f1311",
+      "topic": "NASCAR",
+      "title": "Bubba Wallace through the years - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83RmFzU1RCVTVvWEt4cmg2OWxZWjlPZzRJOXVocDR3eWZrN21OMUw0X2dpWk9nT0sxeC12S1RkWmVtN1BtMFRCT1RxNVBwUUlVbU5HQXZacjY2Q2FOMFlwMFp4eFJ4MTdsSkRKa1BLUVc?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Bubba Wallace through the years NASCAR.com",
+      "published_utc": "2026-11-24T08:00:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83RmFzU1RCVTVvWEt4cmg2OWxZWjlPZzRJOXVocDR3eWZrN21OMUw0X2dpWk9nT0sxeC12S1RkWmVtN1BtMFRCT1RxNVBwUUlVbU5HQXZacjY2Q2FOMFlwMFp4eFJ4MTdsSkRKa1BLUVc?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T08:00:00+00:00",
+          "title": "Bubba Wallace through the years - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "3f7dee52e5bcc3ca60790316",
+      "topic": "F1",
+      "title": "‘I’d rather blow up the f***ing engine’: Gasly’s fury over cooling problems - RaceFans",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQXR6WmR2ekkzYkNWd3Y5dnBQdHhac1lJNEdEWlVEaEdyc2JfWU9wMk9FWGNIemNuMmFhQjdvYXlEMjk1RGtzLTNtcXN3b2lvdUxKZDlQWHZUUTVZcXlTX2Q1RmlPcU9nY29KU01CUEhaNHNWdmZtVEF0bGc0bjkzUFpTMWhwcl9jemZvMTNqVkZoM0Q5T0EzX3JQbllVYjhUZ2NLSmFzM3VpSGhlbEFz?oc=5",
+      "source": "RaceFans",
+      "publisher": "RaceFans",
+      "description": "‘I’d rather blow up the f***ing engine’: Gasly’s fury over cooling problems RaceFans",
+      "published_utc": "2026-11-24T10:13:49+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQXR6WmR2ekkzYkNWd3Y5dnBQdHhac1lJNEdEWlVEaEdyc2JfWU9wMk9FWGNIemNuMmFhQjdvYXlEMjk1RGtzLTNtcXN3b2lvdUxKZDlQWHZUUTVZcXlTX2Q1RmlPcU9nY29KU01CUEhaNHNWdmZtVEF0bGc0bjkzUFpTMWhwcl9jemZvMTNqVkZoM0Q5T0EzX3JQbllVYjhUZ2NLSmFzM3VpSGhlbEFz?oc=5",
+          "source": "RaceFans",
+          "publisher": "RaceFans",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T10:13:49+00:00",
+          "title": "‘I’d rather blow up the f***ing engine’: Gasly’s fury over cooling problems - RaceFans"
+        }
+      ]
+    },
+    {
+      "id": "cfa27e13aa118d733722357a",
+      "topic": "F1",
+      "title": "Keith Collantine - RaceFans",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8ta013ckd0dE1FczhZZFBPdUN4UGhVbFJnMGphRk42QnFLUmNzN2xkakVfelZ1VjRtcjQyVy1tZDVYSHpGdHFMMzU5NFF0cTFYblJibzl1di16MWNs?oc=5",
+      "source": "RaceFans",
+      "publisher": "RaceFans",
+      "description": "Keith Collantine RaceFans",
+      "published_utc": "2026-11-24T11:10:46+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8ta013ckd0dE1FczhZZFBPdUN4UGhVbFJnMGphRk42QnFLUmNzN2xkakVfelZ1VjRtcjQyVy1tZDVYSHpGdHFMMzU5NFF0cTFYblJibzl1di16MWNs?oc=5",
+          "source": "RaceFans",
+          "publisher": "RaceFans",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T11:10:46+00:00",
+          "title": "Keith Collantine - RaceFans"
         }
       ]
     }

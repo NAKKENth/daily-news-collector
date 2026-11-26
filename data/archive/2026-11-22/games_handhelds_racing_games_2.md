@@ -1,5 +1,4 @@
-# racing_games / 2026-11-22 / 候補 51–53
+# racing_games / 2026-11-22 / 候補 51–52
 
-- [\[IMG\] 2026 GT World Challenge Europe v1.3 - overtake.gg](https://news.google.com/rss/articles/CBMigAFBVV95cUxPcFRyZWRkU0Q0bDVaLTNrTTVrdy1ybHFYU3YyczVHSXZPekoxYll4ZEpIX01FSF94Uk5EYmJZQTF2aTR4ZW0wU3RKdHJ3YUhoQnZORjdiVk5IUloxYUpEZFpianl6XzVUdXE2TjFfWEhiVE4ycEpZRnBJMmZsSl9YVw?oc=5) — OverTake｜要確認｜2026-11-22T12:25:47+00:00 UTC｜discovery_index
 - [attack assist (when your racing line assist is blocked) - Updates - overtake.gg](https://news.google.com/rss/articles/CBMiowFBVV95cUxObnY5OExQYzI5TEVEbVpPQjQyZHhSVGFtVXVQOG1xR0NEeWtTQWtCNmxJdllFRWI3M0dIOHZBTDJ6dzVhNzRvODUyQU9tc1RXU1cyRkNlZ2FNb1ZsaEJwLWtNUjFRQ3NNaFBjc3g3NU1zdVlXZHFqSlpfVTVfbE5tWS1RZTFOS2dhcnNOakhIYnlvVHFyMWJWTWZaYU56QWZDUDR3?oc=5) — OverTake｜要確認｜2026-11-22T14:02:12+00:00 UTC｜discovery_index
 - [takeovert red bull racing - overtake.gg](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UTGhwU1hhT3FpOGJFNXpOSlRUMXZVemVGTzU5X2VHTkstSUxCOEh3ZDhkUHR4eGpXV0dOSU1zNFpUelBnV3IxYXNjc0lRX1Bhai1Pa3NKUXExcjA0SUxWVHhzd3V0dw?oc=5) — OverTake｜要確認｜2026-11-22T01:43:36+00:00 UTC｜discovery_index

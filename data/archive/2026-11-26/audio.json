@@ -1,0 +1,3250 @@
+{
+  "schema_version": 2,
+  "date_jst": "2026-11-26",
+  "group": "audio",
+  "title": "オーディオ",
+  "status": "candidate_collection_only",
+  "items": [
+    {
+      "id": "e7d3bc952a149478bd8e9f4a",
+      "topic": "wired",
+      "title": "GUSTARD C26 C26 Ultra 10MHz Audio Clock - shenzhenaudio",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CUzNYOVNRc1BkTV95ZUlwQnRJdEQ5am91c21pa0I5ek15OTdUdlhLOWtEYzQ2NUdNZkswMEl3NkNHUFpCQlVIckVUR2tmTTFYY3FLaHYtMUdHSDBKZVoyY1RpWDFuOVlhaHdFT2h0ZkFKaE9qRko1VmhiTG5sb2c?oc=5",
+      "source": "SHENZHENAUDIO",
+      "publisher": "shenzhenaudio",
+      "description": "GUSTARD C26 C26 Ultra 10MHz Audio Clock shenzhenaudio",
+      "published_utc": "2026-11-26T02:17:11+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CUzNYOVNRc1BkTV95ZUlwQnRJdEQ5am91c21pa0I5ek15OTdUdlhLOWtEYzQ2NUdNZkswMEl3NkNHUFpCQlVIckVUR2tmTTFYY3FLaHYtMUdHSDBKZVoyY1RpWDFuOVlhaHdFT2h0ZkFKaE9qRko1VmhiTG5sb2c?oc=5",
+          "source": "SHENZHENAUDIO",
+          "publisher": "shenzhenaudio",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T02:17:11+00:00",
+          "title": "GUSTARD C26 C26 Ultra 10MHz Audio Clock - shenzhenaudio"
+        }
+      ]
+    },
+    {
+      "id": "ed84b888e85cdd7f2c874fde",
+      "topic": "wired",
+      "title": "USB Interface - shenzhenaudio - shenzhenaudio",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaHczM1gzQkg3ejVqUkpMTmx4WnBrQzlsZ19tS2U1V1FHcEREcFNUbHE1ZGJkQWhOU0IybWJtTGdkVFkxZXhGM205STFEd09mYThRYUlfdHFwSzlqZG9HTUxZc3EtRDlmQlAydDNjNVJwQzlWVkpsU0tlVTBkd2IxVHNQeVBqT1VCaWcybDJuWVVvZFBiM3dwT1V6RXlCdDg?oc=5",
+      "source": "SHENZHENAUDIO",
+      "publisher": "shenzhenaudio",
+      "description": "USB Interface - shenzhenaudio shenzhenaudio",
+      "published_utc": "2026-11-25T21:40:01+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaHczM1gzQkg3ejVqUkpMTmx4WnBrQzlsZ19tS2U1V1FHcEREcFNUbHE1ZGJkQWhOU0IybWJtTGdkVFkxZXhGM205STFEd09mYThRYUlfdHFwSzlqZG9HTUxZc3EtRDlmQlAydDNjNVJwQzlWVkpsU0tlVTBkd2IxVHNQeVBqT1VCaWcybDJuWVVvZFBiM3dwT1V6RXlCdDg?oc=5",
+          "source": "SHENZHENAUDIO",
+          "publisher": "shenzhenaudio",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T21:40:01+00:00",
+          "title": "USB Interface - shenzhenaudio - shenzhenaudio"
+        }
+      ]
+    },
+    {
+      "id": "0cb298c2ac8011c599a717ee",
+      "topic": "tws",
+      "title": "WH-1000XM6 Best Wireless Noise Cancelling Headphones | Black - Hello Kitty Limited Edition - Sony Electronics",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53MDAwQ3BFWUR0RGZYNk9WLXpRdzNsZHl0ejZpYkxWMGN1WmQtSmNUTTBkNnpjSnlMa3NQRzBWSzZOZklQdXY1ZGctRDF6NU4wcGNPR2REZEl3ajhDRWxVLWtkd1RBZzFOQUk5c0NpRmltRmNOWi05NlhB?oc=5",
+      "source": "Sony Audio",
+      "publisher": "Sony Electronics",
+      "description": "WH-1000XM6 Best Wireless Noise Cancelling Headphones | Black - Hello Kitty Limited Edition Sony Electronics",
+      "published_utc": "2026-11-25T17:47:25+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53MDAwQ3BFWUR0RGZYNk9WLXpRdzNsZHl0ejZpYkxWMGN1WmQtSmNUTTBkNnpjSnlMa3NQRzBWSzZOZklQdXY1ZGctRDF6NU4wcGNPR2REZEl3ajhDRWxVLWtkd1RBZzFOQUk5c0NpRmltRmNOWi05NlhB?oc=5",
+          "source": "Sony Audio",
+          "publisher": "Sony Electronics",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T17:47:25+00:00",
+          "title": "WH-1000XM6 Best Wireless Noise Cancelling Headphones | Black - Hello Kitty Limited Edition - Sony Electronics"
+        }
+      ]
+    },
+    {
+      "id": "4bb09f4e438ada7b39e1ceb6",
+      "topic": "tws",
+      "title": "Bluetooth® High Data Throughput communications guide - Bluetooth® Technology Website",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTHpUMHh6RWxnMGUwTFVJRXdvNGtib3R4Wjd5M19PU0Rod190Z0RLWFEzSzNkR0hCMFVnRlBxUi1KY2REb09nRDZTZTVsYkc5WWdNSXN0cThWMHZpOW10WTZPRjlrd2pNOFItOWUxTUN4QWN5bzNseUh5TUk3TjQxa2Rjb0NIWGVWYmVNWDZFN0lGN2ZBYVRz?oc=5",
+      "source": "Bluetooth SIG",
+      "publisher": "Bluetooth® Technology Website",
+      "description": "Bluetooth® High Data Throughput communications guide Bluetooth® Technology Website",
+      "published_utc": "2026-11-26T11:55:39+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTHpUMHh6RWxnMGUwTFVJRXdvNGtib3R4Wjd5M19PU0Rod190Z0RLWFEzSzNkR0hCMFVnRlBxUi1KY2REb09nRDZTZTVsYkc5WWdNSXN0cThWMHZpOW10WTZPRjlrd2pNOFItOWUxTUN4QWN5bzNseUh5TUk3TjQxa2Rjb0NIWGVWYmVNWDZFN0lGN2ZBYVRz?oc=5",
+          "source": "Bluetooth SIG",
+          "publisher": "Bluetooth® Technology Website",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T11:55:39+00:00",
+          "title": "Bluetooth® High Data Throughput communications guide - Bluetooth® Technology Website"
+        }
+      ]
+    },
+    {
+      "id": "f139943ba66bc0dc4388b18d",
+      "topic": "tws",
+      "title": "Healthcare & wellness blueprint - Bluetooth - Bluetooth® Technology Website",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15dmx0QTZOcjJyX0ltcEl6OEpkUnN0cnUzYVhMbHN3dGpleVNxNmxPTXBOeWdteF9xbWRtSS10N3V0aW04akZ0dWQyMlhtaTkwYjh1T2dRUFhWYnJ1MWRwc1Uta253aXB5RWZPQzd2Rmo?oc=5",
+      "source": "Bluetooth SIG",
+      "publisher": "Bluetooth® Technology Website",
+      "description": "Healthcare & wellness blueprint - Bluetooth Bluetooth® Technology Website",
+      "published_utc": "2026-11-25T16:29:36+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "ea713170a74d",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15dmx0QTZOcjJyX0ltcEl6OEpkUnN0cnUzYVhMbHN3dGpleVNxNmxPTXBOeWdteF9xbWRtSS10N3V0aW04akZ0dWQyMlhtaTkwYjh1T2dRUFhWYnJ1MWRwc1Uta253aXB5RWZPQzd2Rmo?oc=5",
+          "source": "Bluetooth SIG",
+          "publisher": "Bluetooth® Technology Website",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T16:29:36+00:00",
+          "title": "Healthcare & wellness blueprint - Bluetooth - Bluetooth® Technology Website"
+        }
+      ]
+    },
+    {
+      "id": "5db7f7e63c8a769351e8470d",
+      "topic": "tws",
+      "title": "Automotive blueprint - Bluetooth - Bluetooth® Technology Website",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KM3Q0SWZ6QXhEek83QldOdGF3Y3JTNy1Fc3RIaUJtRlE4VXM2WndXZk1vOXlucF9rcEpRTTRPajJvNWgyNzBFX1V2SFZ3WkdnTjExM1V3eXZXcTBHdkJkSVQ1c2o?oc=5",
+      "source": "Bluetooth SIG",
+      "publisher": "Bluetooth® Technology Website",
+      "description": "Automotive blueprint - Bluetooth Bluetooth® Technology Website",
+      "published_utc": "2026-11-25T17:18:49+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "8a3eab521609",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KM3Q0SWZ6QXhEek83QldOdGF3Y3JTNy1Fc3RIaUJtRlE4VXM2WndXZk1vOXlucF9rcEpRTTRPajJvNWgyNzBFX1V2SFZ3WkdnTjExM1V3eXZXcTBHdkJkSVQ1c2o?oc=5",
+          "source": "Bluetooth SIG",
+          "publisher": "Bluetooth® Technology Website",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T17:18:49+00:00",
+          "title": "Automotive blueprint - Bluetooth - Bluetooth® Technology Website"
+        }
+      ]
+    },
+    {
+      "id": "344cfbb9203b18829db4c472",
+      "topic": "tws",
+      "title": "Working Group events calendar - Bluetooth - Bluetooth® Technology Website",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SN0RYR094UXNOMTdLTDhDWWVadUotZEU1UnltNkxKQUdrRFdRQ09XT1ZVaDZuVFB6Vi1vQW1DZ2I1bG1NYmFWaU9rSkRuSkZ0UGQ5eXlmNFVUWnowdjRrOUhHa0pWc2s?oc=5",
+      "source": "Bluetooth SIG",
+      "publisher": "Bluetooth® Technology Website",
+      "description": "Working Group events calendar - Bluetooth Bluetooth® Technology Website",
+      "published_utc": "2026-11-26T11:55:05+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SN0RYR094UXNOMTdLTDhDWWVadUotZEU1UnltNkxKQUdrRFdRQ09XT1ZVaDZuVFB6Vi1vQW1DZ2I1bG1NYmFWaU9rSkRuSkZ0UGQ5eXlmNFVUWnowdjRrOUhHa0pWc2s?oc=5",
+          "source": "Bluetooth SIG",
+          "publisher": "Bluetooth® Technology Website",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T11:55:05+00:00",
+          "title": "Working Group events calendar - Bluetooth - Bluetooth® Technology Website"
+        }
+      ]
+    },
+    {
+      "id": "29062b528c2303cbcf58f7c6",
+      "topic": "tws",
+      "title": "Automotive blueprint - Bluetooth - Bluetooth® Technology Website",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Oa2xuU00yVW8xdi1tYm9yVjdSaWQzZ3pwR0E4RHEyNmxTZHZORXJ4c2FJWnlBRUFnRUE3QVBOUWs5ZFk0WGxGN2dqYUhxWVVSOC1SNV9hYnRuYlBYaE1iTE11Mmw5Z1p0MUZUdw?oc=5",
+      "source": "Bluetooth SIG",
+      "publisher": "Bluetooth® Technology Website",
+      "description": "Automotive blueprint - Bluetooth Bluetooth® Technology Website",
+      "published_utc": "2026-11-25T22:47:33+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "8a3eab521609",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Oa2xuU00yVW8xdi1tYm9yVjdSaWQzZ3pwR0E4RHEyNmxTZHZORXJ4c2FJWnlBRUFnRUE3QVBOUWs5ZFk0WGxGN2dqYUhxWVVSOC1SNV9hYnRuYlBYaE1iTE11Mmw5Z1p0MUZUdw?oc=5",
+          "source": "Bluetooth SIG",
+          "publisher": "Bluetooth® Technology Website",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T22:47:33+00:00",
+          "title": "Automotive blueprint - Bluetooth - Bluetooth® Technology Website"
+        }
+      ]
+    },
+    {
+      "id": "e83e15ee6415f471f03f7e9d",
+      "topic": "tws",
+      "title": "Nothing Ear (note) has to prove the charging case isn’t just another gimmick",
+      "url": "https://www.soundguys.com/nothing-ear-note-news-166842",
+      "source": "SoundGuys",
+      "publisher": "SoundGuys",
+      "description": "The Ear (note) turns the charging case into an AI notetaker. After using the Ear (3), here's what it needs to get right.",
+      "published_utc": "2026-11-25T18:45:16+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.soundguys.com/nothing-ear-note-news-166842",
+          "source": "SoundGuys",
+          "publisher": "SoundGuys",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T18:45:16+00:00",
+          "title": "Nothing Ear (note) has to prove the charging case isn’t just another gimmick"
+        }
+      ]
+    },
+    {
+      "id": "8f141f786ad90fcaded9f9aa",
+      "topic": "wired",
+      "title": "Bose QuietComfort Ultra Headphones (2nd Gen) review: Boring refresh or notable upgrade?",
+      "url": "https://www.soundguys.com/bose-quietcomfort-ultra-headphones-2nd-gen-review-boring-refresh-or-notable-upgrade-144545",
+      "source": "SoundGuys",
+      "publisher": "SoundGuys",
+      "description": "It's not often a set of headphones gets a straight refresh — so is the Bose QuietComfort Ultra Headphones (2nd Gen.) any good?",
+      "published_utc": "2026-11-25T18:10:29+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://www.soundguys.com/bose-quietcomfort-ultra-headphones-2nd-gen-review-boring-refresh-or-notable-upgrade-144545",
+          "source": "SoundGuys",
+          "publisher": "SoundGuys",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-25T18:10:29+00:00",
+          "title": "Bose QuietComfort Ultra Headphones (2nd Gen) review: Boring refresh or notable upgrade?"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T18:10:29+00:00",
+      "article_modified_raw": "2026-11-25T18:10:29+00:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "f942ee109018b5832e80a54b",
+      "topic": "wired",
+      "title": "Special Edition Headphones - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BN1NaWElkSlBpWF9OM3dTa3ZOVmtSazZKelZ5ODQwd3Qwc205X282b1g1Sy1uY0xEVklRdmxUSEdyUkVmVUpHT1Y3SFIzMnpwaFhSLU1UWGJGbDQxNXlVZkhQeHd6TlAzUUVhNXVPRW9KSWdMTlpkLTRB?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Special Edition Headphones Head-Fi.org",
+      "published_utc": "2026-11-25T17:12:19+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BN1NaWElkSlBpWF9OM3dTa3ZOVmtSazZKelZ5ODQwd3Qwc205X282b1g1Sy1uY0xEVklRdmxUSEdyUkVmVUpHT1Y3SFIzMnpwaFhSLU1UWGJGbDQxNXlVZkhQeHd6TlAzUUVhNXVPRW9KSWdMTlpkLTRB?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T17:12:19+00:00",
+          "title": "Special Edition Headphones - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "e51837805637d8c773b52a5e",
+      "topic": "wired",
+      "title": "Symphony Ears Hexad 2 Bass+ Version - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMDVUZGEyOVJGWFNObzBoYm9McW5JZlNmSFhvNnB3d2hLeEZtOXhJbklnOHM3TkY0Y3Y3eDJBUV9kVWNFSWhqdEowbFJWYmJUZFRSY21rbWxyWXRLSnVFNWFHQWVWZGdsUHZidTNnRjZqeHZRUk5yWGVadjI4RVBSQ1lJOWk?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Symphony Ears Hexad 2 Bass+ Version Head-Fi.org",
+      "published_utc": "2026-11-25T17:12:19+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMDVUZGEyOVJGWFNObzBoYm9McW5JZlNmSFhvNnB3d2hLeEZtOXhJbklnOHM3TkY0Y3Y3eDJBUV9kVWNFSWhqdEowbFJWYmJUZFRSY21rbWxyWXRLSnVFNWFHQWVWZGdsUHZidTNnRjZqeHZRUk5yWGVadjI4RVBSQ1lJOWk?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T17:12:19+00:00",
+          "title": "Symphony Ears Hexad 2 Bass+ Version - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "0a4b6e9a7c9358ed921494a3",
+      "topic": "portable_dac",
+      "title": "Weiss DAC 205 with SBooster Power Supply - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY1NndTRCMTJSZ0tFUG00Q1RQcjZtSC1sNTZxb2QyQmxiekNqWXFtUzNMalJvUHR0d1htVWp2RXFBVExneGpKeGdfaGZ6T0J4bUdHYW1OV0w5azBITENtVWFNV3g3eExFXzRpbUM5LTdiR2VKNkhVckNJOXNhMnhReUl6dFlzV0g3OGx2cw?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Weiss DAC 205 with SBooster Power Supply Head-Fi.org",
+      "published_utc": "2026-11-25T15:27:45+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY1NndTRCMTJSZ0tFUG00Q1RQcjZtSC1sNTZxb2QyQmxiekNqWXFtUzNMalJvUHR0d1htVWp2RXFBVExneGpKeGdfaGZ6T0J4bUdHYW1OV0w5azBITENtVWFNV3g3eExFXzRpbUM5LTdiR2VKNkhVckNJOXNhMnhReUl6dFlzV0g3OGx2cw?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T15:27:45+00:00",
+          "title": "Weiss DAC 205 with SBooster Power Supply - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "632771f7cf967e8d05277dc0",
+      "topic": "wired",
+      "title": "ZMF Caldera Open Ltd / Stabilized - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdWtjVVZmM0UybmM2eFg0alVRNVFNSVRKakp1TE1PTVQwZnNYNk5feDNGREYweTVBSF9IMUtHR3AzUGpWR3p4QzlhZGY4YUZvSjROcFJUVFNrb3lBS2ZWckhsUTdBMURhTmJTdVFEbWRxVFBEdExMQkx1MGRkVG1iWA?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "ZMF Caldera Open Ltd / Stabilized Head-Fi.org",
+      "published_utc": "2026-11-25T17:12:19+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdWtjVVZmM0UybmM2eFg0alVRNVFNSVRKakp1TE1PTVQwZnNYNk5feDNGREYweTVBSF9IMUtHR3AzUGpWR3p4QzlhZGY4YUZvSjROcFJUVFNrb3lBS2ZWckhsUTdBMURhTmJTdVFEbWRxVFBEdExMQkx1MGRkVG1iWA?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T17:12:19+00:00",
+          "title": "ZMF Caldera Open Ltd / Stabilized - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "4eee98dd6301b4407d9400dd",
+      "topic": "wired",
+      "title": "ON HOLD - Aune BX2 Magnum and BP1 Power Supply Bundle - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMmxpbFJEanVOZE1GX0Q3VFg2R2VhdVNkWGFUUW84bGNIYW84aU5yOW1vYy1CUi1RNEl0LUJfMVdBdnRuQ09iZ2JPanNiRUFBNUpKN0Q3UTdLU0RDaXlrekFFT0hMa19OcTVTdHZPNHgzSDBFdG50S0FUdEtuZEI5cW9LMTVwRGQ1UDA5bGp3TjFMbEVtRUFEMVcwZw?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "ON HOLD - Aune BX2 Magnum and BP1 Power Supply Bundle Head-Fi.org",
+      "published_utc": "2026-11-25T16:51:07+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMmxpbFJEanVOZE1GX0Q3VFg2R2VhdVNkWGFUUW84bGNIYW84aU5yOW1vYy1CUi1RNEl0LUJfMVdBdnRuQ09iZ2JPanNiRUFBNUpKN0Q3UTdLU0RDaXlrekFFT0hMa19OcTVTdHZPNHgzSDBFdG50S0FUdEtuZEI5cW9LMTVwRGQ1UDA5bGp3TjFMbEVtRUFEMVcwZw?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T16:51:07+00:00",
+          "title": "ON HOLD - Aune BX2 Magnum and BP1 Power Supply Bundle - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "84bd70f9bcb4b4c095a9d381",
+      "topic": "wired",
+      "title": "TRI Starlight - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Lc1BrenRZS1duYXRmam94Q2dwRnpXR3laanFlTTBFMVNzZG9oMTZLYmNOclg1MFh1R0pTMl9XOU1xN2NKNDhyN3FmNjdxZ2RvNlZuNVFXUnJaeERQQU00UzFadHhiWkE0?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "TRI Starlight Head-Fi.org",
+      "published_utc": "2026-11-25T15:27:45+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Lc1BrenRZS1duYXRmam94Q2dwRnpXR3laanFlTTBFMVNzZG9oMTZLYmNOclg1MFh1R0pTMl9XOU1xN2NKNDhyN3FmNjdxZ2RvNlZuNVFXUnJaeERQQU00UzFadHhiWkE0?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T15:27:45+00:00",
+          "title": "TRI Starlight - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "7fd299b51ef2688d46c88be3",
+      "topic": "wired",
+      "title": "Shanling Regal - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tRzQ0Z0xLTW5JeXVDSUZ3TlY0dzJCTmdlUDl2akFIYnFHVEtRam15bXdSNm5OVFhBRVpqSXQwOVNjb1BkTFBISlpCZzZWS3FhaUt2MUI4YnlrVEsxZXNXRmFaczhpdTNfRFE?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Shanling Regal Head-Fi.org",
+      "published_utc": "2026-11-25T15:27:45+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tRzQ0Z0xLTW5JeXVDSUZ3TlY0dzJCTmdlUDl2akFIYnFHVEtRam15bXdSNm5OVFhBRVpqSXQwOVNjb1BkTFBISlpCZzZWS3FhaUt2MUI4YnlrVEsxZXNXRmFaczhpdTNfRFE?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T15:27:45+00:00",
+          "title": "Shanling Regal - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "f9df41677a9ab3581fcc00ac",
+      "topic": "wired",
+      "title": "HIFIMAN HE600 - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VME45aEtGLW1zNE9uS0lyU0l4aTFmZjBCWlZQVjhGbE95Q1VPWnkyRTJsaHNEYThKN2ZnVDRlWlZiSUZsUkpjREFUdk5JYUNYNU5iZ3BoWWNjLTZJZkV6d2o5S0dGQTNH?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "HIFIMAN HE600 Head-Fi.org",
+      "published_utc": "2026-11-25T17:12:20+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VME45aEtGLW1zNE9uS0lyU0l4aTFmZjBCWlZQVjhGbE95Q1VPWnkyRTJsaHNEYThKN2ZnVDRlWlZiSUZsUkpjREFUdk5JYUNYNU5iZ3BoWWNjLTZJZkV6d2o5S0dGQTNH?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T17:12:20+00:00",
+          "title": "HIFIMAN HE600 - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "5711d4ea97a294f4c0d59a00",
+      "topic": "wired",
+      "title": "Unique Melody Mext - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyd1JWLVJmdS04aFMxOGROazBWNFNIZU9vTmExeUdZTjBZVXZfWEJtYy1UVDJJb2FZUDFFVUlXWFo5VHRCNUpaLWhwVk94OVRnSUdzMmd0alFVS0pmSEUtclU4c1FrWHczTGpYLUx5WQ?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Unique Melody Mext Head-Fi.org",
+      "published_utc": "2026-11-25T15:27:45+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyd1JWLVJmdS04aFMxOGROazBWNFNIZU9vTmExeUdZTjBZVXZfWEJtYy1UVDJJb2FZUDFFVUlXWFo5VHRCNUpaLWhwVk94OVRnSUdzMmd0alFVS0pmSEUtclU4c1FrWHczTGpYLUx5WQ?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T15:27:45+00:00",
+          "title": "Unique Melody Mext - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "3c0c90cc78d0fd746395e27c",
+      "topic": "tws",
+      "title": "Gaming - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwWlJnSkdoR191UUdWX2ZfTGpPeUNHRndHOHZWcGp3YWNMSE51Z3R4Y2pPWlpRdGRaRW9FS3ZKaGRGb1pVOUU1cXV1Nk1sMTJkY3c?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Gaming Android Authority",
+      "published_utc": "2026-11-25T15:30:52+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwWlJnSkdoR191UUdWX2ZfTGpPeUNHRndHOHZWcGp3YWNMSE51Z3R4Y2pPWlpRdGRaRW9FS3ZKaGRGb1pVOUU1cXV1Nk1sMTJkY3c?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T15:30:52+00:00",
+          "title": "Gaming - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "354c3b8160e2e80264ad0e03",
+      "topic": "tws",
+      "title": "Logitech MX Master 3S Bluetooth Edition hits a record low - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORU5JUjBteUJ3M2FGVm9TeV9CNk9PTzAxQ18weTRPYTVWdTVhSlJzTy1yN2h2Qkw1WDBKaEx4dC1uWGl0NmJldVpsT2EtdHVucllLRk1QQWU1VWFJMGJ5NkNGNjZwR1FOMksxMG93NExkZEdCR29PN1JIWVdHS2c0cG1XR24?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Logitech MX Master 3S Bluetooth Edition hits a record low Android Authority",
+      "published_utc": "2026-11-25T17:56:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORU5JUjBteUJ3M2FGVm9TeV9CNk9PTzAxQ18weTRPYTVWdTVhSlJzTy1yN2h2Qkw1WDBKaEx4dC1uWGl0NmJldVpsT2EtdHVucllLRk1QQWU1VWFJMGJ5NkNGNjZwR1FOMksxMG93NExkZEdCR29PN1JIWVdHS2c0cG1XR24?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T17:56:00+00:00",
+          "title": "Logitech MX Master 3S Bluetooth Edition hits a record low - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "f0a45f1327fff9e123601690",
+      "topic": "tws",
+      "title": "Nothing Ear note teaser shows off its earbuds and unique charging case - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZmFNaU1wSGlfRXUyMjRHNG5nLUU3eVNNUkRRUTZtczBLVlgwMk1PVy15MVFsems1cDhNT2ZRMzFaV2ZlaVFkcEFiM1ZsUUJoMmRDUHltajVpYnpWTTVjakhiSjFMTEl1MDMxa1BGT3R6cWRVTlhBekZIdnhtZ1piN2xjNVNpaEFteGpBTG45YU9LU3VzZFE?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Nothing Ear note teaser shows off its earbuds and unique charging case Android Authority",
+      "published_utc": "2026-11-25T16:29:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZmFNaU1wSGlfRXUyMjRHNG5nLUU3eVNNUkRRUTZtczBLVlgwMk1PVy15MVFsems1cDhNT2ZRMzFaV2ZlaVFkcEFiM1ZsUUJoMmRDUHltajVpYnpWTTVjakhiSjFMTEl1MDMxa1BGT3R6cWRVTlhBekZIdnhtZ1piN2xjNVNpaEFteGpBTG45YU9LU3VzZFE?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T16:29:00+00:00",
+          "title": "Nothing Ear note teaser shows off its earbuds and unique charging case - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "f41495ef35bbd13951b2cd74",
+      "topic": "tws",
+      "title": "Features & Opinions - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BeE9BaGgwUV85VXJPc3VFMEFUZ25naUtfWmRfb3BqVDBaNXZTUHJxVkZIZURzbUpEMnF2X0FCT196RnlXVnA5NnZiQ01LaVlOaFVQUQ?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Features & Opinions Android Authority",
+      "published_utc": "2026-11-26T11:19:13+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BeE9BaGgwUV85VXJPc3VFMEFUZ25naUtfWmRfb3BqVDBaNXZTUHJxVkZIZURzbUpEMnF2X0FCT196RnlXVnA5NnZiQ01LaVlOaFVQUQ?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T11:19:13+00:00",
+          "title": "Features & Opinions - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "e49d88de810abb111e27446e",
+      "topic": "wired",
+      "title": "HyperX Cloud Stinger 3 gaming headset drops to a record-low $29.99 - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qYkladXN3S0J1a1FrYllOYWNuMHllUUM2bElqV0ZxQjdyazk2RktuX3I5RUt3Y1d6UmpjcjFSUHByZjFDNjVXaG96Ykt6S0NOS3N5a2hsT29jQkc3SWxIQU1IRWVpOW5LMWZiRmlnRi11OXFhSE44ZQ?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "HyperX Cloud Stinger 3 gaming headset drops to a record-low $29.99 Android Authority",
+      "published_utc": "2026-11-25T15:48:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qYkladXN3S0J1a1FrYllOYWNuMHllUUM2bElqV0ZxQjdyazk2RktuX3I5RUt3Y1d6UmpjcjFSUHByZjFDNjVXaG96Ykt6S0NOS3N5a2hsT29jQkc3SWxIQU1IRWVpOW5LMWZiRmlnRi11OXFhSE44ZQ?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T15:48:00+00:00",
+          "title": "HyperX Cloud Stinger 3 gaming headset drops to a record-low $29.99 - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "e66df2dbc92baec618986d6e",
+      "topic": "tws",
+      "title": "CMF Watch 3 Pro hits a new low at just $55 - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjNTBjM2pUcnU0UHBSNlBtNDh5dDFCTGVEZHNISGh4VHpDUXFUODZtMS13UVhWWm8zekhNcDhManE4ck5pYmpQRk8zSEVVeUgtMHExMUJqUlZrYWJNazJLSTd6UHpYZmIwR0RjQ3JjQ3lfVS1xSDZNRkpDbkFlZw?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "CMF Watch 3 Pro hits a new low at just $55 Android Authority",
+      "published_utc": "2026-11-25T16:20:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjNTBjM2pUcnU0UHBSNlBtNDh5dDFCTGVEZHNISGh4VHpDUXFUODZtMS13UVhWWm8zekhNcDhManE4ck5pYmpQRk8zSEVVeUgtMHExMUJqUlZrYWJNazJLSTd6UHpYZmIwR0RjQ3JjQ3lfVS1xSDZNRkpDbkFlZw?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T16:20:00+00:00",
+          "title": "CMF Watch 3 Pro hits a new low at just $55 - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "3242bc23a8996aceb6430ce6",
+      "topic": "tws",
+      "title": "Apple AirPods Max 2 review: Whatever happened to thinking different?",
+      "url": "https://www.soundguys.com/apple-airpods-max-2-review-155613",
+      "source": "SoundGuys",
+      "publisher": "SoundGuys",
+      "description": "Apple AirPods Max 2 review: They look just like their predecessor, so we took the headphones into our lab to see what's new under the hood.",
+      "published_utc": "2026-11-25T19:43:52+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://www.soundguys.com/apple-airpods-max-2-review-155613",
+          "source": "SoundGuys",
+          "publisher": "SoundGuys",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-25T19:43:52+00:00",
+          "title": "Apple AirPods Max 2 review: Whatever happened to thinking different?"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T19:43:52+00:00",
+      "article_modified_raw": "2026-11-25T19:43:52+00:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "63b6880ffca85ea044aebc33",
+      "topic": "tws",
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "source": "The Verge",
+      "publisher": "The Verge",
+      "description": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes with a \"Talk\" button that you […]",
+      "published_utc": "2026-11-25T16:00:59+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "オーディオへ再分類",
+      "sources": [
+        {
+          "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+          "source": "The Verge",
+          "publisher": "The Verge",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T16:00:59+00:00",
+          "title": "Nothing offers a full look at its AI earbuds and charging case"
+        }
+      ]
+    },
+    {
+      "id": "7e44c54201d76620b2234688",
+      "topic": "tws",
+      "title": "Member Summit + UPF Testing: Bellevue 2026 - Bluetooth - Bluetooth® Technology Website",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wNG9TUnZHdnNtb2syWFZCeVExYTJ3dmx0dGx2WG4yRTI2ZWI1RnhhaWFpNjY2TUtCblhYZGRiOGlNSHh4YVVoR2J6b1h0b3Q4WXozOGFoVmx0dlAwb0lXVHEweW5ac3FDLW9xUzhzd0l0RF8xS3phSi11Y3Zldw?oc=5",
+      "source": "Bluetooth SIG",
+      "publisher": "Bluetooth® Technology Website",
+      "description": "Member Summit + UPF Testing: Bellevue 2026 - Bluetooth Bluetooth® Technology Website",
+      "published_utc": "2026-11-25T19:37:24+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wNG9TUnZHdnNtb2syWFZCeVExYTJ3dmx0dGx2WG4yRTI2ZWI1RnhhaWFpNjY2TUtCblhYZGRiOGlNSHh4YVVoR2J6b1h0b3Q4WXozOGFoVmx0dlAwb0lXVHEweW5ac3FDLW9xUzhzd0l0RF8xS3phSi11Y3Zldw?oc=5",
+          "source": "Bluetooth SIG",
+          "publisher": "Bluetooth® Technology Website",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T19:37:24+00:00",
+          "title": "Member Summit + UPF Testing: Bellevue 2026 - Bluetooth - Bluetooth® Technology Website"
+        }
+      ]
+    },
+    {
+      "id": "5774b00d1c109e306bed4eb6",
+      "topic": "tws",
+      "title": "Is the JBL Soundgear collar flexible? - JBL",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQjZTbUE3SkZRcWhnMmJUdDU1QWwzdVM2UHFKZlVKRlIzel9ZdnZXMFloYXdGVDlLdXBKQVFuRDNydlhVSzJfOU1ESlBYRGd5M0stclBZODVHZnJmOXVvUTM0cEd0Vkl5dVkyblV6cG9ZNTd6YmgzUVVYeWtDRVZxUTg4SmwwQTNXUzR5b244aVA5NGZ3TVZ3?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "Is the JBL Soundgear collar flexible? JBL",
+      "published_utc": "2026-11-25T16:42:45+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQjZTbUE3SkZRcWhnMmJUdDU1QWwzdVM2UHFKZlVKRlIzel9ZdnZXMFloYXdGVDlLdXBKQVFuRDNydlhVSzJfOU1ESlBYRGd5M0stclBZODVHZnJmOXVvUTM0cEd0Vkl5dVkyblV6cG9ZNTd6YmgzUVVYeWtDRVZxUTg4SmwwQTNXUzR5b244aVA5NGZ3TVZ3?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T16:42:45+00:00",
+          "title": "Is the JBL Soundgear collar flexible? - JBL"
+        }
+      ]
+    },
+    {
+      "id": "5465e122c530e8f165d54eaa",
+      "topic": "tws",
+      "title": "Product Registration - JBL",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWEdiYzh4Q0RnZjB6Z0VNMmFxdTZCR1JCWW5TZ1JSeVFvTGhNZnhRR2c4U3Y5QkxlZmxqa044TkU0ZlEyTW5UZU5OZmpOZi1obXhjMDlOY2dzbjBXS0ZxNDNwUFNBLXZwSl9KWm1GbUZwZ1N6Qk9XYjNqbTFFMFgyaGRnVmRvTmpOOTF2dW5KSnVrb2NNaWYw?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "Product Registration JBL",
+      "published_utc": "2026-11-25T18:21:51+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWEdiYzh4Q0RnZjB6Z0VNMmFxdTZCR1JCWW5TZ1JSeVFvTGhNZnhRR2c4U3Y5QkxlZmxqa044TkU0ZlEyTW5UZU5OZmpOZi1obXhjMDlOY2dzbjBXS0ZxNDNwUFNBLXZwSl9KWm1GbUZwZ1N6Qk9XYjNqbTFFMFgyaGRnVmRvTmpOOTF2dW5KSnVrb2NNaWYw?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T18:21:51+00:00",
+          "title": "Product Registration - JBL"
+        }
+      ]
+    },
+    {
+      "id": "19aa8ed5313605ad3e25e98c",
+      "topic": "wired",
+      "title": "「初めてのJBLスピーカー」に最適。JBLのプロフェッショナル向けモニター「305P MkIII」",
+      "url": "http://www.phileweb.com/review/article/202611/26/6752.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "アクティブスピーカーの注目プロダクトを紹介する連載＜アクティブスピーカー最前線＞、今回は、JBLのプロフェッショナル向けシリーズから「305P MkIII」を取り上げる。",
+      "published_utc": "2026-11-25T15:53:41+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/review/article/202611/26/6752.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-25T15:53:41+00:00",
+          "title": "「初めてのJBLスピーカー」に最適。JBLのプロフェッショナル向けモニター「305P MkIII」"
+        }
+      ]
+    },
+    {
+      "id": "5ccbc9b4f21242f2b13ca1b3",
+      "topic": "wired",
+      "title": "TimeEar LumiCraft 2 - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxWWwySmpfSVNYLVQta016RjZZSW5zaXBTSzFjenlnTy1NZXpVVUx1UkhYaWNnNHlqTEpvMFZXVHBPdjE0TXZTLU83bnJBTEEwR0NSVjN2dDhxQnczbGc2SVhzUWlBaGdPazNn?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "TimeEar LumiCraft 2 Head-Fi.org",
+      "published_utc": "2026-11-25T20:07:30+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxWWwySmpfSVNYLVQta016RjZZSW5zaXBTSzFjenlnTy1NZXpVVUx1UkhYaWNnNHlqTEpvMFZXVHBPdjE0TXZTLU83bnJBTEEwR0NSVjN2dDhxQnczbGc2SVhzUWlBaGdPazNn?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T20:07:30+00:00",
+          "title": "TimeEar LumiCraft 2 - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "b5ede24c19a351b6ba097c4e",
+      "topic": "wired",
+      "title": "Penon Archangel - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tTmNHU2pMcWZBX3VrSllic2g5dmZNSW01cDB6TGFnd3F5SFZKVHYxVDdzNmFYUHdQZ0c2YUlPNURZd00xSndDTWtBTXhRRUd1SVFKekd1RDZaOWxxbDJxNWxIVWZRYlkwTVZz?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Penon Archangel Head-Fi.org",
+      "published_utc": "2026-11-25T19:37:09+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tTmNHU2pMcWZBX3VrSllic2g5dmZNSW01cDB6TGFnd3F5SFZKVHYxVDdzNmFYUHdQZ0c2YUlPNURZd00xSndDTWtBTXhRRUd1SVFKekd1RDZaOWxxbDJxNWxIVWZRYlkwTVZz?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T19:37:09+00:00",
+          "title": "Penon Archangel - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "299939dd8fb69f953c531301",
+      "topic": "wired",
+      "title": "FINAL Audio A10000 - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53MzdncHdWcnlZeXNCY2JNR3lPNi1fbXFFTHIwLUJzUXFON3ZLRjhiMEFBblVtTGI2RlN1ckFud2FpUk5fZl9VSk5XRnZPNk9iZ29ZNV9hM2NBM3lIVTNDcy1sa1V3MmdPWDRXc05nTQ?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "FINAL Audio A10000 Head-Fi.org",
+      "published_utc": "2026-11-25T19:37:09+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53MzdncHdWcnlZeXNCY2JNR3lPNi1fbXFFTHIwLUJzUXFON3ZLRjhiMEFBblVtTGI2RlN1ckFud2FpUk5fZl9VSk5XRnZPNk9iZ29ZNV9hM2NBM3lIVTNDcy1sa1V3MmdPWDRXc05nTQ?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T19:37:09+00:00",
+          "title": "FINAL Audio A10000 - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "f1dacf11ab3e04122bdb53ca",
+      "topic": "wired",
+      "title": "Shanling Regal - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IUmxfRmhITjVDUGNPUlVqd09McmxPZnVQRGFqTm8ySmFZN1hwV0dsTHZHRkpHS1BMeUNsT0w5SF9ELWh3dWZrNmJrcjZHWlhfN0pndDMzcmY0b25oUDZBUXVlUWtmSTBzR0E?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Shanling Regal Head-Fi.org",
+      "published_utc": "2026-11-25T19:37:09+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IUmxfRmhITjVDUGNPUlVqd09McmxPZnVQRGFqTm8ySmFZN1hwV0dsTHZHRkpHS1BMeUNsT0w5SF9ELWh3dWZrNmJrcjZHWlhfN0pndDMzcmY0b25oUDZBUXVlUWtmSTBzR0E?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T19:37:09+00:00",
+          "title": "Shanling Regal - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "dc2f0d7c213eb6ed40577bcc",
+      "topic": "wired",
+      "title": "64 Audio Trio - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53U25DLWtMUVAwVkxTWWd3alM4WUJSSFl0R3pldmlia3ZnS3c0QlJxTEZCSHVMZmZCcVhUS29IRzQybk85eFBUODRRbHhaVmdnTklGZ0xRcGw5VHU5RmlwWnI2Z2R6QWhu?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "64 Audio Trio Head-Fi.org",
+      "published_utc": "2026-11-25T19:37:10+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53U25DLWtMUVAwVkxTWWd3alM4WUJSSFl0R3pldmlia3ZnS3c0QlJxTEZCSHVMZmZCcVhUS29IRzQybk85eFBUODRRbHhaVmdnTklGZ0xRcGw5VHU5RmlwWnI2Z2R6QWhu?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T19:37:10+00:00",
+          "title": "64 Audio Trio - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "6e78c2aa40821b32ddfb6e5e",
+      "topic": "wired",
+      "title": "TRI Starlight - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zX3BuOU0xR29adG1Rek1tS25qVE5jdXItSjBHOW5kWm4yck5Kc1Rzb1lHY3BWSHBNQ3R5MXNlRml4bXRMdkh5aFIyRnlzYjlOSU5XMDFpYUthcExvRUp1VEh2RlEyZmV5?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "TRI Starlight Head-Fi.org",
+      "published_utc": "2026-11-25T19:37:09+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zX3BuOU0xR29adG1Rek1tS25qVE5jdXItSjBHOW5kWm4yck5Kc1Rzb1lHY3BWSHBNQ3R5MXNlRml4bXRMdkh5aFIyRnlzYjlOSU5XMDFpYUthcExvRUp1VEh2RlEyZmV5?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T19:37:09+00:00",
+          "title": "TRI Starlight - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "82c23d24195287be68c786c5",
+      "topic": "wired",
+      "title": "Unique Melody Mext - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44R2VqQUw1ZF93UEVXMU9CNXMzb3JHLVhLbEx5Wkpad2xES1dvcXF3WUVHWVVObXJGdzBwWkZYX2pwR00xMnprTWMxZThpeUw1Rl82V05GampJMTBnN0t3NFJRY3RzSFZ1U2ZaTzdySQ?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Unique Melody Mext Head-Fi.org",
+      "published_utc": "2026-11-25T19:37:10+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44R2VqQUw1ZF93UEVXMU9CNXMzb3JHLVhLbEx5Wkpad2xES1dvcXF3WUVHWVVObXJGdzBwWkZYX2pwR00xMnprTWMxZThpeUw1Rl82V05GampJMTBnN0t3NFJRY3RzSFZ1U2ZaTzdySQ?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T19:37:10+00:00",
+          "title": "Unique Melody Mext - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "5f8e4778052b6d51798c4c10",
+      "topic": "wired",
+      "title": "Chord Epic or equivalent USB A to B cable - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNVNlV2RpbVp5WW8xVHpaXzgyMlhDMnhFSi0wSnhTSmloRzFvLWEtNHhHem50dk1zUHJHS2xad3dVUEwyaVFOakp6MFZMNUQ2b3FjaG13c0tzY2NPUlo3QUFPN2d3MVdUMHAwY25uMW12MlB1aEc5T3hzTWhQbGZSZi1wcHpIVmo5OVV3R2Fn?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Chord Epic or equivalent USB A to B cable Head-Fi.org",
+      "published_utc": "2026-11-25T18:42:52+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNVNlV2RpbVp5WW8xVHpaXzgyMlhDMnhFSi0wSnhTSmloRzFvLWEtNHhHem50dk1zUHJHS2xad3dVUEwyaVFOakp6MFZMNUQ2b3FjaG13c0tzY2NPUlo3QUFPN2d3MVdUMHAwY25uMW12MlB1aEc5T3hzTWhQbGZSZi1wcHpIVmo5OVV3R2Fn?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T18:42:52+00:00",
+          "title": "Chord Epic or equivalent USB A to B cable - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "30c25b8b0b2c402c65dbbf2e",
+      "topic": "wired",
+      "title": "Eminent Ears - Linsoul Audio - Linsoul Audio",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pWTdxeVUyVzFPbFJadnhIQktEcXZoV04zVmFVNGRtLW9pVG1wVFdxZUxWZnFaNzJyNlZoNkJjbUtrNGlPOGs4TmI4UXJQeUJKMUVuV3ZWanB3cTkyS2dtRGRITEhCd2R1WlE?oc=5",
+      "source": "Linsoul",
+      "publisher": "Linsoul Audio",
+      "description": "Eminent Ears - Linsoul Audio Linsoul Audio",
+      "published_utc": "2026-11-25T18:38:14+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pWTdxeVUyVzFPbFJadnhIQktEcXZoV04zVmFVNGRtLW9pVG1wVFdxZUxWZnFaNzJyNlZoNkJjbUtrNGlPOGs4TmI4UXJQeUJKMUVuV3ZWanB3cTkyS2dtRGRITEhCd2R1WlE?oc=5",
+          "source": "Linsoul",
+          "publisher": "Linsoul Audio",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T18:38:14+00:00",
+          "title": "Eminent Ears - Linsoul Audio - Linsoul Audio"
+        }
+      ]
+    },
+    {
+      "id": "7454d4d724174776e4b8e417",
+      "topic": "wired",
+      "title": "Open Audio - Linsoul Audio - Linsoul Audio",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hUUZRYmFwbXFWbGw2TkxMZjl5YndLTWNhdzZiZnNIbm1SMjBBekl3cWhoQjVBdEtZYW1oZFpRTW5YdklBQ1p0ODFsRVFJMTRPMU1PRlR2Vy1OV1hEM3QzdjVueFo2V1U?oc=5",
+      "source": "Linsoul",
+      "publisher": "Linsoul Audio",
+      "description": "Open Audio - Linsoul Audio Linsoul Audio",
+      "published_utc": "2026-11-25T18:38:14+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hUUZRYmFwbXFWbGw2TkxMZjl5YndLTWNhdzZiZnNIbm1SMjBBekl3cWhoQjVBdEtZYW1oZFpRTW5YdklBQ1p0ODFsRVFJMTRPMU1PRlR2Vy1OV1hEM3QzdjVueFo2V1U?oc=5",
+          "source": "Linsoul",
+          "publisher": "Linsoul Audio",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T18:38:14+00:00",
+          "title": "Open Audio - Linsoul Audio - Linsoul Audio"
+        }
+      ]
+    },
+    {
+      "id": "343b6ff78fcb43534f26bfd7",
+      "topic": "wired",
+      "title": "Cable adapters - Linsoul Audio - Linsoul Audio",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUWlBZ3Z4ZTF0bUY0MDJNRWllbDQzcE1aOEVoQzFZMmpLNWhwQ01mV21NeDFnQjJVMFNCLUF5UU5MSlFIVjhObDNVbHBOTDJ3T0dwdUhkbnBqRFNhUHpEVDlBczhUUW5Ed2FSSU50OS1kcXVDN3JZOEVWdHhRcDNfbHNzVQ?oc=5",
+      "source": "Linsoul",
+      "publisher": "Linsoul Audio",
+      "description": "Cable adapters - Linsoul Audio Linsoul Audio",
+      "published_utc": "2026-11-25T18:38:14+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUWlBZ3Z4ZTF0bUY0MDJNRWllbDQzcE1aOEVoQzFZMmpLNWhwQ01mV21NeDFnQjJVMFNCLUF5UU5MSlFIVjhObDNVbHBOTDJ3T0dwdUhkbnBqRFNhUHpEVDlBczhUUW5Ed2FSSU50OS1kcXVDN3JZOEVWdHhRcDNfbHNzVQ?oc=5",
+          "source": "Linsoul",
+          "publisher": "Linsoul Audio",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T18:38:14+00:00",
+          "title": "Cable adapters - Linsoul Audio - Linsoul Audio"
+        }
+      ]
+    },
+    {
+      "id": "24cfa947b9e73cc5583558f6",
+      "topic": "wired",
+      "title": "EarAcoustic Audio - Linsoul Audio",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wc0MtSlpHYXJ4RjUtUHFRTnZyZEFvSnQ3Wk8tLTI2Yk9ud0pxenNBMGdmSkl2MUFNT29RdEM5WEtWdEVDdWM5aktBWk9MeW1yWEIwSV9tMkFZU1VvVm9jVmFTZHNCbUVhVmQ0UjFEc2U?oc=5",
+      "source": "Linsoul",
+      "publisher": "Linsoul Audio",
+      "description": "EarAcoustic Audio Linsoul Audio",
+      "published_utc": "2026-11-25T18:38:14+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wc0MtSlpHYXJ4RjUtUHFRTnZyZEFvSnQ3Wk8tLTI2Yk9ud0pxenNBMGdmSkl2MUFNT29RdEM5WEtWdEVDdWM5aktBWk9MeW1yWEIwSV9tMkFZU1VvVm9jVmFTZHNCbUVhVmQ0UjFEc2U?oc=5",
+          "source": "Linsoul",
+          "publisher": "Linsoul Audio",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T18:38:14+00:00",
+          "title": "EarAcoustic Audio - Linsoul Audio"
+        }
+      ]
+    },
+    {
+      "id": "b6e029a6a1489ede3b46bafa",
+      "topic": "tws",
+      "title": "Upgrade your workouts with $70 off Beats Powerbeats Pro 2 - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TMVYtZWVHTzZ5N0RicklTZHpjV25CcVlVcW1JbVFkczA5eUd2VDBFZDE2OFNZbk1hUUVBUDBpb1ZBSWJnUkk0TEdFektSdFVkeVVsc2VmSnhZSkJvaFdCdGk0bnp6ZjVja2pvZ3hHVmJzaWY1LVVfV3hB?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Upgrade your workouts with $70 off Beats Powerbeats Pro 2 Android Authority",
+      "published_utc": "2026-11-25T19:48:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TMVYtZWVHTzZ5N0RicklTZHpjV25CcVlVcW1JbVFkczA5eUd2VDBFZDE2OFNZbk1hUUVBUDBpb1ZBSWJnUkk0TEdFektSdFVkeVVsc2VmSnhZSkJvaFdCdGk0bnp6ZjVja2pvZ3hHVmJzaWY1LVVfV3hB?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T19:48:00+00:00",
+          "title": "Upgrade your workouts with $70 off Beats Powerbeats Pro 2 - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "0480bf6ed79dbb57f4944cd8",
+      "topic": "tws",
+      "title": "WhatsApp catches up to Google Messages with scheduling for texts, photos, and videos - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZODZoakxaRXFlZTZfMkl6Ykk0Y21GbWVhcjFISjB0Qy16MkM5X2pLdmFqSHdSRW1yNDZBRHR4czhWNlk5dzhhbXg0NnJncVBpU2lZcnFsWE5mQk1ra2czbUJSWjA2dFE1dWZzaDdQZHFHM2M2SXlmUw?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "WhatsApp catches up to Google Messages with scheduling for texts, photos, and videos Android Authority",
+      "published_utc": "2026-11-25T18:56:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZODZoakxaRXFlZTZfMkl6Ykk0Y21GbWVhcjFISjB0Qy16MkM5X2pLdmFqSHdSRW1yNDZBRHR4czhWNlk5dzhhbXg0NnJncVBpU2lZcnFsWE5mQk1ra2czbUJSWjA2dFE1dWZzaDdQZHFHM2M2SXlmUw?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T18:56:00+00:00",
+          "title": "WhatsApp catches up to Google Messages with scheduling for texts, photos, and videos - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "874a4d9a5703ad86535cda1a",
+      "topic": "tws",
+      "title": "The tiny $449 enough phone just got a huge battery, storage, and RAM upgrade - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HRTdLX1JUay1ZanZranFfdVNycDZPN0lRTlV3dkFrSlVvUEtTSVNsVW1MdFlhOE13S1hYRGgyMmVGWHBiQjFZMl94NmFPOXhNV3Axc0JMbHlXZDRTczFSdlhTdnVwV3NBQ3Y5T1RQYWw?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "The tiny $449 enough phone just got a huge battery, storage, and RAM upgrade Android Authority",
+      "published_utc": "2026-11-25T19:46:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HRTdLX1JUay1ZanZranFfdVNycDZPN0lRTlV3dkFrSlVvUEtTSVNsVW1MdFlhOE13S1hYRGgyMmVGWHBiQjFZMl94NmFPOXhNV3Axc0JMbHlXZDRTczFSdlhTdnVwV3NBQ3Y5T1RQYWw?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T19:46:00+00:00",
+          "title": "The tiny $449 enough phone just got a huge battery, storage, and RAM upgrade - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "dc92104033305bca525b3cbb",
+      "topic": "wired",
+      "title": "はじめてのレコードプレーヤーにオーディオテクニカ「AT-LP70XBT」を選んだ理由。手軽さと音質を両立した入門機",
+      "url": "http://www.phileweb.com/review/article/202611/26/6745.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "レコードを聴いてみたいけれど、プレーヤー選びやセッティングが難しそう。そんな人に注目してほしいのが、オーディオテクニカのフルオートレコードプレーヤー「AT-LP70XBT」だ。実際にAT-LP70XBTを愛用するkomoさんのもとを訪問し、その魅力に迫った。",
+      "published_utc": "2026-11-26T00:39:14+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/review/article/202611/26/6745.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T00:39:14+00:00",
+          "title": "はじめてのレコードプレーヤーにオーディオテクニカ「AT-LP70XBT」を選んだ理由。手軽さと音質を両立した入門機"
+        }
+      ]
+    },
+    {
+      "id": "203793eacf94500d5ceb9036",
+      "topic": "wired",
+      "title": "「FUJI ROCK FESTIVAL ’26」を振り返る5時間超の特番。12/13にPrime Video／Twitchで一夜限り配信",
+      "url": "http://www.phileweb.com/news/hobby/202611/26/8734.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "Amazon Musicは、今年7月に開催された「FUJI ROCK FESTIVAL ’26」を振り返る特別番組「FUJI ROCK FESTIVAL ’26 Limited Program」を、12月13日（日）18時よりPrime VideoおよびAmazon Music JapanのTwitchチャンネルで配信する。一夜限りの限定配信で、放送時間は5時間を超える予定。",
+      "published_utc": "2026-11-26T01:03:21+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/hobby/202611/26/8734.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T01:03:21+00:00",
+          "title": "「FUJI ROCK FESTIVAL ’26」を振り返る5時間超の特番。12/13にPrime Video／Twitchで一夜限り配信"
+        }
+      ]
+    },
+    {
+      "id": "bc069de7eb4069951ea8db54",
+      "topic": "tws",
+      "title": "Healthcare & wellness blueprint - Bluetooth - Bluetooth® Technology Website",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00MlFCTFhEYnJLZTdNck41Q01NcUhxM1I3Tnh0djZNRkNwVjEwb240cDRHamxvSmgxd214SERnRWJGSGFLa1lPOGxpVVFicmtEdnVaQWFNNmkwNnlQemJKLWJ5ZlY2Uk1wbXlQOGZSa0xQVDI4SGVNVg?oc=5",
+      "source": "Bluetooth SIG",
+      "publisher": "Bluetooth® Technology Website",
+      "description": "Healthcare & wellness blueprint - Bluetooth Bluetooth® Technology Website",
+      "published_utc": "2026-11-25T22:47:34+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "ea713170a74d",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00MlFCTFhEYnJLZTdNck41Q01NcUhxM1I3Tnh0djZNRkNwVjEwb240cDRHamxvSmgxd214SERnRWJGSGFLa1lPOGxpVVFicmtEdnVaQWFNNmkwNnlQemJKLWJ5ZlY2Uk1wbXlQOGZSa0xQVDI4SGVNVg?oc=5",
+          "source": "Bluetooth SIG",
+          "publisher": "Bluetooth® Technology Website",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T22:47:34+00:00",
+          "title": "Healthcare & wellness blueprint - Bluetooth - Bluetooth® Technology Website"
+        }
+      ]
+    },
+    {
+      "id": "d223d22ad6a82b1f16191077",
+      "topic": "tws",
+      "title": "Factory Reset Procedure: RallyBar Series - JBL",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMkRTVWdwazZzNXRlVWZRaVZaejdaa2JJazVCbnduQ3FXQUFHOVFiRE9lQWN2TmpzQldDdHROTzc2eGI2Tno5NUFIdjUxTTRfOEh2THFKeGhyem80V3Q3NmVDWjAtb0xSSGhTQkNoVVg0RmJ0SG9WMHpkVXNjeFVtcmdIU0Y2VW5KTGZnNndpeDU2ZnZ6UVRSLWxGbTdXMUgzUEM5dmliWmMtTUE?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "Factory Reset Procedure: RallyBar Series JBL",
+      "published_utc": "2026-11-25T17:51:55+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMkRTVWdwazZzNXRlVWZRaVZaejdaa2JJazVCbnduQ3FXQUFHOVFiRE9lQWN2TmpzQldDdHROTzc2eGI2Tno5NUFIdjUxTTRfOEh2THFKeGhyem80V3Q3NmVDWjAtb0xSSGhTQkNoVVg0RmJ0SG9WMHpkVXNjeFVtcmdIU0Y2VW5KTGZnNndpeDU2ZnZ6UVRSLWxGbTdXMUgzUEM5dmliWmMtTUE?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T17:51:55+00:00",
+          "title": "Factory Reset Procedure: RallyBar Series - JBL"
+        }
+      ]
+    },
+    {
+      "id": "3a60d9cbdc76f75ec22f7a79",
+      "topic": "wired",
+      "title": "Tiandirenhe TD20 - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81amVoYjJlRFNMdjVucjkyNGxBbFdnMV9tblFKT19pdmpKNlhoeEMzazEzVmFCc185UEZ4NXloZEpuR0sxQ1EyR1BKNDk4T2hyaGxZUEt3ZEtfLU1LLVVUXzZ0Q01MVlU?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Tiandirenhe TD20 Head-Fi.org",
+      "published_utc": "2026-11-25T23:50:51+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81amVoYjJlRFNMdjVucjkyNGxBbFdnMV9tblFKT19pdmpKNlhoeEMzazEzVmFCc185UEZ4NXloZEpuR0sxQ1EyR1BKNDk4T2hyaGxZUEt3ZEtfLU1LLVVUXzZ0Q01MVlU?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T23:50:51+00:00",
+          "title": "Tiandirenhe TD20 - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "b088d7a260f9c977a5008cb4",
+      "topic": "wired",
+      "title": "Apos x ES Lab Hydra Integrated Amplifier - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUTJia3p5MU9QWWxvUEVRMWFsOE9Yal9PV1pyZ3cyTjdkQjE5cXFIODJtSUQxODdGYjNNcHFTZ2FzelY1bzFTRE5wc0JXcF9WdmZqSmN1UDU0SmhEdmdJRWlXX0FpTHpuOE9EeUQzejJ3eXdad2RzTzNaUHZjemlEZkNzcDdmRDQ?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Apos x ES Lab Hydra Integrated Amplifier Head-Fi.org",
+      "published_utc": "2026-11-26T00:59:27+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUTJia3p5MU9QWWxvUEVRMWFsOE9Yal9PV1pyZ3cyTjdkQjE5cXFIODJtSUQxODdGYjNNcHFTZ2FzelY1bzFTRE5wc0JXcF9WdmZqSmN1UDU0SmhEdmdJRWlXX0FpTHpuOE9EeUQzejJ3eXdad2RzTzNaUHZjemlEZkNzcDdmRDQ?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:59:27+00:00",
+          "title": "Apos x ES Lab Hydra Integrated Amplifier - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "6d31fb408c24df508d4b49d0",
+      "topic": "wired",
+      "title": "Tiandirenhe TD20 - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43bG9NamZ6QjZBUHZkTEdEOVpubU5hSzFhZ19rczdVMEI1SFEwNHBGak9vQlN5ODQtYnBuTnRPU04tRGNqcjZhYTFmWGxjMkRKaVJITWljMVFtOXZiYXllX255RDlpVTZsM1BKQm1ENzY?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Tiandirenhe TD20 Head-Fi.org",
+      "published_utc": "2026-11-25T23:50:51+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43bG9NamZ6QjZBUHZkTEdEOVpubU5hSzFhZ19rczdVMEI1SFEwNHBGak9vQlN5ODQtYnBuTnRPU04tRGNqcjZhYTFmWGxjMkRKaVJITWljMVFtOXZiYXllX255RDlpVTZsM1BKQm1ENzY?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T23:50:51+00:00",
+          "title": "Tiandirenhe TD20 - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "f0ece10305ef287b7d374e26",
+      "topic": "wired",
+      "title": "Plixir Elite BAC 400 (isolated power!) - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPczRfLU5jZlotRWNyZmZNaDdiZEpOYTZSLVgxOXppYkJJV21KOHRiNk1hWHdJRjlJemUxbGNLeXh1UnFvaEZESWVOZ0lESXl3c1FyQUVqYklnajRwamhYSUtVeE9ESGtxYUJsLTZzT2ZUaXIxd0dMdDBtYVBYaWNzRGRjMTE?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Plixir Elite BAC 400 (isolated power!) Head-Fi.org",
+      "published_utc": "2026-11-26T00:30:41+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPczRfLU5jZlotRWNyZmZNaDdiZEpOYTZSLVgxOXppYkJJV21KOHRiNk1hWHdJRjlJemUxbGNLeXh1UnFvaEZESWVOZ0lESXl3c1FyQUVqYklnajRwamhYSUtVeE9ESGtxYUJsLTZzT2ZUaXIxd0dMdDBtYVBYaWNzRGRjMTE?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:30:41+00:00",
+          "title": "Plixir Elite BAC 400 (isolated power!) - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "722078b23d014a374180cdd4",
+      "topic": "wired",
+      "title": "Quill Acoustics Karma - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEODJfblpWVDZDbWkxNDRQRTFSZzdGUzU0bTFDdGZBRXl6ZmEzbnNQRTlUWGZscWtVNUlwQnFvTmNYdjEyQW5QYk13VWk0RlA1d21PbjdPS0YxTWRUbVpCUkE4Qk1UcExmOHgxeGtiUi1ITXM?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Quill Acoustics Karma Head-Fi.org",
+      "published_utc": "2026-11-25T22:31:15+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEODJfblpWVDZDbWkxNDRQRTFSZzdGUzU0bTFDdGZBRXl6ZmEzbnNQRTlUWGZscWtVNUlwQnFvTmNYdjEyQW5QYk13VWk0RlA1d21PbjdPS0YxTWRUbVpCUkE4Qk1UcExmOHgxeGtiUi1ITXM?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T22:31:15+00:00",
+          "title": "Quill Acoustics Karma - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "65d5cba327263a7331b89969",
+      "topic": "wired",
+      "title": "B&W Ebony Caldera Open - ZMF Headphones - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMjhMc0RYVE9oM3JYTHphbE9DOG5DdlJ3LUJrNlJkdWJicGFFRzhNRkxTaGw2UWotOXp6TDRjOTh1M3I2RkZkZzRwazlKSDI5M2tfYWlzdHlKVkFWT1VkQ1dTZndqRl96eEdWRFRibTc4eEdzMWh5WTVxMG5hUVB6Q1YxUWpzdnFE?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "B&W Ebony Caldera Open - ZMF Headphones Head-Fi.org",
+      "published_utc": "2026-11-25T21:35:51+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMjhMc0RYVE9oM3JYTHphbE9DOG5DdlJ3LUJrNlJkdWJicGFFRzhNRkxTaGw2UWotOXp6TDRjOTh1M3I2RkZkZzRwazlKSDI5M2tfYWlzdHlKVkFWT1VkQ1dTZndqRl96eEdWRFRibTc4eEdzMWh5WTVxMG5hUVB6Q1YxUWpzdnFE?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T21:35:51+00:00",
+          "title": "B&W Ebony Caldera Open - ZMF Headphones - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "733a4876a17b5f3c5a406a66",
+      "topic": "wired",
+      "title": "DUNU 142 - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzT3lzLUs5LUhYWGlULTNBajR3U0kzNnJ2dzhXQ3FQYy1KQUtIRFE1X3dGRFd0UlplWldIVGtsQTE1R0dwSzB3UzNZRUpmdVRaYXpNeDNBUXRHWnZIaWl4RXlB?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "DUNU 142 Head-Fi.org",
+      "published_utc": "2026-11-25T18:42:52+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzT3lzLUs5LUhYWGlULTNBajR3U0kzNnJ2dzhXQ3FQYy1KQUtIRFE1X3dGRFd0UlplWldIVGtsQTE1R0dwSzB3UzNZRUpmdVRaYXpNeDNBUXRHWnZIaWl4RXlB?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T18:42:52+00:00",
+          "title": "DUNU 142 - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "207b4f283219ebc817c3d8b2",
+      "topic": "bluetooth_dac",
+      "title": "FIIO BTR17 quits randomly - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTmNoT0ExeHZTUk5ZQmlNUjVyVFZmTjZzTEYyLXZKSmdHWVhTczhwQ3NqSW9iNVJ3WExaZUM3cmtTUE9TU2liVzVCLWVkeTJqc0tiZnF2bFV3TTYwT2U1ZTZWT3hFT2t3VGYxVDJkRmtOa2hNMjJsMFdsX09tQ0lTY25XS0U?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "FIIO BTR17 quits randomly Head-Fi.org",
+      "published_utc": "2026-11-25T18:07:38+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTmNoT0ExeHZTUk5ZQmlNUjVyVFZmTjZzTEYyLXZKSmdHWVhTczhwQ3NqSW9iNVJ3WExaZUM3cmtTUE9TU2liVzVCLWVkeTJqc0tiZnF2bFV3TTYwT2U1ZTZWT3hFT2t3VGYxVDJkRmtOa2hNMjJsMFdsX09tQ0lTY25XS0U?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T18:07:38+00:00",
+          "title": "FIIO BTR17 quits randomly - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "17e78c0947802d5f3e311b38",
+      "topic": "wired",
+      "title": "Account - HiFiGo - HiFiGo",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9NcXZoTWVsX2RQQWJDazhGXzlLX1MtOUVFeWhNTk91blJYTnNYSW50RXBKTWdISXRRdFhMZG5pRQ?oc=5",
+      "source": "HiFiGo",
+      "publisher": "HiFiGo",
+      "description": "Account - HiFiGo HiFiGo",
+      "published_utc": "2026-11-25T21:33:42+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9NcXZoTWVsX2RQQWJDazhGXzlLX1MtOUVFeWhNTk91blJYTnNYSW50RXBKTWdISXRRdFhMZG5pRQ?oc=5",
+          "source": "HiFiGo",
+          "publisher": "HiFiGo",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T21:33:42+00:00",
+          "title": "Account - HiFiGo - HiFiGo"
+        }
+      ]
+    },
+    {
+      "id": "77b1b11ffdf8e14b807d3066",
+      "topic": "wired",
+      "title": "audiolab、USB入力やBluetooth接続も可能なDAC「D9」。ESS ES9038PRO搭載",
+      "url": "https://av.watch.impress.co.jp/docs/news/2159389.html",
+      "source": "AV Watch Audio",
+      "publisher": "AV Watch Audio",
+      "description": "イースタンサウンドファクトリーは、audiolabのDAC「D9」を12月1日に発売する。PC接続用のUSB入力やBluetooth入力を備え、価格は242,000円。カラーはブラックとシルバー(受注生産)。",
+      "published_utc": "2026-11-26T05:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://av.watch.impress.co.jp/docs/news/2159389.html",
+          "source": "AV Watch Audio",
+          "publisher": "AV Watch Audio",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T05:00:00+00:00",
+          "title": "audiolab、USB入力やBluetooth接続も可能なDAC「D9」。ESS ES9038PRO搭載"
+        }
+      ]
+    },
+    {
+      "id": "d0bf2e84d1e22e11d34d313d",
+      "topic": "wired",
+      "title": "【随時更新】ポタフェス 2026冬 秋葉原 情報まとめ【12月12日(土)・13日(日)開催】",
+      "url": "https://e-earphone.blog/?p=1555991",
+      "source": "e earphone",
+      "publisher": "e earphone",
+      "description": "2026年を締めくくるポタフェスが12/12(土)・13(日)秋葉原にて開催！ イヤホン・ヘッドホンを中心とした”ポータブルオーディオ”の試聴＆体験イベント「ポータブルオーディオフェスティバル」（通称：ポタフェス） 12 […] 【随時更新】ポタフェス 2026冬 秋葉原 情報まとめ【12月12日(土)・13日(日)開催】 は イヤホン・ヘッドホン専門店eイヤホンのブログ で公開された投稿です。",
+      "published_utc": "2026-11-26T03:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://e-earphone.blog/?p=1555991",
+          "source": "e earphone",
+          "publisher": "e earphone",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T03:00:00+00:00",
+          "title": "【随時更新】ポタフェス 2026冬 秋葉原 情報まとめ【12月12日(土)・13日(日)開催】"
+        }
+      ]
+    },
+    {
+      "id": "d4d692ad032db000db23a603",
+      "topic": "wired",
+      "title": "【12/4発売】Moeetechから最⾼峰の磁気シールド材「スーパーパーマロイ」を採⽤したGlitter Opera / Glitter Opera S が登場！",
+      "url": "https://e-earphone.blog/?p=1562382",
+      "source": "e earphone",
+      "publisher": "e earphone",
+      "description": "CS43198を4基搭載独⽴した4chフルバランス‧フルディスクリートアンプ回路 こんにちは！e☆イヤホンのPRスタッフです！ 今回はMoeetechからの新製品のご紹介です。 Moeetech Glitter Oper […] 【12/4発売】Moeetechから最⾼峰の磁気シールド材「スーパーパーマロイ」を採⽤したGlitter Opera / Glitter Opera S が登場！ は イヤホン・ヘッドホン専門店eイヤホンのブログ で公開された投稿です。",
+      "published_utc": "2026-11-26T02:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://e-earphone.blog/?p=1562382",
+          "source": "e earphone",
+          "publisher": "e earphone",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T02:00:00+00:00",
+          "title": "【12/4発売】Moeetechから最⾼峰の磁気シールド材「スーパーパーマロイ」を採⽤したGlitter Opera / Glitter Opera S が登場！"
+        }
+      ]
+    },
+    {
+      "id": "f676449df5180ea942bfbb6b",
+      "topic": "wired",
+      "title": "【#ポタフェス 2026冬 秋葉原 】インプレッション(耳型)採取の予約受付開始しました！",
+      "url": "https://e-earphone.blog/?p=1562194",
+      "source": "e earphone",
+      "publisher": "e earphone",
+      "description": "ポタフェスまであと2週間とちょっと！！ご予約はお早めに！！ @eear_holy どもですー。e☆イヤホンのほーりーです。 オーダーメイドイヤホン(カスタムIEM)のオーダーに必要なインプレッション(耳型)を、ポタフェス […] 【#ポタフェス 2026冬 秋葉原 】インプレッション(耳型)採取の予約受付開始しました！ は イヤホン・ヘッドホン専門店eイヤホンのブログ で公開された投稿です。",
+      "published_utc": "2026-11-26T02:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://e-earphone.blog/?p=1562194",
+          "source": "e earphone",
+          "publisher": "e earphone",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T02:00:00+00:00",
+          "title": "【#ポタフェス 2026冬 秋葉原 】インプレッション(耳型)採取の予約受付開始しました！"
+        }
+      ]
+    },
+    {
+      "id": "ebc8d6edaab47f6eea8e7585",
+      "topic": "wired",
+      "title": "【#ポタフェス 2026冬 秋葉原】SeeAudioオーダーメイドイヤホン受注会vol.7",
+      "url": "https://e-earphone.blog/?p=1562008",
+      "source": "e earphone",
+      "publisher": "e earphone",
+      "description": "Bravoの受注は東京では初！！この機会をお見逃しなく！！ @eear_holy こんにちは！ e☆イヤホンのほーりーです。 今回のポタフェスでもSeeAudioの受注会を開催します！ SeeAudio オーダーメイドイ […] 【#ポタフェス 2026冬 秋葉原】SeeAudioオーダーメイドイヤホン受注会vol.7 は イヤホン・ヘッドホン専門店eイヤホンのブログ で公開された投稿です。",
+      "published_utc": "2026-11-26T02:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://e-earphone.blog/?p=1562008",
+          "source": "e earphone",
+          "publisher": "e earphone",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T02:00:00+00:00",
+          "title": "【#ポタフェス 2026冬 秋葉原】SeeAudioオーダーメイドイヤホン受注会vol.7"
+        }
+      ]
+    },
+    {
+      "id": "cff766ddbbfd9ad70dfd227f",
+      "topic": "wired",
+      "title": "オーディオテクニカ、”音が良い会議室”を体験できるショールーム「響間｜KYOKAN」開設",
+      "url": "http://www.phileweb.com/news/d-av/202611/26/66468.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "オーディオテクニカは、東京・湯島の「テクニカハウス」2階に、会議室をテーマにした法人向けの新ショールーム「響間｜KYOKAN」を2026年11月に開設。11月26日には報道関係者向けの内覧会を開催し、最新設備を備えた会議空間を初公開した。",
+      "published_utc": "2026-11-26T06:34:12+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/d-av/202611/26/66468.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T06:34:12+00:00",
+          "title": "オーディオテクニカ、”音が良い会議室”を体験できるショールーム「響間｜KYOKAN」開設"
+        }
+      ]
+    },
+    {
+      "id": "74003433aad6e60f889326af",
+      "topic": "portable_dac",
+      "title": "Moeetech、小型USB DAC「OPERA／OPERA S」。回路間のノイズ対策徹底で音質向上図る",
+      "url": "https://www.phileweb.com/news/d-av/202611/26/66463.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "01Diverseは、同社が国内総代理店を務めるMoeetech（モイーテック）から、ポータブルUSB DAC／ヘッドホンアンプ「Glitter Opera Series」を12月4日（金）に発売する。ラインナップは「OPERA」と上位モデル「OPERA S」の2機種。価格はいずれもオープンで、市場想定価格はOPERAが61,900円、OPERA Sが69,800円（ともに税込）となる。",
+      "published_utc": "2026-11-26T03:06:21+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/d-av/202611/26/66463.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T03:06:21+00:00",
+          "title": "Moeetech、小型USB DAC「OPERA／OPERA S」。回路間のノイズ対策徹底で音質向上図る"
+        },
+        {
+          "url": "https://www.phileweb.com/news/d-av/202611/26/66463.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T03:06:21+00:00",
+          "title": "Moeetech、小型USB DAC「OPERA／OPERA S」。回路間のノイズ対策徹底で音質向上図る"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T12:06:21+09:00",
+      "article_modified_raw": "2026-11-26T12:06:21+09:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "21ff723e9987b83c73b696e9",
+      "topic": "wired",
+      "title": "【Qobuzダウンロードランキング】1位はTravis Japanの4thアルバム『Jewelry Basket』！薬師丸ひろ子45周年記念アルバムも3位に",
+      "url": "https://www.phileweb.com/news/d-av/202611/26/66461.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "【Qobuzダウンロードランキング 11/18 - 11/24】",
+      "published_utc": "2026-11-26T03:30:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/d-av/202611/26/66461.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T02:43:22+00:00",
+          "title": "【Qobuzダウンロードランキング】1位はTravis Japanの4thアルバム『Jewelry Basket』！薬師丸ひろ子45周年記念アルバムも3位に"
+        },
+        {
+          "url": "https://www.phileweb.com/news/d-av/202611/26/66461.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T03:30:00+00:00",
+          "title": "【Qobuzダウンロードランキング】1位はTravis Japanの4thアルバム『Jewelry Basket』！薬師丸ひろ子45周年記念アルバムも3位に"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T12:30:00+09:00",
+      "article_modified_raw": "2026-11-26T11:43:22+09:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "c6eccf2ee26e5aeb861689be",
+      "topic": "wired",
+      "title": "【Qobuzストリーミングランキング】リリース25周年、ダイアナ・クラール『The Look of Love』がトップ10入り！",
+      "url": "https://www.phileweb.com/news/d-av/202611/26/66462.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "【Qobuzストリーミングランキング 11/18 - 11/24】",
+      "published_utc": "2026-11-26T03:30:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/d-av/202611/26/66462.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T02:43:59+00:00",
+          "title": "【Qobuzストリーミングランキング】リリース25周年、ダイアナ・クラール『The Look of Love』がトップ10入り！"
+        },
+        {
+          "url": "https://www.phileweb.com/news/d-av/202611/26/66462.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T03:30:00+00:00",
+          "title": "【Qobuzストリーミングランキング】リリース25周年、ダイアナ・クラール『The Look of Love』がトップ10入り！"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T12:30:00+09:00",
+      "article_modified_raw": "2026-11-26T11:43:59+09:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "4785aea64629c97d791293e5",
+      "topic": "wired",
+      "title": "『VIVANT』『アメトーーク！』ネット配信の効果は？ TVerと民放キー局が共同カンファレンス開催",
+      "url": "https://www.phileweb.com/news/d-av/202611/26/66464.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "TVerは、民放キー5局との共同カンファレンス「TV×TVer CONFERENCE 2026 いま、ひとつの絵を描く。」を開催。月間ユーザー数が5,000万を突破する見込みであることや、『VIVANT』『アメトーーク！』など人気番組におけるTVer配信の効果などを紹介した。",
+      "published_utc": "2026-11-26T02:48:40+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/d-av/202611/26/66464.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T02:48:40+00:00",
+          "title": "『VIVANT』『アメトーーク！』ネット配信の効果は？ TVerと民放キー局が共同カンファレンス開催"
+        },
+        {
+          "url": "https://www.phileweb.com/news/d-av/202611/26/66464.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T02:48:40+00:00",
+          "title": "『VIVANT』『アメトーーク！』ネット配信の効果は？ TVerと民放キー局が共同カンファレンス開催"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T11:48:40+09:00",
+      "article_modified_raw": "2026-11-26T11:48:40+09:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "efcf8706a567ed57ce27b1cb",
+      "topic": "wired",
+      "title": "サンワサプライ、光ファイバーコネクター用クリーナー「HKB-CLEAN2」。LC、SC、STなど各種コネクターに対応",
+      "url": "https://www.phileweb.com/news/audio/202611/26/28451.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "サンワサプライは、光ファイバーコネクター用クリーナー「HKB-CLEAN2」発売した。価格は17,050円（税込）。",
+      "published_utc": "2026-11-26T06:39:52+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/audio/202611/26/28451.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T06:39:52+00:00",
+          "title": "サンワサプライ、光ファイバーコネクター用クリーナー「HKB-CLEAN2」。LC、SC、STなど各種コネクターに対応"
+        },
+        {
+          "url": "https://www.phileweb.com/news/audio/202611/26/28451.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T06:39:52+00:00",
+          "title": "サンワサプライ、光ファイバーコネクター用クリーナー「HKB-CLEAN2」。LC、SC、STなど各種コネクターに対応"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T15:39:52+09:00",
+      "article_modified_raw": "2026-11-26T15:39:52+09:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "ff2cc467a4e93875cc31c246",
+      "topic": "wired",
+      "title": "Melodic Artification Eternitum (Final Retail Version) First Impressions: The Pure Beryllium Planar Breakthrough - MusicTeck",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVy1meE4zaUp3SG9TY3JqZTdJcDBsLVlYcWtkR2ZkX3pJUTRDeUFlek43R1ZrbGhwVEVVZVpKbzhZdU9naExha3pCRjYwT3VyX2RXbTNsRjFXRnVTUy1Sam9VdTZfam41YVhqVTdIRFozT2FNeVg2cUI3dnRPVHpFWHY0UW5vaU9NdU9MNjF3Z3lEaWt0VXJlSGhSUUIxX3dsdjZ1ZmdUUG0wTGI0UFFQQWpNSzI2VDFSMFhfSjFXX2t5OFBuR3cxamg4OEdyMVBPd2RkLVdDZzdKNVZSNkdFMWVhM1RldlBU?oc=5",
+      "source": "MusicTeck",
+      "publisher": "MusicTeck",
+      "description": "Melodic Artification Eternitum (Final Retail Version) First Impressions: The Pure Beryllium Planar Breakthrough MusicTeck",
+      "published_utc": "2026-11-25T19:24:10+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVy1meE4zaUp3SG9TY3JqZTdJcDBsLVlYcWtkR2ZkX3pJUTRDeUFlek43R1ZrbGhwVEVVZVpKbzhZdU9naExha3pCRjYwT3VyX2RXbTNsRjFXRnVTUy1Sam9VdTZfam41YVhqVTdIRFozT2FNeVg2cUI3dnRPVHpFWHY0UW5vaU9NdU9MNjF3Z3lEaWt0VXJlSGhSUUIxX3dsdjZ1ZmdUUG0wTGI0UFFQQWpNSzI2VDFSMFhfSjFXX2t5OFBuR3cxamg4OEdyMVBPd2RkLVdDZzdKNVZSNkdFMWVhM1RldlBU?oc=5",
+          "source": "MusicTeck",
+          "publisher": "MusicTeck",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T19:24:10+00:00",
+          "title": "Melodic Artification Eternitum (Final Retail Version) First Impressions: The Pure Beryllium Planar Breakthrough - MusicTeck"
+        }
+      ]
+    },
+    {
+      "id": "0e3a14d560709a4dfea7f8ac",
+      "topic": "wired",
+      "title": "カロッツェリアのディスプレイオーディオで、N-BOXやジムニーの“専用チューニングデータ”利用可能に",
+      "url": "https://av.watch.impress.co.jp/docs/news/2159514.html",
+      "source": "AV Watch Audio",
+      "publisher": "AV Watch Audio",
+      "description": "パイオニアは、カロッツェリアのディスプレイオーディオ「DMH-SF900」と「DMH-SF600」、専用アプリ「PxLink」のソフトウェアアップデートを実施。ホンダ「N-BOX」など、5車種を対象とした「車種専用オーディオ設定」を追加した。",
+      "published_utc": "2026-11-26T08:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://av.watch.impress.co.jp/docs/news/2159514.html",
+          "source": "AV Watch Audio",
+          "publisher": "AV Watch Audio",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T08:00:00+00:00",
+          "title": "カロッツェリアのディスプレイオーディオで、N-BOXやジムニーの“専用チューニングデータ”利用可能に"
+        }
+      ]
+    },
+    {
+      "id": "f12d7a2a1c7a83d6b6bed5e9",
+      "topic": "tws",
+      "title": "Nothing releases new images of the Ear (note) AI notetaker earbuds",
+      "url": "https://www.gsmarena.com/nothing_releases_new_images_of_the_ear_note_ai_notetaker_earbuds-news-75643.php",
+      "source": "GSMArena",
+      "publisher": "GSMArena",
+      "description": "Yesterday we learned that Nothing's first AI-native device is a pair of earbuds called the Ear (note), and today the company has made it official with a first look at the product, ahead of its December 8 launch. The first step in our AI vision will change how we work. And play. This is Ear (note), an AI notetaker with our best in-ear audio to date.",
+      "published_utc": "2026-11-26T07:41:02+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "オーディオへ再分類",
+      "sources": [
+        {
+          "url": "https://www.gsmarena.com/nothing_releases_new_images_of_the_ear_note_ai_notetaker_earbuds-news-75643.php",
+          "source": "GSMArena",
+          "publisher": "GSMArena",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T07:41:02+00:00",
+          "title": "Nothing releases new images of the Ear (note) AI notetaker earbuds"
+        }
+      ]
+    },
+    {
+      "id": "b2d540426db9aee5e89f04a0",
+      "topic": "tws",
+      "title": "Host bigger holiday parties with $170 off JBL’s PartyBox Club 120",
+      "url": "https://www.soundguys.com/jbl-partybox-club-120-deal-166864",
+      "source": "SoundGuys",
+      "publisher": "SoundGuys",
+      "description": "JBL's 160W party speaker with a light show and mic inputs is 38% off on Amazon, matching its lowest price.",
+      "published_utc": "2026-11-26T12:49:06+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.soundguys.com/jbl-partybox-club-120-deal-166864",
+          "source": "SoundGuys",
+          "publisher": "SoundGuys",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T12:49:06+00:00",
+          "title": "Host bigger holiday parties with $170 off JBL’s PartyBox Club 120"
+        }
+      ]
+    },
+    {
+      "id": "25b5a8df54c96af5b08f62a0",
+      "topic": "tws",
+      "title": "USB-C finally made wired earbuds good again",
+      "url": "https://www.soundguys.com/usb-c-wired-earbuds-comeback-166781",
+      "source": "SoundGuys",
+      "publisher": "SoundGuys",
+      "description": "After reviewing Bose's $99 wired ANC earbuds, I think USB-C has made going wired more appealing than ever, but I'm sticking with Bluetooth.",
+      "published_utc": "2026-11-26T10:00:04+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://www.soundguys.com/usb-c-wired-earbuds-comeback-166781",
+          "source": "SoundGuys",
+          "publisher": "SoundGuys",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T10:00:04+00:00",
+          "title": "USB-C finally made wired earbuds good again"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T10:00:04+00:00",
+      "article_modified_raw": "2026-11-25T23:06:19+00:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "4f2510babdffd34866968ada",
+      "topic": "wired",
+      "title": "Samsung’s Galaxy Studio headphones need these 7 things to beat the Sony WH-1000XM6",
+      "url": "https://www.soundguys.com/samsung-galaxy-studio-wishlist-166747",
+      "source": "SoundGuys",
+      "publisher": "SoundGuys",
+      "description": "Leaks show Samsung's Galaxy Studio over-ear headphones are on the way. Here are 7 things they need to beat the Sony WH-1000XM6, from USB-C audio to comfort.",
+      "published_utc": "2026-11-26T09:00:13+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://www.soundguys.com/samsung-galaxy-studio-wishlist-166747",
+          "source": "SoundGuys",
+          "publisher": "SoundGuys",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T09:00:13+00:00",
+          "title": "Samsung’s Galaxy Studio headphones need these 7 things to beat the Sony WH-1000XM6"
+        }
+      ]
+    },
+    {
+      "id": "b6b48a527b32fb5c040fe1a9",
+      "topic": "wired",
+      "title": "オーディオ・ノート、“あらゆるジャンルを豊かに表現”するNF型フォノアンプ「GE-2」",
+      "url": "https://www.phileweb.com/news/audio/202611/26/28452.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "オーディオ・ノートは、ステレオNF型フォノアンプ「GE-2」を12月に発売する。価格は2,420,000円（税込）。",
+      "published_utc": "2026-11-26T10:22:06+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/audio/202611/26/28452.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T10:22:06+00:00",
+          "title": "オーディオ・ノート、“あらゆるジャンルを豊かに表現”するNF型フォノアンプ「GE-2」"
+        },
+        {
+          "url": "https://www.phileweb.com/news/audio/202611/26/28452.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T10:22:06+00:00",
+          "title": "オーディオ・ノート、“あらゆるジャンルを豊かに表現”するNF型フォノアンプ「GE-2」"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T19:22:06+09:00",
+      "article_modified_raw": "2026-11-26T19:22:06+09:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "e8dce7d19104842b53e5a21d",
+      "topic": "wired",
+      "title": "アンカー、六本木エリアに初直営店。「Anker Store 東京ミッドタウン」12/23オープン",
+      "url": "http://www.phileweb.com/news/d-av/202611/26/66472.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "アンカー・ジャパンは、六本木エリア初出店となる「Anker Store 東京ミッドタウン」を12月23日（水）に、大阪府和泉市の「Anker Store Select ららぽーと和泉」を12月24日（木）に、兵庫県神戸市の「Anker Store マリンピア神戸」を12月25日（金）に順次オープンする。",
+      "published_utc": "2026-11-26T09:34:58+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/d-av/202611/26/66472.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T09:34:58+00:00",
+          "title": "アンカー、六本木エリアに初直営店。「Anker Store 東京ミッドタウン」12/23オープン"
+        }
+      ]
+    },
+    {
+      "id": "0d8f2b76de67780290efffa3",
+      "topic": "wired",
+      "title": "カロッツェリア、「車種専用オーディオ設定」をディスプレイオーディオ「DMH-SF900」「DMH-SF600」に追加",
+      "url": "http://www.phileweb.com/news/d-av/202611/26/66476.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "パイオニアは、カロッツェリアのディスプレイオーディオ「DMH-SF900」「DMH-SF600」および専用アプリ「PxLink」のソフトウェアアップデートを実施し、5車種を対象とした「車種専用オーディオ設定」を追加した。",
+      "published_utc": "2026-11-26T09:41:39+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/d-av/202611/26/66476.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T09:41:39+00:00",
+          "title": "カロッツェリア、「車種専用オーディオ設定」をディスプレイオーディオ「DMH-SF900」「DMH-SF600」に追加"
+        }
+      ]
+    },
+    {
+      "id": "219f93d6bce5a858e60effa1",
+      "topic": "wired",
+      "title": "U-NEXT、「Universal+」初の日本独占配信作を発表。海外ドラマなど4作品／吹替版は井上和彦・沢城みゆきら起用",
+      "url": "http://www.phileweb.com/news/hobby/202611/26/8737.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "U-NEXTは、同社が運営する動画配信サービス内で展開中の「Universal+」において、初となる日本独占配信作品のラインナップを発表した。",
+      "published_utc": "2026-11-26T08:11:32+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/hobby/202611/26/8737.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T08:11:32+00:00",
+          "title": "U-NEXT、「Universal+」初の日本独占配信作を発表。海外ドラマなど4作品／吹替版は井上和彦・沢城みゆきら起用"
+        }
+      ]
+    },
+    {
+      "id": "be7b5ebf194efaf60336af06",
+      "topic": "tws",
+      "title": "How to use, maintain, and safely charge your Galaxy Buds4 series - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU1ZJU1E2Q1V3ZmJJRDdUWlhwSTdKbEdxSFhKbHdkTWhnUmpjVlh4NVJTdExuV3hBT3hKSFV4dUVrNFk5TzZYWURSR0Yyd1g0VGUyQ19RdVkzZjg1SG5XaW8zY2hNUXotN3VDaUhyQ1F6akJnLUpjdXVRWk5POVVlODBvVmdNTjNHeUp4WWZn?oc=5",
+      "source": "Samsung Audio",
+      "publisher": "samsung.com",
+      "description": "How to use, maintain, and safely charge your Galaxy Buds4 series samsung.com",
+      "published_utc": "2026-11-26T05:43:38+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "b6c863ca4988",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU1ZJU1E2Q1V3ZmJJRDdUWlhwSTdKbEdxSFhKbHdkTWhnUmpjVlh4NVJTdExuV3hBT3hKSFV4dUVrNFk5TzZYWURSR0Yyd1g0VGUyQ19RdVkzZjg1SG5XaW8zY2hNUXotN3VDaUhyQ1F6akJnLUpjdXVRWk5POVVlODBvVmdNTjNHeUp4WWZn?oc=5",
+          "source": "Samsung Audio",
+          "publisher": "samsung.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T05:43:38+00:00",
+          "title": "How to use, maintain, and safely charge your Galaxy Buds4 series - samsung.com"
+        }
+      ]
+    },
+    {
+      "id": "61de625f084b9e0c393f1636",
+      "topic": "tws",
+      "title": "How to use, maintain, and safely charge your Galaxy Buds4 series - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOckdKZl9MRk5va3Z5NjhLYXh0QU9sUDRLR0kwZVNQSkxuQUdqendtck16VlRtQjE5TzFaclpnd21SMnRmV1Qta0c3QUJWOW9KR25wTk9hcW53bnNvRURXNU9xY3ZjVzQxMi1EaDROU0h0elA3bXdTdkdKeFpLbV9WV3l1SXFzU0ZHaUk0SnZB?oc=5",
+      "source": "Samsung Audio",
+      "publisher": "samsung.com",
+      "description": "How to use, maintain, and safely charge your Galaxy Buds4 series samsung.com",
+      "published_utc": "2026-11-26T07:00:42+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "b6c863ca4988",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOckdKZl9MRk5va3Z5NjhLYXh0QU9sUDRLR0kwZVNQSkxuQUdqendtck16VlRtQjE5TzFaclpnd21SMnRmV1Qta0c3QUJWOW9KR25wTk9hcW53bnNvRURXNU9xY3ZjVzQxMi1EaDROU0h0elA3bXdTdkdKeFpLbV9WV3l1SXFzU0ZHaUk0SnZB?oc=5",
+          "source": "Samsung Audio",
+          "publisher": "samsung.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T07:00:42+00:00",
+          "title": "How to use, maintain, and safely charge your Galaxy Buds4 series - samsung.com"
+        }
+      ]
+    },
+    {
+      "id": "4a95f40c5ea76c28f2df90ce",
+      "topic": "tws",
+      "title": "How to use, maintain, and safely charge your Galaxy Buds4 series - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjJxd2x6TmtuVTRuRDZzR0ZMVWU2MmNvaTVreGlzZV9BcWluRFVPSzFOUE1xYzc3TzA0dC1QLWNLNVZqRk1sUmVKNnJLZVF0blAwWVN0NTBlTkVBdG9aaG4xM0IzTW5RdHJSc0F2THQ4Z3RTeDJXUDk5aG9oX2tNODh0Yzd3WmI2ZG9PRmJR?oc=5",
+      "source": "Samsung Audio",
+      "publisher": "samsung.com",
+      "description": "How to use, maintain, and safely charge your Galaxy Buds4 series samsung.com",
+      "published_utc": "2026-11-26T06:48:36+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "b6c863ca4988",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjJxd2x6TmtuVTRuRDZzR0ZMVWU2MmNvaTVreGlzZV9BcWluRFVPSzFOUE1xYzc3TzA0dC1QLWNLNVZqRk1sUmVKNnJLZVF0blAwWVN0NTBlTkVBdG9aaG4xM0IzTW5RdHJSc0F2THQ4Z3RTeDJXUDk5aG9oX2tNODh0Yzd3WmI2ZG9PRmJR?oc=5",
+          "source": "Samsung Audio",
+          "publisher": "samsung.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T06:48:36+00:00",
+          "title": "How to use, maintain, and safely charge your Galaxy Buds4 series - samsung.com"
+        }
+      ]
+    },
+    {
+      "id": "eb64731dbc67e144afa70ba1",
+      "topic": "tws",
+      "title": "How to use, maintain, and safely charge your Galaxy Buds4 series - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOFNqMU5oMFdCdTlnUHIxSUVKMFd4Uk5jOXlhRlpGNnNZRXludEhLaGJPREQzR1diOGJtVUtPblNYekRyUUZIUy0xbFJ4b0kzV2pvYno3WFE1QVlocUJWaVg1TDFWNVBQQk1ScWVyUWJjRGZlcUlnREl6bEdPVXdueVZSbzdhWld2dkx6QS1R?oc=5",
+      "source": "Samsung Audio",
+      "publisher": "samsung.com",
+      "description": "How to use, maintain, and safely charge your Galaxy Buds4 series samsung.com",
+      "published_utc": "2026-11-26T02:57:50+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "b6c863ca4988",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOFNqMU5oMFdCdTlnUHIxSUVKMFd4Uk5jOXlhRlpGNnNZRXludEhLaGJPREQzR1diOGJtVUtPblNYekRyUUZIUy0xbFJ4b0kzV2pvYno3WFE1QVlocUJWaVg1TDFWNVBQQk1ScWVyUWJjRGZlcUlnREl6bEdPVXdueVZSbzdhWld2dkx6QS1R?oc=5",
+          "source": "Samsung Audio",
+          "publisher": "samsung.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T02:57:50+00:00",
+          "title": "How to use, maintain, and safely charge your Galaxy Buds4 series - samsung.com"
+        }
+      ]
+    },
+    {
+      "id": "1cc8e8a9c5bf6c3d5dacca3b",
+      "topic": "tws",
+      "title": "How to use, maintain, and safely charge your Galaxy Buds4 series - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQkFMSzNLT2NjZUxfSEl3VnRHaDZhbTJRUVdmRFBfMFJxZnpsQlNVWVJIR1piQzBBTzVxZXdZRXdJdHItWXNBdFpBbkVidUJEa1ZYME1mSXhRU3djUHdITGNNTE9QNEt5TFo2RHRocndPa0pEUk9PYWZCZkE5bFZ6RmFRVThOeDB5NEl2VVJR?oc=5",
+      "source": "Samsung Audio",
+      "publisher": "samsung.com",
+      "description": "How to use, maintain, and safely charge your Galaxy Buds4 series samsung.com",
+      "published_utc": "2026-11-26T13:00:48+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "b6c863ca4988",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQkFMSzNLT2NjZUxfSEl3VnRHaDZhbTJRUVdmRFBfMFJxZnpsQlNVWVJIR1piQzBBTzVxZXdZRXdJdHItWXNBdFpBbkVidUJEa1ZYME1mSXhRU3djUHdITGNNTE9QNEt5TFo2RHRocndPa0pEUk9PYWZCZkE5bFZ6RmFRVThOeDB5NEl2VVJR?oc=5",
+          "source": "Samsung Audio",
+          "publisher": "samsung.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T13:00:48+00:00",
+          "title": "How to use, maintain, and safely charge your Galaxy Buds4 series - samsung.com"
+        }
+      ]
+    },
+    {
+      "id": "88bf00b50e283966b499c694",
+      "topic": "wired",
+      "title": "Audio Cable - shenzhenaudio - shenzhenaudio",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSVN0NXRuNmpzbTBIYmgtcHFwaVVLUk94N0FKRFVjeTBUZGgwR2FhanZXb0V0RTUwTWg5UThiMnpfSUlvdXRoVVRSdjRWc3J1OGdMWDRyY25GTVYwR2JZcEo5V0w3d1pGVkR4SFpkT0ZjWkxTelZSQTJhUWI5WDJBTXpKazBWYnlXZ0pzR0ZsX0RHa0ZSUzFuYlVVZXkySTJRNzF2bUF4OHdWMWxEb1RPbF8ydVFhb3hTV1RxdXQweEZUZExqaFI3eTlyVDJqYTdtbm11YWN2RGlfeEhFVkE?oc=5",
+      "source": "SHENZHENAUDIO",
+      "publisher": "shenzhenaudio",
+      "description": "Audio Cable - shenzhenaudio shenzhenaudio",
+      "published_utc": "2026-11-25T21:40:01+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSVN0NXRuNmpzbTBIYmgtcHFwaVVLUk94N0FKRFVjeTBUZGgwR2FhanZXb0V0RTUwTWg5UThiMnpfSUlvdXRoVVRSdjRWc3J1OGdMWDRyY25GTVYwR2JZcEo5V0w3d1pGVkR4SFpkT0ZjWkxTelZSQTJhUWI5WDJBTXpKazBWYnlXZ0pzR0ZsX0RHa0ZSUzFuYlVVZXkySTJRNzF2bUF4OHdWMWxEb1RPbF8ydVFhb3hTV1RxdXQweEZUZExqaFI3eTlyVDJqYTdtbm11YWN2RGlfeEhFVkE?oc=5",
+          "source": "SHENZHENAUDIO",
+          "publisher": "shenzhenaudio",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T21:40:01+00:00",
+          "title": "Audio Cable - shenzhenaudio - shenzhenaudio"
+        }
+      ]
+    },
+    {
+      "id": "258c94072c07bfb4c76d4ca3",
+      "topic": "tws",
+      "title": "MOONDROP EDGE 2 40mm Dynamic Driver Portable Wireless Over-ear Headphone - shenzhenaudio",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMzR0R29PZllvY0VuWWJnNm50Qy1Oa3dzSTZRWDZFcWplY2l5dENTcmFZc1pzWEhvYzh6bE9ZZmdCSXBPQkdBUHduTXZMUFc0dnhTSDJzckt0ZXVDNl9od3ZfU1ZzT3hZZjY0MWY1LWNPRVc3NGhFYkNJaGRHUDBfZnM0N2dMQ19JVS16MEdrQ3l0YVBEYTYxTXk0cHZfa05VWUhNZ2Z2Wko3eVk?oc=5",
+      "source": "SHENZHENAUDIO",
+      "publisher": "shenzhenaudio",
+      "description": "MOONDROP EDGE 2 40mm Dynamic Driver Portable Wireless Over-ear Headphone shenzhenaudio",
+      "published_utc": "2026-11-26T08:28:05+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMzR0R29PZllvY0VuWWJnNm50Qy1Oa3dzSTZRWDZFcWplY2l5dENTcmFZc1pzWEhvYzh6bE9ZZmdCSXBPQkdBUHduTXZMUFc0dnhTSDJzckt0ZXVDNl9od3ZfU1ZzT3hZZjY0MWY1LWNPRVc3NGhFYkNJaGRHUDBfZnM0N2dMQ19JVS16MEdrQ3l0YVBEYTYxTXk0cHZfa05VWUhNZ2Z2Wko3eVk?oc=5",
+          "source": "SHENZHENAUDIO",
+          "publisher": "shenzhenaudio",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T08:28:05+00:00",
+          "title": "MOONDROP EDGE 2 40mm Dynamic Driver Portable Wireless Over-ear Headphone - shenzhenaudio"
+        }
+      ]
+    },
+    {
+      "id": "990990d683118874ed8ee134",
+      "topic": "wired",
+      "title": "Headphone Cable - shenzhenaudio - shenzhenaudio",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObEF2VTd4aUpCY0c5UjBEdC05ajUxNmVYUl8xaWwwMDlzR2pJRGRFcDVHYlJyY2F4Yk96Vk9sZGNOSU5qb3hwSHZUVXZ3eVpoamtKUjB4OEZYT1ZtN2JVY09VTmNyTzRPNzg4dmd4Y3YzbVFKNEJtZTVfRnVmTUMtM1dENXFXd3o4azIxazg2QXVvRmEzeGdOVE8zZy1BWU1rTHZKSFYtb3lLM3ZyRjJoa25MdXlpU1ViR01IM3BDMVRaUFdsNjl4cXEybjE2b0RsWUNDLW8zYVJZYkNQOFc0ejdB?oc=5",
+      "source": "SHENZHENAUDIO",
+      "publisher": "shenzhenaudio",
+      "description": "Headphone Cable - shenzhenaudio shenzhenaudio",
+      "published_utc": "2026-11-25T21:40:02+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObEF2VTd4aUpCY0c5UjBEdC05ajUxNmVYUl8xaWwwMDlzR2pJRGRFcDVHYlJyY2F4Yk96Vk9sZGNOSU5qb3hwSHZUVXZ3eVpoamtKUjB4OEZYT1ZtN2JVY09VTmNyTzRPNzg4dmd4Y3YzbVFKNEJtZTVfRnVmTUMtM1dENXFXd3o4azIxazg2QXVvRmEzeGdOVE8zZy1BWU1rTHZKSFYtb3lLM3ZyRjJoa25MdXlpU1ViR01IM3BDMVRaUFdsNjl4cXEybjE2b0RsWUNDLW8zYVJZYkNQOFc0ejdB?oc=5",
+          "source": "SHENZHENAUDIO",
+          "publisher": "shenzhenaudio",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T21:40:02+00:00",
+          "title": "Headphone Cable - shenzhenaudio - shenzhenaudio"
+        }
+      ]
+    },
+    {
+      "id": "d975ce92472c1dbcb2ffd222",
+      "topic": "tws",
+      "title": "Android 17 is getting a new setting to prevent unwanted Bluetooth audio switching - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3JUcHk0RDh1X01Dd2VzTDZMSGZMYVJ2dmgxWF9PSHQ5TU1pYlZlOWtSRWNxUExPUHZzV1I0Mk12a05VRkpXOGM4ZnFXNDZLaFp0SDdfWDVDLV9GbklKRThHX2pvTUZ2a25PWHk5bVdwNjdVenJONnVNbGRvaUdxQWxGbw?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Android 17 is getting a new setting to prevent unwanted Bluetooth audio switching Android Authority",
+      "published_utc": "2026-11-26T08:45:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3JUcHk0RDh1X01Dd2VzTDZMSGZMYVJ2dmgxWF9PSHQ5TU1pYlZlOWtSRWNxUExPUHZzV1I0Mk12a05VRkpXOGM4ZnFXNDZLaFp0SDdfWDVDLV9GbklKRThHX2pvTUZ2a25PWHk5bVdwNjdVenJONnVNbGRvaUdxQWxGbw?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T08:45:00+00:00",
+          "title": "Android 17 is getting a new setting to prevent unwanted Bluetooth audio switching - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "46053351ebb7d767ee03a8d3",
+      "topic": "tws",
+      "title": "You can now change YouTube’s app icon on your phone, but only if you pay for it - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xbDl3bE0wZDV2N2d1MktONUs0V3d3MHR4RlFzc25VaG9mUTdBbjdFMGFVRmpSNkkxdkpJVklPODhFRF9tcW9oMVdfSWkwa2wxMDhObWpmNEZjdWZOYXd4a29pdktreEVQY1ctZ2dtb1Izd0E?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "You can now change YouTube’s app icon on your phone, but only if you pay for it Android Authority",
+      "published_utc": "2026-11-26T12:32:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xbDl3bE0wZDV2N2d1MktONUs0V3d3MHR4RlFzc25VaG9mUTdBbjdFMGFVRmpSNkkxdkpJVklPODhFRF9tcW9oMVdfSWkwa2wxMDhObWpmNEZjdWZOYXd4a29pdktreEVQY1ctZ2dtb1Izd0E?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:32:00+00:00",
+          "title": "You can now change YouTube’s app icon on your phone, but only if you pay for it - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "0c9f260f2df63662cc529baf",
+      "topic": "tws",
+      "title": "New Play Store requirements force app developers to publish their addresses online - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQnI4UmVrd3NIcnNnNHRzdWZMQjdjM0d0ZjQ3dXVvQmJnQTJsTVRlcWp3dnlNQnlYNVFtOHd4bUhzVmFJcTJqSmhPTzJ3ZlFURU9BUFFfZHF3VHFuMU9sWWkzc0lVMjYtZ1p2LU5xLWgxTEQwMm1MNWhPbklqZ1NaWkxKVnVvSm5fZ2lkZDB2NWdDX1dmRW5r?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "New Play Store requirements force app developers to publish their addresses online Android Authority",
+      "published_utc": "2026-11-26T11:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQnI4UmVrd3NIcnNnNHRzdWZMQjdjM0d0ZjQ3dXVvQmJnQTJsTVRlcWp3dnlNQnlYNVFtOHd4bUhzVmFJcTJqSmhPTzJ3ZlFURU9BUFFfZHF3VHFuMU9sWWkzc0lVMjYtZ1p2LU5xLWgxTEQwMm1MNWhPbklqZ1NaWkxKVnVvSm5fZ2lkZDB2NWdDX1dmRW5r?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T11:00:00+00:00",
+          "title": "New Play Store requirements force app developers to publish their addresses online - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "f0b4c5576e226a6aee2d715f",
+      "topic": "tws",
+      "title": "Survey reveals the Google wake word readers actually prefer - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkowMkx4bG02cklfTnJjeHY2SmMzVjE0MENTOWJ3anVmel8xY3Y2Z3BXcUpjUUlFUjl3QVAxUE9vOE1DVXFjY0VZU2N6S2dxemlnYUx1bndFUU5sdWJNSjNuVnJ1LWFmcV9xS1EtMTVLWGpVYm9BUHBYZUtXZEFDRnBn?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Survey reveals the Google wake word readers actually prefer Android Authority",
+      "published_utc": "2026-11-26T09:28:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkowMkx4bG02cklfTnJjeHY2SmMzVjE0MENTOWJ3anVmel8xY3Y2Z3BXcUpjUUlFUjl3QVAxUE9vOE1DVXFjY0VZU2N6S2dxemlnYUx1bndFUU5sdWJNSjNuVnJ1LWFmcV9xS1EtMTVLWGpVYm9BUHBYZUtXZEFDRnBn?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T09:28:00+00:00",
+          "title": "Survey reveals the Google wake word readers actually prefer - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "5adb1d93eeccb06eb528b109",
+      "topic": "tws",
+      "title": "UGREEN MagFlow Qi2.2 Slim power bank drops 20% for Prime members - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaTRrLTQwX1NFQ3RTcHdPX0JScEVNOXlSRl9MZnBfLU44NWVzVFhRU2NkY0JEeGFnblR6ZjQwWmFPeENSTnlKOXNiaFoyekRieE9DQmgzZVVPYUctdWs4UEt4WThPTkgtQWtQYk9BUTJQTnVraTQyM3VUemlWREI2WjFwc2VYUEVEV3NJ?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "UGREEN MagFlow Qi2.2 Slim power bank drops 20% for Prime members Android Authority",
+      "published_utc": "2026-11-26T13:27:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaTRrLTQwX1NFQ3RTcHdPX0JScEVNOXlSRl9MZnBfLU44NWVzVFhRU2NkY0JEeGFnblR6ZjQwWmFPeENSTnlKOXNiaFoyekRieE9DQmgzZVVPYUctdWs4UEt4WThPTkgtQWtQYk9BUTJQTnVraTQyM3VUemlWREI2WjFwc2VYUEVEV3NJ?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T13:27:00+00:00",
+          "title": "UGREEN MagFlow Qi2.2 Slim power bank drops 20% for Prime members - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "0d858d74c0127ba0cc1505f2",
+      "topic": "tws",
+      "title": "Computing - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tQUMzc3l6OVFCODhGVU5TYTRGTF9nc0V5Wl9wbk5GMVRKcDk0bFk0WmFPNlRJZGRKMm5zRE9mVGRTcTZPVnJxdG9xalJNZnpwSk9NSWhvY2pBQQ?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Computing Android Authority",
+      "published_utc": "2026-11-26T13:01:16+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tQUMzc3l6OVFCODhGVU5TYTRGTF9nc0V5Wl9wbk5GMVRKcDk0bFk0WmFPNlRJZGRKMm5zRE9mVGRTcTZPVnJxdG9xalJNZnpwSk9NSWhvY2pBQQ?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T13:01:16+00:00",
+          "title": "Computing - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "0d50f72888172e052bed2d86",
+      "topic": "tws",
+      "title": "HONOR could be cooking up a phone with three 200MP cameras - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XTm9SWDZoT2hpTk9GMVA2LVQ5N3I3Ri01aDk4LUFSeDZUaWJUVDRWWmpYNlY0UHR1NmlvRGwxQlcyNndVQWp1ZkZ0TFg2S0FUX09vSzRyN21TTmN3TVhsQ05BYjZNdXRfRVJUMQ?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "HONOR could be cooking up a phone with three 200MP cameras Android Authority",
+      "published_utc": "2026-11-26T11:48:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XTm9SWDZoT2hpTk9GMVA2LVQ5N3I3Ri01aDk4LUFSeDZUaWJUVDRWWmpYNlY0UHR1NmlvRGwxQlcyNndVQWp1ZkZ0TFg2S0FUX09vSzRyN21TTmN3TVhsQ05BYjZNdXRfRVJUMQ?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T11:48:00+00:00",
+          "title": "HONOR could be cooking up a phone with three 200MP cameras - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "17e3db287ae777bf501409e9",
+      "topic": "portable_dac",
+      "title": "iLoud Micro Monitor 2 Review - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObS1lX2FaQTEzRlpSUHh2YTFuNW40VFhCT2ZSWmd3b2ZseTg2UlQzREhDNFhVV3BVTHI1UnF0V045cWdsRkJLdV9McE9WUE1neF9idXF4RzZ0U2tNdmtPTWhkZW8wWTBTNjdoWDdRZHF5S003NW9KZDM2UnZfdUN4cnVjdzljVVpSLTdqMTFUZU1OQ1BUTHBSS1hn?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "iLoud Micro Monitor 2 Review Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-26T04:31:18+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObS1lX2FaQTEzRlpSUHh2YTFuNW40VFhCT2ZSWmd3b2ZseTg2UlQzREhDNFhVV3BVTHI1UnF0V045cWdsRkJLdV9McE9WUE1neF9idXF4RzZ0U2tNdmtPTWhkZW8wWTBTNjdoWDdRZHF5S003NW9KZDM2UnZfdUN4cnVjdzljVVpSLTdqMTFUZU1OQ1BUTHBSS1hn?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T04:31:18+00:00",
+          "title": "iLoud Micro Monitor 2 Review - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "05c317cb5de50859bbfac19a",
+      "topic": "portable_dac",
+      "title": "EQ suggestions for multiple sources - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaHZDdzM2cXplRzBHRy1fY1Vyb3RXZ2MwUTc1V0ExOHNHeTljS1ZxeXVpSDdaUjFPOHVNdkowVExBU3FhUkN3ZTFUcEZSbjB0M2xDMzJLR1NFR25ZS1JNTV84bEIxUTQ0MzdFejFOY3JUMEdTM3lBeFhRbmhwZ3N6UEItSmdLdXR0RW8wZ01yUnJTX0lUYnI5M2c4S1g0WDdmMXZR?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "EQ suggestions for multiple sources Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-25T16:11:02+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaHZDdzM2cXplRzBHRy1fY1Vyb3RXZ2MwUTc1V0ExOHNHeTljS1ZxeXVpSDdaUjFPOHVNdkowVExBU3FhUkN3ZTFUcEZSbjB0M2xDMzJLR1NFR25ZS1JNTV84bEIxUTQ0MzdFejFOY3JUMEdTM3lBeFhRbmhwZ3N6UEItSmdLdXR0RW8wZ01yUnJTX0lUYnI5M2c4S1g0WDdmMXZR?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T16:11:02+00:00",
+          "title": "EQ suggestions for multiple sources - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "456865ffab09a5fb6c0ca2ac",
+      "topic": "portable_dac",
+      "title": "RME ADI-2/4 pro EX Comparables - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVRZSUZQdTJQYVlBV3pqNUp1Z2hWbHdRYlg5eG1YdndXYkwydXBnelJ4dE5kd2VNaW9XU1k5OU5GTDJkZFlLR09QQ2ZLbHMyV1BvQUJFcERaRWF5Y0FaUWl4cVlCNGxCQUxabUN2cFJnbG5JR1VBMlJkeE9CUGIzN1l1N2J5VUNrbmdyUzBxSmtIQ2xOekNCM2puX1k?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "RME ADI-2/4 pro EX Comparables Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-25T18:44:13+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVRZSUZQdTJQYVlBV3pqNUp1Z2hWbHdRYlg5eG1YdndXYkwydXBnelJ4dE5kd2VNaW9XU1k5OU5GTDJkZFlLR09QQ2ZLbHMyV1BvQUJFcERaRWF5Y0FaUWl4cVlCNGxCQUxabUN2cFJnbG5JR1VBMlJkeE9CUGIzN1l1N2J5VUNrbmdyUzBxSmtIQ2xOekNCM2puX1k?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T18:44:13+00:00",
+          "title": "RME ADI-2/4 pro EX Comparables - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "81d016d798f86167450732c9",
+      "topic": "portable_dac",
+      "title": "Roast my system for ASR worthiness - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcjhtUEl6NWhDNFVRRHRHY1FfNDMwNkduSUo1bF80dTRpeDdaVkpyMzdyLVd1VXlZeVhtN1QtdzB6eXo1NThXSWVMd195RDlwNWE1THBKYmZvUHZBSmUxZGd6ZTdneHBsTWtnaWduUTVUU3Nyel9FakxpS3FuVzltdlh1YWtKYS0zUlRYQlFEbEF2N3NDeDV3LU9lU1d5OGREZ3c?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "Roast my system for ASR worthiness Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-26T11:40:46+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcjhtUEl6NWhDNFVRRHRHY1FfNDMwNkduSUo1bF80dTRpeDdaVkpyMzdyLVd1VXlZeVhtN1QtdzB6eXo1NThXSWVMd195RDlwNWE1THBKYmZvUHZBSmUxZGd6ZTdneHBsTWtnaWduUTVUU3Nyel9FakxpS3FuVzltdlh1YWtKYS0zUlRYQlFEbEF2N3NDeDV3LU9lU1d5OGREZ3c?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T11:40:46+00:00",
+          "title": "Roast my system for ASR worthiness - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "40e3c9032738cbde650d28c8",
+      "topic": "portable_dac",
+      "title": "FYI: JDS Labs Atom DAC 2+ - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX2pPaVVfektPZk5KNVU4TWh4RlJCakNacng5dHF4Ml96OVlRN1ByQ3lvUXJVSzNTNWoxa2V4c096MWtvVzFDZmNqdGUyNUJ3dFpCazNvWFVZaE5CaDdBUXB1TEtEUlFIc1pqeTV5S0dKMmdpbkZLRTJ1ZG11TXV6cTdNUm5SVGlsX0txT1ozdFdHdUE?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "FYI: JDS Labs Atom DAC 2+ Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-25T23:26:10+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX2pPaVVfektPZk5KNVU4TWh4RlJCakNacng5dHF4Ml96OVlRN1ByQ3lvUXJVSzNTNWoxa2V4c096MWtvVzFDZmNqdGUyNUJ3dFpCazNvWFVZaE5CaDdBUXB1TEtEUlFIc1pqeTV5S0dKMmdpbkZLRTJ1ZG11TXV6cTdNUm5SVGlsX0txT1ozdFdHdUE?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T23:26:10+00:00",
+          "title": "FYI: JDS Labs Atom DAC 2+ - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "7c0472e49e2bb5e0ed4ebc4c",
+      "topic": "portable_dac",
+      "title": "Anthem AVM70 Ragged in the Lower Mid Range - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUHdFTm5ScTRCY2l3RXlmR053VFM1bWJBUkVKQWlreC13ZEJLOFZNSml1TmctY2JTT0tSalpFcFF0V1lKcFJUaHZlTUVWREVfbDJtTDZUZ1NxNGUtWENSLXNka3RhYkJuNXBvUlFSOGVRcEZJN0Jyc0hKVm9TOUVRU0hMYWRPamZtWnNwMjNKLXZwbGplZE1GVlhYaHdKOTAxblhwX3pmSkJUajRK?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "Anthem AVM70 Ragged in the Lower Mid Range Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-26T00:05:37+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUHdFTm5ScTRCY2l3RXlmR053VFM1bWJBUkVKQWlreC13ZEJLOFZNSml1TmctY2JTT0tSalpFcFF0V1lKcFJUaHZlTUVWREVfbDJtTDZUZ1NxNGUtWENSLXNka3RhYkJuNXBvUlFSOGVRcEZJN0Jyc0hKVm9TOUVRU0hMYWRPamZtWnNwMjNKLXZwbGplZE1GVlhYaHdKOTAxblhwX3pmSkJUajRK?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:05:37+00:00",
+          "title": "Anthem AVM70 Ragged in the Lower Mid Range - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "ee00f5e9828e7dce66930c17",
+      "topic": "tws",
+      "title": "Assigned Numbers - Bluetooth® Technology Website",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2tzQTRxd1g0M2Jrd1JMbUROa0VoRzFtZFIycU9lbHlha3ZQZkh0MmxmYTRyd1V5UW5sTG95cW0ySTlKUmxGMDhfbEhxTkVWSVBpRXhDTVNDeTRSS1lLRFZNRDFuazBRaGU3SGFDVWIyZVFEanpvbmp6NjdWc0dnWFpWekNhX0U1MTRYYWRXdDVCNDdBVTZveDcySnVXaTBiTjBaN0lTY2RyN0JQSzRCNFVVUHk?oc=5",
+      "source": "Bluetooth SIG",
+      "publisher": "Bluetooth® Technology Website",
+      "description": "Assigned Numbers Bluetooth® Technology Website",
+      "published_utc": "2026-11-26T07:13:42+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2tzQTRxd1g0M2Jrd1JMbUROa0VoRzFtZFIycU9lbHlha3ZQZkh0MmxmYTRyd1V5UW5sTG95cW0ySTlKUmxGMDhfbEhxTkVWSVBpRXhDTVNDeTRSS1lLRFZNRDFuazBRaGU3SGFDVWIyZVFEanpvbmp6NjdWc0dnWFpWekNhX0U1MTRYYWRXdDVCNDdBVTZveDcySnVXaTBiTjBaN0lTY2RyN0JQSzRCNFVVUHk?oc=5",
+          "source": "Bluetooth SIG",
+          "publisher": "Bluetooth® Technology Website",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T07:13:42+00:00",
+          "title": "Assigned Numbers - Bluetooth® Technology Website"
+        }
+      ]
+    },
+    {
+      "id": "e823a92eb44e474f46e1fd8c",
+      "topic": "tws",
+      "title": "Smart Ultra Soundbar + Bass Module 700 Refurbished Set - Bose",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdFpYLWRpTmt0eGZmLVBIUDU2emRyNm9PeXVPVENzNnFsODF5TnJleFNQSnhId0ZSMnpacnZzd2dWY09ERkE0bno4U3pUT0h1WmVDYU9EUEczT2lWb1NWaGlKX045SC0wT2p5eVRqRXo5M2cxS3d2WmhWWU5MdDk4N2VGem9HM3dVbjlrWkF6dDFjc3FfV1NmX2Fsb2ZudUJKa3Q2NktIZi1qZ1VRM0tCRW1rUEtKT3NyR3VjenlKYw?oc=5",
+      "source": "Bose",
+      "publisher": "Bose",
+      "description": "Smart Ultra Soundbar + Bass Module 700 Refurbished Set Bose",
+      "published_utc": "2026-11-26T05:56:13+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdFpYLWRpTmt0eGZmLVBIUDU2emRyNm9PeXVPVENzNnFsODF5TnJleFNQSnhId0ZSMnpacnZzd2dWY09ERkE0bno4U3pUT0h1WmVDYU9EUEczT2lWb1NWaGlKX045SC0wT2p5eVRqRXo5M2cxS3d2WmhWWU5MdDk4N2VGem9HM3dVbjlrWkF6dDFjc3FfV1NmX2Fsb2ZudUJKa3Q2NktIZi1qZ1VRM0tCRW1rUEtKT3NyR3VjenlKYw?oc=5",
+          "source": "Bose",
+          "publisher": "Bose",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T05:56:13+00:00",
+          "title": "Smart Ultra Soundbar + Bass Module 700 Refurbished Set - Bose"
+        }
+      ]
+    },
+    {
+      "id": "0d53478f663e1ca2be837cf7",
+      "topic": "wired",
+      "title": "Improving Lipsync Performance with App Compatible Headphones - JBL",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVGZLcHZFVzRSNHdzM2RmT2ZTNGRKdVl2Tmk2ZUJfemQyU2FpalNqYTBhMkRadkl6Z2hzQUhNcXV4ZjhJTjFnRU1sN29ZZjdWclFMb0JPU3VPNWphRHI1UzgwNEFhakltc1ZDX3FLbTZrb3lOWUhjTXZCVFNlWWtGR0JPaGwxVnIwOTNqN3NCQnZHQ0tUczBUVG1DeHBVaFNyTHV2M0JkanlIUjFYc29jTk94cEFpanVFcUIxd2s2aFljLUUxTTJZ?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "Improving Lipsync Performance with App Compatible Headphones JBL",
+      "published_utc": "2026-11-26T02:40:24+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVGZLcHZFVzRSNHdzM2RmT2ZTNGRKdVl2Tmk2ZUJfemQyU2FpalNqYTBhMkRadkl6Z2hzQUhNcXV4ZjhJTjFnRU1sN29ZZjdWclFMb0JPU3VPNWphRHI1UzgwNEFhakltc1ZDX3FLbTZrb3lOWUhjTXZCVFNlWWtGR0JPaGwxVnIwOTNqN3NCQnZHQ0tUczBUVG1DeHBVaFNyTHV2M0JkanlIUjFYc29jTk94cEFpanVFcUIxd2s2aFljLUUxTTJZ?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T02:40:24+00:00",
+          "title": "Improving Lipsync Performance with App Compatible Headphones - JBL"
+        }
+      ]
+    },
+    {
+      "id": "ad4cd36d86631a32a9057476",
+      "topic": "tws",
+      "title": "JBL Live 780NC - JBL",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRWlOa1JldjFvTm9uZkRwOFFDOUY4a1RKa3VQX1Nha2ZxOUpZZHlUd0pUa2hsQVlJRzJFQ2N0cThhVU5ZdlhUTkpZUVZCb0Raci1qRW5DQ0tIQjQ1NHZacmRrWDVRWXp3c1RTV0lpNDRGZU56enRpSWwwMmM2clJfaHU3REV1R0VzWi1WNVZ6YnBoWVdsTWtWUkVFb2xiaDh6aTVSd2VyWFI3Z2NOcGdYZQ?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "JBL Live 780NC JBL",
+      "published_utc": "2026-11-26T07:58:24+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRWlOa1JldjFvTm9uZkRwOFFDOUY4a1RKa3VQX1Nha2ZxOUpZZHlUd0pUa2hsQVlJRzJFQ2N0cThhVU5ZdlhUTkpZUVZCb0Raci1qRW5DQ0tIQjQ1NHZacmRrWDVRWXp3c1RTV0lpNDRGZU56enRpSWwwMmM2clJfaHU3REV1R0VzWi1WNVZ6YnBoWVdsTWtWUkVFb2xiaDh6aTVSd2VyWFI3Z2NOcGdYZQ?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T07:58:24+00:00",
+          "title": "JBL Live 780NC - JBL"
+        }
+      ]
+    },
+    {
+      "id": "f87378393004ea4aaf39c3ba",
+      "topic": "tws",
+      "title": "Open Earbuds - JBL",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBudDFnelNqNlFaUDgyWF93VTBGZGprdDJFS2x6TE9oSGtVZTNDYzNfakcybktuZEhDTTVhaXlQM2EtY25ZNE5pVA?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "Open Earbuds JBL",
+      "published_utc": "2026-11-26T13:28:11+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBudDFnelNqNlFaUDgyWF93VTBGZGprdDJFS2x6TE9oSGtVZTNDYzNfakcybktuZEhDTTVhaXlQM2EtY25ZNE5pVA?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T13:28:11+00:00",
+          "title": "Open Earbuds - JBL"
+        }
+      ]
+    },
+    {
+      "id": "884a7b1cd46b34f15ca6aec3",
+      "topic": "wired",
+      "title": "Refurbished Headphones - JBL",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43ZzhUcm1lWUhTNnhmWERTUlUtbFNOZzE0M2NWRUZrRG00Q1lfaWZYdGFTMm0zN2h2aVBWYlVEWFdfcVl4cVhIQW41dEVSbEh3XzN5cDdB?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "Refurbished Headphones JBL",
+      "published_utc": "2026-11-26T13:28:22+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43ZzhUcm1lWUhTNnhmWERTUlUtbFNOZzE0M2NWRUZrRG00Q1lfaWZYdGFTMm0zN2h2aVBWYlVEWFdfcVl4cVhIQW41dEVSbEh3XzN5cDdB?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T13:28:22+00:00",
+          "title": "Refurbished Headphones - JBL"
+        }
+      ]
+    },
+    {
+      "id": "35853c105d42176f32d9dc2e",
+      "topic": "wired",
+      "title": "DJ Headphones - Technics - Technics",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeUxGd3ZMZVIyOXZ0RlBZMi05LUFEMks0WWNweFpNS0VicHVHR21McDdmbkNxQ01Ib3FpbG1Xd0d3MWIycnM3ZEdQZTVad2xxc0NfbmpIY3VMb0FIQ3M5NjlSNlJGcHZtS3RZM1FacDltbzU5Yzkwd1R2WUp2aDliQjYtVlc0UDZ6alctanlPS2llc0F5QmNjMVBkSlRSbFo1dE1lZ2ZLc0NBdXhKQldvTTRYcjVNVTlIWUh4cFZPTHZpeUNUME85S29vbVFZRmRSUkRFSw?oc=5",
+      "source": "Technics",
+      "publisher": "Technics",
+      "description": "DJ Headphones - Technics Technics",
+      "published_utc": "2026-11-26T03:17:57+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeUxGd3ZMZVIyOXZ0RlBZMi05LUFEMks0WWNweFpNS0VicHVHR21McDdmbkNxQ01Ib3FpbG1Xd0d3MWIycnM3ZEdQZTVad2xxc0NfbmpIY3VMb0FIQ3M5NjlSNlJGcHZtS3RZM1FacDltbzU5Yzkwd1R2WUp2aDliQjYtVlc0UDZ6alctanlPS2llc0F5QmNjMVBkSlRSbFo1dE1lZ2ZLc0NBdXhKQldvTTRYcjVNVTlIWUh4cFZPTHZpeUNUME85S29vbVFZRmRSUkRFSw?oc=5",
+          "source": "Technics",
+          "publisher": "Technics",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T03:17:57+00:00",
+          "title": "DJ Headphones - Technics - Technics"
+        }
+      ]
+    },
+    {
+      "id": "0e9641efd7a929f069ab056a",
+      "topic": "portable_dac",
+      "title": "Fosi StepSense™ C1 Gaming DAC - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUnVBTzBWOWtTX1dVNjJ4TE9LSklkWGdscl9wMjVKMHNSdThnajRKVk84d29nc1pBUzN1STFSZzlydmxmVHhpSWdWcW5mREUydjJwX2UwTTNMZlBuUHlzLWg3NmdzeG9WMkxmd1J3WHhIMUxMRmJNc0JXQkNsOWM5ZkFrcw?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Fosi StepSense™ C1 Gaming DAC Head-Fi.org",
+      "published_utc": "2026-11-26T04:00:46+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUnVBTzBWOWtTX1dVNjJ4TE9LSklkWGdscl9wMjVKMHNSdThnajRKVk84d29nc1pBUzN1STFSZzlydmxmVHhpSWdWcW5mREUydjJwX2UwTTNMZlBuUHlzLWg3NmdzeG9WMkxmd1J3WHhIMUxMRmJNc0JXQkNsOWM5ZkFrcw?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T04:00:46+00:00",
+          "title": "Fosi StepSense™ C1 Gaming DAC - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "02d144674771bde53374113d",
+      "topic": "bluetooth_dac",
+      "title": "FiiO BTR25 - Reviews - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hQ1pFcVVKUldqMTgwZFllZ2ViUXRDQXMxMGU3UkdDdnRwbnkzN1JIX2hoYzFYa1A4Y09FdlB5c0R2QmhXUlZkSTdvdnhQTExXQU5xVU1CSlhIOUtwMjR1VWxpOWQxekhi?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "FiiO BTR25 - Reviews Head-Fi.org",
+      "published_utc": "2026-11-26T09:36:18+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hQ1pFcVVKUldqMTgwZFllZ2ViUXRDQXMxMGU3UkdDdnRwbnkzN1JIX2hoYzFYa1A4Y09FdlB5c0R2QmhXUlZkSTdvdnhQTExXQU5xVU1CSlhIOUtwMjR1VWxpOWQxekhi?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T09:36:18+00:00",
+          "title": "FiiO BTR25 - Reviews - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "927d5a4646db2c27dc15606e",
+      "topic": "wired",
+      "title": "HiBy R6 III Ultimate Edition - Teaser Campaign - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM015N01XQlVPd2NtZkJ3dmhiR18zdjMxUGdpZVdZeWZPYXp5M3pWSnd2ZDcxN0Q4WFBaa3dvM3JlaGZ3Zm1BT2poVlJzS1JhZEpYaTYyY3p5bERNRFdHRmYzZXo4N0pyWHRKS0xvNEd5THM1M0tnVDRYc3ZwR1lnNUJNSl9QY1lqQ0NPMQ?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "HiBy R6 III Ultimate Edition - Teaser Campaign Head-Fi.org",
+      "published_utc": "2026-11-26T12:53:35+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM015N01XQlVPd2NtZkJ3dmhiR18zdjMxUGdpZVdZeWZPYXp5M3pWSnd2ZDcxN0Q4WFBaa3dvM3JlaGZ3Zm1BT2poVlJzS1JhZEpYaTYyY3p5bERNRFdHRmYzZXo4N0pyWHRKS0xvNEd5THM1M0tnVDRYc3ZwR1lnNUJNSl9QY1lqQ0NPMQ?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:53:35+00:00",
+          "title": "HiBy R6 III Ultimate Edition - Teaser Campaign - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "b07d443e794ed6bd71fdb1a5",
+      "topic": "portable_dac",
+      "title": "MuseHiFi U3 Dongle DAC - Reviews - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1bl9feC1vSGl3a0RXaXpTcTczamVINGRxTFY3TEhDOEhaXzVKZk9pQm9zV0x6d2FhY24zNkhiZ3dOTlF3UERkUWZqQm1uQ0ZOajcyM21YTFlta0hsLVQ2aVlQdGFJc0IwV3NCcVNLYmdIa2hXcnB1SQ?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "MuseHiFi U3 Dongle DAC - Reviews Head-Fi.org",
+      "published_utc": "2026-11-26T03:14:39+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1bl9feC1vSGl3a0RXaXpTcTczamVINGRxTFY3TEhDOEhaXzVKZk9pQm9zV0x6d2FhY24zNkhiZ3dOTlF3UERkUWZqQm1uQ0ZOajcyM21YTFlta0hsLVQ2aVlQdGFJc0IwV3NCcVNLYmdIa2hXcnB1SQ?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T03:14:39+00:00",
+          "title": "MuseHiFi U3 Dongle DAC - Reviews - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "e1b9f1351f0548d047758920",
+      "topic": "wired",
+      "title": "Apos x ES Lab Hydra Integrated Amplifier - Reviews - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZV92Ul9DOThUVy1rZ1hHeDc4WXBkRE5oM0lfMDVydkp4aVdxQmlnOUdrSW1xOUdYXzM2Q3UtUFhNOXpJeEluS3Zxa004RWhxTFRFN3ZXQU16YU9DRXNONG5ORzA0UlBpTV9IZVkxbEg4NHdxMHBWdFZLbXBPdjlmVVhOcXFrcFF6aTd1b3FkdHQ?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Apos x ES Lab Hydra Integrated Amplifier - Reviews Head-Fi.org",
+      "published_utc": "2026-11-26T00:59:27+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZV92Ul9DOThUVy1rZ1hHeDc4WXBkRE5oM0lfMDVydkp4aVdxQmlnOUdrSW1xOUdYXzM2Q3UtUFhNOXpJeEluS3Zxa004RWhxTFRFN3ZXQU16YU9DRXNONG5ORzA0UlBpTV9IZVkxbEg4NHdxMHBWdFZLbXBPdjlmVVhOcXFrcFF6aTd1b3FkdHQ?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:59:27+00:00",
+          "title": "Apos x ES Lab Hydra Integrated Amplifier - Reviews - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "29ec2ef220a8a469fdbd5ddc",
+      "topic": "wired",
+      "title": "TimeEar LumiCraft 2 - Reviews - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PcTNsdmxIbkxTbEtrc09NekFaSDJ4dWJ4TEQzUTdCS3ItWVp3ZFB0WWpIQzNsVDBtMk1KbWJUYWQzM3FUTi1JSlF3ejlkdi04TDNTWGFXRmdxSVlES0pPekI5YWdHR2pXYnoyMzR0eG5ONi1f?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "TimeEar LumiCraft 2 - Reviews Head-Fi.org",
+      "published_utc": "2026-11-25T20:07:30+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PcTNsdmxIbkxTbEtrc09NekFaSDJ4dWJ4TEQzUTdCS3ItWVp3ZFB0WWpIQzNsVDBtMk1KbWJUYWQzM3FUTi1JSlF3ejlkdi04TDNTWGFXRmdxSVlES0pPekI5YWdHR2pXYnoyMzR0eG5ONi1f?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T20:07:30+00:00",
+          "title": "TimeEar LumiCraft 2 - Reviews - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "3804f3eca174e04e1f75eeae",
+      "topic": "wired",
+      "title": "LCD-XC Bubinga Cups - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwUkRoUm9SZXlqTkpYaWdYZ3VGdmIzNktLYUZTN2Jxb1pXSEdPZ2R4Mzlja09uckJXSy1mWGhtYjBTc3A4Y1dQNElNNHZ4d2drRmljaG9HT3dHVnI4VC1UMEh6SlJfVjhBYzdyeUhNTGw?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "LCD-XC Bubinga Cups Head-Fi.org",
+      "published_utc": "2026-11-26T00:30:40+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwUkRoUm9SZXlqTkpYaWdYZ3VGdmIzNktLYUZTN2Jxb1pXSEdPZ2R4Mzlja09uckJXSy1mWGhtYjBTc3A4Y1dQNElNNHZ4d2drRmljaG9HT3dHVnI4VC1UMEh6SlJfVjhBYzdyeUhNTGw?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:30:40+00:00",
+          "title": "LCD-XC Bubinga Cups - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "86d47e005cfee52bb64fad22",
+      "topic": "wired",
+      "title": "ZMF Tessidera STBLZD - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FbXlzS1Z1WFdtYlhfRFhzUG9TWk1lNThycE1MbmlIRTV5THZtME55ZWlKNnd4M3JLeGxTZUZ4VVZjNmdrUHpKSlh6T1k5QmJ0dUhLV1JCYThyakljU2VpOGJDbWE1MG1CNEVaZGdKWGpvdw?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "ZMF Tessidera STBLZD Head-Fi.org",
+      "published_utc": "2026-11-26T12:51:47+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FbXlzS1Z1WFdtYlhfRFhzUG9TWk1lNThycE1MbmlIRTV5THZtME55ZWlKNnd4M3JLeGxTZUZ4VVZjNmdrUHpKSlh6T1k5QmJ0dUhLV1JCYThyakljU2VpOGJDbWE1MG1CNEVaZGdKWGpvdw?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:51:47+00:00",
+          "title": "ZMF Tessidera STBLZD - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "8114497fbddabc9c1febd82e",
+      "topic": "wired",
+      "title": "Schiit Valhalla 2 - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Hel94TnRhS0dnR1VYOXZLOGp6cEFwWVN6a1h1UnJWTS15clMzRDJRNHRtVWxGWUhMS2dzanNqTUFuT0RQbjRPSXFwbndwUFFiWDhrYXpCM1FubzVlSEZKLW83Y1JyMnJCWVNKM2V3?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Schiit Valhalla 2 Head-Fi.org",
+      "published_utc": "2026-11-26T00:30:40+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Hel94TnRhS0dnR1VYOXZLOGp6cEFwWVN6a1h1UnJWTS15clMzRDJRNHRtVWxGWUhMS2dzanNqTUFuT0RQbjRPSXFwbndwUFFiWDhrYXpCM1FubzVlSEZKLW83Y1JyMnJCWVNKM2V3?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:30:40+00:00",
+          "title": "Schiit Valhalla 2 - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "c0fc2d7aa816c8e8fe7f7776",
+      "topic": "wired",
+      "title": "Fosi i5 + extras - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1INUh4dE1SaXJpMUlSZHhzeHRKMG9qbGNod0c1RUV4MG9WYmdvaklQQVBQMXhTdWVzWHQzd0FZU0JKTk9tTzVUZzhfdE5wR3VGZzlmdTE1dnpVbjNKTkc0MXY2X29TQy1lR3c?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Fosi i5 + extras Head-Fi.org",
+      "published_utc": "2026-11-26T01:32:58+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1INUh4dE1SaXJpMUlSZHhzeHRKMG9qbGNod0c1RUV4MG9WYmdvaklQQVBQMXhTdWVzWHQzd0FZU0JKTk9tTzVUZzhfdE5wR3VGZzlmdTE1dnpVbjNKTkc0MXY2X29TQy1lR3c?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T01:32:58+00:00",
+          "title": "Fosi i5 + extras - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "02c3fe216a4e2b8d5c63ca9e",
+      "topic": "wired",
+      "title": "Sennheiser HD 800S For Sale - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE05ZU1jZHNyOVNxYjZYQjUwdkVqUmtENXlDaFJGb3BHaDN0U2VzdGV6UFkzaGtlQUl6c195b0o2R0tsNUkzMnRBUDBLR3pPMWF6cFF1Z3VYSGZ1SWRhdVJVZkRsV0R1OWNQTUJjVjlPb0hYeFNHdDhrMEhsWQ?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Sennheiser HD 800S For Sale Head-Fi.org",
+      "published_utc": "2026-11-26T00:30:40+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE05ZU1jZHNyOVNxYjZYQjUwdkVqUmtENXlDaFJGb3BHaDN0U2VzdGV6UFkzaGtlQUl6c195b0o2R0tsNUkzMnRBUDBLR3pPMWF6cFF1Z3VYSGZ1SWRhdVJVZkRsV0R1OWNQTUJjVjlPb0hYeFNHdDhrMEhsWQ?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:30:40+00:00",
+          "title": "Sennheiser HD 800S For Sale - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "e138e6531c5b42ae08c29599",
+      "topic": "wired",
+      "title": "2026’s Must-Have DAPs 🔊 – Best Portable Music Players for MP3, FLAC & Hi-Res Audio - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaEc3SGNfcnZXRWp2UUgyWk5fQVUyWlpuMzRZME9UVmIzMjFVdTdhMEN4MHhtYUYwdUtUejdTWjBRQTVWaWl3S0ktOWxKZFBnMVpNWkpvOEZqYW00aEVGSURwcHpac3p2WDdlVjhiWFlvQjR3aUhQdDFPU0xFNnEyd0ZJeTI0akdVM1g1M19IWEx1aFRNOXlXZG1NaDh1bHZlemljY0FOZG1SMGRuTEhVZ1NTd3BOcmdLNzhXbUVWT045aUJoSG9wbEJqVW5mTVpqRTVGWFdfS3V5VVVjQ3h3?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "2026’s Must-Have DAPs 🔊 – Best Portable Music Players for MP3, FLAC & Hi-Res Audio Head-Fi.org",
+      "published_utc": "2026-11-25T20:01:16+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaEc3SGNfcnZXRWp2UUgyWk5fQVUyWlpuMzRZME9UVmIzMjFVdTdhMEN4MHhtYUYwdUtUejdTWjBRQTVWaWl3S0ktOWxKZFBnMVpNWkpvOEZqYW00aEVGSURwcHpac3p2WDdlVjhiWFlvQjR3aUhQdDFPU0xFNnEyd0ZJeTI0akdVM1g1M19IWEx1aFRNOXlXZG1NaDh1bHZlemljY0FOZG1SMGRuTEhVZ1NTd3BOcmdLNzhXbUVWT045aUJoSG9wbEJqVW5mTVpqRTVGWFdfS3V5VVVjQ3h3?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T20:01:16+00:00",
+          "title": "2026’s Must-Have DAPs 🔊 – Best Portable Music Players for MP3, FLAC & Hi-Res Audio - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "6e912739c6c54b3f24233798",
+      "topic": "wired",
+      "title": "[PD x3] Fir E12 Single DD - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82azI1b3dlQWppMWN6ZHIyQ2FGYjM5ZHpJV3pRZEo0eTQ3Y04xMVFYYkVXcDBzUVBESVdyNDZHVF91WWo2a3Q1d3h5anpoblo1bDQ2V0pPb05EMkVyMS1aLUlxdkNWd2J4Y1I3SmVVLXd0a2Z1cFE?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "[PD x3] Fir E12 Single DD Head-Fi.org",
+      "published_utc": "2026-11-26T00:46:30+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82azI1b3dlQWppMWN6ZHIyQ2FGYjM5ZHpJV3pRZEo0eTQ3Y04xMVFYYkVXcDBzUVBESVdyNDZHVF91WWo2a3Q1d3h5anpoblo1bDQ2V0pPb05EMkVyMS1aLUlxdkNWd2J4Y1I3SmVVLXd0a2Z1cFE?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:46:30+00:00",
+          "title": "[PD x3] Fir E12 Single DD - Head-Fi.org"
+        }
+      ]
+    }
+  ],
+  "date_unknown": [],
+  "health": {}
+}

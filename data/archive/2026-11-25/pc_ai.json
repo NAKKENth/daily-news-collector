@@ -2668,32 +2668,6 @@
       "enrichment": "article_metadata"
     },
     {
-      "id": "2510007fe4056fc812337296",
-      "topic": "ai",
-      "title": "ChatGPT Rate Card (Enterprise token-based pricing) | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa2VuWUJGUzYxeUxmWFMwQnNuaUZxb2draFQ5YUJOWWpEU19fNnJlRlE3RVZFQ1l4cDZ3Q05UeVhwTU9PcHItSnh5U0tsRWtISjBmY0xzeE1qbUdnd2dta1JlYXY0R05paklOT2hDUFlKU3dsRWd4cXg4OXRaVnlYOGxkTmxRS2hIMjFpLVNISkw1eUFOUkZhZg?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "ChatGPT Rate Card (Enterprise token-based pricing) | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T14:05:06+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa2VuWUJGUzYxeUxmWFMwQnNuaUZxb2draFQ5YUJOWWpEU19fNnJlRlE3RVZFQ1l4cDZ3Q05UeVhwTU9PcHItSnh5U0tsRWtISjBmY0xzeE1qbUdnd2dta1JlYXY0R05paklOT2hDUFlKU3dsRWd4cXg4OXRaVnlYOGxkTmxRS2hIMjFpLVNISkw1eUFOUkZhZg?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T14:05:06+00:00",
-          "title": "ChatGPT Rate Card (Enterprise token-based pricing) | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
       "id": "b158b17edd54d4954ad3cf63",
       "topic": "ai",
       "title": "Bidding strategies and how pricing works in ChatGPT Ads | OpenAI Help Center - OpenAI Help Center",
@@ -3356,6 +3330,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T22:58:26+00:00",
           "title": "Set up and manage the new unified Claude experience for your Team organization | Claude Help Center - Claude Help Center"
+        }
+      ]
+    },
+    {
+      "id": "f4937c4878d0b538ee79b321",
+      "topic": "ai",
+      "title": "Release notes | Claude Help Center - Claude Help Center",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rRlZwOW9YUnZUWTA0ak9DdGZNbURzZDg2aGFHNHhLbjNCWXV1QmxMUUZwdEx2bUhidFhxMEV0RVpKTk5LSHhkVUQyWmNnQnAxYkVYSDBKZGxsdXNGZXo3RXdxSDA3UTgtTEdhc1ln?oc=5",
+      "source": "Claude Help",
+      "publisher": "Claude Help Center",
+      "description": "Release notes | Claude Help Center Claude Help Center",
+      "published_utc": "2026-11-24T22:59:17+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rRlZwOW9YUnZUWTA0ak9DdGZNbURzZDg2aGFHNHhLbjNCWXV1QmxMUUZwdEx2bUhidFhxMEV0RVpKTk5LSHhkVUQyWmNnQnAxYkVYSDBKZGxsdXNGZXo3RXdxSDA3UTgtTEdhc1ln?oc=5",
+          "source": "Claude Help",
+          "publisher": "Claude Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:59:17+00:00",
+          "title": "Release notes | Claude Help Center - Claude Help Center"
         }
       ]
     },
@@ -4878,6 +4878,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T16:24:05+00:00",
           "title": "Brazil crime-fighting AI startup Pax expanding to three more regions - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "85a0b1a17139655dab3331ea",
+      "topic": "pc",
+      "title": "Dollar slips as Nvidia-fueled AI rally fades - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWk01SnRnY1hzWHBOdlQ5eGdldmlIQkd5QUM4SFJ5S3Z5YWtVQnlYWVp3LXlqajM1QTA5UTBBSFNrOFdjVGdWME54WUJYdFRGUXJDYlVmUDFETjlITTZtYkFiWW9IcU9sVTM0R0otbjlmMXNCdC1HSEVNOXJMaDlIMC1YUnFBUDZNMXh6RlRwMVM5MDFRTy1YQXc3U21zYU0?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Dollar slips as Nvidia-fueled AI rally fades Reuters",
+      "published_utc": "2026-11-25T01:17:55+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWk01SnRnY1hzWHBOdlQ5eGdldmlIQkd5QUM4SFJ5S3Z5YWtVQnlYWVp3LXlqajM1QTA5UTBBSFNrOFdjVGdWME54WUJYdFRGUXJDYlVmUDFETjlITTZtYkFiWW9IcU9sVTM0R0otbjlmMXNCdC1HSEVNOXJMaDlIMC1YUnFBUDZNMXh6RlRwMVM5MDFRTy1YQXc3U21zYU0?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T01:17:55+00:00",
+          "title": "Dollar slips as Nvidia-fueled AI rally fades - Reuters"
         }
       ]
     },
@@ -10443,7 +10469,7 @@
       "source": "OpenAI",
       "publisher": "OpenAI Help Center",
       "description": "Ads in ChatGPT: The Basics | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T14:58:11+00:00",
+      "published_utc": "2026-11-24T17:11:48+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -10456,7 +10482,7 @@
           "source": "OpenAI",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T14:58:11+00:00",
+          "published_utc": "2026-11-24T17:11:48+00:00",
           "title": "Ads in ChatGPT: The Basics | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -17168,32 +17194,6 @@
       ]
     },
     {
-      "id": "8a6a1f5df908a4f9857f7a3d",
-      "topic": "ai",
-      "title": "Daily budgets | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lbkxOeFBhLUVYaXp1am80T29TS0w0VHJfWHJqR2RXRU9OUG5iLWVzQUY1UjVKbVdwNUdTUmZOR09QTnZUVVVUVTNPQkcwekhfY0hLLTlfOFNpWUY2bmltZTVFQ1MzRkw3UUE?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "Daily budgets | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T09:46:31+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lbkxOeFBhLUVYaXp1am80T29TS0w0VHJfWHJqR2RXRU9OUG5iLWVzQUY1UjVKbVdwNUdTUmZOR09QTnZUVVVUVTNPQkcwekhfY0hLLTlfOFNpWUY2bmltZTVFQ1MzRkw3UUE?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T09:46:31+00:00",
-          "title": "Daily budgets | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
       "id": "5ee1b88616cf536462c33465",
       "topic": "ai",
       "title": "US core capital goods orders beat expectations in October - Reuters",
@@ -17372,6 +17372,292 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T14:59:53+00:00",
           "title": "Claude Sonnet 5.5 vs. Hermes 4 - Llama-3.1 405B：发布智能、性能与价格对比 - Artificial Analysis"
+        }
+      ]
+    },
+    {
+      "id": "079fe41b8aef2a4428db09ed",
+      "topic": "smartphones",
+      "title": "Samsung promises One UI 9.5 will fix rapidly declining battery health on Galaxy phones - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYlJudEkybkZlRl9GbHlycWNYWWx6WVl3U2VMTERNMkticW1DZm5kNVZ0b1F1Z0h3WWR6aWJVbnY0aHlBZWpfTENMalE0UDY0ZV9vamFLdnVaNG5IYjA1bHdELVlnQkYzOXo3MVlwWUxnZVp1V21YQ3ZEUXVrNHA5bEFJdk4wdw?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Samsung promises One UI 9.5 will fix rapidly declining battery health on Galaxy phones Android Authority",
+      "published_utc": "2026-11-25T08:09:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "スマートフォンへ分類",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYlJudEkybkZlRl9GbHlycWNYWWx6WVl3U2VMTERNMkticW1DZm5kNVZ0b1F1Z0h3WWR6aWJVbnY0aHlBZWpfTENMalE0UDY0ZV9vamFLdnVaNG5IYjA1bHdELVlnQkYzOXo3MVlwWUxnZVp1V21YQ3ZEUXVrNHA5bEFJdk4wdw?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:09:00+00:00",
+          "title": "Samsung promises One UI 9.5 will fix rapidly declining battery health on Galaxy phones - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "4c47c6e3e25845fcdf3f9c37",
+      "topic": "ai",
+      "title": "Gemini Notebook's flashcards just got a lot better for studies with three new features - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tTUVMRi1VNUZkc04zQThQVVpxUTdpWmI4UE94bmRORTMxUHdTakROelVHSlh4bVdIdjlqVlU5VDdyQVh5RE12Uy1DODhLaDRMTlZHMGdfekwxMndPMHNGNGYzTkRmNmVvQ1UwQlFjZkNheGhGWnk4?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Gemini Notebook's flashcards just got a lot better for studies with three new features Android Authority",
+      "published_utc": "2026-11-25T08:30:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tTUVMRi1VNUZkc04zQThQVVpxUTdpWmI4UE94bmRORTMxUHdTakROelVHSlh4bVdIdjlqVlU5VDdyQVh5RE12Uy1DODhLaDRMTlZHMGdfekwxMndPMHNGNGYzTkRmNmVvQ1UwQlFjZkNheGhGWnk4?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:30:00+00:00",
+          "title": "Gemini Notebook's flashcards just got a lot better for studies with three new features - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "b41a4daf08322b7765e67243",
+      "topic": "ai",
+      "title": "Get started with custom connectors using remote MCP | Claude Help Center - Claude Help Center",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV1RydWxVZFIxUHJGY2NRZFJPZWlVUTczVGY4TVVvTGR5c1FUXzdFUVp6Ymk1Y1NsUU5FTzJLRjhSd2N5emRyeFpuQk01TzI2VnFXSkxQQmg0eklIZGpvS2tqdXRaMW1LVXdMaTRzU1pjR1lfVV9JOUlVU0RGUHFQQUQ1RUtYSXpkWDJnVmxuQmE3eFBkWVhXaFBNTFZ4djNy?oc=5",
+      "source": "Claude Help",
+      "publisher": "Claude Help Center",
+      "description": "Get started with custom connectors using remote MCP | Claude Help Center Claude Help Center",
+      "published_utc": "2026-11-24T22:57:45+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV1RydWxVZFIxUHJGY2NRZFJPZWlVUTczVGY4TVVvTGR5c1FUXzdFUVp6Ymk1Y1NsUU5FTzJLRjhSd2N5emRyeFpuQk01TzI2VnFXSkxQQmg0eklIZGpvS2tqdXRaMW1LVXdMaTRzU1pjR1lfVV9JOUlVU0RGUHFQQUQ1RUtYSXpkWDJnVmxuQmE3eFBkWVhXaFBNTFZ4djNy?oc=5",
+          "source": "Claude Help",
+          "publisher": "Claude Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:57:45+00:00",
+          "title": "Get started with custom connectors using remote MCP | Claude Help Center - Claude Help Center"
+        }
+      ]
+    },
+    {
+      "id": "fdc792c8cbe8a7ebfb5874c2",
+      "topic": "ai",
+      "title": "Use connectors to extend Claude's capabilities | Claude Help Center - Claude Help Center",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNHJoZTdvR1VXRFJIRUJQSkhpMjcxNEtwU2hzaXJiTGNTVkU5bnd1ZVAtZGtKclVDaVE4SXFzZzVxdm9iZzdqVU5rWnNOQ2tjN0gzSlNXRHJyTnhkMkREMEdQekx4Q19OeG9XU3RLMHBzODNBcHozR2VEZDh3a3V4a05CcUZNeFphSk1NTlFuUGVGR29XUDhUYkV3?oc=5",
+      "source": "Claude Help",
+      "publisher": "Claude Help Center",
+      "description": "Use connectors to extend Claude's capabilities | Claude Help Center Claude Help Center",
+      "published_utc": "2026-11-24T22:52:02+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNHJoZTdvR1VXRFJIRUJQSkhpMjcxNEtwU2hzaXJiTGNTVkU5bnd1ZVAtZGtKclVDaVE4SXFzZzVxdm9iZzdqVU5rWnNOQ2tjN0gzSlNXRHJyTnhkMkREMEdQekx4Q19OeG9XU3RLMHBzODNBcHozR2VEZDh3a3V4a05CcUZNeFphSk1NTlFuUGVGR29XUDhUYkV3?oc=5",
+          "source": "Claude Help",
+          "publisher": "Claude Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:52:02+00:00",
+          "title": "Use connectors to extend Claude's capabilities | Claude Help Center - Claude Help Center"
+        }
+      ]
+    },
+    {
+      "id": "761e97f7478b22b54c6d1025",
+      "topic": "ai",
+      "title": "How to get support - Claude Help Center",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zb25MNGlHN201X3Z6NFhfd001WXA3RGxfYUttTWJiWEIybF9zTTM2NXlydmw1VlJuNFYta0FyakR3M1F5R2kwcXJVR2c1NUVjNE9Hb09UTGpGSnd5cEt3LWZYQ0tfY1k2SzE0S1NEbXZTODQ?oc=5",
+      "source": "Claude Help",
+      "publisher": "Claude Help Center",
+      "description": "How to get support Claude Help Center",
+      "published_utc": "2026-11-24T20:37:38+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zb25MNGlHN201X3Z6NFhfd001WXA3RGxfYUttTWJiWEIybF9zTTM2NXlydmw1VlJuNFYta0FyakR3M1F5R2kwcXJVR2c1NUVjNE9Hb09UTGpGSnd5cEt3LWZYQ0tfY1k2SzE0S1NEbXZTODQ?oc=5",
+          "source": "Claude Help",
+          "publisher": "Claude Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T20:37:38+00:00",
+          "title": "How to get support - Claude Help Center"
+        }
+      ]
+    },
+    {
+      "id": "c472171707be2c5007858341",
+      "topic": "ai",
+      "title": "Create and edit files with Claude | Claude Help Center - Claude Help Center",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUhLMTQ1QjhpMk5FdkRvUUIzS0t0YkQ0WG80WmkwZ0FxbHNBb0dlQnZqYV94UXRrSGE5N0pwc2hmQ3pXdFp5ZXNJQVRDUExCTDZpWEdyM2Rpd1NUV0Z6RWtMZG1lc216ZXlyU1Nsa3ZmXzBmRGIyTVEwMG93MmpEeFdzTFNuZ1F6?oc=5",
+      "source": "Claude Help",
+      "publisher": "Claude Help Center",
+      "description": "Create and edit files with Claude | Claude Help Center Claude Help Center",
+      "published_utc": "2026-11-24T22:57:06+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUhLMTQ1QjhpMk5FdkRvUUIzS0t0YkQ0WG80WmkwZ0FxbHNBb0dlQnZqYV94UXRrSGE5N0pwc2hmQ3pXdFp5ZXNJQVRDUExCTDZpWEdyM2Rpd1NUV0Z6RWtMZG1lc216ZXlyU1Nsa3ZmXzBmRGIyTVEwMG93MmpEeFdzTFNuZ1F6?oc=5",
+          "source": "Claude Help",
+          "publisher": "Claude Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:57:06+00:00",
+          "title": "Create and edit files with Claude | Claude Help Center - Claude Help Center"
+        }
+      ]
+    },
+    {
+      "id": "f4da8725924facc147824e98",
+      "topic": "ai",
+      "title": "Use Claude’s chat search and memory to build on previous context | Claude Help Center - Claude Help Center",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRWE2UGJMa0E3cDRER1BacjhCcXotbURDd0NZc3JtSEVrN0JyWkNrdWJLUnJsd1hyUWg2MV9pVnYwVlI3VWUzZFNzeHozQlh0blZIeThMVE5XVGFsME53c2RBSTV2ZkNkRmctN3NxQUx6VFM1UG1hdFFNT2ViWmZ0QThFZ0RJamlYQVRId08zMXV3WDA0Wi1IUzI2U3RTdzhTZllERklfbE5NZ01DSXpYMEhR?oc=5",
+      "source": "Claude Help",
+      "publisher": "Claude Help Center",
+      "description": "Use Claude’s chat search and memory to build on previous context | Claude Help Center Claude Help Center",
+      "published_utc": "2026-11-24T17:49:39+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRWE2UGJMa0E3cDRER1BacjhCcXotbURDd0NZc3JtSEVrN0JyWkNrdWJLUnJsd1hyUWg2MV9pVnYwVlI3VWUzZFNzeHozQlh0blZIeThMVE5XVGFsME53c2RBSTV2ZkNkRmctN3NxQUx6VFM1UG1hdFFNT2ViWmZ0QThFZ0RJamlYQVRId08zMXV3WDA0Wi1IUzI2U3RTdzhTZllERklfbE5NZ01DSXpYMEhR?oc=5",
+          "source": "Claude Help",
+          "publisher": "Claude Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T17:49:39+00:00",
+          "title": "Use Claude’s chat search and memory to build on previous context | Claude Help Center - Claude Help Center"
+        }
+      ]
+    },
+    {
+      "id": "2acf29ee6f3869459b1cc7af",
+      "topic": "ai",
+      "title": "Verify your phone number | Claude Help Center - Claude Help Center",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0RUU4LVZLOUpWejZlZkx2Q2Y0MDFJNlpzODNPZXpQRF9tZWRfVGRNNGRUeVltdlppd2tfQW9DeVBKQUVIOEJGMXRRN1pRck53TUhwM0R4STVUNUpSQTBwSVpwR2FkNVNreHh3ajBURDByNWJiUWxyLTU0SQ?oc=5",
+      "source": "Claude Help",
+      "publisher": "Claude Help Center",
+      "description": "Verify your phone number | Claude Help Center Claude Help Center",
+      "published_utc": "2026-11-24T21:00:27+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0RUU4LVZLOUpWejZlZkx2Q2Y0MDFJNlpzODNPZXpQRF9tZWRfVGRNNGRUeVltdlppd2tfQW9DeVBKQUVIOEJGMXRRN1pRck53TUhwM0R4STVUNUpSQTBwSVpwR2FkNVNreHh3ajBURDByNWJiUWxyLTU0SQ?oc=5",
+          "source": "Claude Help",
+          "publisher": "Claude Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T21:00:27+00:00",
+          "title": "Verify your phone number | Claude Help Center - Claude Help Center"
+        }
+      ]
+    },
+    {
+      "id": "ffe9be854de12471daeeba23",
+      "topic": "ai",
+      "title": "Block files and email from Claude by sensitivity label - Claude Help Center",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWk9tZkFSYXJfLW0tZkJQRmFhNHRDcnBGeGJEeEpsUjVmckpJQ0toeTY4dUh0NlY5UEtfaWVBZGZQUk00MnZqa1NhdUhfTDNqRUlyTzc4ak84MjUxTlVROTMxUWhnZ3RBZUtlWGtZMDlJUTdUdU9YZ3UxNGhRWXJGSm5Pa01McEJKaGNEeUZfakdlUHhPcjlhcG5XeE5ncE5xS3ZmdQ?oc=5",
+      "source": "Claude Help",
+      "publisher": "Claude Help Center",
+      "description": "Block files and email from Claude by sensitivity label Claude Help Center",
+      "published_utc": "2026-11-24T19:23:47+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWk9tZkFSYXJfLW0tZkJQRmFhNHRDcnBGeGJEeEpsUjVmckpJQ0toeTY4dUh0NlY5UEtfaWVBZGZQUk00MnZqa1NhdUhfTDNqRUlyTzc4ak84MjUxTlVROTMxUWhnZ3RBZUtlWGtZMDlJUTdUdU9YZ3UxNGhRWXJGSm5Pa01McEJKaGNEeUZfakdlUHhPcjlhcG5XeE5ncE5xS3ZmdQ?oc=5",
+          "source": "Claude Help",
+          "publisher": "Claude Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T19:23:47+00:00",
+          "title": "Block files and email from Claude by sensitivity label - Claude Help Center"
+        }
+      ]
+    },
+    {
+      "id": "60e8bcd210d6d0230476f46b",
+      "topic": "ai",
+      "title": "Use incognito chats | Claude Help Center - Claude Help Center",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yd2pqeS1icnZHZDRoY09GNE5Oem1zUmw1WXREQjd4TWdBaUdoekpsWi1taU1vYndUQjdrNURYbmJpYk9sb1dZbElhaHBNZHFLb3JYY0FJejg1cXM0X1NjVFRoVXRfVXFyTzVTbDFpZ0U3UXlya0E?oc=5",
+      "source": "Claude Help",
+      "publisher": "Claude Help Center",
+      "description": "Use incognito chats | Claude Help Center Claude Help Center",
+      "published_utc": "2026-11-24T18:01:19+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yd2pqeS1icnZHZDRoY09GNE5Oem1zUmw1WXREQjd4TWdBaUdoekpsWi1taU1vYndUQjdrNURYbmJpYk9sb1dZbElhaHBNZHFLb3JYY0FJejg1cXM0X1NjVFRoVXRfVXFyTzVTbDFpZ0U3UXlya0E?oc=5",
+          "source": "Claude Help",
+          "publisher": "Claude Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T18:01:19+00:00",
+          "title": "Use incognito chats | Claude Help Center - Claude Help Center"
+        }
+      ]
+    },
+    {
+      "id": "c11d245204591bc8b3181514",
+      "topic": "ai",
+      "title": "Roles and permissions | Claude Help Center - Claude Help Center",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BTVZNZnpzOTBnZ3hzSElrTzl2MEZBRmNhZC1IR2RhN0MwUWJHVzhBeGJmY085bEZoQTd1c1paQnRtUDAzbFBkSnBtYVFMYzJhN1RtbXBSN3RKd00yYXJQQ0U1RnkzckF4b0NlU0RzeExSUGFQeXVZ?oc=5",
+      "source": "Claude Help",
+      "publisher": "Claude Help Center",
+      "description": "Roles and permissions | Claude Help Center Claude Help Center",
+      "published_utc": "2026-11-24T20:32:08+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BTVZNZnpzOTBnZ3hzSElrTzl2MEZBRmNhZC1IR2RhN0MwUWJHVzhBeGJmY085bEZoQTd1c1paQnRtUDAzbFBkSnBtYVFMYzJhN1RtbXBSN3RKd00yYXJQQ0U1RnkzckF4b0NlU0RzeExSUGFQeXVZ?oc=5",
+          "source": "Claude Help",
+          "publisher": "Claude Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T20:32:08+00:00",
+          "title": "Roles and permissions | Claude Help Center - Claude Help Center"
         }
       ]
     }

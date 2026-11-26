@@ -3587,6 +3587,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "1654a56c10a2",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONWdQOURQSUZBMFVBdTZQbGVwTzMwa2ZYTkw4T0dvYzRxLUhZbTBCS1BQd2JpYVprVjB0ZjZTWnlLV21tX1N0SDdsLVFXa1lDLU1TZENXODFNeXZRTHJNQ3hqcHlsQjd2bkdWN1daaExVZGszYTZCdTRMV09uQk1Rc252bW9ETXJYSG1mMWVYMGgwZW5Ba1FIUWp3YURLa1RjcENhVzF4TmVyQ3g1STRqVWVYaHE0MmZrX1lxRGt5Tm5raVJmU0QwVVNlYXdvajJfX3dXd0dqR0pEVzVzekpIaHdwa1AwOU5NbkxPMHhaaGpVLVRJWmxSdWlaOEZnQQ?oc=5",
@@ -4004,6 +4005,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "対象オーディオ候補",
+      "possible_event_id": "440af8989729",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYzdWWTZDeGxjMm5RS0hvVndFYXVINWdIYnFsdDQ1dldfa28tY0o3cm9HVFU4c19VVTgwVmp6WVBqbVkwSGtMWkFFXzM1MjU0dVlZU2RXRnFqVEVybHp1OU02blBhUnpwWFlYY3hUY3VEYzVvQVd1bFpwVkdrMzNkX1RYMnU?oc=5",
@@ -4325,6 +4327,295 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T10:59:07+00:00",
           "title": "HEDD Audio HEDDphone DX Review - Headfonics"
+        }
+      ]
+    },
+    {
+      "id": "00f5190c665b19b87d9e7a1e",
+      "topic": "tws",
+      "title": "Google Messages is testing a revamped voice messaging and media viewer interface - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzJNejBXSjR6ZEZNd1hpY1E4STBYNlNlSElUWjJIbFV1VUJhdkxXOUFJMkZPbFA5TU9qQ0VrV0RBY2szU1VXU3dCRUdvSUxLTDVEMUFLQ1ZzbElab19vTmJCWS1LSTVHdGZUNzAxUmtmcG1JeVNmZXZrdG9KdmJmVDdyUlo4VzhpSWlna096Q25EQ3NOcEVtZWlUb2xHOFQx?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Google Messages is testing a revamped voice messaging and media viewer interface Android Authority",
+      "published_utc": "2026-11-25T13:18:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzJNejBXSjR6ZEZNd1hpY1E4STBYNlNlSElUWjJIbFV1VUJhdkxXOUFJMkZPbFA5TU9qQ0VrV0RBY2szU1VXU3dCRUdvSUxLTDVEMUFLQ1ZzbElab19vTmJCWS1LSTVHdGZUNzAxUmtmcG1JeVNmZXZrdG9KdmJmVDdyUlo4VzhpSWlna096Q25EQ3NOcEVtZWlUb2xHOFQx?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T13:18:00+00:00",
+          "title": "Google Messages is testing a revamped voice messaging and media viewer interface - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "0dcd64040f468be967e3b480",
+      "topic": "tws",
+      "title": "Google’s AI Mode now lets you attach up to 10 photos at once - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1M5SlJWQjFrUEM0aEl2SDBXTGRqeE5oYWJVR0xDUVY0TGxkUTV1cDdrc3BaWE0ybjd6UUw5MF8tQkRQWHBHbGx4cjZITXNmMXJfT3VYM3lrNDFFVU9wLW9qRjBnbjA4S0VOZHZ5UnJuU1lhNGNVMG9LRmpGSldfUUZiNjU3UVo3dkgwMjM3NlR1SWVxc2c?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Google’s AI Mode now lets you attach up to 10 photos at once Android Authority",
+      "published_utc": "2026-11-25T09:52:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1M5SlJWQjFrUEM0aEl2SDBXTGRqeE5oYWJVR0xDUVY0TGxkUTV1cDdrc3BaWE0ybjd6UUw5MF8tQkRQWHBHbGx4cjZITXNmMXJfT3VYM3lrNDFFVU9wLW9qRjBnbjA4S0VOZHZ5UnJuU1lhNGNVMG9LRmpGSldfUUZiNjU3UVo3dkgwMjM3NlR1SWVxc2c?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T09:52:00+00:00",
+          "title": "Google’s AI Mode now lets you attach up to 10 photos at once - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "6caed0618a238686e4695c4e",
+      "topic": "portable_dac",
+      "title": "dac - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9maUp0ZUpMd3FySWN3ZXhtWmdnbV91NWVGODZ3eWM1Q2JVTUNxcHhGUmdmZ3oxY2FsRjhkN1pvR2Q2ZjR3Um52bTdMTnNfY0dpZ3p0MWgtM0lsTEl0ZXlZT0gyUHlBQmhCaGxnTg?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "dac Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-24T18:06:23+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9maUp0ZUpMd3FySWN3ZXhtWmdnbV91NWVGODZ3eWM1Q2JVTUNxcHhGUmdmZ3oxY2FsRjhkN1pvR2Q2ZjR3Um52bTdMTnNfY0dpZ3p0MWgtM0lsTEl0ZXlZT0gyUHlBQmhCaGxnTg?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T18:06:23+00:00",
+          "title": "dac - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "fb6d0f486598b433b42e4bf6",
+      "topic": "wired",
+      "title": "HEDDphone DX Headphone Review | Page 3 - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX0xOamlzYVNBY0UyblFteHBQYVk2YXZ0Q2xHOGt2N2V0cG94ZWczS0JqeFhvZHlPcTB5V1Bva05BTmRUcEVRZDlRTkNhX1JqUXpWZzIwWHFqLUFTWWdPNnNFTVFyTFh6LVB6Q2M3MXczNThOUzRZMG91RjdDSlZNeWN4SGk4ZExkNWxqazR2akFwekpPWm4yclZrMkpvUjNaUVpn?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "HEDDphone DX Headphone Review | Page 3 Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-25T05:08:55+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "possible_event_id": "4b819c4b7ffb",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX0xOamlzYVNBY0UyblFteHBQYVk2YXZ0Q2xHOGt2N2V0cG94ZWczS0JqeFhvZHlPcTB5V1Bva05BTmRUcEVRZDlRTkNhX1JqUXpWZzIwWHFqLUFTWWdPNnNFTVFyTFh6LVB6Q2M3MXczNThOUzRZMG91RjdDSlZNeWN4SGk4ZExkNWxqazR2akFwekpPWm4yclZrMkpvUjNaUVpn?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T05:08:55+00:00",
+          "title": "HEDDphone DX Headphone Review | Page 3 - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "b61695457c0243e0b8bb620b",
+      "topic": "portable_dac",
+      "title": "O²AT v0.2: open Layer-2 optical audio transport over 1G SFP. Requesting technical review - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTlpHLWJBcHM2ZDJJRFNJTHFHWTRKZTRaZFg0MnFqamNQYXVXcDZibG1kblkyRmx1SE5Rb0llZFBkRE5YMHptQzh0bWxUNHVlUkVBSWluMFFtQUhYc3ZLYzFLQ2pkLVVuRnlQTmpmbWRQYmFFWFdZVmJxRVRocDdSaUxieGpLTGVqZ2FaZktEb1h2WUNtM0V5NU1ITTdpZ25zZVhfVTdHaEdqbm1RTi1uX0R2a1k1VEZLOVhtTjI0bnpZenJpcXFPRU5ZNFNWUW1DSTVXZlFtRnNMYnZ3UXRobXM5SjZMLTMxdmpoalVn?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "O²AT v0.2: open Layer-2 optical audio transport over 1G SFP. Requesting technical review Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-24T20:39:49+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "1654a56c10a2",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTlpHLWJBcHM2ZDJJRFNJTHFHWTRKZTRaZFg0MnFqamNQYXVXcDZibG1kblkyRmx1SE5Rb0llZFBkRE5YMHptQzh0bWxUNHVlUkVBSWluMFFtQUhYc3ZLYzFLQ2pkLVVuRnlQTmpmbWRQYmFFWFdZVmJxRVRocDdSaUxieGpLTGVqZ2FaZktEb1h2WUNtM0V5NU1ITTdpZ25zZVhfVTdHaEdqbm1RTi1uX0R2a1k1VEZLOVhtTjI0bnpZenJpcXFPRU5ZNFNWUW1DSTVXZlFtRnNMYnZ3UXRobXM5SjZMLTMxdmpoalVn?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T20:39:49+00:00",
+          "title": "O²AT v0.2: open Layer-2 optical audio transport over 1G SFP. Requesting technical review - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "aca8b278c0c64a0600a670b7",
+      "topic": "tws",
+      "title": "How many Bluetooth devices can I connect to my LINK 10, LINK 20 and LINK 300? - JBL",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWWVjT0gwNHdVUkpkM3lhZ19qY2w1cGxVTmRjNkp4VGF5cDJ0ejluOEdOUjh3NHNLejJ5ZmtIRkNfNjNPVWloYS1lU0t0OTQ5MTZjMXh3YnV0ZE8zcV9mQzRVTk9GN3dqcnY4eEJRbDBOX19RdVh0aUVsSG9MX3U4T2JFTUZYN2JKMi1yR0o3STZ1ZlF6ZnRoOTd4Zm5tb0M5NU9CZG5rZm5BQkU4NUd0QzVGWU9jM05CVDVNNy1sRUJlaDRoOFpUUQ?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "How many Bluetooth devices can I connect to my LINK 10, LINK 20 and LINK 300? JBL",
+      "published_utc": "2026-11-25T13:03:39+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWWVjT0gwNHdVUkpkM3lhZ19qY2w1cGxVTmRjNkp4VGF5cDJ0ejluOEdOUjh3NHNLejJ5ZmtIRkNfNjNPVWloYS1lU0t0OTQ5MTZjMXh3YnV0ZE8zcV9mQzRVTk9GN3dqcnY4eEJRbDBOX19RdVh0aUVsSG9MX3U4T2JFTUZYN2JKMi1yR0o3STZ1ZlF6ZnRoOTd4Zm5tb0M5NU9CZG5rZm5BQkU4NUd0QzVGWU9jM05CVDVNNy1sRUJlaDRoOFpUUQ?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T13:03:39+00:00",
+          "title": "How many Bluetooth devices can I connect to my LINK 10, LINK 20 and LINK 300? - JBL"
+        }
+      ]
+    },
+    {
+      "id": "8b8dce61b77de41da0ec0020",
+      "topic": "tws",
+      "title": "What does IPX7 mean? - JBL",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU01BOE1mWXdRd3dCemZhc3Y0OVhVZEw2ZHBISFl2Mi1Cd25Wc3laR2xDbWRYeEpfRVpuR3V2bXJCY09DSm1rS3dEeGV2Y1JMWVgydXBNUGRyMGxuUDZYcDVTUVRuZ3FKaHJ3bGZVa3R3ZXNCRndNQlZFamtlSi1Jeg?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "What does IPX7 mean? JBL",
+      "published_utc": "2026-11-25T09:01:33+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU01BOE1mWXdRd3dCemZhc3Y0OVhVZEw2ZHBISFl2Mi1Cd25Wc3laR2xDbWRYeEpfRVpuR3V2bXJCY09DSm1rS3dEeGV2Y1JMWVgydXBNUGRyMGxuUDZYcDVTUVRuZ3FKaHJ3bGZVa3R3ZXNCRndNQlZFamtlSi1Jeg?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T09:01:33+00:00",
+          "title": "What does IPX7 mean? - JBL"
+        }
+      ]
+    },
+    {
+      "id": "d7f28bce04cb47fa6d2c8bdb",
+      "topic": "wired",
+      "title": "UA React Headphones: Volume Control Information - JBL",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV1JEeWhZaEZtMlRhTnUtaWwzMmZOWk5yb3dtcHNzdEs1VndZWDFoTkdMRG5TT25icmJ2dHpPN1R2bGJCeEJQdW5iSWp6X2Q0aC1jX0o3ek9EZkRKQS1kYnJBNVJ6Tm9xN0hHakY4V1p0NTQ5Yi1SaVBjOWZLN2lLRmJyQnFHU3RRZHNPVmd2SkdoZkU4d1U4cmlyVDJvVHNXN3RTQQ?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "UA React Headphones: Volume Control Information JBL",
+      "published_utc": "2026-11-25T09:48:05+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV1JEeWhZaEZtMlRhTnUtaWwzMmZOWk5yb3dtcHNzdEs1VndZWDFoTkdMRG5TT25icmJ2dHpPN1R2bGJCeEJQdW5iSWp6X2Q0aC1jX0o3ek9EZkRKQS1kYnJBNVJ6Tm9xN0hHakY4V1p0NTQ5Yi1SaVBjOWZLN2lLRmJyQnFHU3RRZHNPVmd2SkdoZkU4d1U4cmlyVDJvVHNXN3RTQQ?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T09:48:05+00:00",
+          "title": "UA React Headphones: Volume Control Information - JBL"
+        }
+      ]
+    },
+    {
+      "id": "51eb1930b456fba317b70a57",
+      "topic": "tws",
+      "title": "What is the length of the cable? - JBL",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZWc3TDFjbnVleFhVSjE0aE9CYVp1Q3JJVW9BV3ljdlRmdmNRUUg3Ui1WTnNaN0pKTlJxd1NUOVp3WkZ3LWRGVTRwOVlHcVdJWW5WclBxSUpfeGY5QkRFb0NfNWJKWDBhYUZMejBIQXNWSFNWdFc4ZVFNTmtodmY2R0JyOEY3Zw?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "What is the length of the cable? JBL",
+      "published_utc": "2026-11-25T11:54:40+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZWc3TDFjbnVleFhVSjE0aE9CYVp1Q3JJVW9BV3ljdlRmdmNRUUg3Ui1WTnNaN0pKTlJxd1NUOVp3WkZ3LWRGVTRwOVlHcVdJWW5WclBxSUpfeGY5QkRFb0NfNWJKWDBhYUZMejBIQXNWSFNWdFc4ZVFNTmtodmY2R0JyOEY3Zw?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T11:54:40+00:00",
+          "title": "What is the length of the cable? - JBL"
+        }
+      ]
+    },
+    {
+      "id": "02d4a66a0894a6e01adacc04",
+      "topic": "tws",
+      "title": "My JBL LINK 10,20,300 or 500 does not show up my Apple iOS device, how come? - JBL",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWlhIQ1lqNk1EZU14Wk52c0xTM3B6aFQ4ZzBpRFM0MmpKcHIyZWJJUUZRRU8xVGpyeTZQVTItUDQzNmtBc1ozMjRCZVllMjJMYktLZUNIeURkU0JtYVp6dEJYZXJ5OHRBMlRCX1k3UUVSUUVHQzVHanlaa29halZFNHhHNVpjMXhWa0NNMXN5WUF6Sk1MenYyTEFkNVQ3WTlZQzNvUTd5Y0s5WTVpc19hM184ZDRpWDloelgtY05n?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "My JBL LINK 10,20,300 or 500 does not show up my Apple iOS device, how come? JBL",
+      "published_utc": "2026-11-25T11:04:31+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWlhIQ1lqNk1EZU14Wk52c0xTM3B6aFQ4ZzBpRFM0MmpKcHIyZWJJUUZRRU8xVGpyeTZQVTItUDQzNmtBc1ozMjRCZVllMjJMYktLZUNIeURkU0JtYVp6dEJYZXJ5OHRBMlRCX1k3UUVSUUVHQzVHanlaa29halZFNHhHNVpjMXhWa0NNMXN5WUF6Sk1MenYyTEFkNVQ3WTlZQzNvUTd5Y0s5WTVpc19hM184ZDRpWDloelgtY05n?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T11:04:31+00:00",
+          "title": "My JBL LINK 10,20,300 or 500 does not show up my Apple iOS device, how come? - JBL"
+        }
+      ]
+    },
+    {
+      "id": "78393a8cd21854def3ca4fb1",
+      "topic": "wired",
+      "title": "Endgame headphone journey - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONVhSQjRXTFM4VWpSMG0xNzlXYU1LVUhOamlfMUV1eFpTczIyOFR3WFktLVpKMXNaTXN6SGxMOEM0aFY0TU9MX3FvWWVUS1NSUzFIeDY5MHBkVS1qeHpWT1NWdlBqMUdfNklqaVlta0ZoYnRYUlZKR0xuMFZnazFSeTRvTGI?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Endgame headphone journey Head-Fi.org",
+      "published_utc": "2026-11-25T14:20:43+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "possible_event_id": "440af8989729",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONVhSQjRXTFM4VWpSMG0xNzlXYU1LVUhOamlfMUV1eFpTczIyOFR3WFktLVpKMXNaTXN6SGxMOEM0aFY0TU9MX3FvWWVUS1NSUzFIeDY5MHBkVS1qeHpWT1NWdlBqMUdfNklqaVlta0ZoYnRYUlZKR0xuMFZnazFSeTRvTGI?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T14:20:43+00:00",
+          "title": "Endgame headphone journey - Head-Fi.org"
         }
       ]
     }

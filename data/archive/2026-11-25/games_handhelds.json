@@ -2768,6 +2768,32 @@
       ]
     },
     {
+      "id": "260ff186206110850306ec6f",
+      "topic": "racing_games",
+      "title": "F1 26 Race Engineer by Gallagheri (Free Version) v1.0.1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTlVFdzdmbFVxUVlmUm4xZkdrdmcwZUhWVWwxOFNySkVBY1ZQQ2x6UENuTEw2bEVFVFFGWGkySm5scTU5MWlKdU5lWWVxM3pGeGJxVUNmeTZsVmR1TjFXTmlZVExkZGhxMG5POXRKcEZEa19icEFGc25feWtPMVBQWlcwWXppUEhBMkdWWU4yc1o?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "F1 26 Race Engineer by Gallagheri (Free Version) v1.0.1 overtake.gg",
+      "published_utc": "2026-11-25T10:08:21+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTlVFdzdmbFVxUVlmUm4xZkdrdmcwZUhWVWwxOFNySkVBY1ZQQ2x6UENuTEw2bEVFVFFGWGkySm5scTU5MWlKdU5lWWVxM3pGeGJxVUNmeTZsVmR1TjFXTmlZVExkZGhxMG5POXRKcEZEa19icEFGc25feWtPMVBQWlcwWXppUEhBMkdWWU4yc1o?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T10:08:21+00:00",
+          "title": "F1 26 Race Engineer by Gallagheri (Free Version) v1.0.1 - overtake.gg"
+        }
+      ]
+    },
+    {
       "id": "72bcbd4f8d6c4ce315dc4e98",
       "topic": "racing_games",
       "title": "Dubai autodrome for F1 25 1.0.0 - overtake.gg",
@@ -3236,32 +3262,6 @@
       ]
     },
     {
-      "id": "b5243d2f0420c4cff645a5e9",
-      "topic": "racing_games",
-      "title": "Slow Roads on Steam - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMcE8yV1RrNE5BdGFwbVpxdHJsWS1PeGVVZlB2Wm9tZ2MyU282NEU4QTVJVThKLU1vLXN5XzRMWW03VVJPdG9zdjI5ZHVMWnVraEh4WFlXUDZkZjJWNWxETmJRVmg?oc=5",
-      "source": "Steam racing updates",
-      "publisher": "Steam",
-      "description": "Slow Roads on Steam Steam",
-      "published_utc": "2026-11-25T11:47:04+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMcE8yV1RrNE5BdGFwbVpxdHJsWS1PeGVVZlB2Wm9tZ2MyU282NEU4QTVJVThKLU1vLXN5XzRMWW03VVJPdG9zdjI5ZHVMWnVraEh4WFlXUDZkZjJWNWxETmJRVmg?oc=5",
-          "source": "Steam racing updates",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T11:47:04+00:00",
-          "title": "Slow Roads on Steam - Steam"
-        }
-      ]
-    },
-    {
       "id": "b83683546e9d67d4a86bc5a4",
       "topic": "racing_games",
       "title": "Tom Clancy's Ghost Recon® Breakpoint - Steam",
@@ -3549,32 +3549,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T16:38:27+00:00",
           "title": "LANESPLIT - Steam"
-        }
-      ]
-    },
-    {
-      "id": "72fbf00df6718e0521136db8",
-      "topic": "racing_games",
-      "title": "Sonic Racing: CrossWorlds - Steam",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SOEZmU3FudTNkOVFXRldHS1R5UEhyOEMyMlBTUFFOYlgwV1ZUWEc0dTZna0p6UGhxZHlMSDM5S252d1N4VXF2RXRuZ3RScml4MmFkeVc4dnNRWGhtVFNTTVQ0dktnZ3MxMlRJQTFINUw0R1UtU1Zv?oc=5",
-      "source": "Steam racing updates",
-      "publisher": "Steam",
-      "description": "Sonic Racing: CrossWorlds Steam",
-      "published_utc": "2026-11-25T07:39:21+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SOEZmU3FudTNkOVFXRldHS1R5UEhyOEMyMlBTUFFOYlgwV1ZUWEc0dTZna0p6UGhxZHlMSDM5S252d1N4VXF2RXRuZ3RScml4MmFkeVc4dnNRWGhtVFNTTVQ0dktnZ3MxMlRJQTFINUw0R1UtU1Zv?oc=5",
-          "source": "Steam racing updates",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T07:39:21+00:00",
-          "title": "Sonic Racing: CrossWorlds - Steam"
         }
       ]
     },
@@ -4671,32 +4645,6 @@
       ]
     },
     {
-      "id": "03bd402795dffa6945326fef",
-      "topic": "racing_games",
-      "title": "GTR2 Hxk7 FX DLL 2026-11-24 - overtake.gg",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kUDhpNDdyYnN5bDlDbmRXSU95cUg3UkQ1SnUwREpuUDZYXzhlQ0lEZ2tMRG5iQTZveVpiY0hKQ0RjeW1ka2xPWTdNaEEtZ2pWRGJabmo2alBCeVpKVFhNSUQ5ZGdWd2N6?oc=5",
-      "source": "OverTake",
-      "publisher": "overtake.gg",
-      "description": "GTR2 Hxk7 FX DLL 2026-11-24 overtake.gg",
-      "published_utc": "2026-11-24T20:48:10+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kUDhpNDdyYnN5bDlDbmRXSU95cUg3UkQ1SnUwREpuUDZYXzhlQ0lEZ2tMRG5iQTZveVpiY0hKQ0RjeW1ka2xPWTdNaEEtZ2pWRGJabmo2alBCeVpKVFhNSUQ5ZGdWd2N6?oc=5",
-          "source": "OverTake",
-          "publisher": "overtake.gg",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T20:48:10+00:00",
-          "title": "GTR2 Hxk7 FX DLL 2026-11-24 - overtake.gg"
-        }
-      ]
-    },
-    {
       "id": "5984494a7d9fd4e5f4efcb5c",
       "topic": "racing_games",
       "title": "APEX HUD - History - overtake.gg",
@@ -5504,32 +5452,6 @@
       ]
     },
     {
-      "id": "ad060d04178702cf7383b231",
-      "topic": "racing_games",
-      "title": "Assetto Corsa Rally - Steam",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wTHVwNmx5TEU2bm5WQ0hNeWxCRVdaRlVTQzY0WE9wa3YzOUZ3eUZTdTZmRy1XcVNPSjNPNW84Z21EYXBwc0tWMV93M0NYVV91d0haUU5odnQ4ZHBTalhfd0JqdC11NlZwSFhzdlhIWTA?oc=5",
-      "source": "Steam racing updates",
-      "publisher": "Steam",
-      "description": "Assetto Corsa Rally Steam",
-      "published_utc": "2026-11-25T01:11:59+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "レースゲーム候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wTHVwNmx5TEU2bm5WQ0hNeWxCRVdaRlVTQzY0WE9wa3YzOUZ3eUZTdTZmRy1XcVNPSjNPNW84Z21EYXBwc0tWMV93M0NYVV91d0haUU5odnQ4ZHBTalhfd0JqdC11NlZwSFhzdlhIWTA?oc=5",
-          "source": "Steam racing updates",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T01:11:59+00:00",
-          "title": "Assetto Corsa Rally - Steam"
-        }
-      ]
-    },
-    {
       "id": "5e90c7716510af96621dc722",
       "topic": "racing_games",
       "title": "Forza Horizon 6 1968 Alfa Romeo Tipo 33/2 - Steam",
@@ -6031,7 +5953,7 @@
       "source": "Steam racing updates",
       "publisher": "Steam",
       "description": "Forza Horizon 5 Steam",
-      "published_utc": "2026-11-25T05:38:50+00:00",
+      "published_utc": "2026-11-25T14:55:53+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -6044,7 +5966,7 @@
           "source": "Steam racing updates",
           "publisher": "Steam",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T05:38:50+00:00",
+          "published_utc": "2026-11-25T14:55:53+00:00",
           "title": "Forza Horizon 5 - Steam"
         }
       ]
@@ -6232,32 +6154,6 @@
       ]
     },
     {
-      "id": "1c08bbd7080c71527642a4b1",
-      "topic": "racing_games",
-      "title": "Vampires: Bloodlord Rising - Steam",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJdS1LVVBIWk1zTXhuOGZtckxadGZaN0FrUXExdWNsN1Y2UExaVFNFME1fVzhfYmkwcnNxMEg0N1Z5U3ZRdGQwY3QyRm5xWTdJRExfUlZSZDF3Mmtfb2hVbmNHakNHUUFUOUlUcmpldFhmYmh5bzF6WA?oc=5",
-      "source": "Steam racing updates",
-      "publisher": "Steam",
-      "description": "Vampires: Bloodlord Rising Steam",
-      "published_utc": "2026-11-25T02:21:31+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJdS1LVVBIWk1zTXhuOGZtckxadGZaN0FrUXExdWNsN1Y2UExaVFNFME1fVzhfYmkwcnNxMEg0N1Z5U3ZRdGQwY3QyRm5xWTdJRExfUlZSZDF3Mmtfb2hVbmNHakNHUUFUOUlUcmpldFhmYmh5bzF6WA?oc=5",
-          "source": "Steam racing updates",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T02:21:31+00:00",
-          "title": "Vampires: Bloodlord Rising - Steam"
-        }
-      ]
-    },
-    {
       "id": "12ce6230d955ee4f65519c66",
       "topic": "racing_games",
       "title": "Resident Evil 5 - Steam",
@@ -6410,6 +6306,240 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T16:00:01+00:00",
           "title": "Anderstorp Raceway for F1 25 - Reviews - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "72309e7bd21a8c19fc3957dc",
+      "topic": "racing_games",
+      "title": "Faaast Penguin - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BR3pNWm1mUmVKY1NRLTd4SC1LbDB4bVQ4TjlPdmFkTTJUVUtYVW9QVElONlp0LWVFdzVWa1V2Q1VIVFlPVE9QUEhfOE4wZG5TU3lJNGFiMDFBNVNqTlBSTTgzblF4ckJuRnc?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Faaast Penguin Steam",
+      "published_utc": "2026-11-25T07:34:28+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BR3pNWm1mUmVKY1NRLTd4SC1LbDB4bVQ4TjlPdmFkTTJUVUtYVW9QVElONlp0LWVFdzVWa1V2Q1VIVFlPVE9QUEhfOE4wZG5TU3lJNGFiMDFBNVNqTlBSTTgzblF4ckJuRnc?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T07:34:28+00:00",
+          "title": "Faaast Penguin - Steam"
+        }
+      ]
+    },
+    {
+      "id": "3ad821753d16f3adca56efae",
+      "topic": "racing_games",
+      "title": "Forza Horizon 5 - Steam",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sdVdpNXRxRDdCM2Z5d2l0MENfSmZadFoyX2R1LVU1cUpETjNQSktSVVpqOFd2cHFYNU82UkZrUlA5QVZGb1YwNjREU2NvWktiYzZ1dDEzaVFkcVVlY0lNRGIyT29CR1VYVDlvcFV2bWxoTmtvakJz?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Forza Horizon 5 Steam",
+      "published_utc": "2026-11-25T06:44:28+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sdVdpNXRxRDdCM2Z5d2l0MENfSmZadFoyX2R1LVU1cUpETjNQSktSVVpqOFd2cHFYNU82UkZrUlA5QVZGb1YwNjREU2NvWktiYzZ1dDEzaVFkcVVlY0lNRGIyT29CR1VYVDlvcFV2bWxoTmtvakJz?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T06:44:28+00:00",
+          "title": "Forza Horizon 5 - Steam"
+        }
+      ]
+    },
+    {
+      "id": "15e1b1be8c3451d0aba08b0e",
+      "topic": "racing_games",
+      "title": "American Truck Simulator - Road Trip: Ford - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYlMyVGtkY25xa21yV2l1MDhCRUxSdE5fUEhSd2NJVXlBWFEtNHk0V3AyYTNaR1JsQ3d5ZVo4ZjdjdTVjdVFibFlhUlVxZHNkQzdPZFM5a3RDd3ltUEgza1V2UUw3Zy1OdWJoLTlMdW5Zd2ZjTUl0T2RubUlmMWVfc0lhOXBubVdVTDIw?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "American Truck Simulator - Road Trip: Ford Steam",
+      "published_utc": "2026-11-25T14:44:46+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYlMyVGtkY25xa21yV2l1MDhCRUxSdE5fUEhSd2NJVXlBWFEtNHk0V3AyYTNaR1JsQ3d5ZVo4ZjdjdTVjdVFibFlhUlVxZHNkQzdPZFM5a3RDd3ltUEgza1V2UUw3Zy1OdWJoLTlMdW5Zd2ZjTUl0T2RubUlmMWVfc0lhOXBubVdVTDIw?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T14:44:46+00:00",
+          "title": "American Truck Simulator - Road Trip: Ford - Steam"
+        }
+      ]
+    },
+    {
+      "id": "c4b471b0aae660188b7cacaa",
+      "topic": "racing_games",
+      "title": "GRAND TIDDY ADVENTURES 🚨 - Steam",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tMkZuaXVQRHJjVUhNdkxuOXpaNGQyT3EtWmFjR1JHam5LVFl6MkNBZHNyRHBIaG9YZE9ua1lOcFpRNHVFZFo1akgyMjM5emo3MDFLNE5idFpRMVk5cFJRVC1OMjlpOTN3SlhvMlZ3SzVzWE9r?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "GRAND TIDDY ADVENTURES 🚨 Steam",
+      "published_utc": "2026-11-25T14:27:35+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tMkZuaXVQRHJjVUhNdkxuOXpaNGQyT3EtWmFjR1JHam5LVFl6MkNBZHNyRHBIaG9YZE9ua1lOcFpRNHVFZFo1akgyMjM5emo3MDFLNE5idFpRMVk5cFJRVC1OMjlpOTN3SlhvMlZ3SzVzWE9r?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T14:27:35+00:00",
+          "title": "GRAND TIDDY ADVENTURES 🚨 - Steam"
+        }
+      ]
+    },
+    {
+      "id": "af5c29605a15b662997b44a2",
+      "topic": "racing_games",
+      "title": "ACR Telemetry Overlay 1.7.7 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SbFI0eUR5LVRuUWszVGVxUzZ2S2ZwcllrNnNHZVQ2QWs3eldkNDVYeWlwMnZCVUhkZ1VZc2RsbkNyS2lybklaUlVvTFByUDhGZHR2WXcyTzQ0dE03MDhXcmFjMEtsQjZDZ2dBMWpDYw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "ACR Telemetry Overlay 1.7.7 overtake.gg",
+      "published_utc": "2026-11-25T07:27:14+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SbFI0eUR5LVRuUWszVGVxUzZ2S2ZwcllrNnNHZVQ2QWs3eldkNDVYeWlwMnZCVUhkZ1VZc2RsbkNyS2lybklaUlVvTFByUDhGZHR2WXcyTzQ0dE03MDhXcmFjMEtsQjZDZ2dBMWpDYw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T07:27:14+00:00",
+          "title": "ACR Telemetry Overlay 1.7.7 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "0cfc567414243f0daf994316",
+      "topic": "racing_games",
+      "title": "Provo Canyon (US-189), Utah - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kVDVjckI4TGRMMkMwMUk5ODZSeUZPZm5VUHlPT2pBUmE5azZ1ZS1KV2VIOFlTZ1VMR0pyWEtKdjhzQ0tYSnZCOWxoMkViTVMwM2JnVXhYRnQ2T1pTRzdDZHJqUk9fX2g5Uko5aFlZRDd3Vnc?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Provo Canyon (US-189), Utah overtake.gg",
+      "published_utc": "2026-11-24T16:41:29+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kVDVjckI4TGRMMkMwMUk5ODZSeUZPZm5VUHlPT2pBUmE5azZ1ZS1KV2VIOFlTZ1VMR0pyWEtKdjhzQ0tYSnZCOWxoMkViTVMwM2JnVXhYRnQ2T1pTRzdDZHJqUk9fX2g5Uko5aFlZRDd3Vnc?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T16:41:29+00:00",
+          "title": "Provo Canyon (US-189), Utah - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "5367c59e97413775a9be0b70",
+      "topic": "racing_games",
+      "title": "Automobilista2 Enginnering Dashboard - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSzFTT0RqWlRsaC0taEltNTB2cE00UnpnQk5hcHMtY1VmSVdYc25rMm5laDd3c1Jtb01MaDgwRG8xaEZQRGhBT2UxcUxRdGl2SXZBUmJsLWVuWGp2bWhsSFQxV1JWaGotcGVUU3prWTJfTWFZLTZ3T0Q5V05yX2RQa3lLcw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Automobilista2 Enginnering Dashboard overtake.gg",
+      "published_utc": "2026-11-24T17:34:38+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSzFTT0RqWlRsaC0taEltNTB2cE00UnpnQk5hcHMtY1VmSVdYc25rMm5laDd3c1Jtb01MaDgwRG8xaEZQRGhBT2UxcUxRdGl2SXZBUmJsLWVuWGp2bWhsSFQxV1JWaGotcGVUU3prWTJfTWFZLTZ3T0Q5V05yX2RQa3lLcw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T17:34:38+00:00",
+          "title": "Automobilista2 Enginnering Dashboard - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "7d06418eecd7d91a442e55be",
+      "topic": "racing_games",
+      "title": "Gurnigelpass 0.1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UckxXWk0yV3RHNF9ibFU2WGk5YUZTcHNpVXhTeGZoazgxWVUzU2kzcmM3bmVwOUxxd21pdG9HYUl3dFlfV2tnbThEc3dKeWxwa1Zxc2pjS29PWW5QYlE2MG1ORQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Gurnigelpass 0.1 overtake.gg",
+      "published_utc": "2026-11-25T12:23:50+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UckxXWk0yV3RHNF9ibFU2WGk5YUZTcHNpVXhTeGZoazgxWVUzU2kzcmM3bmVwOUxxd21pdG9HYUl3dFlfV2tnbThEc3dKeWxwa1Zxc2pjS29PWW5QYlE2MG1ORQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T12:23:50+00:00",
+          "title": "Gurnigelpass 0.1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "2aceddc5c20c581f9f7196ee",
+      "topic": "racing_games",
+      "title": "Startlight sound 1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WYzExZV9SSTluWXhFekItR05IQ21hT1dadlBMaWNDWXI4UWFPLVZMWUprUWtRMkp6NUlzNE1YNjhTTDRvNkFaOWo2eElIQlBjenZEbE9DM1k0UXlyZ0JqOEFwVzItMmhDb21QdTlHWE5xQQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Startlight sound 1 overtake.gg",
+      "published_utc": "2026-11-25T10:55:45+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WYzExZV9SSTluWXhFekItR05IQ21hT1dadlBMaWNDWXI4UWFPLVZMWUprUWtRMkp6NUlzNE1YNjhTTDRvNkFaOWo2eElIQlBjenZEbE9DM1k0UXlyZ0JqOEFwVzItMmhDb21QdTlHWE5xQQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T10:55:45+00:00",
+          "title": "Startlight sound 1 - overtake.gg"
         }
       ]
     }

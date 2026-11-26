@@ -1834,11 +1834,11 @@
     {
       "id": "484889b819a754d6e7092618",
       "topic": "racing_games",
-      "title": "PitStop Manager 1.0.9 - overtake.gg",
+      "title": "PitStop Manager 1.1.0 - overtake.gg",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xcHEzT01zd3RwQnczeU0zT1pUQ3lLMWRqNGlMYkFJdW0zcmVKMXZZZTFNTkc2Wmx5WC1PRE1NeDQ5b2NwNW9qRF9HTXlHUklvVFB0cUk2cTc5Mk5UbVRYTnVTZmlHbEk?oc=5",
       "source": "OverTake",
       "publisher": "overtake.gg",
-      "description": "PitStop Manager 1.0.9 overtake.gg",
+      "description": "PitStop Manager 1.1.0 overtake.gg",
       "published_utc": "2026-11-23T08:47:11+00:00",
       "date_jst": "2026-11-23",
       "timestamp_basis": "google_news_index",
@@ -1853,7 +1853,7 @@
           "publisher": "overtake.gg",
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T08:47:11+00:00",
-          "title": "PitStop Manager 1.0.9 - overtake.gg"
+          "title": "PitStop Manager 1.1.0 - overtake.gg"
         }
       ]
     },
@@ -1959,6 +1959,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-22T17:46:35+00:00",
           "title": "Risan Rally Stage Timer – Assetto Corsa Rally SimHub Dashboard - Updates - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "03bd402795dffa6945326fef",
+      "topic": "racing_games",
+      "title": "GTR2 Hxk7 FX DLL 1.05 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kUDhpNDdyYnN5bDlDbmRXSU95cUg3UkQ1SnUwREpuUDZYXzhlQ0lEZ2tMRG5iQTZveVpiY0hKQ0RjeW1ka2xPWTdNaEEtZ2pWRGJabmo2alBCeVpKVFhNSUQ5ZGdWd2N6?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "GTR2 Hxk7 FX DLL 1.05 overtake.gg",
+      "published_utc": "2026-11-23T04:02:30+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kUDhpNDdyYnN5bDlDbmRXSU95cUg3UkQ1SnUwREpuUDZYXzhlQ0lEZ2tMRG5iQTZveVpiY0hKQ0RjeW1ka2xPWTdNaEEtZ2pWRGJabmo2alBCeVpKVFhNSUQ5ZGdWd2N6?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T04:02:30+00:00",
+          "title": "GTR2 Hxk7 FX DLL 1.05 - overtake.gg"
         }
       ]
     },
@@ -2765,6 +2791,110 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T05:13:52+00:00",
           "title": "Active Race Control - Updates - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "17162cea4a209c1a6c28cc2a",
+      "topic": "racing_games",
+      "title": "Street Corsa: car career game (early access) 0.1.7 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZWtLN2pOTjJxSmhZUkFBRFE1ay11eDluYkhvenM4MTltRW5Dc0pSQml5MDJlOVhBQVdMcWlXbEJoM1BvX2lpVnd2Ti1aekJza2lqLTBDbkM2cFdobGxiUG80X0ZNXzhNQ3hUcVpLakZEcWdFaHBpS1FZY2VuSE5IVlcyU0IwcFhxdVE?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Street Corsa: car career game (early access) 0.1.7 overtake.gg",
+      "published_utc": "2026-11-23T05:42:23+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZWtLN2pOTjJxSmhZUkFBRFE1ay11eDluYkhvenM4MTltRW5Dc0pSQml5MDJlOVhBQVdMcWlXbEJoM1BvX2lpVnd2Ti1aekJza2lqLTBDbkM2cFdobGxiUG80X0ZNXzhNQ3hUcVpLakZEcWdFaHBpS1FZY2VuSE5IVlcyU0IwcFhxdVE?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T05:42:23+00:00",
+          "title": "Street Corsa: car career game (early access) 0.1.7 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "439eff312387e477083d1575",
+      "topic": "racing_games",
+      "title": "QARL 1.5.1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tZGhkY09BMWp6cUxxRURiZ09uY25peWN3N0hwel9Mcmd3cE5Ka0tJLTRnZ3VhM2Q0Z19qWGxyXzJBRXpQTElNRHZyZlNKNEZaVkNYRk5QQlY?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "QARL 1.5.1 overtake.gg",
+      "published_utc": "2026-11-22T20:25:13+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tZGhkY09BMWp6cUxxRURiZ09uY25peWN3N0hwel9Mcmd3cE5Ka0tJLTRnZ3VhM2Q0Z19qWGxyXzJBRXpQTElNRHZyZlNKNEZaVkNYRk5QQlY?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-22T20:25:13+00:00",
+          "title": "QARL 1.5.1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "cad6032335da26d2938e8838",
+      "topic": "racing_games",
+      "title": "ACR Course 3D - Real-time 3D Stage Layout Viewer, with AI Mode! 0.7.0.7 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2NVcDNqYUxla3hkeER3ZmVTb1d2WGQ3bTdrQThtYlZRTE5nMlBxbnI0NFJ2SUVadFFhaDBfQkpRX1JVQ3l0RURRQ2IzYlJ3eGRRTHM5MERuWEZjaFZHWkI3WU90SlBGMk9FSUtocFA1NVM3Ri03ZTY3MTRtd2tkVzNRYmF6S0kwR2cteW5IWm5GZVRYQkptOC1SRFl0Ykd2S3c?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "ACR Course 3D - Real-time 3D Stage Layout Viewer, with AI Mode! 0.7.0.7 overtake.gg",
+      "published_utc": "2026-11-23T07:24:25+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2NVcDNqYUxla3hkeER3ZmVTb1d2WGQ3bTdrQThtYlZRTE5nMlBxbnI0NFJ2SUVadFFhaDBfQkpRX1JVQ3l0RURRQ2IzYlJ3eGRRTHM5MERuWEZjaFZHWkI3WU90SlBGMk9FSUtocFA1NVM3Ri03ZTY3MTRtd2tkVzNRYmF6S0kwR2cteW5IWm5GZVRYQkptOC1SRFl0Ykd2S3c?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T07:24:25+00:00",
+          "title": "ACR Course 3D - Real-time 3D Stage Layout Viewer, with AI Mode! 0.7.0.7 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "80dcab914bcf48c38c92bf00",
+      "topic": "racing_games",
+      "title": "McLaren MCL39 Cockpit Sound - Reviews - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNUl5bWxSSUZkb2lSWlZyM3JVdkZEd19Sd2VkX0RqUGx3TTRWSlpsOTQxT3dvNkhrb3JYT0RucndmLTcyY1o0c003WUh6cDhVNlJVY1ZDMk82TVBfUnF5a09xbnNZMjBSanF4RUZqUGRCQXIxZWl6RzQzLVFzemJRUg?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "McLaren MCL39 Cockpit Sound - Reviews overtake.gg",
+      "published_utc": "2026-11-23T03:31:07+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNUl5bWxSSUZkb2lSWlZyM3JVdkZEd19Sd2VkX0RqUGx3TTRWSlpsOTQxT3dvNkhrb3JYT0RucndmLTcyY1o0c003WUh6cDhVNlJVY1ZDMk82TVBfUnF5a09xbnNZMjBSanF4RUZqUGRCQXIxZWl6RzQzLVFzemJRUg?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T03:31:07+00:00",
+          "title": "McLaren MCL39 Cockpit Sound - Reviews - overtake.gg"
         }
       ]
     }

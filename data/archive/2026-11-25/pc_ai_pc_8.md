@@ -1,5 +1,6 @@
-# pc / 2026-11-25 / 候補 351–361
+# pc / 2026-11-25 / 候補 351–362
 
+- [how to set the "speeching" in cantoonese in Word? There is no option to choose from when I tried to add language through the option sub-menu in file menu. - Microsoft Learn](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZW45clNsMWxIZFdadUVMNnU5MEpfb0loN1Q4cUxpb0Z1a3R5YXRNSXlMd0pLLWhQNmJLSFRGbWhwUTJnbEU5MS01Wnh1c0hXSkZlajlFQVVibS02Q3hjbldtcnN1eS1EbzZMUlZ6V2RTRjN3TElaTFV2QTczU3FBeWFNTFZWVEN5b2NDeUhFQnBQMkJhVlp6cEZrc3I4S0NSZDdZOFNPY0ZmVHF6T2VF?oc=5) — Microsoft Windows｜要確認｜2026-11-25T11:57:05+00:00 UTC｜discovery_index
 - [igor´sLAB - igor´sLAB](https://news.google.com/rss/articles/CBMiQEFVX3lxTFA2UnNxb3dGMlZWdHE3Ul80cG5JVVJvWHd3MnRoWC1DN1U1VnBaQUM5VWw5SWpYbEdZVjVoellzZXE?oc=5) — Igor’sLAB｜要確認｜2026-11-25T10:59:01+00:00 UTC｜discovery_index
 - [my word is not working - Microsoft Learn](https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3lWNzR0akE0a2VaVDBnNVNoNUxFMUZKRHpjOERPTV9mN29QMUgxX190UFZ2S25OZTk2N3RvdHpJRHRsMUM1bk1Rd1dEZTdvV3U4QzluNVNyRlMwaUxLM2VOVmc1MHBNeU1IWjYwSWZaYkZ5NW1RbXRnSkZzR1daRFJ4aXZmZnQ3cWc?oc=5) — Microsoft Windows｜要確認｜2026-11-25T06:57:57+00:00 UTC｜discovery_index
 - [need a clean Windows - Microsoft Learn](https://news.google.com/rss/articles/CBMihwFBVV95cUxPYjBDWG43dXQ3T0FDYjZiOGhNWnRUUHNOd3Bjc0hkM2NQM3FFZmVuclYtajloRnBQcUZpQzRuNkJpc2VUSDJHS3ljYzZ3WFpyQ3A2Mjl0V2ZfTHhhVDF4SHg4WVNzaGJJbDlsc2txUXVTTGw2V0FSRnhxMFdhRTFiWEZTTzFzQmc?oc=5) — Microsoft Windows｜要確認｜2026-11-25T12:57:07+00:00 UTC｜discovery_index
