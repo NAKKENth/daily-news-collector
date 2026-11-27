@@ -1,5 +1,6 @@
 # pc / 2026-11-26 / 候補 51–100
 
+- [Games Without AI Festival Launches Following Controversial "AI Slop" Steam Next Fest](https://www.techpowerup.com/355217/games-without-ai-festival-launches-following-controversial-ai-slop-steam-next-fest) — TechPowerUp｜要確認｜2026-11-25T21:43:28+00:00 UTC｜feed_published
 - [Games Without AI: Auf Steam wird der KI-Verzicht zum Verkaufsargument](https://www.computerbase.de/news/gaming/games-without-ai-auf-steam-wird-der-ki-verzicht-zum-verkaufsargument.100528) — ComputerBase｜要確認｜2026-11-26T06:00:00+00:00 UTC｜feed_published
 - [GeForce RTX 5000シリーズ用GPUの供給量が減少するとの情報。前期比で約20～30％減の見込み](https://www.nichepcgamer.com/archives/post-134271.html) — NichePCGamer｜要確認｜2026-11-25T15:07:10+00:00 UTC｜feed_published
 - [Get 2TB of PCIe 5.0 storage for less than $300 in stellar Crucial P510 sale](https://www.tomshardware.com/pc-components/ssds/get-2tb-of-pcie-5-0-storage-for-less-than-usd300-in-stellar-crucial-p510-sale-drive-is-available-for-just-usd294-99-less-than-some-1tb-alternatives) — Tom’s Hardware｜要確認｜2026-11-25T22:10:45+00:00 UTC｜feed_published
@@ -49,4 +50,3 @@
 - [Sandiskの監視カメラ/ドラレコ向け高耐久microSDカードが複数入荷](https://akiba-pc.watch.impress.co.jp/docs/news/news/2158409.html) — AKIBA PC Hotline｜要確認｜2026-11-26T02:05:00+00:00 UTC｜article_metadata
 - [Save on a budget router with prices starting at just $39 — TP-Link Archer AX1450 and Netgear RAX5 Wi-Fi 6 routers go on low sale](https://www.tomshardware.com/networking/routers/save-on-a-budget-router-with-prices-starting-at-just-usd39-tp-link-archer-ax1450-and-netgear-rax5-wi-fi-6-routers-go-on-low-sale) — Tom’s Hardware｜要確認｜2026-11-25T18:54:47+00:00 UTC｜feed_published
 - [Save up to 36% on a some of the best PC speakers we've reviewed](https://www.tomshardware.com/speakers/save-up-to-36-percent-on-a-some-of-the-best-pc-speakers-weve-reviewed-deals-starting-at-just-usd26-from-audioengine-creative-edifier-and-more) — Tom’s Hardware｜要確認｜2026-11-25T20:30:25+00:00 UTC｜feed_published
-- [Solo developer vibe codes a gallery hosting 36 classic GPU demos](https://www.tomshardware.com/video-games/retro-gaming/solo-developer-vibe-codes-a-gallery-hosting-36-classic-gpu-demos-preservation-effort-includes-3dfx-voodoo-showcases-from-1997-nvidia-bubble-and-more) — Tom’s Hardware｜要確認｜2026-11-26T14:00:00+00:00 UTC｜feed_published

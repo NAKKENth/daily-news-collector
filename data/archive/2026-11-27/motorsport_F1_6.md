@@ -1,0 +1,5 @@
+# F1 / 2026-11-27 / 候補 251–253
+
+- [‘What the f**k do they want?’ – Bortoleto slams drivers’ Las Vegas GP criticism - PlanetF1](https://news.google.com/rss/articles/CBMijAFBVV95cUxNakUycTE2QWNLSVBJeVhxcFB4SnVjRzdVMmpHemtFdk5qRmJYd25xYklKRXdCaGFjNE9xMU80Rmdsb3hRc1Nmak1hVmZtZm9hd0ItakloRUVEWG1VZ1k4LWlSbjRTYXdjZ1RYTmhpVVFsUUlVaDNtMEVWQkhmN3VXcjJWMGJvNlBYQUtqUQ?oc=5) — PlanetF1｜要確認｜2026-11-26T16:03:48+00:00 UTC｜discovery_index
+- [“We need to find another solution” to Ferrari driver clashes, admits Leclerc - RaceFans](https://news.google.com/rss/articles/CBMirwFBVV95cUxOU3VaNXFvU3lmQkw2QUxfUEFfb0NfWmVlYm9UOGN6N0xRLWl0WHZUa1hEREMxMHNJaG9JU2FWbThROFgyTXAzdFhNbEVYZHo3SUx5bTVFS3JwQ0hFWkk1SkkxT281TzJBamxhVUFCb0hteTF4V3I1N014MnZpR0gtYTY5VkR4d0lMWUI1UnZhdVk2ZWtZUXZ5N29GOW5maFdVRXJYbmVZbU96TTl3d19N?oc=5) — RaceFans｜要確認｜2026-11-26T16:22:48+00:00 UTC｜discovery_index
+- [【写真2】2026年F1第21戦ラスベガスGP - autosport web](https://news.google.com/rss/articles/CBMibkFVX3lxTE0wQ3lmNXFPS0U1TDlDUFRWX2xLSTA0OUJhUDgzWFQzQnhicXZvdDA4S0UzcTV5MnhQc1VCTWZQYWV5OEgzQWNMTTNKeldiMHNPMFY0MWdKOXNQWlVIdktHbXBjQTR0aGp2aUJTMVh3?oc=5) — AUTOSPORT web｜要確認｜2026-11-26T15:36:00+00:00 UTC｜discovery_index

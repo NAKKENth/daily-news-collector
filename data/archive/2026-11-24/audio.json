@@ -1631,6 +1631,32 @@
       ]
     },
     {
+      "id": "f54f7d74d4e5e9f0f38f321f",
+      "topic": "portable_dac",
+      "title": "brianinoc - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUEFzXzJqckdsLV9fZ3BkVFlvZDhlMmJ6Wm94UHZHdUktUFhjZlY2dkRrUFNkdkZ5SXVJYUNWODdSWm1SaUgzbDlTUEkwaG9VVk9BLTM4M1FaYWNXM0plNUxwVG95djlNNDk5T2tYS085bjZNd1NKbXpLcFAwUTViOVJR?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "brianinoc Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-23T21:58:23+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUEFzXzJqckdsLV9fZ3BkVFlvZDhlMmJ6Wm94UHZHdUktUFhjZlY2dkRrUFNkdkZ5SXVJYUNWODdSWm1SaUgzbDlTUEkwaG9VVk9BLTM4M1FaYWNXM0plNUxwVG95djlNNDk5T2tYS085bjZNd1NKbXpLcFAwUTViOVJR?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T21:58:23+00:00",
+          "title": "brianinoc - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
       "id": "2c256f236b4360a1a8e71de7",
       "topic": "portable_dac",
       "title": "Bas12 - Audio Science Review (ASR) Forum",
@@ -1638,7 +1664,7 @@
       "source": "Audio Science Review",
       "publisher": "Audio Science Review (ASR) Forum",
       "description": "Bas12 Audio Science Review (ASR) Forum",
-      "published_utc": "2026-11-24T14:29:37+00:00",
+      "published_utc": "2026-11-24T06:55:55+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -1651,7 +1677,7 @@
           "source": "Audio Science Review",
           "publisher": "Audio Science Review (ASR) Forum",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T14:29:37+00:00",
+          "published_utc": "2026-11-24T06:55:55+00:00",
           "title": "Bas12 - Audio Science Review (ASR) Forum"
         }
       ]
@@ -2496,7 +2522,7 @@
       "source": "JBL",
       "publisher": "JBL",
       "description": "JBL Live 780NC | Wireless over-ear Noise Cancelling headphones JBL",
-      "published_utc": "2026-11-24T05:12:21+00:00",
+      "published_utc": "2026-11-24T00:28:05+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -2509,8 +2535,34 @@
           "source": "JBL",
           "publisher": "JBL",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T05:12:21+00:00",
+          "published_utc": "2026-11-24T00:28:05+00:00",
           "title": "JBL Live 780NC | Wireless over-ear Noise Cancelling headphones - JBL"
+        }
+      ]
+    },
+    {
+      "id": "da8fca6b77fe88a308d5e398",
+      "topic": "tws",
+      "title": "Google Wallet is getting a handy update that saves you from typing your CVV - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hLXQydGgzdkI2SzBjZHBRbG9YalN6dHJmcFJXS2luZ0ctek1TMnNSRzZobFpvWWIyTzlrS0p3WUVyaW44ZG80WFd4VWFKT0hKaF8yYjRXZ2JITExoMHJiMnhlODc5UnhmRnlmNHFZdDlkTTlxNnJN?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Google Wallet is getting a handy update that saves you from typing your CVV Android Authority",
+      "published_utc": "2026-11-24T06:56:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hLXQydGgzdkI2SzBjZHBRbG9YalN6dHJmcFJXS2luZ0ctek1TMnNSRzZobFpvWWIyTzlrS0p3WUVyaW44ZG80WFd4VWFKT0hKaF8yYjRXZ2JITExoMHJiMnhlODc5UnhmRnlmNHFZdDlkTTlxNnJN?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T06:56:00+00:00",
+          "title": "Google Wallet is getting a handy update that saves you from typing your CVV - Android Authority"
         }
       ]
     }

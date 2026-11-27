@@ -9,6 +9,15 @@
     "reason": "一覧・ナビゲーション候補"
   },
   {
+    "id": "a8611ff11692c8546bdc8c60",
+    "group": "motorsport",
+    "topic": "WRC",
+    "title": "- WRC.com",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95dkJFUVFkejZWekZ6dlRISjZ4MzRpM1dCWWNGWEhzU3BWYWtIRFJwX3JmSUd0RVhPWEo3dGZnNUY3WnZJMElYSElfdjU4TVJGSkc0b0R4TUxOakVMMzBmNXdpaGJxbUY3NEdrVENZOVA0TTg?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
     "id": "c1ad7655e6e14a2ec1ca2553",
     "group": "pc_ai",
     "topic": "pc",
@@ -54,6 +63,15 @@
     "reason": "一覧・ナビゲーション候補"
   },
   {
+    "id": "5db7f7e63c8a769351e8470d",
+    "group": "audio",
+    "topic": "tws",
+    "title": "Member login - Bluetooth - Bluetooth® Technology Website",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KM3Q0SWZ6QXhEek83QldOdGF3Y3JTNy1Fc3RIaUJtRlE4VXM2WndXZk1vOXlucF9rcEpRTTRPajJvNWgyNzBFX1V2SFZ3WkdnTjExM1V3eXZXcTBHdkJkSVQ1c2o?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
     "id": "2396e680a24882f63d7fc827",
     "group": "audio",
     "topic": "tws",
@@ -70,15 +88,6 @@
     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5fRThiZDk3eGVlQl8xYU5BRzBiTmFFTEFRRVZmdlNNTnRSNVF3QzJ0eHZkXy1wbDJ0UklkcXROWm5BS0FVd3NOVw?oc=5",
     "triage": "exclude",
     "reason": "一覧・ナビゲーション候補"
-  },
-  {
-    "id": "f51a974d913252e8ebe35f07",
-    "group": "pc_ai",
-    "topic": "pc",
-    "title": "INNOCN Black Friday Monitor Deals: Save on QD-OLED Gaming, Ultrawide and 4K Displays",
-    "url": "https://www.techpowerup.com/354930/innocn-black-friday-monitor-deals-save-on-qd-oled-gaming-ultrawide-and-4k-displays",
-    "triage": "exclude",
-    "reason": "通常セール・販促・中古"
   },
   {
     "id": "bc7ca19a291d4c69c58eb7ed",
@@ -108,11 +117,20 @@
     "reason": "通常セール・販促・中古"
   },
   {
-    "id": "d18b1598b49eca649fccc65f",
+    "id": "012da109c737ae5fb961856a",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "- Microsoft",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjSEJZYklCeENJV1NqcFNDeTNCWUFEQXdjbkhHSWZSdGN6bThuOWEwTG1mVHlpZnROWGt1X1dFR1FNdUVGajdnbE03bkRORDVwdFhoRmlxVnJjUDQ?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "8eeec7ede98bc04134f0f71d",
     "group": "audio",
     "topic": "tws",
-    "title": "The best Black Friday audio deals of 2026",
-    "url": "https://www.soundguys.com/best-black-friday-audio-deals-of-2026-166200",
+    "title": "Best Black Friday deals: Big discounts on phones, smartwatches, and more - Android Authority",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sNThtUTZXZG03b19RRTdfbEJkVGc4U19pdTVlWXlPSWRvWG9WOEpLaVlpWWVRU3VHd0RHUDhkZlI2Y08yOGJ1em1rNXY4amZvemZ4enBMU250cmE5dVhuV1JqMDA5eHFZdnRQNGcweWlFMzl1VVBDSGl3?oc=5",
     "triage": "exclude",
     "reason": "通常セール・販促・中古"
   },
@@ -243,6 +261,15 @@
     "reason": "通常セール・販促・中古"
   },
   {
+    "id": "c323638e6be9c3a07a03d4ab",
+    "group": "audio",
+    "topic": "tws",
+    "title": "Car & Marine Speakers - JBL",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1NbU9DN1Rrd3NOTWlrY2F1MjZuZWtUR0RzT0RlTWFodlNnZGY3NTBGT2Ewa2FCWDJ5QW9XTnRTR2JCVWxtOFE?oc=5",
+    "triage": "exclude",
+    "reason": "対象外機器・サービス"
+  },
+  {
     "id": "9406d676bc88d3b66c7ca790",
     "group": "motorsport",
     "topic": "F1",
@@ -306,6 +333,15 @@
     "reason": "通常セール・販促・中古"
   },
   {
+    "id": "d59ebb521a6e1aaee54fe6a7",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "アキバお買い得価格情報（11月27日～28日調査） ブラックフライデー、iPadのジャンク品処分市、球体型ビデオプレイヤーが再入荷、iPhone 16 Pro Max 256GBの中古品が140,000円 ほか",
+    "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/2159730.html",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
     "id": "df110e18749e68ee4c6807b3",
     "group": "pc_ai",
     "topic": "ai",
@@ -345,7 +381,7 @@
     "id": "6a18b676320449d2d016ca2a",
     "group": "motorsport",
     "topic": "F1",
-    "title": "Marquez reveals why he celebrated his historic MotoGP title differently",
+    "title": "Marquez reveals different approach to celebrating historic MotoGP title",
     "url": "https://www.gpblog.com/en/motogp/marquez-reveals-why-he-celebrated-his-historic-motogp-title-differently",
     "triage": "exclude",
     "reason": "対象外競技"
@@ -412,6 +448,15 @@
     "url": "https://www.macrumors.com/2026/11/26/50-best-apple-black-friday-deals",
     "triage": "exclude",
     "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "f5bb7865fd966a04012481d3",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "- Micron",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yVG9zTkdVZTBSOGRRemhydThaQlZxR2x2ZW5BWlphNjFwRVQ0VWFsUVIyOE5RNzJPN3Z4VnEzdUhiYTh5QmpEMEswcEVWRXVqb2dNaG93TDIyWmZRdDRsSkRiMy1vUXJ5YUZHUE9FMUJGcjFI?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
   },
   {
     "id": "562520f01a490a7cbdb7f407",
@@ -1240,5 +1285,572 @@
     "url": "https://www.soundguys.com/sennheiser-momentum-4-black-friday-deal-167017",
     "triage": "exclude",
     "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "78834eb5e135900a8b756f5a",
+    "group": "pc_ai",
+    "topic": "ai",
+    "title": "Apple TV is $6.99/month (50% off) for Black Friday, details here",
+    "url": "https://9to5mac.com/2026/11/27/apple-tv-launches-50-off-black-friday-deal-6-99-month-for-6-months",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "148119b92ddce458292fdf4e",
+    "group": "pc_ai",
+    "topic": "ai",
+    "title": "These are the best Mac Black Friday deals",
+    "url": "https://9to5mac.com/2026/11/27/mac-black-friday-deals-roundup",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "9cc597b4ae0f5561a5b627ad",
+    "group": "pc_ai",
+    "topic": "ai",
+    "title": "Apple Black Friday, Siri AI usage limits, more on HomeView",
+    "url": "https://9to5mac.com/2026/11/27/happy-hour-618",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "a274933fd9bce8483232d093",
+    "group": "pc_ai",
+    "topic": "ai",
+    "title": "Best Apple Black Friday deals: AirPods, MacBook, Apple Watch, AirTag 2, more [Updated]",
+    "url": "https://9to5mac.com/2026/11/27/best-apple-black-friday-thanksgiving-deals",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "c755cb460769f9b30fa38ad5",
+    "group": "pc_ai",
+    "topic": "ai",
+    "title": "Amazon main event Black Friday sale now live! Apple, Google, Anker, LEGO, TVs, more",
+    "url": "https://9to5toys.com/2026/11/27/amazon-official-black-friday-sale-live-2026",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "885a96e596d04a6e6e4535b3",
+    "group": "motorsport",
+    "topic": "other_motorsport",
+    "title": "Marquez explains decision behind shock MotoGP retirement",
+    "url": "https://www.autosport.com/motogp/news/marquez-explains-decision-behind-shock-motogp-retirement/10878190",
+    "triage": "exclude",
+    "reason": "対象外競技"
+  },
+  {
+    "id": "ed9816d316a01ae7b725d030",
+    "group": "motorsport",
+    "topic": "other_motorsport",
+    "title": "MotoGP Valencia GP: Bezzecchi leads retiring Marquez in cold FP1",
+    "url": "https://www.autosport.com/motogp/news/motogp-valencia-gp-marco-bezzecchi-leads-marc-marquez-in-cold-fp1/10878165",
+    "triage": "exclude",
+    "reason": "対象外競技"
+  },
+  {
+    "id": "4c61711d4c16b6f31865e9e2",
+    "group": "motorsport",
+    "topic": "other_motorsport",
+    "title": "Marquez to retire from MotoGP after Valencia GP",
+    "url": "https://www.autosport.com/motogp/news/marc-marquez-announces-immediate-retirement-from-motogp-in-bombshell-announcement/10878137",
+    "triage": "exclude",
+    "reason": "対象外競技"
+  },
+  {
+    "id": "db4f66eb5527f2dccd6487c8",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "microSD ExpressやSSDなどNextorage製品が最大33%オフ！Amazonブラックフライデー",
+    "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2159740.html",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "8b24bea26e969bad2a57e025",
+    "group": "pc_ai",
+    "topic": "ai",
+    "title": "ロジクールの MX ERGO S が 26% オフ、M575SPd は 4,980 円。Amazon ブラックフライデー先行セール",
+    "url": "https://helentech.jp/sale-94107",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "787ebf71b0ebfd221964290a",
+    "group": "motorsport",
+    "topic": "F1",
+    "title": "Marc Márquez says goodbye to MotoGP: The timeline of an absolute great",
+    "url": "https://www.gpblog.com/en/motogp/marc-marquez-says-goodbye-to-motogp-the-timeline-of-an-absolute-great",
+    "triage": "exclude",
+    "reason": "対象外競技"
+  },
+  {
+    "id": "96a8d8773af9a30c9cda4d73",
+    "group": "motorsport",
+    "topic": "F1",
+    "title": "MotoGP FP1 Results | Marquez just misses out on P1 after announcing retirement",
+    "url": "https://www.gpblog.com/en/motogp/motogp-fp1-results-marquez-just-misses-out-on-p1-after-announcing-retirement",
+    "triage": "exclude",
+    "reason": "対象外競技"
+  },
+  {
+    "id": "deea07961a5f99ac13884726",
+    "group": "motorsport",
+    "topic": "F1",
+    "title": "Marc Marquez retires from MotoGP in an unexpected way",
+    "url": "https://www.gpblog.com/en/motogp/marc-marquez-announces-retirement-from-motogp-in-unexpected-fashion",
+    "triage": "exclude",
+    "reason": "対象外競技"
+  },
+  {
+    "id": "f5437b5532c0790b25657493",
+    "group": "motorsport",
+    "topic": "F1",
+    "title": "MotoGPバレンシアFP1｜ランキング2位狙うベッツェッキが最速！ 電撃引退発表の王者マルケス2番手＆小椋藍トップ10",
+    "url": "https://jp.motorsport.com/motogp/news/motogp-2026-rd22-fp1/10878151",
+    "triage": "exclude",
+    "reason": "対象外競技"
+  },
+  {
+    "id": "4383e793a16b5da1cbe7b6fa",
+    "group": "motorsport",
+    "topic": "F1",
+    "title": "マルク・マルケス、2026年限りでMotoGP引退を電撃発表！ 通算10度、最高峰クラス8度タイトルで勇退",
+    "url": "https://jp.motorsport.com/motogp/news/marc-marquez-retirement-breaking/10878136",
+    "triage": "exclude",
+    "reason": "対象外競技"
+  },
+  {
+    "id": "6503259f9de72ebf9ec3d37f",
+    "group": "motorsport",
+    "topic": "F1",
+    "title": "ジャック・ミラー、MotoGP最後のレースに特別カラーリングで出場。母国オーストラリアで披露予定だった黄色カラーで臨む",
+    "url": "https://jp.motorsport.com/motogp/news/jack-miller-to-revive-unraced-australian-gp-livery-for-motogp-farewell/10878081",
+    "triage": "exclude",
+    "reason": "対象外競技"
+  },
+  {
+    "id": "9f5a958d7b64d242d7e4b6df",
+    "group": "motorsport",
+    "topic": "F1",
+    "title": "フランチェスコ・バニャイヤ、頭部負傷でMotoGP最終戦を欠場。ドゥカティとの蜜月に幕「キャリア最高の瞬間を共にした」",
+    "url": "https://jp.motorsport.com/motogp/news/francesco-bagnaia-pays-tribute-to-ducati-reveals-head-injury-behind-valencia-absence/10878062",
+    "triage": "exclude",
+    "reason": "対象外競技"
+  },
+  {
+    "id": "23c7973f35a96bb192dbb89f",
+    "group": "pc_ai",
+    "topic": "smartphones",
+    "title": "セール中の「Echo Dot（第6世代）」は買いか？ Echo Dot MaxやEcho Timeとの違いは？ スマートホームハブ内蔵＆Alexa+対応の進化点を実機検証",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2611/27/news056.html",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "60434c7b8f4677f3328ed4b3",
+    "group": "motorsport",
+    "topic": "F1",
+    "title": "Breaking: Marc Marquez stuns MotoGP with retirement after eighth title",
+    "url": "https://racingnews365.com/marc-marquez-stuns-motogp-with-retirement-after-eighth-title",
+    "triage": "exclude",
+    "reason": "対象外競技"
+  },
+  {
+    "id": "ffc730d1d5b37fc29213e403",
+    "group": "pc_ai",
+    "topic": "ai",
+    "title": "Buying a laptop right now is rough, but these Black Friday deals help",
+    "url": "https://www.theverge.com/gadgets/1042512/best-black-friday-laptop-notebook-deals-2026",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "a5dd8279be4f818b067b4e1d",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "Intel Core Ultra 7 270K Plus Drops From $339 To $232 On Amazon For Black Friday, Making It The Cheapest 24-Core CPU On The Market",
+    "url": "https://wccftech.com/intel-core-ultra-7-270k-plus-drops-from-339-to-232-on-amazon",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "87eedd3bbc210a71df3c4b55",
+    "group": "pc_ai",
+    "topic": "ai",
+    "title": "Black Friday test for retailers as tight budgets meet AI-savvy shoppers - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTENoLVpUUlhtT3oxYnhyQXhteVRhZ29Kb3BtaFc4UHc2QWtfdVNjRzJOZUxTb1VqaE8xY29STm1vV182RzBIR3JEN1QxVXVuY1hXVkpGMDQzNGIwbnBYQ2pmQVdFRDk0ckZWbGl6UE4tRU5mQ3RxaGFEZ2Zpb0VpbzE2OEJtQlFiNm5iblZpeWdXN2Zpay1vYmJsVWJObE0zRThqbFh4MGRVQUJBMlNIQzFhQTNoOW5XUjVRVXZtR0toRWc?oc=5",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "673d2531728d6c53d8013d2a",
+    "group": "audio",
+    "topic": "tws",
+    "title": "Samsung is bringing Galaxy Watch 9 health features to older Galaxy Watches - Android Authority",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeHNPeW4wYnduN0dERDJLb19uYTZQWTFJMG1tTEZOdlJLS2pFLTQ0V2RyeU9YUzBRaU5xSVRIbzNXSDVoaXlPZmU1YVlBUzBOWVBQX0xPS0NBbWwwSHVQN0RiZWIxd295bldkeDBMWDd4OVF4X1hpdXplZWRhUldtdVhJdnlqS1ZNY2FTYWEtbw?oc=5",
+    "triage": "exclude",
+    "reason": "対象外機器・サービス"
+  },
+  {
+    "id": "86903930eab8ab4b633be0df",
+    "group": "audio",
+    "topic": "tws",
+    "title": "Sony WF-C510 earbuds drop to $41.95, their lowest in months - Android Authority",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IZFh3Uk9obEoxSTJOdjBJTzZ5c1JFSXZpTnNPcnZ2SFBHR2k4UU1EamhndVRhbzRVdWdmdHBGMHJ2LWRfLTJNa20ybWtZb1dWWnZfLUtVZ3RKOVp6aTZZLTRnaElhb29la1JN?oc=5",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "ae015de90bcdc0e4d2628a03",
+    "group": "audio",
+    "topic": "tws",
+    "title": "Sony's WI-C100 wireless earbuds drop to $23 with 42% off - Android Authority",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lQnllckZncEp1QXROZWpNbUllcEVkOFNJeXMzOHp0ZzdoU1FsTUh3X2dJM3pZOC1aVW0zRldaZnNXOHJOWThDWVZnVUdiQ0I0cHlpcWVuLWhzeHJrLTNJSFhUcDRIci1JN1RQeGh5cUc3UmZJR0VpZEtoNmw?oc=5",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "3f1c9e98d9c0488188dbdf22",
+    "group": "motorsport",
+    "topic": "WRC",
+    "title": "- WRC.com",
+    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNSEdDem5QVmdBM1pSV3M2OGFRYkNmTDVyTjlNaWFoLXlTcnpiWHBreGRBbUpqUGdrNW5wUE1UakhmRG0xSVpRVG9DMkZyS3RpN2lpNzZoQ2lDOFd4X2ZFdmJCbzl6N1RYeXh1SnhYdFdvdnhid3dvZk10N3hfQ2VsZERWbDNZTW5idTB5TXRwNm5EUGpPUGxPdGVpX1l3VmN0b0RuYVdjTXRudGhsdlM1NFZSY0VrNkpwZGxNNEFzSXV4elBrR2lvVzdWRkU2VGNiamhaWFBNXzcyVXFoZVBVYTdYV2k4Tk1ZLWNHZl9lYzB3eUZYUFpjUm5vYVFoQWJmbTBYN09rdElXaHZWRXB5UkJ4SG0tSnNPUTZ3MmNOcjBfb1k?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "8571996496fd1905b60b69bc",
+    "group": "motorsport",
+    "topic": "WRC",
+    "title": "- WRC.com",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaksxb0VZZWdaUG5lUWFycmlfczBSazYwR3NiSlQxeUd2dnB6TDFSZUhibGJySEhYSUxIM0RNVFJ1cjVkQkVjLVV2S1dFUUphLTZTUHktdnRRUmh1V0sxM1d6V2d0NXlURG5QbWE0VGV5eTMzdnVrOU01TTFMNFJibHR6SWNEYjVTZVlnUG15RDlWd2k2S1pVc1FqWmZHYVM5TXhzaVd1d0ZNaTlOZ1J3SkM0UWd4V01wYjFQcHIzYnlHdw?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "b14fb4192a2cd6afcdca4222",
+    "group": "motorsport",
+    "topic": "WRC",
+    "title": "- WRC.com",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZndpM1l3bG5Bal81LXQ2T25uVGlIWEYtN2NORFN4Qm5NUWxqV1pLUmtVQWl2YllocVJXUjlNdlVPV0c1WlVhcE93NUdtUnc3WVF5Qk1LOUtra3QxR3l2WnVPSERzSWYtNHU3bEdXRXJvcFJKVEIwZW9sZ0k2S3h3MXpBeE9HdzNrYlhXc2xxd3d3bDhWTVpyQ0lCalFvMkhpd2xRNHg1alZmMjRJYjhjRll6Nnlyc3ZNcFAzZi1VNlJXWG1nb0pLYW0xVDhnbVJ3X29BTHlhbTZ3bFdKMFowZ2VranRycE5vUkxmag?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "1344c9d5d1a6f278d7bbed86",
+    "group": "motorsport",
+    "topic": "WRC",
+    "title": "- WRC.com",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVI2c1FiamNBUkxBYldmSW1WUkM5ZE1tVjVYMWhyUGJobzk1alI5X21POTU1a3lSa3BvQmVjNi1keVVwN0tkUXFfSG5LcVoya21JQ2FhSEI1S2YtM0xCV1BjTWM1ZFB1N0U0SHVzN2N1SG1nOER3RUxaYzBzT3hsZjJEcXZrSS1mRzEwLWJjRklwRlZQeU9BZE00UU9MX243TloxR1F5VXNpaFNlNFltVThRU1B4VTU4aVpSVFFnUk02OUk?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "a34baabd85478b58a17d12bf",
+    "group": "motorsport",
+    "topic": "WRC",
+    "title": "- WRC.com",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ3B0MjAtcmlBQy1jVXFwWkt6N1A2TDgtN3pJYVRRUmlwY2J3RnlnYmtEN1YzWHhGSGo3TlkxTnhldEt4eHR1Nm1xa3hvNm10T00zbmlTeFdkeDJ2VmxFVU5FaDNIMHBhakJYQlNCaXQ0cjFOdE1sU25BOElhOTd1aHpyTnBBUFFlcEY0eWdyUGZvcFdMZkpNRjFQY1JCbkRwWDVFMXd3Zk5BdUlvTERpQVdfVXNydjZ6cnlBbTZOeWJGUHl5QXQtT25MYUpRQQ?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "fec29d7441c550809d7625bf",
+    "group": "motorsport",
+    "topic": "WRC",
+    "title": "- WRC.com",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZTlyVkFZX1JnTXp0Zy1MM25vLUdoNWF1QlJFNmRVZ0cyOHVFWmVLS044Y2R1aUtVdklRWENuVy1tSzZ3YUluM2N3ZHJzVjUwM0YxcUd6dzBIVmNVcjFjR0hFTlpvWjNQWUFZU0laLTRiNGx6MGItbnhPYlFiWkJUZ1UxWTNZQkVhUUp2enlNSnU?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "67aff4632441f21b7b469635",
+    "group": "audio",
+    "topic": "tws",
+    "title": "Member login - Bluetooth - Bluetooth® Technology Website",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd1NFSG5xa3NkZVk1ZEkzelNleXdUbjJXVVBBWTdWcWVFUEx4dGdrMUF0MkJKeWFZY2stVC04T0c1OE4ySVF0bjV5NmxkOXQ4aThHZWZCQzBhT2NOckdqWTRlTFZBNGx5eWJnVHBCVkFZZWJlSm5xT001YUptOUpXYkVRUW9tWmM?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "28c38b2724f6f4f7d3a21b48",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- Bluetooth® Technology Website",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaHhLZzZtZm9VWTdyNVZiU2lIWTdRNFBOZ29vTVYxTHQ1YVk2X1NqeW1PcXpnb1ZWcklsNy1FSnhpMHh0YmZxVEFBX2tHZktSSVZqOW9qaEsxZXVlV3M3TjNHM2ZXOVNmdWlNeTNFcmpTQUxLZ1N6U2VIaEdWNlVqWHRHYU8?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "e701aabcdc16719e5959980a",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- Bluetooth® Technology Website",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQME9kSHNGdnV0Yjl2azlFVTJTdXFZUEZhcUNUazM4aV9hOW1fRURxeWRTT2hneHpya3VDUkpXUmVqQlpRN0FJZ1VmQ25zdUFJamYwQWQ3MEp3X3lwX1VzWW5TMEktLVB4S1FkZi1nbFh0SWh3YzcyQTgxMWhFXzY0RGh1NnRreDAzR253WlR1Ym9NVTlhUlRJVXpR?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "3c2fcfc61ca175d898ca3876",
+    "group": "motorsport",
+    "topic": "other_motorsport",
+    "title": "【タイム結果】2026MotoGP第22戦バレンシアGP フリー走行1回目 - autosport web",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB0NS1kZTVqX0dDWnFuLVlISWZVYXdTSmZWYTZSNTIwcTRTQmRidkRSTkZmSW1wMnZhZU9ZbC1WWW02T3lHUjFhdEJR?oc=5",
+    "triage": "exclude",
+    "reason": "対象外競技"
+  },
+  {
+    "id": "4ae17007e39ca93d39a6f31f",
+    "group": "audio",
+    "topic": "tws",
+    "title": "JBL Grip | Compact Bluetooth speaker with bold JBL Pro Sound and ambient light - JBL",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN21WT1kzcjZTR25ta09SenNXSDZaV0QxbW5QcVFncHdQX2wySXVQTWl1bUZJdFUzVFFvN3A3Q3BHR3ZhWlVTTGlGOWFLclE4UEM0OEw4UUx0WktGX2owVzFybFY1U2dkVWM1aGh1QVRyMXdwQXdzOVdEUGRXZ1lrSkwtalI?oc=5",
+    "triage": "exclude",
+    "reason": "対象外機器・サービス"
+  },
+  {
+    "id": "e375db12cc1d9684c2e746ac",
+    "group": "audio",
+    "topic": "tws",
+    "title": "JBL Boombox 4 | Most powerful JBL portable waterproof speaker with massive JBL Pro Sound - JBL",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HT2swS0NTV2VMMVNqdjJReGtSRTROdFpNcXdERG0tdDUzdm8ySWRTS0VNU1dJYzd2eVRWa0lDME16cFl3NWdzbUxuZktwNkhVQTFweld4dDJIcG05aGF4V0daakVMTnRJT0QxbjZwSWhRMUNaMjR3bkFWMkRxYUk?oc=5",
+    "triage": "exclude",
+    "reason": "対象外機器・サービス"
+  },
+  {
+    "id": "dc70bea8c6113f2054b5f37a",
+    "group": "audio",
+    "topic": "tws",
+    "title": "I removed a speaker group, but the individual speakers don't appear right away ? - JBL",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQjBCMjNrOVdGbjk4UUpOY3JQZWVSU1RVU3A5VXpsX3BoOXpFZFZwbnVHb1RHVnVUUnEtVk9JN1pPMk5uRWhvTGVoeDFmYjlXRjdrY3J4RjFEZEFNMGlsNHl0ZUNMa2RLQlJrX2dBQUxPZFFpZGJPZGhnVjhRQUJ6NWVuM2F1NmR6d1JYbnFlQ3luaDRXTTA1YjlYSTZkX0pndERONDYwODRNZFM0THpLSzJGeFhmeHB3QUdneGc5OXJOcktXNHd2OWY3eEE3YV9IcWM5bXE3RUxxQi1WZGc?oc=5",
+    "triage": "exclude",
+    "reason": "対象外機器・サービス"
+  },
+  {
+    "id": "34d39ecf0c57b4c768ea160c",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUm85YWN6ZE96OF94d21mNFBEZzRGdGFoTTlNY3BhZ3pobmpZRmpLV1pLY2VmUmlmbGdCUF9ZT1NlX2tSc2tkcnItSl9MbDV1dkN4bkExaDRDQWFuWU1pemZYVTFsbmg1Z0ZNSzladEtpTU1Yd1BhRS1PdnNmSGg5czFMQjNTVGJpNXlUdFpRMld3V0RfQURjTWhXbmtWcmpKQm5BTHRmQnE4QnA0bjlJbjdJZklHcWFIekVjUGdrZ1RmZUE?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "a75984d1200aa63e1b5eb1ef",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNUc0N3Q4dmIxWDNNVW9nOVdublp5YS0wWFhyazJHRkRTeXVvdTZiQkRHOFdHajA5dUpibWJNcEFjWEt6VjE3VV93dVJ4WkdpQkVsUVR4bncxNjh0Z3YxN1llTkh1dVpCQWZMZXFnLVNyaGtjTklDY293cUhJaDhuTWhUZDNRV0ZVNnE1a3Fod0ZYR0J1c2xNMkdacndkQnRaakN6anlkWEJKdzly?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "7581750cc4033c613cd8ba78",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVF9GazVCQzdUU1gwTjcxR0lGX3ZTUzU0N2ktQnlMVW9zRk55ZmdtSzNvM1ZJNlRQRzRSbmx2TmVnUExvNWlrR0txLU9IWkVWdkw4SkRSS0JyUEROd3lhUWNjM05fODR3V3RIQzh2SWxKdEpCa3VDU1VJZmZwaUN6elVYY3p0by1iTmhlem5BMGtqZldwNnJQdjdWSDlXcHg3SGJLaUlnc01ENW1RT2JlNEFsaUo2LUJjcFJkWlBjczQ0V1FOcVE?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "05a5142153cb78fc637e9b61",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQOXJKd0cxZnhqRGMxdmNITnVLcTRVM0tRcmxJT0Rra0U0VDVCeGZsWWVNNFpMSFVTQkhVZ2pBTkJNLUFqanNtQzFENUdtUDFHNm0yZ1VlamJsRkhocVVpVWZGb01PaHl1MFdVUzROWUFuUDhEY0c0R3paM3RDUEJyOTJ2LU1UNDdNRk8xak1JVWxjWmhPaDJWa3BkVXJGT0ZBbUVBUTJGelZCRV9rV1liRUkzVUtPZ01XRlZPMHVfTVRsenFyMkJvOWY0RHdiVmhVZ2JiS3hFcHBoTEtvNlFacG5iQVM0TktONzNsVzUyZTJlcFJCYUJJT3ptMXpZVkRSVzB3T0FaU3lJRjV0MXBvR3J1ZFFhbGF2X0xvbUJR?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "a209f6e7d646ce1b3273061f",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNDJ5b3ZHYzU4RW9OSUExZWU4VjZRa2ZITTBXNzhMZGZySnV3cVBMWWZpc0dzTEdTTDVGLUl3aW5qX0NFZmIxbHdhZGZZampqcWxmbkVJTHBuci13MkdaVmVsOF93ZXA4T2FWa215N2c1OHhtbEVJWm5jd04wVjZ2Q1FqRnc1akp3WGkxZXBTX0tjNUVIUW5pXy02UTQtNHNyVDNfWmJ2MXpoNEtfQXFIZVZXRGZUVjVhRmxDMw?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "d2fe5a61e2372b573171b263",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbk00dXJ2a3Y5STRsb3V3SzA5TnVqWk9VdWJDZVhDOGt4UndoX0t2cjVxOVN1UERab1VlTnc5VWI5blNNbnl1VV9uaS1LX1Fmdk9LTkVRTjlMZWI4QlloWDZFaVZoS1k0QUtlUmtxOXZldUwxMFhadGhRaG80YlBRTGpmMmJ1T2E1ekNGVXVDRDBaRHQtTDdnQW4ybTlsd1lEOVVyUTM0dnJNbjA5V1Q5MUw3cWlPcEE?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "cfafa0faca15fae0493e86fc",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOakxLaFlFdG5qelZ1eGlFa0hnYzJQVmNYbFhEUlpLN0JmWnVQb1lWYkc1Y3VpM2Z0U1hzajYtT1JURDBQWW1sSGdNckphZzEya2RHTWJRdDhlREJGNy1WNURENmRsRUdNemFlWnJHZGZhd0c0ZS1YOC0xMWtMQlFmODg4cFl3d3pEZXpGb2ExMTh1c2ZCMUx4RnlDOGVvRmpBeG56TDFZWDMtbDV6VmtIWEEzZ185ekNidjl3aTE3TQ?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "6e682faea87478e41e111d6a",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTTRkUTFrVDFZV1hyU2ZIbWRjVmpTTl9mcXRBTmJBaUpUY3Voal92Z1draEk2MkJPMG1SYmZLTXAzNGVlbmFiWE1uTUFkNzRKS0NNblJzdGVOY2lpSThrX2dQRnVYN1h5OWhzSHduNmwyb3htRFJqMDJqZXZZZ0kxTEZqN09zZFdraHlWYVN6M2hqU2NoNE1HWnJOX1Q2enJwQkRpSkQ0ekFlVHpZMFlrTk04aDdKQjZrT2RGT0R3TXNlYnRpWmc?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "868c1ac41d5b8736559b5d31",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWjlPYUthM3FRVFF1VnRhTkV6YkdtN3A5SndCSzZ3LXdZNmhOM2VnSVBOVnNxMDZNVWlLTVdMZHA4dVltZDN2dFhoSzNwbWNaUVhRbms0S0hXVVlZYUQ2d3pOUzhyZzBTb1N6czZkbkpSOFpHMkludk10RjY3NXhnaHJYY2V0aUFuaHJMM1Z4T29qaTZka2RLRVBhbEtvZmxsTXBsOUt5MXkxalBWU1Bjb0pwMkVmRUJoUkdsSWRUV3kxcmNlYWc?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "dd7655ccb19e00f2787868cb",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNYUJQMGpkczhxZlBuUHZaaGUtaGRySE1Lcm1nUENUWXJJTnNSV2tYWGJxWl9EZkVnSGhQOFRMSEtnb2tOX0xudEJrWG9xZW9scXBJRkl0LTAwcWlxRl9XRjdOazJ1SXR4MV9RbFJRMXNyUWlsSVlWOGhLTEJaMm9WQkJBY2lEZllwZHZRZUdUN3pkbTlPMFBvX2VrdnZMazhUV1k3eWxGcE5GdlhxVHhNSDd5ZEN4ZmR2Vk1TQnExVDF3UXdKNFN1SUtubUtIS2ptSWd0SjhsMXU3MkR6X1c3dVpCUWNxTllSd3JRUU5jakRFZ3I3WWFKMmVWS1VrOVdXQzlfSU1paUk5UkxnRFdyT1FLSTJxaGlaZVpMMGI4aWpOSmI2M1ZsdklyVUlfc3FnbkZmMlM4R0dFMDY4?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "60c5f6809aa80c93d8adee88",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU095VWpnaDJMck1XSHNLeWtCR1JvMzgyaWJPZ25SYldRSUtMYWIwUGJmd1BpWFRZeTRqVC1hOU10M3BJU3JHcmtiUUhkNERYNnFhQWZNTzZGend6ZzgzbGhSdHE5eU1IZ1dpbHV2aFMzeC13SFFsMWlSelByQklOZ0Eyb1dyQWJMdlplWmJxcU1ONHhJLUxLYWdxbENKOGE2TERiWTByWEhoSnRsWV93S3FzZGVLTEFJdENYeXdueURVU1MzUW9qZHRhaw?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "c1e6d03e375cb1c3d643c38f",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNXZTaUlWQzZBZkJuUmt4a0FZTmZra2JUUEtOQ1AwWV92M1NBRTI4dHBYc3FueUFhcWp5V000aC1oSkJieHZqck5FZS1jSFlxMWdNVmFRa3VMbDFzNlpsSnhtRUlzdjRnRDF4SjlQWUFPQk5nWUkwTnFzZGE5bW4zdjhTTTNldVZBMVh4bHhTa1lwU3FLTnhtdDJEMXZQVk1vQ2ZaeC10bW9ibEQ3M09vTXZqR1lhWlpURkVKdzA4YkFmYXV6S3YzUDRjVmhJQQ?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "f5cd52fe04eb05547cd0ed70",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPMVNqZjFaSnhtcGQ5QnAxbTU3bFZuZHRqUTJiSlp5YmI5SllCN2tOTS05bTJRcXZpTFl0WHREYjlKZmJ6am03a3JrRm1HcGJfQmd0UWNGVVg1YXNhTnRMS0hPZjNxaGNUT1Q1Wm9BaXNfVDFUWUg0MjlWZHBzLTR2R0tWWnlTSDE3V0p0T1V6bGNydDVyQ2VVSUozOWRTQjVkeXAtcmZPNUVMQ1VwVFdBSnpRWVl2Ul9KWDdkcTZ1UGIxM1JOVzFCSF8wVFVxbWJyQ2tucHE0cjRNQnYyN0E4M1ZNTlFfb3JQemh0MENRYmhhRDB2ekgwMHF1cDlSS0RmTDJla25rS2F4eTlCVDJJaW9RdVVjVHUwMzJ1MDVFYw?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "98aae278eb964b717ec3a5f0",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPQTBjd2pNUnNZRDBCUTluQ0NZSmNiTHdSMENqTmJ3YjJpdGlIQ0lhdl9lSFRMcEU1aDU3QnJlbWZhLXd4QS1sWVVTUUFUT3NmZWFPZzZGRndFS0RCSkhRNzYzQ0c0UUJtSWxfWDhZTUZDVVY0UENWYUcwR2VFbVcwdElVYUZwbkN4bndPRnlDaG5NbWFUMUxFTm1CX1BOQVpaTE93N3JIRGs5WWVSLTdWZjM5MWRuSWRLc1NjbmpQZ0t3WUUzVGhma1NoZkFuLVhURlI1N1dsMkg2LTRLVnV5SHEwTXlyNTFNREZMWjJ5UEtOOEVVYkp6TmVWZUZiQXZIeGFhWEo3VkY4TDBtOWdXR0NjZzJFeEx6WXF6dWFmZWp0OXBvZnc?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "02a9527d38bbe17ecde23931",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZUZfeUtJdGlaWmtyak13SVNsd2N1aDJMYk05TFl5clpNT1RlNXdPQ0F0QS1ESTlpZWVlY21EeTQzdkZFOVdPdFpnR0h2NlY3LUNWMlRmR1RLcmo3bWNwZTJOQTZiM1Y0Y19xOWlFRUJOdFdxVGZBeHZOQ0lxb0ZRZlNRMnB1ek90MEpTZzBuSjhtVG1pbmZieUJXcFkwbk5LTHFJbmMxcnRjNDZUeGdvczYwZEdQd08yRXA5WVZTckU4dEtIODJpOXBwbVZ5YzVwNXJiSWVRNlk2QnphQzRIWlM0bDFSQQ?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "b1e5b921d63253c368821eae",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTXJZZGZOSjFFdW9vTy02MURiSWJ6a051WC1GLUdsRTB0dU5Zb1E2LUlFa1lUa25kX0EycHNaOE9ULWNOQjczRmdxRUJhQ0taYllCSDlER1dMZmh2YVlxaGNkNlp0cDl2UGZCTWlRcHF4Y3pvcEo2a0ktNGl5RXhFVzBxMXhJYnhTYnJjektlVm1mQnplbHc5alEtMDJYRUZHQTBLME92SWhCWm5qYXBhVW9CSUs2RThBRmowQzNSRzJjX1ZXd2wzLU9Ha01CLUlP?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "b254764fdb486305a0539f08",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeHF6QlRyRVJGX19XMDM2MVNYb2RYMkFJZUhYblpTZG9HNnR0UG9FdlFyVUQ4VGVaakFKR0dod1k5clF0SC1ScjZUTS1vLV9VV2Y0eFFlYk4tdTNhbUduc1M0dGRqeFB5V0lxR3FQa0hWTkhyZ3I3b2lNNWdNUVB2ZkhqTlQyWlBjd01Tb0NGMjdNSzJPNVAtUkVTQno3aHNTZ3RGVWRwVlBkQU14aXRiOXRpNEFlVVR1S0NvSFN3?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "7d1d732695dc2462297999f5",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ0hzY1dBQVoyS0x6QjNEdHI5dEY4VGJRU25DZl9DbXBsODVGdFJSdEFvb1kxWFV4cXF1Z3hJbldqMUI4R3ZJUURxVjNYWlNjMTFyTXVSS1kxTDFtbmlITUpvNEJSWDRqaS1MV09xWlRsOUprZjc1M0M5OE9xX3U1RHpTdVJSdVVnSmZoUldxV1h0ZnJaelE?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "08efca19cec674bae26ebc36",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVGlhY1VGcVhrMWlyTGpUalB3YnNOZV9MMXc2b3lBT3AzelQ5WHR3ZFJWT0NFdWpFU0VZWWx1TGowRkNRSGlmR1BuS3I1VER3WnVCLU50STNDWEhsSDl0NEE4QzBHUXVSOXJqZHdqaEtLNFY1Zk8xaDZfTEpmZWVZQnlKTXRLV1VuOWgxdHo1VktCemdSWC1UVF9FeXkxUmJXNnF0UmNJTGJjSzZxVWFTMmstTDlJXzVzZ0VDUUF0Qk9NSWM?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "e39d0b98922bb51b3f610f60",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN2xqdmpPVXB0MjB1NDR2ZmpfZWV4ZllKUnZuQS1OWEpBYjZfZV91RkRkRXVUY29oa0pIYl92Tnc1M1NiX0wzN1VaMjRKVE0zNnQ3VmU1THd6Z0pUU2E4bC1KVGdQQXU3VTU1T3lyUGQxZHV0WEQtNy1FUnVYNEtPY2tzbHVIWDhqNnFkQWZ5c2x5ajdTRGRPbTluS0pCRWY5emlGZ25LQkduLTlKWEVXWWhoWWNYYTR2ZmN4X2kwWUlfY0drOS1J?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "ca193ca9dfd6f86b1fd48b72",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaFdfakJMLXE0ZzBoSFQ4eTA3TlFmVE84QUxCZUp1UmhfXzd1ZU5NQ3JpLWo4aE8xWVlWbmJYNlUzMmE4RkQ3ZDJtdGpSWEY5NmJZWGpCamRTUkZwb1NHQzB6RE9IN2lqdzNTclBoeV9KajBmSmcyMXlaYUxDMHRvVWw3Zi1SZUMtZGZKSVpwcEt3d3RhUWFiemNXekN6S3JGaFBMMjVPSGY0NVZvY0N3SERnSmJjZ00?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "3c4f0c47ba6c449bc617f724",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTkFqOEFPaTlEcy1EUFhaSW9NRGlzSzVuQUNjVHpKaVBHVlA0M01sTEluWFMtek9UUG5maThyUk5ESTU3WUEyNERHMnJEem9pUG5sZE5lVWFJaDR3YWdVSkMwd2xQZHc0TG5xMGd3eDdfRlB4aDU1bkVVeFB0VW1NSzlIbnFXRV83OUlpY01RSjV6cnJRakRQYVg0RlRLenUySVBsbnVMYVI5SWEyT0ZLMEFWYmlYUW1FYW5YVUZzdG81QVZuTTRwNzFSRjY?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "df5c73a355868fe3b70a1f93",
+    "group": "audio",
+    "topic": "tws",
+    "title": "Speakers - JBL - JBL",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRENsUjhIakVXOEdhX2R0NWJ1bHNMbEM5aTAxcVdRTWJzbWNOMHBzZHlBZVFYQXFWVlJ5OWwxanVYLV9lNzdoLVZpQW1kbGtGQVM5UFlQaU02aUN4cWY4VC1jUk9YcVJIV2hWVGV1MENlcGI4REc5NnFGVVkwZW5EMml0VEh0eUMyTmkxTnc2d1A0T1VYeHVCOGJHVHBNLWp6c1hOV19yTXdhajBTbGN0TndR?oc=5",
+    "triage": "exclude",
+    "reason": "対象外機器・サービス"
+  },
+  {
+    "id": "27c6d7063a758f0bfb9921d2",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "- Microsoft",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FRlRxcVZvaHBSZkxTSFFoTzBUVU5Yb0Y3UTVtZzR2aWV3U0lWRG1wZGpyeXctanpHbmpBMl81emZXT0tuWjFfbTVxUDdSVkVsbEZkNTJLc1ZUM28?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "f3a4003ff9f9f1b3ec14bda7",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "- Microsoft for Startups Portal",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZbGt3TUhwTnpoWTUtdDJydjh2ajJYMUhIZm1kdU9rdWpsY1hXYXRicEZlR2ZUN3FVMU5pQlYyd0VBNUZ0UVdiVkV5Tmh4U2VlSU5Wa1BMU0kxYWFPbVZ2dllXb0thUGMtZWpjaS1Fdw?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
   }
 ]

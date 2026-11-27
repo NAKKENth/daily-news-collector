@@ -6,14 +6,40 @@
   "status": "candidate_collection_only",
   "items": [
     {
+      "id": "acdf04ff6c81220478574159",
+      "topic": "racing_games",
+      "title": "Assetto Corsa AI Tandem Drift v0.8.3 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oakRacHRuQjRXVm5PZWxCZnRsVGFHUVp5SzJtM2JuVzFqWkI2MEFZdWcxaFl6Vm9xRy16Y3FoQ0h3X011aG8yNFd3aTVqY2VxRl83U1lHVFh4WjQ3Yk1iR3JlVnNjT1ZHM1hzOEx2N3U2VmlHLXRVREpn?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Assetto Corsa AI Tandem Drift v0.8.3 overtake.gg",
+      "published_utc": "2026-11-26T03:35:55+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oakRacHRuQjRXVm5PZWxCZnRsVGFHUVp5SzJtM2JuVzFqWkI2MEFZdWcxaFl6Vm9xRy16Y3FoQ0h3X011aG8yNFd3aTVqY2VxRl83U1lHVFh4WjQ3Yk1iR3JlVnNjT1ZHM1hzOEx2N3U2VmlHLXRVREpn?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T03:35:55+00:00",
+          "title": "Assetto Corsa AI Tandem Drift v0.8.3 - overtake.gg"
+        }
+      ]
+    },
+    {
       "id": "50e08fb0a8bc1bfecb706fa7",
       "topic": "racing_games",
-      "title": "Driver Display 1.5 - overtake.gg",
+      "title": "Driver Display 1.5.5 - overtake.gg",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FR0p3cE9TWWl3eF85Q0tPb1FfWlpROUNIRmNONEtDbmR0bzBsUjhCZFBMcXdUREw4T2xkU0FNTXNWMlROQlVSNmh1X3lCb3JtUzNuLWRCRzNTYWFUR05vVWVWOEUtdw?oc=5",
       "source": "OverTake",
       "publisher": "overtake.gg",
-      "description": "Driver Display 1.5 overtake.gg",
-      "published_utc": "2026-11-25T18:20:28+00:00",
+      "description": "Driver Display 1.5.5 overtake.gg",
+      "published_utc": "2026-11-26T14:43:00+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -26,22 +52,22 @@
           "source": "OverTake",
           "publisher": "overtake.gg",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T18:20:28+00:00",
-          "title": "Driver Display 1.5 - overtake.gg"
+          "published_utc": "2026-11-26T14:43:00+00:00",
+          "title": "Driver Display 1.5.5 - overtake.gg"
         }
       ],
       "enrichment": "failed",
       "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
-      "id": "738ea66c925af1574c2f66b1",
+      "id": "0234fdccc71904a8b76e3822",
       "topic": "racing_games",
-      "title": "Draftmaster 3 - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nMi1YZkxYOTBCU0tpT0pZWFl4Rk8wRE9JUG14R2t1b3ZMRTFueUtqMzBhUlhkcjNRSjZkcmxoR3prcmJoYXpmcERaQXJFQkhZZTVXMWItRVBib2l2bXVaa2ZyNUJjay12?oc=5",
-      "source": "Steam racing updates",
-      "publisher": "Steam",
-      "description": "Draftmaster 3 Steam",
-      "published_utc": "2026-11-25T21:34:51+00:00",
+      "title": "Immersive Pitstops 1.1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UZWdONlZvdHhkbDRuMzZTd1JadDRqUFk5UWZiUzh5LXBWVk1UWG15NW83V1N2YV9hRmI3REZvX2pFNmVSemowdVY0NWFaVEZ1eGVWS1lWZHNSTTYzSThSOVBHTEo4OTV0ZWZJ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Immersive Pitstops 1.1 overtake.gg",
+      "published_utc": "2026-11-26T14:42:08+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -50,12 +76,38 @@
       "triage_reason": "関連性・新規性要確認",
       "sources": [
         {
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nMi1YZkxYOTBCU0tpT0pZWFl4Rk8wRE9JUG14R2t1b3ZMRTFueUtqMzBhUlhkcjNRSjZkcmxoR3prcmJoYXpmcERaQXJFQkhZZTVXMWItRVBib2l2bXVaa2ZyNUJjay12?oc=5",
-          "source": "Steam racing updates",
-          "publisher": "Steam",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UZWdONlZvdHhkbDRuMzZTd1JadDRqUFk5UWZiUzh5LXBWVk1UWG15NW83V1N2YV9hRmI3REZvX2pFNmVSemowdVY0NWFaVEZ1eGVWS1lWZHNSTTYzSThSOVBHTEo4OTV0ZWZJ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T21:34:51+00:00",
-          "title": "Draftmaster 3 - Steam"
+          "published_utc": "2026-11-26T14:42:08+00:00",
+          "title": "Immersive Pitstops 1.1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "f29fa0509adb3c6471cc79ba",
+      "topic": "racing_games",
+      "title": "Paddocklabs - Database Editor (OUT NOW!) - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0tEUlhRb1VjbDRwQnBNejUybVB5d1NCazA2UGpwTmtuWGVGLWx1Z2g1MHlRUEtDSkRkN1NRelVYWHQzRTF4VlJlT0duY1FsbzQ3M1AzU2d2cTRpcEFRM0FoYk9BblY0MGhuNmNTSjM1bGwyb1hmSDM0cUh6T2NkS1NB?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Paddocklabs - Database Editor (OUT NOW!) overtake.gg",
+      "published_utc": "2026-11-25T22:36:25+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0tEUlhRb1VjbDRwQnBNejUybVB5d1NCazA2UGpwTmtuWGVGLWx1Z2g1MHlRUEtDSkRkN1NRelVYWHQzRTF4VlJlT0duY1FsbzQ3M1AzU2d2cTRpcEFRM0FoYk9BblY0MGhuNmNTSjM1bGwyb1hmSDM0cUh6T2NkS1NB?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T22:36:25+00:00",
+          "title": "Paddocklabs - Database Editor (OUT NOW!) - overtake.gg"
         }
       ]
     },
@@ -448,32 +500,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T16:30:01+00:00",
           "title": "Anderstorp Raceway for F1 25 - Updates - overtake.gg"
-        }
-      ]
-    },
-    {
-      "id": "b5243d2f0420c4cff645a5e9",
-      "topic": "racing_games",
-      "title": "Slow Roads - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMcE8yV1RrNE5BdGFwbVpxdHJsWS1PeGVVZlB2Wm9tZ2MyU282NEU4QTVJVThKLU1vLXN5XzRMWW03VVJPdG9zdjI5ZHVMWnVraEh4WFlXUDZkZjJWNWxETmJRVmg?oc=5",
-      "source": "Steam racing updates",
-      "publisher": "Steam",
-      "description": "Slow Roads Steam",
-      "published_utc": "2026-11-25T19:09:19+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMcE8yV1RrNE5BdGFwbVpxdHJsWS1PeGVVZlB2Wm9tZ2MyU282NEU4QTVJVThKLU1vLXN5XzRMWW03VVJPdG9zdjI5ZHVMWnVraEh4WFlXUDZkZjJWNWxETmJRVmg?oc=5",
-          "source": "Steam racing updates",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T19:09:19+00:00",
-          "title": "Slow Roads - Steam"
         }
       ]
     },
@@ -1541,32 +1567,6 @@
       ]
     },
     {
-      "id": "e96b361b273c951a45c8f58d",
-      "topic": "racing_games",
-      "title": "F1® 25 - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3aUYzbkVKTDNRbGItVDRQU3Fvd0RRTE1OT2hzMFV3ZERIdmxodkRxR3d1OTBSR19wUlNxNlQzNVZVV1B2VEpNX1NTNnFTUV9HTHVOekl2R2JicDhQN1E?oc=5",
-      "source": "Steam racing updates",
-      "publisher": "Steam",
-      "description": "F1® 25 Steam",
-      "published_utc": "2026-11-25T22:56:52+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3aUYzbkVKTDNRbGItVDRQU3Fvd0RRTE1OT2hzMFV3ZERIdmxodkRxR3d1OTBSR19wUlNxNlQzNVZVV1B2VEpNX1NTNnFTUV9HTHVOekl2R2JicDhQN1E?oc=5",
-          "source": "Steam racing updates",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T22:56:52+00:00",
-          "title": "F1® 25 - Steam"
-        }
-      ]
-    },
-    {
       "id": "d6aebe8ece9a174a4b52f29c",
       "topic": "racing_games",
       "title": "Taxi Life: A City Driving Simulator - Steam",
@@ -1641,32 +1641,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T06:30:52+00:00",
           "title": "내일의 챔피언 (Tomorrow's Champion) - Steam"
-        }
-      ]
-    },
-    {
-      "id": "283858ca2a079542643956e0",
-      "topic": "racing_games",
-      "title": "Bar After Bar - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CRmFwX1pETHY2ZjJrblBsU0lKVXVzenZGRVEyZTlSVl81R191Y01yZVhILU9SLTFENWFBbmRNd2tvUi1odWhoQXlHSXhOTTZ6UGxNcU0xWDd3cS04M2J1bGhId2s5UHhq?oc=5",
-      "source": "Steam racing updates",
-      "publisher": "Steam",
-      "description": "Bar After Bar Steam",
-      "published_utc": "2026-11-25T18:34:10+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CRmFwX1pETHY2ZjJrblBsU0lKVXVzenZGRVEyZTlSVl81R191Y01yZVhILU9SLTFENWFBbmRNd2tvUi1odWhoQXlHSXhOTTZ6UGxNcU0xWDd3cS04M2J1bGhId2s5UHhq?oc=5",
-          "source": "Steam racing updates",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T18:34:10+00:00",
-          "title": "Bar After Bar - Steam"
         }
       ]
     },
@@ -1953,6 +1927,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "b32672d2b477",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4S2lTSkZzbktaamJCZy1Zek5ZMHNGZ3JoWVl5UHFKRlRHVzNYTGEzTlhVYy15V3BiNkdyVWx1d3NhYVh3Q1ptOV9GUmU4UjJwZldocmlrUkFVZk85MWc5RzlUeW9sMlA5SVlyNHdKOFB6d2d3Q0pyX3huZ3RQdw?oc=5",
@@ -2252,6 +2227,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T20:27:31+00:00",
           "title": "Faaast Penguin - Steam"
+        }
+      ]
+    },
+    {
+      "id": "3ad821753d16f3adca56efae",
+      "topic": "racing_games",
+      "title": "Forza Horizon 5 - Steam",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sdVdpNXRxRDdCM2Z5d2l0MENfSmZadFoyX2R1LVU1cUpETjNQSktSVVpqOFd2cHFYNU82UkZrUlA5QVZGb1YwNjREU2NvWktiYzZ1dDEzaVFkcVVlY0lNRGIyT29CR1VYVDlvcFV2bWxoTmtvakJz?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Forza Horizon 5 Steam",
+      "published_utc": "2026-11-26T06:55:28+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sdVdpNXRxRDdCM2Z5d2l0MENfSmZadFoyX2R1LVU1cUpETjNQSktSVVpqOFd2cHFYNU82UkZrUlA5QVZGb1YwNjREU2NvWktiYzZ1dDEzaVFkcVVlY0lNRGIyT29CR1VYVDlvcFV2bWxoTmtvakJz?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T06:55:28+00:00",
+          "title": "Forza Horizon 5 - Steam"
         }
       ]
     },
@@ -3634,32 +3635,6 @@
       ]
     },
     {
-      "id": "4e33542e179278efaaf9a6c2",
-      "topic": "racing_games",
-      "title": "Horsey Game - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xWGh4clYwOE5vLVlPc0x3ZTNlNnB0b0FUVzJvaUlXUWktUUc2UU9NNWd3a0ZBR2s1YkpkX1ZaWmFuc3diUmNIX0RobkltRDRyQjhBUlpHQW5jallVS0NURWIyQnp6UQ?oc=5",
-      "source": "Steam racing updates",
-      "publisher": "Steam",
-      "description": "Horsey Game Steam",
-      "published_utc": "2026-11-25T18:38:52+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xWGh4clYwOE5vLVlPc0x3ZTNlNnB0b0FUVzJvaUlXUWktUUc2UU9NNWd3a0ZBR2s1YkpkX1ZaWmFuc3diUmNIX0RobkltRDRyQjhBUlpHQW5jallVS0NURWIyQnp6UQ?oc=5",
-          "source": "Steam racing updates",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T18:38:52+00:00",
-          "title": "Horsey Game - Steam"
-        }
-      ]
-    },
-    {
       "id": "ada1a493fda4a2d75b6c26e0",
       "topic": "racing_games",
       "title": "ReplayCamSuite - Updates - overtake.gg",
@@ -3761,58 +3736,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T12:52:24+00:00",
           "title": "F1 FANTASY 27 (VRC FORMULA ALPHA 26) V2 - overtake.gg"
-        }
-      ]
-    },
-    {
-      "id": "5ef61db74c48686792931134",
-      "topic": "racing_games",
-      "title": "Le Mans Ultimate - Steam",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iUGtxbHRfOW5tc3lGLVRYeVFSNklzS3VXZ3ZGclRZNy1uR3VIbXNSbE9MUEk1SXBhQ1o0SURyakF0YlVsTUNYeVR1ZGl1Q3VQT3BaemFwd3Y1RjUyUFZ1Q0JEb0l1eFlDS0JKQg?oc=5",
-      "source": "Steam racing updates",
-      "publisher": "Steam",
-      "description": "Le Mans Ultimate Steam",
-      "published_utc": "2026-11-26T01:40:46+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "レースゲーム候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iUGtxbHRfOW5tc3lGLVRYeVFSNklzS3VXZ3ZGclRZNy1uR3VIbXNSbE9MUEk1SXBhQ1o0SURyakF0YlVsTUNYeVR1ZGl1Q3VQT3BaemFwd3Y1RjUyUFZ1Q0JEb0l1eFlDS0JKQg?oc=5",
-          "source": "Steam racing updates",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T01:40:46+00:00",
-          "title": "Le Mans Ultimate - Steam"
-        }
-      ]
-    },
-    {
-      "id": "1ed46440c0aafad36cf52567",
-      "topic": "racing_games",
-      "title": "Arctic Drive on Steam - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Db2N4QXJxbEtaYnFJbnJLNEJYUEtaZ2JPVW15NWstTlI2eV9kaVlJX19VYWhDWnRJc1lYcGhzU0xEMEJXeXNTMl82OWc1WmYtME93TVVoYmZ6SFEwWnBfUVMzOEVfdjg?oc=5",
-      "source": "Steam racing updates",
-      "publisher": "Steam",
-      "description": "Arctic Drive on Steam Steam",
-      "published_utc": "2026-11-26T00:17:20+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Db2N4QXJxbEtaYnFJbnJLNEJYUEtaZ2JPVW15NWstTlI2eV9kaVlJX19VYWhDWnRJc1lYcGhzU0xEMEJXeXNTMl82OWc1WmYtME93TVVoYmZ6SFEwWnBfUVMzOEVfdjg?oc=5",
-          "source": "Steam racing updates",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T00:17:20+00:00",
-          "title": "Arctic Drive on Steam - Steam"
         }
       ]
     },
@@ -3995,6 +3918,267 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T09:17:48+00:00",
           "title": "Mandalika Circuit (Work in Progress) - Extra info - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "f60a6a1f573b9594a222b373",
+      "topic": "racing_games",
+      "title": "Save 30% on Beam Eye Tracker on Steam - Steam",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XN0s0OXVuMnRXWTVFOU1ZM3lIaEF6SjFYVXAxcHo4aFFJaTRwSXRTNTJiUUZ6eVNSNW1jVXhvU3VFc0J4dGdyOU1MZVF4QV95bE0xQ2J4SFpjTnhnXzI3MjlKTF82TW1sMk00NA?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Save 30% on Beam Eye Tracker on Steam Steam",
+      "published_utc": "2026-11-26T12:42:38+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XN0s0OXVuMnRXWTVFOU1ZM3lIaEF6SjFYVXAxcHo4aFFJaTRwSXRTNTJiUUZ6eVNSNW1jVXhvU3VFc0J4dGdyOU1MZVF4QV95bE0xQ2J4SFpjTnhnXzI3MjlKTF82TW1sMk00NA?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:42:38+00:00",
+          "title": "Save 30% on Beam Eye Tracker on Steam - Steam"
+        }
+      ]
+    },
+    {
+      "id": "3f31028732bcf544cac31ded",
+      "topic": "racing_games",
+      "title": "HOT WHEELS™ Infinite Rush - Steam",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyaWQzWnpaQlAyLWdwNUljRWFsX2g1V2NUNlJWdXhCWXVDWVNFZmZydV8tSmxValBCaE1fcjV0N2hhUHY0bU4zZ0dRQUM2MFFnV0V4dkVlRXFUYzNVNy1ZMmFDLXJ5b0VUemxEQnhSMHZVSDdGRzVz?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "HOT WHEELS™ Infinite Rush Steam",
+      "published_utc": "2026-11-26T12:42:12+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyaWQzWnpaQlAyLWdwNUljRWFsX2g1V2NUNlJWdXhCWXVDWVNFZmZydV8tSmxValBCaE1fcjV0N2hhUHY0bU4zZ0dRQUM2MFFnV0V4dkVlRXFUYzNVNy1ZMmFDLXJ5b0VUemxEQnhSMHZVSDdGRzVz?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:42:12+00:00",
+          "title": "HOT WHEELS™ Infinite Rush - Steam"
+        }
+      ]
+    },
+    {
+      "id": "1a75b7a2b931bb0d54c036fe",
+      "topic": "racing_games",
+      "title": "Motocross The Game - Steam",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yMUduaGZpZmQtYUFrS0JvWDJmb3h1cThpREdyNm55YXlqNkx1QnNOMkQ4eEpKUmlha0VicEdjcGdSSDY2T0VzTC1yX1RLZ0JuVXlXOHM0OXZPS014NElmU3E3cFRJUEFSYzA2eTVFbw?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Motocross The Game Steam",
+      "published_utc": "2026-11-26T13:14:42+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yMUduaGZpZmQtYUFrS0JvWDJmb3h1cThpREdyNm55YXlqNkx1QnNOMkQ4eEpKUmlha0VicEdjcGdSSDY2T0VzTC1yX1RLZ0JuVXlXOHM0OXZPS014NElmU3E3cFRJUEFSYzA2eTVFbw?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T13:14:42+00:00",
+          "title": "Motocross The Game - Steam"
+        }
+      ]
+    },
+    {
+      "id": "ce2324882eebfbbb71aadddf",
+      "topic": "racing_games",
+      "title": "Ahorra un 75 % en «SONIC X SHADOW GENERATIONS - Steam",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObnFkQW85Z082M25KYVpHWS1xMHNwRWVJS00tTUtRRHJNRXpzMUp0VmRDRi1WWm1jZ3ZJY2xDMTlWZmtILXRyOEl6LXpkc2ZKZU1fOXZHMmJzUTYyUWNmd2hReDd4SkZuQ3hmMklfWWlkT0RkYXdzVjlZN05rS19zZVNFN3VpMjg?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Ahorra un 75 % en «SONIC X SHADOW GENERATIONS Steam",
+      "published_utc": "2026-11-26T14:07:32+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObnFkQW85Z082M25KYVpHWS1xMHNwRWVJS00tTUtRRHJNRXpzMUp0VmRDRi1WWm1jZ3ZJY2xDMTlWZmtILXRyOEl6LXpkc2ZKZU1fOXZHMmJzUTYyUWNmd2hReDd4SkZuQ3hmMklfWWlkT0RkYXdzVjlZN05rS19zZVNFN3VpMjg?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T14:07:32+00:00",
+          "title": "Ahorra un 75 % en «SONIC X SHADOW GENERATIONS - Steam"
+        }
+      ]
+    },
+    {
+      "id": "0203d0a5f4d0c3903b7a275f",
+      "topic": "racing_games",
+      "title": "Zero To South - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83MkVvaXB3QjVrYjlIV0tzR3lncEw3Ry1JdWhwcVRCdEhiLTNWb29lN0c2SGVmcVNjTlpEZUgzVWtoTHVxYkhkcFBRQXFkNlZJU2JBVTVtcHZMWmllZmpaUVh0V0F5RkMz?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Zero To South Steam",
+      "published_utc": "2026-11-26T02:05:09+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83MkVvaXB3QjVrYjlIV0tzR3lncEw3Ry1JdWhwcVRCdEhiLTNWb29lN0c2SGVmcVNjTlpEZUgzVWtoTHVxYkhkcFBRQXFkNlZJU2JBVTVtcHZMWmllZmpaUVh0V0F5RkMz?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T02:05:09+00:00",
+          "title": "Zero To South - Steam"
+        }
+      ]
+    },
+    {
+      "id": "af0b2271574f3957c3eb5087",
+      "topic": "racing_games",
+      "title": "Aston Martin DBR1/3 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HYmtsRXM2QlNqTndsZlN0ZVdOdHh4SmJRNE4wYmktc0I0VGM2ZF82RVhseDJxQkc1eUFpVFJialZucGhUdnB1UTFmVW4xVDNxY1AtQ1VfVzZlOXhzTU83SnZZTnVjZ0xVdmt0Rw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Aston Martin DBR1/3 overtake.gg",
+      "published_utc": "2026-11-26T02:02:17+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HYmtsRXM2QlNqTndsZlN0ZVdOdHh4SmJRNE4wYmktc0I0VGM2ZF82RVhseDJxQkc1eUFpVFJialZucGhUdnB1UTFmVW4xVDNxY1AtQ1VfVzZlOXhzTU83SnZZTnVjZ0xVdmt0Rw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T02:02:17+00:00",
+          "title": "Aston Martin DBR1/3 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "3131d08e2ed154b48563b8a0",
+      "topic": "racing_games",
+      "title": "sim global expo - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yYVVZT3FwVFNkNlRkSGl6Y29aSVB4V2NHbjlRMDN0M3N2d1VEbHh3M2taX1FSRkdmazdVaV9MQ1ZId01jVFV1RXZGcUNLVjVaaE9jMXB1cGc?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "sim global expo overtake.gg",
+      "published_utc": "2026-11-26T12:02:11+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yYVVZT3FwVFNkNlRkSGl6Y29aSVB4V2NHbjlRMDN0M3N2d1VEbHh3M2taX1FSRkdmazdVaV9MQ1ZId01jVFV1RXZGcUNLVjVaaE9jMXB1cGc?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:02:11+00:00",
+          "title": "sim global expo - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "fd83a82f469f4210d028092e",
+      "topic": "racing_games",
+      "title": "Mandalika Circuit (Work in Progress) - Reviews - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd2E2cE42eGg4b09QekowT29xa2t0eVZDdVdZWEtKLVVlR2czQ09faXpwRTNYNk5RQlNycEZ1U2JUU0xiUDUxQnBnZVlsajJGcTA1cm9RNU1DTGdiemZkaG9jTDJFWk5HdURQOGxBYi1FeHdiYWY1bURwM1dDWjZEclRmdzNGY0tHOUE?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Mandalika Circuit (Work in Progress) - Reviews overtake.gg",
+      "published_utc": "2026-11-26T09:10:02+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd2E2cE42eGg4b09QekowT29xa2t0eVZDdVdZWEtKLVVlR2czQ09faXpwRTNYNk5RQlNycEZ1U2JUU0xiUDUxQnBnZVlsajJGcTA1cm9RNU1DTGdiemZkaG9jTDJFWk5HdURQOGxBYi1FeHdiYWY1bURwM1dDWjZEclRmdzNGY0tHOUE?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T09:10:02+00:00",
+          "title": "Mandalika Circuit (Work in Progress) - Reviews - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "bf762df13cef4daddc24c615",
+      "topic": "racing_games",
+      "title": "AMS2 Track Randomizer for Linux - Updates - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQXlWLWFNRFF1V19jUngwUlZmb1Z2VzlMTENpN1I4UU8wZnJRT0s4Q2RwS041M0YxSjhIcHMwZ2JhRllQcUNvcTBULTluVlFUd3d1U3c1TXlLNjN5dlk0YmtSSUV5ZlBqam5WSFB3V2dtYmRRa2NjeGpzcEtTLUVVSmZJWUtrdw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "AMS2 Track Randomizer for Linux - Updates overtake.gg",
+      "published_utc": "2026-11-26T05:18:40+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQXlWLWFNRFF1V19jUngwUlZmb1Z2VzlMTENpN1I4UU8wZnJRT0s4Q2RwS041M0YxSjhIcHMwZ2JhRllQcUNvcTBULTluVlFUd3d1U3c1TXlLNjN5dlk0YmtSSUV5ZlBqam5WSFB3V2dtYmRRa2NjeGpzcEtTLUVVSmZJWUtrdw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T05:18:40+00:00",
+          "title": "AMS2 Track Randomizer for Linux - Updates - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "957eb939bc6a20eeb01070a7",
+      "topic": "racing_games",
+      "title": "RallyPortugal 2 Stages 0.7 ready! 0.9.pak - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa3ppWjJwdWFQTC1tRFFwbWpCTEtxZVJyYm5nU2tSSG9ia0xxM2ZnXzluUGRpRU5BSG9XV1FEWWRKQkJzamp0QjRILUpLRGZ3dkl0T3RDNjQwTEZoVVJwMDU5c0FHM251ajgxUFlJNmZmUDA2OVJFV3htQTB6R0tLU2dnZ3ZMNEE?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "RallyPortugal 2 Stages 0.7 ready! 0.9.pak overtake.gg",
+      "published_utc": "2026-11-25T21:34:12+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "b32672d2b477",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa3ppWjJwdWFQTC1tRFFwbWpCTEtxZVJyYm5nU2tSSG9ia0xxM2ZnXzluUGRpRU5BSG9XV1FEWWRKQkJzamp0QjRILUpLRGZ3dkl0T3RDNjQwTEZoVVJwMDU5c0FHM251ajgxUFlJNmZmUDA2OVJFV3htQTB6R0tLU2dnZ3ZMNEE?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T21:34:12+00:00",
+          "title": "RallyPortugal 2 Stages 0.7 ready! 0.9.pak - overtake.gg"
         }
       ]
     }

@@ -7421,32 +7421,6 @@
       ]
     },
     {
-      "id": "6b9dab84e9687f55cb8700a2",
-      "topic": "IndyCar",
-      "title": "What are oversteer and understeer? - RACER - Racing News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CVk5KaVloak1kQWR0c2poSTRmeU9sU2JFYlZkQk5uSzZOMEwwTmZaeGN6Qm96MEVSU0ZLWS1sZ1JBYlBZOEpVOGRUV2V5Y2syUjY4dXNHcUxsMUxGZGNLcjJCZDItM2RLUjJlX3FLcllCN3lqNHJuLVIxVExMdw?oc=5",
-      "source": "RACER",
-      "publisher": "RACER - Racing News",
-      "description": "What are oversteer and understeer? RACER - Racing News",
-      "published_utc": "2026-11-23T02:41:57+00:00",
-      "date_jst": "2026-11-23",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CVk5KaVloak1kQWR0c2poSTRmeU9sU2JFYlZkQk5uSzZOMEwwTmZaeGN6Qm96MEVSU0ZLWS1sZ1JBYlBZOEpVOGRUV2V5Y2syUjY4dXNHcUxsMUxGZGNLcjJCZDItM2RLUjJlX3FLcllCN3lqNHJuLVIxVExMdw?oc=5",
-          "source": "RACER",
-          "publisher": "RACER - Racing News",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T02:41:57+00:00",
-          "title": "What are oversteer and understeer? - RACER - Racing News"
-        }
-      ]
-    },
-    {
       "id": "7cac7f1f94c4a1939f8f98a6",
       "topic": "IndyCar",
       "title": "From racetracks to a global network: The Motorsports Club of Clubs Conference - RACER - Racing News",
@@ -7521,32 +7495,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T08:00:00+00:00",
           "title": "Carson Hocevar through the years - NASCAR.com"
-        }
-      ]
-    },
-    {
-      "id": "4ba01a6d500e73a8402ccb26",
-      "topic": "IndyCar",
-      "title": "What is a green-white-checker? - RACER - Racing News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jdFhtdDFxZXV6RUh6OF93QmRoOXJhRnBzM0xTQkx1OUMzSloyUF9TeVZBZ0RwU09Tb2FpTm0yR3VlVXNENjhqd3VMQzNOcW5LZW5vbGRreTRfSDMwOGhqWnpfWWtnM08yLXBWYm9rZEFYU19TUUF3Wg?oc=5",
-      "source": "RACER",
-      "publisher": "RACER - Racing News",
-      "description": "What is a green-white-checker? RACER - Racing News",
-      "published_utc": "2026-11-22T15:01:26+00:00",
-      "date_jst": "2026-11-23",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jdFhtdDFxZXV6RUh6OF93QmRoOXJhRnBzM0xTQkx1OUMzSloyUF9TeVZBZ0RwU09Tb2FpTm0yR3VlVXNENjhqd3VMQzNOcW5LZW5vbGRreTRfSDMwOGhqWnpfWWtnM08yLXBWYm9rZEFYU19TUUF3Wg?oc=5",
-          "source": "RACER",
-          "publisher": "RACER - Racing News",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-22T15:01:26+00:00",
-          "title": "What is a green-white-checker? - RACER - Racing News"
         }
       ]
     },

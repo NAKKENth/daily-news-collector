@@ -1,7 +1,8 @@
 # ゲーム・ハンドヘルド｜2026-11-27 JST 候補（v0.3）
 候補のみ。記事の日時・出来事・重要度は要検証。検索索引時刻・更新時刻・観測時刻は正式発表時刻ではない。
-日付付き候補 39件／日時不明 0件。全文はJSON・下記の分割ファイル。
+日付付き候補 67件／日時不明 0件。全文はJSON・下記の分割ファイル。
 
-- [handhelds 1–13件](games_handhelds_handhelds_1.md)
+- [handhelds 1–12件](games_handhelds_handhelds_1.md)
 - [peripherals 1–1件](games_handhelds_peripherals_1.md)
-- [racing_games 1–25件](games_handhelds_racing_games_1.md)
+- [racing_games 1–50件](games_handhelds_racing_games_1.md)
+- [racing_games 51–54件](games_handhelds_racing_games_2.md)

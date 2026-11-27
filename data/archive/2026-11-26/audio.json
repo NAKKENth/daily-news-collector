@@ -137,59 +137,6 @@
       ]
     },
     {
-      "id": "5db7f7e63c8a769351e8470d",
-      "topic": "tws",
-      "title": "Automotive blueprint - Bluetooth - Bluetooth® Technology Website",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KM3Q0SWZ6QXhEek83QldOdGF3Y3JTNy1Fc3RIaUJtRlE4VXM2WndXZk1vOXlucF9rcEpRTTRPajJvNWgyNzBFX1V2SFZ3WkdnTjExM1V3eXZXcTBHdkJkSVQ1c2o?oc=5",
-      "source": "Bluetooth SIG",
-      "publisher": "Bluetooth® Technology Website",
-      "description": "Automotive blueprint - Bluetooth Bluetooth® Technology Website",
-      "published_utc": "2026-11-25T17:18:49+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "possible_event_id": "8a3eab521609",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KM3Q0SWZ6QXhEek83QldOdGF3Y3JTNy1Fc3RIaUJtRlE4VXM2WndXZk1vOXlucF9rcEpRTTRPajJvNWgyNzBFX1V2SFZ3WkdnTjExM1V3eXZXcTBHdkJkSVQ1c2o?oc=5",
-          "source": "Bluetooth SIG",
-          "publisher": "Bluetooth® Technology Website",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T17:18:49+00:00",
-          "title": "Automotive blueprint - Bluetooth - Bluetooth® Technology Website"
-        }
-      ]
-    },
-    {
-      "id": "344cfbb9203b18829db4c472",
-      "topic": "tws",
-      "title": "Working Group events calendar - Bluetooth - Bluetooth® Technology Website",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SN0RYR094UXNOMTdLTDhDWWVadUotZEU1UnltNkxKQUdrRFdRQ09XT1ZVaDZuVFB6Vi1vQW1DZ2I1bG1NYmFWaU9rSkRuSkZ0UGQ5eXlmNFVUWnowdjRrOUhHa0pWc2s?oc=5",
-      "source": "Bluetooth SIG",
-      "publisher": "Bluetooth® Technology Website",
-      "description": "Working Group events calendar - Bluetooth Bluetooth® Technology Website",
-      "published_utc": "2026-11-26T11:55:05+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SN0RYR094UXNOMTdLTDhDWWVadUotZEU1UnltNkxKQUdrRFdRQ09XT1ZVaDZuVFB6Vi1vQW1DZ2I1bG1NYmFWaU9rSkRuSkZ0UGQ5eXlmNFVUWnowdjRrOUhHa0pWc2s?oc=5",
-          "source": "Bluetooth SIG",
-          "publisher": "Bluetooth® Technology Website",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T11:55:05+00:00",
-          "title": "Working Group events calendar - Bluetooth - Bluetooth® Technology Website"
-        }
-      ]
-    },
-    {
       "id": "29062b528c2303cbcf58f7c6",
       "topic": "tws",
       "title": "Automotive blueprint - Bluetooth - Bluetooth® Technology Website",
@@ -204,7 +151,6 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
-      "possible_event_id": "8a3eab521609",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Oa2xuU00yVW8xdi1tYm9yVjdSaWQzZ3pwR0E4RHEyNmxTZHZORXJ4c2FJWnlBRUFnRUE3QVBOUWs5ZFk0WGxGN2dqYUhxWVVSOC1SNV9hYnRuYlBYaE1iTE11Mmw5Z1p0MUZUdw?oc=5",
@@ -2861,32 +2807,6 @@
       ]
     },
     {
-      "id": "884a7b1cd46b34f15ca6aec3",
-      "topic": "wired",
-      "title": "Refurbished Headphones - JBL",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43ZzhUcm1lWUhTNnhmWERTUlUtbFNOZzE0M2NWRUZrRG00Q1lfaWZYdGFTMm0zN2h2aVBWYlVEWFdfcVl4cVhIQW41dEVSbEh3XzN5cDdB?oc=5",
-      "source": "JBL",
-      "publisher": "JBL",
-      "description": "Refurbished Headphones JBL",
-      "published_utc": "2026-11-26T13:28:22+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "対象オーディオ候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43ZzhUcm1lWUhTNnhmWERTUlUtbFNOZzE0M2NWRUZrRG00Q1lfaWZYdGFTMm0zN2h2aVBWYlVEWFdfcVl4cVhIQW41dEVSbEh3XzN5cDdB?oc=5",
-          "source": "JBL",
-          "publisher": "JBL",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T13:28:22+00:00",
-          "title": "Refurbished Headphones - JBL"
-        }
-      ]
-    },
-    {
       "id": "35853c105d42176f32d9dc2e",
       "topic": "wired",
       "title": "DJ Headphones - Technics - Technics",
@@ -4064,6 +3984,422 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T03:12:19+00:00",
           "title": "How to use, maintain, and safely charge your Galaxy Buds4 series - samsung.com"
+        }
+      ]
+    },
+    {
+      "id": "9bcd7d69590650db10856e2c",
+      "topic": "tws",
+      "title": "WhatsApp preps travel eSIM discovery, installation, and management tools (Update: Official) - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43ZXVoTUVETTl6bDJ1dDY2eTdBWnJHUEdfVFB6NmZoWTJHM0pTdnBzenFlRmVqV0hvb2U4Q2dxemN0NlZNdjJLZmJMS0dUOE9FRDAwYXFSVUtsdXotSW5aclhRaGxOLU1WRkI3SnBROA?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "WhatsApp preps travel eSIM discovery, installation, and management tools (Update: Official) Android Authority",
+      "published_utc": "2026-11-25T21:37:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43ZXVoTUVETTl6bDJ1dDY2eTdBWnJHUEdfVFB6NmZoWTJHM0pTdnBzenFlRmVqV0hvb2U4Q2dxemN0NlZNdjJLZmJMS0dUOE9FRDAwYXFSVUtsdXotSW5aclhRaGxOLU1WRkI3SnBROA?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T21:37:00+00:00",
+          "title": "WhatsApp preps travel eSIM discovery, installation, and management tools (Update: Official) - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "dcf04fb01225e89116ceec3b",
+      "topic": "tws",
+      "title": "Motorola Signature 27 hands-on: A $1,600 flagship that Samsung and Google can't match - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdWNzd0lMRW9ldVJzNGdqelRxdEI5aWV1c0NMS3JNUTBNSVRuall2d0N6U21wQXlHam5VNWx0MWQ3S1Q2cEtPaFVvVFNmQUY2dElSMUZrVzRudTNuUFBzWDRQNWp5WGhvZU5pQXdwcFRqQzcwSGRuemtLMXFnMFlIVU9UU1JjT0p0a0NyTktkVndnWGxEbnAw?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Motorola Signature 27 hands-on: A $1,600 flagship that Samsung and Google can't match Android Authority",
+      "published_utc": "2026-11-26T11:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdWNzd0lMRW9ldVJzNGdqelRxdEI5aWV1c0NMS3JNUTBNSVRuall2d0N6U21wQXlHam5VNWx0MWQ3S1Q2cEtPaFVvVFNmQUY2dElSMUZrVzRudTNuUFBzWDRQNWp5WGhvZU5pQXdwcFRqQzcwSGRuemtLMXFnMFlIVU9UU1JjT0p0a0NyTktkVndnWGxEbnAw?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T11:00:00+00:00",
+          "title": "Motorola Signature 27 hands-on: A $1,600 flagship that Samsung and Google can't match - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "e05d01e3b4c5544b508fb105",
+      "topic": "tws",
+      "title": "Motorola's Android 17 update breaks cover screen calling features for some Razr users - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZDhmNXc5NE1uVWIzLWwyc2w5cVRiRHJCdnNUNmduOEV0d3VqYTJvMHpJMjA3d0ttSG9Qb3Vad012Zk1ZS0FkZXlXQnd1UkdDRkdjUlktVWdCdFc3Y0gxaDhOUUw2dklHY0xHRDU0NUVXSlhYN1NDelY2OERUTm9kdnRZRTFaR19sRmJLU0xyYWo2Q1hsdlIyTg?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Motorola's Android 17 update breaks cover screen calling features for some Razr users Android Authority",
+      "published_utc": "2026-11-26T08:07:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZDhmNXc5NE1uVWIzLWwyc2w5cVRiRHJCdnNUNmduOEV0d3VqYTJvMHpJMjA3d0ttSG9Qb3Vad012Zk1ZS0FkZXlXQnd1UkdDRkdjUlktVWdCdFc3Y0gxaDhOUUw2dklHY0xHRDU0NUVXSlhYN1NDelY2OERUTm9kdnRZRTFaR19sRmJLU0xyYWo2Q1hsdlIyTg?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T08:07:00+00:00",
+          "title": "Motorola's Android 17 update breaks cover screen calling features for some Razr users - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "94e1eba24d33d8d5751bd802",
+      "topic": "tws",
+      "title": "1Password confirms hackers stole customer data, but not their passwords - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FMnY1OWdHMEx2OGRmQWhzVjdfS1I1SVpIb29JS0szR2hLcjJnT1NFN1E3UzJpdHZmTGEtOXFLZEJkbGFETVpQaVJHN0duRjl5Qm0xTElUUHFfQXhNVFdpZFNoMVRwZXJBd0g1STlFc3o?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "1Password confirms hackers stole customer data, but not their passwords Android Authority",
+      "published_utc": "2026-11-26T05:10:24+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FMnY1OWdHMEx2OGRmQWhzVjdfS1I1SVpIb29JS0szR2hLcjJnT1NFN1E3UzJpdHZmTGEtOXFLZEJkbGFETVpQaVJHN0duRjl5Qm0xTElUUHFfQXhNVFdpZFNoMVRwZXJBd0g1STlFc3o?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T05:10:24+00:00",
+          "title": "1Password confirms hackers stole customer data, but not their passwords - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "aa511443d97d1af538cc5aa1",
+      "topic": "portable_dac",
+      "title": "iLoud Micro Monitor 2 Review | Page 3 - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOFN1RUlFNXJkc05nLXhqb3h5Q2tQbFV6MW1ydjBBb29yY3JpRENpdmN5TElqenh1VFpsN0VCdEpXRzZhNUNjSVBMN1RURU8wZkhVaXd3MHZad3NaSXdyN0tpdERUUmVyX1Q2NnU5b2VUV1cycEpGa3oxX3RaMXJqcXRPMG1MVGdtUzM2NkJBUWpSdk1sTEl6Q3dJZG1nTUZidkE?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "iLoud Micro Monitor 2 Review | Page 3 Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-26T04:31:18+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOFN1RUlFNXJkc05nLXhqb3h5Q2tQbFV6MW1ydjBBb29yY3JpRENpdmN5TElqenh1VFpsN0VCdEpXRzZhNUNjSVBMN1RURU8wZkhVaXd3MHZad3NaSXdyN0tpdERUUmVyX1Q2NnU5b2VUV1cycEpGa3oxX3RaMXJqcXRPMG1MVGdtUzM2NkJBUWpSdk1sTEl6Q3dJZG1nTUZidkE?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T04:31:18+00:00",
+          "title": "iLoud Micro Monitor 2 Review | Page 3 - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "e1efb43c97b5388f4b3a2c85",
+      "topic": "tws",
+      "title": "JBL Quantum 520 | Wireless multiplatform gaming headset - JBL UK",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ1poMTE0TV92VmlKY0hvUjl5QzJfOEZjN01VMm9ZbmhJU3llWUFhTDljWFhVVy1tWTY3R0JhQnhMZDhZQXgyQzFyelpERldITGZCVUpxZzBhYUhxNGFGOFFxdWRSWHp1SXFfb1FjanREM2hPblhEam5Ha1lqeUc1UjBsZExDdw?oc=5",
+      "source": "JBL",
+      "publisher": "JBL UK",
+      "description": "JBL Quantum 520 | Wireless multiplatform gaming headset JBL UK",
+      "published_utc": "2026-11-25T19:20:28+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ1poMTE0TV92VmlKY0hvUjl5QzJfOEZjN01VMm9ZbmhJU3llWUFhTDljWFhVVy1tWTY3R0JhQnhMZDhZQXgyQzFyelpERldITGZCVUpxZzBhYUhxNGFGOFFxdWRSWHp1SXFfb1FjanREM2hPblhEam5Ha1lqeUc1UjBsZExDdw?oc=5",
+          "source": "JBL",
+          "publisher": "JBL UK",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T19:20:28+00:00",
+          "title": "JBL Quantum 520 | Wireless multiplatform gaming headset - JBL UK"
+        }
+      ]
+    },
+    {
+      "id": "dbe14e2be37681706cda7dce",
+      "topic": "tws",
+      "title": "My friend spoke one of my registered commands, but Smartbase does not respond. - JBL",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRkViU2ZOV3YxYlRfOGVFNVREc1IxM1RHYjctYkhCTU0wajIxTjlHT1hEdkpaYU9RMk1pVGNPZjdtbHFiTGxRSmVhT1VMUGFDRm1STUtLVkxfZUhKZWJKSWVmOThRbEhXWWhmOXRTbU9IYlpXQWdpZXpHUEVIUFdtQjAxYTVIQTB2YnJuNTJUYUlyTUxlUFBQQ2QweEtCXzRQU3RVMEVvcDRYenFpaHVIemwtZHFTSnk1MVNjbzZLdWM1a2dxXzZjWXdWRkc?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "My friend spoke one of my registered commands, but Smartbase does not respond. JBL",
+      "published_utc": "2026-11-25T23:05:59+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRkViU2ZOV3YxYlRfOGVFNVREc1IxM1RHYjctYkhCTU0wajIxTjlHT1hEdkpaYU9RMk1pVGNPZjdtbHFiTGxRSmVhT1VMUGFDRm1STUtLVkxfZUhKZWJKSWVmOThRbEhXWWhmOXRTbU9IYlpXQWdpZXpHUEVIUFdtQjAxYTVIQTB2YnJuNTJUYUlyTUxlUFBQQ2QweEtCXzRQU3RVMEVvcDRYenFpaHVIemwtZHFTSnk1MVNjbzZLdWM1a2dxXzZjWXdWRkc?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T23:05:59+00:00",
+          "title": "My friend spoke one of my registered commands, but Smartbase does not respond. - JBL"
+        }
+      ]
+    },
+    {
+      "id": "d21ec7549295e09a9a7613c0",
+      "topic": "tws",
+      "title": "Multi-point connection and stability between different operating systems - JBL",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVmhtWElCUlVKa01udmpnZ0xNRmhYZFF4VWRtb2NXaFlWY3dsZHoyd0pLNldTM0t2WjF4dlh1emw0UklLTXpnV2M5ZTJrci1QdkxoMWtCQTVxMnFnMWp5bTBiU2JTNHpMQVBHajlQRTVkR0JUSFFZWGRWS1BnaWhUaGl5S3d0aHZQSUlTNnZCci15UWNheElpdGVGWDRST1BQTHdVOEdlU3hMM181QW85NzVUMzZ1Y1VvbVloSkVhM0ttZk1CdWc4?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "Multi-point connection and stability between different operating systems JBL",
+      "published_utc": "2026-11-26T12:20:46+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVmhtWElCUlVKa01udmpnZ0xNRmhYZFF4VWRtb2NXaFlWY3dsZHoyd0pLNldTM0t2WjF4dlh1emw0UklLTXpnV2M5ZTJrci1QdkxoMWtCQTVxMnFnMWp5bTBiU2JTNHpMQVBHajlQRTVkR0JUSFFZWGRWS1BnaWhUaGl5S3d0aHZQSUlTNnZCci15UWNheElpdGVGWDRST1BQTHdVOEdlU3hMM181QW85NzVUMzZ1Y1VvbVloSkVhM0ttZk1CdWc4?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:20:46+00:00",
+          "title": "Multi-point connection and stability between different operating systems - JBL"
+        }
+      ]
+    },
+    {
+      "id": "d83cdc2de38fd6825e170a91",
+      "topic": "tws",
+      "title": "COVE M1: Software Update Release Notes - JBL",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNnE2MFpvYTB1VDJrQlYzTHBqeDNTTWs0VG9uejRzcC1hSlpuaXU2dmYxd090Z3BsRGNJekpKcTVTT0xKNVpxY2paUXFON1pqN3pXRkJqc2kyN0pKMHg4cTZyQV81YjJ2Ym14V3lkcHhDM3ladGJmX21WakVlQmdrUFY3REc1ZDJGODhtZEY1QkhUWXN0bUVrMzFMU280b1lDTFlzTkMzdw?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "COVE M1: Software Update Release Notes JBL",
+      "published_utc": "2026-11-26T03:26:39+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNnE2MFpvYTB1VDJrQlYzTHBqeDNTTWs0VG9uejRzcC1hSlpuaXU2dmYxd090Z3BsRGNJekpKcTVTT0xKNVpxY2paUXFON1pqN3pXRkJqc2kyN0pKMHg4cTZyQV81YjJ2Ym14V3lkcHhDM3ladGJmX21WakVlQmdrUFY3REc1ZDJGODhtZEY1QkhUWXN0bUVrMzFMU280b1lDTFlzTkMzdw?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T03:26:39+00:00",
+          "title": "COVE M1: Software Update Release Notes - JBL"
+        }
+      ]
+    },
+    {
+      "id": "1dbfc23cecf959d502765306",
+      "topic": "tws",
+      "title": "Use of dual voice assistants - JBL",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcjBOcFM5NTNCYV80ZFRxUm1FTlNjT1hQQWlFdWpXb3hsSTd6WjlqOExmZmJVNnQzbUxKRTZuZTI5M25Iem9GM18tSGxWaTVheHFleDJSV0JZZVQzM25VZjZOempHWVRrd19oTmdLdlBpNmtYbFF3b2VJSTJiZGhpaXFrUi1CWHltejFRX3NDVkd5bjg?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "Use of dual voice assistants JBL",
+      "published_utc": "2026-11-25T20:23:07+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcjBOcFM5NTNCYV80ZFRxUm1FTlNjT1hQQWlFdWpXb3hsSTd6WjlqOExmZmJVNnQzbUxKRTZuZTI5M25Iem9GM18tSGxWaTVheHFleDJSV0JZZVQzM25VZjZOempHWVRrd19oTmdLdlBpNmtYbFF3b2VJSTJiZGhpaXFrUi1CWHltejFRX3NDVkd5bjg?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T20:23:07+00:00",
+          "title": "Use of dual voice assistants - JBL"
+        }
+      ]
+    },
+    {
+      "id": "658701b573c70d14d1db9005",
+      "topic": "tws",
+      "title": "The signs can’t be clearer than this! Order the latest JBL drops at great offers from the @flipkart Big Billion Days, no... - JBL",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQWWNkZDhtV1ZVZ1BBTDV5Wk5uV2lncVJ0ZERHUVlpOHkxX1doWHVTTjRlVWQ0YTU2V3ZOR01yNkxvVktOTklyZ3ZoeWExYkR3cVFiQXd5Tk10RGhETGQ0Y1BvVFNvTmZLSUR4d29vTVN4SXZvTmoyMVk4ek5MSVJuSFNqcklxUUNWWTZ1VXRtV3FoSWV6Z1l0ZGN0Smg0Q2pfNVJoeXpmWmlqcTFoeXJjSURGNlhfdjd5aV9XN3NGWFhnaWctZ0g1V3NRbkV1VVhfX0dtN244RVVGWkQ1ZkhtS0tpMUdfU3U2OUJlRFVhemp5cy1FVFJwUWxSY2pFQU83TXNvb2FkbzRMWE5WZ0tSYU52WmlkYV9WcjlOZHhSbTJZMTZZdFFPVjA1MDZ3amRuR1hjc2ZhVjhfbFlFNTY4QkFTQ185R0hGOVJHVU10ZHBiZE1ZcGtHeVBlZUhJRV81czlZb0ZUX1hJSVBLOWpGclBWanRHczlCeFdCY054QnJNTUZwSnV2Mlg2QWdVY052RVJTUW41OUNKTkdDZ2NpTU9oU2YzWkw1?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "The signs can’t be clearer than this! Order the latest JBL drops at great offers from the @flipkart Big Billion Days, no... JBL",
+      "published_utc": "2026-11-25T21:49:11+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQWWNkZDhtV1ZVZ1BBTDV5Wk5uV2lncVJ0ZERHUVlpOHkxX1doWHVTTjRlVWQ0YTU2V3ZOR01yNkxvVktOTklyZ3ZoeWExYkR3cVFiQXd5Tk10RGhETGQ0Y1BvVFNvTmZLSUR4d29vTVN4SXZvTmoyMVk4ek5MSVJuSFNqcklxUUNWWTZ1VXRtV3FoSWV6Z1l0ZGN0Smg0Q2pfNVJoeXpmWmlqcTFoeXJjSURGNlhfdjd5aV9XN3NGWFhnaWctZ0g1V3NRbkV1VVhfX0dtN244RVVGWkQ1ZkhtS0tpMUdfU3U2OUJlRFVhemp5cy1FVFJwUWxSY2pFQU83TXNvb2FkbzRMWE5WZ0tSYU52WmlkYV9WcjlOZHhSbTJZMTZZdFFPVjA1MDZ3amRuR1hjc2ZhVjhfbFlFNTY4QkFTQ185R0hGOVJHVU10ZHBiZE1ZcGtHeVBlZUhJRV81czlZb0ZUX1hJSVBLOWpGclBWanRHczlCeFdCY054QnJNTUZwSnV2Mlg2QWdVY052RVJTUW41OUNKTkdDZ2NpTU9oU2YzWkw1?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T21:49:11+00:00",
+          "title": "The signs can’t be clearer than this! Order the latest JBL drops at great offers from the @flipkart Big Billion Days, no... - JBL"
+        }
+      ]
+    },
+    {
+      "id": "8c8fc9cf8367357151484ab0",
+      "topic": "tws",
+      "title": "Product Registration - JBL",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbm9RM1RjeFB1cXJRSHdaYjdzTDNfMVNuLVBRNFhJdGcyY0dfMW1YbjNxbktZbUZmSkUwTm1kU2tNaVlQMEVKcnhIV0k2dFBKTEExOGJOQjRmRzdldkNfTTVKc2U5VDZCdlNjeGVQME1jWEJ5T2NLcmxVdzk2WHpiaHBGTHh1WHplTERTZVN4bHJkSnhlMmx3?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "Product Registration JBL",
+      "published_utc": "2026-11-25T18:26:01+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbm9RM1RjeFB1cXJRSHdaYjdzTDNfMVNuLVBRNFhJdGcyY0dfMW1YbjNxbktZbUZmSkUwTm1kU2tNaVlQMEVKcnhIV0k2dFBKTEExOGJOQjRmRzdldkNfTTVKc2U5VDZCdlNjeGVQME1jWEJ5T2NLcmxVdzk2WHpiaHBGTHh1WHplTERTZVN4bHJkSnhlMmx3?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T18:26:01+00:00",
+          "title": "Product Registration - JBL"
+        }
+      ]
+    },
+    {
+      "id": "3e1664cf513359e8c3b4a6b3",
+      "topic": "tws",
+      "title": "Product Registration - JBL",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONE02X2hNMUx4NDk2b0E0ZzhCVU8yN3ZoT1BhWmotdFpVV0xYQ0p4WkVmYlVvSVVDR3lPLTdKUmdzOHJDalhzMUxsQ3lYQ09CSXc0REhQdTlXazFmSXFZN0ZYRUJkUmVsdm1YbnZpSXE0WHZyLUFQQ3pkcFFhYkFTRHN4OHNZMWxIV2pGVHFpRFJhMUpHdHZSXw?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "Product Registration JBL",
+      "published_utc": "2026-11-25T20:23:33+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONE02X2hNMUx4NDk2b0E0ZzhCVU8yN3ZoT1BhWmotdFpVV0xYQ0p4WkVmYlVvSVVDR3lPLTdKUmdzOHJDalhzMUxsQ3lYQ09CSXc0REhQdTlXazFmSXFZN0ZYRUJkUmVsdm1YbnZpSXE0WHZyLUFQQ3pkcFFhYkFTRHN4OHNZMWxIV2pGVHFpRFJhMUpHdHZSXw?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T20:23:33+00:00",
+          "title": "Product Registration - JBL"
+        }
+      ]
+    },
+    {
+      "id": "86e9f8f197ab194df8506647",
+      "topic": "tws",
+      "title": "Product Registration - JBL",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjJqN01tYlIwdC1VTE5FWTVwc1RsQmR1MTFHcWx3YmY3TTlaLTRGTzdnUnJIc1dEOWdHa0RuLUE5RW1ZUTI5eGtGWlNzTWhJRUpyc19sQkhiUW5QQmp0aFlZRnN4blJKVTE2b3R1QnJYR0k3eVhZSFBIRkdGWjllNlpvOTB3YUpETmdCYnRxSXVaRk5BNEpXMEUtUUN3UXRrQV9z?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "Product Registration JBL",
+      "published_utc": "2026-11-26T05:58:15+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjJqN01tYlIwdC1VTE5FWTVwc1RsQmR1MTFHcWx3YmY3TTlaLTRGTzdnUnJIc1dEOWdHa0RuLUE5RW1ZUTI5eGtGWlNzTWhJRUpyc19sQkhiUW5QQmp0aFlZRnN4blJKVTE2b3R1QnJYR0k3eVhZSFBIRkdGWjllNlpvOTB3YUpETmdCYnRxSXVaRk5BNEpXMEUtUUN3UXRrQV9z?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T05:58:15+00:00",
+          "title": "Product Registration - JBL"
+        }
+      ]
+    },
+    {
+      "id": "c62670e8fb63493056ed89a0",
+      "topic": "tws",
+      "title": "Product Registration - JBL",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSE1jVzU5bjN1cW9NZDlMU1Y4OWZjUm81ODVoMkR4V0lQSXNrcXNWQTlka1VLUXB1QlEzdnVWQ3dXTTNpaXA2ZWJUN0lYS0c2ZVBqWENGSEF5ckQ1VHk4R01yWjFEeEh5Vmh0UC1IN0ZSTUw2em02Q2t5RGw0eFdWcjBGaDJpaXFzZzFWUmdTOHNVMlF5cWdPa2hTZTJfcGNWRkE?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "Product Registration JBL",
+      "published_utc": "2026-11-25T20:56:45+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSE1jVzU5bjN1cW9NZDlMU1Y4OWZjUm81ODVoMkR4V0lQSXNrcXNWQTlka1VLUXB1QlEzdnVWQ3dXTTNpaXA2ZWJUN0lYS0c2ZVBqWENGSEF5ckQ1VHk4R01yWjFEeEh5Vmh0UC1IN0ZSTUw2em02Q2t5RGw0eFdWcjBGaDJpaXFzZzFWUmdTOHNVMlF5cWdPa2hTZTJfcGNWRkE?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T20:56:45+00:00",
+          "title": "Product Registration - JBL"
+        }
+      ]
+    },
+    {
+      "id": "35d362d8d5da7b828a55646d",
+      "topic": "wired",
+      "title": "Does this headphone support JBL QuantumSURROUND? - JBL",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSmV3eEd0ZG1mZDhXb0l5UkpHUG9JdUZGTFB4dXdoZkZZbmQ4S2JLLXQzUXZQZHdXSDNDR19ySUQyRE1IcXZPYTRKeHZzYW5YX2xuc293Qlg1V2tpdTZfMkJTYXFkMm9wWmhRaTVGb0JCa0htanZtOGc3NWVneWgwczNuYVdIZkFmUTNwWExhZzM?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "Does this headphone support JBL QuantumSURROUND? JBL",
+      "published_utc": "2026-11-26T01:34:50+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSmV3eEd0ZG1mZDhXb0l5UkpHUG9JdUZGTFB4dXdoZkZZbmQ4S2JLLXQzUXZQZHdXSDNDR19ySUQyRE1IcXZPYTRKeHZzYW5YX2xuc293Qlg1V2tpdTZfMkJTYXFkMm9wWmhRaTVGb0JCa0htanZtOGc3NWVneWgwczNuYVdIZkFmUTNwWExhZzM?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T01:34:50+00:00",
+          "title": "Does this headphone support JBL QuantumSURROUND? - JBL"
         }
       ]
     }

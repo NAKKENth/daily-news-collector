@@ -6,18 +6,202 @@
   "status": "candidate_collection_only",
   "items": [
     {
+      "id": "17e0f90b4ee0ee91563e8e1c",
+      "topic": "racing_games",
+      "title": "DiRT Rally 2.0 - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1anJMYndGaXZOaWdkbjI0MHR6SGJKZkdieldpcHB2eE1OZklON3pST240MEptb0RUVnM0MnFvbHJYMnplWXFGRC11V3BjY2k2ejVLeXBiTWRDd0V0RDNOU3h3eEJQWTA?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "DiRT Rally 2.0 Steam",
+      "published_utc": "2026-11-26T17:40:55+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1anJMYndGaXZOaWdkbjI0MHR6SGJKZkdieldpcHB2eE1OZklON3pST240MEptb0RUVnM0MnFvbHJYMnplWXFGRC11V3BjY2k2ejVLeXBiTWRDd0V0RDNOU3h3eEJQWTA?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T17:40:55+00:00",
+          "title": "DiRT Rally 2.0 - Steam"
+        }
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
+    },
+    {
+      "id": "738ea66c925af1574c2f66b1",
+      "topic": "racing_games",
+      "title": "Draftmaster 3 - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nMi1YZkxYOTBCU0tpT0pZWFl4Rk8wRE9JUG14R2t1b3ZMRTFueUtqMzBhUlhkcjNRSjZkcmxoR3prcmJoYXpmcERaQXJFQkhZZTVXMWItRVBib2l2bXVaa2ZyNUJjay12?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Draftmaster 3 Steam",
+      "published_utc": "2026-11-27T14:08:15+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nMi1YZkxYOTBCU0tpT0pZWFl4Rk8wRE9JUG14R2t1b3ZMRTFueUtqMzBhUlhkcjNRSjZkcmxoR3prcmJoYXpmcERaQXJFQkhZZTVXMWItRVBib2l2bXVaa2ZyNUJjay12?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T14:08:15+00:00",
+          "title": "Draftmaster 3 - Steam"
+        }
+      ]
+    },
+    {
+      "id": "b873f34cba74da90b890793b",
+      "topic": "racing_games",
+      "title": "Food Devils - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FczU4eVdUNTFtMnRZZlhQOFhzX3NIdnNRSzZ6WXp3ekltUEliMGs5eVUtT0Q5TFRYY09JZU9XX3ZiQ3pFNDNDbUVCbmhCV21yYWI0ZEtBelUxc1FsNWk2UEcweUxPQQ?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Food Devils Steam",
+      "published_utc": "2026-11-26T19:42:56+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FczU4eVdUNTFtMnRZZlhQOFhzX3NIdnNRSzZ6WXp3ekltUEliMGs5eVUtT0Q5TFRYY09JZU9XX3ZiQ3pFNDNDbUVCbmhCV21yYWI0ZEtBelUxc1FsNWk2UEcweUxPQQ?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T19:42:56+00:00",
+          "title": "Food Devils - Steam"
+        }
+      ]
+    },
+    {
+      "id": "b5243d2f0420c4cff645a5e9",
+      "topic": "racing_games",
+      "title": "Slow Roads - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMcE8yV1RrNE5BdGFwbVpxdHJsWS1PeGVVZlB2Wm9tZ2MyU282NEU4QTVJVThKLU1vLXN5XzRMWW03VVJPdG9zdjI5ZHVMWnVraEh4WFlXUDZkZjJWNWxETmJRVmg?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Slow Roads Steam",
+      "published_utc": "2026-11-26T20:05:14+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMcE8yV1RrNE5BdGFwbVpxdHJsWS1PeGVVZlB2Wm9tZ2MyU282NEU4QTVJVThKLU1vLXN5XzRMWW03VVJPdG9zdjI5ZHVMWnVraEh4WFlXUDZkZjJWNWxETmJRVmg?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T20:05:14+00:00",
+          "title": "Slow Roads - Steam"
+        }
+      ]
+    },
+    {
+      "id": "200f312d58cf23b77e7b1706",
+      "topic": "racing_games",
+      "title": "GTR2 Hxk7 FreeCam 1.07 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CeDFyYjhvM0pfZ2Y5Z3dVazB1a3pRLXpwRUN0NWNGdzctQjRKUkdNWGl3dS0wTndHV2pVT2s0TW44a2NHanduTGM0cTJxaTNPbGJwYkJLaEJiQ3FrNDRfWkMtaUdaOUswZ2c?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "GTR2 Hxk7 FreeCam 1.07 overtake.gg",
+      "published_utc": "2026-11-26T22:51:10+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CeDFyYjhvM0pfZ2Y5Z3dVazB1a3pRLXpwRUN0NWNGdzctQjRKUkdNWGl3dS0wTndHV2pVT2s0TW44a2NHanduTGM0cTJxaTNPbGJwYkJLaEJiQ3FrNDRfWkMtaUdaOUswZ2c?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T22:51:10+00:00",
+          "title": "GTR2 Hxk7 FreeCam 1.07 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "e96b361b273c951a45c8f58d",
+      "topic": "racing_games",
+      "title": "F1® 25 - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3aUYzbkVKTDNRbGItVDRQU3Fvd0RRTE1OT2hzMFV3ZERIdmxodkRxR3d1OTBSR19wUlNxNlQzNVZVV1B2VEpNX1NTNnFTUV9HTHVOekl2R2JicDhQN1E?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "F1® 25 Steam",
+      "published_utc": "2026-11-26T17:43:29+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3aUYzbkVKTDNRbGItVDRQU3Fvd0RRTE1OT2hzMFV3ZERIdmxodkRxR3d1OTBSR19wUlNxNlQzNVZVV1B2VEpNX1NTNnFTUV9HTHVOekl2R2JicDhQN1E?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T17:43:29+00:00",
+          "title": "F1® 25 - Steam"
+        }
+      ]
+    },
+    {
+      "id": "283858ca2a079542643956e0",
+      "topic": "racing_games",
+      "title": "Bar After Bar - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CRmFwX1pETHY2ZjJrblBsU0lKVXVzenZGRVEyZTlSVl81R191Y01yZVhILU9SLTFENWFBbmRNd2tvUi1odWhoQXlHSXhOTTZ6UGxNcU0xWDd3cS04M2J1bGhId2s5UHhq?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Bar After Bar Steam",
+      "published_utc": "2026-11-26T15:58:02+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CRmFwX1pETHY2ZjJrblBsU0lKVXVzenZGRVEyZTlSVl81R191Y01yZVhILU9SLTFENWFBbmRNd2tvUi1odWhoQXlHSXhOTTZ6UGxNcU0xWDd3cS04M2J1bGhId2s5UHhq?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T15:58:02+00:00",
+          "title": "Bar After Bar - Steam"
+        }
+      ]
+    },
+    {
       "id": "355ed37cb3ba0a41c4040ae6",
       "topic": "racing_games",
       "title": "Opinion: Why Grand Theft Auto VI does car lovers justice",
       "url": "https://traxion.gg/opinion-why-grand-theft-auto-vi-does-car-lovers-justice",
       "source": "Traxion",
       "publisher": "Traxion",
-      "description": "We take a look at why Grand Theft Auto VI is catnip for car enthusiasts. The post Opinion: Why Grand Theft Auto VI does car lovers justice appeared first on Traxion.GG .",
+      "description": "We take a look at why Grand Theft Auto VI is catnip for car enthusiasts.",
       "published_utc": "2026-11-26T17:57:13+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -25,11 +209,15 @@
           "url": "https://traxion.gg/opinion-why-grand-theft-auto-vi-does-car-lovers-justice",
           "source": "Traxion",
           "publisher": "Traxion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T17:57:13+00:00",
           "title": "Opinion: Why Grand Theft Auto VI does car lovers justice"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T17:57:13+00:00",
+      "article_modified_raw": "2026-11-26T17:57:19+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "96a5b35421a43beeb3a2e210",
@@ -38,12 +226,12 @@
       "url": "https://www.computerbase.de/news/gaming/anbernic-rg-47g1-4-3-retro-handheld-mit-120-hz-und-snapdragon-g1-gen-2.100543",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Mit dem RG 47G1 kündigt Anbernic ein neues Android-Handheld im Hochformat an, zu dessen Ausstattung ein 4,7 Zoll großes 4:3-Display mit 120 Hz, ein Qualcomm Snapdragon G1 samt aktiver Kühlung und zwei Analogsticks gehören. Bei der Farbwahl nimmt der Hersteller Anleihen bei klassischen Nintendo-Konsolen.",
+      "description": "Mit dem RG 47G1 kündigt Anbernic ein neues Android-Handheld im Hochformat an, das bereits im Januar 2027 auf den Markt kommen könnte.",
       "published_utc": "2026-11-26T15:17:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "ハンドヘルド候補",
       "sources": [
@@ -51,11 +239,15 @@
           "url": "https://www.computerbase.de/news/gaming/anbernic-rg-47g1-4-3-retro-handheld-mit-120-hz-und-snapdragon-g1-gen-2.100543",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T15:17:00+00:00",
           "title": "Anbernic RG 47G1: 4:3-Retro-Handheld mit 120 Hz und Snapdra­gon G1 Gen 2"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T16:17:00+01:00",
+      "article_modified_raw": "2026-11-26T16:17:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "4a6d673753ecb5b242c4b179",
@@ -184,12 +376,12 @@
       "url": "https://traxion.gg/why-scan-is-your-next-sim-racing-store",
       "source": "Traxion",
       "publisher": "Traxion",
-      "description": "Sponsored Content: When it comes to sim racing equipment, Scan UK can offer not only a wide range of products from trusted brands, but also comprehensive customer support, a showroom and a bespoke home setup service. The post Why Scan is your next sim racing store appeared first on Traxion.GG .",
+      "description": "Sponsored Content: When it comes to sim racing equipment, Scan UK can offer not only a wide range of products from trusted brands, but also comprehensive customer support, a showroom and a bespoke home setup service.",
       "published_utc": "2026-11-26T17:52:02+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "レースゲーム候補",
       "sources": [
@@ -197,11 +389,15 @@
           "url": "https://traxion.gg/why-scan-is-your-next-sim-racing-store",
           "source": "Traxion",
           "publisher": "Traxion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T17:52:02+00:00",
           "title": "Why Scan is your next sim racing store"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T17:52:02+00:00",
+      "article_modified_raw": "2026-11-27T16:00:02+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "7b8014b0da1ea9f30fb7a237",
@@ -210,12 +406,12 @@
       "url": "https://traxion.gg/how-to-complete-the-series-7-week-4-tokyo-city-region-treasure-hunt-in-forza-horizon-6",
       "source": "Traxion",
       "publisher": "Traxion",
-      "description": "Follow our trusty guide to help you complete the ‘Tokyo City Region’ Treasure Hunt in Forza Horizon 6, featured in the Series 7 Week 4 Festival Playlist. The post How to complete the Series 7 Week 4 ‘Tokyo City Region’ Treasure Hunt in Forza Horizon 6 appeared first on Traxion.GG .",
+      "description": "Follow our trusty guide to help you complete the ‘Tokyo City Region’ Treasure Hunt in Forza Horizon 6, featured in the Series 7 Week 4 Festival Playlist.",
       "published_utc": "2026-11-26T17:47:34+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "レースゲーム候補",
       "sources": [
@@ -223,11 +419,15 @@
           "url": "https://traxion.gg/how-to-complete-the-series-7-week-4-tokyo-city-region-treasure-hunt-in-forza-horizon-6",
           "source": "Traxion",
           "publisher": "Traxion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T17:47:34+00:00",
           "title": "How to complete the Series 7 Week 4 ‘Tokyo City Region’ Treasure Hunt in Forza Horizon 6"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T17:47:34+00:00",
+      "article_modified_raw": "2026-11-27T12:24:36+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "b7707abbaa4bd114a9f66c8a",
@@ -291,7 +491,7 @@
       "source": "Steam racing updates",
       "publisher": "Steam",
       "description": "Forza Horizon 6 dev admits \"there's room for improvement\" amid frustration over custom car design bans Steam",
-      "published_utc": "2026-11-26T15:07:47+00:00",
+      "published_utc": "2026-11-26T15:39:43+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -305,7 +505,7 @@
           "source": "Steam racing updates",
           "publisher": "Steam",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T15:07:47+00:00",
+          "published_utc": "2026-11-26T15:39:43+00:00",
           "title": "Forza Horizon 6 dev admits \"there's room for improvement\" amid frustration over custom car design bans - Steam"
         }
       ]
@@ -505,9 +705,9 @@
       "description": "The Hyundai Ioniq 6 N headlines the Special Event for the third time since September, but Sugo is back and Le Mans pays 260,000cr for the win...",
       "published_utc": "2026-11-26T20:00:09+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "レースゲーム候補",
       "sources": [
@@ -515,25 +715,29 @@
           "url": "https://www.gtplanet.net/gran-turismo-7-weekly-challenges-turkey-n-dressing-20261126",
           "source": "GTPlanet",
           "publisher": "GTPlanet",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T20:00:09+00:00",
           "title": "Gran Turismo 7 Weekly Challenges: Turkey-N-Dressing"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T15:00:09-05:00",
+      "article_modified_raw": "2026-11-26T15:00:10-05:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "84c996895f633732bee66398",
       "topic": "racing_games",
-      "title": "Gran Turismo 7 Online Time Trial: Thanksgiving Horse d’Oeuvres",
+      "title": "Gran Turismo 7 Online Time Trial: Thanksgiving Horse d&#8217;Oeuvres",
       "url": "https://www.gtplanet.net/gran-turismo-7-online-time-trial-thanksgiving-horse-doeuvres-20261126",
       "source": "GTPlanet",
       "publisher": "GTPlanet",
       "description": "A special Ferrari 296 GT3 time trial at Fuji lets you take on the Nations Cup qualifying combination ahead of the World Finals, while the Peugeot L750R heads to Yas Marina...",
       "published_utc": "2026-11-26T21:33:41+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "レースゲーム候補",
       "sources": [
@@ -541,11 +745,15 @@
           "url": "https://www.gtplanet.net/gran-turismo-7-online-time-trial-thanksgiving-horse-doeuvres-20261126",
           "source": "GTPlanet",
           "publisher": "GTPlanet",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T21:33:41+00:00",
-          "title": "Gran Turismo 7 Online Time Trial: Thanksgiving Horse d’Oeuvres"
+          "title": "Gran Turismo 7 Online Time Trial: Thanksgiving Horse d&#8217;Oeuvres"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T16:33:41-05:00",
+      "article_modified_raw": "2026-11-26T16:33:42-05:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "9ef0dbb974004250ea226bbd",
@@ -570,6 +778,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T15:12:38+00:00",
           "title": "Slimetopia Demo - Steam"
+        }
+      ]
+    },
+    {
+      "id": "4e33542e179278efaaf9a6c2",
+      "topic": "racing_games",
+      "title": "Horsey Game - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xWGh4clYwOE5vLVlPc0x3ZTNlNnB0b0FUVzJvaUlXUWktUUc2UU9NNWd3a0ZBR2s1YkpkX1ZaWmFuc3diUmNIX0RobkltRDRyQjhBUlpHQW5jallVS0NURWIyQnp6UQ?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Horsey Game Steam",
+      "published_utc": "2026-11-27T11:23:36+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xWGh4clYwOE5vLVlPc0x3ZTNlNnB0b0FUVzJvaUlXUWktUUc2UU9NNWd3a0ZBR2s1YkpkX1ZaWmFuc3diUmNIX0RobkltRDRyQjhBUlpHQW5jallVS0NURWIyQnp6UQ?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T11:23:36+00:00",
+          "title": "Horsey Game - Steam"
         }
       ]
     },
@@ -705,6 +939,32 @@
       ]
     },
     {
+      "id": "5ef61db74c48686792931134",
+      "topic": "racing_games",
+      "title": "Le Mans Ultimate - Steam",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iUGtxbHRfOW5tc3lGLVRYeVFSNklzS3VXZ3ZGclRZNy1uR3VIbXNSbE9MUEk1SXBhQ1o0SURyakF0YlVsTUNYeVR1ZGl1Q3VQT3BaemFwd3Y1RjUyUFZ1Q0JEb0l1eFlDS0JKQg?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Le Mans Ultimate Steam",
+      "published_utc": "2026-11-26T20:43:16+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iUGtxbHRfOW5tc3lGLVRYeVFSNklzS3VXZ3ZGclRZNy1uR3VIbXNSbE9MUEk1SXBhQ1o0SURyakF0YlVsTUNYeVR1ZGl1Q3VQT3BaemFwd3Y1RjUyUFZ1Q0JEb0l1eFlDS0JKQg?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T20:43:16+00:00",
+          "title": "Le Mans Ultimate - Steam"
+        }
+      ]
+    },
+    {
       "id": "f21bc4ed5b7db9e605e99896",
       "topic": "racing_games",
       "title": "Le Mans Ultimate ELMS Expansion - Steam",
@@ -783,44 +1043,18 @@
       ]
     },
     {
-      "id": "de15cf0c8f9016d6d4af1f7f",
-      "topic": "handhelds",
-      "title": "Acer TravelMate X2 14 review: Traditional business clamshell brought down by a weak display",
-      "url": "https://www.notebookcheck.net/Acer-TravelMate-X2-14-review-Traditional-business-clamshell-brought-down-by-a-weak-display.1458158.0.html",
-      "source": "Notebookcheck Handheld",
-      "publisher": "Notebookcheck Handheld",
-      "description": "$1400 for Wildcat Lake Core 5 is a choice. | The TravelMate X2 14 isn't necessarily a bad laptop, but its asking price is relatively high considering all the alternatives currently available with the same CPU and even better display.",
-      "published_utc": "2026-11-27T09:05:00+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
-      "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://www.notebookcheck.net/Acer-TravelMate-X2-14-review-Traditional-business-clamshell-brought-down-by-a-weak-display.1458158.0.html",
-          "source": "Notebookcheck Handheld",
-          "publisher": "Notebookcheck Handheld",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-27T09:05:00+00:00",
-          "title": "Acer TravelMate X2 14 review: Traditional business clamshell brought down by a weak display"
-        }
-      ]
-    },
-    {
       "id": "653c2835dbfc819892e114fe",
       "topic": "handhelds",
       "title": "The Simpsons Hit & Run Remake We've All Been Hoping For Has Been Cancelled",
       "url": "https://retrododo.com/the-simpsons-hit-run-remake-weve-all-been-hoping-for-has-been-cancelled",
       "source": "Retro Dodo",
       "publisher": "Retro Dodo",
-      "description": "I know we're supposed to be approaching the most wonderful time of the year, but I've got to be the bearer of bad news. The long-awaited Simpsons Hit & Run remake that we've all been hoping for, the one that was never actually",
+      "description": "I know we're supposed to be approaching the most wonderful time of the year, but I've got to be the bearer of bad news. The long-awaited Simpsons Hit & Run remake that we've all been hoping for, the one that was never actually confirmed but now has been, in a roundabout way, has been cancelled. Ok, I've written some weird intros to articles in my t",
       "published_utc": "2026-11-27T12:25:53+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -828,11 +1062,15 @@
           "url": "https://retrododo.com/the-simpsons-hit-run-remake-weve-all-been-hoping-for-has-been-cancelled",
           "source": "Retro Dodo",
           "publisher": "Retro Dodo",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T12:25:53+00:00",
           "title": "The Simpsons Hit & Run Remake We've All Been Hoping For Has Been Cancelled"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T12:25:53.000Z",
+      "article_modified_raw": "2026-11-27T12:25:53.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "ece626963cd849e8e7f22932",
@@ -931,12 +1169,12 @@
       "url": "https://traxion.gg/forza-horizon-6-photo-challenge-where-to-find-tokyo-tower",
       "source": "Traxion",
       "publisher": "Traxion",
-      "description": "Here’s where to find Tokyo Tower for the #RadioCarCar Photo Challenge, part of Forza Horizon 6's Series 7 Week 4 Playlist. The post Forza Horizon 6 Photo Challenge: Where to find Tokyo Tower appeared first on Traxion.GG .",
+      "description": "Here’s where to find Tokyo Tower for the #RadioCarCar Photo Challenge, part of Forza Horizon 6's Series 7 Week 4 Playlist.",
       "published_utc": "2026-11-27T12:21:21+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "レースゲーム候補",
       "sources": [
@@ -944,11 +1182,15 @@
           "url": "https://traxion.gg/forza-horizon-6-photo-challenge-where-to-find-tokyo-tower",
           "source": "Traxion",
           "publisher": "Traxion",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T12:21:21+00:00",
           "title": "Forza Horizon 6 Photo Challenge: Where to find Tokyo Tower"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T12:21:21+00:00",
+      "article_modified_raw": "2026-11-27T12:21:56+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "effe654fe81d7e90eb58fe7f",
@@ -1047,12 +1289,12 @@
       "url": "https://retrododo.com/you-can-now-use-a-psp-1000-as-a-dreamcast-controller-or-vmu",
       "source": "Retro Dodo",
       "publisher": "Retro Dodo",
-      "description": "Another day, another amazing invention from the retro gaming community. The Dreamcast and PSP might not be in the spotlight as much as the PS5 and the Switch these days, but they're still held in high regard in our scene. So much so that there's now",
+      "description": "Another day, another amazing invention from the retro gaming community. The Dreamcast and PSP might not be in the spotlight as much as the PS5 and the Switch these days, but they're still held in high regard in our scene. So much so that there's now an open-source project called PSP2DC that allows you to hook up a PSP-1000 as a controller on the Dr",
       "published_utc": "2026-11-27T14:04:20+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "周辺機器候補",
       "sources": [
@@ -1060,9 +1302,534 @@
           "url": "https://retrododo.com/you-can-now-use-a-psp-1000-as-a-dreamcast-controller-or-vmu",
           "source": "Retro Dodo",
           "publisher": "Retro Dodo",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T14:04:20+00:00",
           "title": "You Can Now Use A PSP-1000 As A Dreamcast Controller Or VMU"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T14:04:20.000Z",
+      "article_modified_raw": "2026-11-27T14:04:20.000Z",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "08998f12a43fccd32e4a2500",
+      "topic": "racing_games",
+      "title": "Blue Archive - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNQ3NDNXRsSWhabk5DaUczcVp3UG1YOXZEUWo4MWJFRmI1X09haUlwRnNBdWdBUVRKVUZWZFp2N1VkZXNoZ3VNeDdUZURCWXB0WmdsbEdGOGoyRDh1bU5UR2oyNUR1aVU?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Blue Archive Steam",
+      "published_utc": "2026-11-26T17:47:05+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNQ3NDNXRsSWhabk5DaUczcVp3UG1YOXZEUWo4MWJFRmI1X09haUlwRnNBdWdBUVRKVUZWZFp2N1VkZXNoZ3VNeDdUZURCWXB0WmdsbEdGOGoyRDh1bU5UR2oyNUR1aVU?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T17:47:05+00:00",
+          "title": "Blue Archive - Steam"
+        }
+      ]
+    },
+    {
+      "id": "f3e91950285ca44054eb8ee3",
+      "topic": "racing_games",
+      "title": "Forza Horizon 6 dev admits \"there's room for improvement\" amid frustration over custom car design bans - Steam",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkhkajZaQmdPMlRWYUQxc1RhdHVaOUhfT0RQT2VseGt1SXlDdXNfbTUtbGxRMjQwckdvQWZRMVV0SWpueDlKaGRMRUhKNWlyazd3eWN5eEV5eUNfMnNXQjR1emVieWVnNWYyYVZQdWpGTUlWUWY3OFNLVnRsU1d3bG4yMllCZTE1amZWLQ?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Forza Horizon 6 dev admits \"there's room for improvement\" amid frustration over custom car design bans Steam",
+      "published_utc": "2026-11-26T15:44:27+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "レースゲーム候補",
+      "possible_event_id": "75fc138e3ac3",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkhkajZaQmdPMlRWYUQxc1RhdHVaOUhfT0RQT2VseGt1SXlDdXNfbTUtbGxRMjQwckdvQWZRMVV0SWpueDlKaGRMRUhKNWlyazd3eWN5eEV5eUNfMnNXQjR1emVieWVnNWYyYVZQdWpGTUlWUWY3OFNLVnRsU1d3bG4yMllCZTE1amZWLQ?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T15:44:27+00:00",
+          "title": "Forza Horizon 6 dev admits \"there's room for improvement\" amid frustration over custom car design bans - Steam"
+        }
+      ]
+    },
+    {
+      "id": "364c8d353d338670e11c80c4",
+      "topic": "racing_games",
+      "title": "2026 F1 Qatar Grand Prix Preview - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZFlyd2xBVGdvbjRuYnpoUlFycXlGZ0RhZVpEQkExUDM3RzdudEtOUlVpOGUydUl6Y01PLXNEMDZyMHVycldOSEVkUnlVY1U0ZnE1Rk96eGZ2TzluNUMxTVRwNmtULVZxQms1cElVdk9pVkVtTFdMYlItakprZnBCT21BVU9hYVpYMFhaRVIxS2lUTnJPWTlPMUlaRklrTDE0ZE8zVFMzSklPbGlPWGpSYkhkWTVYdWstWXc?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "2026 F1 Qatar Grand Prix Preview overtake.gg",
+      "published_utc": "2026-11-27T08:00:08+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZFlyd2xBVGdvbjRuYnpoUlFycXlGZ0RhZVpEQkExUDM3RzdudEtOUlVpOGUydUl6Y01PLXNEMDZyMHVycldOSEVkUnlVY1U0ZnE1Rk96eGZ2TzluNUMxTVRwNmtULVZxQms1cElVdk9pVkVtTFdMYlItakprZnBCT21BVU9hYVpYMFhaRVIxS2lUTnJPWTlPMUlaRklrTDE0ZE8zVFMzSklPbGlPWGpSYkhkWTVYdWstWXc?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T08:00:08+00:00",
+          "title": "2026 F1 Qatar Grand Prix Preview - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "90d1269f6a928709128d9d6c",
+      "topic": "racing_games",
+      "title": "AWE – Apocalypse Weather Engine | v0.2.9 – Early Access - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNHVLd3hnRl9UV2RNM0hXTzVKVDFSUy01VURRWnhzV1hCaUNxSzZER3FTZEhRSXVBbUU3c0JsT0RWTHlUa2JFM1dyczNFRUlsWDlGeDlBazdsemFWZ1h4ZEJlUGRsSUxVOW5GbHJTTUdCcEpJTHRrY3RVT3BtVG1HTWpuM2NzcHByVlpvWHVZbjJmb2JJY3hNcnhvUXBHRUtIcUI2LTdUa3lIQ3B1cWhB?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "AWE – Apocalypse Weather Engine | v0.2.9 – Early Access overtake.gg",
+      "published_utc": "2026-11-26T17:15:58+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNHVLd3hnRl9UV2RNM0hXTzVKVDFSUy01VURRWnhzV1hCaUNxSzZER3FTZEhRSXVBbUU3c0JsT0RWTHlUa2JFM1dyczNFRUlsWDlGeDlBazdsemFWZ1h4ZEJlUGRsSUxVOW5GbHJTTUdCcEpJTHRrY3RVT3BtVG1HTWpuM2NzcHByVlpvWHVZbjJmb2JJY3hNcnhvUXBHRUtIcUI2LTdUa3lIQ3B1cWhB?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T17:15:58+00:00",
+          "title": "AWE – Apocalypse Weather Engine | v0.2.9 – Early Access - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "d5a95b4861a26630eff68752",
+      "topic": "racing_games",
+      "title": "Ferrari 488 Competizione – SimHub Racing Dashboard for ACC - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM3c4cU5lektKV3VQQUJoRHNGLWlwWnNoLUdqS2FEZzRWT19seTB2OUtfQS0xT2VUb1Nwc2w5X0NzYU5oOTZjOFhJZkV4ZmU0WktVcWZIcGRXenI1MmFXeDFNbnJKbjl1UjFkY1pSLVducEs5VEx0YnZuMjE4QzJRd21kTDdiRm1vMFlTZnI1SFFxcHRqZ19yOE1SdVQxZm4taTgtRndUM1BPa2NOYXYtV19UT24?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Ferrari 488 Competizione – SimHub Racing Dashboard for ACC overtake.gg",
+      "published_utc": "2026-11-27T13:43:34+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM3c4cU5lektKV3VQQUJoRHNGLWlwWnNoLUdqS2FEZzRWT19seTB2OUtfQS0xT2VUb1Nwc2w5X0NzYU5oOTZjOFhJZkV4ZmU0WktVcWZIcGRXenI1MmFXeDFNbnJKbjl1UjFkY1pSLVducEs5VEx0YnZuMjE4QzJRd21kTDdiRm1vMFlTZnI1SFFxcHRqZ19yOE1SdVQxZm4taTgtRndUM1BPa2NOYXYtV19UT24?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T13:43:34+00:00",
+          "title": "Ferrari 488 Competizione – SimHub Racing Dashboard for ACC - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "0e9767dbb8a5091489f1c751",
+      "topic": "racing_games",
+      "title": "Teammate Tracker 1.0.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LYmJld19hYzg1NzFqRzY2bEN4OGJOaGFkVjZCTVpsWVdoT0xaLVM3Skh5bTl4MWdmaEY4QndfUXEtVDd6X1Brd0hqNV9fVDVjWmVYOGZNOHNKdFB5MURXamNDcEdmSVdE?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Teammate Tracker 1.0.0 overtake.gg",
+      "published_utc": "2026-11-27T05:27:44+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LYmJld19hYzg1NzFqRzY2bEN4OGJOaGFkVjZCTVpsWVdoT0xaLVM3Skh5bTl4MWdmaEY4QndfUXEtVDd6X1Brd0hqNV9fVDVjWmVYOGZNOHNKdFB5MURXamNDcEdmSVdE?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T05:27:44+00:00",
+          "title": "Teammate Tracker 1.0.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "8650b54d06ab7d2df46ecea1",
+      "topic": "racing_games",
+      "title": "Hilltop Club Circuit 2.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CUXV5elU0dzFfZVdKWkRlcDVHbHA1SzBOeW5NQkJxMWlQM1FmeGhsRUkyNVh5R3NCQ1Yzd3pnMjdldFo2SzlVaU5neko3YlJpbmdPMjhUQUFZV0hXa3oxZHVROHcxSVRhbGNFNzNB?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Hilltop Club Circuit 2.0 overtake.gg",
+      "published_utc": "2026-11-27T07:39:43+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CUXV5elU0dzFfZVdKWkRlcDVHbHA1SzBOeW5NQkJxMWlQM1FmeGhsRUkyNVh5R3NCQ1Yzd3pnMjdldFo2SzlVaU5neko3YlJpbmdPMjhUQUFZV0hXa3oxZHVROHcxSVRhbGNFNzNB?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T07:39:43+00:00",
+          "title": "Hilltop Club Circuit 2.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "21bc5a98fe91c0ecd99fbd59",
+      "topic": "racing_games",
+      "title": "Alpine A525 Cockpit Sound 1.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JUFZfdkRyOHNQSnFjR3BwYW4yMnl6VDNSOXd0NmdTSDJrVS01ZHV3cUJ0eVBhRS1nck9lejlwTlZxTWpKQWFlNHFGd1JkUHpjbFJYTXBlTmRzMnc3dG9kUUdGNXpld1hMbkZDNjVVdlBIMkhN?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Alpine A525 Cockpit Sound 1.0 overtake.gg",
+      "published_utc": "2026-11-27T10:04:58+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JUFZfdkRyOHNQSnFjR3BwYW4yMnl6VDNSOXd0NmdTSDJrVS01ZHV3cUJ0eVBhRS1nck9lejlwTlZxTWpKQWFlNHFGd1JkUHpjbFJYTXBlTmRzMnc3dG9kUUdGNXpld1hMbkZDNjVVdlBIMkhN?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T10:04:58+00:00",
+          "title": "Alpine A525 Cockpit Sound 1.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "3aa57469e42dc858ee7afebf",
+      "topic": "racing_games",
+      "title": "Kirigoe_touge_wide_style_VR46kazu 1.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qeVJBb3p3ZnB6WEFlbmNHVVZfNFJYblEwLXdfa095aGQ4RGtScVBwZWVGc1RTR3ZFSUxpZ2dQaVdxSlJzY0ZEMjZFTkdlajZiLW5McFlOQU16RWthbXFNWjJ2dEJ0YmdDd0dQTlBJZ2hFYm5XaDBlWERSai1QeDg?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Kirigoe_touge_wide_style_VR46kazu 1.0 overtake.gg",
+      "published_utc": "2026-11-27T12:42:26+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qeVJBb3p3ZnB6WEFlbmNHVVZfNFJYblEwLXdfa095aGQ4RGtScVBwZWVGc1RTR3ZFSUxpZ2dQaVdxSlJzY0ZEMjZFTkdlajZiLW5McFlOQU16RWthbXFNWjJ2dEJ0YmdDd0dQTlBJZ2hFYm5XaDBlWERSai1QeDg?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T12:42:26+00:00",
+          "title": "Kirigoe_touge_wide_style_VR46kazu 1.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "ec7a6e47d7098b6f765455ea",
+      "topic": "racing_games",
+      "title": "ACE-HeadCam — Look through the corner, follow the racing line - History - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQTJaSGhDdlFqRm12SFIwYjBmYXhlRUh5eV91Ul9CZVY3d3Z3dUtPLU00ZTZpejZ2S0pSbUZtVWtYNlhNQlNqQzVhMVNiUXBHZk5laTJ6R0dXc2pkV1FzdVB2MXNkUVMySU1tS0l3Y2x3T2lzRlVVckdqMExpazNVTHRZZnZkUTdwaVcteC1hUFZ6MFhvWlRmWlg1U2E5bjhVWEZ1YjhhNTlWc1d1OEl2YWRCX3BkMDA?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "ACE-HeadCam — Look through the corner, follow the racing line - History overtake.gg",
+      "published_utc": "2026-11-27T01:49:29+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQTJaSGhDdlFqRm12SFIwYjBmYXhlRUh5eV91Ul9CZVY3d3Z3dUtPLU00ZTZpejZ2S0pSbUZtVWtYNlhNQlNqQzVhMVNiUXBHZk5laTJ6R0dXc2pkV1FzdVB2MXNkUVMySU1tS0l3Y2x3T2lzRlVVckdqMExpazNVTHRZZnZkUTdwaVcteC1hUFZ6MFhvWlRmWlg1U2E5bjhVWEZ1YjhhNTlWc1d1OEl2YWRCX3BkMDA?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T01:49:29+00:00",
+          "title": "ACE-HeadCam — Look through the corner, follow the racing line - History - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "f0c9a6045626af386794e343",
+      "topic": "racing_games",
+      "title": "ACE-HeadCam — Look through the corner, follow the racing line - Extra info - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMTV1eUtzaExpY2pJdGNDbHZNanZUTzM0S1BCREN6Tm9sXzVTQmY2RXRhSDlPQjdjYkxreUtnbXRYaE1aX2Z1Z1BRQUF6VXVIbWpxb0NaLU9YdDNpRjJQa1RZOWE2S0RwMmc4c2tfUmRlSi1SY0FhMUt0MEdEZ0Q1X2lNLWd1Q0hyWms2WThqc1FOeXlUZHBEYjU3U0UyNEE2X3J2cHREWHY3bEVLV3hVT211SFNHTk41T2RKMkRFZUNtalA3TG5CTXdVOA?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "ACE-HeadCam — Look through the corner, follow the racing line - Extra info overtake.gg",
+      "published_utc": "2026-11-27T01:49:29+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMTV1eUtzaExpY2pJdGNDbHZNanZUTzM0S1BCREN6Tm9sXzVTQmY2RXRhSDlPQjdjYkxreUtnbXRYaE1aX2Z1Z1BRQUF6VXVIbWpxb0NaLU9YdDNpRjJQa1RZOWE2S0RwMmc4c2tfUmRlSi1SY0FhMUt0MEdEZ0Q1X2lNLWd1Q0hyWms2WThqc1FOeXlUZHBEYjU3U0UyNEE2X3J2cHREWHY3bEVLV3hVT211SFNHTk41T2RKMkRFZUNtalA3TG5CTXdVOA?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T01:49:29+00:00",
+          "title": "ACE-HeadCam — Look through the corner, follow the racing line - Extra info - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "01ceb5f30d48f0f8ae874de7",
+      "topic": "racing_games",
+      "title": "Lancia 037 Evo 2 | Grifone - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wUTU2NEVuZEY3N1J0RTJ1NXA1UzQ3bktZcHBPUWxudklqRnIycXFWUHppQ1NvdzQ4dXRpc05SM01aVVVvZ1JiMV85cEdNV1JNLXB3TEVldGQ2RUgxYUlpcXpwbFBMeVZ5Zjl2NTg5emNOX3M?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Lancia 037 Evo 2 | Grifone overtake.gg",
+      "published_utc": "2026-11-26T22:20:50+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wUTU2NEVuZEY3N1J0RTJ1NXA1UzQ3bktZcHBPUWxudklqRnIycXFWUHppQ1NvdzQ4dXRpc05SM01aVVVvZ1JiMV85cEdNV1JNLXB3TEVldGQ2RUgxYUlpcXpwbFBMeVZ5Zjl2NTg5emNOX3M?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T22:20:50+00:00",
+          "title": "Lancia 037 Evo 2 | Grifone - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "b45d62641b4e931f092c01cf",
+      "topic": "racing_games",
+      "title": "TK LMU Suite 1.1.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGaEh3VmU0TlB1WWFQN0t2bFkwRXdqbXRxWTJRbTZlXzlHN0ttbE5rY3htUHNxMC1xZ3NQaURheGZFZy1Oc1BtV1U0NkVYSmpWa0Foamh5Q21DckNSU2o0b0Y4WQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "TK LMU Suite 1.1.0 overtake.gg",
+      "published_utc": "2026-11-27T12:55:12+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGaEh3VmU0TlB1WWFQN0t2bFkwRXdqbXRxWTJRbTZlXzlHN0ttbE5rY3htUHNxMC1xZ3NQaURheGZFZy1Oc1BtV1U0NkVYSmpWa0Foamh5Q21DckNSU2o0b0Y4WQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T12:55:12+00:00",
+          "title": "TK LMU Suite 1.1.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "726f737410d7a59a1106b819",
+      "topic": "racing_games",
+      "title": "Neural Rendering DLSS 5 for F1 25 [Swofty Addon] 0.2.34 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSktnWDBFTmJoQml2NDNqYTl6S3luTkUxQVB2TkNSdUNaVWp3RmpPNFB6NzNmRnFzLWFfRjNPY0t4VXlMV3FzcVJfZHhtWHVUWGdZRlVtYXJuRExYRHFjVUtTaC1KbnpQTmRURTBBSDczRlQ3N3E5OWNGY0M4UUYwSU1pX3AtaS1aYlhRZ1Nuang?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Neural Rendering DLSS 5 for F1 25 [Swofty Addon] 0.2.34 overtake.gg",
+      "published_utc": "2026-11-27T09:01:55+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSktnWDBFTmJoQml2NDNqYTl6S3luTkUxQVB2TkNSdUNaVWp3RmpPNFB6NzNmRnFzLWFfRjNPY0t4VXlMV3FzcVJfZHhtWHVUWGdZRlVtYXJuRExYRHFjVUtTaC1KbnpQTmRURTBBSDczRlQ3N3E5OWNGY0M4UUYwSU1pX3AtaS1aYlhRZ1Nuang?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T09:01:55+00:00",
+          "title": "Neural Rendering DLSS 5 for F1 25 [Swofty Addon] 0.2.34 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "2b043fb657b1fd1c1241b984",
+      "topic": "racing_games",
+      "title": "teammate - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jcktfYm5wWVdvVXQ2TTZXeVUxRl84QlBOQmo3YXV6NWFPMF9zb1B5dmFxU1ZoUkd3azJzbWpBNGtObHhLSW1kemdUTEF1c0E?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "teammate overtake.gg",
+      "published_utc": "2026-11-27T10:45:41+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jcktfYm5wWVdvVXQ2TTZXeVUxRl84QlBOQmo3YXV6NWFPMF9zb1B5dmFxU1ZoUkd3azJzbWpBNGtObHhLSW1kemdUTEF1c0E?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T10:45:41+00:00",
+          "title": "teammate - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "a03d498a98ae72a59d68d7da",
+      "topic": "racing_games",
+      "title": "F1 25 Broadcast Overlay v0.1.18 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GWVZQWW9Leng1RndMbU9jUkpjSHJjcnFhTWhHc0dHN3U4Uk5lSHd3VXU4dUV2bzNUNVlaNWlzTnpRN0RVT2lGSWxJZmRXRDV6dnNId0JsVU5pemZNa2RFcGptQnlrWnVfazUwOW9ybVFYQQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "F1 25 Broadcast Overlay v0.1.18 overtake.gg",
+      "published_utc": "2026-11-27T13:48:08+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GWVZQWW9Leng1RndMbU9jUkpjSHJjcnFhTWhHc0dHN3U4Uk5lSHd3VXU4dUV2bzNUNVlaNWlzTnpRN0RVT2lGSWxJZmRXRDV6dnNId0JsVU5pemZNa2RFcGptQnlrWnVfazUwOW9ybVFYQQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T13:48:08+00:00",
+          "title": "F1 25 Broadcast Overlay v0.1.18 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "6487a010b729bf2987be74c4",
+      "topic": "racing_games",
+      "title": "F1 26 Mods & Downloads | Page 7 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0UzlhMXFka3Q0YU9zaG5xX2JOSENYdGFMaldoSlNQQW9aQmk0TkQ4NzBLQ01uVGFJclF6T0VIbUVRdUpIMGFUUEJUR2dCRmRFMkFTNEM5ZTZmaEdJX0I4TTVWR2V0ZDNwZF9ZbjFTVQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "F1 26 Mods & Downloads | Page 7 overtake.gg",
+      "published_utc": "2026-11-27T10:35:36+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0UzlhMXFka3Q0YU9zaG5xX2JOSENYdGFMaldoSlNQQW9aQmk0TkQ4NzBLQ01uVGFJclF6T0VIbUVRdUpIMGFUUEJUR2dCRmRFMkFTNEM5ZTZmaEdJX0I4TTVWR2V0ZDNwZF9ZbjFTVQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T10:35:36+00:00",
+          "title": "F1 26 Mods & Downloads | Page 7 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "a2ec8dbb8f1df17a6f00327b",
+      "topic": "racing_games",
+      "title": "Mods | Page 3906 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95U3NFd1M1dVV0cHlnU2JCZjBvbTZuazhUeTd5WFk5eU9EbVQ0NDFCYWFra1ZqNEVIdjc4RUw2OEdvMDJDcEV2LW0yRmhhZWJVc05MSFlLaw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Mods | Page 3906 overtake.gg",
+      "published_utc": "2026-11-27T07:56:58+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95U3NFd1M1dVV0cHlnU2JCZjBvbTZuazhUeTd5WFk5eU9EbVQ0NDFCYWFra1ZqNEVIdjc4RUw2OEdvMDJDcEV2LW0yRmhhZWJVc05MSFlLaw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T07:56:58+00:00",
+          "title": "Mods | Page 3906 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "b21dba4935fbc3ed950ff32b",
+      "topic": "racing_games",
+      "title": "F1 25 Mods & Downloads | Page 62 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDdUt0TTM2SE5qRTRxUUVMQlBOOUZpNzJqNmRNenlIZ1BES0lfajRNc05tZnVWOEN4a0x3OVJVeTBqVXVZVXVJN2FBOFphaDhSUHF6VlkxZEMwMWs0dkstNXNxN3FjQVMxd2tjSGZYXzY?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "F1 25 Mods & Downloads | Page 62 overtake.gg",
+      "published_utc": "2026-11-27T10:07:26+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDdUt0TTM2SE5qRTRxUUVMQlBOOUZpNzJqNmRNenlIZ1BES0lfajRNc05tZnVWOEN4a0x3OVJVeTBqVXVZVXVJN2FBOFphaDhSUHF6VlkxZEMwMWs0dkstNXNxN3FjQVMxd2tjSGZYXzY?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T10:07:26+00:00",
+          "title": "F1 25 Mods & Downloads | Page 62 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "99bed130840f54322071870a",
+      "topic": "racing_games",
+      "title": "Assetto Corsa Rally Mods & Downloads | Page 46 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWHdxLXVyWlRYNGhnQWJMc3FjS0hLYlNtYlBZU2JJazQ0S194MXRUTFpBLWdBOGpZOGxTamJad0xNSzhFTVdnYWU0cXF0ZUdUR095WjN6VlBUUHFsd2lBdEUyX2Zuc0RkXzFHaEUzYk1MMzRQYXhrNmpidnBMTXhxbm9Obw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Assetto Corsa Rally Mods & Downloads | Page 46 overtake.gg",
+      "published_utc": "2026-11-26T23:10:54+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWHdxLXVyWlRYNGhnQWJMc3FjS0hLYlNtYlBZU2JJazQ0S194MXRUTFpBLWdBOGpZOGxTamJad0xNSzhFTVdnYWU0cXF0ZUdUR095WjN6VlBUUHFsd2lBdEUyX2Zuc0RkXzFHaEUzYk1MMzRQYXhrNmpidnBMTXhxbm9Obw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T23:10:54+00:00",
+          "title": "Assetto Corsa Rally Mods & Downloads | Page 46 - overtake.gg"
         }
       ]
     }

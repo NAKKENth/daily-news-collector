@@ -580,32 +580,6 @@
       ]
     },
     {
-      "id": "be67ea9fc3f668a6515000be",
-      "topic": "pc",
-      "title": "T - http ://go.microsoft.com - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zNmUwUncxXzRndG5BM0I0cGkwZEZjeVFUa3dnUTlfT1cwdnhod0F0cmFvaFE5c0p2QVF1eW92NHlxaFJtLTltZ3d4QmdoazVna1pkaDFjTk9YZw?oc=5",
-      "source": "Microsoft Windows",
-      "publisher": "Microsoft",
-      "description": "T - http ://go.microsoft.com Microsoft",
-      "published_utc": "2026-11-24T16:33:16+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zNmUwUncxXzRndG5BM0I0cGkwZEZjeVFUa3dnUTlfT1cwdnhod0F0cmFvaFE5c0p2QVF1eW92NHlxaFJtLTltZ3d4QmdoazVna1pkaDFjTk9YZw?oc=5",
-          "source": "Microsoft Windows",
-          "publisher": "Microsoft",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T16:33:16+00:00",
-          "title": "T - http ://go.microsoft.com - Microsoft"
-        }
-      ]
-    },
-    {
       "id": "65f22c33b278ec80f5fed951",
       "topic": "pc",
       "title": "You deleted Word - Microsoft Learn",
@@ -2590,32 +2564,6 @@
       "enrichment": "article_metadata"
     },
     {
-      "id": "dc914a105aa13a646a556133",
-      "topic": "ai",
-      "title": "ChatGPT for Academic Researchers | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVUpRbVFTYzdEaUx0dDdXZGF0Ry1lMnF0U0dXQlRObGlOV3k2emx2THM1MVJ2anZjN1pxZF9sai1vOTRqS3FHeXd3TW55NldOaHlVZ21UUWpSNzN2RlRHNEI3SXJvNTBWeF9jX2hXQmlxV0UzcjlGUFZTZW9ybTUyazFwbw?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "ChatGPT for Academic Researchers | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T13:32:56+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVUpRbVFTYzdEaUx0dDdXZGF0Ry1lMnF0U0dXQlRObGlOV3k2emx2THM1MVJ2anZjN1pxZF9sai1vOTRqS3FHeXd3TW55NldOaHlVZ21UUWpSNzN2RlRHNEI3SXJvNTBWeF9jX2hXQmlxV0UzcjlGUFZTZW9ybTUyazFwbw?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T13:32:56+00:00",
-          "title": "ChatGPT for Academic Researchers | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
       "id": "2510007fe4056fc812337296",
       "topic": "ai",
       "title": "ChatGPT Rate Card (Enterprise token-based pricing) | OpenAI Help Center - OpenAI Help Center",
@@ -2638,32 +2586,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T10:28:01+00:00",
           "title": "ChatGPT Rate Card (Enterprise token-based pricing) | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
-      "id": "b158b17edd54d4954ad3cf63",
-      "topic": "ai",
-      "title": "Bidding strategies and how pricing works in ChatGPT Ads | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOTgyWWlDYkkxdXBNRlJEZG03dDgzMmNKOVQ0eElvaGJuQW9lcDhiZFNPWEpvcEJKYVMtT0M0Ulhnbm1IWHUzenBiemwzOUZnbnN2VDl1NDhDS2NQeU5SaXRUYng3dlo1WU4xcDVrLU9ucVlWdkY1TUpTQ1ZNdFBLTThQeUhudWVxbE9fT29vODZxUzRTV2lYczZTdjVaRlZteHc?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "Bidding strategies and how pricing works in ChatGPT Ads | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T09:15:38+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOTgyWWlDYkkxdXBNRlJEZG03dDgzMmNKOVQ0eElvaGJuQW9lcDhiZFNPWEpvcEJKYVMtT0M0Ulhnbm1IWHUzenBiemwzOUZnbnN2VDl1NDhDS2NQeU5SaXRUYng3dlo1WU4xcDVrLU9ucVlWdkY1TUpTQ1ZNdFBLTThQeUhudWVxbE9fT29vODZxUzRTV2lYczZTdjVaRlZteHc?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T09:15:38+00:00",
-          "title": "Bidding strategies and how pricing works in ChatGPT Ads | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -2716,32 +2638,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T14:45:45+00:00",
           "title": "Composer predictions in Codex | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
-      "id": "1b5e0407568a1686dcbf0050",
-      "topic": "ai",
-      "title": "Setting up your business on ChatGPT | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "Setting up your business on ChatGPT | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T13:24:00+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T13:24:00+00:00",
-          "title": "Setting up your business on ChatGPT | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -3993,7 +3889,7 @@
       "source": "9to5Google",
       "publisher": "9to5Google",
       "description": "Google is rolling out new privacy settings for the Gemini app that will let you “keep your history while independently controlling generative AI model training.” more…",
-      "published_utc": "2026-11-24T21:11:00+00:00",
+      "published_utc": "2026-11-24T21:11:31+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
@@ -4006,7 +3902,7 @@
           "source": "9to5Google",
           "publisher": "9to5Google",
           "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-24T21:11:00+00:00",
+          "published_utc": "2026-11-24T21:11:31+00:00",
           "title": "New Gemini setting lets you keep chat history, but turn off AI training [U]"
         }
       ],
@@ -4262,7 +4158,7 @@
       "url": "https://9to5mac.com/2026/11/24/walmart-drops-apple-pay-support-from-its-app-and-website",
       "source": "9to5Mac",
       "publisher": "9to5Mac",
-      "description": "Walmart appears to have dropped support for Apple Pay on its website and in its iPhone app. This comes just a few weeks after the retailer finally added support for Apple’s payment platform to its app and website. 9to5Mac is supported by Sony : Score Sony’s ULT Field 1 Bluetooth speaker for 51% off . Powerful bass, room-filling sound, up to 12 hour",
+      "description": "Walmart appears to have dropped support for Apple Pay on its website and in its iPhone app. This comes just a few weeks after the retailer finally added support for Apple’s payment platform to its app and website. 9to5Mac is sponsored by Sony : Score Sony’s INZONE noise-canceling earbuds for 38% off . These deliver immersive 360 Spatial Sound, acti",
       "published_utc": "2026-11-24T21:01:08+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "source_feed_published",
@@ -4551,7 +4447,7 @@
       "source": "Reuters AI",
       "publisher": "Reuters",
       "description": "Jensen Huang's second coming offers little relief to AI credits Reuters",
-      "published_utc": "2026-11-25T03:26:00+00:00",
+      "published_utc": "2026-11-25T11:48:21+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -4564,34 +4460,8 @@
           "source": "Reuters AI",
           "publisher": "Reuters",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T03:26:00+00:00",
+          "published_utc": "2026-11-25T11:48:21+00:00",
           "title": "Jensen Huang's second coming offers little relief to AI credits - Reuters"
-        }
-      ]
-    },
-    {
-      "id": "f5b85ba3db639d1c2a47f839",
-      "topic": "ai",
-      "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFVsTjFROGtER0loSkZOcnF2NDRLUWFmcjBHZ01ybE51N19idjFFMXI1dnFqZ21JYS1HVVpicTJ1V1RfVU4zd3pkVEZMWHdqMUJWRENOQWJ2VjFqT1Y3WS0xYTV3bzd2RnRraFhtOVpzVE9yYThzdV9tdWxJbUpjNzFraw?oc=5",
-      "source": "Reuters AI",
-      "publisher": "Reuters",
-      "description": "World stocks tumble as Trump tariffs rattle markets, AI rally fades Reuters",
-      "published_utc": "2026-11-25T01:50:00+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFVsTjFROGtER0loSkZOcnF2NDRLUWFmcjBHZ01ybE51N19idjFFMXI1dnFqZ21JYS1HVVpicTJ1V1RfVU4zd3pkVEZMWHdqMUJWRENOQWJ2VjFqT1Y3WS0xYTV3bzd2RnRraFhtOVpzVE9yYThzdV9tdWxJbUpjNzFraw?oc=5",
-          "source": "Reuters AI",
-          "publisher": "Reuters",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T01:50:00+00:00",
-          "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades - Reuters"
         }
       ]
     },
@@ -14082,6 +13952,32 @@
       ]
     },
     {
+      "id": "1e374668a2d3acd01e5311a7",
+      "topic": "pc",
+      "title": "PODCAST: Trump's Nvidia intervention, Ukraine war spreads to Libya and AI rally fizzles - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDQ4VmpuUGp3SW9fRFdmaWowcnNZTXZkNl9ZX3NyTHhid1ZkYldlYWtkeGJ0VnRucTR3MDJoUzN4NnJ5ckdBdnRIT0c0UG82djYyQklKTUM3NG1ianZlUkNOUjVOU2xMYldsU1Y5cEI1R0ludFFaekQxRkc0RkM4OXhYOWxNOTBVdFJXS2txcjhXcnpzX0cwT1lBWnlEZmtaVVE?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "PODCAST: Trump's Nvidia intervention, Ukraine war spreads to Libya and AI rally fizzles Reuters",
+      "published_utc": "2026-11-24T22:07:32+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDQ4VmpuUGp3SW9fRFdmaWowcnNZTXZkNl9ZX3NyTHhid1ZkYldlYWtkeGJ0VnRucTR3MDJoUzN4NnJ5ckdBdnRIT0c0UG82djYyQklKTUM3NG1ianZlUkNOUjVOU2xMYldsU1Y5cEI1R0ludFFaekQxRkc0RkM4OXhYOWxNOTBVdFJXS2txcjhXcnpzX0cwT1lBWnlEZmtaVVE?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:07:32+00:00",
+          "title": "PODCAST: Trump's Nvidia intervention, Ukraine war spreads to Libya and AI rally fizzles - Reuters"
+        }
+      ]
+    },
+    {
       "id": "bd250a729d2e606f3f1f6b33",
       "topic": "ai",
       "title": "European shares end lower as tech rally fades; Sanofi gains - Reuters",
@@ -14212,32 +14108,6 @@
       ]
     },
     {
-      "id": "5749927337b0751e2a198a66",
-      "topic": "ai",
-      "title": "Bruised S&P 500 seen gaining more than 12% by end-2027 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWDhDOWgxS1ZTNEd0eHJXVXI3RjZ4MTJJM0Y5cHUzNDE3ZWM3YllDV3lFeTdWZHVjNVNHSU5pZU53V1ZJV1ZHRVhScFVOMXhzMk1ySzZZN2JtWmlSOE5TbThBM2RXcVliNVAwOElhSHhuaWpiNE5TRXotcE1VZmxONGJWdzBkVWpPRm1LM0NFb2xMQTJFYUM5ZVpB?oc=5",
-      "source": "Reuters AI",
-      "publisher": "Reuters",
-      "description": "Bruised S&P 500 seen gaining more than 12% by end-2027 Reuters",
-      "published_utc": "2026-11-24T18:34:00+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWDhDOWgxS1ZTNEd0eHJXVXI3RjZ4MTJJM0Y5cHUzNDE3ZWM3YllDV3lFeTdWZHVjNVNHSU5pZU53V1ZJV1ZHRVhScFVOMXhzMk1ySzZZN2JtWmlSOE5TbThBM2RXcVliNVAwOElhSHhuaWpiNE5TRXotcE1VZmxONGJWdzBkVWpPRm1LM0NFb2xMQTJFYUM5ZVpB?oc=5",
-          "source": "Reuters AI",
-          "publisher": "Reuters",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T18:34:00+00:00",
-          "title": "Bruised S&P 500 seen gaining more than 12% by end-2027 - Reuters"
-        }
-      ]
-    },
-    {
       "id": "9b1a58981624d54e881c38a5",
       "topic": "ai",
       "title": "Europe plans €50 billion sovereign tech equity fund to boost quantum technology - Reuters",
@@ -14297,7 +14167,7 @@
       "source": "Reuters AI",
       "publisher": "Reuters",
       "description": "Trump set to add new sweeping tariffs, undeterred by midterms defeat Reuters",
-      "published_utc": "2026-11-24T16:19:00+00:00",
+      "published_utc": "2026-11-25T12:07:49+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -14310,7 +14180,7 @@
           "source": "Reuters AI",
           "publisher": "Reuters",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T16:19:00+00:00",
+          "published_utc": "2026-11-25T12:07:49+00:00",
           "title": "Trump set to add new sweeping tariffs, undeterred by midterms defeat - Reuters"
         }
       ]
@@ -15951,7 +15821,7 @@
       "source": "Microsoft Windows",
       "publisher": "Microsoft Store",
       "description": "AI Playground - Free download and install on Windows Microsoft Store",
-      "published_utc": "2026-11-25T09:52:49+00:00",
+      "published_utc": "2026-11-25T08:00:00+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -15964,34 +15834,8 @@
           "source": "Microsoft Windows",
           "publisher": "Microsoft Store",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T09:52:49+00:00",
+          "published_utc": "2026-11-25T08:00:00+00:00",
           "title": "AI Playground - Free download and install on Windows - Microsoft Store"
-        }
-      ]
-    },
-    {
-      "id": "9c00fe06d3889e98eda743a0",
-      "topic": "pc",
-      "title": "Autopilot (Frontier) overview - Microsoft Learn",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mOVFuUEFMUFFmUHNHLW9GVjBLbjVQNmZJUlRUQmlWS3hqN1ViNEZ1QUJXMDRPU2k2MFRTdTg5Q0lzQ0NZLVdSMjVUUTYzdDlFU0hNOTltTlZUelhEZVloTUtDaUlQdS1SbkU1LQ?oc=5",
-      "source": "Microsoft Windows",
-      "publisher": "Microsoft Learn",
-      "description": "Autopilot (Frontier) overview Microsoft Learn",
-      "published_utc": "2026-11-25T00:21:47+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mOVFuUEFMUFFmUHNHLW9GVjBLbjVQNmZJUlRUQmlWS3hqN1ViNEZ1QUJXMDRPU2k2MFRTdTg5Q0lzQ0NZLVdSMjVUUTYzdDlFU0hNOTltTlZUelhEZVloTUtDaUlQdS1SbkU1LQ?oc=5",
-          "source": "Microsoft Windows",
-          "publisher": "Microsoft Learn",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T00:21:47+00:00",
-          "title": "Autopilot (Frontier) overview - Microsoft Learn"
         }
       ]
     },
@@ -16279,32 +16123,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T10:06:26+00:00",
           "title": "Number Verification - NVIDIA Developer Forums"
-        }
-      ]
-    },
-    {
-      "id": "8034ec09032108ca4b1cad66",
-      "topic": "pc",
-      "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027 - NVIDIA Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTWsyMjhRc1ZUajRlWXlJUW9hMWN4UnNOR2xYSWJvQno5b3YzSERmd0VUY3o5OW1hSlVkM2ZKR2hVclAyUUk1WjIyQTNxeTBUNG11bVVyellZMGJqcHl2dkZoclZfRk02amVDaHVURWtuWk5abXE5QzNtZ2pfUVdtUTRWaw?oc=5",
-      "source": "NVIDIA",
-      "publisher": "NVIDIA Newsroom",
-      "description": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027 NVIDIA Newsroom",
-      "published_utc": "2026-11-24T16:13:10+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "priority",
-      "triage_reason": "PC技術候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTWsyMjhRc1ZUajRlWXlJUW9hMWN4UnNOR2xYSWJvQno5b3YzSERmd0VUY3o5OW1hSlVkM2ZKR2hVclAyUUk1WjIyQTNxeTBUNG11bVVyellZMGJqcHl2dkZoclZfRk02amVDaHVURWtuWk5abXE5QzNtZ2pfUVdtUTRWaw?oc=5",
-          "source": "NVIDIA",
-          "publisher": "NVIDIA Newsroom",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T16:13:10+00:00",
-          "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027 - NVIDIA Newsroom"
         }
       ]
     },
@@ -17034,32 +16852,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T20:06:57+00:00",
           "title": "Understanding ChatGPT and Codex usage limits | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
-      "id": "e83382ca55d834a205dbab3f",
-      "topic": "ai",
-      "title": "Using the built-in browser in the ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSi1uRW9kMTdsUWlHZlZzRS15b3VMYXVtSDRSVi0wSFFSLWp6aUlXRUNqNkU2NldTOHkxRlFmTWlZRVlRcUIzNEZOU1I3WXhrQmVVV1dxbDIxWFJhZERXSGNTSjFXdDhXcm1jbTBzY0JsNEw3Zkd4MzhLOVhFVUZXMjA2VGRrNGFnXzlPQjlEYmNZZHYwOGpFQThUVXpQQkE?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "Using the built-in browser in the ChatGPT desktop app | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T13:32:56+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSi1uRW9kMTdsUWlHZlZzRS15b3VMYXVtSDRSVi0wSFFSLWp6aUlXRUNqNkU2NldTOHkxRlFmTWlZRVlRcUIzNEZOU1I3WXhrQmVVV1dxbDIxWFJhZERXSGNTSjFXdDhXcm1jbTBzY0JsNEw3Zkd4MzhLOVhFVUZXMjA2VGRrNGFnXzlPQjlEYmNZZHYwOGpFQThUVXpQQkE?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T13:32:56+00:00",
-          "title": "Using the built-in browser in the ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -17895,6 +17687,656 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T01:07:26+00:00",
           "title": "Creating and editing GPTs | OpenAI Help Center - OpenAI"
+        }
+      ]
+    },
+    {
+      "id": "8ee6677dff5eb2995ebf63e9",
+      "topic": "ai",
+      "title": "Microsoft-Decision-1.1: Release, Decision Index Score, Performance & Price - Artificial Analysis",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsQTFuR1VGekhWQVRWWWNHTUNpMF9kUnJuUENTaUJQemZIMllwczc4aUJSMnBWTmlZeHRxeVpPNUZJektHYTRlZVlJeXNWeTk3ajJYLVg3Mll3alBlYjBPQXhqbVJhV2gzdExvSnJORkhtWlJzakt3?oc=5",
+      "source": "Artificial Analysis",
+      "publisher": "Artificial Analysis",
+      "description": "Microsoft-Decision-1.1: Release, Decision Index Score, Performance & Price Artificial Analysis",
+      "published_utc": "2026-11-25T10:34:25+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsQTFuR1VGekhWQVRWWWNHTUNpMF9kUnJuUENTaUJQemZIMllwczc4aUJSMnBWTmlZeHRxeVpPNUZJektHYTRlZVlJeXNWeTk3ajJYLVg3Mll3alBlYjBPQXhqbVJhV2gzdExvSnJORkhtWlJzakt3?oc=5",
+          "source": "Artificial Analysis",
+          "publisher": "Artificial Analysis",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T10:34:25+00:00",
+          "title": "Microsoft-Decision-1.1: Release, Decision Index Score, Performance & Price - Artificial Analysis"
+        }
+      ]
+    },
+    {
+      "id": "d828ac25492c2b6b9c488126",
+      "topic": "pc",
+      "title": "Sales support contact - Micron Technology - Micron",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ENFJTSklKaVVnQkpDczVIbVpFaDN2R3Q0UERtNXNRa013T1A1cFJkQ05mRmU1UTlkS0l0N1JESGJweC1yQWhkWUpLR1ZPZ3NoWWw4alh1Q1d4WUZuQkxjYkRSNUNzS0k0?oc=5",
+      "source": "Micron",
+      "publisher": "Micron",
+      "description": "Sales support contact - Micron Technology Micron",
+      "published_utc": "2026-11-24T16:58:09+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ENFJTSklKaVVnQkpDczVIbVpFaDN2R3Q0UERtNXNRa013T1A1cFJkQ05mRmU1UTlkS0l0N1JESGJweC1yQWhkWUpLR1ZPZ3NoWWw4alh1Q1d4WUZuQkxjYkRSNUNzS0k0?oc=5",
+          "source": "Micron",
+          "publisher": "Micron",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T16:58:09+00:00",
+          "title": "Sales support contact - Micron Technology - Micron"
+        }
+      ]
+    },
+    {
+      "id": "cd9eb10730f7ed729e2609d1",
+      "topic": "pc",
+      "title": "What's New in Excel (November 2026) - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVnFWSm82VXllNTZYUmt0Rl9sbV9wMURhS1YyS1AwZzFITGpkREYzdWdreHBOb3ZScnVFSlhsZUd5T0l6aVp4UFJrRmF4cl9NeWlwS2E1SEJnTkQzeHdGUlAyejhRSXdyY0JoMnpMTExxaEpXVW4xUEVxdkdaWV9lREJ5TTVheXUzc2xHbW9rM01HSTdwekE?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Community Hub",
+      "description": "What's New in Excel (November 2026) Microsoft Community Hub",
+      "published_utc": "2026-11-25T00:57:59+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVnFWSm82VXllNTZYUmt0Rl9sbV9wMURhS1YyS1AwZzFITGpkREYzdWdreHBOb3ZScnVFSlhsZUd5T0l6aVp4UFJrRmF4cl9NeWlwS2E1SEJnTkQzeHdGUlAyejhRSXdyY0JoMnpMTExxaEpXVW4xUEVxdkdaWV9lREJ5TTVheXUzc2xHbW9rM01HSTdwekE?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Community Hub",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T00:57:59+00:00",
+          "title": "What's New in Excel (November 2026) - Microsoft Community Hub"
+        }
+      ]
+    },
+    {
+      "id": "e3e29c3f646632d8df199291",
+      "topic": "pc",
+      "title": "Do inconsistent docs hurt AI coding agents? - Microsoft Developer",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUnJ5a0RMMzYxTWo3NjBjSm9nTW81TGxVNS1EOXBvVlJOLWV4MmRSRmpadTNSd1N2QXhvQlFsTWR6LTJENi0zZ0k2dWJrVmJHcHpSV3hHX0J4c2FsRWtWU05sRndHVEtfa0U2OXBndENhOVVkVGk1YUVPVnJfZE94NnJ4T3U1X2s?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Developer",
+      "description": "Do inconsistent docs hurt AI coding agents? Microsoft Developer",
+      "published_utc": "2026-11-25T12:02:49+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUnJ5a0RMMzYxTWo3NjBjSm9nTW81TGxVNS1EOXBvVlJOLWV4MmRSRmpadTNSd1N2QXhvQlFsTWR6LTJENi0zZ0k2dWJrVmJHcHpSV3hHX0J4c2FsRWtWU05sRndHVEtfa0U2OXBndENhOVVkVGk1YUVPVnJfZE94NnJ4T3U1X2s?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Developer",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T12:02:49+00:00",
+          "title": "Do inconsistent docs hurt AI coding agents? - Microsoft Developer"
+        }
+      ]
+    },
+    {
+      "id": "b95bb1c65044d4435a10e345",
+      "topic": "pc",
+      "title": "WhatsApp Beta - Free download and install on Windows - Microsoft Store",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wX2FfMHNEdFVPOTl1RXdPcXp2c0lJWUhRdU1MM1IyOHNPc0VuWnQzOWhkeVhVb1JrdVplRWNxT2U1MkQ0ZU96aGJibDl6RVF3bHcybmI5cGhtQQ?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Store",
+      "description": "WhatsApp Beta - Free download and install on Windows Microsoft Store",
+      "published_utc": "2026-11-25T08:00:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wX2FfMHNEdFVPOTl1RXdPcXp2c0lJWUhRdU1MM1IyOHNPc0VuWnQzOWhkeVhVb1JrdVplRWNxT2U1MkQ0ZU96aGJibDl6RVF3bHcybmI5cGhtQQ?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:00:00+00:00",
+          "title": "WhatsApp Beta - Free download and install on Windows - Microsoft Store"
+        }
+      ]
+    },
+    {
+      "id": "22a02c632ff038fddea8a79d",
+      "topic": "ai",
+      "title": "Use Copilot Cowork - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hU3hIOXdjUmNBR29IN2hiTFFVclRaV0U3dVBrRjJ1czVVZ1pjUjFMVUx5eU5ueWY4T3Izc3VqcHJ1YTN2Q1JpTGp4dUFleDFaMGdGd2kyWVFPaHNaNmRDaGhQOU05NGZPY2NF?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "Use Copilot Cowork Microsoft Learn",
+      "published_utc": "2026-11-25T08:00:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hU3hIOXdjUmNBR29IN2hiTFFVclRaV0U3dVBrRjJ1czVVZ1pjUjFMVUx5eU5ueWY4T3Izc3VqcHJ1YTN2Q1JpTGp4dUFleDFaMGdGd2kyWVFPaHNaNmRDaGhQOU05NGZPY2NF?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:00:00+00:00",
+          "title": "Use Copilot Cowork - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "63817646943d5f9654b8cf67",
+      "topic": "pc",
+      "title": "How do I remove an email from outlook auto-complete? - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMk84WDk3YUFHOFJiNVVVb2hrY2ZpdzNYdmw0b1o4bW5WSTRybHVrQzFXYnZyT3g1V0RqNFY5TnJaOGhjVDRhN1ZHclJVOFB6UWVWdlI4a3JtMngwUURCRXR5ejhKUnlPTEoxYUxPY05USGpIRk5rcnZaNzVEbG1VU1FtRTVKQnliOFBmVWFHWEo3d0ZyTlRjY2dpOTVkb00wWW9VaFE4YVJJZDZHNEQ5RGN5eE1YQVQtLTBRSVM0TQ?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Community Hub",
+      "description": "How do I remove an email from outlook auto-complete? Microsoft Community Hub",
+      "published_utc": "2026-11-25T10:07:28+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMk84WDk3YUFHOFJiNVVVb2hrY2ZpdzNYdmw0b1o4bW5WSTRybHVrQzFXYnZyT3g1V0RqNFY5TnJaOGhjVDRhN1ZHclJVOFB6UWVWdlI4a3JtMngwUURCRXR5ejhKUnlPTEoxYUxPY05USGpIRk5rcnZaNzVEbG1VU1FtRTVKQnliOFBmVWFHWEo3d0ZyTlRjY2dpOTVkb00wWW9VaFE4YVJJZDZHNEQ5RGN5eE1YQVQtLTBRSVM0TQ?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Community Hub",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T10:07:28+00:00",
+          "title": "How do I remove an email from outlook auto-complete? - Microsoft Community Hub"
+        }
+      ]
+    },
+    {
+      "id": "e6a1119cec7cbc7222e23db8",
+      "topic": "pc",
+      "title": "What’s the best text to speech app - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNjdELWRZTjlOU3lmSUdYMjY1Uy11QUFLWUdiSHEtNko2NEd2UjNCbVE3b2tGRmI0TzNDSjZGSW0yQWpLR2wyUWtHWjhTazdZVnRmWnZ3blluZ1BERmk3NXlGMklzSEc4bTMwMzQzaFZmQnVpVWpIZnNHM3JhbWh0RlRqN19hN1NySURHOUVwdnNuNEpnMFFBNGVnTkw4VW11a043NmNweFhRZndoVEFDY0xMTTNZX20yLXRjblA0Q1ZWdw?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Community Hub",
+      "description": "What’s the best text to speech app Microsoft Community Hub",
+      "published_utc": "2026-11-25T08:00:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNjdELWRZTjlOU3lmSUdYMjY1Uy11QUFLWUdiSHEtNko2NEd2UjNCbVE3b2tGRmI0TzNDSjZGSW0yQWpLR2wyUWtHWjhTazdZVnRmWnZ3blluZ1BERmk3NXlGMklzSEc4bTMwMzQzaFZmQnVpVWpIZnNHM3JhbWh0RlRqN19hN1NySURHOUVwdnNuNEpnMFFBNGVnTkw4VW11a043NmNweFhRZndoVEFDY0xMTTNZX20yLXRjblA0Q1ZWdw?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Community Hub",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:00:00+00:00",
+          "title": "What’s the best text to speech app - Microsoft Community Hub"
+        }
+      ]
+    },
+    {
+      "id": "e5b553216ab1fb9d307d6b5d",
+      "topic": "pc",
+      "title": "Where Can I Privately Submit a Personal Letter of Appreciation to Microsoft? - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcHFXMjBBbE9kMkI1Q1Z2QzU2SzFxak1ETF9hb3p0WDlWdHhhdEtZUmJWYkFHRVdYVzdmdTlMQ0VwNlVXbHdGMjZDb3BSU3cxdzFCQUVFTDFhbm95eXFMU2ZNcUozVEtWMkwxb0FvTjFNV05PZmdPZWRwaUJtcWlUVnFlV3B5Q2dWRVRxX20xWkstZFR3TS1KeXBzT1JPdUQ1Rk52QUF6ZnN3bzJMZ0dkM0FMbjNIdGVDQ2w3ZTBNMTVwbFFqdHdoNEwxcVdZSnIxb2hPNFAzSHgwNmUxQ3NEZ1lwMl84UQ?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Community Hub",
+      "description": "Where Can I Privately Submit a Personal Letter of Appreciation to Microsoft? Microsoft Community Hub",
+      "published_utc": "2026-11-25T00:14:52+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcHFXMjBBbE9kMkI1Q1Z2QzU2SzFxak1ETF9hb3p0WDlWdHhhdEtZUmJWYkFHRVdYVzdmdTlMQ0VwNlVXbHdGMjZDb3BSU3cxdzFCQUVFTDFhbm95eXFMU2ZNcUozVEtWMkwxb0FvTjFNV05PZmdPZWRwaUJtcWlUVnFlV3B5Q2dWRVRxX20xWkstZFR3TS1KeXBzT1JPdUQ1Rk52QUF6ZnN3bzJMZ0dkM0FMbjNIdGVDQ2w3ZTBNMTVwbFFqdHdoNEwxcVdZSnIxb2hPNFAzSHgwNmUxQ3NEZ1lwMl84UQ?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Community Hub",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T00:14:52+00:00",
+          "title": "Where Can I Privately Submit a Personal Letter of Appreciation to Microsoft? - Microsoft Community Hub"
+        }
+      ]
+    },
+    {
+      "id": "99806f3809f42345a2c35ad7",
+      "topic": "pc",
+      "title": "Speakers not detected on Windows 11 device - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa1pYMk03Slo2S1ViblQ3ZXM0ai02cDRUOUtTZGtkQmRaOHJILW9CSzJKOVJwS2E4NFdlN1NmbzZ1MDVXdWRJT190T2JPXzI1QjBwX1FIeUotUU5rZWEwU2l1aFRuTTNvU1JtY3JHc2ZvdnAweG1DZzlhM2x4elM5TXp1ek80eGpZRGlRaXFaZmpuSjJ3d1M4a044V25NNHZqNkkxVXRybw?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Community Hub",
+      "description": "Speakers not detected on Windows 11 device Microsoft Community Hub",
+      "published_utc": "2026-11-24T17:39:19+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa1pYMk03Slo2S1ViblQ3ZXM0ai02cDRUOUtTZGtkQmRaOHJILW9CSzJKOVJwS2E4NFdlN1NmbzZ1MDVXdWRJT190T2JPXzI1QjBwX1FIeUotUU5rZWEwU2l1aFRuTTNvU1JtY3JHc2ZvdnAweG1DZzlhM2x4elM5TXp1ek80eGpZRGlRaXFaZmpuSjJ3d1M4a044V25NNHZqNkkxVXRybw?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Community Hub",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T17:39:19+00:00",
+          "title": "Speakers not detected on Windows 11 device - Microsoft Community Hub"
+        }
+      ]
+    },
+    {
+      "id": "8b2360e3b1f71e2a0daeb8b8",
+      "topic": "pc",
+      "title": "Startups - NVIDIA - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xOVp1Q29abG81WjE3SG12d1N1Y3Z4M2dieVg4U2VmUnBYTnBXYXpvdHFReGZ5dENVMlZ0SkZVUWlaZ19yMjlQeF9CcWNTVC1DZUJMblNxczJ3aGIwb2VZRWRnWGVNYTJ5NVE?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "Startups - NVIDIA NVIDIA",
+      "published_utc": "2026-11-25T14:53:09+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xOVp1Q29abG81WjE3SG12d1N1Y3Z4M2dieVg4U2VmUnBYTnBXYXpvdHFReGZ5dENVMlZ0SkZVUWlaZ19yMjlQeF9CcWNTVC1DZUJMblNxczJ3aGIwb2VZRWRnWGVNYTJ5NVE?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T14:53:09+00:00",
+          "title": "Startups - NVIDIA - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "86f4bb7903363ea7c00e5525",
+      "topic": "pc",
+      "title": "NodeWright - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPREVSVlpOVkJJOUVSbko1UnFReGQ4Q0p1Yl83Q0VNZU9MNUNWV1VidGRkbmY4ZkxtdXZ2Nm5uaEpnNG5pZmthSUE5MTZ2MzVBMkN6ZV9nekloVUJHRE44WDc2M0Ryd2lpM0J4eFEyYnhmckdya3dULTVVS3RtSE1tQU1tcDIzRkJPaXJDNTNOWkdqdE5sYzdFbmR3?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "NodeWright NVIDIA",
+      "published_utc": "2026-11-25T08:00:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPREVSVlpOVkJJOUVSbko1UnFReGQ4Q0p1Yl83Q0VNZU9MNUNWV1VidGRkbmY4ZkxtdXZ2Nm5uaEpnNG5pZmthSUE5MTZ2MzVBMkN6ZV9nekloVUJHRE44WDc2M0Ryd2lpM0J4eFEyYnhmckdya3dULTVVS3RtSE1tQU1tcDIzRkJPaXJDNTNOWkdqdE5sYzdFbmR3?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:00:00+00:00",
+          "title": "NodeWright - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "5f02ed722fc0f51d0b1b631c",
+      "topic": "pc",
+      "title": "NodeWright Agent - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByYnVHVE1TLWMzZGgwalBkVHBMZ2t2MUZYM2hjZmV6U19NbnZMT0VzNVRTZmpPNHNuUHBQVGxZYW5yVVl4YUpmWVh5R19WNEhNWk5Ka1lybGs3cllmUE1QbTNKSlVDTGF6Q0FsOTFyTE1RTlZwdldUdlpISXk?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "NodeWright Agent NVIDIA",
+      "published_utc": "2026-11-25T08:00:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByYnVHVE1TLWMzZGgwalBkVHBMZ2t2MUZYM2hjZmV6U19NbnZMT0VzNVRTZmpPNHNuUHBQVGxZYW5yVVl4YUpmWVh5R19WNEhNWk5Ka1lybGs3cllmUE1QbTNKSlVDTGF6Q0FsOTFyTE1RTlZwdldUdlpISXk?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:00:00+00:00",
+          "title": "NodeWright Agent - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "0a25080f3f4bc605ab008dba",
+      "topic": "pc",
+      "title": "NVIDIA AI Enterprise 8.3 Release Notes - NVIDIA Docs",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU1VjLU1QcDVYbDBBUDExSElRaFJlNG1pUVF6SXdCZjFoSnczb2t0UG9VeVVQMV9WZHVORGp3bmpGclFXYmtzYVp0bXhCcnFjakM4d1o1MDVSQ0tKQ1RzTVFTQUtVeFRDNkY0bXpILVphS3hrSHI3QzlrOUxNdUlDLUp2OURBWGg5cnVQM1lQUWRoUQ?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Docs",
+      "description": "NVIDIA AI Enterprise 8.3 Release Notes NVIDIA Docs",
+      "published_utc": "2026-11-25T08:00:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU1VjLU1QcDVYbDBBUDExSElRaFJlNG1pUVF6SXdCZjFoSnczb2t0UG9VeVVQMV9WZHVORGp3bmpGclFXYmtzYVp0bXhCcnFjakM4d1o1MDVSQ0tKQ1RzTVFTQUtVeFRDNkY0bXpILVphS3hrSHI3QzlrOUxNdUlDLUp2OURBWGg5cnVQM1lQUWRoUQ?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Docs",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:00:00+00:00",
+          "title": "NVIDIA AI Enterprise 8.3 Release Notes - NVIDIA Docs"
+        }
+      ]
+    },
+    {
+      "id": "a677c222fc79078780fb4cbe",
+      "topic": "pc",
+      "title": "NVIDIA Retrieval QA Llama 3.2 1B Embedding v2 PB7 - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlh0OEwwT3lja2w0NHk0TlgyMjByc05DX2JFQlVENjFsRktFU1pSaHRxWDVyQlZYQ1dmMHBreW5xN2tHUHhBMWJINVRBXzVlMWIwTTM5bEU4TXp5a2gwV0w0U3JuU0JkdUhpVEY0aHQ4ZkhrRUd2NjM0RGwzQTU4bnlJUVQ2VUE0c2FaVVZYc3A1YWZGc0dLV1Vja0hyYU9SVk1SWA?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "NVIDIA Retrieval QA Llama 3.2 1B Embedding v2 PB7 NVIDIA",
+      "published_utc": "2026-11-25T08:00:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlh0OEwwT3lja2w0NHk0TlgyMjByc05DX2JFQlVENjFsRktFU1pSaHRxWDVyQlZYQ1dmMHBreW5xN2tHUHhBMWJINVRBXzVlMWIwTTM5bEU4TXp5a2gwV0w0U3JuU0JkdUhpVEY0aHQ4ZkhrRUd2NjM0RGwzQTU4bnlJUVQ2VUE0c2FaVVZYc3A1YWZGc0dLV1Vja0hyYU9SVk1SWA?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:00:00+00:00",
+          "title": "NVIDIA Retrieval QA Llama 3.2 1B Embedding v2 PB7 - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "888f929ce343a4139469008a",
+      "topic": "pc",
+      "title": "NVIDIA Retrieval QA Llama 3.2 1B Reranking v2 PB7 - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdDRTTTUxRjZiZE1sLUI1MVpPVlVkQVlnWjNlNllEaWtoV1FTV2h6X20zUTNmTmtfQm5TSFV4dG8xdU92cHdFMTg2MmVsbUZ0a0lOM2tjdFB5YXpEaU5pREIwcEVVcmt4ZC1SQ2tnN1p2QzM1R3AyYWtEVjIwa0tGZmZnbzNaYlJOdTcyVmJMS3BwenJRaGZLbFZrZVBwdHBRaTVTMDBOamZHRm1BMFVN?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "NVIDIA Retrieval QA Llama 3.2 1B Reranking v2 PB7 NVIDIA",
+      "published_utc": "2026-11-25T08:00:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdDRTTTUxRjZiZE1sLUI1MVpPVlVkQVlnWjNlNllEaWtoV1FTV2h6X20zUTNmTmtfQm5TSFV4dG8xdU92cHdFMTg2MmVsbUZ0a0lOM2tjdFB5YXpEaU5pREIwcEVVcmt4ZC1SQ2tnN1p2QzM1R3AyYWtEVjIwa0tGZmZnbzNaYlJOdTcyVmJMS3BwenJRaGZLbFZrZVBwdHBRaTVTMDBOamZHRm1BMFVN?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:00:00+00:00",
+          "title": "NVIDIA Retrieval QA Llama 3.2 1B Reranking v2 PB7 - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "3cc0e2eac301eeaadde976fb",
+      "topic": "pc",
+      "title": "Nemotron Transcribe - NVIDIA Docs",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZHlqYVl6bTVXbms1Z3ZWbktFU3lSenliZ0Z1N1Q5UXRBTHc4T3FjYmkwMEpNcjloVFF2VXpyM1U1WjFPQ0hxWDQ5Y0EzME43SWFHb19sbXBCV2JVeEQwVEVMTlFkUzI3T2w4MWw4X21zc2tPYXc1ZkZ2dmVSb1dMLUpFSmM2QXp1WWI5WU5hazZ3dw?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Docs",
+      "description": "Nemotron Transcribe NVIDIA Docs",
+      "published_utc": "2026-11-25T08:00:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZHlqYVl6bTVXbms1Z3ZWbktFU3lSenliZ0Z1N1Q5UXRBTHc4T3FjYmkwMEpNcjloVFF2VXpyM1U1WjFPQ0hxWDQ5Y0EzME43SWFHb19sbXBCV2JVeEQwVEVMTlFkUzI3T2w4MWw4X21zc2tPYXc1ZkZ2dmVSb1dMLUpFSmM2QXp1WWI5WU5hazZ3dw?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Docs",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:00:00+00:00",
+          "title": "Nemotron Transcribe - NVIDIA Docs"
+        }
+      ]
+    },
+    {
+      "id": "04614dd997ac4c29383c7701",
+      "topic": "pc",
+      "title": "gpt-oss-120b-pb7 - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORWZLSmllRTgzRkpVdkdDZ0RoMWxucE9mdUMzVWlqZ0VfaGZOa0dYQ3F0SHdJS0tzSGJUTjhaTENYUDNVTXdFeWxrcTJyNkE1ZjBOejFqVE9qakZ3Mk9GaFFINF9uakllX0tFWUhKT2hPOGN0bGVoR05SRWRpRWgwSXF2dVFrQXZfRzlLYWYydlhxdw?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "gpt-oss-120b-pb7 NVIDIA",
+      "published_utc": "2026-11-25T08:00:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORWZLSmllRTgzRkpVdkdDZ0RoMWxucE9mdUMzVWlqZ0VfaGZOa0dYQ3F0SHdJS0tzSGJUTjhaTENYUDNVTXdFeWxrcTJyNkE1ZjBOejFqVE9qakZ3Mk9GaFFINF9uakllX0tFWUhKT2hPOGN0bGVoR05SRWRpRWgwSXF2dVFrQXZfRzlLYWYydlhxdw?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:00:00+00:00",
+          "title": "gpt-oss-120b-pb7 - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "bba352296d3d4abd8542bef4",
+      "topic": "pc",
+      "title": "nemotron-3.5-lightning-pb7 - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMjB2Nnc0LWYzUGJqMjJpRERCNHdXYXhER0Mxd0NMelBNYmU3VW9ZdjlrM3IzTGZIYkh1QS1JY2puNDVqN20zNEYzYmQ0S2d0WktqMUw4c3hKdzdNaDlCaGZBNW1RMThVRVFxbDlPWlZhMnlKWjl1ZElmN1VqUURpRWdTbGhVbzRWQ0tIcFl3by02cU82aGlPTXdR?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "nemotron-3.5-lightning-pb7 NVIDIA",
+      "published_utc": "2026-11-25T08:00:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMjB2Nnc0LWYzUGJqMjJpRERCNHdXYXhER0Mxd0NMelBNYmU3VW9ZdjlrM3IzTGZIYkh1QS1JY2puNDVqN20zNEYzYmQ0S2d0WktqMUw4c3hKdzdNaDlCaGZBNW1RMThVRVFxbDlPWlZhMnlKWjl1ZElmN1VqUURpRWdTbGhVbzRWQ0tIcFl3by02cU82aGlPTXdR?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:00:00+00:00",
+          "title": "nemotron-3.5-lightning-pb7 - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "cd17377e6d5fcff71b5d5358",
+      "topic": "pc",
+      "title": "NodeWright - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTUtJQ2dlT2s4OURSZGVWLWpwOGdodlhKRVhsX1ppOEhCWUlWc2N0MWo2b3pDM041WGd6VDkxaTA5UkxfSllTTHQwRnVXT0dDdVJ6ajZoNDg3dm96UHR2RXM4RDZPbS1JVHBNX2o5STVjX3BJRW51SU51TlVBVUZuQlJPbGp1MjBBLXRzWlVyVC0wdlFWVi1DNHJqZV84ZVlERUlRQ05WbzdWaGhuZy1n?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "NodeWright NVIDIA",
+      "published_utc": "2026-11-25T08:00:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTUtJQ2dlT2s4OURSZGVWLWpwOGdodlhKRVhsX1ppOEhCWUlWc2N0MWo2b3pDM041WGd6VDkxaTA5UkxfSllTTHQwRnVXT0dDdVJ6ajZoNDg3dm96UHR2RXM4RDZPbS1JVHBNX2o5STVjX3BJRW51SU51TlVBVUZuQlJPbGp1MjBBLXRzWlVyVC0wdlFWVi1DNHJqZV84ZVlERUlRQ05WbzdWaGhuZy1n?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:00:00+00:00",
+          "title": "NodeWright - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "f4e7ec9b7b37fc3add4260f5",
+      "topic": "pc",
+      "title": "NodeWright Helm Chart - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUFpIOUVFNnNZc3Z3ODNuSjZNN1ZJRlNBRHFuSi02YkhCLU5wcnhJdlNNZmptUjJFVHRBQVhjM0U2N01PNDF4U1lYTVNyMS1tWjBnb09uUVliMnpSNUtGYWVTRVY1V1BSeGx1T1h3blFPV0pTYmswV0loMEpwMng3aHhTYmFuZGxtSG1SSQ?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "NodeWright Helm Chart NVIDIA",
+      "published_utc": "2026-11-25T08:00:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUFpIOUVFNnNZc3Z3ODNuSjZNN1ZJRlNBRHFuSi02YkhCLU5wcnhJdlNNZmptUjJFVHRBQVhjM0U2N01PNDF4U1lYTVNyMS1tWjBnb09uUVliMnpSNUtGYWVTRVY1V1BSeGx1T1h3blFPV0pTYmswV0loMEpwMng3aHhTYmFuZGxtSG1SSQ?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:00:00+00:00",
+          "title": "NodeWright Helm Chart - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "9b72649c8aad3791a76c75e6",
+      "topic": "ai",
+      "title": "Dynamo Tensorrt-LLM Runtime - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGlzVFUxYlRpd3NjNGJ1RzQ2Q2VQVGUtY2hxaENTc3U0RGFaQUhfVnotZlpISHFIM2ZZVEE3YmMyMDNENjBJdGpoQnNPYTJCdkx1dDY2X0p3WElIZzh6d3cxc18takZYSGc3NG1SZGRmdWJSZVotQ2FXdlZEZ0VoV3kxNWphOXV0aWI4SnhmaUlEUEhYaUNfQnVSbEZiRUlzQUxrYXNkSW9MNUdwQnRodEVaNDgzeUh2OXJiX0RfZS1SUQ?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "Dynamo Tensorrt-LLM Runtime NVIDIA",
+      "published_utc": "2026-11-25T12:58:23+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGlzVFUxYlRpd3NjNGJ1RzQ2Q2VQVGUtY2hxaENTc3U0RGFaQUhfVnotZlpISHFIM2ZZVEE3YmMyMDNENjBJdGpoQnNPYTJCdkx1dDY2X0p3WElIZzh6d3cxc18takZYSGc3NG1SZGRmdWJSZVotQ2FXdlZEZ0VoV3kxNWphOXV0aWI4SnhmaUlEUEhYaUNfQnVSbEZiRUlzQUxrYXNkSW9MNUdwQnRodEVaNDgzeUh2OXJiX0RfZS1SUQ?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T12:58:23+00:00",
+          "title": "Dynamo Tensorrt-LLM Runtime - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "c6b4fb1161390b0651083616",
+      "topic": "pc",
+      "title": "NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee - NVIDIA Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWFQ0dktmeW5HV2hJVVduUkF6N1BRNzd2bi1oa1BXY1hPeEgxZjc4eDdoTUMzUGpDWEh1cWFuaHg4NGVKZlZmdHNfQkcwMDRqY01KYm9ERUc4d2FxUl8tVUFud1BDRGxuZ29mUGZJeHo1TjBWcnprWmQyeldwQU1nME9oRQ?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Newsroom",
+      "description": "NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee NVIDIA Newsroom",
+      "published_utc": "2026-11-25T00:21:55+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWFQ0dktmeW5HV2hJVVduUkF6N1BRNzd2bi1oa1BXY1hPeEgxZjc4eDdoTUMzUGpDWEh1cWFuaHg4NGVKZlZmdHNfQkcwMDRqY01KYm9ERUc4d2FxUl8tVUFud1BDRGxuZ29mUGZJeHo1TjBWcnprWmQyeldwQU1nME9oRQ?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Newsroom",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T00:21:55+00:00",
+          "title": "NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee - NVIDIA Newsroom"
+        }
+      ]
+    },
+    {
+      "id": "526243f481f7d85e3c17620f",
+      "topic": "pc",
+      "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers - NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSXVoQlRHeld4d0YxQmNuY01rLWJ6R21IS00wSXZ4bzFjUjhadmdOczN0eTlhQW9kUXpiU3Q5MlNJaGFvdGpiWXZWeUZGX2phSC1jZmQ5b3JEeDZVX1pHdDBaME9JQVI4VFFUUS1NTmFiWGJuNVQyYUxTOVM0LTd4clpMWHR2NFQtdWo0Sk9UR2xfV1pBUHNZQTFGLWxWLUxWb3NacEFTa3MyQ053a1Ayd05RYkh3bzBTcnRzNQ?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Developer Forums",
+      "description": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers NVIDIA Developer Forums",
+      "published_utc": "2026-11-24T18:44:11+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSXVoQlRHeld4d0YxQmNuY01rLWJ6R21IS00wSXZ4bzFjUjhadmdOczN0eTlhQW9kUXpiU3Q5MlNJaGFvdGpiWXZWeUZGX2phSC1jZmQ5b3JEeDZVX1pHdDBaME9JQVI4VFFUUS1NTmFiWGJuNVQyYUxTOVM0LTd4clpMWHR2NFQtdWo0Sk9UR2xfV1pBUHNZQTFGLWxWLUxWb3NacEFTa3MyQ053a1Ayd05RYkh3bzBTcnRzNQ?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Developer Forums",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T18:44:11+00:00",
+          "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers - NVIDIA Developer Forums"
+        }
+      ]
+    },
+    {
+      "id": "88722c2d60c6582241aa70de",
+      "topic": "pc",
+      "title": "NVIDIA AI Enterprise 8.3 Support Matrix - NVIDIA Docs",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjUtZUdSZno5Qzk2YWR3R0FhM1gzZUNrakhvR2ViN0hWeUtUZFY4QnFnckptZXlTd3NNUEJzM3l3RndBaUM0VVFlcW96M2ZrbDg3ajVwZHRLVVBKMk5hQ2pOMWdra3dhUTE3X2xNQTcwdGpzMTZ1aDZ4cXJtS0dlSncxSXpRT054R1Rud3VXODcxZw?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Docs",
+      "description": "NVIDIA AI Enterprise 8.3 Support Matrix NVIDIA Docs",
+      "published_utc": "2026-11-25T08:00:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjUtZUdSZno5Qzk2YWR3R0FhM1gzZUNrakhvR2ViN0hWeUtUZFY4QnFnckptZXlTd3NNUEJzM3l3RndBaUM0VVFlcW96M2ZrbDg3ajVwZHRLVVBKMk5hQ2pOMWdra3dhUTE3X2xNQTcwdGpzMTZ1aDZ4cXJtS0dlSncxSXpRT054R1Rud3VXODcxZw?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Docs",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:00:00+00:00",
+          "title": "NVIDIA AI Enterprise 8.3 Support Matrix - NVIDIA Docs"
         }
       ]
     }

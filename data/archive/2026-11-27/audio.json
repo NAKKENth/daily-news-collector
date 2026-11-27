@@ -46,6 +46,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "対象オーディオ候補",
+      "possible_event_id": "c895f123e331",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS1hqcE1lY0pRT3hTU0d4ZnYzemVocUwtOWtpQzMzb21NYjllRG00dGFmMWg2WDhZM05QeFNRVVZ0VkdpNmxNOFFWd1M0MUFIeUFiTkxhUWltc1Jhd1pDamxpdndYRlhDdHItOWNjZnVNYzBELXY4TGN4NG1qWTZGbkJnT3V1OFk0R3c?oc=5",
@@ -65,7 +66,7 @@
       "source": "JBL",
       "publisher": "JBL",
       "description": "Open Earbuds JBL",
-      "published_utc": "2026-11-26T19:26:35+00:00",
+      "published_utc": "2026-11-27T10:10:16+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -78,8 +79,34 @@
           "source": "JBL",
           "publisher": "JBL",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T19:26:35+00:00",
+          "published_utc": "2026-11-27T10:10:16+00:00",
           "title": "Open Earbuds - JBL"
+        }
+      ]
+    },
+    {
+      "id": "884a7b1cd46b34f15ca6aec3",
+      "topic": "wired",
+      "title": "Refurbished Headphones - JBL",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43ZzhUcm1lWUhTNnhmWERTUlUtbFNOZzE0M2NWRUZrRG00Q1lfaWZYdGFTMm0zN2h2aVBWYlVEWFdfcVl4cVhIQW41dEVSbEh3XzN5cDdB?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "Refurbished Headphones JBL",
+      "published_utc": "2026-11-27T10:07:55+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43ZzhUcm1lWUhTNnhmWERTUlUtbFNOZzE0M2NWRUZrRG00Q1lfaWZYdGFTMm0zN2h2aVBWYlVEWFdfcVl4cVhIQW41dEVSbEh3XzN5cDdB?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T10:07:55+00:00",
+          "title": "Refurbished Headphones - JBL"
         }
       ]
     },
@@ -122,7 +149,7 @@
     {
       "id": "4ea8fd87f7f709dae18f816d",
       "topic": "tws",
-      "title": "Vitamix Nano Blender Review",
+      "title": "Vitamix Nano Review",
       "url": "https://www.rtings.com/blender/reviews/vitamix/nano",
       "source": "RTINGS Headphones",
       "publisher": "RTINGS Headphones",
@@ -141,7 +168,7 @@
           "publisher": "RTINGS Headphones",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-26T20:12:40+00:00",
-          "title": "Vitamix Nano Blender Review"
+          "title": "Vitamix Nano Review"
         },
         {
           "url": "https://www.rtings.com/blender/reviews/vitamix/nano",
@@ -151,7 +178,11 @@
           "published_utc": "2026-11-26T20:12:40+00:00",
           "title": "Vitamix Nano Blender Review"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "2026-11-26T15:12:40-05:00",
+      "enrichment": "url_only"
     },
     {
       "id": "62ad42814aa4662d63fde077",
@@ -316,7 +347,8 @@
           "published_utc": "2026-11-27T01:03:48+00:00",
           "title": "【1個から作れる】オリジナルイヤホン！名入れ・ロゴ入れで記念品やプレゼントにもおすすめ！"
         }
-      ]
+      ],
+      "enrichment": "not_article"
     },
     {
       "id": "e1d1a6f352427d2253fdfa3f",
@@ -342,7 +374,8 @@
           "published_utc": "2026-11-27T01:00:00+00:00",
           "title": "【12/4発売】FIIOからオーディオストリーマー『R7 R2R』ヘッドホンアンプ『CLASS A』が登場！"
         }
-      ]
+      ],
+      "enrichment": "not_article"
     },
     {
       "id": "eac04d35d0351ec0a91105e5",
@@ -371,18 +404,18 @@
       ]
     },
     {
-      "id": "354231eefc630ea53c5a0dca",
+      "id": "b56ed278f182fd5079bdfc34",
       "topic": "wired",
       "title": "FIIO、自社開発R2R DAC搭載の“オールインワン”デスクトップストリーマー「R7 R2R」",
-      "url": "http://www.phileweb.com/news/audio/202611/27/28454.html",
+      "url": "https://www.phileweb.com/news/audio/202611/27/28454.html",
       "source": "PHILE WEB",
       "publisher": "PHILE WEB",
       "description": "FIIOは、自社開発の24bit R2R抵抗アレイDACを搭載したネットワークオーディオプレーヤー「R7 R2R」を12月4日（金）に発売する。カラーはブラックとホワイトの2色。価格はオープンで、市場では159,500円前後（税込）での実売が予想される。",
-      "published_utc": "2026-11-27T00:33:38+00:00",
+      "published_utc": "2026-11-27T01:00:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -393,8 +426,20 @@
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-27T00:33:38+00:00",
           "title": "FIIO、自社開発R2R DAC搭載の“オールインワン”デスクトップストリーマー「R7 R2R」"
+        },
+        {
+          "url": "https://www.phileweb.com/news/audio/202611/27/28454.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-27T01:00:00+00:00",
+          "title": "FIIO、自社開発R2R DAC搭載の“オールインワン”デスクトップストリーマー「R7 R2R」"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T10:00:00+09:00",
+      "article_modified_raw": "2026-11-27T09:33:38+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "2bb532f1685f2555da28c49e",
@@ -674,9 +719,9 @@
       "description": "e☆イヤホンを運営するタイムマシンは、国内代理店を務めるシンガポールのブランドEFFECT AUDIOとqdcのコラボイヤフォン「SOVEREIGN(ソブリン)」を、12月9日より全国のe☆イヤホン各店および各オンラインストアで発売する。価格は835,000円。世界限定200台、日本国内20台限定。",
       "published_utc": "2026-11-27T02:00:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -684,11 +729,15 @@
           "url": "https://av.watch.impress.co.jp/docs/news/2159583.html",
           "source": "AV Watch Audio",
           "publisher": "AV Watch Audio",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T02:00:00+00:00",
           "title": "EFFECT AUDIO×qdcコラボイヤフォン「SOVEREIGN」。片側15ドライバ、特注内部配線、専用開発ケーブル"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T11:00:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "18f140b8e42a505c1e1588df",
@@ -714,7 +763,8 @@
           "published_utc": "2026-11-27T07:00:00+00:00",
           "title": "【11/30発売】HiBy Digitalから高音質と多機能を融合したデスクトップDAC／ヘッドホンアンプ BD100 が登場！"
         }
-      ]
+      ],
+      "enrichment": "not_article"
     },
     {
       "id": "4bf0a72480e74f2e8d1e824a",
@@ -798,58 +848,6 @@
       "enrichment": "not_article"
     },
     {
-      "id": "4517dc28fe381a69d0925310",
-      "topic": "wired",
-      "title": "Binary Unveils Apsara: 1DD+Direct-Drive MEMS Driver Hybrid IEMs",
-      "url": "https://hifigo.com/blogs/news/binary-unveils-apsara-1dd-direct-drive-mems-driver-hybrid-iems",
-      "source": "HiFiGo",
-      "publisher": "HiFiGo",
-      "description": "Binary Acoustics has been on a roll lately with some exciting releases, specifically the EP321(featuring a MEMS driver hybrid configuration), and the 1900(offering a highly musical sound). This time around, they are bringing us another hybrid set featuring the innovative MEMS driver technology, presenting the Binary Apsara, a striking 1DD+1MEMS hyb",
-      "published_utc": "2026-11-27T05:32:00+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
-      "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "priority",
-      "triage_reason": "対象オーディオ候補",
-      "sources": [
-        {
-          "url": "https://hifigo.com/blogs/news/binary-unveils-apsara-1dd-direct-drive-mems-driver-hybrid-iems",
-          "source": "HiFiGo",
-          "publisher": "HiFiGo",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-27T05:32:00+00:00",
-          "title": "Binary Unveils Apsara: 1DD+Direct-Drive MEMS Driver Hybrid IEMs"
-        }
-      ]
-    },
-    {
-      "id": "e8de11265d00478b9c24dbe8",
-      "topic": "portable_dac",
-      "title": "AFUL Launches Ember-01: CNC-Machined Metallic Portable USB DAC/AMP",
-      "url": "https://hifigo.com/blogs/news/aful-launches-ember-01-cnc-machined-metallic-portable-usb-dac-amp",
-      "source": "HiFiGo",
-      "publisher": "HiFiGo",
-      "description": "Following the success of the world’s first all-resin chassis DAC/AMP, the AFUL IceBorne, AFUL is back again with a brand new release, introducing the AFUL Ember-01. Built around a CNC-machined metallic chassis featuring a transparent top panel that showcases the internal circuitry, the Ember-01 combines industrial aesthetics with top-tier audio dec",
-      "published_utc": "2026-11-27T05:31:25+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
-      "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "priority",
-      "triage_reason": "対象オーディオ候補",
-      "sources": [
-        {
-          "url": "https://hifigo.com/blogs/news/aful-launches-ember-01-cnc-machined-metallic-portable-usb-dac-amp",
-          "source": "HiFiGo",
-          "publisher": "HiFiGo",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-27T05:31:25+00:00",
-          "title": "AFUL Launches Ember-01: CNC-Machined Metallic Portable USB DAC/AMP"
-        }
-      ]
-    },
-    {
       "id": "1122309f9193e7abb150ac2f",
       "topic": "wired",
       "title": "HiBy Digital、マイク入力も備える多機能コンパクトDAC／ヘッドホンアンプ「BD100」",
@@ -926,18 +924,18 @@
       "enrichment": "article_metadata"
     },
     {
-      "id": "a7fbbeb84c2703700a19956e",
+      "id": "f23a5a90367231a14acf62c8",
       "topic": "wired",
       "title": "マランツ、AVセパレートアンプ購入でAudioQuest製ケーブルをプレゼント。「AV 10」「AV 30」「AMP 10」の3モデルが対象",
-      "url": "http://www.phileweb.com/news/audio/202611/27/28455.html",
+      "url": "https://www.phileweb.com/news/audio/202611/27/28455.html",
       "source": "PHILE WEB",
       "publisher": "PHILE WEB",
       "description": "ディーアンドエムホールディングスは、対象のマランツAVセパレートアンプ購入者に、AudioQuest製の高音質ケーブルをプレゼントするキャンペーンを、2026年11月27日（金）から2027年1月31日（日）まで実施する。",
-      "published_utc": "2026-11-27T04:23:50+00:00",
+      "published_utc": "2026-11-27T04:23:49+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -948,8 +946,20 @@
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-27T04:23:50+00:00",
           "title": "マランツ、AVセパレートアンプ購入でAudioQuest製ケーブルをプレゼント。「AV 10」「AV 30」「AMP 10」の3モデルが対象"
+        },
+        {
+          "url": "https://www.phileweb.com/news/audio/202611/27/28455.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-27T04:23:49+00:00",
+          "title": "マランツ、AVセパレートアンプ購入でAudioQuest製ケーブルをプレゼント。「AV 10」「AV 30」「AMP 10」の3モデルが対象"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T13:23:49+09:00",
+      "article_modified_raw": "2026-11-27T13:23:49+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "2ece225acc0f07869b14fae2",
@@ -1047,9 +1057,9 @@
       "description": "01Diverseは、Moeetechより、磁気シールド材「スーパーパーマロイ」を採用した小型DAC「Glitter Opera」「Glitter Opera S」を12月4日に発売する。価格はオープン。市場想定価格はGlitter Operaが61,900円前後、Glitter Opera Sが69,800円前後。",
       "published_utc": "2026-11-27T10:00:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1057,11 +1067,15 @@
           "url": "https://av.watch.impress.co.jp/docs/news/2159933.html",
           "source": "AV Watch Audio",
           "publisher": "AV Watch Audio",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T10:00:00+00:00",
           "title": "Moeetech、磁気シールド“スーパーパーマロイ”でノイズ遮断した小型DAC"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T19:00:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "5701f6e9409e76e16c377636",
@@ -1087,7 +1101,9 @@
           "published_utc": "2026-11-27T13:03:09+00:00",
           "title": "(PR) Kiwi Ears Launches the $30 Marcato IEMs Tuned for Vocals"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://www.techpowerup.com/355269/kiwi-ears-launches-the-usd-30-marcato-iems-tuned-for-vocals"
     },
     {
       "id": "63f23f0559a4a83bd26310f6",
@@ -1246,16 +1262,16 @@
     {
       "id": "6671441cef5af3c2627276c5",
       "topic": "tws",
-      "title": "Grab Sony’s WI-C100 neckband earbuds for just over $20",
+      "title": "Grab Sony&#8217;s WI-C100 neckband earbuds for just over $20",
       "url": "https://www.soundguys.com/sony-wi-c100-deal-166944",
       "source": "SoundGuys",
       "publisher": "SoundGuys",
-      "description": "Sony's WI-C100 earbuds drop to $23 on Amazon this Black Friday season, with 25-hour battery life and a flexible neckband.",
+      "description": "The Sony WI-C100 wireless earbuds are 42% off on Amazon, a budget pick with up to 25 hours of battery, IPX4 protection, and a built-in mic.",
       "published_utc": "2026-11-27T13:28:07+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "対象オーディオ候補",
       "sources": [
@@ -1263,11 +1279,15 @@
           "url": "https://www.soundguys.com/sony-wi-c100-deal-166944",
           "source": "SoundGuys",
           "publisher": "SoundGuys",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T13:28:07+00:00",
-          "title": "Grab Sony’s WI-C100 neckband earbuds for just over $20"
+          "title": "Grab Sony&#8217;s WI-C100 neckband earbuds for just over $20"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T13:28:07+00:00",
+      "article_modified_raw": "2026-11-27T13:28:07+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "af95c6182dc32b4fb40c47e6",
@@ -1276,24 +1296,28 @@
       "url": "https://www.soundguys.com/shokz-opendots-2-deal-black-friday-166976",
       "source": "SoundGuys",
       "publisher": "SoundGuys",
-      "description": "Shokz's OpenDots 2 open-ear earbuds are 30% off in every color, with Dolby Audio and up to 40 hours of playback.",
+      "description": "Save $60 on Shokz OpenDots 2 clip-on earbuds on Amazon this Black Friday season, a new low, with wireless charging and an IP57 rating.",
       "published_utc": "2026-11-27T11:37:07+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "review",
+      "date_quality": "article_metadata",
+      "triage": "priority",
       "triage_reason": "対象オーディオ候補",
       "sources": [
         {
           "url": "https://www.soundguys.com/shokz-opendots-2-deal-black-friday-166976",
           "source": "SoundGuys",
           "publisher": "SoundGuys",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T11:37:07+00:00",
           "title": "Shokz OpenDots 2 clip-on earbuds hit a record low of $139.95"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T11:37:07+00:00",
+      "article_modified_raw": "2026-11-27T11:37:07+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "b3b3b9ca1d5ae06dd74a65fb",
@@ -1378,16 +1402,16 @@
     {
       "id": "afcc5a3071576dbe8bfcd126",
       "topic": "wired",
-      "title": "FiiO SNOWSKY MAGE Review",
+      "title": "FiiO SNOWSKY MAGE Review &mdash; Headfonics",
       "url": "https://headfonics.com/fiio-snowsky-mage-review",
       "source": "Headfonics",
       "publisher": "Headfonics",
-      "description": "Marcelo reviews the FiiO SNOWSKY MAGE, a handheld-style gaming sound card with 7.1 surround, 60W charging, and 10-band PEQ. It is currently priced at $19.99. Disclaimer: I received this sample in exchange for my honest opinion. Headfonics is an independent website with no affiliate links or services. Thank you, FiiO, for your support. Click here to",
+      "description": "Marcelo reviews the FiiO SNOWSKY MAGE, a handheld-style gaming sound card with 7.1 surround, 60W charging, and 10-band PEQ.",
       "published_utc": "2026-11-27T10:02:57+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1395,16 +1419,20 @@
           "url": "https://headfonics.com/fiio-snowsky-mage-review",
           "source": "Headfonics",
           "publisher": "Headfonics",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T10:02:57+00:00",
-          "title": "FiiO SNOWSKY MAGE Review"
+          "title": "FiiO SNOWSKY MAGE Review &mdash; Headfonics"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T18:02:57+08:00",
+      "article_modified_raw": "2026-11-27T18:02:57+08:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "d27c30ba008ce997053bff20",
       "topic": "tws",
-      "title": "Microsoft Surface Mouse (2nd Edition) Mouse Review",
+      "title": "Microsoft Surface Mouse (2nd Edition) Review",
       "url": "https://www.rtings.com/mouse/reviews/microsoft/surface-mouse-2nd-edition",
       "source": "RTINGS Headphones",
       "publisher": "RTINGS Headphones",
@@ -1423,14 +1451,26 @@
           "publisher": "RTINGS Headphones",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-27T14:45:30+00:00",
+          "title": "Microsoft Surface Mouse (2nd Edition) Review"
+        },
+        {
+          "url": "https://www.rtings.com/mouse/reviews/microsoft/surface-mouse-2nd-edition",
+          "source": "RTINGS Monitor",
+          "publisher": "RTINGS Monitor",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-27T14:45:30+00:00",
           "title": "Microsoft Surface Mouse (2nd Edition) Mouse Review"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "2026-11-27T09:45:30-05:00",
+      "enrichment": "url_only"
     },
     {
       "id": "d49518ef835a82c64ffe63b6",
       "topic": "tws",
-      "title": "Epson Home Cinema LS7500 Projector Review",
+      "title": "Epson Home Cinema LS7500 Review",
       "url": "https://www.rtings.com/projector/reviews/epson/home-cinema-ls7500",
       "source": "RTINGS Headphones",
       "publisher": "RTINGS Headphones",
@@ -1449,7 +1489,753 @@
           "publisher": "RTINGS Headphones",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-27T13:52:12+00:00",
+          "title": "Epson Home Cinema LS7500 Review"
+        },
+        {
+          "url": "https://www.rtings.com/projector/reviews/epson/home-cinema-ls7500",
+          "source": "RTINGS Monitor",
+          "publisher": "RTINGS Monitor",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-27T13:52:12+00:00",
           "title": "Epson Home Cinema LS7500 Projector Review"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "2026-11-27T08:52:12-05:00",
+      "enrichment": "url_only"
+    },
+    {
+      "id": "a8869dbb50e113d49b78bca0",
+      "topic": "tws",
+      "title": "First software update for Galaxy Buds On is here",
+      "url": "https://www.sammobile.com/news/first-software-update-galaxy-buds-on-here",
+      "source": "SamMobile",
+      "publisher": "SamMobile",
+      "description": "Samsung has released the first Galaxy Buds On update in South Korea, bringing stability and security-related improvements.",
+      "published_utc": "2026-11-27T05:49:58+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://www.sammobile.com/news/first-software-update-galaxy-buds-on-here",
+          "source": "SamMobile",
+          "publisher": "SamMobile",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-27T05:49:58+00:00",
+          "title": "First software update for Galaxy Buds On is here"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T05:49:58+00:00",
+      "article_modified_raw": "2026-11-27T05:50:02+00:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "f301e16cc2ba9c809eb075ca",
+      "topic": "wired",
+      "title": "In-ear Headphone - shenzhenaudio - shenzhenaudio",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNjBzcEdHMHB5R0tpeGViSnBnaktNY00tVEppNXR0QzhYZEk1QUZCMnVCcVVqM2FjZkRhbVZ3LVZRMndFaEtLdlVrNlhzZU5lc01RVDdsbGhJYk5ZNkk4NkxkWkswSjQyQk42dXVCTXZZMWFGWjBoWFRBYVpUMGlZeUE0ekgwVFRZMS04cDJ5NFJZTkllcExYX202WEFBTkdTZ3JCaWIwTUd4TWlqMEhlWG8wcEpCaU1XMzkwbUVRUnVJTnc5T3dCbWVrZE53ejFKNHFqZUxPeC12MktJcW9sVmlqSmFkQVVhODRhdTBEZw?oc=5",
+      "source": "SHENZHENAUDIO",
+      "publisher": "shenzhenaudio",
+      "description": "In-ear Headphone - shenzhenaudio shenzhenaudio",
+      "published_utc": "2026-11-27T09:19:30+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNjBzcEdHMHB5R0tpeGViSnBnaktNY00tVEppNXR0QzhYZEk1QUZCMnVCcVVqM2FjZkRhbVZ3LVZRMndFaEtLdlVrNlhzZU5lc01RVDdsbGhJYk5ZNkk4NkxkWkswSjQyQk42dXVCTXZZMWFGWjBoWFRBYVpUMGlZeUE0ekgwVFRZMS04cDJ5NFJZTkllcExYX202WEFBTkdTZ3JCaWIwTUd4TWlqMEhlWG8wcEpCaU1XMzkwbUVRUnVJTnc5T3dCbWVrZE53ejFKNHFqZUxPeC12MktJcW9sVmlqSmFkQVVhODRhdTBEZw?oc=5",
+          "source": "SHENZHENAUDIO",
+          "publisher": "shenzhenaudio",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T09:19:30+00:00",
+          "title": "In-ear Headphone - shenzhenaudio - shenzhenaudio"
+        }
+      ]
+    },
+    {
+      "id": "ec10534d37b44fe2db727100",
+      "topic": "tws",
+      "title": "1000X series | WH-1000XM4C Wireless Noise Cancelling Headphones - Sony",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VOHltczF3akdiUXN2ckNZRV9DejJsbmo2eExvMHNNUnlCLVhtekl5UFc0dTU5NDVNSkFRY3dpQWJ4NVZlUHVnRExLNFNNNDVDOFNZUnVRYXJBRE9EeUtpMWh2amlzU3pBYURUc0xtcmdPQTc5UnprLXFOaw?oc=5",
+      "source": "Sony Audio",
+      "publisher": "Sony",
+      "description": "1000X series | WH-1000XM4C Wireless Noise Cancelling Headphones Sony",
+      "published_utc": "2026-11-27T04:28:13+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VOHltczF3akdiUXN2ckNZRV9DejJsbmo2eExvMHNNUnlCLVhtekl5UFc0dTU5NDVNSkFRY3dpQWJ4NVZlUHVnRExLNFNNNDVDOFNZUnVRYXJBRE9EeUtpMWh2amlzU3pBYURUc0xtcmdPQTc5UnprLXFOaw?oc=5",
+          "source": "Sony Audio",
+          "publisher": "Sony",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T04:28:13+00:00",
+          "title": "1000X series | WH-1000XM4C Wireless Noise Cancelling Headphones - Sony"
+        }
+      ]
+    },
+    {
+      "id": "5b58a0ecbc23052879b4d40f",
+      "topic": "tws",
+      "title": "Motorola's 2027 Pantone Color of the Year phone could come in this shade - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlhENkpmbzVXaWVpMG4tQ1NoRzZNenFtV0Nadm9LcWJwTVIybmwzRC12VjZ3T3YyZ3lERENBSUlRdWtTVld3RFdQQlp0REhiMlJPQmMxdlNYeW9PSWQwdkFQYzI4Z1VZVmw2eDl5Y09GQUYyZ1R4eGxwd3F4c01KT3hjUlU0aU9vSW1lWGZZdw?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Motorola's 2027 Pantone Color of the Year phone could come in this shade Android Authority",
+      "published_utc": "2026-11-27T04:11:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlhENkpmbzVXaWVpMG4tQ1NoRzZNenFtV0Nadm9LcWJwTVIybmwzRC12VjZ3T3YyZ3lERENBSUlRdWtTVld3RFdQQlp0REhiMlJPQmMxdlNYeW9PSWQwdkFQYzI4Z1VZVmw2eDl5Y09GQUYyZ1R4eGxwd3F4c01KT3hjUlU0aU9vSW1lWGZZdw?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T04:11:00+00:00",
+          "title": "Motorola's 2027 Pantone Color of the Year phone could come in this shade - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "f5b7b2ecf46d7835c49ee1ee",
+      "topic": "tws",
+      "title": "Samsung is building a Siri-style Vision mode for its Camera app, along with Auto portrait - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcXVPTzRJcllickRXUXBCTVZ0WFc0ckppN0EwRlpnOFkzTjl5MDFhY1pFbzlXRWpkMmM4d2RNR2lpQkx6M2tocllRUDJVdE1zcjdlTU52RVZ0VUVTdWhhVW5IQzN2c3JMcnhaR3ViQ1VOR3k5UTdwTzVaeFRsT3FxcTJzRVF1cDJTSzlVeTc5OEl0QkE2aENIa0RfQmNHUnA5dHVEY2tIRzVGZw?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Samsung is building a Siri-style Vision mode for its Camera app, along with Auto portrait Android Authority",
+      "published_utc": "2026-11-27T12:53:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcXVPTzRJcllickRXUXBCTVZ0WFc0ckppN0EwRlpnOFkzTjl5MDFhY1pFbzlXRWpkMmM4d2RNR2lpQkx6M2tocllRUDJVdE1zcjdlTU52RVZ0VUVTdWhhVW5IQzN2c3JMcnhaR3ViQ1VOR3k5UTdwTzVaeFRsT3FxcTJzRVF1cDJTSzlVeTc5OEl0QkE2aENIa0RfQmNHUnA5dHVEY2tIRzVGZw?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T12:53:00+00:00",
+          "title": "Samsung is building a Siri-style Vision mode for its Camera app, along with Auto portrait - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "cdad83487a896f849d42b6b7",
+      "topic": "tws",
+      "title": "Unihertz shows off Titan 2 Elite in new white color, and you can pre-order now - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4SXFoMWRrRHdXY2dpRmZtRTFQeTlYSEtpSGdULW1JSlZZWWxCT1h6WUI5bW9jVlhMd1kxRmJHV2Y1ejVFQUFWR1pJMENnelNpWlJVTTVIRjQ0NXg3ZHlmQ2lpcmVqSHlMeHRISjlR?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Unihertz shows off Titan 2 Elite in new white color, and you can pre-order now Android Authority",
+      "published_utc": "2026-11-26T17:40:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4SXFoMWRrRHdXY2dpRmZtRTFQeTlYSEtpSGdULW1JSlZZWWxCT1h6WUI5bW9jVlhMd1kxRmJHV2Y1ejVFQUFWR1pJMENnelNpWlJVTTVIRjQ0NXg3ZHlmQ2lpcmVqSHlMeHRISjlR?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T17:40:00+00:00",
+          "title": "Unihertz shows off Titan 2 Elite in new white color, and you can pre-order now - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "4a8463cfad2c5154ba754d11",
+      "topic": "tws",
+      "title": "Samsung phones can soon nudge you when you miss your usual charging window - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tQkwxZFNOd1hSQUNSZ0tRSDhFdl9hRnhaVm8zbDlraWVZUjdrSFRRNjdoWnNubVNSX1dYQnlHbnBXWnhwZ1FEYi1RU1NlWDc3cGltcjMweXIyb1I1Nm9QRTYwV0RnVnVUTjRYNWtjTnVDbWhBaFhyc1p1YUc?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Samsung phones can soon nudge you when you miss your usual charging window Android Authority",
+      "published_utc": "2026-11-27T08:11:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tQkwxZFNOd1hSQUNSZ0tRSDhFdl9hRnhaVm8zbDlraWVZUjdrSFRRNjdoWnNubVNSX1dYQnlHbnBXWnhwZ1FEYi1RU1NlWDc3cGltcjMweXIyb1I1Nm9QRTYwV0RnVnVUTjRYNWtjTnVDbWhBaFhyc1p1YUc?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T08:11:00+00:00",
+          "title": "Samsung phones can soon nudge you when you miss your usual charging window - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "24bd2af22374bd65cae1a33d",
+      "topic": "tws",
+      "title": "TCL CSOT unveils APEX and IJP OLED breakthroughs for the AI era at DTC 2026 - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FRWVISWplTUpoZUxaTHFxX1RYazkzQUJhQmZlUlVKSmhyMWl1N2hLbnEtS1pqejNyQm9haThueFhMVTUxU2Jzc2haOUJwMFVWYU1uTG1rTHFOSFQxU29WSkhPUVlpa2RsR0pj?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "TCL CSOT unveils APEX and IJP OLED breakthroughs for the AI era at DTC 2026 Android Authority",
+      "published_utc": "2026-11-27T07:56:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FRWVISWplTUpoZUxaTHFxX1RYazkzQUJhQmZlUlVKSmhyMWl1N2hLbnEtS1pqejNyQm9haThueFhMVTUxU2Jzc2haOUJwMFVWYU1uTG1rTHFOSFQxU29WSkhPUVlpa2RsR0pj?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T07:56:00+00:00",
+          "title": "TCL CSOT unveils APEX and IJP OLED breakthroughs for the AI era at DTC 2026 - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "0b0eab1e6fe84ec61555b070",
+      "topic": "wired",
+      "title": "Sennheiser Momentum 4 headphones hit a record low with $140 off - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZThvajY4d0FEMW5GOW5uZ0d0SWx6YWFibXFTUkZzcV9rOUxSM01hMERWd3BHVm81NDIzQ2c5MVQ2amozTVlGQzgwQl9hZVMxTzE1OXh0bzY3NVl5UnhPUEtWQ1A3aUVWLWRrci05aXFERFlRRWExWHNVSE1POHRCQXY4MWRPQQ?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Sennheiser Momentum 4 headphones hit a record low with $140 off Android Authority",
+      "published_utc": "2026-11-27T14:14:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZThvajY4d0FEMW5GOW5uZ0d0SWx6YWFibXFTUkZzcV9rOUxSM01hMERWd3BHVm81NDIzQ2c5MVQ2amozTVlGQzgwQl9hZVMxTzE1OXh0bzY3NVl5UnhPUEtWQ1A3aUVWLWRrci05aXFERFlRRWExWHNVSE1POHRCQXY4MWRPQQ?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T14:14:00+00:00",
+          "title": "Sennheiser Momentum 4 headphones hit a record low with $140 off - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "e1e93dd3f5263b484abd7bba",
+      "topic": "tws",
+      "title": "Shokz OpenFit 2 Plus open-ear earbuds are half off on Amazon - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSVExCTGQ4a01ic2xZanlMVEtpaFdWZ29CLVRkREZYMWtjVFl6QVVxcFRpX0ZqMnptMmYtMlJrM2NhRXZhUEswa2NsaURpLUlXY3JFeWVBcm0xVHlrS1puTkFpTUJNSldNWFN1TUxXM1ZaU1ZnZmc?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Shokz OpenFit 2 Plus open-ear earbuds are half off on Amazon Android Authority",
+      "published_utc": "2026-11-27T14:28:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSVExCTGQ4a01ic2xZanlMVEtpaFdWZ29CLVRkREZYMWtjVFl6QVVxcFRpX0ZqMnptMmYtMlJrM2NhRXZhUEswa2NsaURpLUlXY3JFeWVBcm0xVHlrS1puTkFpTUJNSldNWFN1TUxXM1ZaU1ZnZmc?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T14:28:00+00:00",
+          "title": "Shokz OpenFit 2 Plus open-ear earbuds are half off on Amazon - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "60d640faae8d051eef104a3f",
+      "topic": "tws",
+      "title": "XGIMI Vibe One battery-powered projector hits a record low under $200 - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5penZxMUNPUHlSaGFXM0xBWEE1Q0xRUTJrYVlGMXoyUnEwSkpNdUtmV2JRLWxCTzVjeHJvME53ckFPTHBBUFNmdGhFa3U1eHEwQ2d6UlFnOFpPbGdXdHJXVFNLcFhrbXpna0tfZlpR?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "XGIMI Vibe One battery-powered projector hits a record low under $200 Android Authority",
+      "published_utc": "2026-11-26T19:42:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5penZxMUNPUHlSaGFXM0xBWEE1Q0xRUTJrYVlGMXoyUnEwSkpNdUtmV2JRLWxCTzVjeHJvME53ckFPTHBBUFNmdGhFa3U1eHEwQ2d6UlFnOFpPbGdXdHJXVFNLcFhrbXpna0tfZlpR?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T19:42:00+00:00",
+          "title": "XGIMI Vibe One battery-powered projector hits a record low under $200 - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "a683c39f198e2a3163104f5f",
+      "topic": "tws",
+      "title": "Oura is dropping Android 11 support in December, and users risk losing health data - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTYXk4MDM5SGVQQ1N5b0ZlUjdXa1F0NmVpWndKb3RWOTFla3JlWFB4RnphRkUwRkRwLTdmX3g2ZnJGMjBxd0tlWjZTalJpZ2NuVHFnYm1aVWZDcEhOdTNJZEdtaFctZGJLY3VlTjItX0RPRDh6VFhyXw?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Oura is dropping Android 11 support in December, and users risk losing health data Android Authority",
+      "published_utc": "2026-11-27T08:14:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTYXk4MDM5SGVQQ1N5b0ZlUjdXa1F0NmVpWndKb3RWOTFla3JlWFB4RnphRkUwRkRwLTdmX3g2ZnJGMjBxd0tlWjZTalJpZ2NuVHFnYm1aVWZDcEhOdTNJZEdtaFctZGJLY3VlTjItX0RPRDh6VFhyXw?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T08:14:00+00:00",
+          "title": "Oura is dropping Android 11 support in December, and users risk losing health data - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "c3364f7b24e1ba5b1b697b1f",
+      "topic": "tws",
+      "title": "Amazfit Bip Max smartwatch drops to a record low of $89.99 - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zMkNBVno1b3d2c0N0ZFdEREVLRkVuUVdqZ295WmRzMXU4QTdDRnVZTVlNSU9KTVdMczZyZjdNQjN0VjRlUnNMZnQyZkx5SFpkZkxOQTFhNEU2d0hSM0JacGxxZGF5d1NBVVBoQmNMdw?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Amazfit Bip Max smartwatch drops to a record low of $89.99 Android Authority",
+      "published_utc": "2026-11-26T17:27:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zMkNBVno1b3d2c0N0ZFdEREVLRkVuUVdqZ295WmRzMXU4QTdDRnVZTVlNSU9KTVdMczZyZjdNQjN0VjRlUnNMZnQyZkx5SFpkZkxOQTFhNEU2d0hSM0JacGxxZGF5d1NBVVBoQmNMdw?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T17:27:00+00:00",
+          "title": "Amazfit Bip Max smartwatch drops to a record low of $89.99 - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "c96254d28cd45cee691cb836",
+      "topic": "portable_dac",
+      "title": "Help with PC Audio set up - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPek53NjdKelFJTlh0N0ZudzN3VUJ3WWhpRGstTFNNTWEtZVRGblFiTUFhckF5SlIwcFdfbkpZRzFybEgxUmhLOVNuMUN3RXRjRFE2S0hJNDBlS3N6cTBLSGN5Ti12QlRyNjNlZ19uNnBENVhnOWg3ejR2N2txY3J5Q2V6RjlmTnBJLVVzWG1GRHZvTmVHSGc?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "Help with PC Audio set up Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-26T18:35:27+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPek53NjdKelFJTlh0N0ZudzN3VUJ3WWhpRGstTFNNTWEtZVRGblFiTUFhckF5SlIwcFdfbkpZRzFybEgxUmhLOVNuMUN3RXRjRFE2S0hJNDBlS3N6cTBLSGN5Ti12QlRyNjNlZ19uNnBENVhnOWg3ejR2N2txY3J5Q2V6RjlmTnBJLVVzWG1GRHZvTmVHSGc?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T18:35:27+00:00",
+          "title": "Help with PC Audio set up - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "5f6049cd892b5549eeec15c3",
+      "topic": "portable_dac",
+      "title": "$240 Douk Audio 'ST-02' Tube Amp with HPF - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU251NmxEcTJscGppdHR4WGVGRUpCSi0wdFVpOWFEMlZlNzYzc0xmT1ljN2JDMnVMZER1akhXdUNUTVROdU1zZFlPeXlaVEJSUzRVVHJZSXBpcG1INXBQdUZWYmhBZTBaNlpoaGYzT1FhZkhfamtMUUYxYkdqbmlNWEZtN2FtcHRMdXkyVWdNUkY5QVBNVlpWWHJDZWNwSWdFaDdBbEVBWQ?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "$240 Douk Audio 'ST-02' Tube Amp with HPF Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-26T16:49:04+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU251NmxEcTJscGppdHR4WGVGRUpCSi0wdFVpOWFEMlZlNzYzc0xmT1ljN2JDMnVMZER1akhXdUNUTVROdU1zZFlPeXlaVEJSUzRVVHJZSXBpcG1INXBQdUZWYmhBZTBaNlpoaGYzT1FhZkhfamtMUUYxYkdqbmlNWEZtN2FtcHRMdXkyVWdNUkY5QVBNVlpWWHJDZWNwSWdFaDdBbEVBWQ?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T16:49:04+00:00",
+          "title": "$240 Douk Audio 'ST-02' Tube Amp with HPF - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "592982c33f9c529f61044de9",
+      "topic": "portable_dac",
+      "title": "Adam Savage visits the US Library of Congress audio preservation group - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeHpSWWtxM0NUNVU0Mnk5SE5zdFQxVlBaVi1Nb0Y0SHVJd21nbzY2YnJ0VktaN0hxX3M5UDQyaWpZSk9ab2laa0tKRkR0TVVIb2E1QXJpbjNtaDFpdWdmOXBXLXk0cXJMbU5mY1RWdzNjRkpvdm9id1M5Y1VDS2VFNmZVcHk0cS1aRERRUVJ2cGRPNE5NeHBRQTlmR2FJNlptajc5dk1EZmM4WXVIUnVvVWVYeVlwTmpVUE5NeEdYa0x3dXdjcDAtNm9xaHFBb3BDLUE?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "Adam Savage visits the US Library of Congress audio preservation group Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-26T22:53:13+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeHpSWWtxM0NUNVU0Mnk5SE5zdFQxVlBaVi1Nb0Y0SHVJd21nbzY2YnJ0VktaN0hxX3M5UDQyaWpZSk9ab2laa0tKRkR0TVVIb2E1QXJpbjNtaDFpdWdmOXBXLXk0cXJMbU5mY1RWdzNjRkpvdm9id1M5Y1VDS2VFNmZVcHk0cS1aRERRUVJ2cGRPNE5NeHBRQTlmR2FJNlptajc5dk1EZmM4WXVIUnVvVWVYeVlwTmpVUE5NeEdYa0x3dXdjcDAtNm9xaHFBb3BDLUE?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T22:53:13+00:00",
+          "title": "Adam Savage visits the US Library of Congress audio preservation group - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "77ce8c8ec7bad4d23e49bd4a",
+      "topic": "portable_dac",
+      "title": "Are cheap acoustic foam panels worth it? - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUTJvWjNJLWFGYWYwZ1FrWUIyQm1NSFZmTU5EMjlMcjhxanJZaDhXZVdoUmhjaGRiRlJ0cHROdzN1ZlJEY3BXMlBmUVhzdnI2WXE5NnFsTlNiQTJ0Z2M5dUJGb0oyVXVWX2MwRnRzU0VRcGZaa01IcFNKUVFRQ09wNmJQTGQ2VjRnR0pvWHZMYmJUdm1wWTVuMGstblk2QzZMYjVpODVIcEd1RFNrbTdFRlItb3lYN3Fu?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "Are cheap acoustic foam panels worth it? Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-27T11:37:06+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUTJvWjNJLWFGYWYwZ1FrWUIyQm1NSFZmTU5EMjlMcjhxanJZaDhXZVdoUmhjaGRiRlJ0cHROdzN1ZlJEY3BXMlBmUVhzdnI2WXE5NnFsTlNiQTJ0Z2M5dUJGb0oyVXVWX2MwRnRzU0VRcGZaa01IcFNKUVFRQ09wNmJQTGQ2VjRnR0pvWHZMYmJUdm1wWTVuMGstblk2QzZMYjVpODVIcEd1RFNrbTdFRlItb3lYN3Fu?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T11:37:06+00:00",
+          "title": "Are cheap acoustic foam panels worth it? - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "eeaf1f716861153ca6e17f24",
+      "topic": "portable_dac",
+      "title": "Qobuz Android Beta (v10.1+) adds native Bit-Perfect and Fixed Output USB support - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc1d3V2RfSXYwdndOTmhjaUU4WVozeGxPYnlGOEJ2dTBib3pleU1VZml6TTU2Q00yNkExd0otV2hIbFZUV3NUNmM5Nk5MRjdzQ0FRR2Q1bFNUcE5wZE1TdjBnRldhN2p3Z3NiMVdOd2o5RXRxeTgyemlLUV9CTzNfb1hzMUJpNkMwMlV3UFM3OTNMalZlOHdXSnMwUGxwbU9BY29zeXFOUHlEeDRVX3FYWUxvNDM1alRuVzlDZTZ1VG9XckpDcGIxTXQxQkFjMGM5NVV3d0tPckU0Sk0?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "Qobuz Android Beta (v10.1+) adds native Bit-Perfect and Fixed Output USB support Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-27T06:58:15+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc1d3V2RfSXYwdndOTmhjaUU4WVozeGxPYnlGOEJ2dTBib3pleU1VZml6TTU2Q00yNkExd0otV2hIbFZUV3NUNmM5Nk5MRjdzQ0FRR2Q1bFNUcE5wZE1TdjBnRldhN2p3Z3NiMVdOd2o5RXRxeTgyemlLUV9CTzNfb1hzMUJpNkMwMlV3UFM3OTNMalZlOHdXSnMwUGxwbU9BY29zeXFOUHlEeDRVX3FYWUxvNDM1alRuVzlDZTZ1VG9XckpDcGIxTXQxQkFjMGM5NVV3d0tPckU0Sk0?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T06:58:15+00:00",
+          "title": "Qobuz Android Beta (v10.1+) adds native Bit-Perfect and Fixed Output USB support - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "237c513d770deed5fc65bd6b",
+      "topic": "wired",
+      "title": "NYC 2027 - CanJam Global",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5ZzdFb205VVpaN1k2UGJ6TWVTdDVFZXlIbFM0OVgyeVRhU094Xy1IQndPYWFFcTFjMW9ZaVNHUTdxUmRhUHl6dXJDcEw2Mjc3N2c?oc=5",
+      "source": "CanJam",
+      "publisher": "CanJam Global",
+      "description": "NYC 2027 CanJam Global",
+      "published_utc": "2026-11-27T02:00:24+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5ZzdFb205VVpaN1k2UGJ6TWVTdDVFZXlIbFM0OVgyeVRhU094Xy1IQndPYWFFcTFjMW9ZaVNHUTdxUmRhUHl6dXJDcEw2Mjc3N2c?oc=5",
+          "source": "CanJam",
+          "publisher": "CanJam Global",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T02:00:24+00:00",
+          "title": "NYC 2027 - CanJam Global"
+        }
+      ]
+    },
+    {
+      "id": "728f39f4c5209f1d6dc828bd",
+      "topic": "tws",
+      "title": "JBL Vibe Buds 2 | True Wireless Noise Cancelling Earbuds - JBL",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQXUwd0VTUlhFb2FoLWFPUVVXTmx5WS1ZcEVyZ1JPQ0ZrOFNuVGdBaC1rX2xBaUFrVU9iY2doLWl3dFZGQWlweGU2QTdCbFkyeEZtQy1maWV5SExwQkpZOEwzODdtREw5aEl0YlhoLU92WjZIbUpzM3RJcktLVW1mQnNQV3FkcFN4Z1VF?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "JBL Vibe Buds 2 | True Wireless Noise Cancelling Earbuds JBL",
+      "published_utc": "2026-11-27T01:58:58+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "possible_event_id": "c895f123e331",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQXUwd0VTUlhFb2FoLWFPUVVXTmx5WS1ZcEVyZ1JPQ0ZrOFNuVGdBaC1rX2xBaUFrVU9iY2doLWl3dFZGQWlweGU2QTdCbFkyeEZtQy1maWV5SExwQkpZOEwzODdtREw5aEl0YlhoLU92WjZIbUpzM3RJcktLVW1mQnNQV3FkcFN4Z1VF?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T01:58:58+00:00",
+          "title": "JBL Vibe Buds 2 | True Wireless Noise Cancelling Earbuds - JBL"
+        }
+      ]
+    },
+    {
+      "id": "32a59af5d7b256afe33342ad",
+      "topic": "tws",
+      "title": "JBL Vibe Buds 2 | True Wireless Noise Cancelling Earbuds - JBL",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTHFUZ3BCaEU2T0JaU2hxSWVReEg0Z3RTeWJFTEhkcjJfYWpCWVF3cjJubmVEVW1ER1pMWnpJMDhtTEV3UVRNeDY3empFRGNwWmg2R0Y0dUxENVYwakR6aTVPUXFKMW16TWtfUXc4RmNRa2FhcnRaTU1uODNkWlU4UEktRGhnNXBJcHVv?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "JBL Vibe Buds 2 | True Wireless Noise Cancelling Earbuds JBL",
+      "published_utc": "2026-11-27T11:33:16+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "possible_event_id": "c895f123e331",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTHFUZ3BCaEU2T0JaU2hxSWVReEg0Z3RTeWJFTEhkcjJfYWpCWVF3cjJubmVEVW1ER1pMWnpJMDhtTEV3UVRNeDY3empFRGNwWmg2R0Y0dUxENVYwakR6aTVPUXFKMW16TWtfUXc4RmNRa2FhcnRaTU1uODNkWlU4UEktRGhnNXBJcHVv?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T11:33:16+00:00",
+          "title": "JBL Vibe Buds 2 | True Wireless Noise Cancelling Earbuds - JBL"
+        }
+      ]
+    },
+    {
+      "id": "a5fd4b1ae4e8bd986f48f233",
+      "topic": "tws",
+      "title": "Microphones - JBL",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9sNEw4R043ajdTekRENXBka0o3RzIwOU5OdUJCbTVIWWlYZ19pckYtYmIxTW12NnhoUkh5bWRfeXJBa2VRX0Fr?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "Microphones JBL",
+      "published_utc": "2026-11-27T07:47:31+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9sNEw4R043ajdTekRENXBka0o3RzIwOU5OdUJCbTVIWWlYZ19pckYtYmIxTW12NnhoUkh5bWRfeXJBa2VRX0Fr?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T07:47:31+00:00",
+          "title": "Microphones - JBL"
+        }
+      ]
+    },
+    {
+      "id": "c5d198ac210cd7b9322abc5d",
+      "topic": "tws",
+      "title": "JBL Cove M1 - JBL",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcURCUVBEZlpzeWlJRTQ1WDk5N1F2MTluYWtxOVVpTVRuMUhSYTlpN25ITG12NEpzbmNNQ3lUV2RIeTEydklSN21naElqemtaRlR3RlBEaW50dkY4YkdiUmUzSzdRQzJtVkdMYkp2Wi1UTGJ6a3hUVFVwZ3pXNnljXzFPVFZpTnVDSFhOUUZaNDF3TTNnSTJ3?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "JBL Cove M1 JBL",
+      "published_utc": "2026-11-27T04:53:42+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcURCUVBEZlpzeWlJRTQ1WDk5N1F2MTluYWtxOVVpTVRuMUhSYTlpN25ITG12NEpzbmNNQ3lUV2RIeTEydklSN21naElqemtaRlR3RlBEaW50dkY4YkdiUmUzSzdRQzJtVkdMYkp2Wi1UTGJ6a3hUVFVwZ3pXNnljXzFPVFZpTnVDSFhOUUZaNDF3TTNnSTJ3?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T04:53:42+00:00",
+          "title": "JBL Cove M1 - JBL"
+        }
+      ]
+    },
+    {
+      "id": "67b4006e0543f1ca8da60bae",
+      "topic": "tws",
+      "title": "Voice commands that I registered are not triggering Smartbase. - JBL",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLWVWSTllNk0zSzJ5QWFmWGpoS3NFeEUtZkQ2Y2lpd1FhdTh1TFFVVjhhUDdGcUp4ZC1VSVpKckttZkpEd2d4UFBsVzJlOFlGd1JnMEF3YjFucHY3QmtpaVhCVVktcGFBZzMwSW9zZXNJa1pSeXpwVy0yWEpiRkd6TjdJWWo2V3hnelVTQUJ2VVc2QTZGTDdjTUY0QzRXVUhaNW5mbGFBTllkMHpPaFZqWHczZE9fZ01X?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "Voice commands that I registered are not triggering Smartbase. JBL",
+      "published_utc": "2026-11-26T20:12:27+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLWVWSTllNk0zSzJ5QWFmWGpoS3NFeEUtZkQ2Y2lpd1FhdTh1TFFVVjhhUDdGcUp4ZC1VSVpKckttZkpEd2d4UFBsVzJlOFlGd1JnMEF3YjFucHY3QmtpaVhCVVktcGFBZzMwSW9zZXNJa1pSeXpwVy0yWEpiRkd6TjdJWWo2V3hnelVTQUJ2VVc2QTZGTDdjTUY0QzRXVUhaNW5mbGFBTllkMHpPaFZqWHczZE9fZ01X?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T20:12:27+00:00",
+          "title": "Voice commands that I registered are not triggering Smartbase. - JBL"
+        }
+      ]
+    },
+    {
+      "id": "aef01bb3db27b477f690ffe4",
+      "topic": "tws",
+      "title": "How do I redeem my 1-year membership to MapMyRun? - JBL",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOek5UZlZIbzBNTHJrZElQendSbWFjbGNzZ0pKdGhoZHlmMDM0bV9ycEtQRTd6N3p4ekhHME1CaDhObnI1WFdadm5IN0l4ajJlVFhEMVVMYXd0dlJKeHQya2szNUtfTGt3eXpReUp3aXVIek9TVHdYVVZhNWl6RmR1OEppWTRfUnM1UFVlOC1DQm1hTUhGZmlxT3JUR2owYnRKeThvREVSTQ?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "How do I redeem my 1-year membership to MapMyRun? JBL",
+      "published_utc": "2026-11-26T20:52:41+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOek5UZlZIbzBNTHJrZElQendSbWFjbGNzZ0pKdGhoZHlmMDM0bV9ycEtQRTd6N3p4ekhHME1CaDhObnI1WFdadm5IN0l4ajJlVFhEMVVMYXd0dlJKeHQya2szNUtfTGt3eXpReUp3aXVIek9TVHdYVVZhNWl6RmR1OEppWTRfUnM1UFVlOC1DQm1hTUhGZmlxT3JUR2owYnRKeThvREVSTQ?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T20:52:41+00:00",
+          "title": "How do I redeem my 1-year membership to MapMyRun? - JBL"
+        }
+      ]
+    },
+    {
+      "id": "78890ee5d1e533d04eed8c8f",
+      "topic": "tws",
+      "title": "Product Registration - JBL",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOUlxcWJBYTdwTkVNRFRoRlczSmp2Z0M3enN4OWFXYkRDdFNjajhqX2hCekVZTVZQbEhwOTRVYkVVaVU1Zk84RGhEUTVMS1drbWliZFp4Q3JlVmNzQmJLdUNON3hBa3JCRHBRa08wd2NZbXJPSGNQdk1JcjVfVGw1aEFyRHNVb0ZoeF9EeGNmSVYyLU0?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "Product Registration JBL",
+      "published_utc": "2026-11-26T19:12:23+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOUlxcWJBYTdwTkVNRFRoRlczSmp2Z0M3enN4OWFXYkRDdFNjajhqX2hCekVZTVZQbEhwOTRVYkVVaVU1Zk84RGhEUTVMS1drbWliZFp4Q3JlVmNzQmJLdUNON3hBa3JCRHBRa08wd2NZbXJPSGNQdk1JcjVfVGw1aEFyRHNVb0ZoeF9EeGNmSVYyLU0?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T19:12:23+00:00",
+          "title": "Product Registration - JBL"
+        }
+      ]
+    },
+    {
+      "id": "c9ed03715ed1a31260ef1a90",
+      "topic": "tws",
+      "title": "Why does the volume level vary between different Dolby Atmos music tracks? - JBL",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVXMyU3ZpUXhlM0JvcFBEVl9xb0RpMlFkbGVqNkIzS0htUUpwYnloZ1FjaXB4d2VuUHZNLWh2NXhZUVhpbE1OMGZDSG9fTUV0NlhwQ1V3Q3Y2ZjZucHFaRDZJMkM1MmJ0Q09XUkg1R0lKZTJueHp5dE9ERnZ2X04weVktZm9ZOW9uNVh3aWlmcndrM1FTdGp6QS11MndISWVCNEk2TENTN3JBbFdMNHdveWR2WkdoNW81ZVFVMERkUlE0cnVwSkc5azdVOFdEUlZNaWQ0bkJsTXQ?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "Why does the volume level vary between different Dolby Atmos music tracks? JBL",
+      "published_utc": "2026-11-26T23:23:46+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVXMyU3ZpUXhlM0JvcFBEVl9xb0RpMlFkbGVqNkIzS0htUUpwYnloZ1FjaXB4d2VuUHZNLWh2NXhZUVhpbE1OMGZDSG9fTUV0NlhwQ1V3Q3Y2ZjZucHFaRDZJMkM1MmJ0Q09XUkg1R0lKZTJueHp5dE9ERnZ2X04weVktZm9ZOW9uNVh3aWlmcndrM1FTdGp6QS11MndISWVCNEk2TENTN3JBbFdMNHdveWR2WkdoNW81ZVFVMERkUlE0cnVwSkc5azdVOFdEUlZNaWQ0bkJsTXQ?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T23:23:46+00:00",
+          "title": "Why does the volume level vary between different Dolby Atmos music tracks? - JBL"
+        }
+      ]
+    },
+    {
+      "id": "7b05e20707e2be17c1c8b745",
+      "topic": "tws",
+      "title": "I came across bad reviews on the e- commerce site. Is that really bad?? - OnePlus Community",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tTE9oRWVYRDB3LXVWZ05YSjZ1NlBRR3Byam1HVGZLbTBZWUs4bk1oM0E3Zmoxeld1ekM5MDZTblFNOG01cFltcldkR0VpVU9GbmdHUkIyUkFLYmxtVEpFazhZaVJmWDg?oc=5",
+      "source": "OnePlus Audio",
+      "publisher": "OnePlus Community",
+      "description": "I came across bad reviews on the e- commerce site. Is that really bad?? OnePlus Community",
+      "published_utc": "2026-11-27T07:27:55+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tTE9oRWVYRDB3LXVWZ05YSjZ1NlBRR3Byam1HVGZLbTBZWUs4bk1oM0E3Zmoxeld1ekM5MDZTblFNOG01cFltcldkR0VpVU9GbmdHUkIyUkFLYmxtVEpFazhZaVJmWDg?oc=5",
+          "source": "OnePlus Audio",
+          "publisher": "OnePlus Community",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T07:27:55+00:00",
+          "title": "I came across bad reviews on the e- commerce site. Is that really bad?? - OnePlus Community"
         }
       ]
     }

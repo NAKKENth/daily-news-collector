@@ -1,6 +1,5 @@
-# wired / 2026-11-27 / 候補 1–37
+# wired / 2026-11-27 / 候補 1–41
 
-- [Binary Unveils Apsara: 1DD+Direct-Drive MEMS Driver Hybrid IEMs](https://hifigo.com/blogs/news/binary-unveils-apsara-1dd-direct-drive-mems-driver-hybrid-iems) — HiFiGo｜優先｜2026-11-27T05:32:00+00:00 UTC｜feed_published
 - [EFFECT AUDIO、qdcとコラボした15ドライバー／トライブリッドイヤホン「SOVEREIGN」。ケーブルも専用設計](https://www.phileweb.com/news/d-av/202611/27/66480.html) — PHILE WEB｜優先｜2026-11-27T02:00:00+00:00 UTC｜article_metadata
 - [GRADO から有線ヘッドホン『Signature S150』『Signature S150 4.4mm Balanced』が登場！](https://e-earphone.blog/?p=1562388) — e earphone｜優先｜2026-11-27T03:00:00+00:00 UTC｜feed_published
 - [GRADO、上位モデルのドライバー技術を小型化した開放型ヘッドホン「Signature S150」](https://www.phileweb.com/news/d-av/202611/27/66497.html) — PHILE WEB｜優先｜2026-11-27T11:08:38+00:00 UTC｜article_metadata
@@ -16,14 +15,14 @@
 - [Juzear Nimbus Review Roundup: Is This The Best $50 IEM In 2026?? - HiFiGo](https://news.google.com/rss/articles/CBMilwFBVV95cUxOaFprdGI4c2NBeTRZU0VYZFV1MUZpbjZMcWV2Y3ZWcHFTeFJGVWhhWk1aM1RIdVo3d3JRV09VZVNvLTkwNlpucmxaS1k3bExrZVBZMEd6cG5CLWNORHl0RV9NVkJBdk0xLUxDNDZ5aTNreVpJZlNjY2VZdVpGZ3JEa3RTcWhHS05JNS1hRUN3bWxNcTVaMS0w?oc=5) — HiFiGo｜優先｜2026-11-27T00:26:54+00:00 UTC｜discovery_index
 - [Binary Apsara 10mm DLC Dynamic Driver + MEMS Hybrid IEMs](https://hifigo.com/products/binary-apsara) — HiFiGo｜優先｜日時不明 UTC｜unknown
 - [(PR) Kiwi Ears Launches the $30 Marcato IEMs Tuned for Vocals](https://www.techpowerup.com/355269/kiwi-ears-launches-the-usd-30-marcato-iems-tuned-for-vocals) — TechPowerUp｜要確認｜2026-11-27T13:03:09+00:00 UTC｜feed_published
-- [EFFECT AUDIO×qdcコラボイヤフォン「SOVEREIGN」。片側15ドライバ、特注内部配線、専用開発ケーブル](https://av.watch.impress.co.jp/docs/news/2159583.html) — AV Watch Audio｜要確認｜2026-11-27T02:00:00+00:00 UTC｜feed_published
-- [FIIO、自社開発R2R DAC搭載の“オールインワン”デスクトップストリーマー「R7 R2R」](http://www.phileweb.com/news/audio/202611/27/28454.html) — PHILE WEB｜要確認｜2026-11-27T00:33:38+00:00 UTC｜feed_published
-- [FiiO SNOWSKY MAGE Review](https://headfonics.com/fiio-snowsky-mage-review) — Headfonics｜要確認｜2026-11-27T10:02:57+00:00 UTC｜feed_published
-- [Moeetech、磁気シールド“スーパーパーマロイ”でノイズ遮断した小型DAC](https://av.watch.impress.co.jp/docs/news/2159933.html) — AV Watch Audio｜要確認｜2026-11-27T10:00:00+00:00 UTC｜feed_published
+- [EFFECT AUDIO×qdcコラボイヤフォン「SOVEREIGN」。片側15ドライバ、特注内部配線、専用開発ケーブル](https://av.watch.impress.co.jp/docs/news/2159583.html) — AV Watch Audio｜要確認｜2026-11-27T02:00:00+00:00 UTC｜article_metadata
+- [FIIO、自社開発R2R DAC搭載の“オールインワン”デスクトップストリーマー「R7 R2R」](https://www.phileweb.com/news/audio/202611/27/28454.html) — PHILE WEB｜要確認｜2026-11-27T01:00:00+00:00 UTC｜article_metadata
+- [FiiO SNOWSKY MAGE Review &mdash; Headfonics](https://headfonics.com/fiio-snowsky-mage-review) — Headfonics｜要確認｜2026-11-27T10:02:57+00:00 UTC｜article_metadata
+- [Moeetech、磁気シールド“スーパーパーマロイ”でノイズ遮断した小型DAC](https://av.watch.impress.co.jp/docs/news/2159933.html) — AV Watch Audio｜要確認｜2026-11-27T10:00:00+00:00 UTC｜article_metadata
 - [『5 - 嵐という時間 -』『Michael／マイケル』『HANA 1st TOUR』などPrime Videoで12月配信](http://www.phileweb.com/news/hobby/202611/27/8739.html) — PHILE WEB｜要確認｜2026-11-27T00:52:05+00:00 UTC｜feed_published
 - [【1個から作れる】オリジナルイヤホン！名入れ・ロゴ入れで記念品やプレゼントにもおすすめ！](https://e-earphone.blog/?p=1562334) — e earphone｜要確認｜2026-11-27T01:03:48+00:00 UTC｜feed_published
 - [オーディオみじんこ、4極XLRバランス端子用の仮想アース「SILVER HARMONIZER XLR4 ADVANCE」](http://www.phileweb.com/news/audio/202611/27/28458.html) — PHILE WEB｜要確認｜2026-11-27T09:19:47+00:00 UTC｜feed_published
-- [マランツ、AVセパレートアンプ購入でAudioQuest製ケーブルをプレゼント。「AV 10」「AV 30」「AMP 10」の3モデルが対象](http://www.phileweb.com/news/audio/202611/27/28455.html) — PHILE WEB｜要確認｜2026-11-27T04:23:50+00:00 UTC｜feed_published
+- [マランツ、AVセパレートアンプ購入でAudioQuest製ケーブルをプレゼント。「AV 10」「AV 30」「AMP 10」の3モデルが対象](https://www.phileweb.com/news/audio/202611/27/28455.html) — PHILE WEB｜要確認｜2026-11-27T04:23:49+00:00 UTC｜article_metadata
 - [光城精工、スティック型仮想アースの最上位「Crystal Ep-Bシリーズ」。導体表面積はバスケットコート6面分](http://www.phileweb.com/news/audio/202611/27/28457.html) — PHILE WEB｜要確認｜2026-11-27T10:11:55+00:00 UTC｜feed_published
 - [光城精工、仮想アース技術を導入した電源タップ「Diamondシリーズ」。4口／6口の2モデル](http://www.phileweb.com/news/audio/202611/27/28456.html) — PHILE WEB｜要確認｜2026-11-27T08:08:15+00:00 UTC｜feed_published
 - [Apple wired headphones not working with Windows programs - Microsoft Learn](https://news.google.com/rss/articles/CBMirwFBVV95cUxPZzd0Q2x5TlBGZk85Tm4zUkVwc0FQSGo0NkNBdzZud1Y3Ylg0SDRZSlJrUEIzNlVDRzBMYTVzUXhERFkyZ1hCVTVpazItQ0RNSlpoWjhFSlZKbURCcm45V1dITEx2cjc2ZkdYSkhReV85YzVxSEtSN1JRTUVDUnExMkVTamQ3amV6ZmtzN2dpRTdsVkc3ZUJEUWRKR2NjenU5MjFmUUhPUndqQlBrNnFF?oc=5) — Microsoft Windows｜要確認｜2026-11-26T17:14:30+00:00 UTC｜discovery_index
@@ -31,9 +30,14 @@
 - [Audeze LCD-XC 2021 - Head-Fi.org](https://news.google.com/rss/articles/CBMib0FVX3lxTFBJMUFETGRad2tZbGlhTmlnNEJscXF3ay1IdkpEWHBqOTlNSWN1dUEweEJTS0RNaHVyRXlLOHNCRVp3aEpZSHdoVGVlU1dZdk14cENXa1hHbHFKY3VfLUxkcmd2MkVPY1I4LW1yckItYw?oc=5) — Head-Fi｜要確認｜2026-11-26T15:54:33+00:00 UTC｜discovery_index
 - [Focal Utopia 2022 Headphones - Head-Fi.org](https://news.google.com/rss/articles/CBMifEFVX3lxTE9lUGNkUHZyN0l4QnNFMU9NM1N5STJlR2x5SG0zRnJTZmthei02eVpSeGR4Nkw2VENQbEtMZWVTLVdfZTYtWWFpSkduQVE5a0o2WHFVd0xaYXlzUVE2bTZRVGo3OFRETjEtd1RWajVSanlXdnFWbjdBWlV3MFo?oc=5) — Head-Fi｜要確認｜2026-11-26T22:13:39+00:00 UTC｜discovery_index
 - [HEDDphone® DX - MusicTeck](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yOWJJdzM4eXh1R0J1VkxXeGJwTnhYYkltcU5lZHZ2MWN2ZFNJZTh5bTVab0xEamNVdDlNb3NCQzhTOUhYNjE4YlFZeUM4SGx4aFJOWXhlUUJhQUcy?oc=5) — MusicTeck｜要確認｜2026-11-26T21:41:24+00:00 UTC｜discovery_index
+- [In-ear Headphone - shenzhenaudio - shenzhenaudio](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNjBzcEdHMHB5R0tpeGViSnBnaktNY00tVEppNXR0QzhYZEk1QUZCMnVCcVVqM2FjZkRhbVZ3LVZRMndFaEtLdlVrNlhzZU5lc01RVDdsbGhJYk5ZNkk4NkxkWkswSjQyQk42dXVCTXZZMWFGWjBoWFRBYVpUMGlZeUE0ekgwVFRZMS04cDJ5NFJZTkllcExYX202WEFBTkdTZ3JCaWIwTUd4TWlqMEhlWG8wcEpCaU1XMzkwbUVRUnVJTnc5T3dCbWVrZE53ejFKNHFqZUxPeC12MktJcW9sVmlqSmFkQVVhODRhdTBEZw?oc=5) — SHENZHENAUDIO｜要確認｜2026-11-27T09:19:30+00:00 UTC｜discovery_index
+- [NYC 2027 - CanJam Global](https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5ZzdFb205VVpaN1k2UGJ6TWVTdDVFZXlIbFM0OVgyeVRhU094Xy1IQndPYWFFcTFjMW9ZaVNHUTdxUmRhUHl6dXJDcEw2Mjc3N2c?oc=5) — CanJam｜要確認｜2026-11-27T02:00:24+00:00 UTC｜discovery_index
+- [Refurbished Headphones - JBL](https://news.google.com/rss/articles/CBMiVkFVX3lxTE43ZzhUcm1lWUhTNnhmWERTUlUtbFNOZzE0M2NWRUZrRG00Q1lfaWZYdGFTMm0zN2h2aVBWYlVEWFdfcVl4cVhIQW41dEVSbEh3XzN5cDdB?oc=5) — JBL｜要確認｜2026-11-27T10:07:55+00:00 UTC｜discovery_index
+- [Sennheiser Momentum 4 headphones hit a record low with $140 off - Android Authority](https://news.google.com/rss/articles/CBMihgFBVV95cUxNZThvajY4d0FEMW5GOW5uZ0d0SWx6YWFibXFTUkZzcV9rOUxSM01hMERWd3BHVm81NDIzQ2c5MVQ2amozTVlGQzgwQl9hZVMxTzE1OXh0bzY3NVl5UnhPUEtWQ1A3aUVWLWRrci05aXFERFlRRWExWHNVSE1POHRCQXY4MWRPQQ?oc=5) — Android Authority TWS｜要確認｜2026-11-27T14:14:00+00:00 UTC｜discovery_index
 - [THIEAUDIO x Elise Audio Vera - Head-Fi.org](https://news.google.com/rss/articles/CBMid0FVX3lxTE5LaU5yYll2TFI1VktCcjlfd0QxWU1oV3dxdE1YZExqMDROdGZXa2o1VEY2NEd1U2E5Tk5sUGw5SXFZOS1tc0tTOGJsMnRvU25obkZ0RlpyblRaQTdYQVJSUFVYNHRDMTFJM01CWXRhSGN1R0VhTmg0?oc=5) — Head-Fi｜要確認｜2026-11-26T19:26:36+00:00 UTC｜discovery_index
 - [Thieaudio Valhalla (Mint) - Head-Fi.org](https://news.google.com/rss/articles/CBMidkFVX3lxTFAyX0MyenZWMEFGdUxFOENwMHY4S1ZlcXNXZzJLem5XZ2todGlCaWp3MUpKM2lpX3NyVnpmSFdZeGpZbHh1cFZWM3VmcFJmUVRCYnk4ZUhiYXpiakJnU2tRLXphWjJvcTNsUkg5VG9tYWU2d01ZZ3c?oc=5) — Head-Fi｜要確認｜2026-11-26T18:53:27+00:00 UTC｜discovery_index
 - [Yu9 Merqury/Que - Head-Fi.org](https://news.google.com/rss/articles/CBMia0FVX3lxTFB6WUstd25md3J5Z2E0R0F5TVNOS2VOYld1UjVKN0pYdXY1NkFEeWR0TWVWUnJqVUNSSTdJSEhoS2szM3c4SDYzSFdnM3FRM3JmMG1VYVhLeml0YktVQ0RqZDRKR2VXN3U5VHhv?oc=5) — Head-Fi｜要確認｜2026-11-26T22:51:45+00:00 UTC｜discovery_index
 - [Yu9 Que - Head-Fi.org](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wT0dkeENIZ1diX3NYSmNTZVl0eVBVYnROeXgwNGJCZGd6bThrQTRmUC1VTWdrZUN6UHJmb3VqYm5jVjl4ZElDR2VEbC1oV1RCcTFGc2dnWmcxVWlmOWRv?oc=5) — Head-Fi｜要確認｜2026-11-26T22:28:11+00:00 UTC｜discovery_index
 - [Kiwi Ears x ふぐみかん: EMBER | 2DD + 4BA Hybrid IEM](https://www.linsoul.com/products/kiwi-ears-x-fugumikan-ember) — Linsoul｜要確認｜日時不明 UTC｜unknown
 - [SAINT XIII BRAVER](https://shop.musicteck.com/collections/new-arrivals/products/saint-xiii-braver) — MusicTeck｜要確認｜日時不明 UTC｜unknown
+- [SAINT XIII BRAVER](https://shop.musicteck.com/products/saint-xiii-braver) — MusicTeck｜要確認｜日時不明 UTC｜unknown

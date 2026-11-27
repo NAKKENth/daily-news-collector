@@ -60,11 +60,11 @@
     {
       "id": "503a04457b5a117f2475be7a",
       "topic": "pc",
-      "title": "Open Weights - NVIDIA Build - NVIDIA Build",
+      "title": "Open Weights - NVIDIA Build - NVIDIA",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtaFppXzBRSWhDV2t6WjF1ZWk1OVlENlJmQlczU19KUTl0dTk5ZTZ6WUVhOVdubm56WEwydnM2NklVQ0NjZFpkdzhLdElsNEtBeUdEdTI5RHlISkQ2RlQ0?oc=5",
       "source": "NVIDIA",
       "publisher": "NVIDIA Build",
-      "description": "Open Weights - NVIDIA Build NVIDIA Build",
+      "description": "Open Weights - NVIDIA Build NVIDIA",
       "published_utc": "2026-11-26T06:01:59+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
@@ -79,33 +79,7 @@
           "publisher": "NVIDIA Build",
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T06:01:59+00:00",
-          "title": "Open Weights - NVIDIA Build - NVIDIA Build"
-        }
-      ]
-    },
-    {
-      "id": "63edffaa0faf08706e91fde4",
-      "topic": "pc",
-      "title": "LOGIN to Viking Portal - My Apps - Microsoft - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MYUpINkdOb2hzR1pZS1hzbTUtTV9FZzM3dm5hRE1kMzJUSzZHYWg3OWZGWWxSb2xmRTFlRmd5V2dBSFFkaW9uaVBMR3BacEZ0djhFWHYtQkk?oc=5",
-      "source": "Microsoft Windows",
-      "publisher": "Microsoft",
-      "description": "LOGIN to Viking Portal - My Apps - Microsoft Microsoft",
-      "published_utc": "2026-11-25T16:47:48+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MYUpINkdOb2hzR1pZS1hzbTUtTV9FZzM3dm5hRE1kMzJUSzZHYWg3OWZGWWxSb2xmRTFlRmd5V2dBSFFkaW9uaVBMR3BacEZ0djhFWHYtQkk?oc=5",
-          "source": "Microsoft Windows",
-          "publisher": "Microsoft",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T16:47:48+00:00",
-          "title": "LOGIN to Viking Portal - My Apps - Microsoft - Microsoft"
+          "title": "Open Weights - NVIDIA Build - NVIDIA"
         }
       ]
     },
@@ -221,7 +195,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Getting started with your dot | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-26T13:34:42+00:00",
+      "published_utc": "2026-11-25T19:36:02+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -234,8 +208,86 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T13:34:42+00:00",
+          "published_utc": "2026-11-25T19:36:02+00:00",
           "title": "Getting started with your dot | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "dc914a105aa13a646a556133",
+      "topic": "ai",
+      "title": "ChatGPT for Academic Researchers | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVUpRbVFTYzdEaUx0dDdXZGF0Ry1lMnF0U0dXQlRObGlOV3k2emx2THM1MVJ2anZjN1pxZF9sai1vOTRqS3FHeXd3TW55NldOaHlVZ21UUWpSNzN2RlRHNEI3SXJvNTBWeF9jX2hXQmlxV0UzcjlGUFZTZW9ybTUyazFwbw?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "ChatGPT for Academic Researchers | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-25T19:34:06+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVUpRbVFTYzdEaUx0dDdXZGF0Ry1lMnF0U0dXQlRObGlOV3k2emx2THM1MVJ2anZjN1pxZF9sai1vOTRqS3FHeXd3TW55NldOaHlVZ21UUWpSNzN2RlRHNEI3SXJvNTBWeF9jX2hXQmlxV0UzcjlGUFZTZW9ybTUyazFwbw?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T19:34:06+00:00",
+          "title": "ChatGPT for Academic Researchers | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "1b5e0407568a1686dcbf0050",
+      "topic": "ai",
+      "title": "Setting up your business on ChatGPT | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "Setting up your business on ChatGPT | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-25T21:01:14+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T21:01:14+00:00",
+          "title": "Setting up your business on ChatGPT | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "f5b85ba3db639d1c2a47f839",
+      "topic": "ai",
+      "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFVsTjFROGtER0loSkZOcnF2NDRLUWFmcjBHZ01ybE51N19idjFFMXI1dnFqZ21JYS1HVVpicTJ1V1RfVU4zd3pkVEZMWHdqMUJWRENOQWJ2VjFqT1Y3WS0xYTV3bzd2RnRraFhtOVpzVE9yYThzdV9tdWxJbUpjNzFraw?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "World stocks tumble as Trump tariffs rattle markets, AI rally fades Reuters",
+      "published_utc": "2026-11-26T00:28:43+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFVsTjFROGtER0loSkZOcnF2NDRLUWFmcjBHZ01ybE51N19idjFFMXI1dnFqZ21JYS1HVVpicTJ1V1RfVU4zd3pkVEZMWHdqMUJWRENOQWJ2VjFqT1Y3WS0xYTV3bzd2RnRraFhtOVpzVE9yYThzdV9tdWxJbUpjNzFraw?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:28:43+00:00",
+          "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades - Reuters"
         }
       ]
     },
@@ -292,6 +344,58 @@
       ]
     },
     {
+      "id": "29898084a4b7f50279425872",
+      "topic": "ai",
+      "title": "OpenAI Daybreak - Trusted Access for Cyber overview | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUZyTVZSX0RHejBVWktHR2xpY2dUbWFuZXNHN3R5S1dOMGxuQ0YySndSSDMzWUVRakpadzlKMWNNbTRxWWpVdlhvUkFhb0tXUy1XWlFQdGdhNEUtZFJZeU9JYTM4eThFamtsWjhxdFRaV0lnOXA0R0t3STlHUklvdi13Q3RiT1ZxLWI2V05aNXMyeU1Wbk8wdU9n?oc=5",
+      "source": "OpenAI",
+      "publisher": "OpenAI Help Center",
+      "description": "OpenAI Daybreak - Trusted Access for Cyber overview | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-25T20:36:18+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUZyTVZSX0RHejBVWktHR2xpY2dUbWFuZXNHN3R5S1dOMGxuQ0YySndSSDMzWUVRakpadzlKMWNNbTRxWWpVdlhvUkFhb0tXUy1XWlFQdGdhNEUtZFJZeU9JYTM4eThFamtsWjhxdFRaV0lnOXA0R0t3STlHUklvdi13Q3RiT1ZxLWI2V05aNXMyeU1Wbk8wdU9n?oc=5",
+          "source": "OpenAI",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T20:36:18+00:00",
+          "title": "OpenAI Daybreak - Trusted Access for Cyber overview | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "4e9ed44882e8431b5ba0b43c",
+      "topic": "ai",
+      "title": "Inkling 2 Mini: API Provider Performance Benchmarking & Price Analysis - Artificial Analysis",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpUUZCaXE3Y0c5YjRlODZxVDVGYUxTWTRIRk1YTVFWeExZZHdFRjBIR2FZMFFjWEVWMkw3bTVyMVpfa0hCMUdzc0Q2R1hlMnF2TEdaZ1JxUXVwbDBpNTg5bWo1VEJYX216aXNMR21n?oc=5",
+      "source": "Artificial Analysis",
+      "publisher": "Artificial Analysis",
+      "description": "Inkling 2 Mini: API Provider Performance Benchmarking & Price Analysis Artificial Analysis",
+      "published_utc": "2026-11-26T08:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpUUZCaXE3Y0c5YjRlODZxVDVGYUxTWTRIRk1YTVFWeExZZHdFRjBIR2FZMFFjWEVWMkw3bTVyMVpfa0hCMUdzc0Q2R1hlMnF2TEdaZ1JxUXVwbDBpNTg5bWo1VEJYX216aXNMR21n?oc=5",
+          "source": "Artificial Analysis",
+          "publisher": "Artificial Analysis",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T08:00:00+00:00",
+          "title": "Inkling 2 Mini: API Provider Performance Benchmarking & Price Analysis - Artificial Analysis"
+        }
+      ]
+    },
+    {
       "id": "75786b7fedf491ec30476a3d",
       "topic": "ai",
       "title": "AI stock rout deepens but damage is limited by afternoon bounce - Reuters",
@@ -314,6 +418,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T23:39:08+00:00",
           "title": "AI stock rout deepens but damage is limited by afternoon bounce - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "5749927337b0751e2a198a66",
+      "topic": "ai",
+      "title": "Bruised S&P 500 seen gaining more than 12% by end-2027 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWDhDOWgxS1ZTNEd0eHJXVXI3RjZ4MTJJM0Y5cHUzNDE3ZWM3YllDV3lFeTdWZHVjNVNHSU5pZU53V1ZJV1ZHRVhScFVOMXhzMk1ySzZZN2JtWmlSOE5TbThBM2RXcVliNVAwOElhSHhuaWpiNE5TRXotcE1VZmxONGJWdzBkVWpPRm1LM0NFb2xMQTJFYUM5ZVpB?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Bruised S&P 500 seen gaining more than 12% by end-2027 Reuters",
+      "published_utc": "2026-11-26T02:18:24+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWDhDOWgxS1ZTNEd0eHJXVXI3RjZ4MTJJM0Y5cHUzNDE3ZWM3YllDV3lFeTdWZHVjNVNHSU5pZU53V1ZJV1ZHRVhScFVOMXhzMk1ySzZZN2JtWmlSOE5TbThBM2RXcVliNVAwOElhSHhuaWpiNE5TRXotcE1VZmxONGJWdzBkVWpPRm1LM0NFb2xMQTJFYUM5ZVpB?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T02:18:24+00:00",
+          "title": "Bruised S&P 500 seen gaining more than 12% by end-2027 - Reuters"
         }
       ]
     },
@@ -1202,6 +1332,32 @@
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T15:51:16+00:00",
           "title": "Razer Reclusa X Mini 65 Keyboard Review"
+        }
+      ]
+    },
+    {
+      "id": "ab915c0ad48344a6ed98cfea",
+      "topic": "ai",
+      "title": "Healthcare model configurations in the OpenAI API - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXpWTkV1Tjh5Z25WNzUwMDl2bTk4QjJCcWhDOUVVVVA1cGxDZk9IX3lsRm1PWXhWTndZN2t1U21EZVF0azJybXp5Z1ZWVHRCdzBBRzVDOFRpdVRXWmExZ05OVm5sSmRRVHVWbWZqRW1PTWN4Q2tfUWpUWEF3MVlDa0xMb3lVdVVCU1JpSlRKaVNfWlhEZXNUczJB?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "Healthcare model configurations in the OpenAI API OpenAI Help Center",
+      "published_utc": "2026-11-26T14:15:35+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXpWTkV1Tjh5Z25WNzUwMDl2bTk4QjJCcWhDOUVVVVA1cGxDZk9IX3lsRm1PWXhWTndZN2t1U21EZVF0azJybXp5Z1ZWVHRCdzBBRzVDOFRpdVRXWmExZ05OVm5sSmRRVHVWbWZqRW1PTWN4Q2tfUWpUWEF3MVlDa0xMb3lVdVVCU1JpSlRKaVNfWlhEZXNUczJB?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T14:15:35+00:00",
+          "title": "Healthcare model configurations in the OpenAI API - OpenAI Help Center"
         }
       ]
     },
@@ -4676,7 +4832,7 @@
       "source": "Reuters AI",
       "publisher": "Reuters",
       "description": "Japan's data centre boom faces growing revolt from urban residents Reuters",
-      "published_utc": "2026-11-25T23:02:00+00:00",
+      "published_utc": "2026-11-26T02:58:45+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -4689,7 +4845,7 @@
           "source": "Reuters AI",
           "publisher": "Reuters",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T23:02:00+00:00",
+          "published_utc": "2026-11-26T02:58:45+00:00",
           "title": "Japan's data centre boom faces growing revolt from urban residents - Reuters"
         }
       ]
@@ -9593,11 +9749,11 @@
     {
       "id": "e5263270146ff9b21773e3f2",
       "topic": "pc",
-      "title": "Physical AI - NVIDIA Build - NVIDIA Build",
+      "title": "Physical AI - NVIDIA Build - NVIDIA",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42TlR2ZU1JYjAxM2hwamNDNlVSSERNdnNpaGs3TWtGRXpKY0lWQ2lyR3BVTFplakpRU2NNS25VS0NHTDJXNXJxb191X0FUWFdQTmJsNnV4d2pTWnJOTTJLTEcyZ0wyU0dta2pWWlQ0aWdYeC10ZGc?oc=5",
       "source": "NVIDIA",
       "publisher": "NVIDIA Build",
-      "description": "Physical AI - NVIDIA Build NVIDIA Build",
+      "description": "Physical AI - NVIDIA Build NVIDIA",
       "published_utc": "2026-11-25T21:18:21+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
@@ -9612,7 +9768,7 @@
           "publisher": "NVIDIA Build",
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T21:18:21+00:00",
-          "title": "Physical AI - NVIDIA Build - NVIDIA Build"
+          "title": "Physical AI - NVIDIA Build - NVIDIA"
         }
       ]
     },
@@ -10837,6 +10993,526 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T02:18:00+00:00",
           "title": "Situational Awareness lost 65% after fees in third quarter, WSJ reports - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "dac2bfd04d1a535f10c4892a",
+      "topic": "ai",
+      "title": "Swiss economy expected to suffer only minor hit from higher US tariffs, economist says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd0RfZDJxYldqU3VOVTd5SUFSZlFiMHlTMGI2dVNEMkpVTlZRNlRTSy1lMnV4MnFLRmhqMEQ5UXI2LXg3b0wyX2hFSUhwUnM0ZmpFcWtNUVlHTE9pVlhseFlwcXBlNENYZ0o2Zkp5S00yNVNLMFQ3WWdJaGp6NXRxczBWdndPdmdVeXdxVUJDWTlyeVBRMThYd1NEdF9QYnVEWkpqOTRHWU9KbFJFejk3VERiNVhUOHE3R0lPVHI5TmJXdWljRU80?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Swiss economy expected to suffer only minor hit from higher US tariffs, economist says Reuters",
+      "published_utc": "2026-11-26T13:51:45+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd0RfZDJxYldqU3VOVTd5SUFSZlFiMHlTMGI2dVNEMkpVTlZRNlRTSy1lMnV4MnFLRmhqMEQ5UXI2LXg3b0wyX2hFSUhwUnM0ZmpFcWtNUVlHTE9pVlhseFlwcXBlNENYZ0o2Zkp5S00yNVNLMFQ3WWdJaGp6NXRxczBWdndPdmdVeXdxVUJDWTlyeVBRMThYd1NEdF9QYnVEWkpqOTRHWU9KbFJFejk3VERiNVhUOHE3R0lPVHI5TmJXdWljRU80?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T13:51:45+00:00",
+          "title": "Swiss economy expected to suffer only minor hit from higher US tariffs, economist says - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "50afc87bc4bd1d9e7d94379e",
+      "topic": "ai",
+      "title": "Dutch groups ask court to halt Meta smart glasses sales over privacy concerns - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTW1YMnQzOGZCbUZNd2loMlNOS203R0ZwcGg3STdSRTlXcnFraDRvNzFwcG5URDlGMDI4Skt3WDRybmVQUi1mUlBMSGwxakl4eEFkU1NtdEdWb3pHc0w5Z2l6cHA0dUloalM1ZkhJYTRTTzlIdVdSUG41ZkpxRElOMG5UUHdobklDckZCZUt3VkxqV1pOYW13b1c5MTBsaXhKcG1sUmhrNnFjdy00VG9OWWhGUDVjRGxINUZaUWdwck9uY2tNeGc?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Dutch groups ask court to halt Meta smart glasses sales over privacy concerns Reuters",
+      "published_utc": "2026-11-26T11:44:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTW1YMnQzOGZCbUZNd2loMlNOS203R0ZwcGg3STdSRTlXcnFraDRvNzFwcG5URDlGMDI4Skt3WDRybmVQUi1mUlBMSGwxakl4eEFkU1NtdEdWb3pHc0w5Z2l6cHA0dUloalM1ZkhJYTRTTzlIdVdSUG41ZkpxRElOMG5UUHdobklDckZCZUt3VkxqV1pOYW13b1c5MTBsaXhKcG1sUmhrNnFjdy00VG9OWWhGUDVjRGxINUZaUWdwck9uY2tNeGc?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T11:44:00+00:00",
+          "title": "Dutch groups ask court to halt Meta smart glasses sales over privacy concerns - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "b640b13b3df229b6773506d3",
+      "topic": "ai",
+      "title": "India says it doesn't have structural excess capacity in any sector after US tariff determination - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUGx1cVBWMUZCcGQ5T1hqZDZqcmZmZlZhbm93VFRlc0JiMVhxNDBCNFVObHVrU0Vlems5ZmtyTmdTMzVrWVhzdXBMLXlaUTc4OFJIT1YyY1ZJSzgtU1J0a1BsYUFQQ2JYeGlIUEliWVBCM0tUR3F4UVRjTWRtb05HVlZST20tcHhGbU9hdHdPckN0Zno1alpfLUh4QjlmeDFsZ0FHd0dseFNmT2h0UGZQRUVfWlIzdFVwNWFZbmlqZ1dtTXdaanc?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "India says it doesn't have structural excess capacity in any sector after US tariff determination Reuters",
+      "published_utc": "2026-11-25T17:53:43+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUGx1cVBWMUZCcGQ5T1hqZDZqcmZmZlZhbm93VFRlc0JiMVhxNDBCNFVObHVrU0Vlems5ZmtyTmdTMzVrWVhzdXBMLXlaUTc4OFJIT1YyY1ZJSzgtU1J0a1BsYUFQQ2JYeGlIUEliWVBCM0tUR3F4UVRjTWRtb05HVlZST20tcHhGbU9hdHdPckN0Zno1alpfLUh4QjlmeDFsZ0FHd0dseFNmT2h0UGZQRUVfWlIzdFVwNWFZbmlqZ1dtTXdaanc?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T17:53:43+00:00",
+          "title": "India says it doesn't have structural excess capacity in any sector after US tariff determination - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "27d26b30f066a54d98014e94",
+      "topic": "smartphones",
+      "title": "Galaxy S27 Pro and Ultra dummy units leaked in hands-on video - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVjYtbzdwc3prVGE0S1hrQzg3RFJvSkxtZzRUeFVKOFZfd3dzMDBabjNXeHBseUJEWVBvdFJiMFVCZ3VpSXFfYWR3aVVVWmxzaVFPbHBoTnhCSU9qbVc4clg4emJPZWljZUJ4U2lUZjUya3FKWXVRVUw3MXpGb3I5QmYzRXpoc2ZDaWJnZzNrYVpwRkVPVXZZUkRBeUM?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Galaxy S27 Pro and Ultra dummy units leaked in hands-on video Android Authority",
+      "published_utc": "2026-11-26T06:59:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "スマートフォンへ分類",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVjYtbzdwc3prVGE0S1hrQzg3RFJvSkxtZzRUeFVKOFZfd3dzMDBabjNXeHBseUJEWVBvdFJiMFVCZ3VpSXFfYWR3aVVVWmxzaVFPbHBoTnhCSU9qbVc4clg4emJPZWljZUJ4U2lUZjUya3FKWXVRVUw3MXpGb3I5QmYzRXpoc2ZDaWJnZzNrYVpwRkVPVXZZUkRBeUM?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T06:59:00+00:00",
+          "title": "Galaxy S27 Pro and Ultra dummy units leaked in hands-on video - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "001f9cecc2a0dacd33e24882",
+      "topic": "ai",
+      "title": "Gemini for Home gets faster responses, smoother chats, and fixes for follow-up and music bugs - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNekdWeTNvTVRtZEd6V0Z0X3dYd090QURVeDl0d0t1RVpHUVc2WG9lRGxQSUZmZVpaQnFYOHJQLTVSMl9ncjNVTVF2ZXR1LW5PWFdIZlA0TW5RczJwakM2Sl9HdmpwVTdzWEkyeENIVC1SVXUyRXZfc3lDQlE4amhaRnphOE5nQm5zbkZqa3hPbnVWVk9P?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Gemini for Home gets faster responses, smoother chats, and fixes for follow-up and music bugs Android Authority",
+      "published_utc": "2026-11-25T20:15:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNekdWeTNvTVRtZEd6V0Z0X3dYd090QURVeDl0d0t1RVpHUVc2WG9lRGxQSUZmZVpaQnFYOHJQLTVSMl9ncjNVTVF2ZXR1LW5PWFdIZlA0TW5RczJwakM2Sl9HdmpwVTdzWEkyeENIVC1SVXUyRXZfc3lDQlE4amhaRnphOE5nQm5zbkZqa3hPbnVWVk9P?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T20:15:00+00:00",
+          "title": "Gemini for Home gets faster responses, smoother chats, and fixes for follow-up and music bugs - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "229ece44f8f2715689521bd7",
+      "topic": "pc",
+      "title": "Facility engineer - Micron",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeU5OaUwtcnZxdFM2OUM3QWRPUmVTeDdjWTE2NmlnSHpFN0IxdjhYY1UxNFF6VUIzazB3VlBMZjBFX0dtRE02NWtQdXlkSjdic2tucGZPMTRhcFMydTN1cFVHakliMXpNVlpzUzZ4ZjI3RHZkSmYzZEh1N2VVWUVhTTZobTYzN0I0R0xoV0tTT2NhWXRfaUNoa0hYMmdSRHZCWC1PLUJwQlNHdDJFYTdtZG85d3FLZU5GU0E?oc=5",
+      "source": "Micron",
+      "publisher": "Micron",
+      "description": "Facility engineer Micron",
+      "published_utc": "2026-11-26T00:17:23+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeU5OaUwtcnZxdFM2OUM3QWRPUmVTeDdjWTE2NmlnSHpFN0IxdjhYY1UxNFF6VUIzazB3VlBMZjBFX0dtRE02NWtQdXlkSjdic2tucGZPMTRhcFMydTN1cFVHakliMXpNVlpzUzZ4ZjI3RHZkSmYzZEh1N2VVWUVhTTZobTYzN0I0R0xoV0tTT2NhWXRfaUNoa0hYMmdSRHZCWC1PLUJwQlNHdDJFYTdtZG85d3FLZU5GU0E?oc=5",
+          "source": "Micron",
+          "publisher": "Micron",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:17:23+00:00",
+          "title": "Facility engineer - Micron"
+        }
+      ]
+    },
+    {
+      "id": "7f1ae0b9720bb7242ddd5616",
+      "topic": "ai",
+      "title": "DAX Copilot for Epic FAQs - Microsoft Support",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR2xibEIyWHpEei1qcFZ5SDVjbXRjOTVJeUhvOXpmM0Y4cDF2SWFiUWZHTlJnelFqSGZNZGF1ZmNLQkVGaEktQ3VneGh3LWlsNExCZDRqZ2NXN1puZEhIM3N4Tmlwd0F5cXdvWTRMeWZ2N3h1YkxkTVh6Z05rUlB5ekJ3bXFUSjRjZ3QyeGRfNA?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Support",
+      "description": "DAX Copilot for Epic FAQs Microsoft Support",
+      "published_utc": "2026-11-25T16:29:38+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR2xibEIyWHpEei1qcFZ5SDVjbXRjOTVJeUhvOXpmM0Y4cDF2SWFiUWZHTlJnelFqSGZNZGF1ZmNLQkVGaEktQ3VneGh3LWlsNExCZDRqZ2NXN1puZEhIM3N4Tmlwd0F5cXdvWTRMeWZ2N3h1YkxkTVh6Z05rUlB5ekJ3bXFUSjRjZ3QyeGRfNA?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Support",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T16:29:38+00:00",
+          "title": "DAX Copilot for Epic FAQs - Microsoft Support"
+        }
+      ]
+    },
+    {
+      "id": "81fce2390451241ef79aa995",
+      "topic": "pc",
+      "title": "No technical support with MS -- unable to save files - Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR2F2dFlyWXJQTXE4RFNOZGR4TzdvbE9IbzBLRXNDMG1kS0xNR01ORDRBNWk3NUtQRFRETnlVN3RWamd6bWpCME1fd2lWaG44RUt4X0p0bndjRW1mc2NxV3ByVkIyQUl4bEZqMGY0c3VKUklvSjBPWHRWTUpDdzhYTUhJNlFZSGJ3Ql91NV9adjlCbGFScEN5bFVDdzVRd2hmeUNnenRZZHU4WnNWZ0E?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Learn",
+      "description": "No technical support with MS -- unable to save files Microsoft Learn",
+      "published_utc": "2026-11-26T08:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR2F2dFlyWXJQTXE4RFNOZGR4TzdvbE9IbzBLRXNDMG1kS0xNR01ORDRBNWk3NUtQRFRETnlVN3RWamd6bWpCME1fd2lWaG44RUt4X0p0bndjRW1mc2NxV3ByVkIyQUl4bEZqMGY0c3VKUklvSjBPWHRWTUpDdzhYTUhJNlFZSGJ3Ql91NV9adjlCbGFScEN5bFVDdzVRd2hmeUNnenRZZHU4WnNWZ0E?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Learn",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T08:00:00+00:00",
+          "title": "No technical support with MS -- unable to save files - Microsoft Learn"
+        }
+      ]
+    },
+    {
+      "id": "41db770c4a9af47954a11f6f",
+      "topic": "pc",
+      "title": "Dataflow legacy vs Dataflow (new connector) - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRlY0Nlg2SmlYNm5heGVPNVF6WVAtQVNYdDFGTEpKeFZLclkxaGp6eks3MW9BcmY5c2I2UzV3eUx4ZjlJbGxNS085NzV4anpoTzVNeHk0Uy1UeTc5NUJEdGEwbjhsUnQ2TVJZWmE0Q3hObG5pcmdTeGFrTHg4TTRBNnZRak02cjZ4WFNpLXcxcXI0N2Qyajg3MkgtTGkzOE9JUGd5Z0Z2WUZRSkNzTjJ4SVFDUHQyS3lq?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft",
+      "description": "Dataflow legacy vs Dataflow (new connector) Microsoft",
+      "published_utc": "2026-11-25T16:16:40+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRlY0Nlg2SmlYNm5heGVPNVF6WVAtQVNYdDFGTEpKeFZLclkxaGp6eks3MW9BcmY5c2I2UzV3eUx4ZjlJbGxNS085NzV4anpoTzVNeHk0Uy1UeTc5NUJEdGEwbjhsUnQ2TVJZWmE0Q3hObG5pcmdTeGFrTHg4TTRBNnZRak02cjZ4WFNpLXcxcXI0N2Qyajg3MkgtTGkzOE9JUGd5Z0Z2WUZRSkNzTjJ4SVFDUHQyS3lq?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T16:16:40+00:00",
+          "title": "Dataflow legacy vs Dataflow (new connector) - Microsoft"
+        }
+      ]
+    },
+    {
+      "id": "8efae34f43a952f65ccf5b20",
+      "topic": "pc",
+      "title": "What’s new from Microsoft and NVIDIA - Microsoft Developer",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WdzlmNVktTXJGT1UtcEtUOGZocjR4czhmZzdRRFk1LUtrMjR1SEF1WERzYXFaRlNtM1FOTU9Ib2NPeWtKMnd3OVRzQ2lKcWdHYU5CSWN0SQ?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Developer",
+      "description": "What’s new from Microsoft and NVIDIA Microsoft Developer",
+      "published_utc": "2026-11-25T20:33:24+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WdzlmNVktTXJGT1UtcEtUOGZocjR4czhmZzdRRFk1LUtrMjR1SEF1WERzYXFaRlNtM1FOTU9Ib2NPeWtKMnd3OVRzQ2lKcWdHYU5CSWN0SQ?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Developer",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T20:33:24+00:00",
+          "title": "What’s new from Microsoft and NVIDIA - Microsoft Developer"
+        }
+      ]
+    },
+    {
+      "id": "1ae346b524515490215f43fd",
+      "topic": "pc",
+      "title": "How to unprotect Excel sheet if forgot the password - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUmstWkM2RlhrS1pmaW9WWS1nYlduVVBkLTNpaEhKT1p3Y2xicTRkSEdlREVEckdLOFdoTkZQS3pQc20zbU82S1NhZ3J2ZzVMNUExRW1zX1hQbHRyWE5PcnA4dzZwUEpXMlJtQ2pnMlFYVTZWcm13NTh5V042TnMtMzZMdG9rSnlaOV9EOHRIcnZRWlRZaTRLYUc3a181SVUzUzF2YWNpcEdfeHVSVEowRHhuNzkxamZndXhHVlNFaDJ2VnlmM0Iyc2FnN0FsdHdRaVE?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Community Hub",
+      "description": "How to unprotect Excel sheet if forgot the password Microsoft Community Hub",
+      "published_utc": "2026-11-26T00:30:23+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUmstWkM2RlhrS1pmaW9WWS1nYlduVVBkLTNpaEhKT1p3Y2xicTRkSEdlREVEckdLOFdoTkZQS3pQc20zbU82S1NhZ3J2ZzVMNUExRW1zX1hQbHRyWE5PcnA4dzZwUEpXMlJtQ2pnMlFYVTZWcm13NTh5V042TnMtMzZMdG9rSnlaOV9EOHRIcnZRWlRZaTRLYUc3a181SVUzUzF2YWNpcEdfeHVSVEowRHhuNzkxamZndXhHVlNFaDJ2VnlmM0Iyc2FnN0FsdHdRaVE?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Community Hub",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:30:23+00:00",
+          "title": "How to unprotect Excel sheet if forgot the password - Microsoft Community Hub"
+        }
+      ]
+    },
+    {
+      "id": "5ec091ce9ac98dbb381c3594",
+      "topic": "pc",
+      "title": "Emergency department AI documentation best practices for physicians - Microsoft Support",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmdCcHlpRExYLXV5Vm1lcDdzYm1OOS1qLVNmTEhFMWM5UUwxQ2tfSHV5Ukl2cl9yN0liWmN5eGd1RlZrdXMzaklERWhMVWxYRTNHdlVuTlNNenQxM05zX1pTV1pLVTRUblVsMUppclZRWWNabzlmbVNjU29mNlNjLXpOeUQ0eEFiZmZsR1FLc2ZUbTU3MjN1bzZkWlBGbWJXcE9GcVZFN3Itdw?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Support",
+      "description": "Emergency department AI documentation best practices for physicians Microsoft Support",
+      "published_utc": "2026-11-25T16:29:55+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmdCcHlpRExYLXV5Vm1lcDdzYm1OOS1qLVNmTEhFMWM5UUwxQ2tfSHV5Ukl2cl9yN0liWmN5eGd1RlZrdXMzaklERWhMVWxYRTNHdlVuTlNNenQxM05zX1pTV1pLVTRUblVsMUppclZRWWNabzlmbVNjU29mNlNjLXpOeUQ0eEFiZmZsR1FLc2ZUbTU3MjN1bzZkWlBGbWJXcE9GcVZFN3Itdw?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Support",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T16:29:55+00:00",
+          "title": "Emergency department AI documentation best practices for physicians - Microsoft Support"
+        }
+      ]
+    },
+    {
+      "id": "0e9af3370e736dd5acbd3403",
+      "topic": "pc",
+      "title": "Intro to note section templates - Microsoft Support",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcks0Sm9OZWNXZHRwbWhXOXJIZTFORENuM3hVMGZhdDhQQ1MwNWJkUl9tOVBWSWdhbHUyeFBJdDY2OGtxQmNHWTl0WVBKeUk0czN3SDd6ZHdGX2xEcjJjcFdOYW9CckdRcnVIeFdDSWoycHRQcHFIZGFDQlViSlRHR0d4VWRlb0cxT0JTOEZvNnBmdmpIcXVn?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Support",
+      "description": "Intro to note section templates Microsoft Support",
+      "published_utc": "2026-11-25T16:32:11+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcks0Sm9OZWNXZHRwbWhXOXJIZTFORENuM3hVMGZhdDhQQ1MwNWJkUl9tOVBWSWdhbHUyeFBJdDY2OGtxQmNHWTl0WVBKeUk0czN3SDd6ZHdGX2xEcjJjcFdOYW9CckdRcnVIeFdDSWoycHRQcHFIZGFDQlViSlRHR0d4VWRlb0cxT0JTOEZvNnBmdmpIcXVn?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Support",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T16:32:11+00:00",
+          "title": "Intro to note section templates - Microsoft Support"
+        }
+      ]
+    },
+    {
+      "id": "72aaaf6c193b5fb6c0805660",
+      "topic": "ai",
+      "title": "Quick start guide for DAX Copilot for Epic - Microsoft Support",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN1Q3MVdCWnFPU2JFbkRZNHloSzZuZ3pEajEzc2NpMGRSSFk3TlBrN0VoRmwtdEtTMXdLQ3p0ZTNYaDl6Y3dIdHJ2dFJWZHlLdklQVTAwdkhaWVRjU0VnR2xWZHlSUmVHWmc1cEhkSHRkdDJFODBjWUNWM3BpM0J1NnFBZVN3RzAwdFhKVW5DejQ1aEppc194bjVvb0JLbjQ?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Support",
+      "description": "Quick start guide for DAX Copilot for Epic Microsoft Support",
+      "published_utc": "2026-11-25T16:27:52+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN1Q3MVdCWnFPU2JFbkRZNHloSzZuZ3pEajEzc2NpMGRSSFk3TlBrN0VoRmwtdEtTMXdLQ3p0ZTNYaDl6Y3dIdHJ2dFJWZHlLdklQVTAwdkhaWVRjU0VnR2xWZHlSUmVHWmc1cEhkSHRkdDJFODBjWUNWM3BpM0J1NnFBZVN3RzAwdFhKVW5DejQ1aEppc194bjVvb0JLbjQ?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Support",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T16:27:52+00:00",
+          "title": "Quick start guide for DAX Copilot for Epic - Microsoft Support"
+        }
+      ]
+    },
+    {
+      "id": "67fb9e905a419a83b0045946",
+      "topic": "ai",
+      "title": "Manage your settings in Dragon Copilot - Microsoft Support",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ0tlYkxBR29qLXRBcFVJTXhmVW92MlctRWgtUnBGZGRNSFBXblk5SThtNXEtdVFfVmZ0MTEzeGUteGhMTHZ4TmFXUUlMUlZIUkYxdXpsaUFnOVV3alp0MEJKTHRrVmFmMHJlaTZ5bXFNbnBDWnlvYlM0M0lBSlI5N19MdUxvMG5pWElYWncycVU1MHRYc0RCb3ZrM040ODYxYkczRm9KX1V0MWJUT0hxTWltbEE4UQ?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Support",
+      "description": "Manage your settings in Dragon Copilot Microsoft Support",
+      "published_utc": "2026-11-26T06:11:23+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ0tlYkxBR29qLXRBcFVJTXhmVW92MlctRWgtUnBGZGRNSFBXblk5SThtNXEtdVFfVmZ0MTEzeGUteGhMTHZ4TmFXUUlMUlZIUkYxdXpsaUFnOVV3alp0MEJKTHRrVmFmMHJlaTZ5bXFNbnBDWnlvYlM0M0lBSlI5N19MdUxvMG5pWElYWncycVU1MHRYc0RCb3ZrM040ODYxYkczRm9KX1V0MWJUT0hxTWltbEE4UQ?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Support",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T06:11:23+00:00",
+          "title": "Manage your settings in Dragon Copilot - Microsoft Support"
+        }
+      ]
+    },
+    {
+      "id": "c2cb253cdef81666a16bbc84",
+      "topic": "pc",
+      "title": "Check the status of your Microsoft Store return or refund - Microsoft Support",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEdtSlFPbHBFTkQtY1B4Q3ZaMWxvSXVoajRlNTZzcHBrVW9hbjQ4X1BmWnBUYld4SWdvS2tCS1ZMTXNUd1N6eGNvX2xrUkVDeVU4X3RPbW1XS3JFUmtkOVNJWEwxUWVKVEdDeGJQbFRldWlSMmF2Z3VLcmRUdmpRVmNwTEI3dHNITVZ6dE5zUHJHcVVNQWNrejNLWFdpaTg2d0VDYU9ZeW9fNzJJR0tRRlBHczdob1Z1UUI0Qw?oc=5",
+      "source": "Microsoft Windows",
+      "publisher": "Microsoft Support",
+      "description": "Check the status of your Microsoft Store return or refund Microsoft Support",
+      "published_utc": "2026-11-26T11:38:54+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEdtSlFPbHBFTkQtY1B4Q3ZaMWxvSXVoajRlNTZzcHBrVW9hbjQ4X1BmWnBUYld4SWdvS2tCS1ZMTXNUd1N6eGNvX2xrUkVDeVU4X3RPbW1XS3JFUmtkOVNJWEwxUWVKVEdDeGJQbFRldWlSMmF2Z3VLcmRUdmpRVmNwTEI3dHNITVZ6dE5zUHJHcVVNQWNrejNLWFdpaTg2d0VDYU9ZeW9fNzJJR0tRRlBHczdob1Z1UUI0Qw?oc=5",
+          "source": "Microsoft Windows",
+          "publisher": "Microsoft Support",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T11:38:54+00:00",
+          "title": "Check the status of your Microsoft Store return or refund - Microsoft Support"
+        }
+      ]
+    },
+    {
+      "id": "6fe43a44bf924ee3bd099ae5",
+      "topic": "pc",
+      "title": "Senior Cosmos Research Scientist, Agentic AI for 3D and Robotics - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KeXNpZzZZWGYtMFJBZnNoTFFsYm1DVjRUZHl3QmZ5Z2dEVlBwOFlEVGh1RmNDM2N5Z1RaeEZxT0hDa3lCaXk3anNTSllDWDhzUjEwNm1EX2VIY1ExX190UGhncUZuT01OVWcyYVVDMFB4TUZlVnZZX2xpRlQ?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA",
+      "description": "Senior Cosmos Research Scientist, Agentic AI for 3D and Robotics NVIDIA",
+      "published_utc": "2026-11-26T13:04:17+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KeXNpZzZZWGYtMFJBZnNoTFFsYm1DVjRUZHl3QmZ5Z2dEVlBwOFlEVGh1RmNDM2N5Z1RaeEZxT0hDa3lCaXk3anNTSllDWDhzUjEwNm1EX2VIY1ExX190UGhncUZuT01OVWcyYVVDMFB4TUZlVnZZX2xpRlQ?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T13:04:17+00:00",
+          "title": "Senior Cosmos Research Scientist, Agentic AI for 3D and Robotics - NVIDIA"
+        }
+      ]
+    },
+    {
+      "id": "a0371d4d4d09bc1c114b4b85",
+      "topic": "pc",
+      "title": "DRIVE OS QNX 7.2.6 nsr missing QNX PLMS - NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGE1aHRMbEJVLVlQVTBQc1hDbWlxODFRYlhTcHU1bmszQTBTUnpZTC1rUXRXRS03VlVUUFEtUjRrekN3bkVJLVRBdHVYbHltN3lXVXZacXFUTDAxMDAzYU5GSGs3ZkxwdGp1TDBJcVBWU1BFQXpRUGpOTEtTdm9Qano5dWpiZmRCX1NwVw?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Developer Forums",
+      "description": "DRIVE OS QNX 7.2.6 nsr missing QNX PLMS NVIDIA Developer Forums",
+      "published_utc": "2026-11-25T20:29:39+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGE1aHRMbEJVLVlQVTBQc1hDbWlxODFRYlhTcHU1bmszQTBTUnpZTC1rUXRXRS03VlVUUFEtUjRrekN3bkVJLVRBdHVYbHltN3lXVXZacXFUTDAxMDAzYU5GSGs3ZkxwdGp1TDBJcVBWU1BFQXpRUGpOTEtTdm9Qano5dWpiZmRCX1NwVw?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Developer Forums",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T20:29:39+00:00",
+          "title": "DRIVE OS QNX 7.2.6 nsr missing QNX PLMS - NVIDIA Developer Forums"
+        }
+      ]
+    },
+    {
+      "id": "fc4c7984c097ee9ad5033623",
+      "topic": "pc",
+      "title": "Manual Phone Verification Request - NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWEtfVmpfS3Uzb3QwWm5tNGJKLXJDWThqZ2pkeUxjZndWaGF6eWFqMk1uOFNUVldvY3FNVmNhaWdxQnVYeXhyYXNpdHZ6UWF2UG9CaFdZYXRqV0ZGM0haVlN2ZzhBQTJWakYxaE9PX01BRDBrNXJORGpKX3Z3cTdIbHlsYVc?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Developer Forums",
+      "description": "Manual Phone Verification Request NVIDIA Developer Forums",
+      "published_utc": "2026-11-26T07:04:40+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWEtfVmpfS3Uzb3QwWm5tNGJKLXJDWThqZ2pkeUxjZndWaGF6eWFqMk1uOFNUVldvY3FNVmNhaWdxQnVYeXhyYXNpdHZ6UWF2UG9CaFdZYXRqV0ZGM0haVlN2ZzhBQTJWakYxaE9PX01BRDBrNXJORGpKX3Z3cTdIbHlsYVc?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Developer Forums",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T07:04:40+00:00",
+          "title": "Manual Phone Verification Request - NVIDIA Developer Forums"
+        }
+      ]
+    },
+    {
+      "id": "c55463ad726d48001866f06b",
+      "topic": "pc",
+      "title": "ERNIE 5.5 Flash Preview - #3 by 2893f57acbe7739fc460e9bd7 - DGX Spark / GB10 - NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZWTQydks3UWxWNVA0eEg0UDhuWHlBQURlSmpXX2tGVmM5UkY3RFZVSkpRR2g3N2N2WmE1S29DU2hnMXdpcFpzNjg1TGZBa0xoMy1vWlZzeXRwaVRITXFUSjRfeWY3LXh3cl8zV3hVNnpMTTZpQ01WVm13?oc=5",
+      "source": "NVIDIA",
+      "publisher": "NVIDIA Developer Forums",
+      "description": "ERNIE 5.5 Flash Preview - #3 by 2893f57acbe7739fc460e9bd7 - DGX Spark / GB10 NVIDIA Developer Forums",
+      "published_utc": "2026-11-25T23:09:59+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZWTQydks3UWxWNVA0eEg0UDhuWHlBQURlSmpXX2tGVmM5UkY3RFZVSkpRR2g3N2N2WmE1S29DU2hnMXdpcFpzNjg1TGZBa0xoMy1vWlZzeXRwaVRITXFUSjRfeWY3LXh3cl8zV3hVNnpMTTZpQ01WVm13?oc=5",
+          "source": "NVIDIA",
+          "publisher": "NVIDIA Developer Forums",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T23:09:59+00:00",
+          "title": "ERNIE 5.5 Flash Preview - #3 by 2893f57acbe7739fc460e9bd7 - DGX Spark / GB10 - NVIDIA Developer Forums"
         }
       ]
     }

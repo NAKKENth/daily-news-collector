@@ -466,32 +466,6 @@
       "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
-      "id": "0234fdccc71904a8b76e3822",
-      "topic": "racing_games",
-      "title": "Immersive Pitstops 1.0.21 - overtake.gg",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UZWdONlZvdHhkbDRuMzZTd1JadDRqUFk5UWZiUzh5LXBWVk1UWG15NW83V1N2YV9hRmI3REZvX2pFNmVSemowdVY0NWFaVEZ1eGVWS1lWZHNSTTYzSThSOVBHTEo4OTV0ZWZJ?oc=5",
-      "source": "OverTake",
-      "publisher": "overtake.gg",
-      "description": "Immersive Pitstops 1.0.21 overtake.gg",
-      "published_utc": "2026-11-23T20:42:20+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UZWdONlZvdHhkbDRuMzZTd1JadDRqUFk5UWZiUzh5LXBWVk1UWG15NW83V1N2YV9hRmI3REZvX2pFNmVSemowdVY0NWFaVEZ1eGVWS1lWZHNSTTYzSThSOVBHTEo4OTV0ZWZJ?oc=5",
-          "source": "OverTake",
-          "publisher": "overtake.gg",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T20:42:20+00:00",
-          "title": "Immersive Pitstops 1.0.21 - overtake.gg"
-        }
-      ]
-    },
-    {
       "id": "5fc2ca0739637456b1372c62",
       "topic": "racing_games",
       "title": "-REALESE- Peugeot 208 R2 - Sound Mod - Assetto corsa 1.0 - overtake.gg",
@@ -570,34 +544,6 @@
           "title": "NITRO GEN OMEGA - Steam"
         }
       ]
-    },
-    {
-      "id": "17e0f90b4ee0ee91563e8e1c",
-      "topic": "racing_games",
-      "title": "DiRT Rally 2.0 - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1anJMYndGaXZOaWdkbjI0MHR6SGJKZkdieldpcHB2eE1OZklON3pST240MEptb0RUVnM0MnFvbHJYMnplWXFGRC11V3BjY2k2ejVLeXBiTWRDd0V0RDNOU3h3eEJQWTA?oc=5",
-      "source": "Steam racing updates",
-      "publisher": "Steam",
-      "description": "DiRT Rally 2.0 Steam",
-      "published_utc": "2026-11-24T01:47:19+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "レースゲーム候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1anJMYndGaXZOaWdkbjI0MHR6SGJKZkdieldpcHB2eE1OZklON3pST240MEptb0RUVnM0MnFvbHJYMnplWXFGRC11V3BjY2k2ejVLeXBiTWRDd0V0RDNOU3h3eEJQWTA?oc=5",
-          "source": "Steam racing updates",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T01:47:19+00:00",
-          "title": "DiRT Rally 2.0 - Steam"
-        }
-      ],
-      "enrichment": "failed",
-      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "3150fa5503cd61e38ba6459e",
@@ -2638,32 +2584,6 @@
       ]
     },
     {
-      "id": "b873f34cba74da90b890793b",
-      "topic": "racing_games",
-      "title": "Food Devils - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FczU4eVdUNTFtMnRZZlhQOFhzX3NIdnNRSzZ6WXp3ekltUEliMGs5eVUtT0Q5TFRYY09JZU9XX3ZiQ3pFNDNDbUVCbmhCV21yYWI0ZEtBelUxc1FsNWk2UEcweUxPQQ?oc=5",
-      "source": "Steam racing updates",
-      "publisher": "Steam",
-      "description": "Food Devils Steam",
-      "published_utc": "2026-11-24T08:00:00+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FczU4eVdUNTFtMnRZZlhQOFhzX3NIdnNRSzZ6WXp3ekltUEliMGs5eVUtT0Q5TFRYY09JZU9XX3ZiQ3pFNDNDbUVCbmhCV21yYWI0ZEtBelUxc1FsNWk2UEcweUxPQQ?oc=5",
-          "source": "Steam racing updates",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T08:00:00+00:00",
-          "title": "Food Devils - Steam"
-        }
-      ]
-    },
-    {
       "id": "2b6cd6873bf629113cb27d94",
       "topic": "racing_games",
       "title": "LEGO® City Undercover - Steam",
@@ -3512,6 +3432,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "bdd93a7697f0",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJWkt0V01yQjhIdHJwRHhhenhoc0VRUGxNaXFBWE9VSnNFV2hWYWVhLTcxNDJWakVFSlNxMlFneDR3MGt2dVdtMW95bEotRC0wTXpGYjVBcTBCZFFzZ3VfdndEaERlRzk2OFd5Zmt1RUI?oc=5",
@@ -4040,6 +3961,85 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T14:34:38+00:00",
           "title": "Hyundai I20 ( Rally 1 livery adaptation Monte Carlo 2026) 2.02 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "0e5fd74dd5ea49f52dfe8672",
+      "topic": "racing_games",
+      "title": "AED_Database 03 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKN0lQX2NJMzZlem1PM29NUVYzdUhla0xXOUZoS2ViblNtazN3dFh3R2tNRWxOVXkyV3Z5N2lPYVhKSi1PWGVrU09fZmFZSmZucmx6N2JrYkJRaS1qNERtY2V0OA?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "AED_Database 03 overtake.gg",
+      "published_utc": "2026-11-23T23:43:20+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKN0lQX2NJMzZlem1PM29NUVYzdUhla0xXOUZoS2ViblNtazN3dFh3R2tNRWxOVXkyV3Z5N2lPYVhKSi1PWGVrU09fZmFZSmZucmx6N2JrYkJRaS1qNERtY2V0OA?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T23:43:20+00:00",
+          "title": "AED_Database 03 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "547513182a4c040baf527fc2",
+      "topic": "racing_games",
+      "title": "1993 Porsche 964 Carrera Cup — Damage & Wiper Patch - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa21Od0xpZFA3dlgzZUp2dkFMZkN0MjRnMlliTlUydl9xUGEwb0NIVldsUlJfVl9VVjVWV1dYVDEwTEJmUUF2cllxV0FrNzVkbVVELXpuMG1VeVg1d2JEbXBySndJamhuRHlFU3dDM3owUnJXeDFhSWhVVUR0eHU3cjJuX3BmV2VaajZnOExONHo3S2l2UmVMQjFFNXJrbzQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "1993 Porsche 964 Carrera Cup — Damage & Wiper Patch overtake.gg",
+      "published_utc": "2026-11-24T10:08:03+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa21Od0xpZFA3dlgzZUp2dkFMZkN0MjRnMlliTlUydl9xUGEwb0NIVldsUlJfVl9VVjVWV1dYVDEwTEJmUUF2cllxV0FrNzVkbVVELXpuMG1VeVg1d2JEbXBySndJamhuRHlFU3dDM3owUnJXeDFhSWhVVUR0eHU3cjJuX3BmV2VaajZnOExONHo3S2l2UmVMQjFFNXJrbzQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T10:08:03+00:00",
+          "title": "1993 Porsche 964 Carrera Cup — Damage & Wiper Patch - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "b5a347c221a6295d32921715",
+      "topic": "racing_games",
+      "title": "Affinity SimHub Plugin 0.5.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53Z2NwX1FObTFHTUtCajBoTmJRdnczQ0xlUWhVWTg5WEh2Y0FSNXlObzU2MUEyU25yTU5sY3BsSWc4LVh6ZTBxVjVfaXU4UHdabUFTZG0zS2psdTdEcm1BNjF4TFJWYXRWLUdmVXRxa3M?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Affinity SimHub Plugin 0.5.0 overtake.gg",
+      "published_utc": "2026-11-24T01:01:44+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "bdd93a7697f0",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53Z2NwX1FObTFHTUtCajBoTmJRdnczQ0xlUWhVWTg5WEh2Y0FSNXlObzU2MUEyU25yTU5sY3BsSWc4LVh6ZTBxVjVfaXU4UHdabUFTZG0zS2psdTdEcm1BNjF4TFJWYXRWLUdmVXRxa3M?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T01:01:44+00:00",
+          "title": "Affinity SimHub Plugin 0.5.0 - overtake.gg"
         }
       ]
     }

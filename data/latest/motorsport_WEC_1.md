@@ -1,16 +1,19 @@
-# WEC / 2026-11-27 / 候補 1–18
+# WEC / 2026-11-27 / 候補 1–21
 
-- [Ford Unveils New Hypercar: Red Bull F1 Technology on Board](https://www.gpblog.com/en/general/ford-unveils-new-hypercar-red-bull-f1-technology-on-board) — GPblog｜優先｜2026-11-26T18:00:00+00:00 UTC｜feed_published
 - [Ford pays tribute to its legendary GT40 with WEC 2027 hypercar](https://www.autosport.com/wec/news/ford-pays-tribute-to-gt40-with-wec-2027-car/10877998) — Autosport all｜優先｜2026-11-26T18:00:20+00:00 UTC｜feed_published
 - [Ford GT41 Hypercar gets big-ticket launch in Detroit - RACER - Racing News](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWl9TSnA3TlBvVDBpNUNhOTRkTTRMSmYxWW1qZ0ZBNDFZcERkd2Z4VW9BbDE2LVAzUGZyMDVOQlNCdVpmampkcTZoTDRHSlZWUDB1QnotVXQ3ZkxYTEN4N0JGeUNVYkpKcldBOTc3LXVnWVA5bUVZU2tsTWNabXptdENvQl9SbVBy?oc=5) — RACER｜優先｜2026-11-26T18:00:00+00:00 UTC｜discovery_index
 - [BMW Discussing “Similar Approach” for HMI BMW Effort](https://sportscar365.com/imsa/iwsc/bmw-discussing-similar-approach-for-hanley-bmw-effort) — Sportscar365｜要確認｜2026-11-27T11:47:04+00:00 UTC｜feed_published
 - [Ben Green Completes Inception Racing Corvette Crew For Rolex 24](https://www.dailysportscar.com/2026/11/26/ben-green-completes-inception-racing-corvette-crew-for-rolex-24.html) — DailySportscar｜要確認｜2026-11-26T16:22:27+00:00 UTC｜feed_published
 - [Ford GT41, verso la conquista della 24 Ore di Le Mans](https://www.formulapassion.it/wec/ford-gt41-hypercar-24-ore-le-mans-wec-2027) — FormulaPassion｜要確認｜2026-11-26T18:01:00+00:00 UTC｜feed_published
+- [Ford Unveils New Hypercar: Red Bull F1 Technology on Board](https://www.gpblog.com/en/general/ford-unveils-new-hypercar-red-bull-f1-technology-on-board) — GPblog｜要確認｜2026-11-26T18:00:00+00:00 UTC｜article_metadata
 - [Ford&#8217;s New Hypercar Officially Christened GT41](https://www.dailysportscar.com/2026/11/26/fords-new-hypercar-officially-christened-gt41.html) — DailySportscar｜要確認｜2026-11-26T18:00:00+00:00 UTC｜article_metadata
+- [GT500 Standings Finalised After ROOKIE Racing Appeal Dismissed](https://www.dailysportscar.com/2026/11/27/gt500-standings-finalised-after-rookie-racing-appeal-dismissed.html) — DailySportscar｜要確認｜2026-11-27T09:10:41+00:00 UTC｜feed_published
+- [HRT Interested In Customer LMDh Future](https://www.dailysportscar.com/2026/11/27/hrt-interested-in-customer-lmdh-future.html) — DailySportscar｜要確認｜2026-11-27T11:02:16+00:00 UTC｜feed_published
 - [INSIGHT: How Ford is Building American Dream With GT41](https://sportscar365.substack.com/p/insight-how-ford-is-building-the) — Sportscar365｜要確認｜2026-11-27T12:00:58+00:00 UTC｜feed_published
 - [Inception Completes Rolex 24 Lineup with Ben Green](https://sportscar365.com/imsa/iwsc/inception-completes-rolex-24-lineup-with-ben-green) — Sportscar365｜要確認｜2026-11-26T17:29:44+00:00 UTC｜feed_published
 - [Perez makes fresh admission over Verstappen and Alonso Le Mans dream](https://www.gpblog.com/en/news/perez-makes-fresh-admission-over-verstappen-and-alonso-le-mans-dream) — GPblog｜要確認｜2026-11-26T18:56:00+00:00 UTC｜feed_published
 - [Rushbrook: Ford GT41 Name Builds on Company’s Lineage](https://sportscar365.com/lemans/wec/rushbrook-ford-gt41-name-builds-on-companys-lineage) — Sportscar365｜要確認｜2026-11-26T18:01:45+00:00 UTC｜feed_published
+- [Toyota Claims Maiden GT4 Manufacturer Ranking Crown](https://www.dailysportscar.com/2026/11/27/toyota-claims-maiden-gt4-manufacturer-ranking-crown.html) — DailySportscar｜要確認｜2026-11-27T09:42:57+00:00 UTC｜feed_published
 - [Trulli Savors “Amazing” First Year as PMAP Selected Driver](https://sportscar365.com/lemans/elms/trulli-basks-in-amazing-first-year-as-pmap-selected-driver) — Sportscar365｜要確認｜2026-11-27T06:20:28+00:00 UTC｜feed_published
 - [WEC: Ford presenta la GT41, l’eredità della GT40 nella nuova Hypercar per Le Mans](https://autoracer.it/wec-ford-presenta-la-gt41-leredita-della-gt40-nella-nuova-hypercar-per-le-mans) — AutoRacer｜要確認｜2026-11-26T18:00:13+00:00 UTC｜feed_published
 - [Watch ‘Hyper Trip: Go Like Hell’ as Ford GT41 Launches](https://sportscar365.com/lemans/wec/watch-hyper-trip-go-like-hell-as-ford-gt41-launches) — Sportscar365｜要確認｜2026-11-26T18:00:05+00:00 UTC｜feed_published
