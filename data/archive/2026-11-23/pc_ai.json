@@ -5376,6 +5376,58 @@
           "title": "File-to-File LLM Quantization - AMD Quark"
         }
       ]
+    },
+    {
+      "id": "970b0c280c7ad1662c3886c1",
+      "topic": "ai",
+      "title": "ERNIE 5.5 Flash Preview - Intelligence, Performance & Price Analysis - Artificial Analysis",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IWUd5T1FqWlBQVkpnNDd0STNpUldPZ3c4N2hYTloyZFpLdU5keExKT2QwaG1UN0p5OXRHRlI0bVVyY3A1STNFcW1fMk5Ed3NnVHBCUmxySjVlajJnbm1Qa3l3?oc=5",
+      "source": "Artificial Analysis",
+      "publisher": "Artificial Analysis",
+      "description": "ERNIE 5.5 Flash Preview - Intelligence, Performance & Price Analysis Artificial Analysis",
+      "published_utc": "2026-11-23T08:00:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IWUd5T1FqWlBQVkpnNDd0STNpUldPZ3c4N2hYTloyZFpLdU5keExKT2QwaG1UN0p5OXRHRlI0bVVyY3A1STNFcW1fMk5Ed3NnVHBCUmxySjVlajJnbm1Qa3l3?oc=5",
+          "source": "Artificial Analysis",
+          "publisher": "Artificial Analysis",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T08:00:00+00:00",
+          "title": "ERNIE 5.5 Flash Preview - Intelligence, Performance & Price Analysis - Artificial Analysis"
+        }
+      ]
+    },
+    {
+      "id": "b221e08ebf4e4aefc43b69e7",
+      "topic": "ai",
+      "title": "ERNIE 5.5 Flash Preview：智能、性能与价格分析 - Artificial Analysis",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05SDNhOXl3ZVQtX0RhR1hvTEJxRlFfRG5XWWVHSWZDSmlGYmJzanBhWTJ0bUR6VGhDbmk5VnNQZ3ByNnFVSWE0ekFOalJFTVo2eXg5NnM4ZTM4OFZyZUZQLVpaM0JEUQ?oc=5",
+      "source": "Artificial Analysis",
+      "publisher": "Artificial Analysis",
+      "description": "ERNIE 5.5 Flash Preview：智能、性能与价格分析 Artificial Analysis",
+      "published_utc": "2026-11-23T08:00:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05SDNhOXl3ZVQtX0RhR1hvTEJxRlFfRG5XWWVHSWZDSmlGYmJzanBhWTJ0bUR6VGhDbmk5VnNQZ3ByNnFVSWE0ekFOalJFTVo2eXg5NnM4ZTM4OFZyZUZQLVpaM0JEUQ?oc=5",
+          "source": "Artificial Analysis",
+          "publisher": "Artificial Analysis",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T08:00:00+00:00",
+          "title": "ERNIE 5.5 Flash Preview：智能、性能与价格分析 - Artificial Analysis"
+        }
+      ]
     }
   ],
   "date_unknown": [],

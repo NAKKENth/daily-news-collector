@@ -1118,27 +1118,26 @@
     {
       "id": "8ab6e2a02962a63843f6e325",
       "topic": "racing_games",
-      "title": "RallyPortugal 2 Stages 0.7 ready! 0.9.pak - overtake.gg",
+      "title": "RallyPortugal 2 Stages 0.7 ready! - Reviews - overtake.gg",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQnlLQkQ5MFAyckx0MjR0N004Umd2YmtPcnh6V1hvS1RFNmpLb01wU1lrd2wyYmtRZmNheFMtQS1HUUN2RzM4bFJ2Vy02ekpBRl94NnEzY0tiVkVpcW1FQXFQanVOV3A0d2JOVi1zTFkxQmJvNWstQVMtMVFTSjQ2R2lmcklVdjQ?oc=5",
       "source": "OverTake",
       "publisher": "overtake.gg",
-      "description": "RallyPortugal 2 Stages 0.7 ready! 0.9.pak overtake.gg",
-      "published_utc": "2026-11-25T21:34:12+00:00",
+      "description": "RallyPortugal 2 Stages 0.7 ready! - Reviews overtake.gg",
+      "published_utc": "2026-11-25T21:49:37+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
-      "possible_event_id": "b32672d2b477",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQnlLQkQ5MFAyckx0MjR0N004Umd2YmtPcnh6V1hvS1RFNmpLb01wU1lrd2wyYmtRZmNheFMtQS1HUUN2RzM4bFJ2Vy02ekpBRl94NnEzY0tiVkVpcW1FQXFQanVOV3A0d2JOVi1zTFkxQmJvNWstQVMtMVFTSjQ2R2lmcklVdjQ?oc=5",
           "source": "OverTake",
           "publisher": "overtake.gg",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T21:34:12+00:00",
-          "title": "RallyPortugal 2 Stages 0.7 ready! 0.9.pak - overtake.gg"
+          "published_utc": "2026-11-25T21:49:37+00:00",
+          "title": "RallyPortugal 2 Stages 0.7 ready! - Reviews - overtake.gg"
         }
       ]
     },
@@ -1954,7 +1953,6 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
-      "possible_event_id": "b32672d2b477",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4S2lTSkZzbktaamJCZy1Zek5ZMHNGZ3JoWVl5UHFKRlRHVzNYTGEzTlhVYy15V3BiNkdyVWx1d3NhYVh3Q1ptOV9GUmU4UjJwZldocmlrUkFVZk85MWc5RzlUeW9sMlA5SVlyNHdKOFB6d2d3Q0pyX3huZ3RQdw?oc=5",
@@ -3715,32 +3713,6 @@
       ]
     },
     {
-      "id": "4f1a2a8465d7546b85dcadcc",
-      "topic": "racing_games",
-      "title": "The FIRM 2026 (EKWSTORE.COM) 8.0 - overtake.gg",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42a1ljTUh0V2RDZWpWWG5pUnVlZ091a1Q1MWRuOG1NRi1pX0xRb25WWWx6bUxVeVJRNVFqeFJTMzhvZXRsaENnVVpOOXFITTRUQlhFQnF5N0NMWkx5Wk42eVRhSmxHS2VnUFJ4YWdvVDBhSFRtLVE?oc=5",
-      "source": "OverTake",
-      "publisher": "overtake.gg",
-      "description": "The FIRM 2026 (EKWSTORE.COM) 8.0 overtake.gg",
-      "published_utc": "2026-11-26T00:24:59+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42a1ljTUh0V2RDZWpWWG5pUnVlZ091a1Q1MWRuOG1NRi1pX0xRb25WWWx6bUxVeVJRNVFqeFJTMzhvZXRsaENnVVpOOXFITTRUQlhFQnF5N0NMWkx5Wk42eVRhSmxHS2VnUFJ4YWdvVDBhSFRtLVE?oc=5",
-          "source": "OverTake",
-          "publisher": "overtake.gg",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T00:24:59+00:00",
-          "title": "The FIRM 2026 (EKWSTORE.COM) 8.0 - overtake.gg"
-        }
-      ]
-    },
-    {
       "id": "78faaba90fb441a653e76f31",
       "topic": "racing_games",
       "title": "Toronto ICR2 1.0 - overtake.gg",
@@ -3843,14 +3815,197 @@
           "title": "Arctic Drive on Steam - Steam"
         }
       ]
+    },
+    {
+      "id": "9816a1cf1b4f9d200decfbc1",
+      "topic": "racing_games",
+      "title": "The GTA VI Vice City 200 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Ncm1VUEFPdnV1U1hFTE5UM25XcWhzUHgtTXRuQm9ab29acGlpZjRJQWk3Mm5ud0RTem9Cd09SZ09tVl9vWlpYcG9TTmVfdUR6ekM5SllUSjhKalFnLVVvM0U1SVRlb3JSeEFLZVRLWW50Zw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "The GTA VI Vice City 200 overtake.gg",
+      "published_utc": "2026-11-25T16:30:01+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Ncm1VUEFPdnV1U1hFTE5UM25XcWhzUHgtTXRuQm9ab29acGlpZjRJQWk3Mm5ud0RTem9Cd09SZ09tVl9vWlpYcG9TTmVfdUR6ekM5SllUSjhKalFnLVVvM0U1SVRlb3JSeEFLZVRLWW50Zw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T16:30:01+00:00",
+          "title": "The GTA VI Vice City 200 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "490b8388f30861b758496dbc",
+      "topic": "racing_games",
+      "title": "Instant Race [Swofty Addon] - Skip the Menus, Race in Seconds v1.0.8 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeHZxa1AySmNoUHlLdHNrRkNLd19BM0ZEdDlEckNFTGtaS1gyZW40ZTk3NWtzS0ZqMHltNFNpVzJyOTlhU3dqY0ZOUmYyMmowOVBLWFUyc2xmRG01OUhkOFZEWENMLThkQTJnLWl6QjJKNVhvRWpFSVpHdlc1eFVrQ2F4NENvMHVqQkE0dGJ5eXpPWnFSdk5IS2pHSXJfdw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Instant Race [Swofty Addon] - Skip the Menus, Race in Seconds v1.0.8 overtake.gg",
+      "published_utc": "2026-11-25T22:46:26+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeHZxa1AySmNoUHlLdHNrRkNLd19BM0ZEdDlEckNFTGtaS1gyZW40ZTk3NWtzS0ZqMHltNFNpVzJyOTlhU3dqY0ZOUmYyMmowOVBLWFUyc2xmRG01OUhkOFZEWENMLThkQTJnLWl6QjJKNVhvRWpFSVpHdlc1eFVrQ2F4NENvMHVqQkE0dGJ5eXpPWnFSdk5IS2pHSXJfdw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T22:46:26+00:00",
+          "title": "Instant Race [Swofty Addon] - Skip the Menus, Race in Seconds v1.0.8 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "a2b6e3e910b3d7d48ecb647e",
+      "topic": "racing_games",
+      "title": "EVO Pitwall — a career layer for Assetto Corsa EVO 0.1.110 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmtmNFg5SWFvRmlHNDY0dFIyaHFYN21fUHlLTEhVU1lWYWdmLXJ4TUQwU2lvdERQU0hmQ0V1VmdWSGNVMEJFTkI1dmVhdmpqVUk5UlFNT1FxYUtRci1sRjFRVnROT3BZVEhYUktlSVNqWldhTTR0Y2JhdlYzR0RwYTBmaXVWWGxmR2xUcnJCN0N4X09rQVluOTVXbkZRM2Fn?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "EVO Pitwall — a career layer for Assetto Corsa EVO 0.1.110 overtake.gg",
+      "published_utc": "2026-11-25T18:07:24+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmtmNFg5SWFvRmlHNDY0dFIyaHFYN21fUHlLTEhVU1lWYWdmLXJ4TUQwU2lvdERQU0hmQ0V1VmdWSGNVMEJFTkI1dmVhdmpqVUk5UlFNT1FxYUtRci1sRjFRVnROT3BZVEhYUktlSVNqWldhTTR0Y2JhdlYzR0RwYTBmaXVWWGxmR2xUcnJCN0N4X09rQVluOTVXbkZRM2Fn?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T18:07:24+00:00",
+          "title": "EVO Pitwall — a career layer for Assetto Corsa EVO 0.1.110 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "6465ebc319d588cccee8c08b",
+      "topic": "racing_games",
+      "title": "rFuktor2 - Eddie de Beer & Friends Tribute - R12 Natural Tire - Reviews - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX2xMQnFoRTNJMEdmMzhLRFhTNFpacUx1T1kxS25UamQzQkhOVmF2SFgzaUtvLUIzQndXblNBZEU2bHM2Nm9lbGk1bGlYVTB1eUlsOXVwd2JyemxMWjVxUWJCZ2llTlVPaVRwcXFpQkE0TU1QVmZlb0dQakhjZUYtWG4wM2hjRkpZbFRzVXlJNVVtazJXdkRVV2tQRk9VZVlhRjJSbDYya3BkXzFRSGZv?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "rFuktor2 - Eddie de Beer & Friends Tribute - R12 Natural Tire - Reviews overtake.gg",
+      "published_utc": "2026-11-26T04:18:22+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX2xMQnFoRTNJMEdmMzhLRFhTNFpacUx1T1kxS25UamQzQkhOVmF2SFgzaUtvLUIzQndXblNBZEU2bHM2Nm9lbGk1bGlYVTB1eUlsOXVwd2JyemxMWjVxUWJCZ2llTlVPaVRwcXFpQkE0TU1QVmZlb0dQakhjZUYtWG4wM2hjRkpZbFRzVXlJNVVtazJXdkRVV2tQRk9VZVlhRjJSbDYya3BkXzFRSGZv?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T04:18:22+00:00",
+          "title": "rFuktor2 - Eddie de Beer & Friends Tribute - R12 Natural Tire - Reviews - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "900a9d99461b3e77fcffb34e",
+      "topic": "racing_games",
+      "title": "Driver Visor - Extra info - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONnUwNFh2M0Q1N2NxSW9qNzRzU3owdGduaVc2M0ItLWF2WVE4c2JuTE5IcklPejN1MzZLTVBDZjFLWjZkeXNZZEx2MkRMaHVRdU0yNW5mRGRjakZHZGZIRnNvODYwS0VNUkRZQzMwVXhLM1R3blV2OXlDZlhOUXlvSA?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Driver Visor - Extra info overtake.gg",
+      "published_utc": "2026-11-25T19:27:42+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONnUwNFh2M0Q1N2NxSW9qNzRzU3owdGduaVc2M0ItLWF2WVE4c2JuTE5IcklPejN1MzZLTVBDZjFLWjZkeXNZZEx2MkRMaHVRdU0yNW5mRGRjakZHZGZIRnNvODYwS0VNUkRZQzMwVXhLM1R3blV2OXlDZlhOUXlvSA?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T19:27:42+00:00",
+          "title": "Driver Visor - Extra info - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "820e12aa7b25b081f4b1e84c",
+      "topic": "racing_games",
+      "title": "Historical Weather - History - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMaXd5RFlUaVRrLWxXb0pRbV82b3AyR1dENW8tNGZKZkFQa0hONnJkdGk0a05ENDlYRDNweHl6SEFGM0NlblNNMDVQYy1PcmxsQ0NmOFFUa25PX3NvczFrVDF2Qjl1UWxuZGMxcEl0SlFBUzV1?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Historical Weather - History overtake.gg",
+      "published_utc": "2026-11-26T12:34:24+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMaXd5RFlUaVRrLWxXb0pRbV82b3AyR1dENW8tNGZKZkFQa0hONnJkdGk0a05ENDlYRDNweHl6SEFGM0NlblNNMDVQYy1PcmxsQ0NmOFFUa25PX3NvczFrVDF2Qjl1UWxuZGMxcEl0SlFBUzV1?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:34:24+00:00",
+          "title": "Historical Weather - History - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "8cd83658f33c0924ee083f39",
+      "topic": "racing_games",
+      "title": "Mandalika Circuit (Work in Progress) - Extra info - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeERrcmc5dTFZa2lLVXFMSTdBUXI5Sm5MNE9PSjgteWhzYTdqalN3ZVpGZUJUVXpaRC1vV0NiNEo4bW1JUE9qYW1SV29vb2w4cUNmMVJybmdmcnlVMVc5RUNid1Rid0EwZ0JUcmQ3UXN4WjE5aFV6VlJzUDduVUhBeDkyRHFUVVJrOWFWUUFfU1VZMkVjbDhUcGk1ay1fUQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Mandalika Circuit (Work in Progress) - Extra info overtake.gg",
+      "published_utc": "2026-11-26T09:17:48+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeERrcmc5dTFZa2lLVXFMSTdBUXI5Sm5MNE9PSjgteWhzYTdqalN3ZVpGZUJUVXpaRC1vV0NiNEo4bW1JUE9qYW1SV29vb2w4cUNmMVJybmdmcnlVMVc5RUNid1Rid0EwZ0JUcmQ3UXN4WjE5aFV6VlJzUDduVUhBeDkyRHFUVVJrOWFWUUFfU1VZMkVjbDhUcGk1ay1fUQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T09:17:48+00:00",
+          "title": "Mandalika Circuit (Work in Progress) - Extra info - overtake.gg"
+        }
+      ]
     }
   ],
   "date_unknown": [],
   "health": {
-    "partial": 8,
-    "ok": 16,
-    "empty": 9,
-    "skipped": 8,
+    "deferred": 6,
+    "partial": 6,
+    "ok": 12,
+    "empty": 8,
+    "skipped": 9,
     "manual": 4
   }
 }

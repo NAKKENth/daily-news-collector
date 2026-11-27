@@ -2456,32 +2456,6 @@
       "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
-      "id": "6801ef41e9123b8e7d6c7643",
-      "topic": "racing_games",
-      "title": "McLaren MCL39 Sound for Assetto Corsa 1.0.2 - overtake.gg",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEx2ZzRnT0RCQXhSV3Q0LXFRQXpKNEk5MkRuMGhlUDlpZzZZN19EZzhTVXdNZ2JxWnEyenhxd3Y2bFZYZUlpSmFJRTBYczRFR0d1b3Vaa3E3MzRqQll6em5XSmVCUDdMRjZNdEw0Rml3Q3U3OVlLVFFJeHI0aEFSc1lMUFE?oc=5",
-      "source": "OverTake",
-      "publisher": "overtake.gg",
-      "description": "McLaren MCL39 Sound for Assetto Corsa 1.0.2 overtake.gg",
-      "published_utc": "2026-11-23T17:37:06+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "レースゲーム候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEx2ZzRnT0RCQXhSV3Q0LXFRQXpKNEk5MkRuMGhlUDlpZzZZN19EZzhTVXdNZ2JxWnEyenhxd3Y2bFZYZUlpSmFJRTBYczRFR0d1b3Vaa3E3MzRqQll6em5XSmVCUDdMRjZNdEw0Rml3Q3U3OVlLVFFJeHI0aEFSc1lMUFE?oc=5",
-          "source": "OverTake",
-          "publisher": "overtake.gg",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T17:37:06+00:00",
-          "title": "McLaren MCL39 Sound for Assetto Corsa 1.0.2 - overtake.gg"
-        }
-      ]
-    },
-    {
       "id": "94c39bc680e089a50e9a7250",
       "topic": "racing_games",
       "title": "BMW M Motorsport 2026 Team Pack by lurz r3 - overtake.gg",
@@ -4040,6 +4014,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T08:00:00+00:00",
           "title": "Aeterna: Curse of The First King - Steam"
+        }
+      ]
+    },
+    {
+      "id": "b5c0702b11cbe7ff83440456",
+      "topic": "racing_games",
+      "title": "Hyundai I20 ( Rally 1 livery adaptation Monte Carlo 2026) 2.02 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQXzVtX25kV2ZRRVcwVXZWY3o4M1FDWEtTZmROQk9kYlhvdUd5MTdLLV8xSFk0dzg3U3kzNEVVRUF3Y2FDeGZ2NnhCWkl4azNYbjUyXzFpRHN0RzNLVzhTQTY1cW9WYkJmbERWa2FWcUk4dEZqa2JiSVhCanItTnJmOGhFZUJILW5HTmwxWU5Od1BPWnhxQ3dJcDdsSQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Hyundai I20 ( Rally 1 livery adaptation Monte Carlo 2026) 2.02 overtake.gg",
+      "published_utc": "2026-11-24T14:34:38+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQXzVtX25kV2ZRRVcwVXZWY3o4M1FDWEtTZmROQk9kYlhvdUd5MTdLLV8xSFk0dzg3U3kzNEVVRUF3Y2FDeGZ2NnhCWkl4azNYbjUyXzFpRHN0RzNLVzhTQTY1cW9WYkJmbERWa2FWcUk4dEZqa2JiSVhCanItTnJmOGhFZUJILW5HTmwxWU5Od1BPWnhxQ3dJcDdsSQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T14:34:38+00:00",
+          "title": "Hyundai I20 ( Rally 1 livery adaptation Monte Carlo 2026) 2.02 - overtake.gg"
         }
       ]
     }

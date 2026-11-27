@@ -3961,6 +3961,58 @@
           "title": "Effect Audio Perseus - Head-Fi.org"
         }
       ]
+    },
+    {
+      "id": "8705f3093b6fa0dca66ee3c3",
+      "topic": "wired",
+      "title": "e☆イヤホン × Hi-Unit、“新しい定番”を目指した有線イヤホン「EENE」。USB-C変換アダプターを標準付属",
+      "url": "http://www.phileweb.com/news/d-av/202611/27/66465.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "（株）タイムマシンは、同社が運営するイヤホン／ヘッドホン専門店「e☆イヤホン」とHi-Unitが共同開発した有線イヤホン「EENE（イーネ）」を、12月12日（土）に発売する。市場想定価格は11,000円（税込）。",
+      "published_utc": "2026-11-26T03:40:40+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/d-av/202611/27/66465.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T03:40:40+00:00",
+          "title": "e☆イヤホン × Hi-Unit、“新しい定番”を目指した有線イヤホン「EENE」。USB-C変換アダプターを標準付属"
+        }
+      ]
+    },
+    {
+      "id": "803552a3a27a242067f43382",
+      "topic": "wired",
+      "title": "EFFECT AUDIO、qdcとコラボした15ドライバー／トライブリッドイヤホン「SOVEREIGN」。ケーブルも専用設計",
+      "url": "http://www.phileweb.com/news/d-av/202611/27/66480.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "（株）タイムマシンは、シンガポールEFFECT AUDIOとqdcのコラボレーションイヤホン「SOVEREIGN（ソブリン）」を12月9日（水）に発売する。世界200台／日本国内20台限定モデルとなる。",
+      "published_utc": "2026-11-26T13:17:09+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/d-av/202611/27/66480.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T13:17:09+00:00",
+          "title": "EFFECT AUDIO、qdcとコラボした15ドライバー／トライブリッドイヤホン「SOVEREIGN」。ケーブルも専用設計"
+        }
+      ]
     }
   ],
   "date_unknown": [
@@ -4026,9 +4078,9 @@
     }
   ],
   "health": {
-    "partial": 19,
-    "ok": 11,
-    "deferred": 6,
+    "partial": 16,
+    "ok": 8,
+    "deferred": 12,
     "empty": 1,
     "skipped": 5,
     "manual": 2

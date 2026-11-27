@@ -2195,6 +2195,32 @@
       ]
     },
     {
+      "id": "6801ef41e9123b8e7d6c7643",
+      "topic": "racing_games",
+      "title": "McLaren MCL39 Sound for Assetto Corsa 1.0.2 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEx2ZzRnT0RCQXhSV3Q0LXFRQXpKNEk5MkRuMGhlUDlpZzZZN19EZzhTVXdNZ2JxWnEyenhxd3Y2bFZYZUlpSmFJRTBYczRFR0d1b3Vaa3E3MzRqQll6em5XSmVCUDdMRjZNdEw0Rml3Q3U3OVlLVFFJeHI0aEFSc1lMUFE?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "McLaren MCL39 Sound for Assetto Corsa 1.0.2 overtake.gg",
+      "published_utc": "2026-11-25T11:59:02+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEx2ZzRnT0RCQXhSV3Q0LXFRQXpKNEk5MkRuMGhlUDlpZzZZN19EZzhTVXdNZ2JxWnEyenhxd3Y2bFZYZUlpSmFJRTBYczRFR0d1b3Vaa3E3MzRqQll6em5XSmVCUDdMRjZNdEw0Rml3Q3U3OVlLVFFJeHI0aEFSc1lMUFE?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T11:59:02+00:00",
+          "title": "McLaren MCL39 Sound for Assetto Corsa 1.0.2 - overtake.gg"
+        }
+      ]
+    },
+    {
       "id": "d79b3bb4e1c7d6c19a038496",
       "topic": "racing_games",
       "title": "rFuktor2 - Eddie de Beer & Friends Tribute - R12 Natural Tire 1.0 - overtake.gg",
@@ -6072,6 +6098,58 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T01:15:25+00:00",
           "title": "VRC Formula Alpha 2026 Skin - LRT Golden Arrows - 72 Gabriel Pietro 1.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "f6c656b0882b2fdec336f1da",
+      "topic": "racing_games",
+      "title": "Startlight sound 1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0YldNUGNSQmVDVVpyN21zZVdhZ0Q4WFdwTDJfQ05PZk9JNjlfNnctTjRoTjlOLVgzVnIwemw1SHhaZENvUTJ3c2ppX28tcW9sTkFNa2dGTGpMczFtMWZyYWpjazNIVVpi?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Startlight sound 1 overtake.gg",
+      "published_utc": "2026-11-25T10:55:45+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0YldNUGNSQmVDVVpyN21zZVdhZ0Q4WFdwTDJfQ05PZk9JNjlfNnctTjRoTjlOLVgzVnIwemw1SHhaZENvUTJ3c2ppX28tcW9sTkFNa2dGTGpMczFtMWZyYWpjazNIVVpi?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T10:55:45+00:00",
+          "title": "Startlight sound 1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "441fb89fa73568cb0a2e2bd0",
+      "topic": "racing_games",
+      "title": "Hyundai Rally 2 Lucas Darmezin 2026 2026-11-24 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV3N5LS15eWV6dUg2ekJ3a3NQcGd4c0RFcjRvdFRuTTE2cnUxWlFWZkhZNzhJZDFqZkpZNDZPNXctdFpkRVNTcDR3UzBxV3RGLVBjc1hTY2tPZzdMMWdZSGNES040WTVuUVJQOHNOVVVhY3ZPc1F4VHIxdFBxNi1wQ25R?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Hyundai Rally 2 Lucas Darmezin 2026 2026-11-24 overtake.gg",
+      "published_utc": "2026-11-24T21:31:30+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV3N5LS15eWV6dUg2ekJ3a3NQcGd4c0RFcjRvdFRuTTE2cnUxWlFWZkhZNzhJZDFqZkpZNDZPNXctdFpkRVNTcDR3UzBxV3RGLVBjc1hTY2tPZzdMMWdZSGNES040WTVuUVJQOHNOVVVhY3ZPc1F4VHIxdFBxNi1wQ25R?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T21:31:30+00:00",
+          "title": "Hyundai Rally 2 Lucas Darmezin 2026 2026-11-24 - overtake.gg"
         }
       ]
     }

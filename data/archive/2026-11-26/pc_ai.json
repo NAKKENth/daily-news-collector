@@ -370,6 +370,32 @@
       ]
     },
     {
+      "id": "be5319ac27fa963840c3ad0e",
+      "topic": "pc",
+      "title": "GIGABYTE and Newegg Bring \"AORUS VS40\" to Southern California in November 2026",
+      "url": "https://www.techpowerup.com/355019/gigabyte-and-newegg-bring-aorus-vs40-to-southern-california-in-november-2026",
+      "source": "TechPowerUp",
+      "publisher": "TechPowerUp",
+      "description": "GIGABYTE and Newegg will host AORUS VS40 at the Newegg Gamer Zone in City of Industry, California, on Saturday, November 21, 2026, from 11 a.m. to 4 p.m. PST. The event invites local collegiate PC gamers and hardware enthusiasts to celebrate 40 years of GIGABYTE by putting their skills to the test on the tournament floor and at gaming stations thro",
+      "published_utc": "2026-11-26T08:52:49+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.techpowerup.com/355019/gigabyte-and-newegg-bring-aorus-vs40-to-southern-california-in-november-2026",
+          "source": "TechPowerUp",
+          "publisher": "TechPowerUp",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T08:52:49+00:00",
+          "title": "GIGABYTE and Newegg Bring \"AORUS VS40\" to Southern California in November 2026"
+        }
+      ]
+    },
+    {
       "id": "8ae4f83c7a6573d58f2f2e9d",
       "topic": "pc",
       "title": "Max Out Your Gen 4 Slot: Predator GM7 NVMe SSD (Up to 7400 MB/s)",
@@ -377,7 +403,7 @@
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
       "description": "If you've been waiting for the Black Friday sales to upgrade your rig, expand your PS5 storage, or give your laptop a massive speed boost, the award-winning Predator GM7 PCIe 4.0 SSD is built to deliver top-tier performance without the top-tier heat. Powered by the highly efficient Maxio MAP1602 controller and fast 3D TLC NAND flash, this award-win",
-      "published_utc": "2026-11-26T08:52:49+00:00",
+      "published_utc": "2026-11-26T05:39:31+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
@@ -390,7 +416,7 @@
           "source": "TechPowerUp",
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-26T08:52:49+00:00",
+          "published_utc": "2026-11-26T05:39:31+00:00",
           "title": "Max Out Your Gen 4 Slot: Predator GM7 NVMe SSD (Up to 7400 MB/s)"
         }
       ]
@@ -3187,9 +3213,9 @@
       "description": "As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.",
       "published_utc": "2026-11-25T17:28:29+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -3197,11 +3223,15 @@
           "url": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T17:28:29+00:00",
           "title": "X’s latest update for creators focuses on vertical video"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T17:28:29+00:00",
+      "article_modified_raw": "2026-11-25T17:45:46+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "6fcf95d1571cff03c27d9b9a",
@@ -3213,9 +3243,9 @@
       "description": "Users can schedule messages from 10 minutes later to after 14 days.",
       "published_utc": "2026-11-25T16:57:51+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -3223,11 +3253,15 @@
           "url": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T16:57:51+00:00",
           "title": "WhatsApp now lets you schedule messages in group and individual chats"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T16:57:51+00:00",
+      "article_modified_raw": "2026-11-25T17:26:58+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "e5ba1dace776cad96a2b17e2",
@@ -3470,16 +3504,16 @@
     {
       "id": "cfe5c5f83eb04934106aac87",
       "topic": "pc",
-      "title": "Fable GM Ralph Fulton on Hayley Atwell: “She Saw Something in Isabel’s Character”; Says Developer Playground Wanted to Represent Modern Britain with Its Racially Diverse Cast",
+      "title": "Fable GM Ralph Fulton on Hayley Atwell: &#8220;She Saw Something in Isabel&#8217;s Character&#8221;; Says Developer Playground Wanted to Represent Modern Britain with Its Racially Diverse Cast",
       "url": "https://wccftech.com/fable-playground-games-modern-britain-diverse-cast-hayley-atwell",
       "source": "Wccftech",
       "publisher": "Wccftech",
-      "description": "The long-awaited Fable reboot is now less than three months from its final (fingers crossed) launch date, and Playground Games Co-Founder and Fable General Manager Ralph Fulton has talked about the project in a fresh interview with GamesIndustry.biz. Fulton admits that it was kind of crazy of them to jump into a whole different genre, with a brand-",
+      "description": "With less than three months left before Fable's launch, Playground General Manager Ralph Fulton discussed the cast and voice acting.",
       "published_utc": "2026-11-25T19:30:00+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -3487,11 +3521,15 @@
           "url": "https://wccftech.com/fable-playground-games-modern-britain-diverse-cast-hayley-atwell",
           "source": "Wccftech",
           "publisher": "Wccftech",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T19:30:00+00:00",
-          "title": "Fable GM Ralph Fulton on Hayley Atwell: “She Saw Something in Isabel’s Character”; Says Developer Playground Wanted to Represent Modern Britain with Its Racially Diverse Cast"
+          "title": "Fable GM Ralph Fulton on Hayley Atwell: &#8220;She Saw Something in Isabel&#8217;s Character&#8221;; Says Developer Playground Wanted to Represent Modern Britain with Its Racially Diverse Cast"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T19:30:00+00:00",
+      "article_modified_raw": "2026-11-25T19:30:45+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "f7845fd05e64bdcf13ec09f1",
@@ -3608,12 +3646,12 @@
       "url": "https://wccftech.com/china-japan-and-south-korea-prioritize-high-end-ai-infrastructure",
       "source": "Wccftech",
       "publisher": "Wccftech",
-      "description": "The AI boom is already reshaping the consumer hardware market, but a growing race for high-end PCB could further apply more pressure on the GPUs and other PC components. The AI Demand is Driving a New PCB Race That Could Impact Consumer Hardware, Reports Taiwan Printed Circuit Association Last month's report by Nikkei Asia suggested that the hardwa",
+      "description": "AI demand is driving a PCB supply race, potentially increasing hardware costs; China's PCB output could reach $47.71B in 2026, with major impacts on GPUs.",
       "published_utc": "2026-11-25T15:42:32+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -3621,11 +3659,15 @@
           "url": "https://wccftech.com/china-japan-and-south-korea-prioritize-high-end-ai-infrastructure",
           "source": "Wccftech",
           "publisher": "Wccftech",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T15:42:32+00:00",
           "title": "AI PCB Race Could Add More Pressure To Consumer Hardware Supply As China, Japan, And South Korea Prioritize High-End AI Infrastructure"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T15:42:32+00:00",
+      "article_modified_raw": "2026-11-25T17:16:33+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "378810fe8fbc759a71ba2ec7",
@@ -4365,11 +4407,11 @@
     {
       "id": "c09f899da844454076362f2c",
       "topic": "pc",
-      "title": "Realme 17 Pro: fuga revela novo módulo de câmaras e 10.000 mAh",
+      "title": "Realme 17 Pro: fuga revela novo módulo de câmaras e 10.000 mAh | TugaTech",
       "url": "https://tugatech.com.pt/t95225-realme-17-pro-fuga-revela-novo-modulo-de-camaras-e-10-000-mah",
       "source": "VideoCardz",
       "publisher": "VideoCardz",
-      "description": "Uma nova fuga de informação mostra o design esperado para o Realme 17 Pro, destacando uma reorganização visual no módulo fotográfico traseiro em duas faixas verticais. As informações mais recentes reforçam ainda a presença de uma bateria de 10.000 mAh com carregamento rápido de 65 W e do processador MediaTek Dimensity 7300, num equipamento apontado",
+      "description": "Uma nova fuga de informação mostra o design esperado para o Realme 17 Pro, destacando uma reorganização visual no módulo fotográfico traseiro em duas faixas ver",
       "published_utc": "2026-11-25T22:46:06+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "source_feed_published",
@@ -4384,9 +4426,13 @@
           "publisher": "VideoCardz",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T22:46:06+00:00",
-          "title": "Realme 17 Pro: fuga revela novo módulo de câmaras e 10.000 mAh"
+          "title": "Realme 17 Pro: fuga revela novo módulo de câmaras e 10.000 mAh | TugaTech"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "35f22c7fd26a7592b5f15e01",
@@ -4443,11 +4489,11 @@
     {
       "id": "40a0cd751b4fc1b0b587ec82",
       "topic": "pc",
-      "title": "WhatsApp estreia agendamento de mensagens entre 10 minutos e 2 semanas",
+      "title": "WhatsApp estreia agendamento de mensagens entre 10 minutos e 2 semanas | TugaTech",
       "url": "https://tugatech.com.pt/t95224-whatsapp-estreia-agendamento-de-mensagens-entre-10-minutos-e-2-semanas",
       "source": "VideoCardz",
       "publisher": "VideoCardz",
-      "description": "O WhatsApp iniciou a disponibilização oficial do agendamento de mensagens para os seus 3 mil milhões de utilizadores, respondendo a uma das ferramentas há mais tempo pedidas na plataforma. A novidade funciona tanto em conversas privadas como em grupos e suporta envios programados entre 10 minutos e duas semanas de antecedência, abrangendo texto, fo",
+      "description": "O WhatsApp iniciou a disponibilização oficial do agendamento de mensagens para os seus 3 mil milhões de utilizadores, respondendo a uma das ferramentas há mais",
       "published_utc": "2026-11-25T22:43:29+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "source_feed_published",
@@ -4462,9 +4508,13 @@
           "publisher": "VideoCardz",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T22:43:29+00:00",
-          "title": "WhatsApp estreia agendamento de mensagens entre 10 minutos e 2 semanas"
+          "title": "WhatsApp estreia agendamento de mensagens entre 10 minutos e 2 semanas | TugaTech"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "6549a8a01313b35ab3660878",
@@ -4499,11 +4549,11 @@
     {
       "id": "e80a8496e8e2b492e1a0b6fa",
       "topic": "pc",
-      "title": "App da Toyota está indisponível e bloqueia comandos remotos",
+      "title": "App da Toyota está indisponível e bloqueia comandos remotos | TugaTech",
       "url": "https://tugatech.com.pt/t95222-app-da-toyota-esta-indisponivel-e-bloqueia-comandos-remotos",
       "source": "VideoCardz",
       "publisher": "VideoCardz",
-      "description": "A aplicação oficial da Toyota atravessa uma falha técnica que impede os proprietários de aceder aos serviços conectados dos seus veículos. De acordo com relatos de condutores e dados da plataforma Downdetector, o serviço registou um pico de 190 notificações de erro face a uma linha de base habitual de zero ocorrências.",
+      "description": "A aplicação oficial da Toyota atravessa uma falha técnica que impede os proprietários de aceder aos serviços conectados dos seus veículos. De acordo com relatos",
       "published_utc": "2026-11-25T22:09:08+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "source_feed_published",
@@ -4518,18 +4568,22 @@
           "publisher": "VideoCardz",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T22:09:08+00:00",
-          "title": "App da Toyota está indisponível e bloqueia comandos remotos"
+          "title": "App da Toyota está indisponível e bloqueia comandos remotos | TugaTech"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "52177d17cbe54a4a8437a31b",
       "topic": "pc",
-      "title": "Amazon e eBay instados a suspender brinquedos com IA para menores",
+      "title": "Amazon e eBay instados a suspender brinquedos com IA para menores | TugaTech",
       "url": "https://tugatech.com.pt/t95221-amazon-e-ebay-instados-a-suspender-brinquedos-com-ia-para-menores",
       "source": "VideoCardz",
       "publisher": "VideoCardz",
-      "description": "Mais de 150 organizações de defesa das crianças e especialistas pediram à Amazon e ao eBay para suspenderem a venda de brinquedos equipados com chatbots de inteligência artificial destinados a menores de 16 anos. Os signatários exigem uma resposta antes do Natal e defendem a retirada destes produtos até que testes independentes comprovem a sua segu",
+      "description": "Mais de 150 organizações de defesa das crianças e especialistas pediram à Amazon e ao eBay para suspenderem a venda de brinquedos equipados com chatbots de inte",
       "published_utc": "2026-11-25T22:07:14+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "source_feed_published",
@@ -4544,18 +4598,22 @@
           "publisher": "VideoCardz",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T22:07:14+00:00",
-          "title": "Amazon e eBay instados a suspender brinquedos com IA para menores"
+          "title": "Amazon e eBay instados a suspender brinquedos com IA para menores | TugaTech"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "19ea1d27f4ef11ac4d9ac544",
       "topic": "pc",
-      "title": "Nvidia acusada de partilhar livros piratas com a Adobe e via BitTorrent",
+      "title": "Nvidia acusada de partilhar livros piratas com a Adobe e via BitTorrent | TugaTech",
       "url": "https://tugatech.com.pt/t95220-nvidia-acusada-de-partilhar-livros-piratas-com-a-adobe-e-via-bittorrent",
       "source": "VideoCardz",
       "publisher": "VideoCardz",
-      "description": "A Nvidia enfrenta uma nova fase na ação coletiva movida por escritores num tribunal federal da Califórnia, após a submissão de uma queixa alterada que coloca a distribuição de obras protegidas no centro do litígio. Liderado por autores como Abdi Nazemian e Susan Orlean, o processo acusa a fabricante de treinar modelos de inteligência artificial com",
+      "description": "A Nvidia enfrenta uma nova fase na ação coletiva movida por escritores num tribunal federal da Califórnia, após a submissão de uma queixa alterada que coloca a",
       "published_utc": "2026-11-25T21:55:13+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "source_feed_published",
@@ -4570,18 +4628,22 @@
           "publisher": "VideoCardz",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T21:55:13+00:00",
-          "title": "Nvidia acusada de partilhar livros piratas com a Adobe e via BitTorrent"
+          "title": "Nvidia acusada de partilhar livros piratas com a Adobe e via BitTorrent | TugaTech"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "2d1203617c6ecf6bb886fbef",
       "topic": "pc",
-      "title": "SpaceX obtém luz verde condicional para 1 milhão de satélites de IA",
+      "title": "SpaceX obtém luz verde condicional para 1 milhão de satélites de IA | TugaTech",
       "url": "https://tugatech.com.pt/t95219-spacex-obtem-luz-verde-condicional-para-1-milhao-de-satelites-de-ia",
       "source": "VideoCardz",
       "publisher": "VideoCardz",
-      "description": "A Comissão Federal de Comunicações (FCC) dos Estados Unidos concedeu esta quarta-feira aprovação condicional à SpaceX para lançar e operar a constelação Starmind, um sistema de até 1 milhão de satélites dedicados a centros de dados orbitais de inteligência artificial. A decisão representa um avanço regulatório relevante para os planos de Elon Musk,",
+      "description": "A Comissão Federal de Comunicações (FCC) dos Estados Unidos concedeu esta quarta-feira aprovação condicional à SpaceX para lançar e operar a constelação Starmin",
       "published_utc": "2026-11-25T21:50:28+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "source_feed_published",
@@ -4596,9 +4658,13 @@
           "publisher": "VideoCardz",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T21:50:28+00:00",
-          "title": "SpaceX obtém luz verde condicional para 1 milhão de satélites de IA"
+          "title": "SpaceX obtém luz verde condicional para 1 milhão de satélites de IA | TugaTech"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "8083a6ae5ca338af9e8889d1",
@@ -5794,9 +5860,9 @@
       "description": "バッファローは11月26日、5ポート2.5Gbps対応のスイッチングハブ「LSW-2G5」を順次発売する。価格はオープンプライス。",
       "published_utc": "2026-11-26T08:54:43+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -5804,11 +5870,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159638.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T08:54:43+00:00",
           "title": "バッファロー、全5ポートが2.5Gbps対応のファンレススイッチングハブ"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T17:54:43+09:00",
+      "article_modified_raw": "2026-11-26T18:01:52+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "0ff08d3285293576296fd7b7",
@@ -8501,16 +8571,16 @@
     {
       "id": "76726391521732e8adf8e29a",
       "topic": "pc",
-      "title": "Elon Musk Offered To Guarantee Financing For Samsung’s Upcoming Chip Fab, But Chairman Lee Jae-yong Replied ‘We Get That Offer From Everyone’",
+      "title": "Elon Musk Offered To Guarantee Financing For Samsung&#8217;s Upcoming Chip Fab, But Chairman Lee Jae-yong Replied &#8216;We Get That Offer From Everyone&#8217;",
       "url": "https://wccftech.com/elon-musk-offered-to-guarantee-financing-for-samsungs-upcoming-chip-fab-but-chairman-lee-jae-yong-replied-we-get-that-offer-from-everyone",
       "source": "Wccftech",
       "publisher": "Wccftech",
-      "description": "When Elon Musk suddenly unloaded on Samsung while praising Micron back in October, nearly everyone was caught off-guard. Now, we finally know what sparked his harsh reaction—and it all comes down to a tense meeting between Samsung Chairman Lee Jae-yong and the CEO of Tesla and SpaceX. A tense meeting explains why Elon Musk suddenly turned on Samsun",
+      "description": "Elon Musk says Samsung chairman Lee Jae-yong waved off both his long-term memory deal pitch and his offer to back fab financing.",
       "published_utc": "2026-11-26T14:05:01+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -8518,11 +8588,15 @@
           "url": "https://wccftech.com/elon-musk-offered-to-guarantee-financing-for-samsungs-upcoming-chip-fab-but-chairman-lee-jae-yong-replied-we-get-that-offer-from-everyone",
           "source": "Wccftech",
           "publisher": "Wccftech",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T14:05:01+00:00",
-          "title": "Elon Musk Offered To Guarantee Financing For Samsung’s Upcoming Chip Fab, But Chairman Lee Jae-yong Replied ‘We Get That Offer From Everyone’"
+          "title": "Elon Musk Offered To Guarantee Financing For Samsung&#8217;s Upcoming Chip Fab, But Chairman Lee Jae-yong Replied &#8216;We Get That Offer From Everyone&#8217;"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T14:05:01+00:00",
+      "article_modified_raw": "2026-11-26T14:05:09+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "579423622631e27cc90af4ac",
@@ -8587,12 +8661,12 @@
       "url": "https://wccftech.com/huawei-poised-to-grow-chinas-ai-chip-market-next-generation-hbm-design-double-data-pin-density",
       "source": "Wccftech",
       "publisher": "Wccftech",
-      "description": "The LogicFolding design for chips was only the start of Huawei’s ambitions, because the Chinese giant is reportedly set to share technical details of a next-generation High-Bandwidth Memory (HBM) architecture engineered to rival and potentially surpass existing solutions from South Korean memory manufacturers Samsung and SK hynix. A key difference ",
+      "description": "Huawei is poised to expand China’s AI chip market with a next-generation HBM design featuring double the data pin density to overcome bandwidth limits",
       "published_utc": "2026-11-26T13:16:59+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -8600,11 +8674,15 @@
           "url": "https://wccftech.com/huawei-poised-to-grow-chinas-ai-chip-market-next-generation-hbm-design-double-data-pin-density",
           "source": "Wccftech",
           "publisher": "Wccftech",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T13:16:59+00:00",
           "title": "Huawei Poised To Grow China’s AI Chip Market With A Next-Generation HBM Design With Double The Data Pin Density To Surpass Bandwidth Limitations"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T13:16:59+00:00",
+      "article_modified_raw": "2026-11-26T13:17:05+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "04bf00f1d52405c7852048ee",
@@ -8613,12 +8691,12 @@
       "url": "https://wccftech.com/microsoft-frees-up-nearly-900-mb-of-ram-on-windows-11-by-cutting-memory-usage-across-its-own-apps-and-services",
       "source": "Wccftech",
       "publisher": "Wccftech",
-      "description": "Amid the ongoing DRAM shortage and skyrocketing memory prices, Microsoft is finally making meaningful progress in addressing Windows 11's notoriously resource-hungry nature. During its recent Ignite 2026 conference, the Redmond giant revealed that optimizations to its own applications and background services have collectively reclaimed over 860 MB ",
+      "description": "Microsoft has cut Windows 11 RAM usage by over 860 MB through optimizations to Microsoft 365, Defender, OneDrive, and Purview.",
       "published_utc": "2026-11-26T13:14:39+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -8626,11 +8704,15 @@
           "url": "https://wccftech.com/microsoft-frees-up-nearly-900-mb-of-ram-on-windows-11-by-cutting-memory-usage-across-its-own-apps-and-services",
           "source": "Wccftech",
           "publisher": "Wccftech",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T13:14:39+00:00",
           "title": "Microsoft Frees Up Nearly 900 MB Of RAM On Windows 11 By Cutting Memory Usage Across Its Own Apps And Services"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T13:14:39+00:00",
+      "article_modified_raw": "2026-11-26T13:14:47+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "9ac7e7a389fb0da759a31039",
@@ -8661,16 +8743,16 @@
     {
       "id": "674cdfb7c1948f48a1d2120f",
       "topic": "pc",
-      "title": "Grand Theft Auto VI Is the “Toughest Real-World PlayStation 5 Stress Test” to Date, As It Pulls 220 W With Barely Anything Happening On Screen",
+      "title": "Grand Theft Auto VI Is the &#8220;Toughest Real-World PlayStation 5 Stress Test&#8221; to Date, As It Pulls 220 W With Barely Anything Happening On Screen",
       "url": "https://wccftech.com/grand-theft-auto-vi-toughest-playstation-5-stress-test",
       "source": "Wccftech",
       "publisher": "Wccftech",
-      "description": "Even before release, everyone was well aware that Rockstar Games would push the PlayStation 5 and Xbox Series X|S hardware hard with Grand Theft Auto VI, and the expectations were fully met when the game finally launched on November 19. However, this came at a cost, as long-standing issues with the PlayStation 5 hardware, especially liquid metal co",
+      "description": "Grand Theft Auto VI pushes PlayStation 5 power draw to 274W, exposing VRM and cooling issues on older consoles",
       "published_utc": "2026-11-26T11:23:42+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -8678,11 +8760,15 @@
           "url": "https://wccftech.com/grand-theft-auto-vi-toughest-playstation-5-stress-test",
           "source": "Wccftech",
           "publisher": "Wccftech",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T11:23:42+00:00",
-          "title": "Grand Theft Auto VI Is the “Toughest Real-World PlayStation 5 Stress Test” to Date, As It Pulls 220 W With Barely Anything Happening On Screen"
+          "title": "Grand Theft Auto VI Is the &#8220;Toughest Real-World PlayStation 5 Stress Test&#8221; to Date, As It Pulls 220 W With Barely Anything Happening On Screen"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T11:23:42+00:00",
+      "article_modified_raw": "2026-11-26T12:27:35+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "346730fe738e38ac4f5a1832",

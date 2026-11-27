@@ -1,12 +1,12 @@
 # F1 / 2026-11-26 / 候補 101–150
 
-- [Ufficiale, Bagnaia salta Valencia: si chiude amaramente la storia con Ducati](https://www.formulapassion.it/motogp/motogp-news/ufficiale-bagnaia-salta-valencia-si-chiude-amaramente-la-storia-con-ducati) — FormulaPassion｜要確認｜2026-11-25T16:19:23+00:00 UTC｜feed_published
+- [Ufficiale, Bagnaia salta Valencia: si chiude amaramente la storia con Ducati](https://www.formulapassion.it/motogp/motogp-news/ufficiale-bagnaia-salta-valencia-si-chiude-amaramente-la-storia-con-ducati) — FormulaPassion｜要確認｜2026-11-25T16:19:23+00:00 UTC｜article_metadata
 - [Ufficiale: Bearman rinnova con la Haas per il 2027](https://www.formulapassion.it/f1/f1-news/lamentele-bearman-segno-ufficiale-rinnovo-haas-2027-contratti-ferrari-hamilton-leclerc) — FormulaPassion｜要確認｜2026-11-26T09:00:00+00:00 UTC｜article_metadata
-- [Valencia: rimosso il murale dedicato a Valentino Rossi](https://www.formulapassion.it/motogp/motogp-news/valencia-rimosso-murale-dedicato-a-valentino-rossi) — FormulaPassion｜要確認｜2026-11-26T14:35:32+00:00 UTC｜feed_published
+- [Valencia: rimosso il murale dedicato a Valentino Rossi](https://www.formulapassion.it/motogp/motogp-news/valencia-rimosso-murale-dedicato-a-valentino-rossi) — FormulaPassion｜要確認｜2026-11-26T14:35:32+00:00 UTC｜article_metadata
 - [Verstappen: &#8220;Red Bull, un lavoro straordinario. Prendiamoci il terzo posto nei Costruttori&#8221;](https://www.formulapassion.it/f1/f1-news/verstappen-red-bull-un-lavoro-straordinario-prendiamoci-il-terzo-posto-nei-costruttori) — FormulaPassion｜要確認｜2026-11-25T15:00:00+00:00 UTC｜article_metadata
 - [What time is the Qatar Grand Prix? Full F1 schedule and UK TV guide](https://www.gpblog.com/en/news/qatar-gp-timetable-when-to-watch-practice-qualifying-and-the-race) — GPblog｜要確認｜2026-11-26T13:00:00+00:00 UTC｜article_metadata
 - [Why the Qatar GP is home to a unique and unusual F1 rule](https://racingnews365.com/why-the-qatar-gp-is-home-to-a-unique-and-unusual-f1-rule) — RacingNews365｜要確認｜2026-11-25T19:00:00+00:00 UTC｜article_metadata
-- [Williams and Alpine Penalised for 2025 Cost Cap breaches](https://www.gpblog.com/en/breaking-news/williams-and-alpine-penalised-for-2025-cost-cap-breaches) — GPblog｜要確認｜2026-11-25T16:13:00+00:00 UTC｜feed_published
+- [Williams and Alpine Penalised for 2025 Cost Cap breaches](https://www.gpblog.com/en/breaking-news/williams-and-alpine-penalised-for-2025-cost-cap-breaches) — GPblog｜要確認｜2026-11-25T16:13:00+00:00 UTC｜article_metadata
 - [Williams and Alpine breached F1's cost cap in 2025](https://www.the-race.com/business/williams-and-alpine-breached-f1s-cost-cap-in-2025) — The Race｜要確認｜2026-11-25T16:53:42+00:00 UTC｜feed_published
 - [Williams verso il 2027: 100 punti di carico da recuperare e meno ore](https://autoracer.it/williams-2027-100-punti-di-carico-da-recuperare-meno-ore) — AutoRacer｜要確認｜2026-11-25T16:54:26+00:00 UTC｜article_metadata
 - [ウイリアムズとアルピーヌに2025年F1コストキャップの違反が発覚。FIAは競技的アドバンテージを狙ったものではないと判断、軽微な制裁に](https://jp.motorsport.com/f1/news/williams-alpine-fall-foul-of-f1s-2025-cost-cap/10877777) — Motorsport JP｜要確認｜2026-11-26T02:31:50+00:00 UTC｜feed_published

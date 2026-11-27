@@ -2,7 +2,7 @@
 
 - [WhatsApp’s new scheduled messages let you choose the right time to send](https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages) — The Verge｜要確認｜2026-11-25T20:31:48+00:00 UTC｜feed_published
 - [Wispr Flow improves dictation accuracy with new Canto-2 speech-to-text model](https://9to5mac.com/2026/11/25/wispr-flow-improves-dictation-accuracy-with-new-canto-2-speech-to-text-model) — 9to5Mac｜要確認｜2026-11-26T00:35:52+00:00 UTC｜feed_published
-- [X’s latest update for creators focuses on vertical video](https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video) — TechCrunch｜要確認｜2026-11-25T17:28:29+00:00 UTC｜feed_published
+- [X’s latest update for creators focuses on vertical video](https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video) — TechCrunch｜要確認｜2026-11-25T17:28:29+00:00 UTC｜article_metadata
 - [家計データをなぜ「Muse」「ChatGPT」に渡すのか？ マネーフォワードに聞いた狙いと安全策](https://www.itmedia.co.jp/aiplus/article/2611/26/2000003490) — ITmedia Mobile｜要確認｜2026-11-26T06:09:00+00:00 UTC｜feed_published
 - [自律型AIエージェント「Claude Duet」、日本でも利用可能に](https://pc.watch.impress.co.jp/docs/news/2159488.html) — PC Watch｜要確認｜2026-11-26T05:01:13+00:00 UTC｜article_metadata
 - [AI agents used in five cyber attacks in Switzerland, government says - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxObHJoZUpFSGFNc09VMDVnYmkxbEhyaUdhN0J1ZHc5c1BWbGxmb3VOZ1NWbGI5cVZ0MG1oMG9TMThva25SLXhBTlN1cnpjeXFfYnBhVEtzUHdZVi1pSDJWS2dvdXlkanBQdUU3dUNLT1VPUnNGb05UeE1VVzhYVktfR0ppdGJ3UFg0OERkaVhyRFFkcFRUa09fM1BGMUxpQXl4dldoWlI5bXBsNldXVnBUMU5pQXU?oc=5) — Reuters AI｜要確認｜2026-11-26T12:50:31+00:00 UTC｜discovery_index
