@@ -1534,32 +1534,6 @@
       "enrichment": "article_metadata"
     },
     {
-      "id": "d6989f525d3cc614e75730d3",
-      "topic": "handhelds",
-      "title": "Lavender's The One Stop Potion Shop - Steam",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVm52Tk11TE1DeV9lUEUwdW84cUpPSGRJZ3FicHhHTnItQ1dUMF9TRDE0aDZOZTNSOEFnUXdYZHFhTEo2U1F6ZmFRUjB2RmxmZGlBN1FiYlF3MWNseHViWG9yTmtlRkg4bUR2SlNBRkRfc0lyOEJVM1ppT3k4dkFtUUk3d2g?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "Lavender's The One Stop Potion Shop Steam",
-      "published_utc": "2026-11-23T22:29:20+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVm52Tk11TE1DeV9lUEUwdW84cUpPSGRJZ3FicHhHTnItQ1dUMF9TRDE0aDZOZTNSOEFnUXdYZHFhTEo2U1F6ZmFRUjB2RmxmZGlBN1FiYlF3MWNseHViWG9yTmtlRkg4bUR2SlNBRkRfc0lyOEJVM1ppT3k4dkFtUUk3d2g?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T22:29:20+00:00",
-          "title": "Lavender's The One Stop Potion Shop - Steam"
-        }
-      ]
-    },
-    {
       "id": "a645ca507ae3b8c293e919e8",
       "topic": "handhelds",
       "title": "Symphony of War II: Dominion - Steam",
@@ -1740,32 +1714,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T02:35:43+00:00",
           "title": "Blood Rails - Steam"
-        }
-      ]
-    },
-    {
-      "id": "0264efea597876a88db81e6f",
-      "topic": "handhelds",
-      "title": "IT THINKS! - Build Your Own GPU - Steam",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GNHpwMXpDR0tNMTZwRlBQZWd4N3YwY2ZZeTI4U3FCWmFwNFdKY0VyUWl5TlM0OWg2UkVZZ1FfNkdmU0pXZHBGNGtVNFVjRXlPWGpqd3NDUm1vejVHdWZpVFplRWJMYmlVbUpCMVE4S1c1ZlAwVDNSdTM5QWE?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "IT THINKS! - Build Your Own GPU Steam",
-      "published_utc": "2026-11-24T08:00:00+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GNHpwMXpDR0tNMTZwRlBQZWd4N3YwY2ZZeTI4U3FCWmFwNFdKY0VyUWl5TlM0OWg2UkVZZ1FfNkdmU0pXZHBGNGtVNFVjRXlPWGpqd3NDUm1vejVHdWZpVFplRWJMYmlVbUpCMVE4S1c1ZlAwVDNSdTM5QWE?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T08:00:00+00:00",
-          "title": "IT THINKS! - Build Your Own GPU - Steam"
         }
       ]
     },
@@ -2082,34 +2030,6 @@
           "title": "Citizen Sleeper - Steam"
         }
       ]
-    },
-    {
-      "id": "3e58fdd5cd8c9fa3aca78be5",
-      "topic": "handhelds",
-      "title": "Save 10% on Dungeonbound on Steam - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zYmkySUlCaV9kaWUtSHpWTFF6MXVlcmZmLWpKZmhDZUZhelkxRElMbG5ZeGladkR0czdpcVl0cmR4TDNRYkoyWXJIbG9lYlh3Rk5pTm5nSjBhdVdBNC1HSkNQdFd1eVk?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "Save 10% on Dungeonbound on Steam Steam",
-      "published_utc": "2026-11-24T13:23:50+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zYmkySUlCaV9kaWUtSHpWTFF6MXVlcmZmLWpKZmhDZUZhelkxRElMbG5ZeGladkR0czdpcVl0cmR4TDNRYkoyWXJIbG9lYlh3Rk5pTm5nSjBhdVdBNC1HSkNQdFd1eVk?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T13:23:50+00:00",
-          "title": "Save 10% on Dungeonbound on Steam - Steam"
-        }
-      ],
-      "enrichment": "failed",
-      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "484369886cd9aab2c8145197",
@@ -2738,32 +2658,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T18:01:40+00:00",
           "title": "Farm RPG - Nominate Farm RPG for the \"Just 5 More Minutes\" Steam Award! - Steam News - Steam"
-        }
-      ]
-    },
-    {
-      "id": "3bfd0d03401527479b5dad9d",
-      "topic": "handhelds",
-      "title": "No Asteroids - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14cVJRc2EyeTB1SlpBUnYtME12QmpsUVdIYWNEc0FiZElBWXEzS2ppNHFFRkNudmVuUU0zNW1feERaV2FEVVVhTHNaQ3lDWVF6X0NYWnJLbGdLZDVVZHJnbXVwbWFfWTQ?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "No Asteroids Steam",
-      "published_utc": "2026-11-24T08:00:00+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14cVJRc2EyeTB1SlpBUnYtME12QmpsUVdIYWNEc0FiZElBWXEzS2ppNHFFRkNudmVuUU0zNW1feERaV2FEVVVhTHNaQ3lDWVF6X0NYWnJLbGdLZDVVZHJnbXVwbWFfWTQ?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T08:00:00+00:00",
-          "title": "No Asteroids - Steam"
         }
       ]
     },
@@ -4040,6 +3934,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T01:01:44+00:00",
           "title": "Affinity SimHub Plugin 0.5.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "8cdd05fb733555b304b0852f",
+      "topic": "racing_games",
+      "title": "LowPoly Cars - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRVjlMV0Q3cDByalZyUXVKY0hmTThueG1rYkstTzRKUjNkVTJ4LTduemZlS1p6Mk1LRU1EMXhtT1NUcS1uaGZ1M3V4bVp4UWNlZmlHeFNLc0tCOTU5MGszV3BEOEZDZms?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "LowPoly Cars Steam",
+      "published_utc": "2026-11-24T08:00:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRVjlMV0Q3cDByalZyUXVKY0hmTThueG1rYkstTzRKUjNkVTJ4LTduemZlS1p6Mk1LRU1EMXhtT1NUcS1uaGZ1M3V4bVp4UWNlZmlHeFNLc0tCOTU5MGszV3BEOEZDZms?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T08:00:00+00:00",
+          "title": "LowPoly Cars - Steam"
         }
       ]
     }

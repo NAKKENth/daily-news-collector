@@ -9010,32 +9010,6 @@
       "enrichment": "article_metadata"
     },
     {
-      "id": "ef514fc36c2d4d66aaa10058",
-      "topic": "NASCAR",
-      "title": "NASCAR Cup Series Archives - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16aVR5R0lGSklIRUNMTU03MWpqcE5RRkVWeXRpaFlYRUxqQ3pSV0lCUkhONE9tU2tNc0JVZkNudzhKcVNTYUJkcFU0YThQLS16Y1pDQmVhS2N6SFpaUzV2LVZFVXgtLVhRMnhNNGp3aWVtMXBZclpn?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "NASCAR Cup Series Archives NASCAR.com",
-      "published_utc": "2026-11-24T17:30:02+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技名一致・新規性の確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16aVR5R0lGSklIRUNMTU03MWpqcE5RRkVWeXRpaFlYRUxqQ3pSV0lCUkhONE9tU2tNc0JVZkNudzhKcVNTYUJkcFU0YThQLS16Y1pDQmVhS2N6SFpaUzV2LVZFVXgtLVhRMnhNNGp3aWVtMXBZclpn?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T17:30:02+00:00",
-          "title": "NASCAR Cup Series Archives - NASCAR.com"
-        }
-      ]
-    },
-    {
       "id": "ecab81ddae2912c3da0eccea",
       "topic": "NASCAR",
       "title": "Bubba Wallace - NASCAR.com",
@@ -9206,6 +9180,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "8c6e4f39edac",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vZzFKaHB5enc5Q0NDaWdNYnY1dkJSZlNNOEJfVHNWNmtNd1RJMHBaTzBVX18tLUpsQmRuY05IQmZVR2stbXZueHg3bldhd2ZYa1RJN1pSZw?oc=5",
@@ -10025,6 +10000,32 @@
       ]
     },
     {
+      "id": "abd3d4cd37920d1c82194324",
+      "topic": "NASCAR",
+      "title": "Rick Ware Racing Archives - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96dTdKV3NyR1Zncm9mTGVCNGxCMjhnbTJPRDFZcGNDRkVYRFlzRFpDdE85QnlSd21nSG9PTGo5X2E3QXo1TjJMbmRIb01Yc0lzMzIzNWlHUkF3STQxOFJYWThzT0YyQVRtTmZpcDdNVTYzOVNu?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Rick Ware Racing Archives NASCAR.com",
+      "published_utc": "2026-11-25T14:39:15+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96dTdKV3NyR1Zncm9mTGVCNGxCMjhnbTJPRDFZcGNDRkVYRFlzRFpDdE85QnlSd21nSG9PTGo5X2E3QXo1TjJMbmRIb01Yc0lzMzIzNWlHUkF3STQxOFJYWThzT0YyQVRtTmZpcDdNVTYzOVNu?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T14:39:15+00:00",
+          "title": "Rick Ware Racing Archives - NASCAR.com"
+        }
+      ]
+    },
+    {
       "id": "1ad7e50e4f7b99be7638d337",
       "topic": "NASCAR",
       "title": "Christian Eckes - NASCAR.com",
@@ -10567,32 +10568,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T08:04:05+00:00",
           "title": "Gio Ruggiero Archives - NASCAR.com"
-        }
-      ]
-    },
-    {
-      "id": "f9d9d7c704e2807fb99e4721",
-      "topic": "NASCAR",
-      "title": "Series Archives - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tNU0tOUNhamZrSXBCdnFPWUFKekxNUjVITnR0VFp4STJYQ1JkM0UwQTFmbmFKb0tiMlpZRHBZSzN1bGNRTHFqcGJ4eS1xd2VDSXdVT2xlOE94UDBPRm1R?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "Series Archives NASCAR.com",
-      "published_utc": "2026-11-25T14:51:16+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tNU0tOUNhamZrSXBCdnFPWUFKekxNUjVITnR0VFp4STJYQ1JkM0UwQTFmbmFKb0tiMlpZRHBZSzN1bGNRTHFqcGJ4eS1xd2VDSXdVT2xlOE94UDBPRm1R?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T14:51:16+00:00",
-          "title": "Series Archives - NASCAR.com"
         }
       ]
     },
@@ -11269,6 +11244,189 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T10:42:52+00:00",
           "title": "Final Results Lappkastet 2012 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "f279bc435e0d097c66c0f55e",
+      "topic": "NASCAR",
+      "title": "Ben Rhodes - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yZVpSMmt2UXI5VGVyTk9IWWhnMTBTN1l0Q19iRGhLSm1mZEpuWGRyRnJneUYxamdfRE5MSVBpekU3N1NtVjluNkExbG9CTlcxeDcxVw?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Ben Rhodes NASCAR.com",
+      "published_utc": "2026-11-24T23:19:47+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yZVpSMmt2UXI5VGVyTk9IWWhnMTBTN1l0Q19iRGhLSm1mZEpuWGRyRnJneUYxamdfRE5MSVBpekU3N1NtVjluNkExbG9CTlcxeDcxVw?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T23:19:47+00:00",
+          "title": "Ben Rhodes - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "df51897b12c52fbf461d7775",
+      "topic": "NASCAR",
+      "title": "Daniel Hemric - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WcHUtUktWakpkeHM5cEM0dmxPX1Q1Sy1zRnpDNkY1em4wRjE3UDk2ejFkOF9BZnJBR3J4NHhqdVdIdkI5Rl80dHZ4M0FjWlVidy1jNno3UEE?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Daniel Hemric NASCAR.com",
+      "published_utc": "2026-11-25T00:59:59+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WcHUtUktWakpkeHM5cEM0dmxPX1Q1Sy1zRnpDNkY1em4wRjE3UDk2ejFkOF9BZnJBR3J4NHhqdVdIdkI5Rl80dHZ4M0FjWlVidy1jNno3UEE?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T00:59:59+00:00",
+          "title": "Daniel Hemric - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "ec9a25a3d754a6eadb22abde",
+      "topic": "other_motorsport",
+      "title": "【写真1】マッシモ・リヴォラCEO - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FdVZZSi1xU2tHaUJReUtMdzVETEx0X1hkRkZCWmpTOUhYRndfcGNZNkNGTXdJX2t3ZTUxcmN4MmxYMXg4RkFNYktGbEc0MERIYklTZzBnSQ?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真1】マッシモ・リヴォラCEO autosport web",
+      "published_utc": "2026-11-25T11:04:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FdVZZSi1xU2tHaUJReUtMdzVETEx0X1hkRkZCWmpTOUhYRndfcGNZNkNGTXdJX2t3ZTUxcmN4MmxYMXg4RkFNYktGbEc0MERIYklTZzBnSQ?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T11:04:00+00:00",
+          "title": "【写真1】マッシモ・リヴォラCEO - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "4fa35ff0ef3d139a35448dd1",
+      "topic": "other_motorsport",
+      "title": "【写真2】マックス・フェルスタッペン＆アイザック・ハジャー（レッドブル） - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92TEthaWVpUGRITGFyMjRiWnBSenZmUFFRV0ZOZ0dyQ3FGSjVLczlDSmN4LWJTZTFTRW9mcUhHbVlRcnJoY2syMGg2bVdKT0poTUpFN2duLUFJU3JBdTZNcTRjU0RwbjJsNDd1cU53?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真2】マックス・フェルスタッペン＆アイザック・ハジャー（レッドブル） autosport web",
+      "published_utc": "2026-11-25T08:11:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "possible_event_id": "8c6e4f39edac",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92TEthaWVpUGRITGFyMjRiWnBSenZmUFFRV0ZOZ0dyQ3FGSjVLczlDSmN4LWJTZTFTRW9mcUhHbVlRcnJoY2syMGg2bVdKT0poTUpFN2duLUFJU3JBdTZNcTRjU0RwbjJsNDd1cU53?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:11:00+00:00",
+          "title": "【写真2】マックス・フェルスタッペン＆アイザック・ハジャー（レッドブル） - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "dbfd5b86006a83d3e24f3746",
+      "topic": "WRC",
+      "title": "Betancort Cabrera Yoday / Viera Rey Pedro José | 12 Rallye Comarca Norte de Gran Canaria 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa2FVYVY5RFBqVTRqRGU3NEtQNV9WTzZPeEF3VjFCaFI2WXY3cXU5RUozQVRrdUF0YVFHc1VwLUx1c2pvLTE3NVlaR05iYmVtSDlwaUVoRXJLaGdLMk1jR0VNS1M4cEhuckJiVXhrLWEyLWxCelBsZDVweW9PcUhHN041SGNlRy1KaFN1ZldyNGVJODhzbTJTUg?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Betancort Cabrera Yoday / Viera Rey Pedro José | 12 Rallye Comarca Norte de Gran Canaria 2026 eWRC-results.com",
+      "published_utc": "2026-11-25T00:13:45+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa2FVYVY5RFBqVTRqRGU3NEtQNV9WTzZPeEF3VjFCaFI2WXY3cXU5RUozQVRrdUF0YVFHc1VwLUx1c2pvLTE3NVlaR05iYmVtSDlwaUVoRXJLaGdLMk1jR0VNS1M4cEhuckJiVXhrLWEyLWxCelBsZDVweW9PcUhHN041SGNlRy1KaFN1ZldyNGVJODhzbTJTUg?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T00:13:45+00:00",
+          "title": "Betancort Cabrera Yoday / Viera Rey Pedro José | 12 Rallye Comarca Norte de Gran Canaria 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "84a217daa1ff0ef546d75562",
+      "topic": "WRC",
+      "title": "López Naranjo Yeray / González Vázquez Carlos Javier | 12 Rallye Comarca Norte de Gran Canaria 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHFLSWltTXBPd29WNlROWTZSYnVPeEFqSlR1dnhCS2J2WW5LQ2tjckF6VnlrRmx3R2JsSTNoSUpEQkJyZzZ4bTVyOEVkdTZJMUwtUk9nYmpSby1vWU5ja0pIWmRITkI1TkVsUE5IcjZ2X3R5NU8wSTlIODZZcTRVRFp5dFlnUGhINmMxWmlwaVBOVzY5S3lRYg?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "López Naranjo Yeray / González Vázquez Carlos Javier | 12 Rallye Comarca Norte de Gran Canaria 2026 eWRC-results.com",
+      "published_utc": "2026-11-25T00:09:28+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHFLSWltTXBPd29WNlROWTZSYnVPeEFqSlR1dnhCS2J2WW5LQ2tjckF6VnlrRmx3R2JsSTNoSUpEQkJyZzZ4bTVyOEVkdTZJMUwtUk9nYmpSby1vWU5ja0pIWmRITkI1TkVsUE5IcjZ2X3R5NU8wSTlIODZZcTRVRFp5dFlnUGhINmMxWmlwaVBOVzY5S3lRYg?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T00:09:28+00:00",
+          "title": "López Naranjo Yeray / González Vázquez Carlos Javier | 12 Rallye Comarca Norte de Gran Canaria 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "756b0fbb1f49c95e33e6e28b",
+      "topic": "WRC",
+      "title": "Martín Armide / González Delgado Eduardo | 12 Rallye Comarca Norte de Gran Canaria 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUHVQck5iR3phTFNSbjh3TU03cFJxblVoSmVIMmxrMmhhSDhEam56ZWtMUmFoeXh0VzhWNFY0bWEyRmttYzNUR0VWMmlpNFlrUVI4SVlwVEg4YUJzMHpYakRZNk9YeUM0ZklYbzhKMVVKQkRSa0JkdktIYVBmRGZLdTAxbWo4Mi1UQkRNQ08taTFGYzBfbmpKWA?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Martín Armide / González Delgado Eduardo | 12 Rallye Comarca Norte de Gran Canaria 2026 eWRC-results.com",
+      "published_utc": "2026-11-25T00:13:40+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUHVQck5iR3phTFNSbjh3TU03cFJxblVoSmVIMmxrMmhhSDhEam56ZWtMUmFoeXh0VzhWNFY0bWEyRmttYzNUR0VWMmlpNFlrUVI4SVlwVEg4YUJzMHpYakRZNk9YeUM0ZklYbzhKMVVKQkRSa0JkdktIYVBmRGZLdTAxbWo4Mi1UQkRNQ08taTFGYzBfbmpKWA?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T00:13:40+00:00",
+          "title": "Martín Armide / González Delgado Eduardo | 12 Rallye Comarca Norte de Gran Canaria 2026 - eWRC-results.com"
         }
       ]
     }

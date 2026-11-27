@@ -84,32 +84,6 @@
       ]
     },
     {
-      "id": "c6964aa4a06e01d27f42f602",
-      "topic": "pc",
-      "title": "TSMC Online - TSMC",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzVE0yOE1QOU15amNxWU5oaWZVSDVxbFR4VmFrdVJZelR5dmNQbjhlU2FIaHltbjQ2SXh6SjBheEYxSlk0dzk3QmJVNmhLQQ?oc=5",
-      "source": "TSMC",
-      "publisher": "TSMC",
-      "description": "TSMC Online TSMC",
-      "published_utc": "2026-11-26T12:00:21+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzVE0yOE1QOU15amNxWU5oaWZVSDVxbFR4VmFrdVJZelR5dmNQbjhlU2FIaHltbjQ2SXh6SjBheEYxSlk0dzk3QmJVNmhLQQ?oc=5",
-          "source": "TSMC",
-          "publisher": "TSMC",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T12:00:21+00:00",
-          "title": "TSMC Online - TSMC"
-        }
-      ]
-    },
-    {
       "id": "252b5abe2c9613a724ec12f4",
       "topic": "pc",
       "title": "Congratulations to Intel AI Global Impact Festival Winners - Intel",
@@ -247,7 +221,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Setting up your business on ChatGPT | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T21:01:14+00:00",
+      "published_utc": "2026-11-25T22:01:34+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -260,7 +234,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T21:01:14+00:00",
+          "published_utc": "2026-11-25T22:01:34+00:00",
           "title": "Setting up your business on ChatGPT | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -288,58 +262,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T00:28:43+00:00",
           "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades - Reuters"
-        }
-      ]
-    },
-    {
-      "id": "4e778748b9c43230852e9f0f",
-      "topic": "pc",
-      "title": "PC Processor and Graphics Community - AMD",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE50elpEaExzbVpXem9jMjM0V2FyZlVaSFJWOVpxQTFoUWFORmlLMEJxbEhYdS03Z0dyQ0psN1lPYw?oc=5",
-      "source": "AMD",
-      "publisher": "AMD",
-      "description": "PC Processor and Graphics Community AMD",
-      "published_utc": "2026-11-26T09:51:59+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "PC技術候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE50elpEaExzbVpXem9jMjM0V2FyZlVaSFJWOVpxQTFoUWFORmlLMEJxbEhYdS03Z0dyQ0psN1lPYw?oc=5",
-          "source": "AMD",
-          "publisher": "AMD",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T09:51:59+00:00",
-          "title": "PC Processor and Graphics Community - AMD"
-        }
-      ]
-    },
-    {
-      "id": "77ea168110302a36986e6971",
-      "topic": "pc",
-      "title": "export-compliance-review - AMD - AMD",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ybTEtT0ZlWGpHa3RQdmJ5UEJJanplT29NRERGWEtEVW9GRVNEQ1FkSTlJMk1hOXlzb0piQmhfRXpoUHJ1b1BFUjRURXZMcUVZcUZPQWZ4eE53ekVjRUJJNVJyUjR4d3Utdm9fZ2tlZw?oc=5",
-      "source": "AMD",
-      "publisher": "AMD",
-      "description": "export-compliance-review - AMD AMD",
-      "published_utc": "2026-11-26T04:20:02+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ybTEtT0ZlWGpHa3RQdmJ5UEJJanplT29NRERGWEtEVW9GRVNEQ1FkSTlJMk1hOXlzb0piQmhfRXpoUHJ1b1BFUjRURXZMcUVZcUZPQWZ4eE53ekVjRUJJNVJyUjR4d3Utdm9fZ2tlZw?oc=5",
-          "source": "AMD",
-          "publisher": "AMD",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T04:20:02+00:00",
-          "title": "export-compliance-review - AMD - AMD"
         }
       ]
     },
@@ -11513,6 +11435,84 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T23:09:59+00:00",
           "title": "ERNIE 5.5 Flash Preview - #3 by 2893f57acbe7739fc460e9bd7 - DGX Spark / GB10 - NVIDIA Developer Forums"
+        }
+      ]
+    },
+    {
+      "id": "b3bc8132092e927509c65d63",
+      "topic": "pc",
+      "title": "Smart Cities World Trend Report: Cognitive cities in action – connecting urban systems and physical AI - Intel",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUTA3S3l3WHJpeVNKcXU0MVh5U1NiaDVmX0lyV3hhcTJQLUF0VE14UHFLcEtqc1hCUXR5ekI2SG8zdVRXbVlPdzlBYUJnRjB2VmdLRXZWVmwwY1R1V3o1bTJrcGRrcTZHNXk5MnJwaVp5M1FJSk9DMHRNLXQwYThrRUUtd2xEM250TFB6MDZWUGFUTDRZcC1Yai1uY3ZSdmVORzFyaGl1ZHpwcGpBMkYyQW9ZQVgzR0plY1NWX0FfU1ZnUDdCLUVrMlJBYXJGamJROGJUcGFUdV8xdGNONFNiRHZvcGlZM0hKeU16UnA5cHpwcG15NlNVZHFPMA?oc=5",
+      "source": "Intel",
+      "publisher": "Intel",
+      "description": "Smart Cities World Trend Report: Cognitive cities in action – connecting urban systems and physical AI Intel",
+      "published_utc": "2026-11-26T08:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUTA3S3l3WHJpeVNKcXU0MVh5U1NiaDVmX0lyV3hhcTJQLUF0VE14UHFLcEtqc1hCUXR5ekI2SG8zdVRXbVlPdzlBYUJnRjB2VmdLRXZWVmwwY1R1V3o1bTJrcGRrcTZHNXk5MnJwaVp5M1FJSk9DMHRNLXQwYThrRUUtd2xEM250TFB6MDZWUGFUTDRZcC1Yai1uY3ZSdmVORzFyaGl1ZHpwcGpBMkYyQW9ZQVgzR0plY1NWX0FfU1ZnUDdCLUVrMlJBYXJGamJROGJUcGFUdV8xdGNONFNiRHZvcGlZM0hKeU16UnA5cHpwcG15NlNVZHFPMA?oc=5",
+          "source": "Intel",
+          "publisher": "Intel",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T08:00:00+00:00",
+          "title": "Smart Cities World Trend Report: Cognitive cities in action – connecting urban systems and physical AI - Intel"
+        }
+      ]
+    },
+    {
+      "id": "80084b88f77bac5b4c03b7c2",
+      "topic": "pc",
+      "title": "Smart Cities World Trend Report: Cognitive cities – the next evolution of urban intelligence - Intel",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdlMxM3M1ODhLSkg2bEMwWGxqUDhNT01OellvcGJuNnFGRWpuWXN5UDl1TUNwdWZiX0hQTDJwRlBoeTMzSV9mczU0dTcxUzR2R2xScW45QmF4M2duTUI3Z2pZTldXSnJxY19iNGVVTDg4TjIxb1NwWElnWjVaa1dFeFhkdjBSMVpYczhnRFRuZ09lUHpaaC11TnhGeXgzZjJPdl9KU3BuVEMwaXJDVEExOEdKWWY3TnRKOUMxMzdVajNmRVZZVnh3M0dTOXkwd0Qyd2puTUUzSjllQTBJV1ptTmFtNTF3aUZaZmczYkV3?oc=5",
+      "source": "Intel",
+      "publisher": "Intel",
+      "description": "Smart Cities World Trend Report: Cognitive cities – the next evolution of urban intelligence Intel",
+      "published_utc": "2026-11-26T08:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdlMxM3M1ODhLSkg2bEMwWGxqUDhNT01OellvcGJuNnFGRWpuWXN5UDl1TUNwdWZiX0hQTDJwRlBoeTMzSV9mczU0dTcxUzR2R2xScW45QmF4M2duTUI3Z2pZTldXSnJxY19iNGVVTDg4TjIxb1NwWElnWjVaa1dFeFhkdjBSMVpYczhnRFRuZ09lUHpaaC11TnhGeXgzZjJPdl9KU3BuVEMwaXJDVEExOEdKWWY3TnRKOUMxMzdVajNmRVZZVnh3M0dTOXkwd0Qyd2puTUUzSjllQTBJV1ptTmFtNTF3aUZaZmczYkV3?oc=5",
+          "source": "Intel",
+          "publisher": "Intel",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T08:00:00+00:00",
+          "title": "Smart Cities World Trend Report: Cognitive cities – the next evolution of urban intelligence - Intel"
+        }
+      ]
+    },
+    {
+      "id": "2e04443c29317316b8455871",
+      "topic": "pc",
+      "title": "Accelerating Multimodal Oncology Workflows at the Edge - Intel",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVTE2LVd1TzZLUTl2UTcwall4X0NiS0Z5VFRZUW5WMFdMc2tXWTd0WU5ld043UGZESHNqYzRsT25lM0tpaU5aN2tVUHhwcVczZHR2YzJrd2NTZDJISzJEWHdiRXlIcy1ETTRmenFpYkY0N3dhOVNkbE1udURFY0YyMkREYzMyck9hSDZUdlBNRVZpZEQzXzBHYURFY2E5Wl9zOGdLN0J6UDIzU1ZIZzN1RlJLbzVDb2dnNmYxdVpnQQ?oc=5",
+      "source": "Intel",
+      "publisher": "Intel",
+      "description": "Accelerating Multimodal Oncology Workflows at the Edge Intel",
+      "published_utc": "2026-11-26T06:41:40+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVTE2LVd1TzZLUTl2UTcwall4X0NiS0Z5VFRZUW5WMFdMc2tXWTd0WU5ld043UGZESHNqYzRsT25lM0tpaU5aN2tVUHhwcVczZHR2YzJrd2NTZDJISzJEWHdiRXlIcy1ETTRmenFpYkY0N3dhOVNkbE1udURFY0YyMkREYzMyck9hSDZUdlBNRVZpZEQzXzBHYURFY2E5Wl9zOGdLN0J6UDIzU1ZIZzN1RlJLbzVDb2dnNmYxdVpnQQ?oc=5",
+          "source": "Intel",
+          "publisher": "Intel",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T06:41:40+00:00",
+          "title": "Accelerating Multimodal Oncology Workflows at the Edge - Intel"
         }
       ]
     }

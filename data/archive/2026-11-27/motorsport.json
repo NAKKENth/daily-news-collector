@@ -6,6 +6,84 @@
   "status": "candidate_collection_only",
   "items": [
     {
+      "id": "1f2963541f0e21832241fdf1",
+      "topic": "NASCAR",
+      "title": "Chase Elliott Archives - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xSHhaVUNCMHl3ZmtXaUtJUWdpNWxZUGJrM0xpdVZVemtMZVQ3Z2NqNjY4WkFtTDlFZlNPT1pCdE1sdHVXVDJoMlJhU0UyTzdOcGJzZDJNX29zVDVPZzBnNDZFVndCWXVYOWlpMEVKOFJSMDQ?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Chase Elliott Archives NASCAR.com",
+      "published_utc": "2026-11-27T06:00:31+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xSHhaVUNCMHl3ZmtXaUtJUWdpNWxZUGJrM0xpdVZVemtMZVQ3Z2NqNjY4WkFtTDlFZlNPT1pCdE1sdHVXVDJoMlJhU0UyTzdOcGJzZDJNX29zVDVPZzBnNDZFVndCWXVYOWlpMEVKOFJSMDQ?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T06:00:31+00:00",
+          "title": "Chase Elliott Archives - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "c7f34738962f5c26b6597e5e",
+      "topic": "NASCAR",
+      "title": "Ross Chastain Archives - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BM1RSQzd1Q0p1Z0Q1Xy12UFhmLXhDVjFXek82Z3lQbExKZkJBcHNfVlZoNFhGTGh3T0JSemxMcFFVZ1FFZTFDTEhzOS0zRGp6US0yb1puZ2cxSHRGVWszS1doUndNOUt4ZXA2ZGk5T04wUWs?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Ross Chastain Archives NASCAR.com",
+      "published_utc": "2026-11-27T07:29:24+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BM1RSQzd1Q0p1Z0Q1Xy12UFhmLXhDVjFXek82Z3lQbExKZkJBcHNfVlZoNFhGTGh3T0JSemxMcFFVZ1FFZTFDTEhzOS0zRGp6US0yb1puZ2cxSHRGVWszS1doUndNOUt4ZXA2ZGk5T04wUWs?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T07:29:24+00:00",
+          "title": "Ross Chastain Archives - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "d426940256d98cdfad84c081",
+      "topic": "F1",
+      "title": "Kings of Leon complete star-studded line-up for Abu Dhabi GP - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLWNOVkxlSkppd0d3SEJ3VER0SGlVWW9OZkxVUnlZcTQ4LVp4UmMwN3huQ0xHTmp1VU1rTVhpUkg3RDFyS01qR0xBTHJqa21GVzA0OElsVnd3ZXI5VFZjdkRNbEJYZFBlVHBiVk95UHhHUkEzMF9rem9GZkc3dzFydXlsZTRHM1pvME9uZXI4UlBNaGYwWXNOeU4xMzhGT2tDYVd0d21LX2NZSnBpMFRpeWhIWEk4MkRBQ1RRR0RTS2lnd3Q1WXF5ZkFTRExlMkFobFNDY1p3?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "Kings of Leon complete star-studded line-up for Abu Dhabi GP Formula 1",
+      "published_utc": "2026-11-27T06:04:06+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLWNOVkxlSkppd0d3SEJ3VER0SGlVWW9OZkxVUnlZcTQ4LVp4UmMwN3huQ0xHTmp1VU1rTVhpUkg3RDFyS01qR0xBTHJqa21GVzA0OElsVnd3ZXI5VFZjdkRNbEJYZFBlVHBiVk95UHhHUkEzMF9rem9GZkc3dzFydXlsZTRHM1pvME9uZXI4UlBNaGYwWXNOeU4xMzhGT2tDYVd0d21LX2NZSnBpMFRpeWhIWEk4MkRBQ1RRR0RTS2lnd3Q1WXF5ZkFTRExlMkFobFNDY1p3?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T06:04:06+00:00",
+          "title": "Kings of Leon complete star-studded line-up for Abu Dhabi GP - Formula 1"
+        }
+      ]
+    },
+    {
       "id": "70480ccd9020f99179378468",
       "topic": "F1",
       "title": "George Russell News, Results, Career, Biography & Standings archives - PlanetF1",
@@ -158,6 +236,84 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T18:09:41+00:00",
           "title": "All about restrictor plates - RACER - Racing News"
+        }
+      ]
+    },
+    {
+      "id": "ef514fc36c2d4d66aaa10058",
+      "topic": "NASCAR",
+      "title": "NASCAR Cup Series Archives - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16aVR5R0lGSklIRUNMTU03MWpqcE5RRkVWeXRpaFlYRUxqQ3pSV0lCUkhONE9tU2tNc0JVZkNudzhKcVNTYUJkcFU0YThQLS16Y1pDQmVhS2N6SFpaUzV2LVZFVXgtLVhRMnhNNGp3aWVtMXBZclpn?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "NASCAR Cup Series Archives NASCAR.com",
+      "published_utc": "2026-11-27T06:57:49+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16aVR5R0lGSklIRUNMTU03MWpqcE5RRkVWeXRpaFlYRUxqQ3pSV0lCUkhONE9tU2tNc0JVZkNudzhKcVNTYUJkcFU0YThQLS16Y1pDQmVhS2N6SFpaUzV2LVZFVXgtLVhRMnhNNGp3aWVtMXBZclpn?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T06:57:49+00:00",
+          "title": "NASCAR Cup Series Archives - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "664907c15e0801b80e1e5c1e",
+      "topic": "NASCAR",
+      "title": "Drivers Archives - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wX1FKeUxoV1hFTE5PNVNPTGFHNUJwcWw0WmhtNkhSRm9lZGxoaW4teHkzaDlpV3lpQzNELXpQWHZYSTdmOUtrTV9HdjE3cVBSZlZ1RGRsUU43SlplNmE0TA?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Drivers Archives NASCAR.com",
+      "published_utc": "2026-11-27T06:19:22+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wX1FKeUxoV1hFTE5PNVNPTGFHNUJwcWw0WmhtNkhSRm9lZGxoaW4teHkzaDlpV3lpQzNELXpQWHZYSTdmOUtrTV9HdjE3cVBSZlZ1RGRsUU43SlplNmE0TA?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T06:19:22+00:00",
+          "title": "Drivers Archives - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "127de5d86c086daad46e3b95",
+      "topic": "NASCAR",
+      "title": "Racing Teams Archives - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PS010ZG53RmY5Z1dvcy1jbjZ4UjJhRXFlVGluZ2REYlpMZVU5WlhvUE9UbUhpN3g3QzBVLXA3SHdzaWpMOW5UaTJGclpEemduZHlpT2ZRbWRWQnJuXzJodFNWQXpDNXhNNWRNQW5PUQ?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Racing Teams Archives NASCAR.com",
+      "published_utc": "2026-11-27T06:57:18+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PS010ZG53RmY5Z1dvcy1jbjZ4UjJhRXFlVGluZ2REYlpMZVU5WlhvUE9UbUhpN3g3QzBVLXA3SHdzaWpMOW5UaTJGclpEemduZHlpT2ZRbWRWQnJuXzJodFNWQXpDNXhNNWRNQW5PUQ?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T06:57:18+00:00",
+          "title": "Racing Teams Archives - NASCAR.com"
         }
       ]
     },
@@ -343,7 +499,11 @@
           "published_utc": "2026-11-26T17:33:13+00:00",
           "title": "Hamilton: “I compagni di squadra trovano sempre una quadra. Saremo più forti”"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "7086b8fb7842760915822e76",
@@ -369,7 +529,11 @@
           "published_utc": "2026-11-26T15:46:03+00:00",
           "title": "Ferrari, Leclerc: “Nessuna clausola per essere prima guida. Le parole di Vasseur? Devo accettarle”"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "7f8a33aca99c93eeefd684d0",
@@ -404,16 +568,16 @@
     {
       "id": "9807a04389af0e842f06211e",
       "topic": "WRC",
-      "title": "Abiteboul explains Hyundai’s WRC plan for 2027 and beyond",
+      "title": "Abiteboul explains Hyundai&#8217;s WRC plan for 2027 and beyond",
       "url": "https://dirtfish.com/rally/wrc/abiteboul-explains-hyundais-wrc-plan-for-2027-and-beyond",
       "source": "DirtFish",
       "publisher": "DirtFish",
-      "description": "Hyundai Motorsport president Cyril Abiteboul has clarified his team’s plans for rallying and next season. Adrien Fourmaux, Thierry Neuville and Kris Meeke have all been... Read more The post Abiteboul explains Hyundai’s WRC plan for 2027 and beyond appeared first on DirtFish .",
+      "description": "WRC – Despite the news that Adrien Fourmaux is staying with the brand, there'll be no official Hyundai WRC team in 2027",
       "published_utc": "2026-11-26T16:15:51+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -421,11 +585,15 @@
           "url": "https://dirtfish.com/rally/wrc/abiteboul-explains-hyundais-wrc-plan-for-2027-and-beyond",
           "source": "DirtFish",
           "publisher": "DirtFish",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T16:15:51+00:00",
-          "title": "Abiteboul explains Hyundai’s WRC plan for 2027 and beyond"
+          "title": "Abiteboul explains Hyundai&#8217;s WRC plan for 2027 and beyond"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T16:15:51+00:00",
+      "article_modified_raw": "2026-11-26T16:15:51+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "a0dba17e3a51874f28592ad8",
@@ -434,12 +602,12 @@
       "url": "https://dirtfish.com/rally/wrc/fourmaux-to-stay-at-hyundai-in-2027",
       "source": "DirtFish",
       "publisher": "DirtFish",
-      "description": "Adrien Fourmaux will drive a private Hyundai in next season’s World Rally Championship. DirtFish understands the Frenchman, who has been testing the latest evolution of... Read more The post Fourmaux to stay at Hyundai in 2027 appeared first on DirtFish .",
+      "description": "WRC – Adrien Fourmaux will drive a privately run Hyundai in next year's World Rally Championship",
       "published_utc": "2026-11-26T16:02:20+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -447,11 +615,15 @@
           "url": "https://dirtfish.com/rally/wrc/fourmaux-to-stay-at-hyundai-in-2027",
           "source": "DirtFish",
           "publisher": "DirtFish",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T16:02:20+00:00",
           "title": "Fourmaux to stay at Hyundai in 2027"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T16:02:20+00:00",
+      "article_modified_raw": "2026-11-26T16:20:04+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "8c8060c4906e73459c019341",
@@ -503,7 +675,9 @@
           "published_utc": "2026-11-26T18:42:43+00:00",
           "title": "Lewis Hamilton confirms \"positive\" talks with Charles Leclerc after Las Vegas clash"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "06c90d82322193d2cf88a6d7",
@@ -583,7 +757,9 @@
           "published_utc": "2026-11-26T17:02:09+00:00",
           "title": "Lewis Hamilton on latest Charles Leclerc flashpoint: \"We're free to race\""
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "ad4c76540a9fc630590d3cb6",
@@ -743,7 +919,9 @@
           "published_utc": "2026-11-26T15:09:13+00:00",
           "title": "Lando Norris on George Russell and Max Verstappen rivalry: \"Helps when you back it up on track\""
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://www.motorsport.com/f1/news/lando-norris-on-george-russell-and-max-verstappen-rivalry-helps-when-you-back-it-up-on-t"
     },
     {
       "id": "abb4a3f35bd57752661fb565",
@@ -1871,7 +2049,7 @@
       "source": "Formula 1 Official",
       "publisher": "Formula 1",
       "description": "Vegas 'a very good weekend' - Norris pleased with McLaren double podium Formula 1",
-      "published_utc": "2026-11-26T18:12:26+00:00",
+      "published_utc": "2026-11-26T18:29:15+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -1884,7 +2062,7 @@
           "source": "Formula 1 Official",
           "publisher": "Formula 1",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T18:12:26+00:00",
+          "published_utc": "2026-11-26T18:29:15+00:00",
           "title": "Vegas 'a very good weekend' - Norris pleased with McLaren double podium - Formula 1"
         }
       ]
@@ -2276,6 +2454,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T15:48:02+00:00",
           "title": "Men's Fanatics Beige Formula 1 Knit Quarter-Zip Pullover - F1 US Store"
+        }
+      ]
+    },
+    {
+      "id": "f9d9d7c704e2807fb99e4721",
+      "topic": "NASCAR",
+      "title": "Series Archives - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tNU0tOUNhamZrSXBCdnFPWUFKekxNUjVITnR0VFp4STJYQ1JkM0UwQTFmbmFKb0tiMlpZRHBZSzN1bGNRTHFqcGJ4eS1xd2VDSXdVT2xlOE94UDBPRm1R?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Series Archives NASCAR.com",
+      "published_utc": "2026-11-27T07:11:20+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tNU0tOUNhamZrSXBCdnFPWUFKekxNUjVITnR0VFp4STJYQ1JkM0UwQTFmbmFKb0tiMlpZRHBZSzN1bGNRTHFqcGJ4eS1xd2VDSXdVT2xlOE94UDBPRm1R?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T07:11:20+00:00",
+          "title": "Series Archives - NASCAR.com"
         }
       ]
     },
@@ -3106,12 +3310,12 @@
       "url": "https://www.gpblog.com/en/news/russell-hits-back-at-verstappen-as-hamilton-reveals-leclerc-talks-f1-today",
       "source": "GPblog",
       "publisher": "GPblog",
-      "description": "From George Russell responding to Max Verstappen's brutal comments following the Las Vegas Grand Prix to Lewis Hamilton revealing the outcome of his latest private discussions with Charles Leclerc, the media day ahead of the Qatar Grand Prix provided plenty of talking points. Here is a round-up of t...",
+      "description": "From George Russell responding to Max Verstappen's brutal comments following the Las Vegas Grand Prix to Lewis Hamilton revealing the outcome of his latest private discussions with Charles Leclerc, th...",
       "published_utc": "2026-11-26T20:15:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -3119,11 +3323,15 @@
           "url": "https://www.gpblog.com/en/news/russell-hits-back-at-verstappen-as-hamilton-reveals-leclerc-talks-f1-today",
           "source": "GPblog",
           "publisher": "GPblog",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T20:15:00+00:00",
           "title": "Russell hits back at Verstappen as Hamilton reveals Leclerc talks - F1 Today"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T20:15:00.000Z",
+      "article_modified_raw": "2026-11-26T20:15:00.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "482f89df8c526dea559c8298",
@@ -3210,12 +3418,12 @@
       "url": "https://www.gpblog.com/en/news/verstappen-quizzed-on-making-peace-with-russell-after-fiery-las-vegas-spat",
       "source": "GPblog",
       "publisher": "GPblog",
-      "description": "Max Verstappen has responded to fresh questions surrounding his feud with George Russell ahead of the Qatar Grand Prix, after the Mercedes driver stood by his comments following their controversial encounter in Las Vegas. Tensions between the two drivers reignited during the third and final practice...",
+      "description": "Max Verstappen has responded to fresh questions surrounding his feud with George Russell ahead of the Qatar Grand Prix, after the Mercedes driver stood by his comments following their controversial en...",
       "published_utc": "2026-11-26T18:24:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -3223,11 +3431,15 @@
           "url": "https://www.gpblog.com/en/news/verstappen-quizzed-on-making-peace-with-russell-after-fiery-las-vegas-spat",
           "source": "GPblog",
           "publisher": "GPblog",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T18:24:00+00:00",
           "title": "Verstappen responds to prospect of burying the hatchet with Russell"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T18:24:00.000Z",
+      "article_modified_raw": "2026-11-26T18:24:00.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "eb18592a5c62a36bc1ceaff7",
@@ -3322,12 +3534,12 @@
       "url": "https://www.gpblog.com/en/news/oliver-bearman-makes-ferrari-admission-as-haas-confirms-him-for-2027",
       "source": "GPblog",
       "publisher": "GPblog",
-      "description": "Oliver Bearman says it is still his dream to race for Ferrari, admitting he might never have earned a place on the Formula 1 grid without the chance the team gave him in Jeddah. Haas confirmed on Thursday that Bearman will remain with the team for the 2027 F1 season. Bearman is a product of the Ferr...",
+      "description": "Oliver Bearman says it is still his dream to race for Ferrari, admitting he might never have earned a place on the Formula 1 grid without the chance the team gave him in Jeddah. Haas confirmed on Thur...",
       "published_utc": "2026-11-26T16:07:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -3335,11 +3547,15 @@
           "url": "https://www.gpblog.com/en/news/oliver-bearman-makes-ferrari-admission-as-haas-confirms-him-for-2027",
           "source": "GPblog",
           "publisher": "GPblog",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T16:07:00+00:00",
           "title": "Bearman makes Ferrari admission as Haas confirms him for 2027"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T16:07:00.000Z",
+      "article_modified_raw": "2026-11-26T16:07:00.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "2daabdb94c9ff466e8d1f236",
@@ -3378,24 +3594,28 @@
       "url": "https://www.gpblog.com/en/news/russell-reveals-what-he-has-learned-from-verstappen-verbal-exchange",
       "source": "GPblog",
       "publisher": "GPblog",
-      "description": "George Russell says his exchange with Max Verstappen at the Las Vegas Grand Prix has made him rethink how openly he speaks in interviews. The Mercedes driver stood by his comments from practice when asked about Verstappen’s response after winning in Las Vegas. But speaking ahead of the Qatar Grand P...",
+      "description": "George Russell says his exchange with Max Verstappen at the Las Vegas Grand Prix has made him rethink how openly he speaks in interviews. The Mercedes driver stood by his comments from practice when a...",
       "published_utc": "2026-11-26T15:27:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "priority",
+      "date_quality": "article_metadata",
+      "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
         {
           "url": "https://www.gpblog.com/en/news/russell-reveals-what-he-has-learned-from-verstappen-verbal-exchange",
           "source": "GPblog",
           "publisher": "GPblog",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T15:27:00+00:00",
           "title": "Russell makes candid admission after Verstappen Las Vegas exchange"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T15:27:00.000Z",
+      "article_modified_raw": "2026-11-26T15:27:00.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "ea3c09c3a63b011f8c2f1855",
@@ -4007,7 +4227,7 @@
       "source": "Formula 1 Official",
       "publisher": "Formula 1",
       "description": "What could shake up the Qatar betting markets? Formula 1",
-      "published_utc": "2026-11-26T20:42:52+00:00",
+      "published_utc": "2026-11-26T20:44:31+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -4020,7 +4240,7 @@
           "source": "Formula 1 Official",
           "publisher": "Formula 1",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T20:42:52+00:00",
+          "published_utc": "2026-11-26T20:44:31+00:00",
           "title": "What could shake up the Qatar betting markets? - Formula 1"
         }
       ]
@@ -4101,7 +4321,9 @@
           "published_utc": "2026-11-27T00:30:04+00:00",
           "title": "Mercedes boss Toto Wolff reveals why rival F1 teams never try to hire him"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "fc5b441f54c7798a6fc15890",
@@ -4127,7 +4349,9 @@
           "published_utc": "2026-11-26T23:00:02+00:00",
           "title": "Toto Wolff responds to Kimi Antonelli salary questions after F1 title success"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "e13ce2cdc95691746b36a4d7",
@@ -4153,7 +4377,9 @@
           "published_utc": "2026-11-26T22:13:25+00:00",
           "title": "Max Verstappen details his ideal 2030 F1 Formula"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "2590b6ea3b5f8bf5e019a30d",
@@ -4857,7 +5083,11 @@
           "published_utc": "2026-11-27T09:05:28+00:00",
           "title": "Piastri: “Mie difficoltà quest’anno legate a maneggevolezza della vettura ed al comportamento delle gomme”"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "fbe1182419779af7ce8025d3",
@@ -4883,7 +5113,11 @@
           "published_utc": "2026-11-27T08:34:02+00:00",
           "title": "Antonelli: “Il finale di stagione è un’anteprima del 2027, sarà un campionato incerto. Il ritorno al V8 mi entusiasma.”"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "0cfbe0f7b683838d8a32c133",
@@ -4892,12 +5126,12 @@
       "url": "https://dirtfish.com/rally/wrc/toyota-enters-three-rally1-drivers-into-monte-carlo-prep-event",
       "source": "DirtFish",
       "publisher": "DirtFish",
-      "description": "Toyota has entered five drivers into next month’s Rallye National Hivernal du Dévoluy – a tradtional Monte Carlo Rally warmup event – including three of its... Read more The post Toyota enters three Rally1 drivers into Monte Carlo prep event appeared first on DirtFish .",
+      "description": "WRC – Ott Tänak, Kalle Rovanperä and Sami Pajari will all drive Toyota Rally2 cars at Rallye National Hivernal du Dévoluy",
       "published_utc": "2026-11-27T09:50:55+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -4905,11 +5139,15 @@
           "url": "https://dirtfish.com/rally/wrc/toyota-enters-three-rally1-drivers-into-monte-carlo-prep-event",
           "source": "DirtFish",
           "publisher": "DirtFish",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T09:50:55+00:00",
           "title": "Toyota enters three Rally1 drivers into Monte Carlo prep event"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T09:50:55+00:00",
+      "article_modified_raw": "2026-11-27T09:50:55+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "01a02c7631f079c7e3270de1",
@@ -5459,7 +5697,11 @@
           "published_utc": "2026-11-27T14:51:43+00:00",
           "title": "Mercedes, cambio al box in Qatar. Folio passa da Antonelli a Russell"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "19cac5264403de4e0731f5ac",
@@ -5485,7 +5727,11 @@
           "published_utc": "2026-11-27T14:41:44+00:00",
           "title": "FP1 Qatar, Antonelli parte forte: miglior tempo davanti a Russell. Avvio in sordina per la Ferrari"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "b249f79cd21cf6545882d5a0",
@@ -5494,12 +5740,12 @@
       "url": "https://dirtfish.com/off-road/dakar/quintero-beats-al-attiyah-and-loeb-to-w2rc-title",
       "source": "DirtFish",
       "publisher": "DirtFish",
-      "description": "Seth Quintero is the new World Rally-Raid (W2RC) champion, finishing just five points clear of Nasser Al-Attiyah and six ahead of Sébastien Loeb. The Toyota... Read more The post Quintero beats Al-Attiyah and Loeb to W2RC title appeared first on DirtFish .",
+      "description": "Dakar – In a tight finish, Seth Quintero defeated Nasser Al-Attiyah by five points and Sébastien Loeb by six",
       "published_utc": "2026-11-27T14:03:08+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -5507,11 +5753,15 @@
           "url": "https://dirtfish.com/off-road/dakar/quintero-beats-al-attiyah-and-loeb-to-w2rc-title",
           "source": "DirtFish",
           "publisher": "DirtFish",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T14:03:08+00:00",
           "title": "Quintero beats Al-Attiyah and Loeb to W2RC title"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T14:03:08+00:00",
+      "article_modified_raw": "2026-11-27T14:03:08+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "bf0de3f271b55125d4a76020",
@@ -5603,9 +5853,9 @@
       "description": "New F1 world champion Kimi Antonelli comfortably set the pace in first practice in Qatar, despite failing to complete a clean quick lap on the softest tyre compound",
       "published_utc": "2026-11-27T14:37:28+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -5613,11 +5863,15 @@
           "url": "https://www.the-race.com/formula-1/what-happened-in-2026-f1-qatar-gp-first-practice",
           "source": "The Race",
           "publisher": "The Race",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T14:37:28+00:00",
           "title": "What happened in 2026 F1 Qatar GP first practice"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T14:37:28.000Z",
+      "article_modified_raw": "2026-11-27T14:45:45.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "2ccc76a3ae2f3e84b118e174",
@@ -5890,12 +6144,12 @@
       "url": "https://www.gpblog.com/en/news/russell-admits-his-risk-dial-is-too-high-after-the-crash-verstappen-called-karma",
       "source": "GPblog",
       "publisher": "GPblog",
-      "description": "George Russell has admitted that his \"risk dial\" is currently too high after an ambitious move on Mercedes teammate Kimi Antonelli saw him crash into the wall on Lap 48 of the Las Vegas GP. Russell said the late crash in Nevada, which Max Verstappen called karma, came from his hunger for a standout...",
+      "description": "George Russell has admitted that his \"risk dial\" is currently too high after an ambitious move on Mercedes teammate Kimi Antonelli saw him crash into the wall on Lap 48 of the Las Vegas GP. Russell sa...",
       "published_utc": "2026-11-27T12:45:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "priority",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -5903,11 +6157,15 @@
           "url": "https://www.gpblog.com/en/news/russell-admits-his-risk-dial-is-too-high-after-the-crash-verstappen-called-karma",
           "source": "GPblog",
           "publisher": "GPblog",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T12:45:00+00:00",
           "title": "Russell admits his 'risk dial' is too high after the crash Verstappen called karma"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T12:45:00.000Z",
+      "article_modified_raw": "2026-11-27T12:55:00.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "512869079256b1ba55fce6ea",
@@ -6188,24 +6446,28 @@
       "url": "https://www.gpblog.com/en/news/verstappen-spells-out-what-truly-puts-him-off-racing-in-the-indy-500",
       "source": "GPblog",
       "publisher": "GPblog",
-      "description": "Max Verstappen has revealed why he is unwilling to take part in the Indianapolis 500, citing the risks associated with oval racing and the serious accident suffered by Nelson Piquet at Indianapolis. The four-time Formula 1 world champion has made no secret of his ambitions to compete in other motors...",
+      "description": "Max Verstappen has revealed why he is unwilling to take part in the Indianapolis 500, citing the risks associated with oval racing and the serious accident suffered by Nelson Piquet at Indianapolis. T...",
       "published_utc": "2026-11-27T02:30:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "priority",
+      "date_quality": "article_metadata",
+      "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
         {
           "url": "https://www.gpblog.com/en/news/verstappen-spells-out-what-truly-puts-him-off-racing-in-the-indy-500",
           "source": "GPblog",
           "publisher": "GPblog",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T02:30:00+00:00",
           "title": "Verstappen spells out what truly puts him off racing in the Indy 500"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T02:30:00.000Z",
+      "article_modified_raw": "2026-11-27T02:30:00.000Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "56888b92d889e94a87ab1673",
@@ -6283,7 +6545,9 @@
           "published_utc": "2026-11-27T14:49:15+00:00",
           "title": "中東情勢不安も無事開催に漕ぎ着け……アントネッリが圧倒の首位発進。ラッセルが続きメルセデス1-2｜F1カタールGPフリー走行1回目"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "c04d11a431b5e557968884c9",
@@ -6309,7 +6573,9 @@
           "published_utc": "2026-11-27T14:31:55+00:00",
           "title": "F1カタールGP FP1速報｜王者アントネッリ、ミディアムタイヤで最速タイム。アストンマーティン・ホンダ勢は19＆20番手"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "940d5210aa97b384ddfff927",
@@ -6415,7 +6681,9 @@
           "published_utc": "2026-11-27T11:32:02+00:00",
           "title": "ハースと契約延長。ベアマンが改めてフェラーリ昇格への思い語る「また赤いレーシングスーツを着たい」"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://jp.motorsport.com/f1/news/2026-qatar-bearman-thu-presser/10878105"
     },
     {
       "id": "d699397466feee2ecd51237a",
@@ -6441,7 +6709,9 @@
           "published_utc": "2026-11-27T10:19:43+00:00",
           "title": "ルクレールの動きはペナルティなの？ アルボン、フェラーリ同士討ちの裁定に疑問呈す「ルールが曖昧で、グレーゾーンが多い」"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "e81945542bae3c230e5632ee",
@@ -6623,7 +6893,9 @@
           "published_utc": "2026-11-27T03:00:35+00:00",
           "title": "ルクレール、フェラーリへの忠誠心を疑う声に怒り「個人的にナンバー1待遇を求めたことは1度もない」"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "6706f2b672584f8e2c9fdf49",
@@ -6649,7 +6921,9 @@
           "published_utc": "2026-11-27T02:30:55+00:00",
           "title": "アロンソのエンジンに問題見つからず。ラスベガスGPで「壊れた！」と訴え……ホンダ折原エンジニア「データ上の問題は見当たらなかった」"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "811d0a9648c47188ca3e63b7",
@@ -10924,6 +11198,1566 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-27T10:55:32+00:00",
           "title": "Nach Verstappens Spott: Russell überrascht mit versöhnlichen Worten - Auto Motor und Sport"
+        }
+      ]
+    },
+    {
+      "id": "52b0e785ed15f58648b8a7e3",
+      "topic": "F1",
+      "title": "Document 11 - FIA Document Management System - Federation Internationale de l'Automobile",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSHpDVGVJTi1UNVBoOVBlZlZNd1BqTTFhTGVDd2NuaHdpbzFDb29MMUpTdUhtbDByaDlHbDRIdDIxcnY3NEFyR2stNjJENUxyampwTkFPb3MteUI1WXp6NUdLRzR2Mlpkd2VHLVNGTTBpLV96ak1pSl9lR0Ztd0xqeENEWU5FSUNtM2xvTmFLMEhlYnZFa1JFWk85TFQwSUxPRnM0UjVjWlpBcklYbGdfYjNBdHdyT0kxTF9qMmJOc3l4RFk?oc=5",
+      "source": "FIA",
+      "publisher": "Federation Internationale de l'Automobile",
+      "description": "Document 11 - FIA Document Management System Federation Internationale de l'Automobile",
+      "published_utc": "2026-11-27T13:54:46+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSHpDVGVJTi1UNVBoOVBlZlZNd1BqTTFhTGVDd2NuaHdpbzFDb29MMUpTdUhtbDByaDlHbDRIdDIxcnY3NEFyR2stNjJENUxyampwTkFPb3MteUI1WXp6NUdLRzR2Mlpkd2VHLVNGTTBpLV96ak1pSl9lR0Ztd0xqeENEWU5FSUNtM2xvTmFLMEhlYnZFa1JFWk85TFQwSUxPRnM0UjVjWlpBcklYbGdfYjNBdHdyT0kxTF9qMmJOc3l4RFk?oc=5",
+          "source": "FIA",
+          "publisher": "Federation Internationale de l'Automobile",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T13:54:46+00:00",
+          "title": "Document 11 - FIA Document Management System - Federation Internationale de l'Automobile"
+        }
+      ]
+    },
+    {
+      "id": "ebbb73bbd65fd26f4071fdd8",
+      "topic": "F1",
+      "title": "Document 10 - FIA Document Management System - Federation Internationale de l'Automobile",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa1BqUC16MzlaRXBWX3Jqd3ZDdXd1RTIzYTJDTG9qd3N0SERQaDRaSEpRd05CN2tndE52YXV3Yi1EMURTdzQxTUZfQnFrckFDLXRnT3VhV0JrNno4TFQzRVZyV0IxY01LQ1N2cEw0NkV6UUV0NzdyUEhHc2s2VjBaLVh2QjhlTFhtNGRxQVhB?oc=5",
+      "source": "FIA",
+      "publisher": "Federation Internationale de l'Automobile",
+      "description": "Document 10 - FIA Document Management System Federation Internationale de l'Automobile",
+      "published_utc": "2026-11-27T10:07:11+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa1BqUC16MzlaRXBWX3Jqd3ZDdXd1RTIzYTJDTG9qd3N0SERQaDRaSEpRd05CN2tndE52YXV3Yi1EMURTdzQxTUZfQnFrckFDLXRnT3VhV0JrNno4TFQzRVZyV0IxY01LQ1N2cEw0NkV6UUV0NzdyUEhHc2s2VjBaLVh2QjhlTFhtNGRxQVhB?oc=5",
+          "source": "FIA",
+          "publisher": "Federation Internationale de l'Automobile",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T10:07:11+00:00",
+          "title": "Document 10 - FIA Document Management System - Federation Internationale de l'Automobile"
+        }
+      ]
+    },
+    {
+      "id": "05868a9a484218d2c042db5c",
+      "topic": "F1",
+      "title": "Document 12 - FIA Document Management System - Federation Internationale de l'Automobile",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN2ptcXZqNFVpOXRZcWVHZnZJcW1QdFlkZmtpVm9ZclNVT0ZiaXdQU0NCQ0RsZWg1aUpFZWRtRXhNS0U0V0ZhU1QwUm9FOEtwUmV1VU9GUE1KQnJQZmUyalhqMVdkd1FqZGEybl81VzFCcXBQODM2NXJGSDV3OEJLTm1GTndpalVldDVRblFHeUdKMlA5eG8wR2hQNzZwRnZlYk92X2pMa3p6ZGNiRDFYajE4UVlRRTlDRWtQV200M2Y?oc=5",
+      "source": "FIA",
+      "publisher": "Federation Internationale de l'Automobile",
+      "description": "Document 12 - FIA Document Management System Federation Internationale de l'Automobile",
+      "published_utc": "2026-11-27T13:54:39+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN2ptcXZqNFVpOXRZcWVHZnZJcW1QdFlkZmtpVm9ZclNVT0ZiaXdQU0NCQ0RsZWg1aUpFZWRtRXhNS0U0V0ZhU1QwUm9FOEtwUmV1VU9GUE1KQnJQZmUyalhqMVdkd1FqZGEybl81VzFCcXBQODM2NXJGSDV3OEJLTm1GTndpalVldDVRblFHeUdKMlA5eG8wR2hQNzZwRnZlYk92X2pMa3p6ZGNiRDFYajE4UVlRRTlDRWtQV200M2Y?oc=5",
+          "source": "FIA",
+          "publisher": "Federation Internationale de l'Automobile",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T13:54:39+00:00",
+          "title": "Document 12 - FIA Document Management System - Federation Internationale de l'Automobile"
+        }
+      ]
+    },
+    {
+      "id": "45e9958c35c0dae313ee338c",
+      "topic": "F1",
+      "title": "Document 9 - FIA Document Management System - Federation Internationale de l'Automobile",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSU1EaF9IbU9XT3lfRWZtY2pPVjVaUFVTdW5GbTlrdWZtZEZPUXp0b2swY21zc0dmTURUcXN6X3IxSF92VEVRQjFmTGJnZTh2TGNtU1BVNEpId3ljcTRzNnJaSnlkUGZnN1JGcUs4LUJhRmtJTkwyczRmYTQzbzA0N1Vvd0o0cV9Pczg0XzFwOUhpbVh4NTVDeG5YTklqQQ?oc=5",
+      "source": "FIA",
+      "publisher": "Federation Internationale de l'Automobile",
+      "description": "Document 9 - FIA Document Management System Federation Internationale de l'Automobile",
+      "published_utc": "2026-11-27T10:07:09+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSU1EaF9IbU9XT3lfRWZtY2pPVjVaUFVTdW5GbTlrdWZtZEZPUXp0b2swY21zc0dmTURUcXN6X3IxSF92VEVRQjFmTGJnZTh2TGNtU1BVNEpId3ljcTRzNnJaSnlkUGZnN1JGcUs4LUJhRmtJTkwyczRmYTQzbzA0N1Vvd0o0cV9Pczg0XzFwOUhpbVh4NTVDeG5YTklqQQ?oc=5",
+          "source": "FIA",
+          "publisher": "Federation Internationale de l'Automobile",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T10:07:09+00:00",
+          "title": "Document 9 - FIA Document Management System - Federation Internationale de l'Automobile"
+        }
+      ]
+    },
+    {
+      "id": "f829eb5de366dc8ed608750c",
+      "topic": "F1",
+      "title": "Sprint Qualifying - Federation Internationale de l'Automobile",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOckNab3BZVFdqWkx3ZVJqX1dHWTNIbHlYaXNMVW1TZ2xEaU1aN0xtckMyX1VDNTN1M2t0aVFYQURoR0t6bEFCMGYwdVlFUldiSzdIZFBrOUM4MXIyU0pOLTFpN2JhQWdfN2VwblpVMF9tNTUwMVN6d3A4MXgzLWJoZFRVajlUNlBMQ1V4WmFxbmgzeXg5Y1VrV2t4NEhyakpQZ2dQVEhIZ1BWOE9D?oc=5",
+      "source": "FIA",
+      "publisher": "Federation Internationale de l'Automobile",
+      "description": "Sprint Qualifying Federation Internationale de l'Automobile",
+      "published_utc": "2026-11-27T14:04:42+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOckNab3BZVFdqWkx3ZVJqX1dHWTNIbHlYaXNMVW1TZ2xEaU1aN0xtckMyX1VDNTN1M2t0aVFYQURoR0t6bEFCMGYwdVlFUldiSzdIZFBrOUM4MXIyU0pOLTFpN2JhQWdfN2VwblpVMF9tNTUwMVN6d3A4MXgzLWJoZFRVajlUNlBMQ1V4WmFxbmgzeXg5Y1VrV2t4NEhyakpQZ2dQVEhIZ1BWOE9D?oc=5",
+          "source": "FIA",
+          "publisher": "Federation Internationale de l'Automobile",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T14:04:42+00:00",
+          "title": "Sprint Qualifying - Federation Internationale de l'Automobile"
+        }
+      ]
+    },
+    {
+      "id": "3aea3c67e88cfc356fb5edc3",
+      "topic": "F1",
+      "title": "2026 LUSAIL EVENT - Federation Internationale de l'Automobile",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX0ZtdG5EVElKSUdUSDgzWjVETXdYSTN4WnZ2eWd6R2JGTXItNEFRY1JqWmFmQVBzLUZJSURYd3NvdUlhU2k1d0htUmVuUFlobmYwcTZzanVyVTI1dTdKS2tZSkFFNzZxZDJsbkg0dmd3S2FhOVRNSFYwejhWXzNjaFJ1c0lUZE45TG94b214UlMtM0pCQzVnUzUyUkxLMHhxQmJkTGZB?oc=5",
+      "source": "FIA",
+      "publisher": "Federation Internationale de l'Automobile",
+      "description": "2026 LUSAIL EVENT Federation Internationale de l'Automobile",
+      "published_utc": "2026-11-27T13:54:27+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX0ZtdG5EVElKSUdUSDgzWjVETXdYSTN4WnZ2eWd6R2JGTXItNEFRY1JqWmFmQVBzLUZJSURYd3NvdUlhU2k1d0htUmVuUFlobmYwcTZzanVyVTI1dTdKS2tZSkFFNzZxZDJsbkg0dmd3S2FhOVRNSFYwejhWXzNjaFJ1c0lUZE45TG94b214UlMtM0pCQzVnUzUyUkxLMHhxQmJkTGZB?oc=5",
+          "source": "FIA",
+          "publisher": "Federation Internationale de l'Automobile",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T13:54:27+00:00",
+          "title": "2026 LUSAIL EVENT - Federation Internationale de l'Automobile"
+        }
+      ]
+    },
+    {
+      "id": "7af6d34548f41cef842efd53",
+      "topic": "F1",
+      "title": "Published on 27.11.2026 - Federation Internationale de l'Automobile",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVpzeE5MakxKM3pXX0dfWGZDelNGb1FnWG9xay1ReW01YjZLZW84VTFRX2xxS3VyTTIzdHNnbGRKcjNMVFJSVzJWd2JkRWtYWTN6d2VqazhaUlE5ZU54ekJqUDFmNHZLcWNDX25yMU5tUGhXcWR6dm56dVVlZTJtdTBydEdVdFhzUzhRR05HN3NibUZlNDhWbA?oc=5",
+      "source": "FIA",
+      "publisher": "Federation Internationale de l'Automobile",
+      "description": "Published on 27.11.2026 Federation Internationale de l'Automobile",
+      "published_utc": "2026-11-27T12:53:10+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVpzeE5MakxKM3pXX0dfWGZDelNGb1FnWG9xay1ReW01YjZLZW84VTFRX2xxS3VyTTIzdHNnbGRKcjNMVFJSVzJWd2JkRWtYWTN6d2VqazhaUlE5ZU54ekJqUDFmNHZLcWNDX25yMU5tUGhXcWR6dm56dVVlZTJtdTBydEdVdFhzUzhRR05HN3NibUZlNDhWbA?oc=5",
+          "source": "FIA",
+          "publisher": "Federation Internationale de l'Automobile",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T12:53:10+00:00",
+          "title": "Published on 27.11.2026 - Federation Internationale de l'Automobile"
+        }
+      ]
+    },
+    {
+      "id": "da91b866b6a925a6e6e70874",
+      "topic": "F1",
+      "title": "Published on 27.11.2026 - Federation Internationale de l'Automobile",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdEZkNWp4SVkyXzE2QlNHNTBTNm4yM1lkRlVhUG1seGFDY0w5b0licElzc0JmMFNGVERucXhpOGF5MVZOQkV0a2xDY0dlNnRnXzUxdl9JNW1rY0otNHk4OVliNVQtek9nNC1wQkF1VGVjeEs5QnQxRjROSmpjcGZOcVROUFBwVTFMa1JuZFB0T1ZaYXRIS2pYcW8yXy04NlpoTkE?oc=5",
+      "source": "FIA",
+      "publisher": "Federation Internationale de l'Automobile",
+      "description": "Published on 27.11.2026 Federation Internationale de l'Automobile",
+      "published_utc": "2026-11-27T12:53:06+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdEZkNWp4SVkyXzE2QlNHNTBTNm4yM1lkRlVhUG1seGFDY0w5b0licElzc0JmMFNGVERucXhpOGF5MVZOQkV0a2xDY0dlNnRnXzUxdl9JNW1rY0otNHk4OVliNVQtek9nNC1wQkF1VGVjeEs5QnQxRjROSmpjcGZOcVROUFBwVTFMa1JuZFB0T1ZaYXRIS2pYcW8yXy04NlpoTkE?oc=5",
+          "source": "FIA",
+          "publisher": "Federation Internationale de l'Automobile",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T12:53:06+00:00",
+          "title": "Published on 27.11.2026 - Federation Internationale de l'Automobile"
+        }
+      ]
+    },
+    {
+      "id": "11f321e9c2e31461a34e824e",
+      "topic": "F1",
+      "title": "2026 LUSAIL EVENT - Federation Internationale de l'Automobile",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQam52YlV3ZkR2ekZ5OWdhbEVEQVYxNHk0clhOR2VOSEFvVG5kZ0c5LU04MlpiZ3g5RWNEdWNCUUN0YWdPVjdINTJMMklPVDBfTlJHSkYxMmhkT3REZkYwQi0zejNOVWFqdk93WTMxRENOMmtkZzZlY1BNRlRqZFNjdWFQNkozZS01T1ZMUEpycmlwNU5YZjljMlY3cXdmTF9MQUNpcUlQYTNZRWgzejY0?oc=5",
+      "source": "FIA",
+      "publisher": "Federation Internationale de l'Automobile",
+      "description": "2026 LUSAIL EVENT Federation Internationale de l'Automobile",
+      "published_utc": "2026-11-27T13:54:51+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQam52YlV3ZkR2ekZ5OWdhbEVEQVYxNHk0clhOR2VOSEFvVG5kZ0c5LU04MlpiZ3g5RWNEdWNCUUN0YWdPVjdINTJMMklPVDBfTlJHSkYxMmhkT3REZkYwQi0zejNOVWFqdk93WTMxRENOMmtkZzZlY1BNRlRqZFNjdWFQNkozZS01T1ZMUEpycmlwNU5YZjljMlY3cXdmTF9MQUNpcUlQYTNZRWgzejY0?oc=5",
+          "source": "FIA",
+          "publisher": "Federation Internationale de l'Automobile",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T13:54:51+00:00",
+          "title": "2026 LUSAIL EVENT - Federation Internationale de l'Automobile"
+        }
+      ]
+    },
+    {
+      "id": "82dda39231e320d76ad2004c",
+      "topic": "F1",
+      "title": "2026 QATAR GRAND PRIX - Federation Internationale de l'Automobile",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTY0SEhwcWpDamZ5YzkwdTRLQndQT3IxNzJXMkFwbFBRNUszYXZlRFN3YjJJWGRJdHkxa0NNcXFSdzBMVFJ4NWF6eW94OHZETjUyZDgyRkk2MWFqTXJYM1dtU2RGdmVHeTVodXNybDFPVC00WW9DVXZTS0l6Szhack5PWHBlU0ZhVHZVTl9Qb2Z2c3pseVlMVkprakdHVzUtYlMzLXE2UlI0MnFKT25nV09UOXU?oc=5",
+      "source": "FIA",
+      "publisher": "Federation Internationale de l'Automobile",
+      "description": "2026 QATAR GRAND PRIX Federation Internationale de l'Automobile",
+      "published_utc": "2026-11-27T12:55:15+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTY0SEhwcWpDamZ5YzkwdTRLQndQT3IxNzJXMkFwbFBRNUszYXZlRFN3YjJJWGRJdHkxa0NNcXFSdzBMVFJ4NWF6eW94OHZETjUyZDgyRkk2MWFqTXJYM1dtU2RGdmVHeTVodXNybDFPVC00WW9DVXZTS0l6Szhack5PWHBlU0ZhVHZVTl9Qb2Z2c3pseVlMVkprakdHVzUtYlMzLXE2UlI0MnFKT25nV09UOXU?oc=5",
+          "source": "FIA",
+          "publisher": "Federation Internationale de l'Automobile",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T12:55:15+00:00",
+          "title": "2026 QATAR GRAND PRIX - Federation Internationale de l'Automobile"
+        }
+      ]
+    },
+    {
+      "id": "299a22a5af8c93cd9fd55102",
+      "topic": "F1",
+      "title": "2026 LUSAIL EVENT - Federation Internationale de l'Automobile",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbF9ja1gtd2MxQlMzVVE5M01tYzh5dHRaVWNSU1RyNlNCN3JIcTd0OFI3OTNZd1BFcDF1VFJpMXpYWndHdlEwY25mNlUtRS0xaS1Rd05SNnhCM2tpVW1Gakl1OHFFOGU0OEZZVlpvLS1BMkNyVDl3WnFjeTFNb3pjODc2Z1l1bFFxbFQ4VmhWV3pxc1VlR0JfZkt6QkxNVGxOWmc?oc=5",
+      "source": "FIA",
+      "publisher": "Federation Internationale de l'Automobile",
+      "description": "2026 LUSAIL EVENT Federation Internationale de l'Automobile",
+      "published_utc": "2026-11-27T01:25:34+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbF9ja1gtd2MxQlMzVVE5M01tYzh5dHRaVWNSU1RyNlNCN3JIcTd0OFI3OTNZd1BFcDF1VFJpMXpYWndHdlEwY25mNlUtRS0xaS1Rd05SNnhCM2tpVW1Gakl1OHFFOGU0OEZZVlpvLS1BMkNyVDl3WnFjeTFNb3pjODc2Z1l1bFFxbFQ4VmhWV3pxc1VlR0JfZkt6QkxNVGxOWmc?oc=5",
+          "source": "FIA",
+          "publisher": "Federation Internationale de l'Automobile",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T01:25:34+00:00",
+          "title": "2026 LUSAIL EVENT - Federation Internationale de l'Automobile"
+        }
+      ]
+    },
+    {
+      "id": "c78a3154fe5fb01c5901a2d5",
+      "topic": "F1",
+      "title": "2026 QATAR GRAND PRIX - Federation Internationale de l'Automobile",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRm8xSlN5aU9OWm9CSHRsNW9fRDdJUlo3MEpidDNaTmNrcjB2dUFjSFEzZ0MtLWFsNUFWQjc5SlRSZVFiWnFBZ2g0ZF9aX2s4Zl9veTVVUWJtNTdibUUybU1NUXQyRGhtdWU4NTF6X21BTHVBVEYwS0ZBYWZFenhoQnhkOTBYM0xJcUFlMVh4cWNXV1FiWTdYVHBvOEV1WnlPdlU4QnJQelItVUU?oc=5",
+      "source": "FIA",
+      "publisher": "Federation Internationale de l'Automobile",
+      "description": "2026 QATAR GRAND PRIX Federation Internationale de l'Automobile",
+      "published_utc": "2026-11-27T12:55:06+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRm8xSlN5aU9OWm9CSHRsNW9fRDdJUlo3MEpidDNaTmNrcjB2dUFjSFEzZ0MtLWFsNUFWQjc5SlRSZVFiWnFBZ2g0ZF9aX2s4Zl9veTVVUWJtNTdibUUybU1NUXQyRGhtdWU4NTF6X21BTHVBVEYwS0ZBYWZFenhoQnhkOTBYM0xJcUFlMVh4cWNXV1FiWTdYVHBvOEV1WnlPdlU4QnJQelItVUU?oc=5",
+          "source": "FIA",
+          "publisher": "Federation Internationale de l'Automobile",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T12:55:06+00:00",
+          "title": "2026 QATAR GRAND PRIX - Federation Internationale de l'Automobile"
+        }
+      ]
+    },
+    {
+      "id": "daee5a53d2296dc3327b7f53",
+      "topic": "F1",
+      "title": "Hamilton 'focused on maximising points in the final two races' - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkZZbExBbG1hTmlIU0dsVHAzZ053WFRGMHN3d3VaUWNWaDdCQ3BVYlQxMUpDcUFWeDk1S3ZxRUpVeFk3RURvWExJYkxjRGVSdVFnWVdSSDJpcFpKajQ4U0JOT0tic0FvQWtxc3ZkemN0SGdtaXlfd3pkSFZiRzdZeTZ6OUJUM3pPeEhQS1NVbnIxTUhjb2twOXF2NkhmaVN3RTRheVh1TjM1SjFyNU0tYmpyZG0?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "Hamilton 'focused on maximising points in the final two races' Formula 1",
+      "published_utc": "2026-11-26T19:22:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkZZbExBbG1hTmlIU0dsVHAzZ053WFRGMHN3d3VaUWNWaDdCQ3BVYlQxMUpDcUFWeDk1S3ZxRUpVeFk3RURvWExJYkxjRGVSdVFnWVdSSDJpcFpKajQ4U0JOT0tic0FvQWtxc3ZkemN0SGdtaXlfd3pkSFZiRzdZeTZ6OUJUM3pPeEhQS1NVbnIxTUhjb2twOXF2NkhmaVN3RTRheVh1TjM1SjFyNU0tYmpyZG0?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T19:22:00+00:00",
+          "title": "Hamilton 'focused on maximising points in the final two races' - Formula 1"
+        }
+      ]
+    },
+    {
+      "id": "4e48eda76093bfe0e993c36f",
+      "topic": "F1",
+      "title": "Antonelli leads Russell in Qatar as Mercedes control FP1 - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc0g4dlJidTZNSm1oWTNDbDVQYmtLYUhJY2FUazlPZ3FzZ3lCVVRwLTAya0l4OUJEMTVnTnNKeDBBM1FwOXZ4VGVVOXBoc0xDVVd2WXBJaHU4WXg3M1JrNThkNWJKXy1HbjBxSHBzbHl6bU94S3J1eXRxSnBRcXptTi0xVzlDcmN2NmZJMURLZWg3QktpWmdUS3RIaklwUEh5R0FyZkxzS0JWRzkzRGRqM1pfX1U4QnpSTE1yLTI3cHlvdkNjQTlXeW1tWnQwbVpMNmlqNExR?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "Antonelli leads Russell in Qatar as Mercedes control FP1 Formula 1",
+      "published_utc": "2026-11-27T14:43:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc0g4dlJidTZNSm1oWTNDbDVQYmtLYUhJY2FUazlPZ3FzZ3lCVVRwLTAya0l4OUJEMTVnTnNKeDBBM1FwOXZ4VGVVOXBoc0xDVVd2WXBJaHU4WXg3M1JrNThkNWJKXy1HbjBxSHBzbHl6bU94S3J1eXRxSnBRcXptTi0xVzlDcmN2NmZJMURLZWg3QktpWmdUS3RIaklwUEh5R0FyZkxzS0JWRzkzRGRqM1pfX1U4QnpSTE1yLTI3cHlvdkNjQTlXeW1tWnQwbVpMNmlqNExR?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T14:43:00+00:00",
+          "title": "Antonelli leads Russell in Qatar as Mercedes control FP1 - Formula 1"
+        }
+      ]
+    },
+    {
+      "id": "2a88a47d8fe4316a842ee425",
+      "topic": "F1",
+      "title": "All the stories that got the Qatar paddock talking - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdU0yTDNMaXN3blAtbTBVc1JYSHVmbXR1OFFic2t2X05Qck9FSTRjSlF5cGIwU214ZmFwdEZxclRldl8zcmlLRXFhWkNmU29wa205MXc4SldySG5ZaEkwWHlVTnNGV0tRS2VGRmszaVlRYmRDZGFfS3NVMzlHUWx1Z3U5SW1UMDdoUC1CNmh2dDRPQmVWdzFsVWxnREl4eGhjal83Q1NYMGpEaEh3cTlYemZ1dzBpcVE?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "All the stories that got the Qatar paddock talking Formula 1",
+      "published_utc": "2026-11-27T00:06:54+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdU0yTDNMaXN3blAtbTBVc1JYSHVmbXR1OFFic2t2X05Qck9FSTRjSlF5cGIwU214ZmFwdEZxclRldl8zcmlLRXFhWkNmU29wa205MXc4SldySG5ZaEkwWHlVTnNGV0tRS2VGRmszaVlRYmRDZGFfS3NVMzlHUWx1Z3U5SW1UMDdoUC1CNmh2dDRPQmVWdzFsVWxnREl4eGhjal83Q1NYMGpEaEh3cTlYemZ1dzBpcVE?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T00:06:54+00:00",
+          "title": "All the stories that got the Qatar paddock talking - Formula 1"
+        }
+      ]
+    },
+    {
+      "id": "8354433370a3e2491be821a9",
+      "topic": "F1",
+      "title": "LIVE COVERAGE: Follow all the action from first practice for the Qatar Grand Prix - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLUtBcEhWQ1pBV2JfbThLU3U3ZU9vRm9jYXBDVmhEdzA2a0x0Vl9obXgtSl9QYnFRSzdmbzdXWUprV1g4OTFjMGhFQjQ2M0plVEpWdE95dEtZVE1XQ0x4Qm43RlctdGJuOUl2N1NtQVdUekpMbzJ5THVNSDY4RXBJelViNUYyVHI2QnN0R09jQjdDbkhYS1JWNFlqaHhNb01NRWhuQmhsaTZFX1E3?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "LIVE COVERAGE: Follow all the action from first practice for the Qatar Grand Prix Formula 1",
+      "published_utc": "2026-11-27T13:15:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLUtBcEhWQ1pBV2JfbThLU3U3ZU9vRm9jYXBDVmhEdzA2a0x0Vl9obXgtSl9QYnFRSzdmbzdXWUprV1g4OTFjMGhFQjQ2M0plVEpWdE95dEtZVE1XQ0x4Qm43RlctdGJuOUl2N1NtQVdUekpMbzJ5THVNSDY4RXBJelViNUYyVHI2QnN0R09jQjdDbkhYS1JWNFlqaHhNb01NRWhuQmhsaTZFX1E3?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T13:15:00+00:00",
+          "title": "LIVE COVERAGE: Follow all the action from first practice for the Qatar Grand Prix - Formula 1"
+        }
+      ]
+    },
+    {
+      "id": "93aab6bd7321f58bfcc50ea8",
+      "topic": "F1",
+      "title": "Weekend Warm-Up - 2026 Qatar Grand Prix - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRWxtaUZtY2szWEs3NTR3aHNNOTVMZzFJWV9CdTNVTFdfa1d3WV82SEd1MzNyRV9PdEsyM1pVTHR6NnVaOTk0UDhOQzd4c1dsSlBERHB1eEY3Z1VCcnRxVE9SdVBxc2VZb2dqLThDTkhRYl9vbUF4eXFBR3UxTjF4bk1jTDRwS0hPVF9LcDRNRHNobFM2bWc?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "Weekend Warm-Up - 2026 Qatar Grand Prix Formula 1",
+      "published_utc": "2026-11-26T19:04:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRWxtaUZtY2szWEs3NTR3aHNNOTVMZzFJWV9CdTNVTFdfa1d3WV82SEd1MzNyRV9PdEsyM1pVTHR6NnVaOTk0UDhOQzd4c1dsSlBERHB1eEY3Z1VCcnRxVE9SdVBxc2VZb2dqLThDTkhRYl9vbUF4eXFBR3UxTjF4bk1jTDRwS0hPVF9LcDRNRHNobFM2bWc?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T19:04:00+00:00",
+          "title": "Weekend Warm-Up - 2026 Qatar Grand Prix - Formula 1"
+        }
+      ]
+    },
+    {
+      "id": "076fe1ebf9a1b9acb04b0f1a",
+      "topic": "F1",
+      "title": "Antonelli hoping to finish 2026 season 'on a high' - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONzg5WnV0OGR5djBtR1FPdWI1VlRHNlUzOEdoeHktU1V1SHU4ZThBUjNnRmVZX0JqQjcwandsNmpobE80b0lZbHZLN0RUb0VwMGpDUnBLQ0xmeHEwUEU2Q0dMQkFLNVJzMDZUR3dxUU1yTExUSUR3ZTJ6SElDR0VjN3BidUpMVDhhSFBFTWE2SlBVQnJOeUF5ckVKTWdUZV9zMkQ1bw?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "Antonelli hoping to finish 2026 season 'on a high' Formula 1",
+      "published_utc": "2026-11-26T19:26:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONzg5WnV0OGR5djBtR1FPdWI1VlRHNlUzOEdoeHktU1V1SHU4ZThBUjNnRmVZX0JqQjcwandsNmpobE80b0lZbHZLN0RUb0VwMGpDUnBLQ0xmeHEwUEU2Q0dMQkFLNVJzMDZUR3dxUU1yTExUSUR3ZTJ6SElDR0VjN3BidUpMVDhhSFBFTWE2SlBVQnJOeUF5ckVKTWdUZV9zMkQ1bw?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T19:26:00+00:00",
+          "title": "Antonelli hoping to finish 2026 season 'on a high' - Formula 1"
+        }
+      ]
+    },
+    {
+      "id": "f373bf135a1006644a11c7ee",
+      "topic": "F1",
+      "title": "F1 House 44 São Paulo 2027 | Formula 1® - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTWZqdkVNSVZkdHVSbTFIOWhyUmNRM29ZVFhEOEcxdFB2aUNtaElEbDlyX1cwNnhzUVZnWERyZXd5RGFvd1JwSk1aeUxodUdIZkNfd1FUY0FGY1c5Y3BGZHo4akl3UElKM2tTbHlCb1JuWWN2akZwb0huMTV1eTlmbW0tc2hHczFHdVhPT3FWSnhBekRoRnVN?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "F1 House 44 São Paulo 2027 | Formula 1® Formula 1",
+      "published_utc": "2026-11-27T05:22:39+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTWZqdkVNSVZkdHVSbTFIOWhyUmNRM29ZVFhEOEcxdFB2aUNtaElEbDlyX1cwNnhzUVZnWERyZXd5RGFvd1JwSk1aeUxodUdIZkNfd1FUY0FGY1c5Y3BGZHo4akl3UElKM2tTbHlCb1JuWWN2akZwb0huMTV1eTlmbW0tc2hHczFHdVhPT3FWSnhBekRoRnVN?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T05:22:39+00:00",
+          "title": "F1 House 44 São Paulo 2027 | Formula 1® - Formula 1"
+        }
+      ]
+    },
+    {
+      "id": "6cd09166bd9ca3157e7939e0",
+      "topic": "F1",
+      "title": "Higher or Lower - F1 - Formula 1",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSXlPNURQRW9xMVUtMW81emFYOHJGanNXaVdvajJsWVFoUXpaeDdSc2l2Unk2U2ltb2IwaUtnODZtQVprMGN4eFMtcHZGRGhoVUgxV2cxZG5ITVZ5WF8zYmNHbnBJRWVxOWRya3cxcHkyVzRUZWFUTnVlVTlUaW1XR2xtNWw?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "Formula 1",
+      "description": "Higher or Lower - F1 Formula 1",
+      "published_utc": "2026-11-27T09:22:20+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSXlPNURQRW9xMVUtMW81emFYOHJGanNXaVdvajJsWVFoUXpaeDdSc2l2Unk2U2ltb2IwaUtnODZtQVprMGN4eFMtcHZGRGhoVUgxV2cxZG5ITVZ5WF8zYmNHbnBJRWVxOWRya3cxcHkyVzRUZWFUTnVlVTlUaW1XR2xtNWw?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "Formula 1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T09:22:20+00:00",
+          "title": "Higher or Lower - F1 - Formula 1"
+        }
+      ]
+    },
+    {
+      "id": "d33a279fe8bbc1f0719cc26c",
+      "topic": "F1",
+      "title": "Williams Racing New Era Team 1/4 Zip Midlayer - F1 Store",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU2VqSE4ycjhITDVfUk9TZFZKYVZySFRUOWVHYlhfeHlUZWZ1eE02eVJ1cGQzM0h4QWVKQ0NtYkkydFhzN29sSE4tSDdCLTdNY05pVndEeDJiaUVQV0lkakY2OFo0MzhKSm9ONlN3VWU3cTRBekV2aUxQUzRlTm5sTVVCcEJSM25aQkF2bEU2UG5rWjlxeGdaNXZtOS00RGJlbTZveGlsb1d3ZWE2alFlaGFUaFNqalJnZDZMaHN2UThPWTdUa3VTdE5xUTVQbmZBTFdGVA?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "F1 Store",
+      "description": "Williams Racing New Era Team 1/4 Zip Midlayer F1 Store",
+      "published_utc": "2026-11-26T20:52:55+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU2VqSE4ycjhITDVfUk9TZFZKYVZySFRUOWVHYlhfeHlUZWZ1eE02eVJ1cGQzM0h4QWVKQ0NtYkkydFhzN29sSE4tSDdCLTdNY05pVndEeDJiaUVQV0lkakY2OFo0MzhKSm9ONlN3VWU3cTRBekV2aUxQUzRlTm5sTVVCcEJSM25aQkF2bEU2UG5rWjlxeGdaNXZtOS00RGJlbTZveGlsb1d3ZWE2alFlaGFUaFNqalJnZDZMaHN2UThPWTdUa3VTdE5xUTVQbmZBTFdGVA?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "F1 Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T20:52:55+00:00",
+          "title": "Williams Racing New Era Team 1/4 Zip Midlayer - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "971affedfd6b2fef997e634e",
+      "topic": "F1",
+      "title": "Gifts For Kids - F1 Store",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZm5adlo0VXMxLUZuTDNuaWlPODJiaVBSZVNoVXJhMW9QR0hxVDVzUEFocDN4VjVzbUJWQ2l3WXhNanVzV041MzhYSzV0cktvRXFaMjRTVzIzaFNHQ0NKYjcyRUdWTUtBWXo3U3R2UDBtd3NVVVdMQXBMMzkzYkw1TWZOQ0R5ODl4NjJjWW5YZElnTzlxRHBDand6UnJzWEppTERVQ0k1YlBHcFpMNzdTbld4eWQzN29JeE5iTEptZw?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "F1 Store",
+      "description": "Gifts For Kids F1 Store",
+      "published_utc": "2026-11-26T20:12:27+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZm5adlo0VXMxLUZuTDNuaWlPODJiaVBSZVNoVXJhMW9QR0hxVDVzUEFocDN4VjVzbUJWQ2l3WXhNanVzV041MzhYSzV0cktvRXFaMjRTVzIzaFNHQ0NKYjcyRUdWTUtBWXo3U3R2UDBtd3NVVVdMQXBMMzkzYkw1TWZOQ0R5ODl4NjJjWW5YZElnTzlxRHBDand6UnJzWEppTERVQ0k1YlBHcFpMNzdTbld4eWQzN29JeE5iTEptZw?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "F1 Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T20:12:27+00:00",
+          "title": "Gifts For Kids - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "8438ac71cb734517de248713",
+      "topic": "F1",
+      "title": "Charles Leclerc Hoodies - F1 Store",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZm9RRVBWbkVua0xJYmpidmVlZXAxa1RhOGY1aFhqWnAxOWlIMHR4RXdIdlNsQmdVMjA0eFBUOTY0YVFiVDBBa0VNenRUaEpBNXUxdW9sdFFZNThTZEczdlUzV2FwMENaRUVaN0UzRVhOeWJvUlhTanpyclN6QjZtZUJUMG0wSUw1b29sSGxpcHdKd2JpcG5yTE5na3lKMHhSbUh5ZnAxcG1QNUcxM2d4N2t2MDU?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "F1 Store",
+      "description": "Charles Leclerc Hoodies F1 Store",
+      "published_utc": "2026-11-26T17:08:13+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZm9RRVBWbkVua0xJYmpidmVlZXAxa1RhOGY1aFhqWnAxOWlIMHR4RXdIdlNsQmdVMjA0eFBUOTY0YVFiVDBBa0VNenRUaEpBNXUxdW9sdFFZNThTZEczdlUzV2FwMENaRUVaN0UzRVhOeWJvUlhTanpyclN6QjZtZUJUMG0wSUw1b29sSGxpcHdKd2JpcG5yTE5na3lKMHhSbUh5ZnAxcG1QNUcxM2d4N2t2MDU?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "F1 Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T17:08:13+00:00",
+          "title": "Charles Leclerc Hoodies - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "b1ecd76dd0f4ae9e9f20348a",
+      "topic": "F1",
+      "title": "Accessories, Gifts - F1 Store",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa242alNZYVRxeF9lZnpSNGJadkl5aGFORmtCTEs5eEVsWlBoZW5vNzdjdFRZM3BvQkR6OERaQTRDc3hOVFltV3RLWlQ5M1dEYzlVazBYOUN2endDWGlvZmJfWDhxbWNXYlUxWjhIbDl4UzE5M2FFMGhsMlM4OVFKRjhTN0VTa3MxTUNMMEQwQkNab3J6STIwTmQtSUpmd25LTklZ?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "F1 Store",
+      "description": "Accessories, Gifts F1 Store",
+      "published_utc": "2026-11-27T01:39:10+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa242alNZYVRxeF9lZnpSNGJadkl5aGFORmtCTEs5eEVsWlBoZW5vNzdjdFRZM3BvQkR6OERaQTRDc3hOVFltV3RLWlQ5M1dEYzlVazBYOUN2endDWGlvZmJfWDhxbWNXYlUxWjhIbDl4UzE5M2FFMGhsMlM4OVFKRjhTN0VTa3MxTUNMMEQwQkNab3J6STIwTmQtSUpmd25LTklZ?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "F1 Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T01:39:10+00:00",
+          "title": "Accessories, Gifts - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "f01bef65a16d962df696c8c1",
+      "topic": "F1",
+      "title": "Williams Racing New Era Merchandise, Williams New Era Apparel, Clothing - F1 Store",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQlR5YmVqdXh5SGhKVFUzdVBHdVRsRlN4amlHaUQ0amlHaUY0S01zZW1mdlp4cjFIRWN0V1R5SHhCWGRYM21QU2JwNmgzbWFSMXJyTlVHd3AxSXNfQXhNdVlDRG1iQi1RMEFPQzh2VHhUME5hcUZLX0VET1REY08xLWFyYXVYNGw3Q2E3X0ROMS1QSklNUjZYblF0ODVyY09aXzlETFVHWmszZXk2NG5LRnB3NW5Sd2hxVlRuNm9BdlJvYlEwcFVrVDBURU0xM1FVY3BSaHhR?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "F1 Store",
+      "description": "Williams Racing New Era Merchandise, Williams New Era Apparel, Clothing F1 Store",
+      "published_utc": "2026-11-26T16:37:59+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQlR5YmVqdXh5SGhKVFUzdVBHdVRsRlN4amlHaUQ0amlHaUY0S01zZW1mdlp4cjFIRWN0V1R5SHhCWGRYM21QU2JwNmgzbWFSMXJyTlVHd3AxSXNfQXhNdVlDRG1iQi1RMEFPQzh2VHhUME5hcUZLX0VET1REY08xLWFyYXVYNGw3Q2E3X0ROMS1QSklNUjZYblF0ODVyY09aXzlETFVHWmszZXk2NG5LRnB3NW5Sd2hxVlRuNm9BdlJvYlEwcFVrVDBURU0xM1FVY3BSaHhR?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "F1 Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T16:37:59+00:00",
+          "title": "Williams Racing New Era Merchandise, Williams New Era Apparel, Clothing - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "8f342c8628ece1277a385d3d",
+      "topic": "F1",
+      "title": "Unleash the Lion Shorts - F1 Store",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLWRTaDdhOHJiSFdyZUNhTDRBampjM3JaV3dCbEZsb2xQa1pFcm1teFJ4a2VhTWtEbjNDMDF2RnFxNUdDR3BGa1lSZmpzdFFhMElIVElvYURwNWhqTkR0YW9UUUd3c3Voc0xvRkVGZUZMZldHYTlvTzRTcHVGR3BmblFkclB0Z3RnZlV6dVRlUWFHbVQyOXdnQzlvRlV6c3RwOGJYN1hyVXVGWGpYY1VV?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "F1 Store",
+      "description": "Unleash the Lion Shorts F1 Store",
+      "published_utc": "2026-11-26T22:33:12+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLWRTaDdhOHJiSFdyZUNhTDRBampjM3JaV3dCbEZsb2xQa1pFcm1teFJ4a2VhTWtEbjNDMDF2RnFxNUdDR3BGa1lSZmpzdFFhMElIVElvYURwNWhqTkR0YW9UUUd3c3Voc0xvRkVGZUZMZldHYTlvTzRTcHVGR3BmblFkclB0Z3RnZlV6dVRlUWFHbVQyOXdnQzlvRlV6c3RwOGJYN1hyVXVGWGpYY1VV?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "F1 Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T22:33:12+00:00",
+          "title": "Unleash the Lion Shorts - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "157f52431c112b5b00e79e1a",
+      "topic": "F1",
+      "title": "WinCraft Tailgate & Party - F1 Store",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ydjVHbllra1AxcWpTeHNyYVFESDAyYkNCVjF6YVc3YUxxR3ctc1F5M2Z0TS1LaDlWRXZ6d0xabk1BRWp6azlIR2FrT081YUF1Tm1vMzBjUm9wajg5X2tTR1ZySXlvM3RCQnJfZFNCUTNCN2Yzd1J2c0Zn?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "F1 Store",
+      "description": "WinCraft Tailgate & Party F1 Store",
+      "published_utc": "2026-11-27T03:21:19+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ydjVHbllra1AxcWpTeHNyYVFESDAyYkNCVjF6YVc3YUxxR3ctc1F5M2Z0TS1LaDlWRXZ6d0xabk1BRWp6azlIR2FrT081YUF1Tm1vMzBjUm9wajg5X2tTR1ZySXlvM3RCQnJfZFNCUTNCN2Yzd1J2c0Zn?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "F1 Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T03:21:19+00:00",
+          "title": "WinCraft Tailgate & Party - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "9de4f2bd94be79a441362ec1",
+      "topic": "F1",
+      "title": "Max Verstappen Kids Toys & Games - F1 Store",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYVBFS3Bwa3F1TXV3UUdESVdPUHNGX1lVSTNxRndrX0R3MUJSUlFFQ2RVcUsyVkxfQWZXMUNWQWs0YWcyUFBKck4wZkdGRXp1a1QxTVlId2xUZTBmZS1HTDh2dW8zRXNxQXZZRmIybWVOX2N6Ymp2d2tCZ2NSbkpBNEE5ZDZFRVFnUUpDT0gwQWtpS3o3amwxdEZYbFFqZVd1Yk5zbktEdFJxd091Mk80TjQzSGtqZFJzV2NwTGs0dGRuV1RKdWgwUXF3UnpyLWNYZjNwTEh2eTRxaHBB?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "F1 Store",
+      "description": "Max Verstappen Kids Toys & Games F1 Store",
+      "published_utc": "2026-11-26T20:22:25+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYVBFS3Bwa3F1TXV3UUdESVdPUHNGX1lVSTNxRndrX0R3MUJSUlFFQ2RVcUsyVkxfQWZXMUNWQWs0YWcyUFBKck4wZkdGRXp1a1QxTVlId2xUZTBmZS1HTDh2dW8zRXNxQXZZRmIybWVOX2N6Ymp2d2tCZ2NSbkpBNEE5ZDZFRVFnUUpDT0gwQWtpS3o3amwxdEZYbFFqZVd1Yk5zbktEdFJxd091Mk80TjQzSGtqZFJzV2NwTGs0dGRuV1RKdWgwUXF3UnpyLWNYZjNwTEh2eTRxaHBB?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "F1 Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T20:22:25+00:00",
+          "title": "Max Verstappen Kids Toys & Games - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "6edbf1b21fe9815ee838afbc",
+      "topic": "F1",
+      "title": "Mens Bags, Backpacks - F1 Store",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRE1oSEU1SUxqSGdHdG5VdEpNTDNnOW0zTjlBbjlTSUNEZmNCUUZjNURHbjQzRElRQzVLbUJwTXN3WVBOeTFHbFMzRjBTbzJnVkhZbEdQTHE0QXpZSi14Tm44ZDQtLUhNNmgzd1E0U1JTaGFKd3U0cXRFVVdNQXVXbzFyckg0bFFGcFNJSUU1eHZTQTA3YWJpNERFYW16cHdtOEJQREw3eTVTc1pDa2pIRjFoVEdSV1BNUTM5d0dBNl96VjVDUm0zLVgzNlhzVUZ4MExVUlRYRUVtMWFsVThuSA?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "F1 Store",
+      "description": "Mens Bags, Backpacks F1 Store",
+      "published_utc": "2026-11-27T09:28:34+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRE1oSEU1SUxqSGdHdG5VdEpNTDNnOW0zTjlBbjlTSUNEZmNCUUZjNURHbjQzRElRQzVLbUJwTXN3WVBOeTFHbFMzRjBTbzJnVkhZbEdQTHE0QXpZSi14Tm44ZDQtLUhNNmgzd1E0U1JTaGFKd3U0cXRFVVdNQXVXbzFyckg0bFFGcFNJSUU1eHZTQTA3YWJpNERFYW16cHdtOEJQREw3eTVTc1pDa2pIRjFoVEdSV1BNUTM5d0dBNl96VjVDUm0zLVgzNlhzVUZ4MExVUlRYRUVtMWFsVThuSA?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "F1 Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T09:28:34+00:00",
+          "title": "Mens Bags, Backpacks - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "154d8c998b321ba4357af2a4",
+      "topic": "F1",
+      "title": "Red Bull Racing Advent Calendars , Red Bull Racing Advent Calendars - F1 Store",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQmpCQjNZSWVVRlRmOHBxc2pzLTFWNnUxRDhNQ1lSSzZnY2VNZnN4a2ZTZ2xVUHR5TEd0dlU3UDM5RHJVNEd5WERta3JGV2ZETFY5NFZ6dDFNYzF3Zy1ObktobVNsT1MzaHh6bl9WMEpaZ29IdFZBbDBjTEZMa0NqVEF3?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "F1 Store",
+      "description": "Red Bull Racing Advent Calendars , Red Bull Racing Advent Calendars F1 Store",
+      "published_utc": "2026-11-27T05:57:32+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQmpCQjNZSWVVRlRmOHBxc2pzLTFWNnUxRDhNQ1lSSzZnY2VNZnN4a2ZTZ2xVUHR5TEd0dlU3UDM5RHJVNEd5WERta3JGV2ZETFY5NFZ6dDFNYzF3Zy1ObktobVNsT1MzaHh6bl9WMEpaZ29IdFZBbDBjTEZMa0NqVEF3?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "F1 Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T05:57:32+00:00",
+          "title": "Red Bull Racing Advent Calendars , Red Bull Racing Advent Calendars - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "a66d4f2033e7191115328ae0",
+      "topic": "F1",
+      "title": "Gifts For Kids - F1 Store",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdlhtYmY2ZHlELWVVcXJEMXF6UHR5M2xxZzZucW1Ic09DYllFeF9rejVyTXBhdHAxRDNNM2M4d1BXZzRxNDVlNjMtWDhkVnF4bnpZUzI0bFM1OHV6RUludEtWem1yYU1OanlTem9EY05UR0F1Wk0xR2owRkFqUzVUaW1PRmUxU2dtdUxmanhaQzVGR1d6cjQ5OGFfdEpsVENlWjQyWTlpZWxHN1pJMlNpYzZVWTZtTVVwbXhFNTI5RXJZeVIwR2JpcUhRMEZFdw?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "F1 Store",
+      "description": "Gifts For Kids F1 Store",
+      "published_utc": "2026-11-27T00:31:53+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdlhtYmY2ZHlELWVVcXJEMXF6UHR5M2xxZzZucW1Ic09DYllFeF9rejVyTXBhdHAxRDNNM2M4d1BXZzRxNDVlNjMtWDhkVnF4bnpZUzI0bFM1OHV6RUludEtWem1yYU1OanlTem9EY05UR0F1Wk0xR2owRkFqUzVUaW1PRmUxU2dtdUxmanhaQzVGR1d6cjQ5OGFfdEpsVENlWjQyWTlpZWxHN1pJMlNpYzZVWTZtTVVwbXhFNTI5RXJZeVIwR2JpcUhRMEZFdw?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "F1 Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T00:31:53+00:00",
+          "title": "Gifts For Kids - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "c2dd2153b77d3bfc7f12d464",
+      "topic": "F1",
+      "title": "VCARB Spark Models Merchandise, VCARB Spark Models Apparel, Clothing - F1 Store",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSktZQkRSQ3kySmQzUDQ3eDZsdzViMmxFaUI2a0c1TXpuTG81a1k5ZkVIUWRLd3YwYW9naHU5M25PdV9faGZzT01GSU9Xa3djQUlYeHpJZnpnTmhYUk9ueG9HMjlpOFJVOGxVS2RCM0xLN2xaV2lQckxSZnM2VUtQQjBYTlR6dlE5NXhwRS1fVlVSZw?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "F1 Store",
+      "description": "VCARB Spark Models Merchandise, VCARB Spark Models Apparel, Clothing F1 Store",
+      "published_utc": "2026-11-27T11:24:49+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSktZQkRSQ3kySmQzUDQ3eDZsdzViMmxFaUI2a0c1TXpuTG81a1k5ZkVIUWRLd3YwYW9naHU5M25PdV9faGZzT01GSU9Xa3djQUlYeHpJZnpnTmhYUk9ueG9HMjlpOFJVOGxVS2RCM0xLN2xaV2lQckxSZnM2VUtQQjBYTlR6dlE5NXhwRS1fVlVSZw?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "F1 Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T11:24:49+00:00",
+          "title": "VCARB Spark Models Merchandise, VCARB Spark Models Apparel, Clothing - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "0a284843dce7fa1e37c54973",
+      "topic": "F1",
+      "title": "Ladies Hats, Cap - F1 Store",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbHk0dEJNOGVMWUZQYk5QYW9hOHBIbjFSR2JqZWY0QlF2MURQTU1NZnh0QW1QWmo2ZGZzTDZpd2NWNVlvY1ZlUnpSN3ZQY0dFVUhWVGRwSGo3Smk1Nlk1WXZ2LWZtdy03dlViNmg0bElLclpsRU9oZm1ueGh6amNhcWtSQ2JWQkVSc1hNcDF1b0ZPT19C?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "F1 Store",
+      "description": "Ladies Hats, Cap F1 Store",
+      "published_utc": "2026-11-27T00:19:54+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbHk0dEJNOGVMWUZQYk5QYW9hOHBIbjFSR2JqZWY0QlF2MURQTU1NZnh0QW1QWmo2ZGZzTDZpd2NWNVlvY1ZlUnpSN3ZQY0dFVUhWVGRwSGo3Smk1Nlk1WXZ2LWZtdy03dlViNmg0bElLclpsRU9oZm1ueGh6amNhcWtSQ2JWQkVSc1hNcDF1b0ZPT19C?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "F1 Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T00:19:54+00:00",
+          "title": "Ladies Hats, Cap - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "87b454ff523bf0f95eceff99",
+      "topic": "F1",
+      "title": "Backpacks & Bags - F1 Store",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQnZfaHlzY2YxUjlOcTdyNnlxOW5jeTdudTZYT1R0Vy1YMkFOd0ZLTXZDT29ueEQ1MkU5b21HOGdaSWY2TG84bmhlRUJmS091YmE2MVcyM0tLUnY5VW5PZk92Q1YtZ0JHTlB4MXR0ZG9sSi1TZi1wei1GTGtRR3ZUVWdmRFV2OXJTaWs4SW9hUG9BdUJENzhFSXRqN1NaWmJYLXFZXzl1cllOUUJwLVRuM2M0VU5SaDZWN2wwYU5uaXpzSmRlYUxsNkNQSW1INllxTE9uRFdFdzN0TjNMNlpITjVB?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "F1 Store",
+      "description": "Backpacks & Bags F1 Store",
+      "published_utc": "2026-11-27T02:09:08+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQnZfaHlzY2YxUjlOcTdyNnlxOW5jeTdudTZYT1R0Vy1YMkFOd0ZLTXZDT29ueEQ1MkU5b21HOGdaSWY2TG84bmhlRUJmS091YmE2MVcyM0tLUnY5VW5PZk92Q1YtZ0JHTlB4MXR0ZG9sSi1TZi1wei1GTGtRR3ZUVWdmRFV2OXJTaWs4SW9hUG9BdUJENzhFSXRqN1NaWmJYLXFZXzl1cllOUUJwLVRuM2M0VU5SaDZWN2wwYU5uaXpzSmRlYUxsNkNQSW1INllxTE9uRFdFdzN0TjNMNlpITjVB?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "F1 Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T02:09:08+00:00",
+          "title": "Backpacks & Bags - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "9650c8f8b0c6d17ae9ed55d5",
+      "topic": "F1",
+      "title": "F1 Lewis Hamilton Bags, Formula 1 Backpacks - F1 Store",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb2pnWmI0cGxWTHRvWTRCM3MyVmZZVmtuS3hVOGYxejFLX2NWbWtyZUVIV1Y4dkd2VjNtME9WRG90dHBRRDcyRzJObUJfejJLdEdqZFhqRHFCVlBiWVJtVUtVYkxZUjBjeDgzS2JjdVVHWG85bHdZOXBTM2VDNW9iYTJVWlFlVVRnc1ZuX3FJb3g0UUxuazJWbEp2UnVrVkp0R0UwSVpfZWgyYld6c095djJpZmtUeW1WaURJbWFhWGE1cXFhN012aEhXUlQ2Y1FzNDJEZ3VkUHpxQVpQRWhwa09B?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "F1 Store",
+      "description": "F1 Lewis Hamilton Bags, Formula 1 Backpacks F1 Store",
+      "published_utc": "2026-11-26T17:07:46+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb2pnWmI0cGxWTHRvWTRCM3MyVmZZVmtuS3hVOGYxejFLX2NWbWtyZUVIV1Y4dkd2VjNtME9WRG90dHBRRDcyRzJObUJfejJLdEdqZFhqRHFCVlBiWVJtVUtVYkxZUjBjeDgzS2JjdVVHWG85bHdZOXBTM2VDNW9iYTJVWlFlVVRnc1ZuX3FJb3g0UUxuazJWbEp2UnVrVkp0R0UwSVpfZWgyYld6c095djJpZmtUeW1WaURJbWFhWGE1cXFhN012aEhXUlQ2Y1FzNDJEZ3VkUHpxQVpQRWhwa09B?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "F1 Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T17:07:46+00:00",
+          "title": "F1 Lewis Hamilton Bags, Formula 1 Backpacks - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "01928031b7060950268245ca",
+      "topic": "F1",
+      "title": "Audi Shoes Footwear - F1 Store",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2FkYmo1QWlhZVZUX2ZTS3lJcG9uUUpTS21nN2g3d1p3b2tKRHBjaXQtR2JNZG1lRFFJWUZsUWh5M0JFenpLUjM3cTVYWGNuWEUtNHhfRUY1NmFodGNKeVl3RGp0aFpVS2NDMXY4bE95ZnpUNC02MDNBb0c0SFRyblFTVG5CenJfZi1WRnpaaUlYTjFlcHpz?oc=5",
+      "source": "Formula 1 Official",
+      "publisher": "F1 Store",
+      "description": "Audi Shoes Footwear F1 Store",
+      "published_utc": "2026-11-26T20:13:36+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2FkYmo1QWlhZVZUX2ZTS3lJcG9uUUpTS21nN2g3d1p3b2tKRHBjaXQtR2JNZG1lRFFJWUZsUWh5M0JFenpLUjM3cTVYWGNuWEUtNHhfRUY1NmFodGNKeVl3RGp0aFpVS2NDMXY4bE95ZnpUNC02MDNBb0c0SFRyblFTVG5CenJfZi1WRnpaaUlYTjFlcHpz?oc=5",
+          "source": "Formula 1 Official",
+          "publisher": "F1 Store",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T20:13:36+00:00",
+          "title": "Audi Shoes Footwear - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "ce17c6e78839e09c31a9a0fe",
+      "topic": "NASCAR",
+      "title": "2026 NASCAR Holiday Gift Guide, Presented by iRacing - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbHY4V2JBZzlRSHptcmhmUk9PLVhtaENtSFhQQnprN0NoQUdTbjk4NzB5MEJfYWRQMTR0cUI4VlEycXMydDAxb1BCMjFPdENYTjQzZXM2ZHR3bWNfUHM5QWlxY1hFRHpxSDU0NXdET0ItU3BVVGh2WElfc0pwQnRtRUdiNXJQSnp4MGhv?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "2026 NASCAR Holiday Gift Guide, Presented by iRacing NASCAR.com",
+      "published_utc": "2026-11-27T13:58:37+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbHY4V2JBZzlRSHptcmhmUk9PLVhtaENtSFhQQnprN0NoQUdTbjk4NzB5MEJfYWRQMTR0cUI4VlEycXMydDAxb1BCMjFPdENYTjQzZXM2ZHR3bWNfUHM5QWlxY1hFRHpxSDU0NXdET0ItU3BVVGh2WElfc0pwQnRtRUdiNXJQSnp4MGhv?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T13:58:37+00:00",
+          "title": "2026 NASCAR Holiday Gift Guide, Presented by iRacing - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "e6bd594b620c11b6e9ee6eb6",
+      "topic": "NASCAR",
+      "title": "Last Call: Which 2026 non-Chase driver will make The Chase in 2027? - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQks4Umx0WDBvLVUwcm1zZE9tS01tLWJxU2RZWjY3UVE5RnBfaFFpWlR0OUNtTGpsdy10VF9qcy1TeWJnLXF2dmVXd0JLYkI0bUU4dVRfYzdmcFhuNVlyQ1RaMkZYcjJFSHExMXBZNTRuY2hrT2I4NXprbmlzbUQ1OFlYTHRON2dwazRoNzcxWUphU0wyUjFQd3NQVE1FenNKWFBRM3BES3FPdXo4MV9PUg?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Last Call: Which 2026 non-Chase driver will make The Chase in 2027? NASCAR.com",
+      "published_utc": "2026-11-27T13:51:26+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQks4Umx0WDBvLVUwcm1zZE9tS01tLWJxU2RZWjY3UVE5RnBfaFFpWlR0OUNtTGpsdy10VF9qcy1TeWJnLXF2dmVXd0JLYkI0bUU4dVRfYzdmcFhuNVlyQ1RaMkZYcjJFSHExMXBZNTRuY2hrT2I4NXprbmlzbUQ1OFlYTHRON2dwazRoNzcxWUphU0wyUjFQd3NQVE1FenNKWFBRM3BES3FPdXo4MV9PUg?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T13:51:26+00:00",
+          "title": "Last Call: Which 2026 non-Chase driver will make The Chase in 2027? - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "276186595ff14c3ddd7c0e0c",
+      "topic": "NASCAR",
+      "title": "Denny Hamlin Archives - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WWldnRGlmaUl3YkZ6T1FQUVhfVkFnQmpOS1RoZzIyc2lBQ1JOcFNkT2tPbVRkRHpkV0hGUENyaGs4RW5tYTZjLUZnSDM2N0k3V0NfMW5mMVZpTjRxUk5tV2ZINUIxRFJJUkhyVEtLRk1qdw?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Denny Hamlin Archives NASCAR.com",
+      "published_utc": "2026-11-26T18:04:49+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WWldnRGlmaUl3YkZ6T1FQUVhfVkFnQmpOS1RoZzIyc2lBQ1JOcFNkT2tPbVRkRHpkV0hGUENyaGs4RW5tYTZjLUZnSDM2N0k3V0NfMW5mMVZpTjRxUk5tV2ZINUIxRFJJUkhyVEtLRk1qdw?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T18:04:49+00:00",
+          "title": "Denny Hamlin Archives - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "525ec3af09cc3a25eb272fe3",
+      "topic": "NASCAR",
+      "title": "Ryan Preece - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pZ28tOVNXc1hFUVV3Yk9QdXlGanFHVHl3c01oM183Tk9zQzZBNXlveEZGSV84M29FYkFKZzdkc1lHTVNQU1BoTFVWM3hzOVpXbzBObEZ3?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Ryan Preece NASCAR.com",
+      "published_utc": "2026-11-27T02:26:56+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pZ28tOVNXc1hFUVV3Yk9QdXlGanFHVHl3c01oM183Tk9zQzZBNXlveEZGSV84M29FYkFKZzdkc1lHTVNQU1BoTFVWM3hzOVpXbzBObEZ3?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T02:26:56+00:00",
+          "title": "Ryan Preece - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "5232f752a5fceb360a609710",
+      "topic": "NASCAR",
+      "title": "Ty Dillon - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53dWRBQk91QldGLUxCNXYtLWRsZE0tUE5PRXVwb1kwbV96OGdubEJRV2Fkci1DbmxBNXZCRzhqTnNvcmlCeDNFWkdad29vZHdMYjNn?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Ty Dillon NASCAR.com",
+      "published_utc": "2026-11-26T15:38:21+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53dWRBQk91QldGLUxCNXYtLWRsZE0tUE5PRXVwb1kwbV96OGdubEJRV2Fkci1DbmxBNXZCRzhqTnNvcmlCeDNFWkdad29vZHdMYjNn?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T15:38:21+00:00",
+          "title": "Ty Dillon - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "031e8136dd92a73c0dfb3bff",
+      "topic": "NASCAR",
+      "title": "Discounted Charlotte Motor Speedway Apparel and Gear - NASCAR Shop",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYmphUUlZQkV0VGVfOXNkTV9UdG9VRXoyZTlfWklqRGVUTExyRHNfdEw2VGg5TF9CelR3TFd6MU1wRVdqM05qeWd5MnJpcjFyVUVfS01YWGFpZjFrbk5Wamp6UUVkZm1rb3hfN2hpNmRJWngyTGs1dDJUaElZSG5kRFJGa2NDbmZxeXFGaXpCYWJESFdOWXI0UnBkUHBkalAxZTV1S290WkxqSWRRY3BsbDVKd0hEOFRBOGFBbnBaRmVlVlZhZlZST3pwSkowaV9ablJvTW1USVE?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR Shop",
+      "description": "Discounted Charlotte Motor Speedway Apparel and Gear NASCAR Shop",
+      "published_utc": "2026-11-27T02:51:51+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYmphUUlZQkV0VGVfOXNkTV9UdG9VRXoyZTlfWklqRGVUTExyRHNfdEw2VGg5TF9CelR3TFd6MU1wRVdqM05qeWd5MnJpcjFyVUVfS01YWGFpZjFrbk5Wamp6UUVkZm1rb3hfN2hpNmRJWngyTGs1dDJUaElZSG5kRFJGa2NDbmZxeXFGaXpCYWJESFdOWXI0UnBkUHBkalAxZTV1S290WkxqSWRRY3BsbDVKd0hEOFRBOGFBbnBaRmVlVlZhZlZST3pwSkowaV9ablJvTW1USVE?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR Shop",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T02:51:51+00:00",
+          "title": "Discounted Charlotte Motor Speedway Apparel and Gear - NASCAR Shop"
+        }
+      ]
+    },
+    {
+      "id": "73c2f6dfb88a598fec8bd3cd",
+      "topic": "NASCAR",
+      "title": "Austin Hill - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uekxPMmFwOFJWWDBCZzZwSGxvTVdWa25YNUROblQ5VmU0WkVlQ3llcnhiVlNQc0w5cEVKZnZJallXNkIySG0waHFfRDZJNTMwTXFfNlFB?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Austin Hill NASCAR.com",
+      "published_utc": "2026-11-27T02:16:55+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uekxPMmFwOFJWWDBCZzZwSGxvTVdWa25YNUROblQ5VmU0WkVlQ3llcnhiVlNQc0w5cEVKZnZJallXNkIySG0waHFfRDZJNTMwTXFfNlFB?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T02:16:55+00:00",
+          "title": "Austin Hill - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "f368ff808def9ed2f0b25309",
+      "topic": "NASCAR",
+      "title": "Tyler Reddick - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKLW1WcnlSWW0wNDRFd2tFTnFHOGhFd21NcFpmVWVFU1JnQ2puNnUxLVNqUmdxcERnWGZDSU9WemJaelpXZkVTeVJiUGRXeUVoQWpnTmM2UnE?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Tyler Reddick NASCAR.com",
+      "published_utc": "2026-11-27T00:41:02+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKLW1WcnlSWW0wNDRFd2tFTnFHOGhFd21NcFpmVWVFU1JnQ2puNnUxLVNqUmdxcERnWGZDSU9WemJaelpXZkVTeVJiUGRXeUVoQWpnTmM2UnE?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T00:41:02+00:00",
+          "title": "Tyler Reddick - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "8ba5440faf3b87f39311a59a",
+      "topic": "NASCAR",
+      "title": "Teams Archives - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAybnV1T0VrYUgtYl81eFJtbzlXSjQ0OEgzbGptbzlUdGNpZENHLXZtc0hEMkcwcVNqVDNBN3VQZnNza2M1TG1VLVB1bjUxNHNnZTB0b1Jwcmc5SnUwclE?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Teams Archives NASCAR.com",
+      "published_utc": "2026-11-27T07:03:18+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAybnV1T0VrYUgtYl81eFJtbzlXSjQ0OEgzbGptbzlUdGNpZENHLXZtc0hEMkcwcVNqVDNBN3VQZnNza2M1TG1VLVB1bjUxNHNnZTB0b1Jwcmc5SnUwclE?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T07:03:18+00:00",
+          "title": "Teams Archives - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "92b5d3762b19d7864ed04857",
+      "topic": "NASCAR",
+      "title": "Unisex William Byron ISlide Cream Camo Motive Slide Sandals - NASCAR Shop",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQay1VcW14Z3ZNR0hpRFNyQ0V5V1hsOVhPYWpHa3pxR182b2EtbzBCZ2F3WDJYd25zczVxRGtUQlY1NE15M2RaYlIwVUpma093a0ozMkZmaElNZnJCRTZRQ0NXOGlSeHJ6V2FaLUh4RW1NSkdrS2I5T1EyamRqMmdTYnF6dEJneTBsVndPa0ROdWRoTmxIam9SeTNWS190dDJLdE44dVhTVXF2b3JaZm5nYkNhMVRQVW1pdjd6MGIzUW5lYnZFNEhzOTdaVnVVWWRlY1JpWDBxRHlGRmRSQmxaczZ1WTVRbGc2Q2xIYWlGYmpSZktmUmptakJjQQ?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR Shop",
+      "description": "Unisex William Byron ISlide Cream Camo Motive Slide Sandals NASCAR Shop",
+      "published_utc": "2026-11-27T05:32:11+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQay1VcW14Z3ZNR0hpRFNyQ0V5V1hsOVhPYWpHa3pxR182b2EtbzBCZ2F3WDJYd25zczVxRGtUQlY1NE15M2RaYlIwVUpma093a0ozMkZmaElNZnJCRTZRQ0NXOGlSeHJ6V2FaLUh4RW1NSkdrS2I5T1EyamRqMmdTYnF6dEJneTBsVndPa0ROdWRoTmxIam9SeTNWS190dDJLdE44dVhTVXF2b3JaZm5nYkNhMVRQVW1pdjd6MGIzUW5lYnZFNEhzOTdaVnVVWWRlY1JpWDBxRHlGRmRSQmxaczZ1WTVRbGc2Q2xIYWlGYmpSZktmUmptakJjQQ?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR Shop",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T05:32:11+00:00",
+          "title": "Unisex William Byron ISlide Cream Camo Motive Slide Sandals - NASCAR Shop"
+        }
+      ]
+    },
+    {
+      "id": "8b77069ae260d0db5a798792",
+      "topic": "WEC",
+      "title": "Ford GT41 Hypercar, 2026 - RaceFans",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeTE3Sm5jNll1LXVxeWxpMDMwM3pHajdIM2NqUER6NmQ2aXkwandRS3pjeExIaHVfYWVnbnNMelNhclV6ZjRKT0RHNS1mTmNoZURVbFNqem1EM000YkV0LXNEMFBHeGNXNjlkS0phalU3ZHRQNXNPWlhvNURjaDFfZlRkSTE0ZDVuQ0FEbThWUzRick5nNlBoMjVVZWFQR1R1TFREalN2OUZycHZ4a3c?oc=5",
+      "source": "RaceFans",
+      "publisher": "RaceFans",
+      "description": "Ford GT41 Hypercar, 2026 RaceFans",
+      "published_utc": "2026-11-26T19:08:30+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeTE3Sm5jNll1LXVxeWxpMDMwM3pHajdIM2NqUER6NmQ2aXkwandRS3pjeExIaHVfYWVnbnNMelNhclV6ZjRKT0RHNS1mTmNoZURVbFNqem1EM000YkV0LXNEMFBHeGNXNjlkS0phalU3ZHRQNXNPWlhvNURjaDFfZlRkSTE0ZDVuQ0FEbThWUzRick5nNlBoMjVVZWFQR1R1TFREalN2OUZycHZ4a3c?oc=5",
+          "source": "RaceFans",
+          "publisher": "RaceFans",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T19:08:30+00:00",
+          "title": "Ford GT41 Hypercar, 2026 - RaceFans"
+        }
+      ]
+    },
+    {
+      "id": "3980ea6f556b2c05866e3c92",
+      "topic": "Super Formula",
+      "title": "VANTELIN TEAM TOM’S 2026スーパーフォーミュラ第11戦・第12戦 レースレポート - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1iOXhISElCc0ZVQ0otVmpwbDdfc3hMcG5qNGxaT2c0ZjNRYVBRbnNsUE1PVnF0LU9RZ01xZU5FS1piUTV2ZWtURnFR?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "VANTELIN TEAM TOM’S 2026スーパーフォーミュラ第11戦・第12戦 レースレポート autosport web",
+      "published_utc": "2026-11-27T04:42:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1iOXhISElCc0ZVQ0otVmpwbDdfc3hMcG5qNGxaT2c0ZjNRYVBRbnNsUE1PVnF0LU9RZ01xZU5FS1piUTV2ZWtURnFR?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T04:42:00+00:00",
+          "title": "VANTELIN TEAM TOM’S 2026スーパーフォーミュラ第11戦・第12戦 レースレポート - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "1b3d92e55bf39730a44aa7c9",
+      "topic": "other_motorsport",
+      "title": "東京オートサロン2027の最新ニュース - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZW9DYzJHblNyak4yRVRCSF9ZZXE1T1ZOQkhuOHJLQS1UZ284N1QwbzV1QXRIT3VMMWZFYlVidFhBcW1GelROaG9uRWFldHNCcWRuLWRZdGMyYkhWdFFCcWRjSFFIR3lySWtEVlh6OTNSLXh2OVdTNkhzUVlfb3Y5ck9uU1ZRLXdkSXphaU83emdYc3RsWUxjVTlma3FVRTI3VlFyajY3NA?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "東京オートサロン2027の最新ニュース autosport web",
+      "published_utc": "2026-11-27T07:44:26+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZW9DYzJHblNyak4yRVRCSF9ZZXE1T1ZOQkhuOHJLQS1UZ284N1QwbzV1QXRIT3VMMWZFYlVidFhBcW1GelROaG9uRWFldHNCcWRuLWRZdGMyYkhWdFFCcWRjSFFIR3lySWtEVlh6OTNSLXh2OVdTNkhzUVlfb3Y5ck9uU1ZRLXdkSXphaU83emdYc3RsWUxjVTlma3FVRTI3VlFyajY3NA?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T07:44:26+00:00",
+          "title": "東京オートサロン2027の最新ニュース - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "ca14d2265212765bece42b66",
+      "topic": "other_motorsport",
+      "title": "東京オートサロン2027 ニュース - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3dTWmhWMjdJSzg1dVNROThnS3FkY05JVVdCdjVROGNBaEFLeWZzTmNBQ09RWDRfZThBVlhwQzZPbTZEdFlCdUxlc25yelZOV1lLS3MyZzB0TGNkT2FtQnlIUW1rb3NNRkotbDd3dXVLTkt6RXAybzJsdDR5VGcxLTNNWk9GWjJfTWtYd0VJcERPZ05MYWNWZ3dIOVg0QzZDVHVxT1dJLW1lSEhlQ2c?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "東京オートサロン2027 ニュース autosport web",
+      "published_utc": "2026-11-27T08:14:35+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3dTWmhWMjdJSzg1dVNROThnS3FkY05JVVdCdjVROGNBaEFLeWZzTmNBQ09RWDRfZThBVlhwQzZPbTZEdFlCdUxlc25yelZOV1lLS3MyZzB0TGNkT2FtQnlIUW1rb3NNRkotbDd3dXVLTkt6RXAybzJsdDR5VGcxLTNNWk9GWjJfTWtYd0VJcERPZ05MYWNWZ3dIOVg0QzZDVHVxT1dJLW1lSEhlQ2c?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T08:14:35+00:00",
+          "title": "東京オートサロン2027 ニュース - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "7ae98362fef3dafec56acf38",
+      "topic": "other_motorsport",
+      "title": "【写真2】フォードGT41、GT40 - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wMEV5cGxONm8xeEpTdXVYSnQtQ1NwbUlQTHd6QXJrN0ZqczZKNjJGaGlibUdkZjRjcE8yVjdYX1FGVV8ySlA4ZmI1ZGxWUlNPMFl6TERJbw?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真2】フォードGT41、GT40 autosport web",
+      "published_utc": "2026-11-27T00:46:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wMEV5cGxONm8xeEpTdXVYSnQtQ1NwbUlQTHd6QXJrN0ZqczZKNjJGaGlibUdkZjRjcE8yVjdYX1FGVV8ySlA4ZmI1ZGxWUlNPMFl6TERJbw?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T00:46:00+00:00",
+          "title": "【写真2】フォードGT41、GT40 - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "400585aabd36873b668c6fac",
+      "topic": "other_motorsport",
+      "title": "【写真4】ピエール・ガスリー（アルピーヌ） - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rbDhTSnpfX1hYZFAySXhBcnBCOVVNcWlOcV9fU2NuLUhTcFhpc2dBN2pfWFpBSk1fX0xlZ3hNRGcyYWYxU2dLdHBzeUs2NmZfdXR4eHJwdw?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真4】ピエール・ガスリー（アルピーヌ） autosport web",
+      "published_utc": "2026-11-26T15:13:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rbDhTSnpfX1hYZFAySXhBcnBCOVVNcWlOcV9fU2NuLUhTcFhpc2dBN2pfWFpBSk1fX0xlZ3hNRGcyYWYxU2dLdHBzeUs2NmZfdXR4eHJwdw?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T15:13:00+00:00",
+          "title": "【写真4】ピエール・ガスリー（アルピーヌ） - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "2c29d97c9214c06c49ce634e",
+      "topic": "other_motorsport",
+      "title": "【写真2】サーキット紹介第24回 - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjcHJwYWJvcVQ3YVNnQi1Ed2N3bDlkTmkxcG03OTkzeF9NMHNuVWFWZk9IcXY2QlVJT2tBSUxmVHpHRlFQcUtrWTlDb0dVTXdkTXR4dzR0SQ?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真2】サーキット紹介第24回 autosport web",
+      "published_utc": "2026-11-26T17:00:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjcHJwYWJvcVQ3YVNnQi1Ed2N3bDlkTmkxcG03OTkzeF9NMHNuVWFWZk9IcXY2QlVJT2tBSUxmVHpHRlFQcUtrWTlDb0dVTXdkTXR4dzR0SQ?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T17:00:00+00:00",
+          "title": "【写真2】サーキット紹介第24回 - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "cb8a16b376f35de0c31f5182",
+      "topic": "other_motorsport",
+      "title": "【写真3】抱擁を交わすダッリーニャとバニャイア - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xNXhNVXpCb2JXU3I5eExaanRJNW02SHlTRW12UE43d3Bkd3RCNjJJdGFTRTBCUm5SOG95YUZaVk5sWXlwWENRSjhxbUpLM1M2dDlXUVBUMA?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真3】抱擁を交わすダッリーニャとバニャイア autosport web",
+      "published_utc": "2026-11-27T03:00:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xNXhNVXpCb2JXU3I5eExaanRJNW02SHlTRW12UE43d3Bkd3RCNjJJdGFTRTBCUm5SOG95YUZaVk5sWXlwWENRSjhxbUpLM1M2dDlXUVBUMA?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T03:00:00+00:00",
+          "title": "【写真3】抱擁を交わすダッリーニャとバニャイア - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "241c217d7318eee4048f0534",
+      "topic": "WRC",
+      "title": "Raimo Nikkanen - Juhani Jokinen - Itäralli 1967 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RUS1rb1ZxaGNVYmJ1ZnBPNWpYdGY5aE9FTm8wNUE5cnhVbzFYeFdtUjZLZTZINEhFTnRSTTBXbVlMVk0zRlphaUJBWVo1Zmd6RE9MMG9CeExvbGRxeElMeEhSY3ZvTkRIcWNZTlg3VnQ?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Raimo Nikkanen - Juhani Jokinen - Itäralli 1967 eWRC-results.com",
+      "published_utc": "2026-11-27T01:58:05+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RUS1rb1ZxaGNVYmJ1ZnBPNWpYdGY5aE9FTm8wNUE5cnhVbzFYeFdtUjZLZTZINEhFTnRSTTBXbVlMVk0zRlphaUJBWVo1Zmd6RE9MMG9CeExvbGRxeElMeEhSY3ZvTkRIcWNZTlg3VnQ?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T01:58:05+00:00",
+          "title": "Raimo Nikkanen - Juhani Jokinen - Itäralli 1967 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "f658103f4f6ee563be6e21cb",
+      "topic": "WRC",
+      "title": "Partheniadis Evangelos / Hatzakis Kostas | 1 Rally Sprint Arkadi 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTU9xMGdNcml0eFdXa1YyaHc1MmlXNlM0THZISTBLd0J0blFFZ3BKY25zaDVBU29uSTFqNXRCazdpZDJQZG1MRWk4S3JaYXJTV3E4SVhLeFVVTUw4X3ExZzFsYjhfYldPclpEZ2Nlc0ZHU3RuY1RLSG5UOU1UNzVvb0JR?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Partheniadis Evangelos / Hatzakis Kostas | 1 Rally Sprint Arkadi 2026 eWRC-results.com",
+      "published_utc": "2026-11-27T07:07:38+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTU9xMGdNcml0eFdXa1YyaHc1MmlXNlM0THZISTBLd0J0blFFZ3BKY25zaDVBU29uSTFqNXRCazdpZDJQZG1MRWk4S3JaYXJTV3E4SVhLeFVVTUw4X3ExZzFsYjhfYldPclpEZ2Nlc0ZHU3RuY1RLSG5UOU1UNzVvb0JR?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T07:07:38+00:00",
+          "title": "Partheniadis Evangelos / Hatzakis Kostas | 1 Rally Sprint Arkadi 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "5bc2bc735360fbb94aeac2b5",
+      "topic": "WRC",
+      "title": "Godfrey Munyegera - Saul Musoke - UMOSPOC Kabalega Rally 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcHBONmUyTGpZVHVwdFlDWDZwb1FwMmMxX1pKcFM5QkQxUy1sdnR6cDM2aFBqcVZBY2lKbjZZMXdKbWg5WWt5YnZWYWgtLWgxaXd3UnJmQXFKT0ZtT2U0WWdXaHIyN1pfbnBnSmlhSnBzb1ZEQ2daSk03WWI3dDRfVV90X2tLdw?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Godfrey Munyegera - Saul Musoke - UMOSPOC Kabalega Rally 2026 eWRC-results.com",
+      "published_utc": "2026-11-27T10:56:58+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcHBONmUyTGpZVHVwdFlDWDZwb1FwMmMxX1pKcFM5QkQxUy1sdnR6cDM2aFBqcVZBY2lKbjZZMXdKbWg5WWt5YnZWYWgtLWgxaXd3UnJmQXFKT0ZtT2U0WWdXaHIyN1pfbnBnSmlhSnBzb1ZEQ2daSk03WWI3dDRfVV90X2tLdw?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T10:56:58+00:00",
+          "title": "Godfrey Munyegera - Saul Musoke - UMOSPOC Kabalega Rally 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "f255c6fbb7ee9b86bda193fc",
+      "topic": "WRC",
+      "title": "Doreen Asiimwe - Edgar Isabirye - UMOSPOC Kabalega Rally 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUnFnSWFGQThiYTd2cGhBcHo1TU9fNG5FZ01nNzJ3MVlZTk43Sk10WFFzeHpUeDhBcHZHMDBnOVNCMmpTeFZpaXJSMzk3NHo4TDFQTGFBeExqNlhQYTlELVcxZEJGVjNfMDdGQzlyV0U3X0dFWFVuZ09HMWRMME1aS1BjVVE1dw?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Doreen Asiimwe - Edgar Isabirye - UMOSPOC Kabalega Rally 2026 eWRC-results.com",
+      "published_utc": "2026-11-27T07:12:39+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUnFnSWFGQThiYTd2cGhBcHo1TU9fNG5FZ01nNzJ3MVlZTk43Sk10WFFzeHpUeDhBcHZHMDBnOVNCMmpTeFZpaXJSMzk3NHo4TDFQTGFBeExqNlhQYTlELVcxZEJGVjNfMDdGQzlyV0U3X0dFWFVuZ09HMWRMME1aS1BjVVE1dw?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T07:12:39+00:00",
+          "title": "Doreen Asiimwe - Edgar Isabirye - UMOSPOC Kabalega Rally 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "477818bed75ff29b6cf5796f",
+      "topic": "WRC",
+      "title": "Moses Lumala - Cedric Buzabo - UMOSPOC Kabalega Rally 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd2ZhNkdCUk1NRzUySlZHM2F0dGNyVU5EME5uWG5hLTdPOTUzSXlBd3ZUS0p0Z09HYTkyUWczTjN6aEcwNUJMMFJ5SXoxR1pWRm0zQ2VwQkMyaUk5V2FGbUhNZlZDU1dRR2xyOW1oRWYwZmVMQVRPaFpGb1Vkd05Ib2w0Y3pudw?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Moses Lumala - Cedric Buzabo - UMOSPOC Kabalega Rally 2026 eWRC-results.com",
+      "published_utc": "2026-11-27T04:48:15+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd2ZhNkdCUk1NRzUySlZHM2F0dGNyVU5EME5uWG5hLTdPOTUzSXlBd3ZUS0p0Z09HYTkyUWczTjN6aEcwNUJMMFJ5SXoxR1pWRm0zQ2VwQkMyaUk5V2FGbUhNZlZDU1dRR2xyOW1oRWYwZmVMQVRPaFpGb1Vkd05Ib2w0Y3pudw?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T04:48:15+00:00",
+          "title": "Moses Lumala - Cedric Buzabo - UMOSPOC Kabalega Rally 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "5ab765f65b2f3cf816d6fff7",
+      "topic": "WRC",
+      "title": "Isaac Ssozi - Jafari Lukenge - UMOSPOC Kabalega Rally 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVW4xWlc3Wm5kUG92VDVRUzQ5bmFZLVZYVTlNVmg0clpUNEVlRFh2bUgtX0hOMjRURUFFTGRmczdUMFFPSy01VlpGQnVNQnZaWWt0b2NkdThhLWRaZVlWNXlJazJ5VDhoOHFfQk9qb043Ti1SMWJoTEhJYXpGbV9SYWJFU0NRZw?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Isaac Ssozi - Jafari Lukenge - UMOSPOC Kabalega Rally 2026 eWRC-results.com",
+      "published_utc": "2026-11-27T05:23:10+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVW4xWlc3Wm5kUG92VDVRUzQ5bmFZLVZYVTlNVmg0clpUNEVlRFh2bUgtX0hOMjRURUFFTGRmczdUMFFPSy01VlpGQnVNQnZaWWt0b2NkdThhLWRaZVlWNXlJazJ5VDhoOHFfQk9qb043Ti1SMWJoTEhJYXpGbV9SYWJFU0NRZw?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T05:23:10+00:00",
+          "title": "Isaac Ssozi - Jafari Lukenge - UMOSPOC Kabalega Rally 2026 - eWRC-results.com"
         }
       ]
     }

@@ -1,14 +1,5 @@
 [
   {
-    "id": "b62b4188835ae8fcf5b48a04",
-    "group": "motorsport",
-    "topic": "F1",
-    "title": "- Federation Internationale de l'Automobile",
-    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE55azk4bWw5QkZ4c3ljUGljYUdZamNfNjZmcGhfQm0zZUJwZkhYazNaSzQtUHRTQW9qSDlLRFpuVEdYdw?oc=5",
-    "triage": "exclude",
-    "reason": "一覧・ナビゲーション候補"
-  },
-  {
     "id": "a8611ff11692c8546bdc8c60",
     "group": "motorsport",
     "topic": "WRC",
@@ -23,15 +14,6 @@
     "topic": "pc",
     "title": "- AMD",
     "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9GaUt6X3R6N3ZZbWhmaUVUcExxbHVhR0VwbXp5ZVF6RGJZbDk4Y3Z3M0lGMjA2c0xRZjlDVGZNWUtWUQ?oc=5",
-    "triage": "exclude",
-    "reason": "一覧・ナビゲーション候補"
-  },
-  {
-    "id": "10ad9e4d58319a96f5c3d23b",
-    "group": "pc_ai",
-    "topic": "pc",
-    "title": "- TSMC",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMXhSSVByZXpJSVBJNXd5M3FINmtqemdubjltaE0wUWRnM3NTNkVoajMwb2lEcnJPTjdITVpuZWJOQU9yOXNabjBFUjRXeHRIcVI1eUlZZGpDLWdlWEt6RGk2NTNFTk5hUGFMenNVX3pPZXM5M1FZdDNRR3V1bHFjN3laQmxtOFNPRUU1bkpUWF9zVzNmZDdtamFiNC1Vd3pKd25BZQ?oc=5",
     "triage": "exclude",
     "reason": "一覧・ナビゲーション候補"
   },
@@ -81,11 +63,11 @@
     "reason": "中古・施設一覧・一般資料"
   },
   {
-    "id": "e8cdbefddeb2390ce779953b",
-    "group": "motorsport",
-    "topic": "NASCAR",
-    "title": "- NASCAR.com",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5fRThiZDk3eGVlQl8xYU5BRzBiTmFFTEFRRVZmdlNNTnRSNVF3QzJ0eHZkXy1wbDJ0UklkcXROWm5BS0FVd3NOVw?oc=5",
+    "id": "aef61b7428f46ca5e0345d46",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "- AMD",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Oa0hoLW5Cb1NzYXJjMWlZLVNoZmx4OGRFZy1qSlFKZDR1X3VrWmJDUzh4OGR2di1jYm1NaC1xa0o2ZzdvVjhpMHZKQi1QVlE0Y0pVUXBjeElxWkp0M0YwNUwtaDRWb2M?oc=5",
     "triage": "exclude",
     "reason": "一覧・ナビゲーション候補"
   },
@@ -115,6 +97,15 @@
     "url": "https://traxion.gg/best-black-friday-sim-racing-deals-2026",
     "triage": "exclude",
     "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "8a044f4de6a6baee9bec8c28",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "- AMD",
+    "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5ZRFNvT2J2ZTBETjF6VFdrUU41OE9va3pRNDdxaWtaRWF1TThZaUo0aXlpV3lER0RBZ0lCTTBB?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
   },
   {
     "id": "012da109c737ae5fb961856a",
@@ -444,7 +435,7 @@
     "id": "23e5da88ed24c254c9cf4441",
     "group": "audio",
     "topic": "tws",
-    "title": "The 50+ Best Apple Black Friday Deals on AirPods, iPads, MacBooks, and More",
+    "title": "The 50+ Best Apple Black Friday Deals Still Available on AirPods, iPads, and More",
     "url": "https://www.macrumors.com/2026/11/26/50-best-apple-black-friday-deals",
     "triage": "exclude",
     "reason": "通常セール・販促・中古"
@@ -1038,7 +1029,7 @@
     "id": "00b55fa32f8a87e687556f94",
     "group": "audio",
     "topic": "tws",
-    "title": "The Best Black Friday AirPods Deals",
+    "title": "The Best Black Friday AirPods Deals Still Available",
     "url": "https://www.macrumors.com/2026/11/27/best-black-friday-airpods-deals-2026",
     "triage": "exclude",
     "reason": "通常セール・販促・中古"
@@ -1852,5 +1843,149 @@
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZbGt3TUhwTnpoWTUtdDJydjh2ajJYMUhIZm1kdU9rdWpsY1hXYXRicEZlR2ZUN3FVMU5pQlYyd0VBNUZ0UVdiVkV5Tmh4U2VlSU5Wa1BMU0kxYWFPbVZ2dllXb0thUGMtZWpjaS1Fdw?oc=5",
     "triage": "exclude",
     "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "13a24e989e871e79b99b07aa",
+    "group": "audio",
+    "topic": "wired",
+    "title": "ソニー「BRAVIA」Mini LEDの強さが目を引く液晶テレビ＜ビジュアル＆関連製品売れ筋ランキング10月＞",
+    "url": "http://www.phileweb.com/news/d-av/202611/28/66495.html",
+    "triage": "exclude",
+    "reason": "対象外オーディオ・イベント・販促"
+  },
+  {
+    "id": "8f7c7b54aaa498db27e19ab0",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "Sr. Failure Engineer in Secaucus, New Jersey | Advanced Micro Devices, Inc - AMD",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WYjU0ZkZCTS1xbkNFLXp4cjJzQTUtaFFrVEpyLXZYNk1XQ05KazZWTldIRmR1MFpOVEpNZzRJUExaN0oxTjF4ZEtCQkNWSHFVSTNDSTRuUUppQ1YyMWVLVi1BLWJQd2NQT1E?oc=5",
+    "triage": "exclude",
+    "reason": "求人・採用ページ"
+  },
+  {
+    "id": "d44dea5ba73d235bad87796e",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "Senior Firmware Engineer in MARKHAM, Canada | Advanced Micro Devices, Inc - AMD",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03dEhXRU83dXlkNTJwUi13NHU1YnN0MnZfeWppQmMwYTByTVZVX2Nka2FGZUhSUldqaTR4aGZrS3U3ZHE1MTRRMlpfNmw0bzJYYk1OV19tbmk0R2tC?oc=5",
+    "triage": "exclude",
+    "reason": "求人・採用ページ"
+  },
+  {
+    "id": "e9285cd25a61db27b48f1ab7",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "- AMD",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsUGZ2Vmp1ZkZlVUpMdlNEUFhTRkQ4a2lMX1pPdmNSdG9TbUN2cDJWdzNJM0pOOEZicWc1SzEycGUwbWVoNlQ0Z3lROTZYbkx1aDRhWENRZWduUS1INDlQd0dB?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "1fc711cfacf35ce7e96e04e3",
+    "group": "audio",
+    "topic": "wired",
+    "title": "Sold: SOLD - Head-Fi.org",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSQXJuTG5PTFFtOTJUMkozYzhFQWw0ZHEwdkFEX21DcmZ5TzBKeXBaT05VY2N1STlHSnZLSTctWVFmdlFzblFZYXdVWTQwNHlsZW5yMnhnN1pIeHVu?oc=5",
+    "triage": "exclude",
+    "reason": "中古・施設一覧・一般資料"
+  },
+  {
+    "id": "4090f54a97d9169a83e5d75b",
+    "group": "audio",
+    "topic": "wired",
+    "title": "Nipo N2 DAP in great condition - Head-Fi.org",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BdlRhSHVPMHJocFYzSUtteUNiQXdDVTZ3T0YzRmdTV2NVQVlaVk9vSXp5NEpSQ2toX1ZGaVlwYTA2SVBwVVRMUU4xRVdfT3JmRUVWVGdoRnBFeVZDa1lRYlYyb1gzZk1CTmxCdmRpZkZyQWtydG1jOUtqbmRjQWM?oc=5",
+    "triage": "exclude",
+    "reason": "据え置き/DAP/DDC候補"
+  },
+  {
+    "id": "5376736925e771022ad2937f",
+    "group": "audio",
+    "topic": "wired",
+    "title": "- MusicTeck",
+    "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNX2JkQlA2SEdnZVFfc1JkTG0tNTdtT3NUZzVaWlpudk4tVFVRQ0txTktvT1hyNFBIQzJNcUtSd2Z5ZWFocXhqTWVYUzlsbGQ1enVWcnQza0FMR2JseWJ2Q3RQR25mTExnVUw2b2l1NmZOWEFtbFpsUUdWRDdtVTQ0empjblktN3pfaWhQclB2NWNaSFRmUzU3Mm4weXR2UEpwMWtlUy1ORU1XcUlaVDRFckNMV1B1WTIxdk9ZcEtocEw5WDNTUmR5UnZJM1pTdnRFR0VtRVVUYXlTSjJHZ1hRMFhBZlhjLUx4UGkyMEEzNWc2LWcxV1paN0ZJb3ZuYkxYWlBISXZlNUtMb3dXeF90N3o2NUNESHlCR294eHRiY1BaYURkMkMzc2hjVldTOXhFYkVfclNqMW5US2wzMDk2b3M0enYtMl9PWkFZeUhoLW0ySnFDX3c1X2s3U0RJWFk0MTk2dQ?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "3e81d9f1dabee7de225bf5fc",
+    "group": "audio",
+    "topic": "wired",
+    "title": "- MusicTeck",
+    "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPMkNRY3RUbU5qNVFEdFRFTVZxZEZsaEgydVZ3M25mUlVUZGpnNkF2b3ZMV09TTEZqbURLWEV4TjVmUG9ydFVYTDV1ZEh6ajg0czNjeFlaRHBCcGNTQlZOQWZEZUpnbnoxcld4ZjRESTZtb0FVV0JxMkZZbVB5cENNT1YydVd4b2w2bWpZUjdWaFpVUlc1ZDZsbE1VM2R2WVdRVjhVbllwN3dTWWowaExrUVNVdjJ3OVBlRlJjNGhaM0lIUUhCWU05RExtMjNfWkFEVDBvc3pTalZYOFlJMGJMT1dONlRWb1JCdVpwcGJfa0dPQkY0YlUwZWppTHpLZS1lZi1PVnJUZlZRbTBfNVNoaHR1UjFkWkdLajN2MXV1RkNNTFM2SWxPTDZRSWxJV2NyMGp6YmpOZ0EyNVFjQnZOMkw2SWVPNkFJQV9RRExXa1Vzd291d1dOcUtzcFZrTkF3MU9RMA?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "adf6ce5c723fd0b9c71a5dad",
+    "group": "audio",
+    "topic": "wired",
+    "title": "- MusicTeck",
+    "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQRGlTSVRsQlJnbVJHZ0ZoVld1cFFIcVVra2FZLTl6TXU0T2JqNE5BUUtOMGdETEs2SGstMWFHQnBDWHd2cXBUZ0s3Y0paUVU0em5nSlZqelNGcGNKdjBHMzM3UzBKZ2h6SFVmcms3bkRLRU5Md3JKc2psc3RDcGNhWlJoLXhjTjdMU1RKRVJmTm5QMnZrWURBbm00ZFdPODZXY21mbzYwVkhUeDByNFZPSzdvbFdtTkhIbmZxLWtOdVc4TGRLdWxWYms4MnV5QmRDb0FCbVUyTHlYZ01DUTZvN0kwUTNjVnBZS1lBRFFvQzcwbzZuSDFMVXlfS0lsTG53WEpNbWliNGptaWxDN2xQNGVnRDVDY3RuUzFtWmkzYm94WE9ic3d6X0NXd0kzOU1MUWNCWW13RUp2ak9FblRMWTg4ZWxyWGg5dkI0Y3RpWTJmUmUwWmx1Xy1jQXp1U2tlWExEWA?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "879e0b53c572f19afb37b602",
+    "group": "audio",
+    "topic": "wired",
+    "title": "- MusicTeck",
+    "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPTzZ0VjJmeWdvMzdJUDJ1cFFUQmF3VVNYRGQwcW1IU0hRQkhhMDQybWY2ZnFhUURSczFfTjJHc2QxQ0dWLVRKbnktb2dRZ2drYmphSTVYU3Zzc3VwT21zNExTbmVkT04xRExjTFVXS0h5UVp3QmtNbGJuNG1pWkpCR1phclVKT042TldxYlJMV2FRRldLVEN5LWdlUTdxWUM1cjVWZ3dUc0t2N1RfQlNWNlRsYWZlMWpSbk1nYVpialpTaVFQQUczTWduVVRPcFlNcW9qRmdXRVlSSzhYTmF0LWNyS19VS19pX2ZjZE1rZEtnR2N5UDl3VEc5am5JUW5wVzYwUmxVYXVnWHNHT2RIY3dxQXVzQmpWU3hHcjNESWhLVldEWkwtVjNidVI5am56MzBtbFA3ZW1LdVQyRlpBdVBTTnhfeF9PSHUzU0ZoMno3TzJvNDZkaWdfYUxQd1B0cHp4aGJB?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "8c44b3002f68529d6d0ee82b",
+    "group": "audio",
+    "topic": "wired",
+    "title": "- MusicTeck",
+    "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPeTRUYTVIWGlRMTBaWmpRbFl0RjhvVk8wbDdIWlZDNGtKMGZOZ0xqdG1pNUhyNVJKSldSVXRfREluUHhjdHhWMjVWc2RPT0JENnFSWE1Sak10QW1fYWhtYzlUYXE5c183ZmM1Wk9JUkJ0dTVLWEJjc3VnOFJyajhBaHZFcWxYU1V3U3hYSndOYWNkRHN3dS1aVEs1SzdBejdVclZOa01veFhXTk9wVTdpY19mVHB0SFNSYUtibnA0a0RkNG9oOWJzNnlDWHdTX283Y1BaMG5RRk5XdVFRbEt2R3ltRkNMakJKemlKYVRhZHZoQ0VIazRUZTVuRjE4N2N6X0hJZTR2czlhUFB4WnhUbGhhQ1lINlNsR2ZZRG1BNXB0WmhRN3VxZGpnRnpXZUNtQV9UaFYwTmNvV2VscDlTUjh1aVEzclJsNFNFUmhZaEpEQmtrQm4yaGpBUmZkTHZiNFd6Vk53?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "aecfcb37caa83b9f344c8913",
+    "group": "audio",
+    "topic": "wired",
+    "title": "- MusicTeck",
+    "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPdFlaWGdtaUV6XzdyTk13VURNc2ZaSktuSng4SEtVVnVkZUdNS0NBdnBXMTAyX3EzRnNYNl9zZVp1d2J2SVltdHlwRkVVRTNfN1NoX2xDWFhrRmsxUnl3ZDU1LTNZaXN2aGdpd21lYXhtTnoxaFhCd2Y5ZGJ0UHZGM2dUd0VUbDNQTkFhV3Izalg5aHR3cXFHQk5IZERJQUJtUUwyb2dfaFE0UWIwbzJvdTJHbW1NZU1INGh5bFEzbzhFT2hJeHg0RUQtbWU2OVF3S0V2X05sLUl4Y0NrZmRwTVZvU3BkV3ZtV24tejJMQkprbE5hS0dhckw2ZU5yX1JGdnN6YTJ5d21MajcxVmhIXzFqVUlabUVKQ0xVM0RkYXhlNlBCT1dLSmhLWmhpMlAxcnhDTTNoX2JfbTNOTUFXNE9kd0JuZWxWWTFtS1Q3MEtGdm1ja2NCRURSOG93Rm00VWZaT1dR?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "ed8dd3e09992e729ddd76f25",
+    "group": "audio",
+    "topic": "wired",
+    "title": "- MusicTeck",
+    "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOYjdqaUZIY2I4VEVHVUVsLU9tQkROX0s2UWVKTzVsajlGUFI3RUp2N2x3NzN1emFmQzdqUDNPTXNLcF9LcVZOMTl1dUlSOUdrQ3o0SnRSNFItM2E1VDlvX1I0Y1Nlb0dIV2lCNVZkTGZLRkZDVEtjUEpqbHpRWlBoVEt0bGhWSV9aNjdMcl9Xd3l0UGNWRHR2WW90T1FTVm5UMHl5MUNPQktVV1MyZVlWZXZJdm56Vld1U3pIa1M0Y2taaDJncEc1RDJPVWF0andKX0hnWHluVnIzOVMxNERTNUpxdzZXZmlmbE1FLW5KSWpSQXpCQ29zM0JEUE1yXzhGLThtLUowTFdpRDk2bThqQ2xLckpCcXFILUlsM3h5ZzlVaE1qd3FZLVRDNlUxU09MSUd1QnBrUEpUMjRBaWpFZjUxVzBzeGl0VllEZDk1V3dhdm96VlJsUEVsZlBGdFU0STdPSy1R?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "1b1daf6a57cbe47be8130f06",
+    "group": "audio",
+    "topic": "wired",
+    "title": "- MusicTeck",
+    "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQNElvRkJxZTFJYVU2RUtIYmFGbHVDaS1tX1IyemluTklkSWlMaVAyYnZfTHd3ZDNEQlZCN3hvTVR6WThxNW5vZHYxeFJNTWVHNGR2clFkeWFsQWVVZ1MzMnNCT0VrQzMzWlpyVmJES2pZYl9JZUpLemNhZkUtNEVjOGp2Y0MtWWNiaDdTUHJGVlRVTHBnODZCbXU1RmZhRFZ3emFYX2Ftc0NnQXZ4dXRzQnNiZi05YjRVLU1wZXU2MUdNQlVhejFPeW9iWDVZZm1VVXBsNUxyRFk2Y3dLZmxLeEJ0aXBacU1Dbkhwczd5b2FzVFJfZW4yZXB2cmdPUm1BLTUxSEhsWHZrcUgtTWdrZ2VpQW55a05kQy1maF9rOG9vZW1QdkxxM1BrbENCOEhMTnVGeFVPVkF1bVBDOGVmam54Sk5CcGdTbFJrTlpSeTB4ZkozZnVrY2Z6MmRZVjZlckJXSg?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "3dba18dc409aff766b94cc05",
+    "group": "motorsport",
+    "topic": "other_motorsport",
+    "title": "プラクティス／2026MotoGP第22戦バレンシアGP - autosport web",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQ2taei0tTVBFdUM3bFJaS01xemNDaWI5ODliaXRrQzQ5XzhoWmxFelZMSWhsa1YyX2ZJVHVqNXpwcmVsTU1yRm5YTFNzYklXU3B3QkNvOXc0TFYwUnYyQV90VXV0QUNTbmVuVXNOUUt4MzhYVURWSGpnNDBYZXFtRW4waTlFRGlXQkN3NlFnSHFYMndNQkZaeXZqNXFqSDJzZEJsTWQtYklQT0x6UmQtMWJsZlU2S19lWXR5em93TnpvUDZnbHh6YjdJcUlueGZqX0hoTWR5ZjM2bE15eE9HNE5FSDJueDJZUjl2UGJmUGE4YUo1Nm91ajVDcmVrUjgyV2J4bg?oc=5",
+    "triage": "exclude",
+    "reason": "対象外競技"
+  },
+  {
+    "id": "40f54fe089450d8be4617ef5",
+    "group": "motorsport",
+    "topic": "other_motorsport",
+    "title": "フリー走行1回目／2026MotoGP第22戦バレンシアGP - autosport web",
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOb0pRd0RoOG43VmRlNnhEZ0ItaDV2NDVLaUY1TlliT0s0aXZvME1kckdYOWRVQUU4TXhCVHdydF9Vd3hGWC1UcWRVMmJKYkIzaGZrRFlEckJsUWNSYUZ3T1ZCTDNVaFJ1RUhJVmMwTDVzYzB2ZWVPSG1CV0U0c2IxWDI4cExkSVZIZkJlZGhGUDFucUNfTmMxZzJ1TDY0ZnpIMU1fMk5wQnhZcjEwb1F3dS05VzBiNE1jYmwwcjNIM2M5cW1NVXZoQk9xVktGcTBtLWd3REp5R3FGOVBIa1hyRWNpaDUtUlpKRERScmpTbHlHMnNqQjJ1WlFIdWZoZmlMekZ4cjNxX1FDeUtHRlZTbUVB?oc=5",
+    "triage": "exclude",
+    "reason": "対象外競技"
   }
 ]

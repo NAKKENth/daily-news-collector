@@ -58,6 +58,32 @@
       ]
     },
     {
+      "id": "c6964aa4a06e01d27f42f602",
+      "topic": "pc",
+      "title": "TSMC Online - TSMC",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzVE0yOE1QOU15amNxWU5oaWZVSDVxbFR4VmFrdVJZelR5dmNQbjhlU2FIaHltbjQ2SXh6SjBheEYxSlk0dzk3QmJVNmhLQQ?oc=5",
+      "source": "TSMC",
+      "publisher": "TSMC",
+      "description": "TSMC Online TSMC",
+      "published_utc": "2026-11-27T04:22:04+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzVE0yOE1QOU15amNxWU5oaWZVSDVxbFR4VmFrdVJZelR5dmNQbjhlU2FIaHltbjQ2SXh6SjBheEYxSlk0dzk3QmJVNmhLQQ?oc=5",
+          "source": "TSMC",
+          "publisher": "TSMC",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T04:22:04+00:00",
+          "title": "TSMC Online - TSMC"
+        }
+      ]
+    },
+    {
       "id": "b158b17edd54d4954ad3cf63",
       "topic": "ai",
       "title": "Bidding strategies and how pricing works in ChatGPT Ads | OpenAI Help Center - OpenAI Help Center",
@@ -84,40 +110,40 @@
       ]
     },
     {
-      "id": "6c1b62b4b3d2c74c4873d378",
-      "topic": "ai",
-      "title": "Why does ChatGPT say “Context window full” or “Chat memory full”? | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWtUc05MdGdDeks3Tm1XTjVXcE1JTkhxdENHc1lCTGlGQXJZbGJUNGUwdVdqVWhqaHBkMTk0WmU3a2xQQllmN29SUHBMbXpPUlVXaTNlWDJyWk5LX29rRjBZR091T012QzBjM3otZnRTdTlQLVRuZ0xGYVNEcEx3RjJva2R1NndRTGlZTVZuU3k4azhqR3VkS2txUEtPS1pzN2V1eFJSMEc?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "Why does ChatGPT say “Context window full” or “Chat memory full”? | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-27T05:13:30+00:00",
+      "id": "4e778748b9c43230852e9f0f",
+      "topic": "pc",
+      "title": "PC Processor and Graphics Community - AMD",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE50elpEaExzbVpXem9jMjM0V2FyZlVaSFJWOVpxQTFoUWFORmlLMEJxbEhYdS03Z0dyQ0psN1lPYw?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "PC Processor and Graphics Community AMD",
+      "published_utc": "2026-11-27T11:16:03+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
       "date_quality": "discovery_index",
       "triage": "review",
-      "triage_reason": "AI候補",
+      "triage_reason": "PC技術候補",
       "sources": [
         {
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWtUc05MdGdDeks3Tm1XTjVXcE1JTkhxdENHc1lCTGlGQXJZbGJUNGUwdVdqVWhqaHBkMTk0WmU3a2xQQllmN29SUHBMbXpPUlVXaTNlWDJyWk5LX29rRjBZR091T012QzBjM3otZnRTdTlQLVRuZ0xGYVNEcEx3RjJva2R1NndRTGlZTVZuU3k4azhqR3VkS2txUEtPS1pzN2V1eFJSMEc?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE50elpEaExzbVpXem9jMjM0V2FyZlVaSFJWOVpxQTFoUWFORmlLMEJxbEhYdS03Z0dyQ0psN1lPYw?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T05:13:30+00:00",
-          "title": "Why does ChatGPT say “Context window full” or “Chat memory full”? | OpenAI Help Center - OpenAI Help Center"
+          "published_utc": "2026-11-27T11:16:03+00:00",
+          "title": "PC Processor and Graphics Community - AMD"
         }
       ]
     },
     {
-      "id": "efcbe4f0fc778b9a07afe8f2",
+      "id": "77ea168110302a36986e6971",
       "topic": "pc",
-      "title": "Community Forums - AMD",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5N3owS202NVZVWnNvTURNeDdLcGxfWTZBR19WUF95MnlkZmtjWnJONUxlY3dTa1pJLVNlUTdUZnJvalZtQVJidXVvUUU2aDE4NEU1Ul9GeEtqZw?oc=5",
+      "title": "export-compliance-review - AMD - AMD",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ybTEtT0ZlWGpHa3RQdmJ5UEJJanplT29NRERGWEtEVW9GRVNEQ1FkSTlJMk1hOXlzb0piQmhfRXpoUHJ1b1BFUjRURXZMcUVZcUZPQWZ4eE53ekVjRUJJNVJyUjR4d3Utdm9fZ2tlZw?oc=5",
       "source": "AMD",
       "publisher": "AMD",
-      "description": "Community Forums AMD",
-      "published_utc": "2026-11-26T16:51:59+00:00",
+      "description": "export-compliance-review - AMD AMD",
+      "published_utc": "2026-11-27T09:12:18+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -126,12 +152,12 @@
       "triage_reason": "関連性・新規性要確認",
       "sources": [
         {
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5N3owS202NVZVWnNvTURNeDdLcGxfWTZBR19WUF95MnlkZmtjWnJONUxlY3dTa1pJLVNlUTdUZnJvalZtQVJidXVvUUU2aDE4NEU1Ul9GeEtqZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ybTEtT0ZlWGpHa3RQdmJ5UEJJanplT29NRERGWEtEVW9GRVNEQ1FkSTlJMk1hOXlzb0piQmhfRXpoUHJ1b1BFUjRURXZMcUVZcUZPQWZ4eE53ekVjRUJJNVJyUjR4d3Utdm9fZ2tlZw?oc=5",
           "source": "AMD",
           "publisher": "AMD",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T16:51:59+00:00",
-          "title": "Community Forums - AMD"
+          "published_utc": "2026-11-27T09:12:18+00:00",
+          "title": "export-compliance-review - AMD - AMD"
         }
       ]
     },
@@ -314,32 +340,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T20:46:45+00:00",
           "title": "Moving to the new ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
-      "id": "048704cef30e565495385595",
-      "topic": "ai",
-      "title": "Using locked chats in ChatGPT | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OaXFlekxiYk1nMWJRelNPLUVCd3pvOFhMRUFmUXJudGJ6OWhPNno5OW5pYlk1UXhhMXdzRDNTaElreWM3VmtXZzBBZlF5Tzh5cV9IV25VUkt6OTFzZVI3dnlma18yV1ItcmJRbTdMWFVOR2QzeEd3aUlZVTQ0cm8?oc=5",
-      "source": "OpenAI",
-      "publisher": "OpenAI Help Center",
-      "description": "Using locked chats in ChatGPT | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-27T01:42:15+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OaXFlekxiYk1nMWJRelNPLUVCd3pvOFhMRUFmUXJudGJ6OWhPNno5OW5pYlk1UXhhMXdzRDNTaElreWM3VmtXZzBBZlF5Tzh5cV9IV25VUkt6OTFzZVI3dnlma18yV1ItcmJRbTdMWFVOR2QzeEd3aUlZVTQ0cm8?oc=5",
-          "source": "OpenAI",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T01:42:15+00:00",
-          "title": "Using locked chats in ChatGPT | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -1379,7 +1379,9 @@
           "published_utc": "2026-11-26T21:09:36+00:00",
           "title": "Report: Apple accounted for 57% of US smartphone shipments in Q3"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://9to5mac.com/2026/11/26/report-apple-accounted-for-57-of-us-smartphone-shipments-in-q3"
     },
     {
       "id": "94469c13200454473c7ab444",
@@ -1503,9 +1505,9 @@
       "description": "Ford enters the World Endurance Championship in 2027 with the new prototype.",
       "published_utc": "2026-11-26T18:00:29+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1513,25 +1515,29 @@
           "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again",
           "source": "Ars Technica",
           "publisher": "Ars Technica",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T18:00:29+00:00",
           "title": "Ford unveils the GT41 as it hopes to win Le Mans again"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T18:00:29+00:00",
+      "article_modified_raw": "2026-11-26T18:30:17+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "d76c28ab4fec8ea4f6d158c3",
       "topic": "pc",
-      "title": "be quiet!の静音電源は何が違う？買い替えタイミングや選び方は？PC電源の疑問と選ぶポイントを聞いてみた[Sponsored]",
+      "title": "be quiet!の静音電源は何が違う？買い替えタイミングや選び方は？PC電源の疑問と選ぶポイントを聞いてみた",
       "url": "https://akiba-pc.watch.impress.co.jp/docs/topic/special/2159211.html",
       "source": "AKIBA PC Hotline",
       "publisher": "AKIBA PC Hotline",
       "description": "PCの自作ブームが拡大し続けていた2000年代前半、ドイツにbe quiet!というPC電源メーカーが誕生した。",
       "published_utc": "2026-11-26T15:33:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1539,25 +1545,29 @@
           "url": "https://akiba-pc.watch.impress.co.jp/docs/topic/special/2159211.html",
           "source": "AKIBA PC Hotline",
           "publisher": "AKIBA PC Hotline",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T15:33:00+00:00",
-          "title": "be quiet!の静音電源は何が違う？買い替えタイミングや選び方は？PC電源の疑問と選ぶポイントを聞いてみた[Sponsored]"
+          "title": "be quiet!の静音電源は何が違う？買い替えタイミングや選び方は？PC電源の疑問と選ぶポイントを聞いてみた"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T00:33:00+09:00",
+      "article_modified_raw": "2026-11-27T00:33:12+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "3d6bd74842830aadc01f366d",
       "topic": "pc",
-      "title": "新生Sandiskのゲーム向けSSD「Optimus GX 7100」はゲームもAIも快適にこなす1台、SATA SSDとの比較で進化も確認[Sponsored]",
+      "title": "新生Sandiskのゲーム向けSSD「Optimus GX 7100」はゲームもAIも快適にこなす1台、SATA SSDとの比較で進化も確認",
       "url": "https://akiba-pc.watch.impress.co.jp/docs/topic/special/2157300.html",
       "source": "AKIBA PC Hotline",
       "publisher": "AKIBA PC Hotline",
       "description": "Sandiskがフラッシュメモリ製品の製造メーカーとして再び独立してから約1年が経過し、市場には同社のオリジナルSSD「SANDISK Optimus」シリーズが登場した。",
       "published_utc": "2026-11-26T15:20:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1565,11 +1575,15 @@
           "url": "https://akiba-pc.watch.impress.co.jp/docs/topic/special/2157300.html",
           "source": "AKIBA PC Hotline",
           "publisher": "AKIBA PC Hotline",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T15:20:00+00:00",
-          "title": "新生Sandiskのゲーム向けSSD「Optimus GX 7100」はゲームもAIも快適にこなす1台、SATA SSDとの比較で進化も確認[Sponsored]"
+          "title": "新生Sandiskのゲーム向けSSD「Optimus GX 7100」はゲームもAIも快適にこなす1台、SATA SSDとの比較で進化も確認"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T00:20:00+09:00",
+      "article_modified_raw": "2026-11-27T00:15:51+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "c8270a1e0049758bd6433e77",
@@ -1666,12 +1680,12 @@
       "url": "https://hwbusters.com/news/sandboxed-ai-models-talked-through-gpu-rounding-errors-on-a-shared-vllm-server-and-their-watchdog-let-every-attack-through",
       "source": "Hardware Busters",
       "publisher": "Hardware Busters",
-      "description": "Two AI models with no network access and no shared files passed messages to each other through the tiny rounding differences a shared vLLM server The post Sandboxed AI Models Talked Through GPU Rounding Errors on a Shared vLLM Server, and Their Watchdog Let Every Attack Through appeared first on Hardware Busters .",
+      "description": "Sandboxed AI models exchanged messages through GPU rounding errors on a shared vLLM server, and a colluding monitor let all 354 attacks through.",
       "published_utc": "2026-11-26T16:11:13+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -1679,11 +1693,15 @@
           "url": "https://hwbusters.com/news/sandboxed-ai-models-talked-through-gpu-rounding-errors-on-a-shared-vllm-server-and-their-watchdog-let-every-attack-through",
           "source": "Hardware Busters",
           "publisher": "Hardware Busters",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T16:11:13+00:00",
           "title": "Sandboxed AI Models Talked Through GPU Rounding Errors on a Shared vLLM Server, and Their Watchdog Let Every Attack Through"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T16:11:13+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "252494a779c8cb540ffab658",
@@ -1835,9 +1853,9 @@
       "description": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
       "published_utc": "2026-11-26T20:03:54+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -1845,11 +1863,15 @@
           "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T20:03:54+00:00",
           "title": "Nvidia hits pause on chip shipments to Southeast Asia"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T20:03:54+00:00",
+      "article_modified_raw": "2026-11-26T20:04:00+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "b486c883a4f2b772fc50cac3",
@@ -1861,9 +1883,9 @@
       "description": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
       "published_utc": "2026-11-26T20:00:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1871,11 +1893,15 @@
           "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T20:00:00+00:00",
           "title": "Is Alice Huang a spy or not?"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T20:00:00+00:00",
+      "article_modified_raw": "2026-11-27T04:02:49+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "092eb04f127aece72a71e655",
@@ -1887,9 +1913,9 @@
       "description": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
       "published_utc": "2026-11-26T19:31:50+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1897,11 +1923,15 @@
           "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T19:31:50+00:00",
           "title": "X finally gets parental controls after 20 years"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T19:31:50+00:00",
+      "article_modified_raw": "2026-11-26T19:31:58+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "fa9b7adb28d9a8252e43fc09",
@@ -1913,9 +1943,9 @@
       "description": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
       "published_utc": "2026-11-26T17:00:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "スマートフォンへ分類",
       "sources": [
@@ -1923,25 +1953,29 @@
           "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T17:00:00+00:00",
           "title": "A month with the iPhone Duo has changed how I use my phone"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T17:00:00+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "84165e05efb627ba24df89e3",
       "topic": "ai",
-      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "title": "Grand Theft Auto VI proves why efficiency isn&#8217;t a virtue",
       "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
       "source": "TechCrunch",
       "publisher": "TechCrunch",
       "description": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
       "published_utc": "2026-11-26T16:00:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1949,11 +1983,15 @@
           "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T16:00:00+00:00",
-          "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue"
+          "title": "Grand Theft Auto VI proves why efficiency isn&#8217;t a virtue"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T16:00:00+00:00",
+      "article_modified_raw": "2026-11-26T18:56:17+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "6c3a4d1a1181d1a0b15e2e39",
@@ -2290,7 +2328,7 @@
       "url": "https://www.techpowerup.com/355247/nvidia-geforce-621-40-stops-the-ssd-writes-but-now-users-report-black-screens",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "NVIDIA seems to be having a pretty hard time with this latest round of driver updates. The issue started with a bug that caused excessive writes to the SSD due to an NVIDIA program constantly rewriting itself. NVIDIA released the 621.35 hotfix driver to fix that bug, but reports quickly came out...",
+      "description": "NVIDIA seems to be having a pretty hard time with this latest round of driver updates. The issue started with a bug that caused excessive writes to the SSD due to an NVIDIA program constantly rewriting itself. NVIDIA released the 621.35 hotfix driver to fix that bug, but reports quickly came out that the issue still exists . We then got the GeForce",
       "published_utc": "2026-11-26T22:00:35+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "source_feed_published",
@@ -2316,16 +2354,16 @@
     {
       "id": "23d8ee82c8608e7ab0372b44",
       "topic": "pc",
-      "title": "【簡単なのにすごい! Photoshop 1分講座】新機能「リライト」で光を自由にコントロール！",
+      "title": "新機能「リライト」で光を自由にコントロール！",
       "url": "https://pc.watch.impress.co.jp/docs/column/1minute_photoshop/2159627.html",
       "source": "PC Watch",
       "publisher": "PC Watch",
-      "description": "",
+      "description": "Adobe MAX 2026で公開されたPhotoshopの新しい生成AI機能「リライト」を使うことで画像内に新たに光源を追加することができるようになりました。SNS上でも話題になったこの新機能の基本的な使い方を解説していきます。",
       "published_utc": "2026-11-26T21:45:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2333,11 +2371,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/column/1minute_photoshop/2159627.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T21:45:00+00:00",
-          "title": "【簡単なのにすごい! Photoshop 1分講座】新機能「リライト」で光を自由にコントロール！"
+          "title": "新機能「リライト」で光を自由にコントロール！"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T06:45:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "3e273400974b3b4e98c9a307",
@@ -2375,9 +2417,9 @@
       "description": "ASUSは、ゲーミングブランド「Republic of Gamers」より、ミニPC「ROG NUC 16」のホワイトモデルを11月27日に発売する。価格は2TBモデルが94万3,000円前後、1TBモデルが86万4,720円前後の見込み。",
       "published_utc": "2026-11-26T21:29:36+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2385,25 +2427,29 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159765.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T21:29:36+00:00",
           "title": "約3L筐体にGeForce RTX 5080搭載、「ROG NUC 16」にホワイトモデル"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T06:29:36+09:00",
+      "article_modified_raw": "2026-11-27T06:29:38+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "481235e7c697ee2b8a70e6c5",
       "topic": "pc",
-      "title": "【やじうまミニレビュー】工具のマキタバッテリがPCの電源に!? 最大100Wの純正アダプタを使ってみた",
+      "title": "工具のマキタバッテリがPCの電源に!? 最大100Wの純正アダプタを使ってみた",
       "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2159706.html",
       "source": "PC Watch",
       "publisher": "PC Watch",
-      "description": "",
+      "description": "マキタ「ADP15」は、同社の 電動工具で用いられている専用バッテリに取り付け、スマホやノートPCの充電を可能にするアダプタだ 。USB Type-CとUSB Type-Aをそれぞれ1ポートずつ搭載しており、災害などの緊急時に、バッテリを有効活用できる一品だ。",
       "published_utc": "2026-11-26T21:13:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2411,11 +2457,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2159706.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T21:13:00+00:00",
-          "title": "【やじうまミニレビュー】工具のマキタバッテリがPCの電源に!? 最大100Wの純正アダプタを使ってみた"
+          "title": "工具のマキタバッテリがPCの電源に!? 最大100Wの純正アダプタを使ってみた"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T06:13:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "39625379b9cdd527645346f8",
@@ -4240,11 +4290,11 @@
     {
       "id": "dcb38e6544f2f1f62d12f531",
       "topic": "pc",
-      "title": "Kioxia and NVIDIA Collaborate to Expand Effective High-Bandwidth Memory Capacity with SSDs",
+      "title": "(PR) Kioxia and NVIDIA Collaborate to Expand Effective High-Bandwidth Memory Capacity with SSDs",
       "url": "https://www.techpowerup.com/355250/kioxia-and-nvidia-collaborate-to-expand-effective-high-bandwidth-memory-capacity-with-ssds",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "KIOXIA America, Inc. today announced a collaboration with NVIDIA demonstrating the potential to extend effective GPU memory capacity to petabyte scale using NVIDIA SCADA software harnessing the performance of Kioxia SSDs in support of NVIDIA's Storage-Next initiative. The collaboration...",
+      "description": "KIOXIA America, Inc. today announced a collaboration with NVIDIA demonstrating the potential to extend effective GPU memory capacity to petabyte scale using NVIDIA SCADA software harnessing the performance of Kioxia SSDs in support of NVIDIA's Storage-Next initiative. The collaboration demonstrates the potential to process a database of 2 trillion ",
       "published_utc": "2026-11-26T22:59:03+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "source_feed_published",
@@ -4259,7 +4309,7 @@
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-26T22:59:03+00:00",
-          "title": "Kioxia and NVIDIA Collaborate to Expand Effective High-Bandwidth Memory Capacity with SSDs"
+          "title": "(PR) Kioxia and NVIDIA Collaborate to Expand Effective High-Bandwidth Memory Capacity with SSDs"
         }
       ],
       "discovery_url": null,
@@ -4274,7 +4324,7 @@
       "url": "https://www.techpowerup.com/355248/hkc-launches-shield-27q420b-gaming-monitor-with-420-hz-and-mini-led-backlight",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "HKC has introduced the Shield 27Q420B 27-inch gaming monitor with a resolution of 2560 x 1440 pixels. The IPS panel has a native refresh rate of 360 Hz. However, the monitor is capable of reaching 420 Hz via overclocking. In addition, HKC chose a Mini LED backlight with 1,152 local dimming zones...",
+      "description": "HKC has introduced the Shield 27Q420B 27-inch gaming monitor with a resolution of 2560 x 1440 pixels. The IPS panel has a native refresh rate of 360 Hz. However, the monitor is capable of reaching 420 Hz via overclocking. In addition, HKC chose a Mini LED backlight with 1,152 local dimming zones and a peak brightness of 1,200 nits. HKC also specifi",
       "published_utc": "2026-11-26T22:42:21+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "source_feed_published",
@@ -4887,9 +4937,9 @@
       "description": "イラスト制作もゲームもこれ1台で済むという左手デバイスが登場した。電脳甲板工廠は11月27日、ジョイスティックとダイヤルを備えた24キーの左手デバイス「GBC24」の組み立て済みモデルを発売した。価格は、遊舎工房での委託販売が1万8,500円、BOOTHが1万6,000円。キースイッチとキーキャップは付属しないため、それぞれ24個を別途用意する必要がある(目安は約3,600円)。",
       "published_utc": "2026-11-27T04:35:21+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -4897,11 +4947,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159930.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T04:35:21+00:00",
           "title": "左手デバイスにジョイスティック！絵描き向け「GBC24」はゲームパッドにもなる"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T13:35:21+09:00",
+      "article_modified_raw": "2026-11-27T13:35:22+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "c0c50a1b4992a43a7005fb4d",
@@ -4913,9 +4967,9 @@
       "description": "音声AIに「うん」と返したのに無視された、という経験がある人は多いかもしれない。株式会社ディー・エヌ・エー(DeNA)は11月26日、音声対話向けに追加学習した日本語音声認識(ASR)モデル3種のオープンウェイト(モデルの重み)を、Hugging Faceで無償公開した。",
       "published_utc": "2026-11-27T03:46:11+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -4923,11 +4977,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159894.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T03:46:11+00:00",
           "title": "DeNA、相づちを聞き逃さない日本語音声認識モデル3種を無償公開"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T12:46:11+09:00",
+      "article_modified_raw": "2026-11-27T12:46:12+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "bf00d504e818d3d330708484",
@@ -5025,9 +5083,9 @@
       "description": "手のひらサイズのミニPCがまとめて10モデル登場だ。ASUSは11月26日、ミニPC「ASUS NUC 16 Pro」3モデル、「ASUS NUC 15 Pro」シリーズ3モデル、「ASUS Mini PC VM31」、「ASUS ExpertCenter PN55」3モデルを11月27日より発売する。価格は16万20円から48万420円。",
       "published_utc": "2026-11-27T01:35:46+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -5035,11 +5093,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159795.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T01:35:46+00:00",
           "title": "ミニPCが一気に10モデル！ASUSがNUC 16 ProやPN55を投入"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T10:35:46+09:00",
+      "article_modified_raw": "2026-11-27T13:52:50+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "03acaa18e7d4855b1c766158",
@@ -5074,7 +5136,7 @@
       "url": "https://www.techpowerup.com/355249/microsoft-cuts-memory-utilization-in-windows-11-in-response-to-rampocalypse",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "We've already covered several of Microsoft's efforts to improve Windows 11 since the start of 2026, although a majority of TechPowerUp readers haven't really noticed much of a difference. Back in July, the software giant promised that Windows 11 would be getting memory efficiency improvements,...",
+      "description": "We've already covered several of Microsoft's efforts to improve Windows 11 since the start of 2026, although a majority of TechPowerUp readers haven't really noticed much of a difference . Back in July, the software giant promised that Windows 11 would be getting memory efficiency improvements , and it seems as though one way it has approached that",
       "published_utc": "2026-11-27T03:00:54+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "source_feed_published",
@@ -5438,11 +5500,11 @@
     {
       "id": "6d69c267a170628b5c30ce37",
       "topic": "pc",
-      "title": "QNAP Introduces TS-hx65U Rackmount ZFS NAS: E1.S SSD Hybrid Storage",
+      "title": "(PR) QNAP Introduces TS-hx65U Rackmount ZFS NAS: E1.S SSD Hybrid Storage",
       "url": "https://www.techpowerup.com/355267/qnap-introduces-ts-hx65u-rackmount-zfs-nas-e1-s-ssd-hybrid-storage",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "QNAP Systems, Inc., a leading innovator in storage, networking, and data protection solutions, today unveiled the new TS-hx65U series rackmount ZFS NAS, comprising the TS-h1465U-RP, TS-h665U-RP and TS-h665U. The TS-hx65U series is tailored for enterprise data centers and long-term deployment...",
+      "description": "QNAP Systems, Inc., a leading innovator in storage, networking, and data protection solutions, today unveiled the new TS-hx65U series rackmount ZFS NAS, comprising the TS-h1465U-RP, TS-h665U-RP and TS-h665U. The TS-hx65U series is tailored for enterprise data centers and long-term deployment needs, integrating E1.S SSD hybrid storage architecture w",
       "published_utc": "2026-11-27T12:37:26+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "source_feed_published",
@@ -5457,7 +5519,7 @@
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-27T12:37:26+00:00",
-          "title": "QNAP Introduces TS-hx65U Rackmount ZFS NAS: E1.S SSD Hybrid Storage"
+          "title": "(PR) QNAP Introduces TS-hx65U Rackmount ZFS NAS: E1.S SSD Hybrid Storage"
         }
       ],
       "discovery_url": null,
@@ -5576,12 +5638,12 @@
       "url": "https://tftcentral.co.uk/reviews/asus-rog-swift-pg259qws-ace",
       "source": "TFTCentral",
       "publisher": "TFTCentral",
-      "description": "The new Esports and competitive gaming focused OLED monitor from Asus, with a 24.5\" panel, 1080p resolution and 720Hz refresh rate. Is this flagship OLED the new king for Esports gaming? Category: Early Access, Reviews Courtesy of TFTCentral",
+      "description": "The new Esports and competitive gaming focused OLED monitor from Asus, with a 24.5\" panel, 1080p and 720Hz refresh rate",
       "published_utc": "2026-11-27T12:21:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -5589,11 +5651,15 @@
           "url": "https://tftcentral.co.uk/reviews/asus-rog-swift-pg259qws-ace",
           "source": "TFTCentral",
           "publisher": "TFTCentral",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T12:21:00+00:00",
           "title": "Asus ROG Swift PG259QWS Ace"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T12:21:00+00:00",
+      "article_modified_raw": "2026-11-27T12:32:57+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "c26f32940cbab9c7e87ce8da",
@@ -6317,7 +6383,9 @@
           "published_utc": "2026-11-27T14:50:41+00:00",
           "title": "iOS 27.3 adds limits for these advanced features, details here"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "aebb7b34b59860ff13bf37d1",
@@ -6351,7 +6419,9 @@
           "published_utc": "2026-11-27T08:10:50+00:00",
           "title": "Apple launches Black Friday Shopping Event: Here’s how much you can save"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "adb924b458e4c867a1af996e",
@@ -6377,7 +6447,9 @@
           "published_utc": "2026-11-26T22:56:12+00:00",
           "title": "South Korea proceeds with case over allegedly misleading Apple Intelligence ads [U]"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "3e7e3661a09929d0ec7c11c7",
@@ -6389,9 +6461,9 @@
       "description": "Intel faced pressure to surrender a 10% stake to unlock billions in promised grants.",
       "published_utc": "2026-11-27T12:05:01+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -6399,11 +6471,15 @@
           "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences",
           "source": "Ars Technica",
           "publisher": "Ars Technica",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T12:05:01+00:00",
           "title": "Intel faced a choice: Give Trump 10% or face the consequences"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T12:05:01+00:00",
+      "article_modified_raw": "2026-11-25T16:06:49+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "170c5efe0a4d6b9b5f5ae61d",
@@ -6415,9 +6491,9 @@
       "description": "We polled the Ars staff about their favorite pickups this year; here's the list.",
       "published_utc": "2026-11-27T11:30:04+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -6425,11 +6501,15 @@
           "url": "https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026",
           "source": "Ars Technica",
           "publisher": "Ars Technica",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T11:30:04+00:00",
           "title": "Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T11:30:04+00:00",
+      "article_modified_raw": "2026-11-25T13:33:30+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "e9f15267a62edefffcb30f93",
@@ -6441,9 +6521,9 @@
       "description": "There’s just one thing we still don’t know: How much will they cost?",
       "published_utc": "2026-11-27T08:00:53+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -6451,25 +6531,29 @@
           "url": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids",
           "source": "Ars Technica",
           "publisher": "Ars Technica",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T08:00:53+00:00",
           "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T08:00:53+00:00",
+      "article_modified_raw": "2026-11-24T21:01:55+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "1b35523f0cb7f8be33f5ed34",
       "topic": "pc",
-      "title": "Kioxia XL-Flash Gen 3 Reads in 3 Microseconds, Taking Flash Back Into Optane’s Old Territory",
+      "title": "Kioxia XL-Flash Gen 3 Reads in 3 Microseconds, Taking Flash Back Into Optane&#8217;s Old Territory",
       "url": "https://hwbusters.com/news/kioxia-xl-flash-gen-3-reads-in-3-microseconds-taking-flash-back-into-optanes-old-territory",
       "source": "Hardware Busters",
       "publisher": "Hardware Busters",
-      "description": "Kioxia has shown a prototype of its third-generation XL-Flash that averages 3 microseconds per read, less than a tenth of what its mainstream TLC NAND The post Kioxia XL-Flash Gen 3 Reads in 3 Microseconds, Taking Flash Back Into Optane’s Old Territory appeared first on Hardware Busters .",
+      "description": "Kioxia XL-Flash Gen 3 averages 3 µs reads with 70% higher density, aimed at a new memory tier between DRAM and SSDs in AI servers.",
       "published_utc": "2026-11-27T13:12:27+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -6477,37 +6561,45 @@
           "url": "https://hwbusters.com/news/kioxia-xl-flash-gen-3-reads-in-3-microseconds-taking-flash-back-into-optanes-old-territory",
           "source": "Hardware Busters",
           "publisher": "Hardware Busters",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T13:12:27+00:00",
-          "title": "Kioxia XL-Flash Gen 3 Reads in 3 Microseconds, Taking Flash Back Into Optane’s Old Territory"
+          "title": "Kioxia XL-Flash Gen 3 Reads in 3 Microseconds, Taking Flash Back Into Optane&#8217;s Old Territory"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T13:12:27+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "0ddde74460b4124c1070f29d",
       "topic": "pc",
-      "title": "36 Classic GPU Tech Demos, From 3dfx’s Demoroom to NVIDIA’s Dawn, Now Run in a Browser Tab",
+      "title": "36 Classic GPU Tech Demos, From 3dfx&#8217;s Demoroom to NVIDIA&#8217;s Dawn, Now Run in a Browser Tab",
       "url": "https://hwbusters.com/news/36-classic-gpu-tech-demos-from-3dfxs-demoroom-to-nvidias-dawn-now-run-in-a-browser-tab",
       "source": "Hardware Busters",
       "publisher": "Hardware Busters",
-      "description": "A one-person GPU demo gallery now runs 36 of the tech demos that 3dfx, NVIDIA and ATI shipped between 1997 and 2006, straight in the The post 36 Classic GPU Tech Demos, From 3dfx’s Demoroom to NVIDIA’s Dawn, Now Run in a Browser Tab appeared first on Hardware Busters .",
+      "description": "A new GPU demo gallery ports 36 classic 3dfx, NVIDIA and ATI tech demos from 1997 to 2006 to the browser, from Demoroom and Dawn to Box of Smoke.",
       "published_utc": "2026-11-27T10:10:17+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "review",
+      "date_quality": "article_metadata",
+      "triage": "priority",
       "triage_reason": "PC技術候補",
       "sources": [
         {
           "url": "https://hwbusters.com/news/36-classic-gpu-tech-demos-from-3dfxs-demoroom-to-nvidias-dawn-now-run-in-a-browser-tab",
           "source": "Hardware Busters",
           "publisher": "Hardware Busters",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T10:10:17+00:00",
-          "title": "36 Classic GPU Tech Demos, From 3dfx’s Demoroom to NVIDIA’s Dawn, Now Run in a Browser Tab"
+          "title": "36 Classic GPU Tech Demos, From 3dfx&#8217;s Demoroom to NVIDIA&#8217;s Dawn, Now Run in a Browser Tab"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T10:10:17+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "2779b52fa0866bd9f2b30888",
@@ -6516,12 +6608,12 @@
       "url": "https://hwbusters.com/news/tsmc-a14-pdk-0-9-opens-the-1-4nm-node-for-design-with-mass-production-set-for-2028",
       "source": "Hardware Busters",
       "publisher": "Hardware Busters",
-      "description": "TSMC has released version 0.9 of its A14 process design kit, which means chip designers can now start real work on the 1.4nm-class node. The The post TSMC A14 PDK 0.9 Opens the 1.4nm Node for Design, With Mass Production Set for 2028 appeared first on Hardware Busters .",
+      "description": "TSMC A14 PDK 0.9 is out: the 1.4nm-class node opens for chip design with up to 14% more speed or 23% less power than N2P, and mass production in 2H 2028.",
       "published_utc": "2026-11-27T07:10:48+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -6529,11 +6621,15 @@
           "url": "https://hwbusters.com/news/tsmc-a14-pdk-0-9-opens-the-1-4nm-node-for-design-with-mass-production-set-for-2028",
           "source": "Hardware Busters",
           "publisher": "Hardware Busters",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T07:10:48+00:00",
           "title": "TSMC A14 PDK 0.9 Opens the 1.4nm Node for Design, With Mass Production Set for 2028"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T07:10:48+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "01e9dd38be1d7449b2008e93",
@@ -6542,12 +6638,12 @@
       "url": "https://hwbusters.com/psus/asus-tuf-gaming-1200w-platinum-atx-v3-1-psu-review",
       "source": "Hardware Busters",
       "publisher": "Hardware Busters",
-      "description": "The TUF Gaming 1200W Platinum brings a GaN APFC stage and Platinum efficiency, but it lands in the lower part of the group for overall The post ASUS TUF Gaming 1200W Platinum ATX v3.1 PSU Review appeared first on Hardware Busters .",
+      "description": "ASUS TUF Gaming 1200W Platinum review: an ATX 3.1 PSU with a GaN APFC stage and Cybenetics Platinum efficiency, tested against 27 other 1200W units.",
       "published_utc": "2026-11-26T20:44:21+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -6555,11 +6651,15 @@
           "url": "https://hwbusters.com/psus/asus-tuf-gaming-1200w-platinum-atx-v3-1-psu-review",
           "source": "Hardware Busters",
           "publisher": "Hardware Busters",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T20:44:21+00:00",
           "title": "ASUS TUF Gaming 1200W Platinum ATX v3.1 PSU Review"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T20:44:21+00:00",
+      "article_modified_raw": "2026-11-27T14:47:20+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "f6cadb98d65ca6f11ca044be",
@@ -6568,12 +6668,12 @@
       "url": "https://helentech.jp/news-remus-malware-fake-google-sheets-extension-94110",
       "source": "HelenTech",
       "publisher": "HelenTech",
-      "description": "情報窃取型マルウェア「Remus」が、Google Chrome に Google スプレッドシートを装った不正な拡張機能を仕込み、ログイン中の Gmail から未読メールを盗み出していることがわかりました。 これはセキ […]",
+      "description": "情報窃取型マルウェア「Remus」が、Google Chrome に Google スプレッドシートを装った不正な拡張機能を仕込み、ログイン中の Gmail から未読メールを盗み出していることがわかりました。 これはセキュリティ企業の Ge",
       "published_utc": "2026-11-27T13:30:33+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -6581,11 +6681,15 @@
           "url": "https://helentech.jp/news-remus-malware-fake-google-sheets-extension-94110",
           "source": "HelenTech",
           "publisher": "HelenTech",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T13:30:33+00:00",
           "title": "マルウェア「Remus」、Chrome に偽の「Google Sheets」拡張機能を追加して Gmail のメールを盗む"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T22:30:33+0900",
+      "article_modified_raw": "2026-11-27T22:30:35+0900",
+      "enrichment": "article_metadata"
     },
     {
       "id": "70f4622e30e49a96cdb71d61",
@@ -6594,12 +6698,12 @@
       "url": "https://helentech.jp/issue-pixel-android-auto-aod-black-screen-94105",
       "source": "HelenTech",
       "publisher": "HelenTech",
-      "description": "一部の Pixel で、2026 年 11 月のアップデートを適用したあと、Android Auto に接続している間は「常に表示状態のディスプレイ (AOD)」が表示されず、画面が真っ暗なままになる問題が報告されました […]",
+      "description": "一部の Google Pixel スマートフォンで、2026 年 11 月のアップデートを適用した後から Android Auto に接続していると「常に表示状態のディスプレイ (AOD)」が表示されず、画面が真っ暗になる問題が発生しています。",
       "published_utc": "2026-11-27T01:10:39+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -6607,11 +6711,15 @@
           "url": "https://helentech.jp/issue-pixel-android-auto-aod-black-screen-94105",
           "source": "HelenTech",
           "publisher": "HelenTech",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T01:10:39+00:00",
           "title": "一部の Pixel、Android Auto 接続中に「常に表示状態のディスプレイ」が表示されない問題が報告。11 月のアップデート後に発生"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T10:10:39+0900",
+      "article_modified_raw": "2026-11-27T10:10:41+0900",
+      "enrichment": "article_metadata"
     },
     {
       "id": "0e4f5ae443dda27ccf38ec95",
@@ -6694,16 +6802,16 @@
     {
       "id": "0ecb98a7d8117a618fe6aa9a",
       "topic": "smartphones",
-      "title": "過酷な猛暑や豪雨でも現場を止めない！ 31時間駆動するAI対応タブレット「FZ-G3」",
+      "title": "過酷な猛暑や豪雨でも現場を止めない！　31時間駆動するAI対応タブレット「FZ-G3」：建設デジタル環境（1/3 ページ）",
       "url": "https://built.itmedia.co.jp/bt/articles/2611/27/news059.html",
       "source": "ITmedia Mobile",
       "publisher": "ITmedia Mobile",
       "description": "パナソニック コネクトは、過酷な現場を支える10.1型堅牢タブレット「タフブック」の新モデル「FZ-G3」を発表した。新製品は過酷化する異常気象や人手不足に対し、IP66の防塵／防滴や高い耐落下性能、最長約31時間の駆動で「現場を止めない」デジタル環境の実現に貢献する。",
-      "published_utc": "2026-11-27T01:52:00+00:00",
+      "published_utc": "2026-11-27T10:52:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -6711,11 +6819,15 @@
           "url": "https://built.itmedia.co.jp/bt/articles/2611/27/news059.html",
           "source": "ITmedia Mobile",
           "publisher": "ITmedia Mobile",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-27T01:52:00+00:00",
-          "title": "過酷な猛暑や豪雨でも現場を止めない！ 31時間駆動するAI対応タブレット「FZ-G3」"
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-27T10:52:00+00:00",
+          "title": "過酷な猛暑や豪雨でも現場を止めない！　31時間駆動するAI対応タブレット「FZ-G3」：建設デジタル環境（1/3 ページ）"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T10:52:00Z",
+      "article_modified_raw": "2026-11-27T13:31:00Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "d547543d46b2b523748a0be7",
@@ -6802,16 +6914,16 @@
     {
       "id": "31c60f0a272efca74a6dd3e6",
       "topic": "smartphones",
-      "title": "イトーキ中央研究所を大公開 “新陳代謝する”オフィス空間と家具の実現へ",
+      "title": "イトーキ中央研究所を大公開　“新陳代謝する”オフィス空間と家具の実現へ：3Dプリンタの可能性を探る（1/5 ページ）",
       "url": "https://monoist.itmedia.co.jp/mn/articles/2611/27/news016.html",
       "source": "ITmedia Mobile",
       "publisher": "ITmedia Mobile",
       "description": "イトーキ中央研究所は、研究開発拠点の見学ツアーを開催し、次世代オフィス家具のプロトタイプや研究設備を公開した。第2世代へと進化したワークテーブルや、新たに開発したロッカーに加え、材料の再生から3Dプリントによる造形、評価までを一貫して行う研究環境を紹介する。",
-      "published_utc": "2026-11-26T22:00:00+00:00",
+      "published_utc": "2026-11-27T07:00:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -6819,11 +6931,15 @@
           "url": "https://monoist.itmedia.co.jp/mn/articles/2611/27/news016.html",
           "source": "ITmedia Mobile",
           "publisher": "ITmedia Mobile",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-26T22:00:00+00:00",
-          "title": "イトーキ中央研究所を大公開 “新陳代謝する”オフィス空間と家具の実現へ"
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-27T07:00:00+00:00",
+          "title": "イトーキ中央研究所を大公開　“新陳代謝する”オフィス空間と家具の実現へ：3Dプリンタの可能性を探る（1/5 ページ）"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T07:00:00Z",
+      "article_modified_raw": "2026-11-27T07:02:00Z",
+      "enrichment": "article_metadata"
     },
     {
       "id": "10c23812fdcbbbf822f1895e",
@@ -6940,16 +7056,16 @@
     {
       "id": "7dd51bb2f3a42d47a48f1b2d",
       "topic": "pc",
-      "title": "Elon Musk Struggles To Get Chips As Tesla’s First AI5 Chips Will Reportedly Go To Optimus Humanoid Robots, With Scarce TSMC Capacity Allocated To Microsoft And Google",
+      "title": "Elon Musk Struggles To Get Chips As Tesla&#8217;s First AI5 Chips Will Reportedly Go To Optimus Humanoid Robots, With Scarce TSMC Capacity Allocated To Microsoft And Google",
       "url": "https://wccftech.com/elon-musk-struggles-to-get-chips-as-teslas-first-ai5-chips-will-reportedly-go-to-optimus-humanoid-robots-with-scarce-tsmc-capacity-allocated-to-microsoft-and-google",
       "source": "Wccftech",
       "publisher": "Wccftech",
-      "description": "Tesla's next-generation artificial intelligence (AI) computing chip, the AI5, is unlikely to enter mass shipping in 2027, says a report from the Taiwanese media. The AI5 is slated to be Tesla's latest AI chip, and recent statements from Elon Musk have shared that the firm will use it primarily for the Optimus humanoid robot. The report suggests tha",
+      "description": "Musk already trimmed AI5 memory amid the global memory shortage. Sources say cloud chips win because of steady orders and higher profit margins.",
       "published_utc": "2026-11-27T13:39:26+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -6957,11 +7073,15 @@
           "url": "https://wccftech.com/elon-musk-struggles-to-get-chips-as-teslas-first-ai5-chips-will-reportedly-go-to-optimus-humanoid-robots-with-scarce-tsmc-capacity-allocated-to-microsoft-and-google",
           "source": "Wccftech",
           "publisher": "Wccftech",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T13:39:26+00:00",
-          "title": "Elon Musk Struggles To Get Chips As Tesla’s First AI5 Chips Will Reportedly Go To Optimus Humanoid Robots, With Scarce TSMC Capacity Allocated To Microsoft And Google"
+          "title": "Elon Musk Struggles To Get Chips As Tesla&#8217;s First AI5 Chips Will Reportedly Go To Optimus Humanoid Robots, With Scarce TSMC Capacity Allocated To Microsoft And Google"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T13:39:26+00:00",
+      "article_modified_raw": "2026-11-27T13:39:35+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "0d853d61bd70b19082f72aaa",
@@ -6970,12 +7090,12 @@
       "url": "https://wccftech.com/asrock-launches-taichi-aqua-360-lcd",
       "source": "Wccftech",
       "publisher": "Wccftech",
-      "description": "ASRock reveals its new flagship Taichi AQUA 360 LCD AIO that combines a transparent, ARGB-lit coolant channel with dual pumps. ASRock Debuts Taichi AQUA 360 LCD AIO With a Detachable 3.4-inch LCD and Dual Pumps, Backed With a 6-Year Warranty Popular hardware maker ASRock has debuted its first Taichi series AIO cooler with the launch of Taichi AQUA ",
+      "description": "ASRock launches Taichi AQUA 360 LCD AIO cooler featuring a 3.4-inch LCD, dual pumps, and customizable setup options with a 6-year warranty.",
       "published_utc": "2026-11-27T13:31:33+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -6983,11 +7103,15 @@
           "url": "https://wccftech.com/asrock-launches-taichi-aqua-360-lcd",
           "source": "Wccftech",
           "publisher": "Wccftech",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T13:31:33+00:00",
           "title": "ASRock Taichi AQUA 360 LCD AIO Launches With Dual Pumps And G1/4-inch Expansion Ports To Extend Cooling To GPUs"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T13:31:33+00:00",
+      "article_modified_raw": "2026-11-27T13:33:28+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "46acd11fa7810660ce603deb",
@@ -7082,12 +7206,12 @@
       "url": "https://wccftech.com/grand-theft-auto-vi-40-fps-playstation-5-unlocked-framerate",
       "source": "Wccftech",
       "publisher": "Wccftech",
-      "description": "If you are following the PlayStation 5 jailbreak and modding scene, you are probably already aware that an unofficial Grand Theft Auto VI patch that can only run on jailbroken systems unlocks the game's framerate (like an Xbox Series X Quick Resume glitch does), pushing it beyond the vanilla 30 FPS cap. Early tests only confirmed that the game cann",
+      "description": "Grand Theft Auto VI PS5 mod tests hit 40 FPS at 55% render scale, but 90°C heat shows why Rockstar kept the 30 FPS cap",
       "published_utc": "2026-11-27T10:26:05+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -7095,11 +7219,15 @@
           "url": "https://wccftech.com/grand-theft-auto-vi-40-fps-playstation-5-unlocked-framerate",
           "source": "Wccftech",
           "publisher": "Wccftech",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T10:26:05+00:00",
           "title": "Grand Theft Auto VI Can Hit Stable 40 FPS on PlayStation 5 With Unlocked Framerate Mod, Yet High Temperatures Risk Damaging the System"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T10:26:05+00:00",
+      "article_modified_raw": "2026-11-27T13:13:18+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "11b70b97c208783b9145c2e0",
@@ -7138,12 +7266,12 @@
       "url": "https://wccftech.com/grand-theft-auto-vi-modded-multiplayer-unofficial-pc-port",
       "source": "Wccftech",
       "publisher": "Wccftech",
-      "description": "Modders appear to have somehow gotten Grand Theft Auto VI multiplayer working as part of the efforts on the unofficial PC port. The claim comes from TeK (TeKGameR / @TeKGameR950), a French C# developer and the founder of HyTeKGames, a one-man studio seemingly active since 2011. Tek's GitHub repository calls his main project \"HModding,\" a universal ",
+      "description": "A modder has shown Grand Theft Auto VI modded multiplayer, running at 25 to 30 frames per second on the unofficial PC port.",
       "published_utc": "2026-11-27T08:30:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -7151,11 +7279,15 @@
           "url": "https://wccftech.com/grand-theft-auto-vi-modded-multiplayer-unofficial-pc-port",
           "source": "Wccftech",
           "publisher": "Wccftech",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T08:30:00+00:00",
           "title": "Grand Theft Auto VI Modded Multiplayer Runs at 25 to 30 FPS on the Unofficial PC Port, With Two Jason Duvals Sharing the Same Leonida"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T08:30:00+00:00",
+      "article_modified_raw": "2026-11-27T08:24:30+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "835a17706d41f495c0478d30",
@@ -8616,6 +8748,474 @@
           "title": "Can not entry into \"Recovey Model\" - NVIDIA Developer Forums"
         }
       ]
+    },
+    {
+      "id": "92b767daa11bf0f81e126544",
+      "topic": "pc",
+      "title": "Bringing MXFP4 MoE to AMD Instinct MI300 Series GPUs with FlyDSL - ROCm™ Blogs",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRFpkd2xkak5aN0diYy1KVnpIbXlveFo5dGxQVTVYM3FvWHhwUW5COEtvTVY5LXVPQWR4Qk1BOW5LOEJKaUxiSnR5SXFmVFltZ3ByTzJQNFRGbXpKdGFQajFpZGxlM2pGd0FsdGtxb1VIVDhyeTZzVzRqX19HU0J5N3M1OFZaQQ?oc=5",
+      "source": "AMD",
+      "publisher": "ROCm™ Blogs",
+      "description": "Bringing MXFP4 MoE to AMD Instinct MI300 Series GPUs with FlyDSL ROCm™ Blogs",
+      "published_utc": "2026-11-26T19:52:16+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRFpkd2xkak5aN0diYy1KVnpIbXlveFo5dGxQVTVYM3FvWHhwUW5COEtvTVY5LXVPQWR4Qk1BOW5LOEJKaUxiSnR5SXFmVFltZ3ByTzJQNFRGbXpKdGFQajFpZGxlM2pGd0FsdGtxb1VIVDhyeTZzVzRqX19HU0J5N3M1OFZaQQ?oc=5",
+          "source": "AMD",
+          "publisher": "ROCm™ Blogs",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T19:52:16+00:00",
+          "title": "Bringing MXFP4 MoE to AMD Instinct MI300 Series GPUs with FlyDSL - ROCm™ Blogs"
+        }
+      ]
+    },
+    {
+      "id": "64002204196bc73a3aa3cac2",
+      "topic": "pc",
+      "title": "Customer Quality Engineer in San Jose, California | Advanced Micro Devices, Inc - AMD",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LSXRob2x0VWRKbEEwbUdYTE5KZ0tpOEdOZG5wYU4wVVVRZDJvenVEMTRscTNORHFuNFU5bEhHOXVYUFRJZEkySlJZUGtaMWg5TlpRcUxnWXZsOUx6VVNEU2xrTXJsQncxTmc?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "Customer Quality Engineer in San Jose, California | Advanced Micro Devices, Inc AMD",
+      "published_utc": "2026-11-27T06:55:04+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LSXRob2x0VWRKbEEwbUdYTE5KZ0tpOEdOZG5wYU4wVVVRZDJvenVEMTRscTNORHFuNFU5bEhHOXVYUFRJZEkySlJZUGtaMWg5TlpRcUxnWXZsOUx6VVNEU2xrTXJsQncxTmc?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T06:55:04+00:00",
+          "title": "Customer Quality Engineer in San Jose, California | Advanced Micro Devices, Inc - AMD"
+        }
+      ]
+    },
+    {
+      "id": "1dc0b4af806f65e1cad9702b",
+      "topic": "pc",
+      "title": "Summer 2027 Hardware Engineering Intern in Belfast, United Kingdom | Advanced Micro Devices, Inc - AMD",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxaHE3NUsxSVBWbXR0bzRxSFh2QXhRUEMzWkJGYWU1TFQtdWx5U1lnLXFYS3ZOejBpaTV5TmFXZ2djRDdJcjNMNkNmaWd1c2w1ZXhySE1zZGM2Q0lnS2JZWmVvMXRwaVVRN0pz?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "Summer 2027 Hardware Engineering Intern in Belfast, United Kingdom | Advanced Micro Devices, Inc AMD",
+      "published_utc": "2026-11-26T16:42:15+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxaHE3NUsxSVBWbXR0bzRxSFh2QXhRUEMzWkJGYWU1TFQtdWx5U1lnLXFYS3ZOejBpaTV5TmFXZ2djRDdJcjNMNkNmaWd1c2w1ZXhySE1zZGM2Q0lnS2JZWmVvMXRwaVVRN0pz?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T16:42:15+00:00",
+          "title": "Summer 2027 Hardware Engineering Intern in Belfast, United Kingdom | Advanced Micro Devices, Inc - AMD"
+        }
+      ]
+    },
+    {
+      "id": "f25ea6f4ae47ac1c1e2de608",
+      "topic": "pc",
+      "title": "Game DevTech Manager - APAC in Tokyo, Japan | Advanced Micro Devices, Inc - AMD",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tZ2drYWh4VDFwSnZJTmk1M0ZBZlVYQTk5ZUt6Ykdvb1k1UnZjeHhlaVpocmZBdUlyaHltYTBMbGJmVXpWVWc1aEFnTDRfa2NhOU85N0VZanM3Z1dvamlWVDJLQ3hqQ09YVlE?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "Game DevTech Manager - APAC in Tokyo, Japan | Advanced Micro Devices, Inc AMD",
+      "published_utc": "2026-11-26T18:13:34+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tZ2drYWh4VDFwSnZJTmk1M0ZBZlVYQTk5ZUt6Ykdvb1k1UnZjeHhlaVpocmZBdUlyaHltYTBMbGJmVXpWVWc1aEFnTDRfa2NhOU85N0VZanM3Z1dvamlWVDJLQ3hqQ09YVlE?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T18:13:34+00:00",
+          "title": "Game DevTech Manager - APAC in Tokyo, Japan | Advanced Micro Devices, Inc - AMD"
+        }
+      ]
+    },
+    {
+      "id": "f07d6fcef27723532f41e78a",
+      "topic": "pc",
+      "title": "Security Engineer, Product Security in Bangalore, India | Advanced Micro Devices, Inc - AMD",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YY2d0MWc3ZGh0VkZyd1FVcGp6b0FkOFRnQldKcldYSG55Wm9GdmdqY0xONWtkaU9mUjdUMkF6MGctOWtUSkM0M3NDNmZJY0tBWjMtUmNPWnBNa3dFSEdwVmhsd2hUMXc3SVE?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "Security Engineer, Product Security in Bangalore, India | Advanced Micro Devices, Inc AMD",
+      "published_utc": "2026-11-27T01:21:26+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YY2d0MWc3ZGh0VkZyd1FVcGp6b0FkOFRnQldKcldYSG55Wm9GdmdqY0xONWtkaU9mUjdUMkF6MGctOWtUSkM0M3NDNmZJY0tBWjMtUmNPWnBNa3dFSEdwVmhsd2hUMXc3SVE?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T01:21:26+00:00",
+          "title": "Security Engineer, Product Security in Bangalore, India | Advanced Micro Devices, Inc - AMD"
+        }
+      ]
+    },
+    {
+      "id": "98914815e8505987fc372db1",
+      "topic": "pc",
+      "title": "AI Solutions Architect - Design Verification in Santa Clara, California | Advanced Micro Devices, Inc - AMD",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0ZkUtTlN2YXdtSklLYUtqcFVZUUVaY2hsNUMwZnpmUS1QSDNnVjVxNXotWXplZHNWQ0lROTBLcG5nNjBQMVNSbGh2dXZuT1J6ZDdrWlE3dDg1SFRnZ2ttaHgyUTUtU1hpcnc?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "AI Solutions Architect - Design Verification in Santa Clara, California | Advanced Micro Devices, Inc AMD",
+      "published_utc": "2026-11-27T03:50:09+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0ZkUtTlN2YXdtSklLYUtqcFVZUUVaY2hsNUMwZnpmUS1QSDNnVjVxNXotWXplZHNWQ0lROTBLcG5nNjBQMVNSbGh2dXZuT1J6ZDdrWlE3dDg1SFRnZ2ttaHgyUTUtU1hpcnc?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T03:50:09+00:00",
+          "title": "AI Solutions Architect - Design Verification in Santa Clara, California | Advanced Micro Devices, Inc - AMD"
+        }
+      ]
+    },
+    {
+      "id": "169c584adbe89976cd130696",
+      "topic": "pc",
+      "title": "ESD Technical Lead and Engineering Manager in Santa Clara, California | Advanced Micro Devices, Inc - AMD",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EdFpXYnlqNG1Ndl9XZUotZmRRS0tmSC1xVjFMS3FSZllvV3BqZG1IX28zeVpGWmdQY2hRV3g1aXFMWlY0WTBmRlRPT0U0RVBNN09BQUdiVHdFbkRfcEgycnJETnpSNE1UQ0E?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "ESD Technical Lead and Engineering Manager in Santa Clara, California | Advanced Micro Devices, Inc AMD",
+      "published_utc": "2026-11-27T07:59:32+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EdFpXYnlqNG1Ndl9XZUotZmRRS0tmSC1xVjFMS3FSZllvV3BqZG1IX28zeVpGWmdQY2hRV3g1aXFMWlY0WTBmRlRPT0U0RVBNN09BQUdiVHdFbkRfcEgycnJETnpSNE1UQ0E?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T07:59:32+00:00",
+          "title": "ESD Technical Lead and Engineering Manager in Santa Clara, California | Advanced Micro Devices, Inc - AMD"
+        }
+      ]
+    },
+    {
+      "id": "7d4bed9f6e01a9577eb6dc41",
+      "topic": "pc",
+      "title": "AI Collaboration Solutions Architect in Austin, Texas | Advanced Micro Devices, Inc - AMD",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfd0RTV2YtR1k3RGVLNGxiQlhIUV9XWkpoMWZ2bFRKcTI3a2pneXZ0OUtjRFBtYUg0dWZhdHZvQnVLTnczRFR3VmRSdmJzNHFWbUtCUkwzclhRVmNEOXFJRjRTN01lUHVabUE?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "AI Collaboration Solutions Architect in Austin, Texas | Advanced Micro Devices, Inc AMD",
+      "published_utc": "2026-11-27T00:43:01+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfd0RTV2YtR1k3RGVLNGxiQlhIUV9XWkpoMWZ2bFRKcTI3a2pneXZ0OUtjRFBtYUg0dWZhdHZvQnVLTnczRFR3VmRSdmJzNHFWbUtCUkwzclhRVmNEOXFJRjRTN01lUHVabUE?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T00:43:01+00:00",
+          "title": "AI Collaboration Solutions Architect in Austin, Texas | Advanced Micro Devices, Inc - AMD"
+        }
+      ]
+    },
+    {
+      "id": "010a6dd34611b61a95d04692",
+      "topic": "pc",
+      "title": "社区论坛 - AMD",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBta0xxS2NFTUlDZFFQLTJSbTFnSXY5RlZsb2JuYU4zcVpMc1pHVWNxNmlENFpLcmh4dmNTc2xWdHhDc1U0bWd0Q0xSVDdEWG1LWnpISE1CZXdNSGRfV2V3bWVpTmpUZkVmTG1rMElR?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "社区论坛 AMD",
+      "published_utc": "2026-11-27T08:00:02+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBta0xxS2NFTUlDZFFQLTJSbTFnSXY5RlZsb2JuYU4zcVpMc1pHVWNxNmlENFpLcmh4dmNTc2xWdHhDc1U0bWd0Q0xSVDdEWG1LWnpISE1CZXdNSGRfV2V3bWVpTmpUZkVmTG1rMElR?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T08:00:02+00:00",
+          "title": "社区论坛 - AMD"
+        }
+      ]
+    },
+    {
+      "id": "aa8d223c75d7b8285adebe3d",
+      "topic": "pc",
+      "title": "Posts by Vladimir Indic - ROCm™ Blogs",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qclJaOVdSNjVoUHI0MEs0NHhjUUMwQ3lLeW5JWXVXcGFDNnY5Y1ZEeTMtMzJ1ZXhqYnBTTXpTRE5Xb2Z4MXlndHZVOWUyMnR4aW5vTTZjcnVMTlFySktucUpMME15Ny0tZVE?oc=5",
+      "source": "AMD",
+      "publisher": "ROCm™ Blogs",
+      "description": "Posts by Vladimir Indic ROCm™ Blogs",
+      "published_utc": "2026-11-27T00:59:36+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qclJaOVdSNjVoUHI0MEs0NHhjUUMwQ3lLeW5JWXVXcGFDNnY5Y1ZEeTMtMzJ1ZXhqYnBTTXpTRE5Xb2Z4MXlndHZVOWUyMnR4aW5vTTZjcnVMTlFySktucUpMME15Ny0tZVE?oc=5",
+          "source": "AMD",
+          "publisher": "ROCm™ Blogs",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T00:59:36+00:00",
+          "title": "Posts by Vladimir Indic - ROCm™ Blogs"
+        }
+      ]
+    },
+    {
+      "id": "0c136f3515cb831dace6f07a",
+      "topic": "pc",
+      "title": "Lenovo IdeaPad Gaming 3 only allowing 120Hz on external MSI monitor (trying to get 165 or even 144hzHz) - Intel Community",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOHk4LVB5ZDB4VFJqZFRIZ2RmcVd1RUZSaHhjTVZ1bGN2RUVWQzA5ZzJIcGJnOEszTGwzd1NtcWJSOGNqQlRzRnRWNUsxNEZWa1JBMk80cXBSNjFVeUk3ZFlYemFmUWVhTmRiaGllbjNlWVMzVHA0cFg2NTlLbXBoYkU0ajNUbmRDYWR5cGRrdnY0MGhvSkhTZnZ5WW1ILV9QUUNhSVcteGx3SXp4bFo1UzdKWm0yQUpDRHl6RkxOOHdXQm1ZMDlycTJMZ1RoallXd1htcw?oc=5",
+      "source": "Intel",
+      "publisher": "Intel Community",
+      "description": "Lenovo IdeaPad Gaming 3 only allowing 120Hz on external MSI monitor (trying to get 165 or even 144hzHz) Intel Community",
+      "published_utc": "2026-11-26T18:33:36+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOHk4LVB5ZDB4VFJqZFRIZ2RmcVd1RUZSaHhjTVZ1bGN2RUVWQzA5ZzJIcGJnOEszTGwzd1NtcWJSOGNqQlRzRnRWNUsxNEZWa1JBMk80cXBSNjFVeUk3ZFlYemFmUWVhTmRiaGllbjNlWVMzVHA0cFg2NTlLbXBoYkU0ajNUbmRDYWR5cGRrdnY0MGhvSkhTZnZ5WW1ILV9QUUNhSVcteGx3SXp4bFo1UzdKWm0yQUpDRHl6RkxOOHdXQm1ZMDlycTJMZ1RoallXd1htcw?oc=5",
+          "source": "Intel",
+          "publisher": "Intel Community",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T18:33:36+00:00",
+          "title": "Lenovo IdeaPad Gaming 3 only allowing 120Hz on external MSI monitor (trying to get 165 or even 144hzHz) - Intel Community"
+        }
+      ]
+    },
+    {
+      "id": "19034646622bd31d6beccb54",
+      "topic": "pc",
+      "title": "NeurIPS - Intel",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc2ZMcWVxb3k4YklIZVBFNF9fc2FCTC1iYlgyRXNiVk5ja1NlbHJnSHJNYmxkUXV3Rk9Jel8yZGpoQjg2S2V0NFN6anRMOTZiVS0tbWZIOWIxOXNyYTJXajdxY05PQktLRENtdnRueG51TmNIT3FPbFRHaVhxMDNjdHZseFlJZHhFVzM2MFJ1Q0lIZw?oc=5",
+      "source": "Intel",
+      "publisher": "Intel",
+      "description": "NeurIPS Intel",
+      "published_utc": "2026-11-27T14:08:06+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc2ZMcWVxb3k4YklIZVBFNF9fc2FCTC1iYlgyRXNiVk5ja1NlbHJnSHJNYmxkUXV3Rk9Jel8yZGpoQjg2S2V0NFN6anRMOTZiVS0tbWZIOWIxOXNyYTJXajdxY05PQktLRENtdnRueG51TmNIT3FPbFRHaVhxMDNjdHZseFlJZHhFVzM2MFJ1Q0lIZw?oc=5",
+          "source": "Intel",
+          "publisher": "Intel",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T14:08:06+00:00",
+          "title": "NeurIPS - Intel"
+        }
+      ]
+    },
+    {
+      "id": "d893a22c95fba704a4c9fc39",
+      "topic": "pc",
+      "title": "Immersive 3D Solutions for Interactive Kiosks and Digital Signage - Intel® Industry Solution Builders",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRGgxUmZ4bHFJWU02d2V0Rlp3WVZ2ZWhWaHVFeWNRNUtlQzJBV3RveF9TdEEyV3R2TVBVamdmdGNOLXhBb18xN1lwU1pHTm1PaTdfSm50VjM3RnB0WVByTlNURml3cHFkUmRGdF84dnk2em8xbV9wd2E5LVk1d3NoSGpDdEQtNnN0cEJyZFlmeTFJWDJOc012eE91dXVvdkE3dkxTNnBoQ1Jza2E3clo3c2l1OWtrQWs3OGQtZ210azRhXzFMYm9j?oc=5",
+      "source": "Intel",
+      "publisher": "Intel® Industry Solution Builders",
+      "description": "Immersive 3D Solutions for Interactive Kiosks and Digital Signage Intel® Industry Solution Builders",
+      "published_utc": "2026-11-27T05:20:36+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRGgxUmZ4bHFJWU02d2V0Rlp3WVZ2ZWhWaHVFeWNRNUtlQzJBV3RveF9TdEEyV3R2TVBVamdmdGNOLXhBb18xN1lwU1pHTm1PaTdfSm50VjM3RnB0WVByTlNURml3cHFkUmRGdF84dnk2em8xbV9wd2E5LVk1d3NoSGpDdEQtNnN0cEJyZFlmeTFJWDJOc012eE91dXVvdkE3dkxTNnBoQ1Jza2E3clo3c2l1OWtrQWs3OGQtZ210azRhXzFMYm9j?oc=5",
+          "source": "Intel",
+          "publisher": "Intel® Industry Solution Builders",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T05:20:36+00:00",
+          "title": "Immersive 3D Solutions for Interactive Kiosks and Digital Signage - Intel® Industry Solution Builders"
+        }
+      ]
+    },
+    {
+      "id": "d00c790fd50f32a408816ec2",
+      "topic": "pc",
+      "title": "Enabling Smarter, Safer and More Connected Mobility - Intel® Industry Solution Builders",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb2RmR1E3cEU5Q2RxbEk5MVJqdXBTZGtfM3BBQmU2bGwxRFE2TDNzUi1yNVBVQ0YzWWFEZXBoVXZzaFJhTFJBekpjY2dvN0RmTjNScjZYdnpKc0lWS21UMm1jSWI0RjF3eGNSU2FKRk9yaXNTdkpVRVA5Z3JvZGRveFd1NHlBQUF1OG1Vd29nUUFkbHhiWmF1VEVZWk5LdVBXSTNBUXAyNzUtWVJUdGtsTFdwVQ?oc=5",
+      "source": "Intel",
+      "publisher": "Intel® Industry Solution Builders",
+      "description": "Enabling Smarter, Safer and More Connected Mobility Intel® Industry Solution Builders",
+      "published_utc": "2026-11-27T05:22:36+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb2RmR1E3cEU5Q2RxbEk5MVJqdXBTZGtfM3BBQmU2bGwxRFE2TDNzUi1yNVBVQ0YzWWFEZXBoVXZzaFJhTFJBekpjY2dvN0RmTjNScjZYdnpKc0lWS21UMm1jSWI0RjF3eGNSU2FKRk9yaXNTdkpVRVA5Z3JvZGRveFd1NHlBQUF1OG1Vd29nUUFkbHhiWmF1VEVZWk5LdVBXSTNBUXAyNzUtWVJUdGtsTFdwVQ?oc=5",
+          "source": "Intel",
+          "publisher": "Intel® Industry Solution Builders",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T05:22:36+00:00",
+          "title": "Enabling Smarter, Safer and More Connected Mobility - Intel® Industry Solution Builders"
+        }
+      ]
+    },
+    {
+      "id": "070a9f598707dc5e5842b182",
+      "topic": "pc",
+      "title": "Compact, High- Performance Edge AI with Intel® Core™ Ultra Series 3 Processor - Intel® Industry Solution Builders",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVjNMSW1nekJEZUhZa2o3WmpFU0diSU5sTklVVERjLTJsNmYyeG16bHFVcEotZUt2QU5CWTJ2eGVmYXN0b2J3SnNpRVgyclV2eU9qclhTSnBnY2Vjbl9WZUhRV2JVQ2pjdUphNzJxVUxmcWlhYm11S2NaSzFEMFVaOTl1TnAxV3RXMmFQMXA0RkZOYjRJaUkxWFdIcFZ2RXZtTTdDNGdEcjF6aXBCajVuZDg4N2g0cFUtb2hqbTN5RU9jYWVudDNKSDgwbGZYUnpGakE?oc=5",
+      "source": "Intel",
+      "publisher": "Intel® Industry Solution Builders",
+      "description": "Compact, High- Performance Edge AI with Intel® Core™ Ultra Series 3 Processor Intel® Industry Solution Builders",
+      "published_utc": "2026-11-27T05:20:41+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVjNMSW1nekJEZUhZa2o3WmpFU0diSU5sTklVVERjLTJsNmYyeG16bHFVcEotZUt2QU5CWTJ2eGVmYXN0b2J3SnNpRVgyclV2eU9qclhTSnBnY2Vjbl9WZUhRV2JVQ2pjdUphNzJxVUxmcWlhYm11S2NaSzFEMFVaOTl1TnAxV3RXMmFQMXA0RkZOYjRJaUkxWFdIcFZ2RXZtTTdDNGdEcjF6aXBCajVuZDg4N2g0cFUtb2hqbTN5RU9jYWVudDNKSDgwbGZYUnpGakE?oc=5",
+          "source": "Intel",
+          "publisher": "Intel® Industry Solution Builders",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T05:20:41+00:00",
+          "title": "Compact, High- Performance Edge AI with Intel® Core™ Ultra Series 3 Processor - Intel® Industry Solution Builders"
+        }
+      ]
+    },
+    {
+      "id": "acab153585e6a992755a4b86",
+      "topic": "pc",
+      "title": "Update of DAL Drivers in CSME SW Kit Technical Advisory - Intel",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPclprOUwwVHBkZ0QxQW5tQjdManYzOU42YlI5V29jbktNWk1tVjVfd21Ca1N0LUZFNmFmckNKZU9LOEhPREwyT2JXZEJreHpZaGZVLXhqSnpQalJEN1hEVTkxSzkwNGZZTHRvWXVBdnlYaVQ0eC1wOUNZazBBbG1TX1RQR3FJLUJPT2h1VE00WnRBYzUzaUs0ZTdSWW55Rmt4bWZkbk80T3RZTDZPcF95QzdDNlJSQVdWaVRLYUgtaEE?oc=5",
+      "source": "Intel",
+      "publisher": "Intel",
+      "description": "Update of DAL Drivers in CSME SW Kit Technical Advisory Intel",
+      "published_utc": "2026-11-27T14:08:09+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPclprOUwwVHBkZ0QxQW5tQjdManYzOU42YlI5V29jbktNWk1tVjVfd21Ca1N0LUZFNmFmckNKZU9LOEhPREwyT2JXZEJreHpZaGZVLXhqSnpQalJEN1hEVTkxSzkwNGZZTHRvWXVBdnlYaVQ0eC1wOUNZazBBbG1TX1RQR3FJLUJPT2h1VE00WnRBYzUzaUs0ZTdSWW55Rmt4bWZkbk80T3RZTDZPcF95QzdDNlJSQVdWaVRLYUgtaEE?oc=5",
+          "source": "Intel",
+          "publisher": "Intel",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T14:08:09+00:00",
+          "title": "Update of DAL Drivers in CSME SW Kit Technical Advisory - Intel"
+        }
+      ]
+    },
+    {
+      "id": "ce5e8e0b9357d85850166a35",
+      "topic": "smartphones",
+      "title": "[Arc 140V / Lunar Lake] iPhone Dolby Vision portrait videos corrupted with HDR on – fine when rotated 90° left - Intel Community",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeHlYQUFTWExnUzYzYTN1bW5XdXhZYzJ3ZWpQSmZHazdpNkxBNC1HS0ZZeGtsZ3A1eVlkZm9FYUxvNjQ3SDhSanFUUHkydWg0T25jZEFROER5MURHMkRSQTJMS0kzdFY3QXRVcnhGUTJ4SXpOZjFKTEJWdV9RZDVLTndpX3IxSnJYU010Ym9VMlZKSXJiVXlEazNueXdqLW9RYnhiQmJxVTNZRFZlWGxGVUdkRkxPQVN6bmdhZW00U2xGNS1SYVhMRGdxTWFfcFpDWDhidGI0MA?oc=5",
+      "source": "Intel",
+      "publisher": "Intel Community",
+      "description": "[Arc 140V / Lunar Lake] iPhone Dolby Vision portrait videos corrupted with HDR on – fine when rotated 90° left Intel Community",
+      "published_utc": "2026-11-27T01:48:45+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "スマートフォンへ分類",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeHlYQUFTWExnUzYzYTN1bW5XdXhZYzJ3ZWpQSmZHazdpNkxBNC1HS0ZZeGtsZ3A1eVlkZm9FYUxvNjQ3SDhSanFUUHkydWg0T25jZEFROER5MURHMkRSQTJMS0kzdFY3QXRVcnhGUTJ4SXpOZjFKTEJWdV9RZDVLTndpX3IxSnJYU010Ym9VMlZKSXJiVXlEazNueXdqLW9RYnhiQmJxVTNZRFZlWGxGVUdkRkxPQVN6bmdhZW00U2xGNS1SYVhMRGdxTWFfcFpDWDhidGI0MA?oc=5",
+          "source": "Intel",
+          "publisher": "Intel Community",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T01:48:45+00:00",
+          "title": "[Arc 140V / Lunar Lake] iPhone Dolby Vision portrait videos corrupted with HDR on – fine when rotated 90° left - Intel Community"
+        }
+      ]
+    },
+    {
+      "id": "7d0dcd0a5bd593e57fb833a0",
+      "topic": "pc",
+      "title": "[Arc B580] IGDKMDND64.sys BSOD under sustained high workloads - Intel Community",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnN0aXpQcnd1QUoxakV5UFRXOGtmWlFZTndoaUh1QThCSm12NGRNRVd3c0J5WU5TWldYbUZCaHZzcDR2T2s4MU5pLUowY3NrVXVZS1RDbnBLVWVud2JRNldwb3lyTG15ZGtkcWFWbFFiTjVBZkpjdWFYa2I4STRncEFJeHhNUEVRRlkyZlBqcjB5NDJlUGVBcHpxOTM?oc=5",
+      "source": "Intel",
+      "publisher": "Intel Community",
+      "description": "[Arc B580] IGDKMDND64.sys BSOD under sustained high workloads Intel Community",
+      "published_utc": "2026-11-27T06:22:49+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnN0aXpQcnd1QUoxakV5UFRXOGtmWlFZTndoaUh1QThCSm12NGRNRVd3c0J5WU5TWldYbUZCaHZzcDR2T2s4MU5pLUowY3NrVXVZS1RDbnBLVWVud2JRNldwb3lyTG15ZGtkcWFWbFFiTjVBZkpjdWFYa2I4STRncEFJeHhNUEVRRlkyZlBqcjB5NDJlUGVBcHpxOTM?oc=5",
+          "source": "Intel",
+          "publisher": "Intel Community",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T06:22:49+00:00",
+          "title": "[Arc B580] IGDKMDND64.sys BSOD under sustained high workloads - Intel Community"
+        }
+      ]
     }
   ],
   "date_unknown": [
@@ -9185,13 +9785,39 @@
           "title": "ChatGPT/Codex usage limits：ページ変更を観測（要差分確認）"
         }
       ]
+    },
+    {
+      "id": "8fff2d4f23dc7197bef6180c",
+      "topic": "ai",
+      "title": "ChatGPT/Codex usage limits：ページ変更を観測（要差分確認）",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help",
+      "description": "前回観測 2026-11-27T21:19:19+00:00 → 今回観測 2026-11-27T22:07:35+00:00。変更内容・発生日は未確定。",
+      "published_utc": null,
+      "date_jst": null,
+      "timestamp_basis": "page_change_observed",
+      "link_role": "monitor_page",
+      "date_quality": "observed_change",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "possible_event_id": "b1569d09984b",
+      "sources": [
+        {
+          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help",
+          "timestamp_basis": "page_change_observed",
+          "published_utc": null,
+          "title": "ChatGPT/Codex usage limits：ページ変更を観測（要差分確認）"
+        }
+      ]
     }
   ],
   "health": {
-    "ok": 31,
+    "ok": 16,
     "partial": 6,
-    "deferred": 3,
-    "empty": 3,
+    "skipped": 21,
     "manual": 3
   }
 }

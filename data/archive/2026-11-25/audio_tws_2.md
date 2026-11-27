@@ -1,5 +1,6 @@
-# tws / 2026-11-25 / 候補 51–56
+# tws / 2026-11-25 / 候補 51–57
 
+- [What does IPX7 mean? - JBL](https://news.google.com/rss/articles/CBMigAFBVV95cUxNU01BOE1mWXdRd3dCemZhc3Y0OVhVZEw2ZHBISFl2Mi1Cd25Wc3laR2xDbWRYeEpfRVpuR3V2bXJCY09DSm1rS3dEeGV2Y1JMWVgydXBNUGRyMGxuUDZYcDVTUVRuZ3FKaHJ3bGZVa3R3ZXNCRndNQlZFamtlSi1Jeg?oc=5) — JBL｜要確認｜2026-11-25T09:01:33+00:00 UTC｜discovery_index
 - [What is the length of the cable? - JBL](https://news.google.com/rss/articles/CBMihgFBVV95cUxPZWc3TDFjbnVleFhVSjE0aE9CYVp1Q3JJVW9BV3ljdlRmdmNRUUg3Ui1WTnNaN0pKTlJxd1NUOVp3WkZ3LWRGVTRwOVlHcVdJWW5WclBxSUpfeGY5QkRFb0NfNWJKWDBhYUZMejBIQXNWSFNWdFc4ZVFNTmtodmY2R0JyOEY3Zw?oc=5) — JBL｜要確認｜2026-11-25T11:54:40+00:00 UTC｜discovery_index
 - [Why can't I hear game or music audio? - JBL](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRnRObU9XczBPNkx2b0xHUFlMXzdvWkQxZkp4X2syUkJwVkp2UGNWa0V4UGhjS1pYNXNmZmFxS2cxNjdRdEJTSjlLcTFyRDVlM1BOZE9YZ09tLTdoWVJlSjhMQVNsZUI4Qk5HNVh0Y2t0T0diQWMzaUEwY214UHJXWGpScUNtMFVzVUpXdnVkY1ZlWHJfejJUMGtra0tMcjktc0ppdEZmMUxKN19PcEw3M1d5TXY3NWVq?oc=5) — JBL｜要確認｜2026-11-25T13:12:36+00:00 UTC｜discovery_index
 - [Wireless Headphone - shenzhenaudio - shenzhenaudio](https://news.google.com/rss/articles/CBMi4wFBVV95cUxONnBOOTMzWmpuWEJEUFRGVl9sTHJENVh5cVRVbkl1dnFzNDFvSXh3WDJTbjhOcUwtSWtnZVpIdVN4ZHpzZlhjZkdTd010OFN4RS1LYmRERDZqN1dNZm1HUlBHcmJmQzZnODBld2VlQ1I0WmJDc29FVzE5NFMzN090Z0ttZUxCRHpnUzFkSWoxRWt5c0lqUl96ZEpwWUppTnY1SlpZRnlta0NRcTMwY2RBQlo5eFFzODV5dGZoVURSX1phbTlTWE1zYnJzWjZsaEQyN0VPLVl0SF9OT2hHdnBRam9Maw?oc=5) — SHENZHENAUDIO｜要確認｜2026-11-25T00:09:14+00:00 UTC｜discovery_index

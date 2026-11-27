@@ -1,6 +1,5 @@
 # F1 / 2026-11-27 / 候補 51–100
 
-- [Carlos Sainz confirms evacuation plan for F1 Qatar Grand Prix](https://racingnews365.com/carlos-sainz-confirms-evacuation-plan-for-f1-qatar-grand-prix) — RacingNews365｜要確認｜2026-11-27T13:00:00+00:00 UTC｜feed_published
 - [Charles Leclerc explains why he is 'not allowed' to address Lewis Hamilton clash sanctions](https://racingnews365.com/charles-leclerc-banned-by-ferrari-from-speaking-out-on-lewis-hamilton-clash-sanctions) — RacingNews365｜要確認｜2026-11-26T16:00:00+00:00 UTC｜feed_published
 - [Charles Leclerc urges "solution" after several clashes with Lewis Hamilton](https://www.motorsport.com/f1/news/charles-leclerc-urges-to-find-solution-after-several-clashes-with-lewis-hamilton/10877951) — Motorsport EN F1｜要確認｜2026-11-26T16:22:36+00:00 UTC｜feed_published
 - [Christian Horner and Geri Halliwell reportedly snap up "Pride and Prejudice" mansion](https://www.motorsport.com/f1/news/christian-horner-and-geri-halliwell-reportedly-snap-up-pride-and-prejudice-mansion/10878015) — Motorsport EN F1｜要確認｜2026-11-26T18:20:23+00:00 UTC｜feed_published
@@ -50,3 +49,4 @@
 - [Marquez: “Costruttori, proverò ad aiutare Ducati. Ma il titolo più importante è già nostro”](https://www.formulapassion.it/motogp/motogp-news/marquez-conferenza-stampa-valencia-titolo-costruttori-provo-aiutare-ducati) — FormulaPassion｜要確認｜2026-11-26T16:20:05+00:00 UTC｜feed_published
 - [Martin: “Weekend emozionante, voglio lasciare Aprilia con il titolo Costruttori”](https://www.formulapassion.it/motogp/motogp-news/martin-weekend-emozionante-daro-il-massimo-per-il-costruttori) — FormulaPassion｜要確認｜2026-11-26T16:08:35+00:00 UTC｜feed_published
 - [Max Verstappen hit with unexpected Red Bull absence at Qatar Grand Prix](https://racingnews365.com/max-verstappen-hit-with-unexpected-red-bull-absence-at-qatar-grand-prix) — RacingNews365｜要確認｜2026-11-26T19:06:00+00:00 UTC｜feed_published
+- [Max Verstappen issues final statement on simmering George Russell tensions](https://racingnews365.com/max-verstappen-issues-final-statement-on-simmering-george-russell-tensions) — RacingNews365｜要確認｜2026-11-27T06:20:00+00:00 UTC｜feed_published

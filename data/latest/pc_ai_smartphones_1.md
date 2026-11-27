@@ -1,8 +1,8 @@
-# smartphones / 2026-11-27 / 候補 1–27
+# smartphones / 2026-11-27 / 候補 1–28
 
 - [iOS 28 to ‘revamp’ iPhone notifications, per report](https://9to5mac.com/2026/11/26/ios-28-to-revamp-iphone-notifications-per-report) — 9to5Mac AirPods｜優先｜2026-11-26T18:04:57+00:00 UTC｜feed_published
 - [Galaxy Z Fold 8 drops to a new low of $1,499.99 - Android Authority](https://news.google.com/rss/articles/CBMigAFBVV95cUxOaTZrVkdweHRyWWYzUmQzS2tob2N1Y2R5UkZtZk9jWmhNcGtfUW1zanpETURSWFdiTXd1ZURjZmpKckp1aDBOZUtvYkU5a1V5UmZPbnBrcS00aTBkQlpRM3JVUEJQdjlYdm5oXzZLakJvVUVpdmRUbkE4eTNackpFQg?oc=5) — Android Authority TWS｜優先｜2026-11-27T11:35:00+00:00 UTC｜discovery_index
-- [A month with the iPhone Duo has changed how I use my phone](https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone) — TechCrunch｜要確認｜2026-11-26T17:00:00+00:00 UTC｜feed_published
+- [A month with the iPhone Duo has changed how I use my phone](https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone) — TechCrunch｜要確認｜2026-11-26T17:00:00+00:00 UTC｜article_metadata
 - [Apple reportedly revamping notifications once again with iOS 28](https://www.gsmarena.com/apple_reportedly_revamping_notifications_once_again_with_ios_28-news-75646.php) — GSMArena｜要確認｜2026-11-26T15:03:02+00:00 UTC｜feed_published
 - [Global Xiaomi 17 Ultra starts receiving HyperOS 4](https://www.gsmarena.com/global_xiaomi_17_ultra_starts_receiving_hyperos_4-news-75656.php) — GSMArena｜要確認｜2026-11-26T19:33:02+00:00 UTC｜feed_published
 - [Honor Magic10 Pro Max could have three 200MP cameras](https://www.gsmarena.com/honor_magic10_pro_max_could_have_three_200mp_cameras-news-75663.php) — GSMArena｜要確認｜2026-11-27T09:55:02+00:00 UTC｜feed_published
@@ -21,9 +21,10 @@
 - [vivo X500s rumored to launch with Dimensity 9600 Pro](https://www.gsmarena.com/vivo_x500s_rumored_to_launch_with_dimensity_9600_pro-news-75654.php) — GSMArena｜要確認｜2026-11-26T18:21:02+00:00 UTC｜feed_published
 - [「Xiaomi 18 Pro／18 Pro Max」投入の狙い なぜMaxのみFeliCa？ ただの飛び道具ではない背面ディスプレイ](https://www.itmedia.co.jp/mobile/articles/2611/27/news062.html) — ITmedia Mobile｜要確認｜2026-11-27T02:37:00+00:00 UTC｜feed_published
 - [【本日みつけたお買い得品】厚さ5.64mmで165gの「iPhone Air(512GB)」が5万1,900円引き！](https://pc.watch.impress.co.jp/docs/news/todays_sales/2159945.html) — PC Watch｜要確認｜2026-11-27T05:04:38+00:00 UTC｜feed_published
-- [イトーキ中央研究所を大公開 “新陳代謝する”オフィス空間と家具の実現へ](https://monoist.itmedia.co.jp/mn/articles/2611/27/news016.html) — ITmedia Mobile｜要確認｜2026-11-26T22:00:00+00:00 UTC｜feed_published
+- [イトーキ中央研究所を大公開　“新陳代謝する”オフィス空間と家具の実現へ：3Dプリンタの可能性を探る（1/5 ページ）](https://monoist.itmedia.co.jp/mn/articles/2611/27/news016.html) — ITmedia Mobile｜要確認｜2026-11-27T07:00:00+00:00 UTC｜article_metadata
 - [八潮の道路陥没事故が突きつけた現実　「AI／DXだけでは解けない」インフラ政策の大転換：第15回 IPA 圧入工学セミナー in 東京 2026（3）（1/3 ページ）](https://built.itmedia.co.jp/bt/articles/2611/26/news084.html) — ITmedia Mobile｜要確認｜2026-11-26T20:42:00+00:00 UTC｜article_metadata
 - [初期iPhoneは「携帯電話としてあり得ない」と思った ガングロギャルが教えてくれた“技術普及の絶対条件”](https://www.itmedia.co.jp/mobile/articles/2611/27/news079.html) — ITmedia Mobile｜要確認｜2026-11-27T06:22:00+00:00 UTC｜feed_published
 - [通話とSMSだけの「INFOBAR ZERO」は若者に刺さるか？ 米国のダムフォンブームが日本で起きない理由](https://www.itmedia.co.jp/mobile/articles/2611/27/news076.html) — ITmedia Mobile｜要確認｜2026-11-27T05:15:00+00:00 UTC｜feed_published
-- [過酷な猛暑や豪雨でも現場を止めない！ 31時間駆動するAI対応タブレット「FZ-G3」](https://built.itmedia.co.jp/bt/articles/2611/27/news059.html) — ITmedia Mobile｜要確認｜2026-11-27T01:52:00+00:00 UTC｜feed_published
+- [過酷な猛暑や豪雨でも現場を止めない！　31時間駆動するAI対応タブレット「FZ-G3」：建設デジタル環境（1/3 ページ）](https://built.itmedia.co.jp/bt/articles/2611/27/news059.html) — ITmedia Mobile｜要確認｜2026-11-27T10:52:00+00:00 UTC｜article_metadata
 - [Galaxy S26 FE drops to a record low with $200 off - Android Authority](https://news.google.com/rss/articles/CBMie0FVX3lxTE15aC1HTzEwRGlJam1YY3pzUVpheGI0cDZiaVFKRjFRUC1ib1RJd3BVUFJ6TWM3QzEwSy1ldUpsOEFrdXJUVGlmR3NXQTVkRkpDazA5b2swV0VLaDBKZmdPMFR1M2Z6X2g4MTU3bFhiOEp6ODIxdVBjVmRycw?oc=5) — Android Authority TWS｜要確認｜2026-11-26T16:08:00+00:00 UTC｜discovery_index
+- [\[Arc 140V / Lunar Lake\] iPhone Dolby Vision portrait videos corrupted with HDR on – fine when rotated 90° left - Intel Community](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeHlYQUFTWExnUzYzYTN1bW5XdXhZYzJ3ZWpQSmZHazdpNkxBNC1HS0ZZeGtsZ3A1eVlkZm9FYUxvNjQ3SDhSanFUUHkydWg0T25jZEFROER5MURHMkRSQTJMS0kzdFY3QXRVcnhGUTJ4SXpOZjFKTEJWdV9RZDVLTndpX3IxSnJYU010Ym9VMlZKSXJiVXlEazNueXdqLW9RYnhiQmJxVTNZRFZlWGxGVUdkRkxPQVN6bmdhZW00U2xGNS1SYVhMRGdxTWFfcFpDWDhidGI0MA?oc=5) — Intel｜要確認｜2026-11-27T01:48:45+00:00 UTC｜discovery_index

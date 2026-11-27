@@ -1,0 +1,5 @@
+# WRC / 2026-11-25 / 候補 101–103
+
+- [de Wet Juan / Nienaber Gert | TRAC4N Rally - Club 2026 - eWRC-results.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE5tWGtxcU9wNnNvQmREb09GaEFwdlMwUjZ4Ymw3ei11MWV2NGdJeHhMYjNGWmttNmZwUG0xWTNsQjlpTElFZ0NMZVFkUEpndDNHcE5RUXJfT2VnQWJBd0ZvSGd0VTItT2tTZFFydzl4NEYtSUZMSGc5R0pFM255Vjg?oc=5) — eWRC results｜要確認｜2026-11-24T23:03:32+00:00 UTC｜discovery_index
+- [de Wet Juan / Nienaber Gert | TRAC4N Rally - Day 2 2026 - eWRC-results.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxQMzFPZmlXcV8zOEFEYVRjRllsdkNYbzFOSzlmVmR3a3l6aTQ0VkR5bk4tUzZKdHdkd3dmX2x4OEllb244QWhHbUx0a1dHSElkcE9xdUlSZERxaTlQX3lCWk9JdVRRejRfVUJmOEhkclQ1U0lCeWlZVElta3hGeURsdg?oc=5) — eWRC results｜要確認｜2026-11-24T22:26:58+00:00 UTC｜discovery_index
+- [van Eerd Journey - eWRC-results.com](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WNlNORWRJaFljSTFmVVRUY3ViSnJqX1FNSlBqTVdsWVpXNF81TThXajRTdFdIVTMxZ1p1NFRic1pGal9nNEFjd2Y0LUVXb0h2NFJxQktKamxCbFFvN3VJQQ?oc=5) — eWRC results｜要確認｜2026-11-25T04:51:23+00:00 UTC｜discovery_index

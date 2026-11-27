@@ -1,7 +1,7 @@
 # IndyCar / 2026-11-27 / 候補 1–13
 
-- [Verstappen spells out what truly puts him off racing in the Indy 500](https://www.gpblog.com/en/news/verstappen-spells-out-what-truly-puts-him-off-racing-in-the-indy-500) — GPblog｜優先｜2026-11-27T02:30:00+00:00 UTC｜feed_published
 - [Why Max Verstappen has ruled out Indy 500 entry](https://www.motorsport.com/f1/news/why-max-verstappen-has-ruled-out-indy-500-entry/10878029) — Motorsport EN F1｜優先｜2026-11-26T19:05:20+00:00 UTC｜feed_published
+- [Verstappen spells out what truly puts him off racing in the Indy 500](https://www.gpblog.com/en/news/verstappen-spells-out-what-truly-puts-him-off-racing-in-the-indy-500) — GPblog｜要確認｜2026-11-27T02:30:00+00:00 UTC｜article_metadata
 - [Abdul rahman bin abdul latif al mannai - RACER - Racing News](https://news.google.com/rss/articles/CBMifEFVX3lxTE4wb0pNQnFQUnFWV181czc0QWVsTDdnN1R5eTFPYllnNkJmbmF4dWkxbWJ0UllSRnFtRVR0blp2MXI1YUJpTlJuY18zZC1UQnRWWEF6Y3h2WUNrbFBnUE1DVHdBLTA0NXlkV0NMMG9wWXlYV2sxZWhHQ2F1a1Q?oc=5) — RACER｜要確認｜2026-11-27T01:34:03+00:00 UTC｜discovery_index
 - [All about restrictor plates - RACER - Racing News](https://news.google.com/rss/articles/CBMigwFBVV95cUxPRUJrcnlLOXZMb1pub2preFcyQ2lsMWVmVk8ycVVQNGdCZUFxaUR4VXFOT1NLUTBYdVJfcGlNS09BTUJDNjlwVzFxdkE5LVVwMUtOQllqMGxNb1BQVnBRWlFQVWJlbVRnbm1icHc4d0tNV0tRRzNSOWVXLUxCLTJzOEJ4TQ?oc=5) — RACER｜要確認｜2026-11-26T18:09:41+00:00 UTC｜discovery_index
 - [Antonelli leads Mercedes 1-2 in first Qatar GP practice - RACER - Racing News](https://news.google.com/rss/articles/CBMijAFBVV95cUxPR2dSa3pnTUY4eHVWY3pXZmlzX1B3V18zVFlvZ0trSFJJTlNqSk1iTXRXT21NcXdNbUpfdmpEXzcta204aExGaC04dGVIS1FiLXZEV0Y5UE50VkFNQ2ZjM2hSLWJMdlkzSWQ0ODh3NlRQSm9QT2VLTWN5c0FLUDh5TjRrZ2FKYjE3cUNXZA?oc=5) — RACER｜要確認｜2026-11-27T14:36:00+00:00 UTC｜discovery_index

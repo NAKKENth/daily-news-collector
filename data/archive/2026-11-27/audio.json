@@ -6,6 +6,32 @@
   "status": "candidate_collection_only",
   "items": [
     {
+      "id": "23c88911e8c4512066777da4",
+      "topic": "wired",
+      "title": "Meze Empyrean 2 Sunset Boulevard - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZll5SDdqcmlBMXE3NmFFejVrRkFNRlNsaGRMbDFCZmVmbHdlMV9kdDVEVVI0YWdVa1d2VGwzbGthcnFOandlT2U3aGVrQkJVMUlGWWdJaVBKb1FPdUVYNEJQSE1yc01zcFhmVndSMy1nM3ZUdWFMSC1ZZjBXRUpCN19R?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Meze Empyrean 2 Sunset Boulevard Head-Fi.org",
+      "published_utc": "2026-11-27T10:10:49+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZll5SDdqcmlBMXE3NmFFejVrRkFNRlNsaGRMbDFCZmVmbHdlMV9kdDVEVVI0YWdVa1d2VGwzbGthcnFOandlT2U3aGVrQkJVMUlGWWdJaVBKb1FPdUVYNEJQSE1yc01zcFhmVndSMy1nM3ZUdWFMSC1ZZjBXRUpCN19R?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T10:10:49+00:00",
+          "title": "Meze Empyrean 2 Sunset Boulevard - Head-Fi.org"
+        }
+      ]
+    },
+    {
       "id": "04e7fa7d2a1961b6812584b5",
       "topic": "tws",
       "title": "Game anywhere with $92 off Sony's INZONE Buds gaming earbuds - Android Authority",
@@ -149,7 +175,7 @@
     {
       "id": "4ea8fd87f7f709dae18f816d",
       "topic": "tws",
-      "title": "Vitamix Nano Review",
+      "title": "Vitamix Nano Blender Review",
       "url": "https://www.rtings.com/blender/reviews/vitamix/nano",
       "source": "RTINGS Headphones",
       "publisher": "RTINGS Headphones",
@@ -168,7 +194,7 @@
           "publisher": "RTINGS Headphones",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-26T20:12:40+00:00",
-          "title": "Vitamix Nano Review"
+          "title": "Vitamix Nano Blender Review"
         },
         {
           "url": "https://www.rtings.com/blender/reviews/vitamix/nano",
@@ -1354,7 +1380,7 @@
       "source": "Samsung Audio",
       "publisher": "samsung.com",
       "description": "[SOLVED] Galaxy Buds3 FE \"Set up your earbuds\" Unresponsive & \"Hey Google\" Not Working (One UI 8.5) samsung.com",
-      "published_utc": "2026-11-27T00:13:19+00:00",
+      "published_utc": "2026-11-27T00:13:28+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -1367,7 +1393,7 @@
           "source": "Samsung Audio",
           "publisher": "samsung.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T00:13:19+00:00",
+          "published_utc": "2026-11-27T00:13:28+00:00",
           "title": "[SOLVED] Galaxy Buds3 FE \"Set up your earbuds\" Unresponsive & \"Hey Google\" Not Working (One UI 8.5) - samsung.com"
         }
       ]
@@ -1432,7 +1458,7 @@
     {
       "id": "d27c30ba008ce997053bff20",
       "topic": "tws",
-      "title": "Microsoft Surface Mouse (2nd Edition) Review",
+      "title": "Microsoft Surface Mouse (2nd Edition) Mouse Review",
       "url": "https://www.rtings.com/mouse/reviews/microsoft/surface-mouse-2nd-edition",
       "source": "RTINGS Headphones",
       "publisher": "RTINGS Headphones",
@@ -1451,7 +1477,7 @@
           "publisher": "RTINGS Headphones",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-27T14:45:30+00:00",
-          "title": "Microsoft Surface Mouse (2nd Edition) Review"
+          "title": "Microsoft Surface Mouse (2nd Edition) Mouse Review"
         },
         {
           "url": "https://www.rtings.com/mouse/reviews/microsoft/surface-mouse-2nd-edition",
@@ -1470,7 +1496,7 @@
     {
       "id": "d49518ef835a82c64ffe63b6",
       "topic": "tws",
-      "title": "Epson Home Cinema LS7500 Review",
+      "title": "Epson Home Cinema LS7500 Projector Review",
       "url": "https://www.rtings.com/projector/reviews/epson/home-cinema-ls7500",
       "source": "RTINGS Headphones",
       "publisher": "RTINGS Headphones",
@@ -1489,7 +1515,7 @@
           "publisher": "RTINGS Headphones",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-27T13:52:12+00:00",
-          "title": "Epson Home Cinema LS7500 Review"
+          "title": "Epson Home Cinema LS7500 Projector Review"
         },
         {
           "url": "https://www.rtings.com/projector/reviews/epson/home-cinema-ls7500",
@@ -2236,6 +2262,500 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-27T07:27:55+00:00",
           "title": "I came across bad reviews on the e- commerce site. Is that really bad?? - OnePlus Community"
+        }
+      ]
+    },
+    {
+      "id": "910db605644812b2ff89bb13",
+      "topic": "portable_dac",
+      "title": "Fosi Audio Disc Nano Review - Headfonia",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IdC12eGVVX3NJRmY0TzJqT3B4TmtIWkR6eUJJTnpkTzlqbXZSWFlQMXhSblRWZmN0ZHBEUTROaG5DVVdWRmVEM0FSS0pCcDVHWEVCdHNMd2hTRksxdEw3WkxzSFF3MWM?oc=5",
+      "source": "Headfonia",
+      "publisher": "Headfonia",
+      "description": "Fosi Audio Disc Nano Review Headfonia",
+      "published_utc": "2026-11-27T09:07:20+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IdC12eGVVX3NJRmY0TzJqT3B4TmtIWkR6eUJJTnpkTzlqbXZSWFlQMXhSblRWZmN0ZHBEUTROaG5DVVdWRmVEM0FSS0pCcDVHWEVCdHNMd2hTRksxdEw3WkxzSFF3MWM?oc=5",
+          "source": "Headfonia",
+          "publisher": "Headfonia",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T09:07:20+00:00",
+          "title": "Fosi Audio Disc Nano Review - Headfonia"
+        }
+      ]
+    },
+    {
+      "id": "c3e2c246bfa1b00e512d4480",
+      "topic": "wired",
+      "title": "Feedback - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZEpEbEVIRXJRaDBwM29MUk1Sclo0Y0JHajBMNXpLVVdTNi11SnBOU3BSN3RRclRwamhsRk5EeTVJcHRJWURSUWNYV1dDd20tRFlMb0hYNmdlT2tYcW1DZXlQdmtBUDlNMnRBRzBaZlo2Z0p3djYtLWc2emZEbHpwbm52NVZvekZIVFhvRUowYXRodU0?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Feedback Head-Fi.org",
+      "published_utc": "2026-11-27T00:47:25+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZEpEbEVIRXJRaDBwM29MUk1Sclo0Y0JHajBMNXpLVVdTNi11SnBOU3BSN3RRclRwamhsRk5EeTVJcHRJWURSUWNYV1dDd20tRFlMb0hYNmdlT2tYcW1DZXlQdmtBUDlNMnRBRzBaZlo2Z0p3djYtLWc2emZEbHpwbm52NVZvekZIVFhvRUowYXRodU0?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T00:47:25+00:00",
+          "title": "Feedback - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "c8caae81175d6e7c504e3879",
+      "topic": "wired",
+      "title": "FiiO FX25 - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Mb0diMU92QUJhMU92MWZNeGdCbEMyY1VVOFNLTGpXMFFOdnQ0WjM1WlQzeDctZU52VzZ6bmVzaWxvU1BTZFZpR3ItdkJnX3dBLWcxeVZBbVViN0xIN2c?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "FiiO FX25 Head-Fi.org",
+      "published_utc": "2026-11-27T07:10:39+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Mb0diMU92QUJhMU92MWZNeGdCbEMyY1VVOFNLTGpXMFFOdnQ0WjM1WlQzeDctZU52VzZ6bmVzaWxvU1BTZFZpR3ItdkJnX3dBLWcxeVZBbVViN0xIN2c?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T07:10:39+00:00",
+          "title": "FiiO FX25 - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "b60a5ee87fb8ba3752612ef8",
+      "topic": "wired",
+      "title": "Shure SRH840 - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42d2lGdmxxcTlmNDNSLW1HTzA5R0lnWFhsLXBYM3FQbzBteG4yMjVPMUU5elIzNnk5UE52TXlFZlExNzRNYWphTV9yRXl4b2hSZzlEbThkUFRMZnhLZ2QwT0FUMXlOZ0E?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Shure SRH840 Head-Fi.org",
+      "published_utc": "2026-11-27T00:48:17+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42d2lGdmxxcTlmNDNSLW1HTzA5R0lnWFhsLXBYM3FQbzBteG4yMjVPMUU5elIzNnk5UE52TXlFZlExNzRNYWphTV9yRXl4b2hSZzlEbThkUFRMZnhLZ2QwT0FUMXlOZ0E?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T00:48:17+00:00",
+          "title": "Shure SRH840 - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "912f0fdde584b91f1614c350",
+      "topic": "wired",
+      "title": "Closed: Ee - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43bldoaXJRTTUzMEFxQUJYNmVtV251cllDVEp0enZUMjdYaFVpeUlPZHg1ZmFwYTBKOHZxMHp4R0FQbFBQRExFbWNZb21OdVJ0NTRQTWdrRlBWZw?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Closed: Ee Head-Fi.org",
+      "published_utc": "2026-11-27T10:10:50+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43bldoaXJRTTUzMEFxQUJYNmVtV251cllDVEp0enZUMjdYaFVpeUlPZHg1ZmFwYTBKOHZxMHp4R0FQbFBQRExFbWNZb21OdVJ0NTRQTWdrRlBWZw?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T10:10:50+00:00",
+          "title": "Closed: Ee - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "9ef99924e431b6ead8cbea4f",
+      "topic": "wired",
+      "title": "Shanling M7T - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QNy1ZQVZ6ZjlKRzZDQ0M0WlhhT19Nb2JJVWxPOUVWZml2WWJtQ2lwVWFWWnpsOVUxa2NTeTdYQXpldjJpam5ZeldvUklOVzZBUWE0Y3lwVFZ0RVRXWHNrTDY1VWVkVkk?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Shanling M7T Head-Fi.org",
+      "published_utc": "2026-11-27T13:09:31+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QNy1ZQVZ6ZjlKRzZDQ0M0WlhhT19Nb2JJVWxPOUVWZml2WWJtQ2lwVWFWWnpsOVUxa2NTeTdYQXpldjJpam5ZeldvUklOVzZBUWE0Y3lwVFZ0RVRXWHNrTDY1VWVkVkk?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T13:09:31+00:00",
+          "title": "Shanling M7T - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "00c569b618c7d8963897d1db",
+      "topic": "wired",
+      "title": "Grado SR-325X \"bluetack\" - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNWk9aRWUzc185YVVmU3pwbk1BcmE1YlRTN2gtd1pZcE5naUhyOWE3WVJTQm9Qc2wxSDRNOFpGSkhmMWU3OVU3N0otSVBqeTYydGF5d3dyNkx5WHMtTUhqRVJTaGRPZnc5UjBObU0tTHhmQlFs?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Grado SR-325X \"bluetack\" Head-Fi.org",
+      "published_utc": "2026-11-27T13:09:31+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNWk9aRWUzc185YVVmU3pwbk1BcmE1YlRTN2gtd1pZcE5naUhyOWE3WVJTQm9Qc2wxSDRNOFpGSkhmMWU3OVU3N0otSVBqeTYydGF5d3dyNkx5WHMtTUhqRVJTaGRPZnc5UjBObU0tTHhmQlFs?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T13:09:31+00:00",
+          "title": "Grado SR-325X \"bluetack\" - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "e7ded5b162f683741ef09821",
+      "topic": "wired",
+      "title": "Abyss Diana DZ – Damascus - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS3Y2bVhYN2hqQzNkX0s3U3V0aVc0a3RSS2c3cjNndERuOVFuVWUzSUhxNHVzRkNIZ1N0Z25sMWdJcTNlbXZYQlROS0JmZm5WYXdCdUNrUElwVkJfMXROSTU0TGNsdzl1dzF2ZEdic3YwSG5WZ2k1bzdpd1ZyMGxSQmlPNA?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Abyss Diana DZ – Damascus Head-Fi.org",
+      "published_utc": "2026-11-27T13:09:31+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS3Y2bVhYN2hqQzNkX0s3U3V0aVc0a3RSS2c3cjNndERuOVFuVWUzSUhxNHVzRkNIZ1N0Z25sMWdJcTNlbXZYQlROS0JmZm5WYXdCdUNrUElwVkJfMXROSTU0TGNsdzl1dzF2ZEdic3YwSG5WZ2k1bzdpd1ZyMGxSQmlPNA?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T13:09:31+00:00",
+          "title": "Abyss Diana DZ – Damascus - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "82930ecf58b04fcf488aa177",
+      "topic": "wired",
+      "title": "Fiio DT11 - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhVkdndU5xcDNHWGJTVDltN3hTLUlOVnBRNHJrNVlGNHJobHFXMmhXSVRaNThfbVpjNERWYmJJRV9STlFURW1aWW1ENmVFVzlLcVo5elNCSl9GcmlVdXEyZHpCQQ?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Fiio DT11 Head-Fi.org",
+      "published_utc": "2026-11-27T10:08:46+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhVkdndU5xcDNHWGJTVDltN3hTLUlOVnBRNHJrNVlGNHJobHFXMmhXSVRaNThfbVpjNERWYmJJRV9STlFURW1aWW1ENmVFVzlLcVo5elNCSl9GcmlVdXEyZHpCQQ?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T10:08:46+00:00",
+          "title": "Fiio DT11 - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "4f218bfc360074162e7bb224",
+      "topic": "wired",
+      "title": "iBasso DX220 AMP1mk2 MOD - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tQlZjd0tQbWYwODI5T1JGdTlhd1lWTEQxVS0xdW9NSFd1cHQ0eGdpZkFOZER4bUVwQ0MtTnB5SE9nanhjbi1mZ1ZtTnFTS3RuMHZ1OERCS1Jtb0ZnellnUGNQMURDQlRQZjBwYnRNM2Zid3ByOGlr?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "iBasso DX220 AMP1mk2 MOD Head-Fi.org",
+      "published_utc": "2026-11-27T01:52:37+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tQlZjd0tQbWYwODI5T1JGdTlhd1lWTEQxVS0xdW9NSFd1cHQ0eGdpZkFOZER4bUVwQ0MtTnB5SE9nanhjbi1mZ1ZtTnFTS3RuMHZ1OERCS1Jtb0ZnellnUGNQMURDQlRQZjBwYnRNM2Zid3ByOGlr?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T01:52:37+00:00",
+          "title": "iBasso DX220 AMP1mk2 MOD - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "951d7a9a100b9231bf92cc75",
+      "topic": "wired",
+      "title": "Topping DX5II - Black - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55VmtGRHJtZzJWbnpFd0I2cXlENW9GSlMtT2hrRndoRGUzNmVMUzBPS2FRWUxxeTJLOXNZcEZwdjJCT1czME0weTNjemZVT0ZUX0k0TEl0aVJlN2h3dmJmbUtnZHpoU1NoNmlobEdfM0I?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Topping DX5II - Black Head-Fi.org",
+      "published_utc": "2026-11-26T19:19:07+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55VmtGRHJtZzJWbnpFd0I2cXlENW9GSlMtT2hrRndoRGUzNmVMUzBPS2FRWUxxeTJLOXNZcEZwdjJCT1czME0weTNjemZVT0ZUX0k0TEl0aVJlN2h3dmJmbUtnZHpoU1NoNmlobEdfM0I?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T19:19:07+00:00",
+          "title": "Topping DX5II - Black - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "7586761dce115ed3a675b994",
+      "topic": "wired",
+      "title": "ZMF Bokeh Headphone Case - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41bHUzTS1SekVyRlVlYWd4cWI0Y1M2OVpkcU1wRlJ2Yy1oeUJLUUowTlVPVWtoT2xiTHgtQ1gwaDBhUExxQnpwdlB6MUhDOTB1MFZXNWJoSDRfay14bk85M0VRbTJrUnNFMVJlMkFMOE9RVUVBRERV?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "ZMF Bokeh Headphone Case Head-Fi.org",
+      "published_utc": "2026-11-27T10:08:47+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41bHUzTS1SekVyRlVlYWd4cWI0Y1M2OVpkcU1wRlJ2Yy1oeUJLUUowTlVPVWtoT2xiTHgtQ1gwaDBhUExxQnpwdlB6MUhDOTB1MFZXNWJoSDRfay14bk85M0VRbTJrUnNFMVJlMkFMOE9RVUVBRERV?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T10:08:47+00:00",
+          "title": "ZMF Bokeh Headphone Case - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "e1b988145245523797046b10",
+      "topic": "wired",
+      "title": "Nostalgia Audio Tesseract - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UMVpIUDhqckMwRkdveFhJRGhNUzVyaDJGZklVbWJHWTVSOW1IMExicmZnLVdrZ1VwdDc1cHc1N1pWRE9VMThYVm5QQi1mYWtJX2RhamY0RVI0eFVxdkxLbmhNczBnS3NieXd6Qzd4Y2Rhdi1rU3dGWg?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Nostalgia Audio Tesseract Head-Fi.org",
+      "published_utc": "2026-11-27T00:48:52+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UMVpIUDhqckMwRkdveFhJRGhNUzVyaDJGZklVbWJHWTVSOW1IMExicmZnLVdrZ1VwdDc1cHc1N1pWRE9VMThYVm5QQi1mYWtJX2RhamY0RVI0eFVxdkxLbmhNczBnS3NieXd6Qzd4Y2Rhdi1rU3dGWg?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T00:48:52+00:00",
+          "title": "Nostalgia Audio Tesseract - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "4171c8b20204c0c42c9d4a26",
+      "topic": "wired",
+      "title": "ELROG TM300B Matched Pair - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJcHpBTUtNbjY0MF9sam1YbldPVGV6UkJmU3l0TmM4ZGhObF9DMjRPLWNYZm9wdjAxSWtHSWlTSzFBdzZ0MzFOejc0TTlkZG5Rb3otZFlYZGEzMm1ITnkzT05EemozWTFhbnlLRHp0LW43dnNfLTQyRA?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "ELROG TM300B Matched Pair Head-Fi.org",
+      "published_utc": "2026-11-26T15:54:34+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJcHpBTUtNbjY0MF9sam1YbldPVGV6UkJmU3l0TmM4ZGhObF9DMjRPLWNYZm9wdjAxSWtHSWlTSzFBdzZ0MzFOejc0TTlkZG5Rb3otZFlYZGEzMm1ITnkzT05EemozWTFhbnlLRHp0LW43dnNfLTQyRA?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T15:54:34+00:00",
+          "title": "ELROG TM300B Matched Pair - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "cd275fc2a9f3842f10a877ab",
+      "topic": "wired",
+      "title": "Search Results - HiFiGo",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LazB4Q2ZJWG1aa0sxYzR5VHkyT2pMSTZCdXlOMngzQmdUcU5SeVlzZVFCNWpld0ZOVUhrYU9aaGx1a2J5aWhMNG9ZZThsTlBySFRlTlpZalZlNDhCMHNlTVNnUFVJSThUeEQ5QnZ3?oc=5",
+      "source": "HiFiGo",
+      "publisher": "HiFiGo",
+      "description": "Search Results HiFiGo",
+      "published_utc": "2026-11-26T17:02:03+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LazB4Q2ZJWG1aa0sxYzR5VHkyT2pMSTZCdXlOMngzQmdUcU5SeVlzZVFCNWpld0ZOVUhrYU9aaGx1a2J5aWhMNG9ZZThsTlBySFRlTlpZalZlNDhCMHNlTVNnUFVJSThUeEQ5QnZ3?oc=5",
+          "source": "HiFiGo",
+          "publisher": "HiFiGo",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T17:02:03+00:00",
+          "title": "Search Results - HiFiGo"
+        }
+      ]
+    },
+    {
+      "id": "8a6063babaa7d4bef3acca0a",
+      "topic": "wired",
+      "title": "Search Results - HiFiGo",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rS3o5TkU2dVNGUS1RZ0czZl93dWtla2s1bmFPSzFMOENEZlc0endOUUk4V2wzbnRUVmZMTUFiV19nMVVfSkthalZXazBPY2ZKR21YX2RGTmtNZTZ5aXZBZkM5Rk9BSGl6R0Fj?oc=5",
+      "source": "HiFiGo",
+      "publisher": "HiFiGo",
+      "description": "Search Results HiFiGo",
+      "published_utc": "2026-11-26T19:16:32+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rS3o5TkU2dVNGUS1RZ0czZl93dWtla2s1bmFPSzFMOENEZlc0endOUUk4V2wzbnRUVmZMTUFiV19nMVVfSkthalZXazBPY2ZKR21YX2RGTmtNZTZ5aXZBZkM5Rk9BSGl6R0Fj?oc=5",
+          "source": "HiFiGo",
+          "publisher": "HiFiGo",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T19:16:32+00:00",
+          "title": "Search Results - HiFiGo"
+        }
+      ]
+    },
+    {
+      "id": "59b7c482524572bb2428d74c",
+      "topic": "wired",
+      "title": "Binary Unveils Apsara: 1DD+Direct-Drive MEMS Driver Hybrid IEMs - HiFiGo",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSjlTTXU4Q2tseGlkSzRhSlF4TWRzMWYtVTFVMnRkbm45MUdQMkg2bkF5OWQwNnpsUzdyQXZPdXI5SWludUZZVlMyOEVTb3F3NVNzQ0VzY0JiMjZ4WGFycS1PQkVwWmdlX0owQTk4Yi1Gc1pqX1JKSGFfT0RzM2tkNWFBclB2NExSYUZIM2QyUVctbG9nQkkw?oc=5",
+      "source": "HiFiGo",
+      "publisher": "HiFiGo",
+      "description": "Binary Unveils Apsara: 1DD+Direct-Drive MEMS Driver Hybrid IEMs HiFiGo",
+      "published_utc": "2026-11-27T09:27:58+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSjlTTXU4Q2tseGlkSzRhSlF4TWRzMWYtVTFVMnRkbm45MUdQMkg2bkF5OWQwNnpsUzdyQXZPdXI5SWludUZZVlMyOEVTb3F3NVNzQ0VzY0JiMjZ4WGFycS1PQkVwWmdlX0owQTk4Yi1Gc1pqX1JKSGFfT0RzM2tkNWFBclB2NExSYUZIM2QyUVctbG9nQkkw?oc=5",
+          "source": "HiFiGo",
+          "publisher": "HiFiGo",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T09:27:58+00:00",
+          "title": "Binary Unveils Apsara: 1DD+Direct-Drive MEMS Driver Hybrid IEMs - HiFiGo"
+        }
+      ]
+    },
+    {
+      "id": "f2998d40482b0a5405fc2f63",
+      "topic": "portable_dac",
+      "title": "AFUL Launches Ember-01: CNC-Machined Metallic Portable USB DAC/AMP - HiFiGo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWjZfUnQ4NUlRZUs0dXVXbjRYbmdGc3liS1pmaVpPMTR4UFBpVnFocGtlSlNsUTM5RmIxTGFWOXg1bDNCRzJzOEhDY1hDY0FJN0ctUWdwMHU0MnVibS1DZUlJQV9lc3lnbHpFZkYzektrWVFWWU9USWtrRnV3ckxsZ2F1QXFVQ2N1SkVOYW5BVGQxZ3FueUpqWWVocw?oc=5",
+      "source": "HiFiGo",
+      "publisher": "HiFiGo",
+      "description": "AFUL Launches Ember-01: CNC-Machined Metallic Portable USB DAC/AMP HiFiGo",
+      "published_utc": "2026-11-27T09:27:59+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWjZfUnQ4NUlRZUs0dXVXbjRYbmdGc3liS1pmaVpPMTR4UFBpVnFocGtlSlNsUTM5RmIxTGFWOXg1bDNCRzJzOEhDY1hDY0FJN0ctUWdwMHU0MnVibS1DZUlJQV9lc3lnbHpFZkYzektrWVFWWU9USWtrRnV3ckxsZ2F1QXFVQ2N1SkVOYW5BVGQxZ3FueUpqWWVocw?oc=5",
+          "source": "HiFiGo",
+          "publisher": "HiFiGo",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T09:27:59+00:00",
+          "title": "AFUL Launches Ember-01: CNC-Machined Metallic Portable USB DAC/AMP - HiFiGo"
+        }
+      ]
+    },
+    {
+      "id": "284fca33c7d114541d48357b",
+      "topic": "tws",
+      "title": "Samsung Galaxy Buds - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT0IwSlpHSzE4OGtiZzJudUJRbERzRExtdnd1ZlNEOXdMUDRzZnVYOWpmLUhZZDVJS3JmeWZRbk1iRFREekZQQTJqRllaMzlTUzhJbTBuMXdRU3FiajJGWUQ2WWdMdFVVZUlyelUzLUdkNFEteGxPZWktRFhQbkhGTnFzTGJrWXdEVlEwMmpnT3ZkTEI1M1psNmVudWRwN2Q2OHZrN1VaZGJJWTRodmJsQTVxY2pLZ3E1a1phOUpkQ2hSdTlUSmZWaHlMWXAwdWNKbHJndHl5N1g?oc=5",
+      "source": "Samsung Audio",
+      "publisher": "samsung.com",
+      "description": "Samsung Galaxy Buds samsung.com",
+      "published_utc": "2026-11-27T06:41:10+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT0IwSlpHSzE4OGtiZzJudUJRbERzRExtdnd1ZlNEOXdMUDRzZnVYOWpmLUhZZDVJS3JmeWZRbk1iRFREekZQQTJqRllaMzlTUzhJbTBuMXdRU3FiajJGWUQ2WWdMdFVVZUlyelUzLUdkNFEteGxPZWktRFhQbkhGTnFzTGJrWXdEVlEwMmpnT3ZkTEI1M1psNmVudWRwN2Q2OHZrN1VaZGJJWTRodmJsQTVxY2pLZ3E1a1phOUpkQ2hSdTlUSmZWaHlMWXAwdWNKbHJndHl5N1g?oc=5",
+          "source": "Samsung Audio",
+          "publisher": "samsung.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T06:41:10+00:00",
+          "title": "Samsung Galaxy Buds - samsung.com"
         }
       ]
     }

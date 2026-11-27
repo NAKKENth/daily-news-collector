@@ -1,5 +1,6 @@
-# racing_games / 2026-11-24 / 候補 51–68
+# racing_games / 2026-11-24 / 候補 51–69
 
+- [Pastor Maldonado is back !!! (Kamui and Chadwick as well) 1.1 - overtake.gg](https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjJpdjJENHRPRXRBck1udlpxbkxKbjhDa3diZGV3cWVjYXQ3UUZoanlVbmxtSUZtN1gwLVhTWnExU1FIV2ZXN0JwZjJPSEQ5Wmd2UWx2QU4xdlVwRFUxaEd5Zi04NDJIS0tWN2k4SFBZczgxcEwzd2U2eGU5bm1zOGZqakhFZnFDOVJMaDVHSlgtNDFQSzlJ?oc=5) — OverTake｜要確認｜2026-11-23T17:20:38+00:00 UTC｜discovery_index
 - [Pit Start Indicator 0.9 - overtake.gg](https://news.google.com/rss/articles/CBMibEFVX3lxTE9CT0hiVWNKTmlndU0yaS1jMlpxbUJyQXMtQmdOZWx4QlNJMFYwQ0JPWElNaEtVTEZqRktsVEQ4WlRqMDV6aEp6ZGlGV1FNYm54YnFRRk16ek9hWFdlWjJ0SHhsbEQ3NzFuZzZaeA?oc=5) — OverTake｜要確認｜2026-11-24T06:50:15+00:00 UTC｜discovery_index
 - [Pit Wall 2.4.0 - overtake.gg](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sZHJBdlFmQ1hXX0g1ZkY1VnhWd2NseHN5OXh2cTNRV0ExVlh6WlE4OVVrRElNdkdsb1lGdC1lTW1zSEVTQ1g2Yi1CSU8wZDRLVGhLbkRJU1RIVWprd3c?oc=5) — OverTake｜要確認｜2026-11-23T21:45:32+00:00 UTC｜discovery_index
 - [Porsche TAG Heuer Racing (takeover red bull racing) v0 - overtake.gg](https://news.google.com/rss/articles/CBMilAFBVV95cUxNejVsUGliNHpFQjlKQlJRQ0F5bFltSndiTFhRcE1tQ0hCUTIxaWFkYVZHWG5aMUpNNktxMmFZcHRnM0JCLXB0SGxSMnBQYUtFT2hMX2UzLVprWUNQLVhXeDM1blF4d1lVQTVDeXV3dFhSMUhPelNjS0VWRDl0Zl9xVjZmOXAxLUZfd2M5VU1ac2NqdWRs?oc=5) — OverTake｜要確認｜2026-11-24T00:03:58+00:00 UTC｜discovery_index

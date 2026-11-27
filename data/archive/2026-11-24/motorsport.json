@@ -1997,32 +1997,6 @@
       ]
     },
     {
-      "id": "1f2963541f0e21832241fdf1",
-      "topic": "NASCAR",
-      "title": "Chase Elliott Archives - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xSHhaVUNCMHl3ZmtXaUtJUWdpNWxZUGJrM0xpdVZVemtMZVQ3Z2NqNjY4WkFtTDlFZlNPT1pCdE1sdHVXVDJoMlJhU0UyTzdOcGJzZDJNX29zVDVPZzBnNDZFVndCWXVYOWlpMEVKOFJSMDQ?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "Chase Elliott Archives NASCAR.com",
-      "published_utc": "2026-11-24T00:06:41+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xSHhaVUNCMHl3ZmtXaUtJUWdpNWxZUGJrM0xpdVZVemtMZVQ3Z2NqNjY4WkFtTDlFZlNPT1pCdE1sdHVXVDJoMlJhU0UyTzdOcGJzZDJNX29zVDVPZzBnNDZFVndCWXVYOWlpMEVKOFJSMDQ?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T00:06:41+00:00",
-          "title": "Chase Elliott Archives - NASCAR.com"
-        }
-      ]
-    },
-    {
       "id": "20d9afe740b584ab1936b35f",
       "topic": "NASCAR",
       "title": "NASCAR Whelen Modified Tour Archives - NASCAR.com",
@@ -8298,58 +8272,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T22:28:32+00:00",
           "title": "Turkey Derby at Wall Stadium: Entry list, schedule, more for 2026 race - NASCAR.com"
-        }
-      ]
-    },
-    {
-      "id": "664907c15e0801b80e1e5c1e",
-      "topic": "NASCAR",
-      "title": "Drivers Archives - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wX1FKeUxoV1hFTE5PNVNPTGFHNUJwcWw0WmhtNkhSRm9lZGxoaW4teHkzaDlpV3lpQzNELXpQWHZYSTdmOUtrTV9HdjE3cVBSZlZ1RGRsUU43SlplNmE0TA?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "Drivers Archives NASCAR.com",
-      "published_utc": "2026-11-24T14:43:08+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wX1FKeUxoV1hFTE5PNVNPTGFHNUJwcWw0WmhtNkhSRm9lZGxoaW4teHkzaDlpV3lpQzNELXpQWHZYSTdmOUtrTV9HdjE3cVBSZlZ1RGRsUU43SlplNmE0TA?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T14:43:08+00:00",
-          "title": "Drivers Archives - NASCAR.com"
-        }
-      ]
-    },
-    {
-      "id": "127de5d86c086daad46e3b95",
-      "topic": "NASCAR",
-      "title": "Racing Teams Archives - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PS010ZG53RmY5Z1dvcy1jbjZ4UjJhRXFlVGluZ2REYlpMZVU5WlhvUE9UbUhpN3g3QzBVLXA3SHdzaWpMOW5UaTJGclpEemduZHlpT2ZRbWRWQnJuXzJodFNWQXpDNXhNNWRNQW5PUQ?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "Racing Teams Archives NASCAR.com",
-      "published_utc": "2026-11-24T14:20:59+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PS010ZG53RmY5Z1dvcy1jbjZ4UjJhRXFlVGluZ2REYlpMZVU5WlhvUE9UbUhpN3g3QzBVLXA3SHdzaWpMOW5UaTJGclpEemduZHlpT2ZRbWRWQnJuXzJodFNWQXpDNXhNNWRNQW5PUQ?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T14:20:59+00:00",
-          "title": "Racing Teams Archives - NASCAR.com"
         }
       ]
     },
