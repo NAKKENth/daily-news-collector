@@ -7717,32 +7717,6 @@
       ]
     },
     {
-      "id": "9c66527ab55c4abdc1982522",
-      "topic": "ai",
-      "title": "Moving to the new ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd3ZsMThuLTFaT3VEYTRxQ1NoOXpwZTkzYU1lSDJSc3h2cFhOeFZCUk5UejVvMjV2NFhfcHZNTGUzVW0yTmVBeGFOWVhuTmk3NU1xTFQ3a1REdXpOZXVNWVpiajlhRHJ2OWlvYzNSQXZoRGJReEZfSXFxZU8tREdKbXpLdHdIajc5Nmc?oc=5",
-      "source": "OpenAI",
-      "publisher": "OpenAI Help Center",
-      "description": "Moving to the new ChatGPT desktop app | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-23T21:54:11+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "priority",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd3ZsMThuLTFaT3VEYTRxQ1NoOXpwZTkzYU1lSDJSc3h2cFhOeFZCUk5UejVvMjV2NFhfcHZNTGUzVW0yTmVBeGFOWVhuTmk3NU1xTFQ3a1REdXpOZXVNWVpiajlhRHJ2OWlvYzNSQXZoRGJReEZfSXFxZU8tREdKbXpLdHdIajc5Nmc?oc=5",
-          "source": "OpenAI",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T21:54:11+00:00",
-          "title": "Moving to the new ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
       "id": "e9510e1394dd2c7bf4e17784",
       "topic": "ai",
       "title": "ChatGPT Desktop Referral Promotions - OpenAI Help Center",
@@ -7765,32 +7739,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T20:41:47+00:00",
           "title": "ChatGPT Desktop Referral Promotions - OpenAI Help Center"
-        }
-      ]
-    },
-    {
-      "id": "048704cef30e565495385595",
-      "topic": "ai",
-      "title": "Using locked chats in ChatGPT | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OaXFlekxiYk1nMWJRelNPLUVCd3pvOFhMRUFmUXJudGJ6OWhPNno5OW5pYlk1UXhhMXdzRDNTaElreWM3VmtXZzBBZlF5Tzh5cV9IV25VUkt6OTFzZVI3dnlma18yV1ItcmJRbTdMWFVOR2QzeEd3aUlZVTQ0cm8?oc=5",
-      "source": "OpenAI",
-      "publisher": "OpenAI Help Center",
-      "description": "Using locked chats in ChatGPT | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-23T22:44:48+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OaXFlekxiYk1nMWJRelNPLUVCd3pvOFhMRUFmUXJudGJ6OWhPNno5OW5pYlk1UXhhMXdzRDNTaElreWM3VmtXZzBBZlF5Tzh5cV9IV25VUkt6OTFzZVI3dnlma18yV1ItcmJRbTdMWFVOR2QzeEd3aUlZVTQ0cm8?oc=5",
-          "source": "OpenAI",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T22:44:48+00:00",
-          "title": "Using locked chats in ChatGPT | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },

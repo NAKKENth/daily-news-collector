@@ -1,10 +1,10 @@
 # WRC / 2026-11-26 / 候補 1–50
 
 - [Rally1 Rewind final: Sesks’ Poland debut or Evans’ Sardinia title? - WRC.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVmlwNF9CajRQVG1YVkRGOG95TTEzbUpZV0hFRmh3ZEhLMF9nQkVtSTdmOElsblFTdkZhTi03a1BYMnVndmhGalRtQXZfeDFHeXBnOEE0OTZHMFpTcDZWVEVOS2syWkxGdlBHaWw3cFM4ZW1QV3JMM0lZTk80TV9hSmZsS3BrZndBYWs4ZlU5WlVTcTNB?oc=5) — WRC Official｜優先｜2026-11-26T09:39:53+00:00 UTC｜discovery_index
-- [Erikoinen taktikointi kostautui Kimi Antonellille – sähköteho katosi](https://www.rallit.fi/erikoinen-taktikointi-kostautui-kimi-antonellille-sahkoteho-katosi) — Rallit｜要確認｜2026-11-26T07:45:00+00:00 UTC｜feed_published
-- [Fernando Alonsolle ikävä takaisku – viikonloppu alkaa poikkeusjärjestelyin](https://www.rallit.fi/fernando-alonsolle-ikava-takaisku-viikonloppu-alkaa-poikkeusjarjestelyin) — Rallit｜要確認｜2026-11-26T13:00:00+00:00 UTC｜feed_published
+- [Erikoinen taktikointi kostautui Kimi Antonellille – sähköteho katosi](https://www.rallit.fi/erikoinen-taktikointi-kostautui-kimi-antonellille-sahkoteho-katosi) — Rallit｜要確認｜2026-11-26T07:45:00+00:00 UTC｜article_metadata
+- [Fernando Alonsolle ikävä takaisku – viikonloppu alkaa poikkeusjärjestelyin](https://www.rallit.fi/fernando-alonsolle-ikava-takaisku-viikonloppu-alkaa-poikkeusjarjestelyin) — Rallit｜要確認｜2026-11-26T13:00:00+00:00 UTC｜article_metadata
 - [Hyundai continues intensive testing with veteran rally star at the wheel](https://rallyjournal.com/hyundai-continues-intensive-testing-with-veteran-rally-star-at-the-wheel) — RallyJournal｜要確認｜2026-11-26T06:27:00+00:00 UTC｜article_metadata
-- [Hyundain tiivis testiurakka jatkuu – kokenut rallitähti puikoissa](https://www.rallit.fi/hyundain-tiivis-testiurakka-jatkuu-kokenut-rallitahti-puikoissa) — Rallit｜要確認｜2026-11-26T06:27:00+00:00 UTC｜feed_published
+- [Hyundain tiivis testiurakka jatkuu &#8211; kokenut rallitähti puikoissa](https://www.rallit.fi/hyundain-tiivis-testiurakka-jatkuu-kokenut-rallitahti-puikoissa) — Rallit｜要確認｜2026-11-26T06:27:00+00:00 UTC｜article_metadata
 - [Lähde: M-Sportilta jättikaappaus kuljettajamarkkinoilla](https://www.rallit.fi/lahde-m-sportilta-jattikaappaus-kuljettajamarkkinoilla) — Rallit｜要確認｜2026-11-26T13:38:00+00:00 UTC｜feed_published
 - [New WRC team boss makes bold claim after promising tests](https://rallyjournal.com/new-wrc-team-boss-makes-bold-claim-after-promising-tests) — RallyJournal｜要確認｜2026-11-26T11:12:00+00:00 UTC｜article_metadata
 - [Rallin MM-sarjassa muhii iso käänne – Teemu Suninen herkullisessa asemassa](https://www.rallit.fi/rallin-mm-sarjassa-muhii-iso-kaanne-teemu-suninen-herkullisessa-asemassa) — Rallit｜要確認｜2026-11-26T09:15:00+00:00 UTC｜feed_published

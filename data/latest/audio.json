@@ -4013,6 +4013,59 @@
           "title": "EFFECT AUDIO、qdcとコラボした15ドライバー／トライブリッドイヤホン「SOVEREIGN」。ケーブルも専用設計"
         }
       ]
+    },
+    {
+      "id": "2733bb7728c759689d37f6b1",
+      "topic": "tws",
+      "title": "Galaxy Buds4 Pro vs Galaxy Buds3 Pro: Which one should you choose? - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaGpneERvbDBSLTZ1bHVwNVRMczUwWUpjWHpuQzlDRElnWk92cmVmcC1TX3lzTHZMNVpBOHRKOGVoRk5ULUN3cG1hMEhCUEdWMndxeTBPRGF5cV9CeTUyMHhCMVF6cnd1dTFBMjFBbmE2NDlmZE8yT1lfQkxmcnhHSndBcGd6ZG9oWkFwQTFTVUQzeG95SlVzXzFtRzEzZw?oc=5",
+      "source": "Samsung Audio",
+      "publisher": "samsung.com",
+      "description": "Galaxy Buds4 Pro vs Galaxy Buds3 Pro: Which one should you choose? samsung.com",
+      "published_utc": "2026-11-26T02:17:45+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaGpneERvbDBSLTZ1bHVwNVRMczUwWUpjWHpuQzlDRElnWk92cmVmcC1TX3lzTHZMNVpBOHRKOGVoRk5ULUN3cG1hMEhCUEdWMndxeTBPRGF5cV9CeTUyMHhCMVF6cnd1dTFBMjFBbmE2NDlmZE8yT1lfQkxmcnhHSndBcGd6ZG9oWkFwQTFTVUQzeG95SlVzXzFtRzEzZw?oc=5",
+          "source": "Samsung Audio",
+          "publisher": "samsung.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T02:17:45+00:00",
+          "title": "Galaxy Buds4 Pro vs Galaxy Buds3 Pro: Which one should you choose? - samsung.com"
+        }
+      ]
+    },
+    {
+      "id": "4896aeb9afb2ea1a78b4adce",
+      "topic": "tws",
+      "title": "How to use, maintain, and safely charge your Galaxy Buds4 series - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZG5IOFNNcmxCZEx3dGFoamc1TWtSTzVaYWx1emtkdjhxcV9ma0ZjZFgxNF92R0RKQkxvdm44UFo1SU9JN0owWDhsZ2xSUHhfTS1vdnRIQ09RbTd3OElYLUNnZWNick9yaFBWZUNiaEZFNUt6eWt1UDJSZW10NGw1QjFHdDlMellraDRwV0dhNDZ0QQ?oc=5",
+      "source": "Samsung Audio",
+      "publisher": "samsung.com",
+      "description": "How to use, maintain, and safely charge your Galaxy Buds4 series samsung.com",
+      "published_utc": "2026-11-26T03:12:19+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "b6c863ca4988",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZG5IOFNNcmxCZEx3dGFoamc1TWtSTzVaYWx1emtkdjhxcV9ma0ZjZFgxNF92R0RKQkxvdm44UFo1SU9JN0owWDhsZ2xSUHhfTS1vdnRIQ09RbTd3OElYLUNnZWNick9yaFBWZUNiaEZFNUt6eWt1UDJSZW10NGw1QjFHdDlMellraDRwV0dhNDZ0QQ?oc=5",
+          "source": "Samsung Audio",
+          "publisher": "samsung.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T03:12:19+00:00",
+          "title": "How to use, maintain, and safely charge your Galaxy Buds4 series - samsung.com"
+        }
+      ]
     }
   ],
   "date_unknown": [
@@ -4075,12 +4128,42 @@
       "article_published_raw": "",
       "article_modified_raw": "",
       "enrichment": "url_only"
+    },
+    {
+      "id": "80e68764faa02f657b0ce04b",
+      "topic": "portable_dac",
+      "title": "Epitome - iBasso Audio",
+      "url": "https://ibasso.com/product/epitome",
+      "source": "iBasso",
+      "publisher": "iBasso",
+      "description": "公式・販売店の一覧で新たに観測したリンク。発表・発売日は未確定。",
+      "published_utc": null,
+      "date_jst": null,
+      "timestamp_basis": "listing_seen",
+      "link_role": "source_article",
+      "date_quality": "unknown",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://ibasso.com/product/epitome",
+          "source": "iBasso",
+          "publisher": "iBasso",
+          "timestamp_basis": "listing_seen",
+          "published_utc": null,
+          "title": "Epitome - iBasso Audio"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     }
   ],
   "health": {
-    "partial": 16,
-    "ok": 8,
-    "deferred": 12,
+    "partial": 14,
+    "ok": 7,
+    "deferred": 15,
     "empty": 1,
     "skipped": 5,
     "manual": 2

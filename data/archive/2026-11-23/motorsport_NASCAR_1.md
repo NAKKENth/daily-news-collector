@@ -1,6 +1,5 @@
-# NASCAR / 2026-11-23 / 候補 1–10
+# NASCAR / 2026-11-23 / 候補 1–9
 
-- [AJ Allmendinger Archives - NASCAR.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE45ODA2Y2lPWmFGN0pGdDZ4TDRzVF82MDNCOVZsakpWbUxoQVRnTGUtUEc1Z2ZBbFc4VmxYb0FaZ3pfS1JfeDJXNndZeTBJcF9xYVhuaEJ0TzVIcjdselNGNC1PXzdFQUJyWXF0YWhSbWlKR0NaV2c?oc=5) — NASCAR Official｜要確認｜2026-11-23T11:18:35+00:00 UTC｜discovery_index
 - [Carson Hocevar 2026 season in review - NASCAR.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxQd29rZXZkT2preld5dlNMUXFNLVFEM19rX2RhM0dOVFllZTEyTHVYMkNNODZHUHNRdEo0SlBFZS1TSkIxeUM3T0RWOWVfQl9BbUZlQ1U2Zy15TjMxdWVWeXNZRGlqSkdoMUllckQ3cnFtVkRDMFBaZkhjNnVHU2NaYVZKUzBoeDV2YUE?oc=5) — NASCAR Official｜要確認｜2026-11-23T14:10:36+00:00 UTC｜discovery_index
 - [Carson Hocevar through the years - NASCAR.com](https://news.google.com/rss/articles/CBMickFVX3lxTE8tVXRBMnZmWEsyMExBeG9JWmhuUkQ2ZUdiNTN2SlBDVlNPMUtzV1ZURkVHM3g3amdBSkZWNmxfUTRkSVZZM2ZrNFNjM3hsaXhOM0I3TmE2WmFXNGMxdl9qUkJ0a040cFNiS2x4MW1yLXlXdw?oc=5) — NASCAR Official｜要確認｜2026-11-23T08:00:00+00:00 UTC｜discovery_index
 - [Daniel Suárez through the years - NASCAR.com](https://news.google.com/rss/articles/CBMibkFVX3lxTE5RbTJCaUR1NzlSWjVfMVZSQzNIY3JUOUE2d3FoTEk2Vkwzc1BaaEFBaVVMR2l6ZGpneWxSbGQ2bE5sUm5hSG9yNjVNSGhWOXhxT2ZIYldiMTVUQ1kzSWZLRUZXbzlFMU11TERsQ1FB?oc=5) — NASCAR Official｜要確認｜2026-11-23T08:00:00+00:00 UTC｜discovery_index

@@ -221,7 +221,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Getting started with your dot | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-26T06:29:45+00:00",
+      "published_utc": "2026-11-26T13:34:42+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -234,86 +234,8 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T06:29:45+00:00",
+          "published_utc": "2026-11-26T13:34:42+00:00",
           "title": "Getting started with your dot | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
-      "id": "dc914a105aa13a646a556133",
-      "topic": "ai",
-      "title": "ChatGPT for Academic Researchers | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVUpRbVFTYzdEaUx0dDdXZGF0Ry1lMnF0U0dXQlRObGlOV3k2emx2THM1MVJ2anZjN1pxZF9sai1vOTRqS3FHeXd3TW55NldOaHlVZ21UUWpSNzN2RlRHNEI3SXJvNTBWeF9jX2hXQmlxV0UzcjlGUFZTZW9ybTUyazFwbw?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "ChatGPT for Academic Researchers | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-26T01:05:53+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVUpRbVFTYzdEaUx0dDdXZGF0Ry1lMnF0U0dXQlRObGlOV3k2emx2THM1MVJ2anZjN1pxZF9sai1vOTRqS3FHeXd3TW55NldOaHlVZ21UUWpSNzN2RlRHNEI3SXJvNTBWeF9jX2hXQmlxV0UzcjlGUFZTZW9ybTUyazFwbw?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T01:05:53+00:00",
-          "title": "ChatGPT for Academic Researchers | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
-      "id": "2510007fe4056fc812337296",
-      "topic": "ai",
-      "title": "ChatGPT Rate Card (Enterprise token-based pricing) | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa2VuWUJGUzYxeUxmWFMwQnNuaUZxb2draFQ5YUJOWWpEU19fNnJlRlE3RVZFQ1l4cDZ3Q05UeVhwTU9PcHItSnh5U0tsRWtISjBmY0xzeE1qbUdnd2dta1JlYXY0R05paklOT2hDUFlKU3dsRWd4cXg4OXRaVnlYOGxkTmxRS2hIMjFpLVNISkw1eUFOUkZhZg?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "ChatGPT Rate Card (Enterprise token-based pricing) | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T22:16:09+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa2VuWUJGUzYxeUxmWFMwQnNuaUZxb2draFQ5YUJOWWpEU19fNnJlRlE3RVZFQ1l4cDZ3Q05UeVhwTU9PcHItSnh5U0tsRWtISjBmY0xzeE1qbUdnd2dta1JlYXY0R05paklOT2hDUFlKU3dsRWd4cXg4OXRaVnlYOGxkTmxRS2hIMjFpLVNISkw1eUFOUkZhZg?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T22:16:09+00:00",
-          "title": "ChatGPT Rate Card (Enterprise token-based pricing) | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
-      "id": "1b5e0407568a1686dcbf0050",
-      "topic": "ai",
-      "title": "Setting up your business on ChatGPT | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "Setting up your business on ChatGPT | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-26T01:12:15+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T01:12:15+00:00",
-          "title": "Setting up your business on ChatGPT | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -366,136 +288,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T04:20:02+00:00",
           "title": "export-compliance-review - AMD - AMD"
-        }
-      ]
-    },
-    {
-      "id": "be5319ac27fa963840c3ad0e",
-      "topic": "pc",
-      "title": "GIGABYTE and Newegg Bring \"AORUS VS40\" to Southern California in November 2026",
-      "url": "https://www.techpowerup.com/355019/gigabyte-and-newegg-bring-aorus-vs40-to-southern-california-in-november-2026",
-      "source": "TechPowerUp",
-      "publisher": "TechPowerUp",
-      "description": "GIGABYTE and Newegg will host AORUS VS40 at the Newegg Gamer Zone in City of Industry, California, on Saturday, November 21, 2026, from 11 a.m. to 4 p.m. PST. The event invites local collegiate PC gamers and hardware enthusiasts to celebrate 40 years of GIGABYTE by putting their skills to the test on the tournament floor and at gaming stations thro",
-      "published_utc": "2026-11-26T08:52:49+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
-      "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://www.techpowerup.com/355019/gigabyte-and-newegg-bring-aorus-vs40-to-southern-california-in-november-2026",
-          "source": "TechPowerUp",
-          "publisher": "TechPowerUp",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-26T08:52:49+00:00",
-          "title": "GIGABYTE and Newegg Bring \"AORUS VS40\" to Southern California in November 2026"
-        }
-      ]
-    },
-    {
-      "id": "8ae4f83c7a6573d58f2f2e9d",
-      "topic": "pc",
-      "title": "Max Out Your Gen 4 Slot: Predator GM7 NVMe SSD (Up to 7400 MB/s)",
-      "url": "https://www.techpowerup.com/354313/max-out-your-gen-4-slot-predator-gm7-nvme-ssd-up-to-7400-mb-s",
-      "source": "TechPowerUp",
-      "publisher": "TechPowerUp",
-      "description": "If you've been waiting for the Black Friday sales to upgrade your rig, expand your PS5 storage, or give your laptop a massive speed boost, the award-winning Predator GM7 PCIe 4.0 SSD is built to deliver top-tier performance without the top-tier heat. Powered by the highly efficient Maxio MAP1602 controller and fast 3D TLC NAND flash, this award-win",
-      "published_utc": "2026-11-26T05:39:31+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
-      "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "review",
-      "triage_reason": "PC技術候補",
-      "sources": [
-        {
-          "url": "https://www.techpowerup.com/354313/max-out-your-gen-4-slot-predator-gm7-nvme-ssd-up-to-7400-mb-s",
-          "source": "TechPowerUp",
-          "publisher": "TechPowerUp",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-26T05:39:31+00:00",
-          "title": "Max Out Your Gen 4 Slot: Predator GM7 NVMe SSD (Up to 7400 MB/s)"
-        }
-      ]
-    },
-    {
-      "id": "a941320270915c77bc8ec6a7",
-      "topic": "pc",
-      "title": "Typing 365 Turns PC Building, Technology and More into Typing Practice",
-      "url": "https://www.techpowerup.com/354945/typing-365-turns-pc-building-technology-and-more-into-typing-practice",
-      "source": "TechPowerUp",
-      "publisher": "TechPowerUp",
-      "description": "Typing faster is useful, but what if practice could also teach you something? Typing 365 is a free native Windows app that combines structured typing lessons, educational content, and competitive challenges. With over 100,000 installs and nearly 4 million typing races completed worldwide , Typing 365 has grown into more than a speed test. Its Album",
-      "published_utc": "2026-11-26T02:38:58+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
-      "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "review",
-      "triage_reason": "PC技術候補",
-      "sources": [
-        {
-          "url": "https://www.techpowerup.com/354945/typing-365-turns-pc-building-technology-and-more-into-typing-practice",
-          "source": "TechPowerUp",
-          "publisher": "TechPowerUp",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-26T02:38:58+00:00",
-          "title": "Typing 365 Turns PC Building, Technology and More into Typing Practice"
-        }
-      ]
-    },
-    {
-      "id": "348123e2ac32f1a4f1c92c03",
-      "topic": "ai",
-      "title": "ChatGPT Work and Codex | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hdmNxc1ZRV1ZUazhMY3VGR2NDeEtvTk96ZkJMRHhYczhuZ29tSVJfNnJXN1ZzanVFVFN0dE5pMGg5ZTJiU3Yzb1hFM1czamFpdkxIaFdla2d1UVo2LVZiVTV3cnN5ZmJkeU9LLXp0Z0hvY2pyR0E?oc=5",
-      "source": "OpenAI",
-      "publisher": "OpenAI Help Center",
-      "description": "ChatGPT Work and Codex | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-26T00:31:12+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hdmNxc1ZRV1ZUazhMY3VGR2NDeEtvTk96ZkJMRHhYczhuZ29tSVJfNnJXN1ZzanVFVFN0dE5pMGg5ZTJiU3Yzb1hFM1czamFpdkxIaFdla2d1UVo2LVZiVTV3cnN5ZmJkeU9LLXp0Z0hvY2pyR0E?oc=5",
-          "source": "OpenAI",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T00:31:12+00:00",
-          "title": "ChatGPT Work and Codex | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
-      "id": "29898084a4b7f50279425872",
-      "topic": "ai",
-      "title": "OpenAI Daybreak - Trusted Access for Cyber overview | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUZyTVZSX0RHejBVWktHR2xpY2dUbWFuZXNHN3R5S1dOMGxuQ0YySndSSDMzWUVRakpadzlKMWNNbTRxWWpVdlhvUkFhb0tXUy1XWlFQdGdhNEUtZFJZeU9JYTM4eThFamtsWjhxdFRaV0lnOXA0R0t3STlHUklvdi13Q3RiT1ZxLWI2V05aNXMyeU1Wbk8wdU9n?oc=5",
-      "source": "OpenAI",
-      "publisher": "OpenAI Help Center",
-      "description": "OpenAI Daybreak - Trusted Access for Cyber overview | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T23:19:04+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUZyTVZSX0RHejBVWktHR2xpY2dUbWFuZXNHN3R5S1dOMGxuQ0YySndSSDMzWUVRakpadzlKMWNNbTRxWWpVdlhvUkFhb0tXUy1XWlFQdGdhNEUtZFJZeU9JYTM4eThFamtsWjhxdFRaV0lnOXA0R0t3STlHUklvdi13Q3RiT1ZxLWI2V05aNXMyeU1Wbk8wdU9n?oc=5",
-          "source": "OpenAI",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T23:19:04+00:00",
-          "title": "OpenAI Daybreak - Trusted Access for Cyber overview | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -666,12 +458,12 @@
       "url": "https://www.computerbase.de/artikel/wirtschaft/fuer-chips-tsmc-muenchen-leistung-stromhunger-ki-designs.100490",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "TSMC hat in München über die Zukunft der Chipentwicklung und –fertigung gesprochen. Auch wie Europa mit KI-Unterstützung in Zukunft aufholen kann, war auf der Open Innovation Platform (OIP) ein Thema. Wir waren mittendrin und fassen die wesentlichen Erkenntnisse zusammen.",
+      "description": "TSMC hat über die Zukunft der Chipentwicklung und –fertigung gesprochen. Auch wie Europa mit KI-Unterstützung aufholen kann, war Thema.",
       "published_utc": "2026-11-25T17:00:00+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -679,11 +471,15 @@
           "url": "https://www.computerbase.de/artikel/wirtschaft/fuer-chips-tsmc-muenchen-leistung-stromhunger-ki-designs.100490",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T17:00:00+00:00",
           "title": "Chips von morgen: Das hat TSMC in München über die Zukunft gesagt"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T18:00:00+01:00",
+      "article_modified_raw": "2026-11-25T18:00:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "69a611abbddada2268e07229",
@@ -692,12 +488,12 @@
       "url": "https://www.computerbase.de/news/apps/code-red-nach-m365-ausfall-11-000-teams-nachrichten-aber-kein-gemeinsames-lagebild.100513",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Infolge der Microsoft-365-Großstörung vor rund zehn Tagen hat Microsoft intern einen „Code Red“ ausgerufen, berichtet die Nachrichtenagentur Reuters. Internen Memos zufolge will der Konzern sowohl die Gründe für die Störungen als auch die Probleme im Krisenmanagement aufarbeiten.",
+      "description": "Microsoft arbeitet immer noch die Großstörung von Mitte November auf. Während des Vorfalls hatte der Konzern teils die Übersicht verloren.",
       "published_utc": "2026-11-25T16:36:00+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -705,11 +501,15 @@
           "url": "https://www.computerbase.de/news/apps/code-red-nach-m365-ausfall-11-000-teams-nachrichten-aber-kein-gemeinsames-lagebild.100513",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T16:36:00+00:00",
           "title": "Microsoft 365: Nach Großstörung ruft Microsoft intern „Code Red“ aus"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T17:36:00+01:00",
+      "article_modified_raw": "2026-11-25T17:36:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "69b13b69fef500da4cdefe66",
@@ -3538,12 +3338,12 @@
       "url": "https://wccftech.com/tsmc-plans-22-6-billion-chip-fab-with-2nm-tech-in-brazos-county-texas-with-construction-from-2027-to-2031-and-2099-jobs-filings-show",
       "source": "Wccftech",
       "publisher": "Wccftech",
-      "description": "Taiwanese chip manufacturing giant TSMC is planning a massive chip manufacturing investment in Texas, according to regulatory filings. The total investment for the plant is $22 billion, according to the filings, with TSMC also planning to bring its leading-edge 2-nanometer chip fabrication technology to the site. Filings with the Texas Comptroller ",
+      "description": "TSMC is asking for a 10-year JETI property tax limitation, and Texas A&M's engineering talent helped put Brazos County on the shortlist.",
       "published_utc": "2026-11-25T18:26:38+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -3551,11 +3351,15 @@
           "url": "https://wccftech.com/tsmc-plans-22-6-billion-chip-fab-with-2nm-tech-in-brazos-county-texas-with-construction-from-2027-to-2031-and-2099-jobs-filings-show",
           "source": "Wccftech",
           "publisher": "Wccftech",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T18:26:38+00:00",
           "title": "TSMC Plans $22.6 Billion Chip Fab With 2nm Tech In Brazos County, Texas, With Construction From 2027 To 2031 And 2,099 Jobs, Filings Show"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T18:26:38+00:00",
+      "article_modified_raw": "2026-11-25T18:26:46+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "298920d25436febcdea611b0",
@@ -3594,12 +3398,12 @@
       "url": "https://wccftech.com/microsoft-president-warns-more-tech-outages-are-coming-as-ai-forces-companies-to-patch-software-at-unprecedented-speeds",
       "source": "Wccftech",
       "publisher": "Wccftech",
-      "description": "Less than two weeks after a massive Microsoft 365 outage disrupted businesses and government institutions worldwide, Microsoft President and Vice Chair Brad Smith has warned that more technology outages could occur over the coming months, as artificial intelligence accelerates the discovery of software vulnerabilities and forces organizations to de",
+      "description": "Microsoft President Brad Smith warns more tech outages could occur as AI accelerates vulnerability discovery and forces companies to rush security patches.",
       "published_utc": "2026-11-25T16:15:52+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -3607,11 +3411,15 @@
           "url": "https://wccftech.com/microsoft-president-warns-more-tech-outages-are-coming-as-ai-forces-companies-to-patch-software-at-unprecedented-speeds",
           "source": "Wccftech",
           "publisher": "Wccftech",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T16:15:52+00:00",
           "title": "Microsoft President Warns More Tech Outages Are Coming As AI Forces Companies To Patch Software At Unprecedented Speeds"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T16:15:52+00:00",
+      "article_modified_raw": "2026-11-25T16:15:58+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "1253381bde437b16c1dc3897",
@@ -4407,11 +4215,11 @@
     {
       "id": "c09f899da844454076362f2c",
       "topic": "pc",
-      "title": "Realme 17 Pro: fuga revela novo módulo de câmaras e 10.000 mAh | TugaTech",
+      "title": "Realme 17 Pro: fuga revela novo módulo de câmaras e 10.000 mAh",
       "url": "https://tugatech.com.pt/t95225-realme-17-pro-fuga-revela-novo-modulo-de-camaras-e-10-000-mah",
       "source": "VideoCardz",
       "publisher": "VideoCardz",
-      "description": "Uma nova fuga de informação mostra o design esperado para o Realme 17 Pro, destacando uma reorganização visual no módulo fotográfico traseiro em duas faixas ver",
+      "description": "Uma nova fuga de informação mostra o design esperado para o Realme 17 Pro, destacando uma reorganização visual no módulo fotográfico traseiro em duas faixas verticais. As informações mais recentes reforçam ainda a presença de uma bateria de 10.000 mAh com carregamento rápido de 65 W e do processador MediaTek Dimensity 7300, num equipamento apontado",
       "published_utc": "2026-11-25T22:46:06+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "source_feed_published",
@@ -4426,7 +4234,7 @@
           "publisher": "VideoCardz",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T22:46:06+00:00",
-          "title": "Realme 17 Pro: fuga revela novo módulo de câmaras e 10.000 mAh | TugaTech"
+          "title": "Realme 17 Pro: fuga revela novo módulo de câmaras e 10.000 mAh"
         }
       ],
       "discovery_url": null,
@@ -4437,11 +4245,11 @@
     {
       "id": "35f22c7fd26a7592b5f15e01",
       "topic": "ai",
-      "title": "ChatGPT junta Chat e Work com limite único e gera críticas",
+      "title": "ChatGPT junta Chat e Work com limite único e gera críticas | TugaTech",
       "url": "https://tugatech.com.pt/t95226-chatgpt-junta-chat-e-work-com-limite-unico-e-gera-criticas",
       "source": "VideoCardz",
       "publisher": "VideoCardz",
-      "description": "A OpenAI iniciou a disponibilização gradual de uma experiência unificada que combina o Chat e o Work no ChatGPT, arrancando junto de um grupo restrito de subscritores do plano Pro. A mudança introduz um contador único de utilização partilhado entre ambas as áreas e provocou críticas de utilizadores preocupados com menor acesso a modelos de raciocín",
+      "description": "A OpenAI iniciou a disponibilização gradual de uma experiência unificada que combina o Chat e o Work no ChatGPT, arrancando junto de um grupo restrito de subscr",
       "published_utc": "2026-11-25T22:45:25+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "source_feed_published",
@@ -4456,18 +4264,22 @@
           "publisher": "VideoCardz",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T22:45:25+00:00",
-          "title": "ChatGPT junta Chat e Work com limite único e gera críticas"
+          "title": "ChatGPT junta Chat e Work com limite único e gera críticas | TugaTech"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "5c84adbb08e9a53a29ba5e5e",
       "topic": "pc",
-      "title": "Microsoft alerta que a IA aumenta o risco de falhas na Internet",
+      "title": "Microsoft alerta que a IA aumenta o risco de falhas na Internet | TugaTech",
       "url": "https://tugatech.com.pt/t95227-microsoft-alerta-que-a-ia-aumenta-o-risco-de-falhas-na-internet",
       "source": "VideoCardz",
       "publisher": "VideoCardz",
-      "description": "A rapidez da inteligência artificial na deteção de falhas de segurança está a comprimir os testes de atualizações de software e a elevar o risco de falhas globais na Internet. O alerta parte de Brad Smith, presidente e vice-presidente do conselho de administração da Microsoft, que antecipa mais interrupções em serviços digitais e infraestruturas cr",
+      "description": "A rapidez da inteligência artificial na deteção de falhas de segurança está a comprimir os testes de atualizações de software e a elevar o risco de falhas globa",
       "published_utc": "2026-11-25T22:44:29+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "source_feed_published",
@@ -4482,18 +4294,22 @@
           "publisher": "VideoCardz",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T22:44:29+00:00",
-          "title": "Microsoft alerta que a IA aumenta o risco de falhas na Internet"
+          "title": "Microsoft alerta que a IA aumenta o risco de falhas na Internet | TugaTech"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only"
     },
     {
       "id": "40a0cd751b4fc1b0b587ec82",
       "topic": "pc",
-      "title": "WhatsApp estreia agendamento de mensagens entre 10 minutos e 2 semanas | TugaTech",
+      "title": "WhatsApp estreia agendamento de mensagens entre 10 minutos e 2 semanas",
       "url": "https://tugatech.com.pt/t95224-whatsapp-estreia-agendamento-de-mensagens-entre-10-minutos-e-2-semanas",
       "source": "VideoCardz",
       "publisher": "VideoCardz",
-      "description": "O WhatsApp iniciou a disponibilização oficial do agendamento de mensagens para os seus 3 mil milhões de utilizadores, respondendo a uma das ferramentas há mais",
+      "description": "O WhatsApp iniciou a disponibilização oficial do agendamento de mensagens para os seus 3 mil milhões de utilizadores, respondendo a uma das ferramentas há mais tempo pedidas na plataforma. A novidade funciona tanto em conversas privadas como em grupos e suporta envios programados entre 10 minutos e duas semanas de antecedência, abrangendo texto, fo",
       "published_utc": "2026-11-25T22:43:29+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "source_feed_published",
@@ -4508,7 +4324,7 @@
           "publisher": "VideoCardz",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T22:43:29+00:00",
-          "title": "WhatsApp estreia agendamento de mensagens entre 10 minutos e 2 semanas | TugaTech"
+          "title": "WhatsApp estreia agendamento de mensagens entre 10 minutos e 2 semanas"
         }
       ],
       "discovery_url": null,
@@ -4549,11 +4365,11 @@
     {
       "id": "e80a8496e8e2b492e1a0b6fa",
       "topic": "pc",
-      "title": "App da Toyota está indisponível e bloqueia comandos remotos | TugaTech",
+      "title": "App da Toyota está indisponível e bloqueia comandos remotos",
       "url": "https://tugatech.com.pt/t95222-app-da-toyota-esta-indisponivel-e-bloqueia-comandos-remotos",
       "source": "VideoCardz",
       "publisher": "VideoCardz",
-      "description": "A aplicação oficial da Toyota atravessa uma falha técnica que impede os proprietários de aceder aos serviços conectados dos seus veículos. De acordo com relatos",
+      "description": "A aplicação oficial da Toyota atravessa uma falha técnica que impede os proprietários de aceder aos serviços conectados dos seus veículos. De acordo com relatos de condutores e dados da plataforma Downdetector, o serviço registou um pico de 190 notificações de erro face a uma linha de base habitual de zero ocorrências.",
       "published_utc": "2026-11-25T22:09:08+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "source_feed_published",
@@ -4568,7 +4384,7 @@
           "publisher": "VideoCardz",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T22:09:08+00:00",
-          "title": "App da Toyota está indisponível e bloqueia comandos remotos | TugaTech"
+          "title": "App da Toyota está indisponível e bloqueia comandos remotos"
         }
       ],
       "discovery_url": null,
@@ -4579,11 +4395,11 @@
     {
       "id": "52177d17cbe54a4a8437a31b",
       "topic": "pc",
-      "title": "Amazon e eBay instados a suspender brinquedos com IA para menores | TugaTech",
+      "title": "Amazon e eBay instados a suspender brinquedos com IA para menores",
       "url": "https://tugatech.com.pt/t95221-amazon-e-ebay-instados-a-suspender-brinquedos-com-ia-para-menores",
       "source": "VideoCardz",
       "publisher": "VideoCardz",
-      "description": "Mais de 150 organizações de defesa das crianças e especialistas pediram à Amazon e ao eBay para suspenderem a venda de brinquedos equipados com chatbots de inte",
+      "description": "Mais de 150 organizações de defesa das crianças e especialistas pediram à Amazon e ao eBay para suspenderem a venda de brinquedos equipados com chatbots de inteligência artificial destinados a menores de 16 anos. Os signatários exigem uma resposta antes do Natal e defendem a retirada destes produtos até que testes independentes comprovem a sua segu",
       "published_utc": "2026-11-25T22:07:14+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "source_feed_published",
@@ -4598,7 +4414,7 @@
           "publisher": "VideoCardz",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T22:07:14+00:00",
-          "title": "Amazon e eBay instados a suspender brinquedos com IA para menores | TugaTech"
+          "title": "Amazon e eBay instados a suspender brinquedos com IA para menores"
         }
       ],
       "discovery_url": null,
@@ -4609,11 +4425,11 @@
     {
       "id": "19ea1d27f4ef11ac4d9ac544",
       "topic": "pc",
-      "title": "Nvidia acusada de partilhar livros piratas com a Adobe e via BitTorrent | TugaTech",
+      "title": "Nvidia acusada de partilhar livros piratas com a Adobe e via BitTorrent",
       "url": "https://tugatech.com.pt/t95220-nvidia-acusada-de-partilhar-livros-piratas-com-a-adobe-e-via-bittorrent",
       "source": "VideoCardz",
       "publisher": "VideoCardz",
-      "description": "A Nvidia enfrenta uma nova fase na ação coletiva movida por escritores num tribunal federal da Califórnia, após a submissão de uma queixa alterada que coloca a",
+      "description": "A Nvidia enfrenta uma nova fase na ação coletiva movida por escritores num tribunal federal da Califórnia, após a submissão de uma queixa alterada que coloca a distribuição de obras protegidas no centro do litígio. Liderado por autores como Abdi Nazemian e Susan Orlean, o processo acusa a fabricante de treinar modelos de inteligência artificial com",
       "published_utc": "2026-11-25T21:55:13+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "source_feed_published",
@@ -4628,7 +4444,7 @@
           "publisher": "VideoCardz",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T21:55:13+00:00",
-          "title": "Nvidia acusada de partilhar livros piratas com a Adobe e via BitTorrent | TugaTech"
+          "title": "Nvidia acusada de partilhar livros piratas com a Adobe e via BitTorrent"
         }
       ],
       "discovery_url": null,
@@ -4639,11 +4455,11 @@
     {
       "id": "2d1203617c6ecf6bb886fbef",
       "topic": "pc",
-      "title": "SpaceX obtém luz verde condicional para 1 milhão de satélites de IA | TugaTech",
+      "title": "SpaceX obtém luz verde condicional para 1 milhão de satélites de IA",
       "url": "https://tugatech.com.pt/t95219-spacex-obtem-luz-verde-condicional-para-1-milhao-de-satelites-de-ia",
       "source": "VideoCardz",
       "publisher": "VideoCardz",
-      "description": "A Comissão Federal de Comunicações (FCC) dos Estados Unidos concedeu esta quarta-feira aprovação condicional à SpaceX para lançar e operar a constelação Starmin",
+      "description": "A Comissão Federal de Comunicações (FCC) dos Estados Unidos concedeu esta quarta-feira aprovação condicional à SpaceX para lançar e operar a constelação Starmind, um sistema de até 1 milhão de satélites dedicados a centros de dados orbitais de inteligência artificial. A decisão representa um avanço regulatório relevante para os planos de Elon Musk,",
       "published_utc": "2026-11-25T21:50:28+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "source_feed_published",
@@ -4658,7 +4474,7 @@
           "publisher": "VideoCardz",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-25T21:50:28+00:00",
-          "title": "SpaceX obtém luz verde condicional para 1 milhão de satélites de IA | TugaTech"
+          "title": "SpaceX obtém luz verde condicional para 1 milhão de satélites de IA"
         }
       ],
       "discovery_url": null,
@@ -4771,32 +4587,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T20:10:39+00:00",
           "title": "FrontierPhysics Benchmark - Artificial Analysis"
-        }
-      ]
-    },
-    {
-      "id": "e83382ca55d834a205dbab3f",
-      "topic": "ai",
-      "title": "Using the built-in browser in the ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSi1uRW9kMTdsUWlHZlZzRS15b3VMYXVtSDRSVi0wSFFSLWp6aUlXRUNqNkU2NldTOHkxRlFmTWlZRVlRcUIzNEZOU1I3WXhrQmVVV1dxbDIxWFJhZERXSGNTSjFXdDhXcm1jbTBzY0JsNEw3Zkd4MzhLOVhFVUZXMjA2VGRrNGFnXzlPQjlEYmNZZHYwOGpFQThUVXpQQkE?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "Using the built-in browser in the ChatGPT desktop app | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-26T01:29:46+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSi1uRW9kMTdsUWlHZlZzRS15b3VMYXVtSDRSVi0wSFFSLWp6aUlXRUNqNkU2NldTOHkxRlFmTWlZRVlRcUIzNEZOU1I3WXhrQmVVV1dxbDIxWFJhZERXSGNTSjFXdDhXcm1jbTBzY0JsNEw3Zkd4MzhLOVhFVUZXMjA2VGRrNGFnXzlPQjlEYmNZZHYwOGpFQThUVXpQQkE?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T01:29:46+00:00",
-          "title": "Using the built-in browser in the ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -4989,12 +4779,12 @@
       "url": "https://www.computerbase.de/news/arbeitsspeicher/sk-hynix-3d-dram-soll-bis-2031-mit-100-layern-in-serie-gehen.100524",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "SK Hynix hat die Pläne zur Einführung von 3D-DRAM konkretisiert. Demnach ist der Beginn der Serienfertigung innerhalb der nächsten vier bis fünf Jahre geplant. Das Jahr 2031 klingt daher wahrscheinlich. Die erste Generation soll über rund 100 Lagen (Layer) mit Speicherzellen verfügen.",
+      "description": "Laut Aussagen eines Ingenieurs von SK Hynix könnte 3D-DRAM bis 2031 in die Serienfertigung gehen. Zum Start sind 100 Layer geplant.",
       "published_utc": "2026-11-26T05:00:00+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -5002,11 +4792,15 @@
           "url": "https://www.computerbase.de/news/arbeitsspeicher/sk-hynix-3d-dram-soll-bis-2031-mit-100-layern-in-serie-gehen.100524",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T05:00:00+00:00",
           "title": "SK Hynix: 3D DRAM soll bis 2031 mit 100 Layern in Serie gehen"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T06:00:00+01:00",
+      "article_modified_raw": "2026-11-26T06:00:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "ecc86dadfdf18d5304dda901",
@@ -5563,12 +5357,12 @@
       "url": "https://www.computerbase.de/artikel/smart-home/amazon-echo-time-test-smarter-wecker-schlaferfassung.100368",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Der Amazon Echo Time ist ein smarter Wecker mit Ultraschall zur Schlaferfassung, die zusammen mit einem Wecklicht ein sanftes Aufwecken gewährleisten soll. Das Display und der Funktionsumfang überzeugen uns im Test – Schlaferfassung und Klang aber nicht. Im Angebot ist der Echo Time trotzdem eine Überlegung wert.",
+      "description": "Amazons neuer smarter Wecker, der Echo Time, kommt mit Schlaferfassung, Wecklicht, Display und Alexa+. Unser Test fällt zwiegespalten aus.",
       "published_utc": "2026-11-26T11:00:00+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -5576,11 +5370,15 @@
           "url": "https://www.computerbase.de/artikel/smart-home/amazon-echo-time-test-smarter-wecker-schlaferfassung.100368",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T11:00:00+00:00",
           "title": "Echo Time im Test: Smarter Ultraschall-Wecker aktuell zum halben Preis"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T12:00:00+01:00",
+      "article_modified_raw": "2026-11-26T12:00:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "80ad2e08d07821300cb480fb",
@@ -5641,12 +5439,12 @@
       "url": "https://www.computerbase.de/news/prozessoren/intel-razor-lake-ax-riesiger-chip-traegt-auch-4x-lpddr-auf-dem-package.100532",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Ein Testchip von Intel Razor Lake-AX zeigt die großen Ausmaße der kommenden CPU mit großer iGPU, deren Package auch vier LPDDR5X-Chips an einer Längsseite trägt. Wenngleich der fotografierte Chip wohl nur ein Dummy ohne echtes Silizium für erste Tests ist, dürften die finalen Abmessungen damit jedoch weitestgehend bestimmt sein.",
+      "description": "Ein Testchip von Intel Razor Lake-AX zeigt die sehr großen Ausmaße der kommenden CPU, deren Package auch vier LPDDR5X-Chips trägt.",
       "published_utc": "2026-11-26T08:50:00+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -5654,11 +5452,15 @@
           "url": "https://www.computerbase.de/news/prozessoren/intel-razor-lake-ax-riesiger-chip-traegt-auch-4x-lpddr-auf-dem-package.100532",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T08:50:00+00:00",
           "title": "Intel Razor Lake-AX: Riesiger Chip trägt auch 4 × LPDDR auf dem Package"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T09:50:00+01:00",
+      "article_modified_raw": "2026-11-27T11:58:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "3077b6ded119640154fcbc71",
@@ -6876,12 +6678,12 @@
       "url": "https://www.computerbase.de/news/betriebssysteme/ki-kontingente-im-detail-apple-arbeitet-mit-speziellen-tokens-fuer-siri-ai-und-co.100539",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Wie viel Apple Intelligence und Siri AI Anwender täglich nutzen können, hängt von Funktion, Gerät und iCloud+-Tarif ab. Ein X-Beitrag beziffert nun die Kontingente der OS-Version 27.3. Dabei sind Tokens keine Textbausteine wie bei anderen KI-Diensten: Sie berechtigen jeweils zu einer Verbindung mit Apples Private Cloud Compute.",
+      "description": "Wie viel Apple Intelligence und Siri AI Nutzer täglich nutzen können, hängt von den Funktionen und verfügbaren Tokens ab. Ein Überblick.",
       "published_utc": "2026-11-26T14:38:00+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -6889,16 +6691,20 @@
           "url": "https://www.computerbase.de/news/betriebssysteme/ki-kontingente-im-detail-apple-arbeitet-mit-speziellen-tokens-fuer-siri-ai-und-co.100539",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T14:38:00+00:00",
           "title": "Ein Token ist kein Wort: So zählt Apple die Nutzung von Siri AI und Co."
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T15:38:00+01:00",
+      "article_modified_raw": "2026-11-26T15:38:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "f99194c81c7be6dbbcf584d9",
       "topic": "pc",
-      "title": "ASML: China sollte kontrolliert ältere Lithografie-Systeme erhalten",
+      "title": "ASML: China sollte kontrolliert ältere Lithografie-Systeme erhalten (Update)",
       "url": "https://www.computerbase.de/news/wirtschaft/asml-zu-china-exporten-verbote-koennten-chinas-eigenentwicklung-befluegeln.100537",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
@@ -6917,7 +6723,7 @@
           "publisher": "ComputerBase",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-26T14:07:00+00:00",
-          "title": "ASML: China sollte kontrolliert ältere Lithografie-Systeme erhalten"
+          "title": "ASML: China sollte kontrolliert ältere Lithografie-Systeme erhalten (Update)"
         }
       ]
     },
@@ -8545,16 +8351,16 @@
     {
       "id": "219cfde8ab7612d2006be2fd",
       "topic": "pc",
-      "title": "Thermal Grizzly’s Delid-Heat-Mate Heats A CPU Upside Down In An Oven Until The Indium Solder Melts And The IHS Drops Off Under Its Own Weight",
+      "title": "Thermal Grizzly&#8217;s Delid-Heat-Mate Heats A CPU Upside Down In An Oven Until The Indium Solder Melts And The IHS Drops Off Under Its Own Weight",
       "url": "https://wccftech.com/thermal-grizzly-launches-delid-heat-mate",
       "source": "Wccftech",
       "publisher": "Wccftech",
-      "description": "A cheaper solution is out for enthusiasts who want a hassle-free CPU delidding, and supports multiple AMD and Intel platforms. The Delid-Heat-Mate Brings Controlled Oven Heating to Delid CPUs, Allowing the Heat Spreader to Detach Under its Own Weight Delidding a CPU to remove the IHS for direct contact with the CPU cooler is a popular practice amon",
+      "description": "Thermal Grizzly's Delid-Heat-Mate at $23.28 enhances CPU delidding safety with oven heating; requires $84 Delid-Die-Mate for full use.",
       "published_utc": "2026-11-26T14:26:02+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -8562,11 +8368,15 @@
           "url": "https://wccftech.com/thermal-grizzly-launches-delid-heat-mate",
           "source": "Wccftech",
           "publisher": "Wccftech",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T14:26:02+00:00",
-          "title": "Thermal Grizzly’s Delid-Heat-Mate Heats A CPU Upside Down In An Oven Until The Indium Solder Melts And The IHS Drops Off Under Its Own Weight"
+          "title": "Thermal Grizzly&#8217;s Delid-Heat-Mate Heats A CPU Upside Down In An Oven Until The Indium Solder Melts And The IHS Drops Off Under Its Own Weight"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T14:26:02+00:00",
+      "article_modified_raw": "2026-11-26T14:26:09+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "76726391521732e8adf8e29a",
@@ -8635,12 +8445,12 @@
       "url": "https://wccftech.com/undervolted-rtx-5070-setup-suffers-from-8-pin-connector-melting",
       "source": "Wccftech",
       "publisher": "Wccftech",
-      "description": "Interestingly, this is one of the rare cases where the 16-pin connector was safe, but the 8-pin connector got melted. MSI RTX 5070 Ti Shadow 2X Running at 180W Still Results in Connector Melting, but 16-pin Connector Remained Safe While 8-pin on the PSU Side Melted One should adhere to the manufacturer's guidelines when it comes to the RTX 50 serie",
+      "description": "MSI RTX 5070 Ti Shadow 2X experienced connector melting at 180W due to using a single 8-pin adapter instead of two as recommended",
       "published_utc": "2026-11-26T13:31:32+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -8648,11 +8458,15 @@
           "url": "https://wccftech.com/undervolted-rtx-5070-setup-suffers-from-8-pin-connector-melting",
           "source": "Wccftech",
           "publisher": "Wccftech",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T13:31:32+00:00",
           "title": "Undervolted RTX 5070 Running Melts The PSU-Side 8-Pin Connector, While The 16-Pin End On The GPU Stays Intact"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T13:31:32+00:00",
+      "article_modified_raw": "2026-11-26T13:51:42+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "0b8fc459f5a54799d9a70dd8",
@@ -8717,16 +8531,16 @@
     {
       "id": "9ac7e7a389fb0da759a31039",
       "topic": "pc",
-      "title": "Phantom Blade Zero’s November 28 Patch Cuts RAM and VRAM Use in Cutscenes and Snowy Areas, Smoothing Performance And Reducing Stuttering",
+      "title": "Phantom Blade Zero&#8217;s November 28 Patch Cuts RAM and VRAM Use in Cutscenes and Snowy Areas, Smoothing Performance And Reducing Stuttering",
       "url": "https://wccftech.com/phantom-blade-zero-november-28-patch-ram-vram-optimization-performance",
       "source": "Wccftech",
       "publisher": "Wccftech",
-      "description": "Following the first couple of patches that tweaked performance and difficulty, S-Game confirmed a new Phantom Blade Zero patch will launch on November 28 on PC and PlayStation 5, which will not only tackle some of the game's remaining issues but also boost performance by optimizing RAM and VRAM usage, among other things. The 1.0304629 patch, which ",
+      "description": "Phantom Blade Zero's next 7 GB patch arrives November 28 on PC and PS5, bringing RAM and VRAM optimizations and bug fixes",
       "published_utc": "2026-11-26T12:23:06+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -8734,11 +8548,15 @@
           "url": "https://wccftech.com/phantom-blade-zero-november-28-patch-ram-vram-optimization-performance",
           "source": "Wccftech",
           "publisher": "Wccftech",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T12:23:06+00:00",
-          "title": "Phantom Blade Zero’s November 28 Patch Cuts RAM and VRAM Use in Cutscenes and Snowy Areas, Smoothing Performance And Reducing Stuttering"
+          "title": "Phantom Blade Zero&#8217;s November 28 Patch Cuts RAM and VRAM Use in Cutscenes and Snowy Areas, Smoothing Performance And Reducing Stuttering"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T12:23:06+00:00",
+      "article_modified_raw": "2026-11-26T12:41:51+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "674cdfb7c1948f48a1d2120f",
@@ -8773,16 +8591,16 @@
     {
       "id": "346730fe738e38ac4f5a1832",
       "topic": "ai",
-      "title": "NVIDIA VP Who Opposed Bringing Jensen Huang Back Used To Work At China’s Baidu And Co-Authored A Paper With Anthropic’s Dario Amodei",
+      "title": "NVIDIA VP Who Opposed Bringing Jensen Huang Back Used To Work At China&#8217;s Baidu And Co-Authored A Paper With Anthropic&#8217;s Dario Amodei",
       "url": "https://wccftech.com/nvidia-vp-who-opposed-bringing-jensen-huang-back-used-to-work-at-chinas-baidu-and-co-authored-a-paper-with-anthropics-dario-amodei",
       "source": "Wccftech",
       "publisher": "Wccftech",
-      "description": "The plot thickens. Bryan Catanzaro, NVIDIA's vice president of applied deep learning research, was notably outspoken in his refusal to advocate for Jensen Huang's return as CEO. Now, a look at his past research ties offers a potential clue to his thinking — specifically, a past collaboration with Anthropic CEO Dario Amodei. Years before Bryan Catan",
+      "description": "Anthropic also paid $740,000 to a lobbying firm tied to Marco Rubio's former chief of staff — a coincidence in the timeline, not proof of Jensen Huang's ouster.",
       "published_utc": "2026-11-26T11:10:37+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "AI候補",
       "sources": [
@@ -8790,11 +8608,15 @@
           "url": "https://wccftech.com/nvidia-vp-who-opposed-bringing-jensen-huang-back-used-to-work-at-chinas-baidu-and-co-authored-a-paper-with-anthropics-dario-amodei",
           "source": "Wccftech",
           "publisher": "Wccftech",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T11:10:37+00:00",
-          "title": "NVIDIA VP Who Opposed Bringing Jensen Huang Back Used To Work At China’s Baidu And Co-Authored A Paper With Anthropic’s Dario Amodei"
+          "title": "NVIDIA VP Who Opposed Bringing Jensen Huang Back Used To Work At China&#8217;s Baidu And Co-Authored A Paper With Anthropic&#8217;s Dario Amodei"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T11:10:37+00:00",
+      "article_modified_raw": "2026-11-26T14:38:00+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "0a05fc676a576046fe87a1a4",
@@ -10993,32 +10815,6 @@
       ]
     },
     {
-      "id": "a97664f155d321690908c984",
-      "topic": "ai",
-      "title": "Working with writing blocks and code blocks in ChatGPT | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUW5ZX2RvTkR4cWpTLTR4UlR6SUs4dFRlQ3JQNzVzZ1pYYlpsS2x6OEh0NXB0bUNRejZaLWNNTWg3cXJlNGhNRHZvWGtWc0RhODByZWRBeDdiNWZhWDFKNllERUtabnItSDV6eUpyNjJpTUZjc2VrZ3F3ekt5TG8yY3BMRDI5V3pyNkJ0dlg5Tjh0cU9ENDQwb0ktUFI5UndX?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "Working with writing blocks and code blocks in ChatGPT | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-26T01:43:35+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUW5ZX2RvTkR4cWpTLTR4UlR6SUs4dFRlQ3JQNzVzZ1pYYlpsS2x6OEh0NXB0bUNRejZaLWNNTWg3cXJlNGhNRHZvWGtWc0RhODByZWRBeDdiNWZhWDFKNllERUtabnItSDV6eUpyNjJpTUZjc2VrZ3F3ekt5TG8yY3BMRDI5V3pyNkJ0dlg5Tjh0cU9ENDQwb0ktUFI5UndX?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T01:43:35+00:00",
-          "title": "Working with writing blocks and code blocks in ChatGPT | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
       "id": "e68e383de9edce202403c91a",
       "topic": "ai",
       "title": "Situational Awareness lost 65% after fees in third quarter, WSJ reports - Reuters",
@@ -11504,12 +11300,66 @@
           "title": "ChatGPT/Codex usage limits：ページ変更を観測（要差分確認）"
         }
       ]
+    },
+    {
+      "id": "117f20e2f20ae8f2d5f0accd",
+      "topic": "ai",
+      "title": "Model Release Notes：ページ変更を観測（要差分確認）",
+      "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help",
+      "description": "前回観測 2026-11-27T07:40:08+00:00 → 今回観測 2026-11-27T13:34:47+00:00。変更内容・発生日は未確定。",
+      "published_utc": null,
+      "date_jst": null,
+      "timestamp_basis": "page_change_observed",
+      "link_role": "monitor_page",
+      "date_quality": "observed_change",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "d4e216700c35",
+      "sources": [
+        {
+          "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help",
+          "timestamp_basis": "page_change_observed",
+          "published_utc": null,
+          "title": "Model Release Notes：ページ変更を観測（要差分確認）"
+        }
+      ]
+    },
+    {
+      "id": "977d88ef7ab4aaf5be129cce",
+      "topic": "ai",
+      "title": "ChatGPT/Codex usage limits：ページ変更を観測（要差分確認）",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help",
+      "description": "前回観測 2026-11-27T07:40:08+00:00 → 今回観測 2026-11-27T13:34:47+00:00。変更内容・発生日は未確定。",
+      "published_utc": null,
+      "date_jst": null,
+      "timestamp_basis": "page_change_observed",
+      "link_role": "monitor_page",
+      "date_quality": "observed_change",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "possible_event_id": "b1569d09984b",
+      "sources": [
+        {
+          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help",
+          "timestamp_basis": "page_change_observed",
+          "published_utc": null,
+          "title": "ChatGPT/Codex usage limits：ページ変更を観測（要差分確認）"
+        }
+      ]
     }
   ],
   "health": {
     "ok": 12,
-    "partial": 3,
     "deferred": 4,
+    "partial": 3,
     "skipped": 24,
     "manual": 3
   }

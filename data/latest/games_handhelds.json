@@ -4001,10 +4001,10 @@
   ],
   "date_unknown": [],
   "health": {
-    "deferred": 6,
-    "partial": 6,
-    "ok": 12,
+    "deferred": 8,
+    "partial": 3,
     "empty": 8,
+    "ok": 13,
     "skipped": 9,
     "manual": 4
   }

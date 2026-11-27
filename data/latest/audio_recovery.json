@@ -451,7 +451,7 @@
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
       "first_seen_utc": "2026-11-26T22:05:41+00:00",
-      "last_seen_utc": "2026-11-26T22:05:41+00:00",
+      "last_seen_utc": "2026-11-27T13:34:47+00:00",
       "group": "audio",
       "date_quality": "discovery_index",
       "triage": "priority",
@@ -1639,7 +1639,7 @@
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
       "first_seen_utc": "2026-11-25T19:12:35+00:00",
-      "last_seen_utc": "2026-11-26T22:05:41+00:00",
+      "last_seen_utc": "2026-11-27T13:34:47+00:00",
       "group": "audio",
       "date_quality": "discovery_index",
       "triage": "review",
@@ -1985,6 +1985,40 @@
         }
       ],
       "recovered_at_utc": "2026-11-25T19:12:35+00:00"
+    },
+    {
+      "id": "02c22482beba3e00f2ca4a72",
+      "group_name": "audio",
+      "topic": "wired",
+      "source_id": "audio-samsung-audio",
+      "source": "Samsung Audio",
+      "source_role": "official",
+      "title": "Struggling with uneven earbud volume? Adjust your sound balance! - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWFVqbTlsOTY5d0h1bmZJbEVtbU5kYnJRNThRdnotTmdFT3lWN3hFZ1JjZDB1amJNaEVxZmxkdk5YN29JQ0c4M1JBQkF4ZmotNy1oMTF1XzBHQVp3dldUUklSYXpCUVlCWEZvenloRHlRdURaYkNMNkxZTUItd1l3RVAyOVh2VjFRbnpCXzlkQURnRW94TnZNMzNPUjJTQ29pRVhTcTNxTGxuYm8wMm5hbDcwZ05wbDUxTWhRQ29VazlHYXVTSl90dE1pRktJRjFhWUJJSVFBRDRwUkNidEE?oc=5",
+      "publisher": "samsung.com",
+      "description": "Struggling with uneven earbud volume? Adjust your sound balance! samsung.com",
+      "published_utc": "2026-11-23T14:35:04+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "first_seen_utc": "2026-11-27T13:34:47+00:00",
+      "last_seen_utc": "2026-11-27T13:34:47+00:00",
+      "group": "audio",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWFVqbTlsOTY5d0h1bmZJbEVtbU5kYnJRNThRdnotTmdFT3lWN3hFZ1JjZDB1amJNaEVxZmxkdk5YN29JQ0c4M1JBQkF4ZmotNy1oMTF1XzBHQVp3dldUUklSYXpCUVlCWEZvenloRHlRdURaYkNMNkxZTUItd1l3RVAyOVh2VjFRbnpCXzlkQURnRW94TnZNMzNPUjJTQ29pRVhTcTNxTGxuYm8wMm5hbDcwZ05wbDUxTWhRQ29VazlHYXVTSl90dE1pRktJRjFhWUJJSVFBRDRwUkNidEE?oc=5",
+          "source": "Samsung Audio",
+          "publisher": "samsung.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T14:35:04+00:00",
+          "title": "Struggling with uneven earbud volume? Adjust your sound balance! - samsung.com"
+        }
+      ],
+      "possible_event_id": "0bbe77db8d8e",
+      "recovered_at_utc": "2026-11-27T13:34:47+00:00"
     },
     {
       "id": "27d0bd30fe5198263b521e79",
@@ -3804,6 +3838,7 @@
           "title": "Struggling with uneven earbud volume? Adjust your sound balance! - samsung.com"
         }
       ],
+      "possible_event_id": "0bbe77db8d8e",
       "recovered_at_utc": "2026-11-25T19:12:35+00:00"
     },
     {

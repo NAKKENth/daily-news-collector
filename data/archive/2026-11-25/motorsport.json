@@ -7774,32 +7774,6 @@
       ]
     },
     {
-      "id": "5c578c4d40771b711dcea5e6",
-      "topic": "NASCAR",
-      "title": "NASCAR Cup Series Chase Archives - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHBIMzNhNmFJR3ZWRWl0ZDBkZ3k0Q1hfck85X0lSV201clpYeHJVbDVrOUE0elZabkpZYkpINTV4RVR4eGpwdzI4aXBKZlVKNmlMalRnZFlaa0JwYUI4OTRJYnFiMVVFRW5FZU56RGlmUS1PTjdIY3A1aEhmVVVkWUxLT0dac2JKYTFRUUtUcjE4VWdkUGRZ?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "NASCAR Cup Series Chase Archives NASCAR.com",
-      "published_utc": "2026-11-25T14:51:15+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技名一致・新規性の確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHBIMzNhNmFJR3ZWRWl0ZDBkZ3k0Q1hfck85X0lSV201clpYeHJVbDVrOUE0elZabkpZYkpINTV4RVR4eGpwdzI4aXBKZlVKNmlMalRnZFlaa0JwYUI4OTRJYnFiMVVFRW5FZU56RGlmUS1PTjdIY3A1aEhmVVVkWUxLT0dac2JKYTFRUUtUcjE4VWdkUGRZ?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T14:51:15+00:00",
-          "title": "NASCAR Cup Series Chase Archives - NASCAR.com"
-        }
-      ]
-    },
-    {
       "id": "7a3a7a753327ae77e4a15562",
       "topic": "F1",
       "title": "F1 returns to the track its tyres can’t cope with: Seven Qatar GP talking points - RaceFans",
@@ -11139,6 +11113,84 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T19:17:10+00:00",
           "title": "Nico Hulkenberg F1 Gifting Season , Nico Hulkenberg Formula 1 Gifting Season - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "17c2654de474e7f87794902c",
+      "topic": "NASCAR",
+      "title": "Austin Cindric through the years - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WYmdSdnpEQk5GWFF0QmdRY1hmNlNBTWVRTXI0QjByeC0zcE1aaUxnMEpJbHNHSU45ckZ6ZFd0bmRNWWtkOWJDRTFKeTd5UENkSmxoeWJGSHg3Rm1MWmo0eV9KdExJd3FGQTdPWXY0U3drQQ?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Austin Cindric through the years NASCAR.com",
+      "published_utc": "2026-11-25T08:00:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WYmdSdnpEQk5GWFF0QmdRY1hmNlNBTWVRTXI0QjByeC0zcE1aaUxnMEpJbHNHSU45ckZ6ZFd0bmRNWWtkOWJDRTFKeTd5UENkSmxoeWJGSHg3Rm1MWmo0eV9KdExJd3FGQTdPWXY0U3drQQ?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:00:00+00:00",
+          "title": "Austin Cindric through the years - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "4cbb567b3d9f2b6256eec750",
+      "topic": "NASCAR",
+      "title": "Chandler Smith - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aVU9UdnowUE5za3g2LXQxVjB4N1BiOXQtaUVCLXVjWjRvb0ZWRDI4QWdMRVhpS19jWkh1ektDbWJYTWlnenVhcTBpTUlOSEw1NkRpcmhSYjJBZw?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Chandler Smith NASCAR.com",
+      "published_utc": "2026-11-24T21:30:40+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aVU9UdnowUE5za3g2LXQxVjB4N1BiOXQtaUVCLXVjWjRvb0ZWRDI4QWdMRVhpS19jWkh1ektDbWJYTWlnenVhcTBpTUlOSEw1NkRpcmhSYjJBZw?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T21:30:40+00:00",
+          "title": "Chandler Smith - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "86711633c9faf755619c80f8",
+      "topic": "NASCAR",
+      "title": "Cameron Richardson Archives - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHSFBhOTBjRVAxVU10c2tvREcxYTRGU0tudVhUNFVYczlUSlhURlIwY2lmYlpzOXZUWmt6ajlKVXpyRGYwdXhpNmJybTl3bHZmcnoxYzByNHVVdUJ3bXN5eTRmdDczdGhzNHpPWDJsaw?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Cameron Richardson Archives NASCAR.com",
+      "published_utc": "2026-11-24T22:07:21+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHSFBhOTBjRVAxVU10c2tvREcxYTRGU0tudVhUNFVYczlUSlhURlIwY2lmYlpzOXZUWmt6ajlKVXpyRGYwdXhpNmJybTl3bHZmcnoxYzByNHVVdUJ3bXN5eTRmdDczdGhzNHpPWDJsaw?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T22:07:21+00:00",
+          "title": "Cameron Richardson Archives - NASCAR.com"
         }
       ]
     },

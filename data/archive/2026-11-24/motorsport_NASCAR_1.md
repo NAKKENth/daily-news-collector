@@ -1,7 +1,6 @@
-# NASCAR / 2026-11-24 / 候補 1–25
+# NASCAR / 2026-11-24 / 候補 1–24
 
 - [All about NASCAR’s Next Gen car - RACER - Racing News](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbGhIUGRSWFhEZnpCQ3lOU0RsOGo3Yi1NdTg3RDZRR2Q2b0UtU3hRYU5XT3B2RU5ialRTaGoyOVgyaDJGcl9FdEwyUEd4SE9ZZm9PNWhnZDc3bVJVNE83Wm9xemNyQ3lSZFRDUVdkUFA3RXZLWWdTWWJ3QWl2Q1lEUldxSG8xMWdP?oc=5) — RACER｜要確認｜2026-11-23T22:33:38+00:00 UTC｜discovery_index
-- [Austin Cindric through the years - NASCAR.com](https://news.google.com/rss/articles/CBMickFVX3lxTE1WYmdSdnpEQk5GWFF0QmdRY1hmNlNBTWVRTXI0QjByeC0zcE1aaUxnMEpJbHNHSU45ckZ6ZFd0bmRNWWtkOWJDRTFKeTd5UENkSmxoeWJGSHg3Rm1MWmo0eV9KdExJd3FGQTdPWXY0U3drQQ?oc=5) — NASCAR Official｜要確認｜2026-11-23T15:13:56+00:00 UTC｜discovery_index
 - [Bubba Wallace 2026 season in review - NASCAR.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdEItb0VjbUdpZEZJUUJvRUF6bTZfWC1lWnpydnp0cnhjbU1PRk9oSW5nWmRrbUVWdFJwTGJQbkVqU2x5eFBJOURtR3RfZFVSRUU4R0lhS1FfTlctTWhqWXdCNHdwRko0MVBSLVNZUDlJUm1YdnROeEVoS0ZDcDJoWFFQd3R6Q2Zs?oc=5) — NASCAR Official｜要確認｜2026-11-24T14:06:03+00:00 UTC｜discovery_index
 - [Bubba Wallace through the years - NASCAR.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE83RmFzU1RCVTVvWEt4cmg2OWxZWjlPZzRJOXVocDR3eWZrN21OMUw0X2dpWk9nT0sxeC12S1RkWmVtN1BtMFRCT1RxNVBwUUlVbU5HQXZacjY2Q2FOMFlwMFp4eFJ4MTdsSkRKa1BLUVc?oc=5) — NASCAR Official｜要確認｜2026-11-24T08:00:00+00:00 UTC｜discovery_index
 - [Chase Elliott Archives - NASCAR.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE4xSHhaVUNCMHl3ZmtXaUtJUWdpNWxZUGJrM0xpdVZVemtMZVQ3Z2NqNjY4WkFtTDlFZlNPT1pCdE1sdHVXVDJoMlJhU0UyTzdOcGJzZDJNX29zVDVPZzBnNDZFVndCWXVYOWlpMEVKOFJSMDQ?oc=5) — NASCAR Official｜要確認｜2026-11-24T00:06:41+00:00 UTC｜discovery_index

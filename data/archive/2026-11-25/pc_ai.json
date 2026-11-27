@@ -2590,6 +2590,58 @@
       "enrichment": "article_metadata"
     },
     {
+      "id": "dc914a105aa13a646a556133",
+      "topic": "ai",
+      "title": "ChatGPT for Academic Researchers | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVUpRbVFTYzdEaUx0dDdXZGF0Ry1lMnF0U0dXQlRObGlOV3k2emx2THM1MVJ2anZjN1pxZF9sai1vOTRqS3FHeXd3TW55NldOaHlVZ21UUWpSNzN2RlRHNEI3SXJvNTBWeF9jX2hXQmlxV0UzcjlGUFZTZW9ybTUyazFwbw?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "ChatGPT for Academic Researchers | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-25T13:32:56+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVUpRbVFTYzdEaUx0dDdXZGF0Ry1lMnF0U0dXQlRObGlOV3k2emx2THM1MVJ2anZjN1pxZF9sai1vOTRqS3FHeXd3TW55NldOaHlVZ21UUWpSNzN2RlRHNEI3SXJvNTBWeF9jX2hXQmlxV0UzcjlGUFZTZW9ybTUyazFwbw?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T13:32:56+00:00",
+          "title": "ChatGPT for Academic Researchers | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "2510007fe4056fc812337296",
+      "topic": "ai",
+      "title": "ChatGPT Rate Card (Enterprise token-based pricing) | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa2VuWUJGUzYxeUxmWFMwQnNuaUZxb2draFQ5YUJOWWpEU19fNnJlRlE3RVZFQ1l4cDZ3Q05UeVhwTU9PcHItSnh5U0tsRWtISjBmY0xzeE1qbUdnd2dta1JlYXY0R05paklOT2hDUFlKU3dsRWd4cXg4OXRaVnlYOGxkTmxRS2hIMjFpLVNISkw1eUFOUkZhZg?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "ChatGPT Rate Card (Enterprise token-based pricing) | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-25T10:28:01+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa2VuWUJGUzYxeUxmWFMwQnNuaUZxb2draFQ5YUJOWWpEU19fNnJlRlE3RVZFQ1l4cDZ3Q05UeVhwTU9PcHItSnh5U0tsRWtISjBmY0xzeE1qbUdnd2dta1JlYXY0R05paklOT2hDUFlKU3dsRWd4cXg4OXRaVnlYOGxkTmxRS2hIMjFpLVNISkw1eUFOUkZhZg?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T10:28:01+00:00",
+          "title": "ChatGPT Rate Card (Enterprise token-based pricing) | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
       "id": "b158b17edd54d4954ad3cf63",
       "topic": "ai",
       "title": "Bidding strategies and how pricing works in ChatGPT Ads | OpenAI Help Center - OpenAI Help Center",
@@ -2664,6 +2716,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T14:45:45+00:00",
           "title": "Composer predictions in Codex | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "1b5e0407568a1686dcbf0050",
+      "topic": "ai",
+      "title": "Setting up your business on ChatGPT | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "Setting up your business on ChatGPT | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-25T13:24:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T13:24:00+00:00",
+          "title": "Setting up your business on ChatGPT | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -10280,32 +10358,6 @@
       ]
     },
     {
-      "id": "cb1a998b169f5a15f88b6325",
-      "topic": "ai",
-      "title": "Launch Campaigns | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwQ1lmVmx3RGR4Q01OR0NMM1dpYmM4SWItNUUzei1RVXc5NEpVMHBLSml5cXkwTjR6X0lIclhiN0E1RGY3UHlwT2tOeFNJdTVCQ2ExWEdxWUs4bU9sUG1aTXE0TW5yTHdDYVZwM0hR?oc=5",
-      "source": "OpenAI",
-      "publisher": "OpenAI Help Center",
-      "description": "Launch Campaigns | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T00:38:33+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "priority",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwQ1lmVmx3RGR4Q01OR0NMM1dpYmM4SWItNUUzei1RVXc5NEpVMHBLSml5cXkwTjR6X0lIclhiN0E1RGY3UHlwT2tOeFNJdTVCQ2ExWEdxWUs4bU9sUG1aTXE0TW5yTHdDYVZwM0hR?oc=5",
-          "source": "OpenAI",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T00:38:33+00:00",
-          "title": "Launch Campaigns | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
       "id": "4ab49e43e54e75a0a0223d5c",
       "topic": "ai",
       "title": "OpenAI Platform admin keys - OpenAI Platform",
@@ -16986,6 +17038,32 @@
       ]
     },
     {
+      "id": "e83382ca55d834a205dbab3f",
+      "topic": "ai",
+      "title": "Using the built-in browser in the ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSi1uRW9kMTdsUWlHZlZzRS15b3VMYXVtSDRSVi0wSFFSLWp6aUlXRUNqNkU2NldTOHkxRlFmTWlZRVlRcUIzNEZOU1I3WXhrQmVVV1dxbDIxWFJhZERXSGNTSjFXdDhXcm1jbTBzY0JsNEw3Zkd4MzhLOVhFVUZXMjA2VGRrNGFnXzlPQjlEYmNZZHYwOGpFQThUVXpQQkE?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "Using the built-in browser in the ChatGPT desktop app | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-25T13:32:56+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSi1uRW9kMTdsUWlHZlZzRS15b3VMYXVtSDRSVi0wSFFSLWp6aUlXRUNqNkU2NldTOHkxRlFmTWlZRVlRcUIzNEZOU1I3WXhrQmVVV1dxbDIxWFJhZERXSGNTSjFXdDhXcm1jbTBzY0JsNEw3Zkd4MzhLOVhFVUZXMjA2VGRrNGFnXzlPQjlEYmNZZHYwOGpFQThUVXpQQkE?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T13:32:56+00:00",
+          "title": "Using the built-in browser in the ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
       "id": "5ee1b88616cf536462c33465",
       "topic": "ai",
       "title": "US core capital goods orders beat expectations in October - Reuters",
@@ -17791,6 +17869,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T08:26:02+00:00",
           "title": "Industrial Edge AI with Intel® Core™ Ultra Series 3 - Intel® Industry Solution Builders"
+        }
+      ]
+    },
+    {
+      "id": "da0dcf6ffcd2307474e01f94",
+      "topic": "ai",
+      "title": "Creating and editing GPTs | OpenAI Help Center - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UVUNQaUd0M0k2X2tqZWVFaHIxTFJ0cTVBc0NabG9OTWo3WHc3U3Y0X0UzNXdrbk9qUVRSci1mc3U2Slp4aUE3YTdwc1U4YTY0Y001QXd5ZWNGSzdXU2FtZDhhRnRlOGJqbklrN2RFMHJGSlpLZzJ1aQ?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI",
+      "description": "Creating and editing GPTs | OpenAI Help Center OpenAI",
+      "published_utc": "2026-11-25T01:07:26+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UVUNQaUd0M0k2X2tqZWVFaHIxTFJ0cTVBc0NabG9OTWo3WHc3U3Y0X0UzNXdrbk9qUVRSci1mc3U2Slp4aUE3YTdwc1U4YTY0Y001QXd5ZWNGSzdXU2FtZDhhRnRlOGJqbklrN2RFMHJGSlpLZzJ1aQ?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T01:07:26+00:00",
+          "title": "Creating and editing GPTs | OpenAI Help Center - OpenAI"
         }
       ]
     }

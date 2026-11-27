@@ -1,4 +1,4 @@
-# portable_dac / 2026-11-26 / 候補 1–15
+# portable_dac / 2026-11-26 / 候補 1–16
 
 - [Moeetech、小型USB DAC「OPERA／OPERA S」。回路間のノイズ対策徹底で音質向上図る](https://www.phileweb.com/news/d-av/202611/26/66463.html) — PHILE WEB｜優先｜2026-11-26T03:06:21+00:00 UTC｜article_metadata
 - [AES XLR output Card for PC to DAC - Audio Science Review (ASR) Forum](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRndMV0VzWEZncG9HV3JDZ3UwMm9ZcHFSR2ZDN3NjTmU1NVVhXzltTzVmNGJuVjJnbEl3REVCOHRycGplZlBzRFBBYlFSeHktYmlRWUVTZjFEMkg1RlZKVGcxb29oY0lRZ3U4bVVxQkdYeVFrSEdCS3A5TE9DTWV4NVVZTF9yWDlfLUZPa29MUzlUMVZiUDM2bWs0Z3FIYzJW?oc=5) — Audio Science Review｜優先｜2026-11-25T17:56:44+00:00 UTC｜discovery_index
@@ -15,3 +15,4 @@
 - [Roast my system for ASR worthiness - Audio Science Review (ASR) Forum](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcjhtUEl6NWhDNFVRRHRHY1FfNDMwNkduSUo1bF80dTRpeDdaVkpyMzdyLVd1VXlZeVhtN1QtdzB6eXo1NThXSWVMd195RDlwNWE1THBKYmZvUHZBSmUxZGd6ZTdneHBsTWtnaWduUTVUU3Nyel9FakxpS3FuVzltdlh1YWtKYS0zUlRYQlFEbEF2N3NDeDV3LU9lU1d5OGREZ3c?oc=5) — Audio Science Review｜要確認｜2026-11-26T11:40:46+00:00 UTC｜discovery_index
 - [Weiss DAC 205 with SBooster Power Supply - Head-Fi.org](https://news.google.com/rss/articles/CBMijAFBVV95cUxPY1NndTRCMTJSZ0tFUG00Q1RQcjZtSC1sNTZxb2QyQmxiekNqWXFtUzNMalJvUHR0d1htVWp2RXFBVExneGpKeGdfaGZ6T0J4bUdHYW1OV0w5azBITENtVWFNV3g3eExFXzRpbUM5LTdiR2VKNkhVckNJOXNhMnhReUl6dFlzV0g3OGx2cw?oc=5) — Head-Fi｜要確認｜2026-11-25T15:27:45+00:00 UTC｜discovery_index
 - [iLoud Micro Monitor 2 Review - Audio Science Review (ASR) Forum](https://news.google.com/rss/articles/CBMimgFBVV95cUxObS1lX2FaQTEzRlpSUHh2YTFuNW40VFhCT2ZSWmd3b2ZseTg2UlQzREhDNFhVV3BVTHI1UnF0V045cWdsRkJLdV9McE9WUE1neF9idXF4RzZ0U2tNdmtPTWhkZW8wWTBTNjdoWDdRZHF5S003NW9KZDM2UnZfdUN4cnVjdzljVVpSLTdqMTFUZU1OQ1BUTHBSS1hn?oc=5) — Audio Science Review｜要確認｜2026-11-26T04:31:18+00:00 UTC｜discovery_index
+- [Epitome - iBasso Audio](https://ibasso.com/product/epitome) — iBasso｜要確認｜日時不明 UTC｜unknown
