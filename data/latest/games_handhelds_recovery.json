@@ -1,6 +1,6 @@
 {
   "group": "games_handhelds",
-  "target_date_jst": "2026-11-26",
+  "target_date_jst": "2026-11-27",
   "status": "late_candidates_not_delivery_log",
   "items": [
     {
@@ -5566,7 +5566,7 @@
       "timestamp_basis": "github_release_published",
       "link_role": "original",
       "first_seen_utc": "2026-11-25T12:01:27+00:00",
-      "last_seen_utc": "2026-11-27T13:34:47+00:00",
+      "last_seen_utc": "2026-11-27T19:15:16+00:00",
       "prerelease": false,
       "group": "games_handhelds",
       "date_quality": "github_event",
@@ -5600,7 +5600,7 @@
       "timestamp_basis": "github_release_published",
       "link_role": "original",
       "first_seen_utc": "2026-11-25T12:01:27+00:00",
-      "last_seen_utc": "2026-11-27T13:34:47+00:00",
+      "last_seen_utc": "2026-11-27T19:15:16+00:00",
       "prerelease": false,
       "group": "games_handhelds",
       "date_quality": "github_event",
@@ -5668,7 +5668,7 @@
       "timestamp_basis": "github_release_published",
       "link_role": "original",
       "first_seen_utc": "2026-11-25T12:01:27+00:00",
-      "last_seen_utc": "2026-11-27T13:34:47+00:00",
+      "last_seen_utc": "2026-11-27T19:15:16+00:00",
       "prerelease": false,
       "group": "games_handhelds",
       "date_quality": "github_event",

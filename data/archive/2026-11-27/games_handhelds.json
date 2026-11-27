@@ -1,0 +1,1072 @@
+{
+  "schema_version": 2,
+  "date_jst": "2026-11-27",
+  "group": "games_handhelds",
+  "title": "ゲーム・ハンドヘルド",
+  "status": "candidate_collection_only",
+  "items": [
+    {
+      "id": "355ed37cb3ba0a41c4040ae6",
+      "topic": "racing_games",
+      "title": "Opinion: Why Grand Theft Auto VI does car lovers justice",
+      "url": "https://traxion.gg/opinion-why-grand-theft-auto-vi-does-car-lovers-justice",
+      "source": "Traxion",
+      "publisher": "Traxion",
+      "description": "We take a look at why Grand Theft Auto VI is catnip for car enthusiasts. The post Opinion: Why Grand Theft Auto VI does car lovers justice appeared first on Traxion.GG .",
+      "published_utc": "2026-11-26T17:57:13+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://traxion.gg/opinion-why-grand-theft-auto-vi-does-car-lovers-justice",
+          "source": "Traxion",
+          "publisher": "Traxion",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T17:57:13+00:00",
+          "title": "Opinion: Why Grand Theft Auto VI does car lovers justice"
+        }
+      ]
+    },
+    {
+      "id": "96a5b35421a43beeb3a2e210",
+      "topic": "handhelds",
+      "title": "Anbernic RG 47G1: 4:3-Retro-Handheld mit 120 Hz und Snapdra­gon G1 Gen 2",
+      "url": "https://www.computerbase.de/news/gaming/anbernic-rg-47g1-4-3-retro-handheld-mit-120-hz-und-snapdragon-g1-gen-2.100543",
+      "source": "ComputerBase",
+      "publisher": "ComputerBase",
+      "description": "Mit dem RG 47G1 kündigt Anbernic ein neues Android-Handheld im Hochformat an, zu dessen Ausstattung ein 4,7 Zoll großes 4:3-Display mit 120 Hz, ein Qualcomm Snapdragon G1 samt aktiver Kühlung und zwei Analogsticks gehören. Bei der Farbwahl nimmt der Hersteller Anleihen bei klassischen Nintendo-Konsolen.",
+      "published_utc": "2026-11-26T15:17:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "ハンドヘルド候補",
+      "sources": [
+        {
+          "url": "https://www.computerbase.de/news/gaming/anbernic-rg-47g1-4-3-retro-handheld-mit-120-hz-und-snapdragon-g1-gen-2.100543",
+          "source": "ComputerBase",
+          "publisher": "ComputerBase",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T15:17:00+00:00",
+          "title": "Anbernic RG 47G1: 4:3-Retro-Handheld mit 120 Hz und Snapdra­gon G1 Gen 2"
+        }
+      ]
+    },
+    {
+      "id": "4a6d673753ecb5b242c4b179",
+      "topic": "handhelds",
+      "title": "Anbernic RG 47G1 Looks Like a Snapdragon Successor to the RG477V",
+      "url": "https://retrohandhelds.gg/anbernic-rg-47g1-looks-like-a-snapdragon-successor-to-the-rg477v",
+      "source": "Retro Handhelds",
+      "publisher": "Retro Handhelds",
+      "description": "Anbernic’s RG 47G1 has been revealed with Snapdragon G1 Gen 2 power, a 4.7-inch 120Hz display, and new Pika Yellow and Retro Purple finishes.",
+      "published_utc": "2026-11-26T15:18:06+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "ハンドヘルド候補",
+      "sources": [
+        {
+          "url": "https://retrohandhelds.gg/anbernic-rg-47g1-looks-like-a-snapdragon-successor-to-the-rg477v",
+          "source": "Retro Handhelds",
+          "publisher": "Retro Handhelds",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T15:18:06+00:00",
+          "title": "Anbernic RG 47G1 Looks Like a Snapdragon Successor to the RG477V"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T10:18:06-05:00",
+      "article_modified_raw": "2026-11-26T10:18:09-05:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "e91056d5d8cd5c5b2137b339",
+      "topic": "handhelds",
+      "title": "Pokémon Helix Is A Sequel To GameCube Games Pokémon XD and Colosseum",
+      "url": "https://retrododo.com/pokemon-helix-is-a-sequel-to-gamecube-games-pokemon-xd-and-colosseum",
+      "source": "Retro Dodo",
+      "publisher": "Retro Dodo",
+      "description": "🤝Like our website? Support us as an independent publisher by tipping, joining our paid community or checking out our accessories brand GAMENOOK! The retro gaming scene is determined to avoid the future of the Pokémon series by reworking old games, creating new ROM hacks, and making fangame sequels to titles that we loved on old systems. It's 2026, ",
+      "published_utc": "2026-11-26T15:45:53+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://retrododo.com/pokemon-helix-is-a-sequel-to-gamecube-games-pokemon-xd-and-colosseum",
+          "source": "Retro Dodo",
+          "publisher": "Retro Dodo",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T15:45:53+00:00",
+          "title": "Pokémon Helix Is A Sequel To GameCube Games Pokémon XD and Colosseum"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T15:45:53.000Z",
+      "article_modified_raw": "2026-11-26T15:45:53.000Z",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "dd69d5f4f7b7a0421865b818",
+      "topic": "handhelds",
+      "title": "A New NDS Emulator Is Here On The Google Play Store From The Makers Of Pizza Boy",
+      "url": "https://retrododo.com/a-new-nds-emulator-is-here-on-the-google-play-store-from-the-makers-of-pizza-boy",
+      "source": "Retro Dodo",
+      "publisher": "Retro Dodo",
+      "description": "🤝Don't want to see ads? Become a premium member for $3 a month and support an independent publication today! One of the most popular GAME BOY Advance emulators on the Google Play Store is Pizza Boy; it has been downloaded over 1,000,000 times and continues to be the go-to for newcomers in the scene thanks to its ease of use. It's not the best in my",
+      "published_utc": "2026-11-26T15:12:55+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://retrododo.com/a-new-nds-emulator-is-here-on-the-google-play-store-from-the-makers-of-pizza-boy",
+          "source": "Retro Dodo",
+          "publisher": "Retro Dodo",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T15:12:55+00:00",
+          "title": "A New NDS Emulator Is Here On The Google Play Store From The Makers Of Pizza Boy"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T15:12:55.000Z",
+      "article_modified_raw": "2026-11-26T15:13:54.000Z",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "6381479941c2f9343e562bec",
+      "topic": "handhelds",
+      "title": "Pokémon Hearth and Thorn Brings Branched Stories, 30 Hours Of Content, & 600 Pokémon",
+      "url": "https://retrododo.com/pokemon-hearth-and-thorn-brings-branched-stories-30-hours-of-content-600-pokemon",
+      "source": "Retro Dodo",
+      "publisher": "Retro Dodo",
+      "description": "🤝Like our website? Support us as an independent publisher by tipping, joining our paid community or checking out our accessories brand GAMENOOK! Imagine having a Pokémon game where the story branches off in a different direction depending on whether you win or lose a major battle. It's like in Star Fox 64 when you travel to different planets depend",
+      "published_utc": "2026-11-26T15:00:01+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://retrododo.com/pokemon-hearth-and-thorn-brings-branched-stories-30-hours-of-content-600-pokemon",
+          "source": "Retro Dodo",
+          "publisher": "Retro Dodo",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-26T15:00:01+00:00",
+          "title": "Pokémon Hearth and Thorn Brings Branched Stories, 30 Hours Of Content, & 600 Pokémon"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T15:00:01.000Z",
+      "article_modified_raw": "2026-11-26T15:00:01.000Z",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "bcf2d6df3f1ea61f5335db1f",
+      "topic": "racing_games",
+      "title": "Why Scan is your next sim racing store",
+      "url": "https://traxion.gg/why-scan-is-your-next-sim-racing-store",
+      "source": "Traxion",
+      "publisher": "Traxion",
+      "description": "Sponsored Content: When it comes to sim racing equipment, Scan UK can offer not only a wide range of products from trusted brands, but also comprehensive customer support, a showroom and a bespoke home setup service. The post Why Scan is your next sim racing store appeared first on Traxion.GG .",
+      "published_utc": "2026-11-26T17:52:02+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://traxion.gg/why-scan-is-your-next-sim-racing-store",
+          "source": "Traxion",
+          "publisher": "Traxion",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T17:52:02+00:00",
+          "title": "Why Scan is your next sim racing store"
+        }
+      ]
+    },
+    {
+      "id": "7b8014b0da1ea9f30fb7a237",
+      "topic": "racing_games",
+      "title": "How to complete the Series 7 Week 4 ‘Tokyo City Region’ Treasure Hunt in Forza Horizon 6",
+      "url": "https://traxion.gg/how-to-complete-the-series-7-week-4-tokyo-city-region-treasure-hunt-in-forza-horizon-6",
+      "source": "Traxion",
+      "publisher": "Traxion",
+      "description": "Follow our trusty guide to help you complete the ‘Tokyo City Region’ Treasure Hunt in Forza Horizon 6, featured in the Series 7 Week 4 Festival Playlist. The post How to complete the Series 7 Week 4 ‘Tokyo City Region’ Treasure Hunt in Forza Horizon 6 appeared first on Traxion.GG .",
+      "published_utc": "2026-11-26T17:47:34+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://traxion.gg/how-to-complete-the-series-7-week-4-tokyo-city-region-treasure-hunt-in-forza-horizon-6",
+          "source": "Traxion",
+          "publisher": "Traxion",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T17:47:34+00:00",
+          "title": "How to complete the Series 7 Week 4 ‘Tokyo City Region’ Treasure Hunt in Forza Horizon 6"
+        }
+      ]
+    },
+    {
+      "id": "b7707abbaa4bd114a9f66c8a",
+      "topic": "racing_games",
+      "title": "Forza Horizon 6 dev admits \"there's room for improvement\" amid frustration over custom car design bans - Steam",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMm5sa3ZyXzBMRFdfa2FpWU1ERGducEE0VHM4S2dSYlFGRnJyZGFnNXNVVjlEVWlBajhUZXVCeEZwVUVWU0diRjRtS1h1U0x5dlI3cVFpWlJsdy1PNXdhRDBmVzYtVUY5ZDdLMElsM2ZieTNsUDR5OU1WQ0tSSEtRQnV6dVd5di1HaXR1cm1n?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Forza Horizon 6 dev admits \"there's room for improvement\" amid frustration over custom car design bans Steam",
+      "published_utc": "2026-11-26T15:44:27+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "レースゲーム候補",
+      "possible_event_id": "75fc138e3ac3",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMm5sa3ZyXzBMRFdfa2FpWU1ERGducEE0VHM4S2dSYlFGRnJyZGFnNXNVVjlEVWlBajhUZXVCeEZwVUVWU0diRjRtS1h1U0x5dlI3cVFpWlJsdy1PNXdhRDBmVzYtVUY5ZDdLMElsM2ZieTNsUDR5OU1WQ0tSSEtRQnV6dVd5di1HaXR1cm1n?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T15:44:27+00:00",
+          "title": "Forza Horizon 6 dev admits \"there's room for improvement\" amid frustration over custom car design bans - Steam"
+        }
+      ]
+    },
+    {
+      "id": "27229ad58e1e7cebb403bade",
+      "topic": "racing_games",
+      "title": "Forza Horizon 6 dev admits \"there's room for improvement\" amid frustration over custom car design bans - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUXJZOU5rVEVhbWYwdlFMeXNpQ0JhWVRHSEVqdkNMeU5NYzhVbGdPcXgybUhKMl9KLW95aHI0OUJOVUZ5dGRKQlc2SnBDbmt5UzNkU1JXZy1kV1N6UHhwWXJWXzhxejlFRWFuN1A1SlpQVDJjbjM0NEJILWFMOTJQd0x1RTQ5cmFQclh3?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Forza Horizon 6 dev admits \"there's room for improvement\" amid frustration over custom car design bans Steam",
+      "published_utc": "2026-11-26T15:44:27+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "レースゲーム候補",
+      "possible_event_id": "75fc138e3ac3",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUXJZOU5rVEVhbWYwdlFMeXNpQ0JhWVRHSEVqdkNMeU5NYzhVbGdPcXgybUhKMl9KLW95aHI0OUJOVUZ5dGRKQlc2SnBDbmt5UzNkU1JXZy1kV1N6UHhwWXJWXzhxejlFRWFuN1A1SlpQVDJjbjM0NEJILWFMOTJQd0x1RTQ5cmFQclh3?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T15:44:27+00:00",
+          "title": "Forza Horizon 6 dev admits \"there's room for improvement\" amid frustration over custom car design bans - Steam"
+        }
+      ]
+    },
+    {
+      "id": "ed3dc3c92af3828f23457fc0",
+      "topic": "racing_games",
+      "title": "Forza Horizon 6 dev admits \"there's room for improvement\" amid frustration over custom car design bans - Steam",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YVVFrbVhINGUyZXBBQUJRZWg1SFp3RzFZbTEtTFN3VmR3SkJEREV3Uzg1M25pblVUT2pkSHVzU2t0Ui1aMU5fUnJ4UmV5blI1bktoNUpYNUZDV1RFNDlscDNRQmo2WDNCcXZSSVRIQUZyUmFvTF9JbThjRjNyUQ?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Forza Horizon 6 dev admits \"there's room for improvement\" amid frustration over custom car design bans Steam",
+      "published_utc": "2026-11-26T15:07:47+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "レースゲーム候補",
+      "possible_event_id": "75fc138e3ac3",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YVVFrbVhINGUyZXBBQUJRZWg1SFp3RzFZbTEtTFN3VmR3SkJEREV3Uzg1M25pblVUT2pkSHVzU2t0Ui1aMU5fUnJ4UmV5blI1bktoNUpYNUZDV1RFNDlscDNRQmo2WDNCcXZSSVRIQUZyUmFvTF9JbThjRjNyUQ?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T15:07:47+00:00",
+          "title": "Forza Horizon 6 dev admits \"there's room for improvement\" amid frustration over custom car design bans - Steam"
+        }
+      ]
+    },
+    {
+      "id": "0f1e2432811ad3e8b7d814d3",
+      "topic": "racing_games",
+      "title": "Forza Horizon 6 dev admits \"there's room for improvement\" amid frustration over custom car design bans - Steam",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ0d6ZVdrYl92LXRyZS1qeE5SMnVvNnI4UkMtTVp3WWhYNXluaXBvQU16dllRcVZvSk9zMnp4eGtRWkJPTU0yVmE4d1NmYUlrZWtXN3FfdXN0dWJReHlYR2ZwVmd2cXc2ZXBTN1g4OVh0OW8yaXBMUUJ5b0RvYzVab1E4X0xsSTRQaldxUkZn?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Forza Horizon 6 dev admits \"there's room for improvement\" amid frustration over custom car design bans Steam",
+      "published_utc": "2026-11-26T15:44:27+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "レースゲーム候補",
+      "possible_event_id": "75fc138e3ac3",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ0d6ZVdrYl92LXRyZS1qeE5SMnVvNnI4UkMtTVp3WWhYNXluaXBvQU16dllRcVZvSk9zMnp4eGtRWkJPTU0yVmE4d1NmYUlrZWtXN3FfdXN0dWJReHlYR2ZwVmd2cXc2ZXBTN1g4OVh0OW8yaXBMUUJ5b0RvYzVab1E4X0xsSTRQaldxUkZn?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T15:44:27+00:00",
+          "title": "Forza Horizon 6 dev admits \"there's room for improvement\" amid frustration over custom car design bans - Steam"
+        }
+      ]
+    },
+    {
+      "id": "4b44b95825ca8d9f7f68cf0a",
+      "topic": "racing_games",
+      "title": "Forza Horizon 6 dev admits \"there's room for improvement\" amid frustration over custom car design bans - Steam",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWXh6WlVZY0RoZ1FkWGJ0SFRvTTRxS1R2a1o3RGNmajZMUmRCdUJDaTFqSlpSRlMwMWZ3MFBQNXZGR2I2ZFRoQjFSaGhEZXJOeWNhT0RaNVJGZUQxcjFZSXZrU1F4VXZLYVFTYnpFQkVxX2Vxamgzd05VV19XV0RQNlFhdmhzNTQ?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Forza Horizon 6 dev admits \"there's room for improvement\" amid frustration over custom car design bans Steam",
+      "published_utc": "2026-11-26T15:41:08+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "レースゲーム候補",
+      "possible_event_id": "75fc138e3ac3",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWXh6WlVZY0RoZ1FkWGJ0SFRvTTRxS1R2a1o3RGNmajZMUmRCdUJDaTFqSlpSRlMwMWZ3MFBQNXZGR2I2ZFRoQjFSaGhEZXJOeWNhT0RaNVJGZUQxcjFZSXZrU1F4VXZLYVFTYnpFQkVxX2Vxamgzd05VV19XV0RQNlFhdmhzNTQ?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T15:41:08+00:00",
+          "title": "Forza Horizon 6 dev admits \"there's room for improvement\" amid frustration over custom car design bans - Steam"
+        }
+      ]
+    },
+    {
+      "id": "c178c16523669324de40b475",
+      "topic": "racing_games",
+      "title": "Forza Horizon 6 dev admits \"there's room for improvement\" amid frustration over custom car design bans - Steam",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSmJXMjlJSVBMcWpPWDBMc2Y0NHpFVzZPUjctUm55bk1LNWR6eUI5MzAtelphaks1NjVhemp5WUVqT284TzlkSWROUkRlM3VUYXg5VVppd1h4YWdwNnFzVGMyM04xR2kyblVTWGxxVTc3NG85Qzhjd1JVVWJzZUVuWWw0bU9MOHE5VTcwWnk4MA?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Forza Horizon 6 dev admits \"there's room for improvement\" amid frustration over custom car design bans Steam",
+      "published_utc": "2026-11-26T15:41:08+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "レースゲーム候補",
+      "possible_event_id": "75fc138e3ac3",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSmJXMjlJSVBMcWpPWDBMc2Y0NHpFVzZPUjctUm55bk1LNWR6eUI5MzAtelphaks1NjVhemp5WUVqT284TzlkSWROUkRlM3VUYXg5VVppd1h4YWdwNnFzVGMyM04xR2kyblVTWGxxVTc3NG85Qzhjd1JVVWJzZUVuWWw0bU9MOHE5VTcwWnk4MA?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T15:41:08+00:00",
+          "title": "Forza Horizon 6 dev admits \"there's room for improvement\" amid frustration over custom car design bans - Steam"
+        }
+      ]
+    },
+    {
+      "id": "5b398d70732ede574352a14e",
+      "topic": "racing_games",
+      "title": "Sponsored - RaceData.AI Test: Finding Time With Telemetry Analysis - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcW5pMVdSdEN1VUZrOVBIa3FmS3NOYlVLdFl6cHhtM1cxVnJIZlRJRnp0a0JMdE1RQ0U4TUZyUE1CeG1GR3Rrb3B3dHBZZGtqQWVsbm9vUmNFRlVUWTBJN05CRVdxTE14dEtqZTRadUUxV2pKcDROLVNLRnRhQk55b2VjRHFVUXJvUUZHS1QzX2NWX0pJY21ibw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Sponsored - RaceData.AI Test: Finding Time With Telemetry Analysis overtake.gg",
+      "published_utc": "2026-11-26T15:00:02+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcW5pMVdSdEN1VUZrOVBIa3FmS3NOYlVLdFl6cHhtM1cxVnJIZlRJRnp0a0JMdE1RQ0U4TUZyUE1CeG1GR3Rrb3B3dHBZZGtqQWVsbm9vUmNFRlVUWTBJN05CRVdxTE14dEtqZTRadUUxV2pKcDROLVNLRnRhQk55b2VjRHFVUXJvUUZHS1QzX2NWX0pJY21ibw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T15:00:02+00:00",
+          "title": "Sponsored - RaceData.AI Test: Finding Time With Telemetry Analysis - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "8b180b336923976be9acbae0",
+      "topic": "racing_games",
+      "title": "Doublezero Championship (Rookie friendly) Round 6 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOGJ5UDdoSmJrSHpYU1ZyNEVNYktNVjlzMVVMbTQxTVhHVXJ2X0NLcW1BaW1RZnZTZUVTNHVpTjBxZzV2b1RaRmhGcVpqYUVoWHZHcF9xY1V0Vm0zMFhqTFVkcGNvTkZaNmpwTHVHakFhTG4zRW4zOTlKMV96YVk4cU56SlBjd2k2aGM3N1c1TG0?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Doublezero Championship (Rookie friendly) Round 6 overtake.gg",
+      "published_utc": "2026-11-26T15:00:02+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOGJ5UDdoSmJrSHpYU1ZyNEVNYktNVjlzMVVMbTQxTVhHVXJ2X0NLcW1BaW1RZnZTZUVTNHVpTjBxZzV2b1RaRmhGcVpqYUVoWHZHcF9xY1V0Vm0zMFhqTFVkcGNvTkZaNmpwTHVHakFhTG4zRW4zOTlKMV96YVk4cU56SlBjd2k2aGM3N1c1TG0?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T15:00:02+00:00",
+          "title": "Doublezero Championship (Rookie friendly) Round 6 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "078a099ef8098e5d5c2d0183",
+      "topic": "racing_games",
+      "title": "1914 Peugeot L45 2026-11-26 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jTFNmQ2NyZXFfQ21HRjVhc1laYjY5WmtsMzNGWEtuTU9RZFlSeUFRNGRRamkwSFhoTnZPX2hsYkMwdktIdFhFdDRXMVp2MFFiUFpOWXhQYzhaS3FRbmVnTllPWHYtbWtJ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "1914 Peugeot L45 2026-11-26 overtake.gg",
+      "published_utc": "2026-11-26T15:15:39+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jTFNmQ2NyZXFfQ21HRjVhc1laYjY5WmtsMzNGWEtuTU9RZFlSeUFRNGRRamkwSFhoTnZPX2hsYkMwdktIdFhFdDRXMVp2MFFiUFpOWXhQYzhaS3FRbmVnTllPWHYtbWtJ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T15:15:39+00:00",
+          "title": "1914 Peugeot L45 2026-11-26 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "885acc985e706a6e349a10fd",
+      "topic": "racing_games",
+      "title": "AWE – APOCALYPSE WEATHER ENGINE​ - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaGZPQ1lvemZOQzBKdXBrTVowcFVmbmNDd0ZIbExSTFRmTkota0p2ejdXNFlZcThDLXhwdWtMWHhpeUd1aHRObUg0ZC02WWQ0N2dsUm9xa2JPZnhDczVTWFZCVnp4Qm5DWUFTZkl1bWxlSlg4MDNXN0RVTERCWEJQZU0wTUF3bHgwUnBmTHROWFh4TnpVekp0QkNQejh1OWxQaFFyVFZGUEJpZW9zRm1GWjNuR1hoWnBm?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "AWE – APOCALYPSE WEATHER ENGINE​ overtake.gg",
+      "published_utc": "2026-11-26T17:15:58+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaGZPQ1lvemZOQzBKdXBrTVowcFVmbmNDd0ZIbExSTFRmTkota0p2ejdXNFlZcThDLXhwdWtMWHhpeUd1aHRObUg0ZC02WWQ0N2dsUm9xa2JPZnhDczVTWFZCVnp4Qm5DWUFTZkl1bWxlSlg4MDNXN0RVTERCWEJQZU0wTUF3bHgwUnBmTHROWFh4TnpVekp0QkNQejh1OWxQaFFyVFZGUEJpZW9zRm1GWjNuR1hoWnBm?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T17:15:58+00:00",
+          "title": "AWE – APOCALYPSE WEATHER ENGINE​ - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "c72ca3dc39ce819853fd52e9",
+      "topic": "racing_games",
+      "title": "Gran Turismo 7 Weekly Challenges: Turkey-N-Dressing",
+      "url": "https://www.gtplanet.net/gran-turismo-7-weekly-challenges-turkey-n-dressing-20261126",
+      "source": "GTPlanet",
+      "publisher": "GTPlanet",
+      "description": "The Hyundai Ioniq 6 N headlines the Special Event for the third time since September, but Sugo is back and Le Mans pays 260,000cr for the win...",
+      "published_utc": "2026-11-26T20:00:09+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://www.gtplanet.net/gran-turismo-7-weekly-challenges-turkey-n-dressing-20261126",
+          "source": "GTPlanet",
+          "publisher": "GTPlanet",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T20:00:09+00:00",
+          "title": "Gran Turismo 7 Weekly Challenges: Turkey-N-Dressing"
+        }
+      ]
+    },
+    {
+      "id": "84c996895f633732bee66398",
+      "topic": "racing_games",
+      "title": "Gran Turismo 7 Online Time Trial: Thanksgiving Horse d’Oeuvres",
+      "url": "https://www.gtplanet.net/gran-turismo-7-online-time-trial-thanksgiving-horse-doeuvres-20261126",
+      "source": "GTPlanet",
+      "publisher": "GTPlanet",
+      "description": "A special Ferrari 296 GT3 time trial at Fuji lets you take on the Nations Cup qualifying combination ahead of the World Finals, while the Peugeot L750R heads to Yas Marina...",
+      "published_utc": "2026-11-26T21:33:41+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://www.gtplanet.net/gran-turismo-7-online-time-trial-thanksgiving-horse-doeuvres-20261126",
+          "source": "GTPlanet",
+          "publisher": "GTPlanet",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T21:33:41+00:00",
+          "title": "Gran Turismo 7 Online Time Trial: Thanksgiving Horse d’Oeuvres"
+        }
+      ]
+    },
+    {
+      "id": "9ef0dbb974004250ea226bbd",
+      "topic": "handhelds",
+      "title": "Slimetopia Demo - Steam",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FVk5aMHo5ZGJUM0c0bzJWV1ZVUDVlTDNrdHcyN1VBdmZXclgwb1R4ZVhwMThIaEpVanRZQno5eF9pZmI5Wnl2VGRBT1VjYnV5LTczZ3UwV0dBc1Z2MTZpMG05QTR4c05rOHlj?oc=5",
+      "source": "Valve Steam Deck",
+      "publisher": "Steam",
+      "description": "Slimetopia Demo Steam",
+      "published_utc": "2026-11-26T15:12:38+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FVk5aMHo5ZGJUM0c0bzJWV1ZVUDVlTDNrdHcyN1VBdmZXclgwb1R4ZVhwMThIaEpVanRZQno5eF9pZmI5Wnl2VGRBT1VjYnV5LTczZ3UwV0dBc1Z2MTZpMG05QTR4c05rOHlj?oc=5",
+          "source": "Valve Steam Deck",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T15:12:38+00:00",
+          "title": "Slimetopia Demo - Steam"
+        }
+      ]
+    },
+    {
+      "id": "d19bc7373587ad397ec28a6a",
+      "topic": "handhelds",
+      "title": "GammaOS component updates",
+      "url": "https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/modules",
+      "source": "GammaOS Next",
+      "publisher": "TheGammaSqueeze/GammaOSNext",
+      "description": "Packages a console installs from Settings > System Update > Update Components. They are not installed by hand: the console downloads the one it needs and checks its signature. - azahar-nano 1.0.1 (for GammaOS 1.5.0): the right eye is skipped again, Accurate Multiplication is off unless turned on, shader compiles use every core.",
+      "published_utc": "2026-11-27T01:26:29+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "github_release_published",
+      "link_role": "original",
+      "date_quality": "github_event",
+      "triage": "priority",
+      "triage_reason": "GitHub開発情報",
+      "sources": [
+        {
+          "url": "https://github.com/TheGammaSqueeze/GammaOSNext/releases/tag/modules",
+          "source": "GammaOS Next",
+          "publisher": "TheGammaSqueeze/GammaOSNext",
+          "timestamp_basis": "github_release_published",
+          "published_utc": "2026-11-27T01:26:29+00:00",
+          "title": "GammaOS component updates"
+        }
+      ],
+      "prerelease": true
+    },
+    {
+      "id": "3ac95b4c34f0bbb59770b7c3",
+      "topic": "racing_games",
+      "title": "Maya Ongezellig 1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mdkNnWWVVM3h2Y2htY0sybXRiT3QzZUxVa0ZDeTZNUC1jUW00M2RYbXZQRmIwdW8tSzJWS0ExaHk5T2ktQ0l6TGs0N2NfQzRxMDIwQzFIbHRKZ3c5ejZoWUNQUUtjN0EzTFhOOVg1dU0?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Maya Ongezellig 1 overtake.gg",
+      "published_utc": "2026-11-27T00:35:14+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mdkNnWWVVM3h2Y2htY0sybXRiT3QzZUxVa0ZDeTZNUC1jUW00M2RYbXZQRmIwdW8tSzJWS0ExaHk5T2ktQ0l6TGs0N2NfQzRxMDIwQzFIbHRKZ3c5ejZoWUNQUUtjN0EzTFhOOVg1dU0?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T00:35:14+00:00",
+          "title": "Maya Ongezellig 1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "89da4455e3e043aec395d840",
+      "topic": "racing_games",
+      "title": "180+ Custom MyTeam logos 1pointfive - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PeDFyMFFsODB4cmxUU3oweFd5VmFtQlVnbkhuTVAwYWRFRXFzT3dlMTUzZzJqX0UzMGdYaFVGeTBPWUIzSGdPWDd5c2xZcTczNy1XaG9IYkFnT0s0eWM2bTNtU2dEbzdleWlWZmxibzFuZw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "180+ Custom MyTeam logos 1pointfive overtake.gg",
+      "published_utc": "2026-11-26T16:56:44+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PeDFyMFFsODB4cmxUU3oweFd5VmFtQlVnbkhuTVAwYWRFRXFzT3dlMTUzZzJqX0UzMGdYaFVGeTBPWUIzSGdPWDd5c2xZcTczNy1XaG9IYkFnT0s0eWM2bTNtU2dEbzdleWlWZmxibzFuZw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T16:56:44+00:00",
+          "title": "180+ Custom MyTeam logos 1pointfive - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "11b31582e45262d91ba00d97",
+      "topic": "racing_games",
+      "title": "Custom RBR Purple Helmet 1.0.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RaGU3alo3MUU3TWZEc25FUk1sRlhwbkktTk5kSkVoTHhtOFVLb05FcWRYVUVsbFFEMVhrMm45VUFkcUhkU2JZX1FndDhPbWtGTTV5LVE4RDc4bGdPUDQ3OXZUbTFNdUN0WkxOMnRob2EyQWc?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Custom RBR Purple Helmet 1.0.0 overtake.gg",
+      "published_utc": "2026-11-26T20:06:56+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RaGU3alo3MUU3TWZEc25FUk1sRlhwbkktTk5kSkVoTHhtOFVLb05FcWRYVUVsbFFEMVhrMm45VUFkcUhkU2JZX1FndDhPbWtGTTV5LVE4RDc4bGdPUDQ3OXZUbTFNdUN0WkxOMnRob2EyQWc?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T20:06:56+00:00",
+          "title": "Custom RBR Purple Helmet 1.0.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "4f1a2a8465d7546b85dcadcc",
+      "topic": "racing_games",
+      "title": "The FIRM 2026 (EKWSTORE.COM) 8.1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42a1ljTUh0V2RDZWpWWG5pUnVlZ091a1Q1MWRuOG1NRi1pX0xRb25WWWx6bUxVeVJRNVFqeFJTMzhvZXRsaENnVVpOOXFITTRUQlhFQnF5N0NMWkx5Wk42eVRhSmxHS2VnUFJ4YWdvVDBhSFRtLVE?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "The FIRM 2026 (EKWSTORE.COM) 8.1 overtake.gg",
+      "published_utc": "2026-11-26T21:09:31+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42a1ljTUh0V2RDZWpWWG5pUnVlZ091a1Q1MWRuOG1NRi1pX0xRb25WWWx6bUxVeVJRNVFqeFJTMzhvZXRsaENnVVpOOXFITTRUQlhFQnF5N0NMWkx5Wk42eVRhSmxHS2VnUFJ4YWdvVDBhSFRtLVE?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T21:09:31+00:00",
+          "title": "The FIRM 2026 (EKWSTORE.COM) 8.1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "f21bc4ed5b7db9e605e99896",
+      "topic": "racing_games",
+      "title": "Le Mans Ultimate ELMS Expansion - Steam",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcDYyZzEyQlV3WlFVNmhXSW4zYzJwdGw1WlhBX3lGSXR3aEFkZTh5SzQyRmw0OGpTNThCeWExY2UwN0lIaV9CSTVHMkR4cS15YmFUWUVuRy10V24zNmFfd1BETDNUVXlSOFdxak9WdXVFRjBwQ2xQSkJMWEVNdmsyTUYtSQ?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Le Mans Ultimate ELMS Expansion Steam",
+      "published_utc": "2026-11-26T20:22:49+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcDYyZzEyQlV3WlFVNmhXSW4zYzJwdGw1WlhBX3lGSXR3aEFkZTh5SzQyRmw0OGpTNThCeWExY2UwN0lIaV9CSTVHMkR4cS15YmFUWUVuRy10V24zNmFfd1BETDNUVXlSOFdxak9WdXVFRjBwQ2xQSkJMWEVNdmsyTUYtSQ?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T20:22:49+00:00",
+          "title": "Le Mans Ultimate ELMS Expansion - Steam"
+        }
+      ]
+    },
+    {
+      "id": "79bd8771a038bc5d08b691f8",
+      "topic": "racing_games",
+      "title": "Maya Ongezellig - History - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YYlFhVk5Ga1lVcnNSejlMTm9kdi1aT3dzWDdkc2pOeHhtcTJzYkMwZHdtOG9ZTjBHMDRfTktIVUdSVjdsNmxpVm1LQUdhWTdTVVVqcHV6RGZWMDZWM0dWekkxdVNVaTJWR0VJXzRHMlY?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Maya Ongezellig - History overtake.gg",
+      "published_utc": "2026-11-27T01:49:29+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YYlFhVk5Ga1lVcnNSejlMTm9kdi1aT3dzWDdkc2pOeHhtcTJzYkMwZHdtOG9ZTjBHMDRfTktIVUdSVjdsNmxpVm1LQUdhWTdTVVVqcHV6RGZWMDZWM0dWekkxdVNVaTJWR0VJXzRHMlY?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T01:49:29+00:00",
+          "title": "Maya Ongezellig - History - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "be6a89dbf55c7d5800b7fe33",
+      "topic": "racing_games",
+      "title": "Donington GP 2026 - History - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKYklYVkRiSTVWSVJKa1d5TDFhOW93SW1BZHQ5QUMyME1PZTE2SWZ1T2N6SWoyX2xjVTQ2NTR2V1Fyby1hTU5ramNyQnZSbG1wWE5nbGJQZ25ra0hkUGQ1WXdfTmVqZUFvbUNPSGdHNl9RZVk?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Donington GP 2026 - History overtake.gg",
+      "published_utc": "2026-11-26T18:50:06+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKYklYVkRiSTVWSVJKa1d5TDFhOW93SW1BZHQ5QUMyME1PZTE2SWZ1T2N6SWoyX2xjVTQ2NTR2V1Fyby1hTU5ramNyQnZSbG1wWE5nbGJQZ25ra0hkUGQ1WXdfTmVqZUFvbUNPSGdHNl9RZVk?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T18:50:06+00:00",
+          "title": "Donington GP 2026 - History - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "de15cf0c8f9016d6d4af1f7f",
+      "topic": "handhelds",
+      "title": "Acer TravelMate X2 14 review: Traditional business clamshell brought down by a weak display",
+      "url": "https://www.notebookcheck.net/Acer-TravelMate-X2-14-review-Traditional-business-clamshell-brought-down-by-a-weak-display.1458158.0.html",
+      "source": "Notebookcheck Handheld",
+      "publisher": "Notebookcheck Handheld",
+      "description": "$1400 for Wildcat Lake Core 5 is a choice. | The TravelMate X2 14 isn't necessarily a bad laptop, but its asking price is relatively high considering all the alternatives currently available with the same CPU and even better display.",
+      "published_utc": "2026-11-27T09:05:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.notebookcheck.net/Acer-TravelMate-X2-14-review-Traditional-business-clamshell-brought-down-by-a-weak-display.1458158.0.html",
+          "source": "Notebookcheck Handheld",
+          "publisher": "Notebookcheck Handheld",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-27T09:05:00+00:00",
+          "title": "Acer TravelMate X2 14 review: Traditional business clamshell brought down by a weak display"
+        }
+      ]
+    },
+    {
+      "id": "653c2835dbfc819892e114fe",
+      "topic": "handhelds",
+      "title": "The Simpsons Hit & Run Remake We've All Been Hoping For Has Been Cancelled",
+      "url": "https://retrododo.com/the-simpsons-hit-run-remake-weve-all-been-hoping-for-has-been-cancelled",
+      "source": "Retro Dodo",
+      "publisher": "Retro Dodo",
+      "description": "I know we're supposed to be approaching the most wonderful time of the year, but I've got to be the bearer of bad news. The long-awaited Simpsons Hit & Run remake that we've all been hoping for, the one that was never actually",
+      "published_utc": "2026-11-27T12:25:53+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://retrododo.com/the-simpsons-hit-run-remake-weve-all-been-hoping-for-has-been-cancelled",
+          "source": "Retro Dodo",
+          "publisher": "Retro Dodo",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-27T12:25:53+00:00",
+          "title": "The Simpsons Hit & Run Remake We've All Been Hoping For Has Been Cancelled"
+        }
+      ]
+    },
+    {
+      "id": "ece626963cd849e8e7f22932",
+      "topic": "handhelds",
+      "title": "The New TRIMUI Brick Pro U Is Finally Available To Purchase",
+      "url": "https://retrododo.com/the-new-trimui-brick-pro-u-is-finally-available-to-purchase",
+      "source": "Retro Dodo",
+      "publisher": "Retro Dodo",
+      "description": "🤝Don't want to see ads? Become a premium member for $3 a month and support an independent publication today! This is one I have been waiting on for a while now, as I am a big fan of TRIMUI's products, especially their metal ones, and this one is the big dog, the larger, premium model with a solid metal shell, dual joysticks, and a 3.95\" display. Qu",
+      "published_utc": "2026-11-27T09:39:59+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "ハンドヘルド候補",
+      "sources": [
+        {
+          "url": "https://retrododo.com/the-new-trimui-brick-pro-u-is-finally-available-to-purchase",
+          "source": "Retro Dodo",
+          "publisher": "Retro Dodo",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-27T09:39:59+00:00",
+          "title": "The New TRIMUI Brick Pro U Is Finally Available To Purchase"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T09:39:59.000Z",
+      "article_modified_raw": "2026-11-27T09:39:59.000Z",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "303e5393b8aa9f61a6868ed9",
+      "topic": "racing_games",
+      "title": "Gran Turismo 7’s Spec IV Part 2 update will be playable at ‘Inspire Tokyo’ festival",
+      "url": "https://traxion.gg/gran-turismo-7s-spec-iv-part-2-update-will-be-playable-at-inspire-tokyo-festival",
+      "source": "Traxion",
+      "publisher": "Traxion",
+      "description": "Part 2 of Gran Turismo 7's upcoming Spec IV update will be playable at the 'Inspire Tokyo' festival, with Super GT and Super Formula star Igor Fraga set to appear.",
+      "published_utc": "2026-11-27T13:11:10+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://traxion.gg/gran-turismo-7s-spec-iv-part-2-update-will-be-playable-at-inspire-tokyo-festival",
+          "source": "Traxion",
+          "publisher": "Traxion",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-27T13:11:10+00:00",
+          "title": "Gran Turismo 7’s Spec IV Part 2 update will be playable at ‘Inspire Tokyo’ festival"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T13:11:10+00:00",
+      "article_modified_raw": "2026-11-27T13:11:17+00:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "9b2205cb32d80931fa39cbe1",
+      "topic": "racing_games",
+      "title": "Alpine Sim Racing Series: Jarschel wins again at Zandvoort",
+      "url": "https://traxion.gg/alpine-sim-racing-series-jarschel-wins-again-at-zandvoort",
+      "source": "Traxion",
+      "publisher": "Traxion",
+      "description": "The famous Dutch Grand Prix circuit, well-known for its difficulty in overtaking, was overcome by Jarschel’s aggressive driving style as he made three notable passes in the 40-minute main race to win.",
+      "published_utc": "2026-11-27T12:44:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://traxion.gg/alpine-sim-racing-series-jarschel-wins-again-at-zandvoort",
+          "source": "Traxion",
+          "publisher": "Traxion",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-27T12:44:00+00:00",
+          "title": "Alpine Sim Racing Series: Jarschel wins again at Zandvoort"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T12:44:00+00:00",
+      "article_modified_raw": "2026-11-27T12:44:07+00:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "cefb805b2d808abcdf628368",
+      "topic": "racing_games",
+      "title": "Forza Horizon 6 Photo Challenge: Where to find Tokyo Tower",
+      "url": "https://traxion.gg/forza-horizon-6-photo-challenge-where-to-find-tokyo-tower",
+      "source": "Traxion",
+      "publisher": "Traxion",
+      "description": "Here’s where to find Tokyo Tower for the #RadioCarCar Photo Challenge, part of Forza Horizon 6's Series 7 Week 4 Playlist. The post Forza Horizon 6 Photo Challenge: Where to find Tokyo Tower appeared first on Traxion.GG .",
+      "published_utc": "2026-11-27T12:21:21+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://traxion.gg/forza-horizon-6-photo-challenge-where-to-find-tokyo-tower",
+          "source": "Traxion",
+          "publisher": "Traxion",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-27T12:21:21+00:00",
+          "title": "Forza Horizon 6 Photo Challenge: Where to find Tokyo Tower"
+        }
+      ]
+    },
+    {
+      "id": "effe654fe81d7e90eb58fe7f",
+      "topic": "handhelds",
+      "title": "ANBERNIC RG 47G1   |  Look Back. Press Start.",
+      "url": "https://anbernic.com/blogs/news/anbernic-rg-47g1-first-look",
+      "source": "ANBERNIC",
+      "publisher": "ANBERNIC",
+      "description": "The ANBERNIC RG 47G1 brings a 4:3 display at up to 120 Hz to a familiar vertical design. Our new Android handheld comes in Pika Yellow, Retro Purple, and Black.",
+      "published_utc": "2026-11-27T07:17:13+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "ハンドヘルド候補",
+      "sources": [
+        {
+          "url": "https://anbernic.com/blogs/news/anbernic-rg-47g1-first-look",
+          "source": "ANBERNIC",
+          "publisher": "ANBERNIC",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-27T07:17:13+00:00",
+          "title": "ANBERNIC RG 47G1   |  Look Back. Press Start."
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T23:17:13-08:00",
+      "article_modified_raw": "2026-11-27T01:03:51-08:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "6686182fa6fafdfba8e20606",
+      "topic": "handhelds",
+      "title": "Teenage Mutant Ninja Turtles Easter Egg Has Been Found In GTA 6",
+      "url": "https://retrododo.com/teenage-mutant-ninja-turtles-easter-egg-has-been-found-in-gta-6",
+      "source": "Retro Dodo",
+      "publisher": "Retro Dodo",
+      "description": "🤝Like our website? Support us as an independent publisher by tipping, joining our paid community or checking out our accessories brand GAMENOOK! It seems that Rockstar Games haven't been shy about leaving Easter Eggs for the games and franchises that are dear to their hearts in their newest release. GTA 6 has only been out a short while at the time",
+      "published_utc": "2026-11-27T14:56:37+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://retrododo.com/teenage-mutant-ninja-turtles-easter-egg-has-been-found-in-gta-6",
+          "source": "Retro Dodo",
+          "publisher": "Retro Dodo",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-27T14:56:37+00:00",
+          "title": "Teenage Mutant Ninja Turtles Easter Egg Has Been Found In GTA 6"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T14:56:37.000Z",
+      "article_modified_raw": "2026-11-27T14:56:37.000Z",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "a3652d8bc43e3d8b40ce2b1c",
+      "topic": "handhelds",
+      "title": "AYANEO Reveals (For The 8th Time) A New KONKR Pocket Advance Colourway",
+      "url": "https://retrododo.com/ayaneo-reveals-for-the-8th-time-a-new-konkr-pocket-advance-colourway",
+      "source": "Retro Dodo",
+      "publisher": "Retro Dodo",
+      "description": "🤝Don't want to see ads? Become a premium member for $3 a month and support an independent publication today! You've been waiting to buy a KONKR Pocket Advance specifically for a new colour option... right? No, me neither, but AYANEO thinks otherwise, showing off a new colourway of their very popular KONKR Pocket Advance handheld in today's livestre",
+      "published_utc": "2026-11-27T14:28:59+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "priority",
+      "triage_reason": "ハンドヘルド候補",
+      "sources": [
+        {
+          "url": "https://retrododo.com/ayaneo-reveals-for-the-8th-time-a-new-konkr-pocket-advance-colourway",
+          "source": "Retro Dodo",
+          "publisher": "Retro Dodo",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-27T14:28:59+00:00",
+          "title": "AYANEO Reveals (For The 8th Time) A New KONKR Pocket Advance Colourway"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T14:28:59.000Z",
+      "article_modified_raw": "2026-11-27T14:28:59.000Z",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "e64e4d9dac8f0a8eba478d20",
+      "topic": "peripherals",
+      "title": "You Can Now Use A PSP-1000 As A Dreamcast Controller Or VMU",
+      "url": "https://retrododo.com/you-can-now-use-a-psp-1000-as-a-dreamcast-controller-or-vmu",
+      "source": "Retro Dodo",
+      "publisher": "Retro Dodo",
+      "description": "Another day, another amazing invention from the retro gaming community. The Dreamcast and PSP might not be in the spotlight as much as the PS5 and the Switch these days, but they're still held in high regard in our scene. So much so that there's now",
+      "published_utc": "2026-11-27T14:04:20+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "周辺機器候補",
+      "sources": [
+        {
+          "url": "https://retrododo.com/you-can-now-use-a-psp-1000-as-a-dreamcast-controller-or-vmu",
+          "source": "Retro Dodo",
+          "publisher": "Retro Dodo",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-27T14:04:20+00:00",
+          "title": "You Can Now Use A PSP-1000 As A Dreamcast Controller Or VMU"
+        }
+      ]
+    }
+  ],
+  "date_unknown": [],
+  "health": {}
+}

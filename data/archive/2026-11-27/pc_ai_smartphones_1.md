@@ -1,0 +1,21 @@
+# smartphones / 2026-11-27 / 候補 1–19
+
+- [iOS 28 to ‘revamp’ iPhone notifications, per report](https://9to5mac.com/2026/11/26/ios-28-to-revamp-iphone-notifications-per-report) — 9to5Mac AirPods｜優先｜2026-11-26T18:04:57+00:00 UTC｜feed_published
+- [A month with the iPhone Duo has changed how I use my phone](https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone) — TechCrunch｜要確認｜2026-11-26T17:00:00+00:00 UTC｜feed_published
+- [Apple reportedly revamping notifications once again with iOS 28](https://www.gsmarena.com/apple_reportedly_revamping_notifications_once_again_with_ios_28-news-75646.php) — GSMArena｜要確認｜2026-11-26T15:03:02+00:00 UTC｜feed_published
+- [Global Xiaomi 17 Ultra starts receiving HyperOS 4](https://www.gsmarena.com/global_xiaomi_17_ultra_starts_receiving_hyperos_4-news-75656.php) — GSMArena｜要確認｜2026-11-26T19:33:02+00:00 UTC｜feed_published
+- [Honor Magic10 Pro Max could have three 200MP cameras](https://www.gsmarena.com/honor_magic10_pro_max_could_have_three_200mp_cameras-news-75663.php) — GSMArena｜要確認｜2026-11-27T09:55:02+00:00 UTC｜feed_published
+- [OnePlus Nord N7 Pro leaks and it's a confusing one](https://www.gsmarena.com/oneplus_nord_n7_pro_leaks_and_its_a_confusing_one-news-75660.php) — GSMArena｜要確認｜2026-11-27T06:32:02+00:00 UTC｜feed_published
+- [Oppo is planning three wide candybar phones for 2027](https://www.gsmarena.com/oppo_is_planning_three_wide_candybar_phones_for_2027-news-75664.php) — GSMArena｜要確認｜2026-11-27T08:53:02+00:00 UTC｜feed_published
+- [Realme 17 Ultra's memory configurations and colors tipped](https://www.gsmarena.com/realme_17_ultra_ram_storage_colors_tipped-news-75669.php) — GSMArena｜要確認｜2026-11-27T12:03:03+00:00 UTC｜feed_published
+- [Report: Apple accounted for 57% of US smartphone shipments in Q3](https://9to5mac.com/2026/11/26/report-apple-accounted-for-57-of-us-smartphone-shipments-in-q3) — 9to5Mac｜要確認｜2026-11-26T21:09:36+00:00 UTC｜feed_published
+- [The US will hit China and 13 other trading partners with fresh tariffs, affecting Apple](https://www.gsmarena.com/the_us_will_hit_china_and_13_other_trading_partners_with_fresh_tariffs_affecting_apple-news-75659.php) — GSMArena｜要確認｜2026-11-26T23:15:02+00:00 UTC｜feed_published
+- [WhatsApp announces the Travel eSIM feature](https://www.gsmarena.com/whatsapp_travel_esim_feature-news-75665.php) — GSMArena｜要確認｜2026-11-27T07:51:02+00:00 UTC｜feed_published
+- [WhatsApp could soon introduce a travel eSIM feature](https://www.gsmarena.com/whatsapp_could_soon_introduce_a_travel_esim_feature-news-75661.php) — GSMArena｜要確認｜2026-11-26T22:07:02+00:00 UTC｜feed_published
+- [X finally launches parental controls for teen accounts](https://www.gsmarena.com/x_finally_launches_parental_controls_for_teen_accounts-news-75655.php) — GSMArena｜要確認｜2026-11-27T00:28:02+00:00 UTC｜feed_published
+- [iOS and HarmonyOS gain ground as Android's Q3 share hits a record low](https://www.gsmarena.com/ios_and_harmonyos_gain_ground_as_androids_q3_share_hits_a_record_low-news-75653.php) — GSMArena｜要確認｜2026-11-27T02:01:02+00:00 UTC｜feed_published
+- [vivo X500 Pro Max Apex Orange hands-on](https://www.gsmarena.com/vivo_x500_pro_max_apex_orange_hands_on-news-75651.php) — GSMArena｜要確認｜2026-11-27T05:02:02+00:00 UTC｜feed_published
+- [vivo X500s rumored to launch with Dimensity 9600 Pro](https://www.gsmarena.com/vivo_x500s_rumored_to_launch_with_dimensity_9600_pro-news-75654.php) — GSMArena｜要確認｜2026-11-26T18:21:02+00:00 UTC｜feed_published
+- [【本日みつけたお買い得品】厚さ5.64mmで165gの「iPhone Air(512GB)」が5万1,900円引き！](https://pc.watch.impress.co.jp/docs/news/todays_sales/2159945.html) — PC Watch｜要確認｜2026-11-27T05:04:38+00:00 UTC｜feed_published
+- [八潮の道路陥没事故が突きつけた現実　「AI／DXだけでは解けない」インフラ政策の大転換：第15回 IPA 圧入工学セミナー in 東京 2026（3）（1/3 ページ）](https://built.itmedia.co.jp/bt/articles/2611/26/news084.html) — ITmedia Mobile｜要確認｜2026-11-26T20:42:00+00:00 UTC｜article_metadata
+- [Galaxy S26 FE drops to a record low with $200 off - Android Authority](https://news.google.com/rss/articles/CBMie0FVX3lxTE15aC1HTzEwRGlJam1YY3pzUVpheGI0cDZiaVFKRjFRUC1ib1RJd3BVUFJ6TWM3QzEwSy1ldUpsOEFrdXJUVGlmR3NXQTVkRkpDazA5b2swV0VLaDBKZmdPMFR1M2Z6X2g4MTU3bFhiOEp6ODIxdVBjVmRycw?oc=5) — Android Authority TWS｜要確認｜2026-11-26T16:08:00+00:00 UTC｜discovery_index

@@ -1,6 +1,6 @@
 {
   "group": "motorsport",
-  "target_date_jst": "2026-11-26",
+  "target_date_jst": "2026-11-27",
   "status": "late_candidates_not_delivery_log",
   "items": [
     {
@@ -5856,7 +5856,7 @@
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
       "first_seen_utc": "2026-11-25T12:01:27+00:00",
-      "last_seen_utc": "2026-11-27T13:34:47+00:00",
+      "last_seen_utc": "2026-11-27T19:15:16+00:00",
       "group": "motorsport",
       "date_quality": "feed_published",
       "triage": "review",
@@ -5889,7 +5889,7 @@
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
       "first_seen_utc": "2026-11-25T12:01:27+00:00",
-      "last_seen_utc": "2026-11-27T13:34:47+00:00",
+      "last_seen_utc": "2026-11-27T19:15:16+00:00",
       "group": "motorsport",
       "date_quality": "feed_published",
       "triage": "review",
@@ -5922,7 +5922,7 @@
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
       "first_seen_utc": "2026-11-25T12:01:27+00:00",
-      "last_seen_utc": "2026-11-27T13:34:47+00:00",
+      "last_seen_utc": "2026-11-27T19:15:16+00:00",
       "group": "motorsport",
       "date_quality": "feed_published",
       "triage": "review",
@@ -5988,7 +5988,7 @@
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
       "first_seen_utc": "2026-11-25T12:01:27+00:00",
-      "last_seen_utc": "2026-11-27T13:34:47+00:00",
+      "last_seen_utc": "2026-11-27T19:15:16+00:00",
       "group": "motorsport",
       "date_quality": "feed_published",
       "triage": "priority",
