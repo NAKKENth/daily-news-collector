@@ -2875,6 +2875,58 @@
           "title": "Tesla FSD V15 Stunning Augmented Reality Display - Audio Science Review (ASR) Forum"
         }
       ]
+    },
+    {
+      "id": "27d0bd30fe5198263b521e79",
+      "topic": "tws",
+      "title": "Hosting a Holiday Party? Here’s How To Nail the Vibe - JBL",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxVG44LVNtZmtEZmxvbzhWOUJKOGZaTFFPMWptZFAyVWxqQVJ1dHVHWjFLLW5Nb3FjMVlHcHRsS3BISHIxMWhYaTdOelBjQnJtaFJZYW1XUWttUm15YmJiWWhB?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "Hosting a Holiday Party? Here’s How To Nail the Vibe JBL",
+      "published_utc": "2026-11-23T08:00:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxVG44LVNtZmtEZmxvbzhWOUJKOGZaTFFPMWptZFAyVWxqQVJ1dHVHWjFLLW5Nb3FjMVlHcHRsS3BISHIxMWhYaTdOelBjQnJtaFJZYW1XUWttUm15YmJiWWhB?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T08:00:00+00:00",
+          "title": "Hosting a Holiday Party? Here’s How To Nail the Vibe - JBL"
+        }
+      ]
+    },
+    {
+      "id": "6cb2e6d2522910f599e61541",
+      "topic": "wired",
+      "title": "Reviews - Linsoul Audio",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84V0dwMEtaT2d3X0lwbnBlV2dfVTE2RHk0SGhxeFZkMURSQXJYVnJYNG55dzBkX0IwTUxaMl9DcFJYaXBaYkxNbnVSRzhNdw?oc=5",
+      "source": "Linsoul",
+      "publisher": "Linsoul Audio",
+      "description": "Reviews Linsoul Audio",
+      "published_utc": "2026-11-23T08:00:00+00:00",
+      "date_jst": "2026-11-23",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84V0dwMEtaT2d3X0lwbnBlV2dfVTE2RHk0SGhxeFZkMURSQXJYVnJYNG55dzBkX0IwTUxaMl9DcFJYaXBaYkxNbnVSRzhNdw?oc=5",
+          "source": "Linsoul",
+          "publisher": "Linsoul Audio",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T08:00:00+00:00",
+          "title": "Reviews - Linsoul Audio"
+        }
+      ]
     }
   ],
   "date_unknown": [],

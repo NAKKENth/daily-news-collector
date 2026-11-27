@@ -1650,28 +1650,28 @@
       ]
     },
     {
-      "id": "fbf09d1cd7a58a6f7c157a94",
+      "id": "55e7738804c09b3877b9781a",
       "topic": "ai",
-      "title": "Using the new experience in the ChatGPT mobile app | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX3B3NDU4RTRjc0ZYNFFqNTAtVnA5VlExQ1BGWWhKUFk2eWt5QmVpMXYxNTktNXBabGc1UTd4WnlKMFMtSWpramp3enV4N3ltby1LclZtZnZuTm1RZUJmcnc0RS1BeUtZOEk4TXZ0dlRPNElWQzd6bUQtaDItal9HU0FiSVVmYXNKcDBCRzVGQnVLREtCelkxQnUwaw?oc=5",
+      "title": "Using ChatGPT for accounting work | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNDJHOUctRjdrVlh1a3VZSmZCT0t5ZTRvLWdWOXR4N2FXTHVTaUIxVnE3RTNNRkJyRkozWVoyaXZvWnU1SzcwNFdYNkR6NlRaSDNhM1hhdnJPOUxzbUltMW1jVXFKQ0hlY0hVR0tRalllUWx3MkMxSHZaZlZlY0lJZEhIbHk?oc=5",
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
-      "description": "Using the new experience in the ChatGPT mobile app | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-23T16:45:53+00:00",
+      "description": "Using ChatGPT for accounting work | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-23T19:46:31+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
       "date_quality": "discovery_index",
-      "triage": "priority",
+      "triage": "review",
       "triage_reason": "AI候補",
       "sources": [
         {
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX3B3NDU4RTRjc0ZYNFFqNTAtVnA5VlExQ1BGWWhKUFk2eWt5QmVpMXYxNTktNXBabGc1UTd4WnlKMFMtSWpramp3enV4N3ltby1LclZtZnZuTm1RZUJmcnc0RS1BeUtZOEk4TXZ0dlRPNElWQzd6bUQtaDItal9HU0FiSVVmYXNKcDBCRzVGQnVLREtCelkxQnUwaw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNDJHOUctRjdrVlh1a3VZSmZCT0t5ZTRvLWdWOXR4N2FXTHVTaUIxVnE3RTNNRkJyRkozWVoyaXZvWnU1SzcwNFdYNkR6NlRaSDNhM1hhdnJPOUxzbUltMW1jVXFKQ0hlY0hVR0tRalllUWx3MkMxSHZaZlZlY0lJZEhIbHk?oc=5",
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T16:45:53+00:00",
-          "title": "Using the new experience in the ChatGPT mobile app | OpenAI Help Center - OpenAI Help Center"
+          "published_utc": "2026-11-23T19:46:31+00:00",
+          "title": "Using ChatGPT for accounting work | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -1735,7 +1735,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Making purchases with ChatGPT Wallet | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-23T20:23:23+00:00",
+      "published_utc": "2026-11-23T23:20:45+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -1748,7 +1748,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T20:23:23+00:00",
+          "published_utc": "2026-11-23T23:20:45+00:00",
           "title": "Making purchases with ChatGPT Wallet | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -7189,6 +7189,32 @@
       "enrichment": "url_only"
     },
     {
+      "id": "1be2512352553459a5845c29",
+      "topic": "pc",
+      "title": "Learn - Intel - Intel",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd213bHI3OHRpZkpleHJ2dllJSnRCWkZ4UWZPNjQ4b09TczcteHg0LUN2Q052d05PN0lYNFhhcnpyN2t6YlZkQjRId2ZtMWs3NnZRRzE3T2QtUHhnaDI4bDNfREo4UjI1d0J6ZWxvNXNXTl9SNlZkRXdXejJpTTlwX2tWSUc?oc=5",
+      "source": "Intel",
+      "publisher": "Intel",
+      "description": "Learn - Intel Intel",
+      "published_utc": "2026-11-24T13:18:47+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd213bHI3OHRpZkpleHJ2dllJSnRCWkZ4UWZPNjQ4b09TczcteHg0LUN2Q052d05PN0lYNFhhcnpyN2t6YlZkQjRId2ZtMWs3NnZRRzE3T2QtUHhnaDI4bDNfREo4UjI1d0J6ZWxvNXNXTl9SNlZkRXdXejJpTTlwX2tWSUc?oc=5",
+          "source": "Intel",
+          "publisher": "Intel",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T13:18:47+00:00",
+          "title": "Learn - Intel - Intel"
+        }
+      ]
+    },
+    {
       "id": "e32f691f4d4eb593c23712ac",
       "topic": "pc",
       "title": "Artificial Intelligence - Intel",
@@ -7750,7 +7776,7 @@
       "source": "OpenAI",
       "publisher": "OpenAI Help Center",
       "description": "Using locked chats in ChatGPT | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-23T19:44:53+00:00",
+      "published_utc": "2026-11-23T22:44:48+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -7763,7 +7789,7 @@
           "source": "OpenAI",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T19:44:53+00:00",
+          "published_utc": "2026-11-23T22:44:48+00:00",
           "title": "Using locked chats in ChatGPT | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -8781,7 +8807,7 @@
       "source": "Reuters AI",
       "publisher": "Reuters",
       "description": "Huang's Nvidia return sparks relief for battered AI trade, but questions remain Reuters",
-      "published_utc": "2026-11-23T20:35:00+00:00",
+      "published_utc": "2026-11-24T06:54:47+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -8794,7 +8820,7 @@
           "source": "Reuters AI",
           "publisher": "Reuters",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T20:35:00+00:00",
+          "published_utc": "2026-11-24T06:54:47+00:00",
           "title": "Huang's Nvidia return sparks relief for battered AI trade, but questions remain - Reuters"
         }
       ]
@@ -9082,6 +9108,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T12:34:18+00:00",
           "title": "Xiaomi profit falls as China auto downturn weighs, eyes Europe car market - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "1011b4d683f9adfa6990b3cd",
+      "topic": "pc",
+      "title": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal Reuters",
+      "published_utc": "2026-11-24T09:39:56+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T09:39:56+00:00",
+          "title": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal - Reuters"
         }
       ]
     },
@@ -9791,7 +9843,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Using the ChatGPT mobile app (classic experience) | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-23T19:34:59+00:00",
+      "published_utc": "2026-11-23T22:28:39+00:00",
       "date_jst": "2026-11-24",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -9804,7 +9856,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T19:34:59+00:00",
+          "published_utc": "2026-11-23T22:28:39+00:00",
           "title": "Using the ChatGPT mobile app (classic experience) | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -10976,6 +11028,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-23T17:47:28+00:00",
           "title": "NIM LLM 1.x to NIM LLM and VLM 2.0 Migration Guide - NVIDIA Docs"
+        }
+      ]
+    },
+    {
+      "id": "53059cd6aedc38718d726a1c",
+      "topic": "ai",
+      "title": "Access audit logs | Claude Help Center - Claude Help Center",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1VG45UW5yX2stY3NEbnpwTTdsVHBNQ2pMZ3lyUE9pMTlsS3I1eWx5NTRjR1d3amVhVV9uQ2d2TXkzbHJYY0ZsVmhxZG5YTHVQS29LeFh5UnlrWnVNdzZSNVZtejRmRHZyendwRzRXb0hVZw?oc=5",
+      "source": "Claude Help",
+      "publisher": "Claude Help Center",
+      "description": "Access audit logs | Claude Help Center Claude Help Center",
+      "published_utc": "2026-11-24T00:43:41+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1VG45UW5yX2stY3NEbnpwTTdsVHBNQ2pMZ3lyUE9pMTlsS3I1eWx5NTRjR1d3amVhVV9uQ2d2TXkzbHJYY0ZsVmhxZG5YTHVQS29LeFh5UnlrWnVNdzZSNVZtejRmRHZyendwRzRXb0hVZw?oc=5",
+          "source": "Claude Help",
+          "publisher": "Claude Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T00:43:41+00:00",
+          "title": "Access audit logs | Claude Help Center - Claude Help Center"
         }
       ]
     }

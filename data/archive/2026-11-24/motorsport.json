@@ -5625,6 +5625,32 @@
       ]
     },
     {
+      "id": "bc1147b9c1ac10ded5cb39d0",
+      "topic": "F1",
+      "title": "Kimi Antonelli to Ferrari? Toto Wolff makes feelings clear - PlanetF1",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5N19MN016bERWc24wbHloNVFqV2pTTTQ2cmdsWDZjWmd4bFZKSGE3N1VPTkxsa0VxWVpKSmhSb202d2hla1BnX1M5Qkc5MFV3SWFYUlNuV29MTHNnWUZzYWE1Mk9xa3dsd3pIUzZtWEg?oc=5",
+      "source": "PlanetF1",
+      "publisher": "PlanetF1",
+      "description": "Kimi Antonelli to Ferrari? Toto Wolff makes feelings clear PlanetF1",
+      "published_utc": "2026-11-24T04:09:24+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5N19MN016bERWc24wbHloNVFqV2pTTTQ2cmdsWDZjWmd4bFZKSGE3N1VPTkxsa0VxWVpKSmhSb202d2hla1BnX1M5Qkc5MFV3SWFYUlNuV29MTHNnWUZzYWE1Mk9xa3dsd3pIUzZtWEg?oc=5",
+          "source": "PlanetF1",
+          "publisher": "PlanetF1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T04:09:24+00:00",
+          "title": "Kimi Antonelli to Ferrari? Toto Wolff makes feelings clear - PlanetF1"
+        }
+      ]
+    },
+    {
       "id": "a2d3f56238409ec9d3bbc5c2",
       "topic": "F1",
       "title": "Oscar Piastri X-rated team radio triggers McLaren response - PlanetF1",
@@ -8666,32 +8692,6 @@
       ]
     },
     {
-      "id": "0516a1a90905f67dc5bf7f71",
-      "topic": "NASCAR",
-      "title": "Bubba Wallace Archives - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aY1pIaUhzN2I0YjluWXlvNE52SHJNQU9odFZWR1Axcm1SVjctcGp5TThCOHpUM0hENmhleElfbnVtN1libnBaYUx1STk4U29SaWtzZWtzQTNWdzVWUnM5d2FHeFh5aVduMWpsYVRmMnk1eVE?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "Bubba Wallace Archives NASCAR.com",
-      "published_utc": "2026-11-23T18:39:16+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aY1pIaUhzN2I0YjluWXlvNE52SHJNQU9odFZWR1Axcm1SVjctcGp5TThCOHpUM0hENmhleElfbnVtN1libnBaYUx1STk4U29SaWtzZWtzQTNWdzVWUnM5d2FHeFh5aVduMWpsYVRmMnk1eVE?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-23T18:39:16+00:00",
-          "title": "Bubba Wallace Archives - NASCAR.com"
-        }
-      ]
-    },
-    {
       "id": "f0df8f00033baa859bf6dfad",
       "topic": "F1",
       "title": "FERRARI, COSÌ È INACCETTABILE! Tensione alle stelle: cosa succede ora a Leclerc e Hamilton? - AutoRacer.it",
@@ -9212,6 +9212,58 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T09:26:35+00:00",
           "title": "Max Verstappen F1 Autumn-Winter Collection , Max Verstappen Formula 1 Autumn-Winter Collection - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "17c2654de474e7f87794902c",
+      "topic": "NASCAR",
+      "title": "Austin Cindric through the years - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WYmdSdnpEQk5GWFF0QmdRY1hmNlNBTWVRTXI0QjByeC0zcE1aaUxnMEpJbHNHSU45ckZ6ZFd0bmRNWWtkOWJDRTFKeTd5UENkSmxoeWJGSHg3Rm1MWmo0eV9KdExJd3FGQTdPWXY0U3drQQ?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Austin Cindric through the years NASCAR.com",
+      "published_utc": "2026-11-23T15:13:56+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WYmdSdnpEQk5GWFF0QmdRY1hmNlNBTWVRTXI0QjByeC0zcE1aaUxnMEpJbHNHSU45ckZ6ZFd0bmRNWWtkOWJDRTFKeTd5UENkSmxoeWJGSHg3Rm1MWmo0eV9KdExJd3FGQTdPWXY0U3drQQ?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-23T15:13:56+00:00",
+          "title": "Austin Cindric through the years - NASCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "4406857cd5826ba70d11864d",
+      "topic": "WRC",
+      "title": "Vernet Marelyse - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaaDI2ZHhvV2RtX2dkSFFONjJzenFwNm1jVkhrQmZiVEpiamFMbkYxMTU2NDVmTWJXRDdVTXk3Zi05Y2tuUlRMcE5sRkNYemttN2dYUnhNSGxLN29Fc0FKUlREQXc5RF83?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Vernet Marelyse eWRC-results.com",
+      "published_utc": "2026-11-24T14:36:30+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaaDI2ZHhvV2RtX2dkSFFONjJzenFwNm1jVkhrQmZiVEpiamFMbkYxMTU2NDVmTWJXRDdVTXk3Zi05Y2tuUlRMcE5sRkNYemttN2dYUnhNSGxLN29Fc0FKUlREQXc5RF83?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T14:36:30+00:00",
+          "title": "Vernet Marelyse - eWRC-results.com"
         }
       ]
     }

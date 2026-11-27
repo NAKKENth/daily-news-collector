@@ -1,7 +1,6 @@
-# WEC / 2026-11-26 / 候補 1–13
+# WEC / 2026-11-26 / 候補 1–12
 
 - [What Peugeot had planned for its abandoned 2027 WEC Hypercar](https://www.autosport.com/wec/news/what-peugeot-had-planned-for-its-abandoned-2027-wec-hypercar-/10877678) — Autosport all｜優先｜2026-11-25T15:11:04+00:00 UTC｜feed_published
-- [Ford GT41 Hypercar gets big-ticket launch in Detroit - RACER - Racing News](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWl9TSnA3TlBvVDBpNUNhOTRkTTRMSmYxWW1qZ0ZBNDFZcERkd2Z4VW9BbDE2LVAzUGZyMDVOQlNCdVpmampkcTZoTDRHSlZWUDB1QnotVXQ3ZkxYTEN4N0JGeUNVYkpKcldBOTc3LXVnWVA5bUVZU2tsTWNabXptdENvQl9SbVBy?oc=5) — RACER｜優先｜2026-11-25T18:59:20+00:00 UTC｜discovery_index
 - [AF Corse Expands IMSA Effort with Full-Season GTD Program](https://sportscar365.com/imsa/iwsc/af-corse-expands-imsa-effort-with-full-season-gtd-program) — Sportscar365｜要確認｜2026-11-25T17:26:00+00:00 UTC｜feed_published
 - [AF Corse USA Announces Full-Time IMSA GTD Programme, Rolex 24 GTD Pro Entry](https://www.dailysportscar.com/2026/11/25/af-corse-usa-announces-full-time-imsa-gtd-programme-rolex-24-gtd-pro-entry.html) — DailySportscar｜要確認｜2026-11-25T16:46:30+00:00 UTC｜article_metadata
 - [AO Racing Announces 2027 Drivers](https://www.dailysportscar.com/2026/11/25/ao-racing-announces-2027-drivers.html) — DailySportscar｜要確認｜2026-11-25T15:08:04+00:00 UTC｜article_metadata

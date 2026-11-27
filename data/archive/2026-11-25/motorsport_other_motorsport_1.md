@@ -1,4 +1,4 @@
-# other_motorsport / 2026-11-25 / 候補 1–34
+# other_motorsport / 2026-11-25 / 候補 1–35
 
 - [Alonso: “We can't be competitive with the power unit we have”](https://www.autosport.com/f1/news/fernando-alonso-we-cant-be-competitive-with-the-power-unit-we-have/10877607) — Autosport all｜要確認｜2026-11-25T09:16:47+00:00 UTC｜feed_published
 - [Opel and Citroen exit is not a betrayal of Formula E, but a major blow at the worst possible time](https://www.autosport.com/formula-e/news/opel-and-citroen-exit-is-not-a-betrayal-of-formula-e-but-a-major-blow-at-the-worst-possible-time/10877649) — Autosport all｜要確認｜2026-11-25T11:04:50+00:00 UTC｜feed_published
@@ -23,6 +23,7 @@
 - [【写真2】野尻智紀と一瀬俊浩パフォーマンスエンジニア（TEAM MUGEN AUTOBACS） - autosport web](https://news.google.com/rss/articles/CBMic0FVX3lxTE9WVi1Bdkk0Wi1OMUJwY20xalJfQmpENlI2WGItWDJkQmYwalJSd0NkQjFOVTdFS29IajJfRjZPaVg0V0x3Rkg2SnFoTDd0NlFwMkktTXlNbGU4eUhWeUZNQ3RkQWE1VXRITkhUeWZLdEJGbmM?oc=5) — AUTOSPORT web｜要確認｜2026-11-25T02:21:00+00:00 UTC｜discovery_index
 - [【写真3】アイザック・ハジャー（レッドブル） - autosport web](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BSDJvSnJkMk9ISVJqajJBWUtyS2t0Rm1PQm5Fekg1NUdEUl8wR3B2eXI1MnV2ek9tRndLSFZVd3V4N08zNjk5YV9nUEZ0TDZEbDI4X3hUbw?oc=5) — AUTOSPORT web｜要確認｜2026-11-25T08:15:00+00:00 UTC｜discovery_index
 - [【写真3】オリバー・ベアマン（ハース） - autosport web](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GOS04Rnp5SjFXWWdvNm5ldHlKTnFBdlNUdlppYjZFRTFrTXFSSmdXbjZodXc1ZkVYTHBCV0wxSDlTVG5zRV9zaHhtQXV2ODZ0WjJHd0Q2Yw?oc=5) — AUTOSPORT web｜要確認｜2026-11-25T08:29:00+00:00 UTC｜discovery_index
+- [【写真3】オリバー・ベアマン（ハース） - autosport web](https://news.google.com/rss/articles/CBMiakFVX3lxTFBTZDhWb1ZPV1RnQ0p4T1dUNGJBSml6UUsyaEN1a01UWFBvWGVSUWtwbS1wdnQ3SlpsSm05a2xEcDZEeGU1djEwNXU0MTJlNkZ0eGZKV29weUxqMHdlbEc2NXByZzVOYUcyeGc?oc=5) — AUTOSPORT web｜要確認｜2026-11-25T08:29:00+00:00 UTC｜discovery_index
 - [【写真3】マックス・フェルスタッペン（レッドブル） - autosport web](https://news.google.com/rss/articles/CBMibkFVX3lxTE5WdnJWeWE3b1h0VTNyZFAxb2d2M01aNDBLSDJuSXpob1FYSEhCN3FXY29TcHM0bVFUeVRyeDRBMUxwSnNIYmZoMkhMNk5Qek1sYzd1R2hxekNyRVh0VzQzUkJmQ0tsUEFlbzBvQjRR?oc=5) — AUTOSPORT web｜要確認｜2026-11-25T10:05:00+00:00 UTC｜discovery_index
 - [【写真3】松下信治（DELiGHTWORKS RACING） - autosport web](https://news.google.com/rss/articles/CBMic0FVX3lxTE85Nmx4STd4UTZ1V29xcFAtQ0FJTVY2MFNzVS1iU3R6MXRHczhBNU9QeGQyenVqdkNQZDB5REh5YnBPLXZpcEZSZW5RMkVXVUNOcEcwemp3UEVoWjdLVFBicFlLT294MDVBYjZ1SU9HR2dNZ1k?oc=5) — AUTOSPORT web｜要確認｜2026-11-25T01:28:00+00:00 UTC｜discovery_index
 - [【写真4】ピエール・ガスリー（アルピーヌ） - autosport web](https://news.google.com/rss/articles/CBMia0FVX3lxTE1lWmpibXAxalFNSmFqcF9TNmxJX2EzRDNLVVF5VWQ3d0RuamNHMEt1Q1EyejAyeGxiUmNVQ09xbkY5Rmw3alpkZmNuZzVhbHNEZWFTQ0RRUGtYTDBmemZHZmQ3V2hOY1k4LWp3?oc=5) — AUTOSPORT web｜要確認｜2026-11-25T02:40:00+00:00 UTC｜discovery_index

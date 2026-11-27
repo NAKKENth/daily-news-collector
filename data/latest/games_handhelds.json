@@ -1421,6 +1421,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "6d95961170e9",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWmtLbnV5eHpFc255WDl0T1dBOVVYTHExX1o5aG0zRUJEM2hWdzN0NVlNQkllaEN4d05wc05UdHRvekU2NnpjSmUyNHVORWhuWTJBLTRLMDBzZllwLUZjcHBOYWpLZjlzVzZjS2hoaDFvdTVyTE5yTEVXVkxTSGhjc09INXdBUy1TSkRFMFU2bFFLVlJ3X2FfSTV3N3g1QQ?oc=5",
@@ -1548,7 +1549,7 @@
       "source": "Steam racing updates",
       "publisher": "Steam",
       "description": "F1® 25 Steam",
-      "published_utc": "2026-11-25T19:57:40+00:00",
+      "published_utc": "2026-11-25T22:56:52+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -1561,8 +1562,34 @@
           "source": "Steam racing updates",
           "publisher": "Steam",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T19:57:40+00:00",
+          "published_utc": "2026-11-25T22:56:52+00:00",
           "title": "F1® 25 - Steam"
+        }
+      ]
+    },
+    {
+      "id": "d6aebe8ece9a174a4b52f29c",
+      "topic": "racing_games",
+      "title": "Taxi Life: A City Driving Simulator - Steam",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbzFsVEl0ZFZIOUtYQlM0Rm5oVlM3d2tLRXRpbzNIWl80NW5YQ3l1S3d3OTZnRjlpOHZrZExQcmt5MXhudDBLT2tyc29MYll5bVZ5LXNfWUFDUGluRW1zVXd3LUN6ME5YdzdnTFMzd2gxZkRjRmJaeDZWb3NIZENSYTItOS0?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Taxi Life: A City Driving Simulator Steam",
+      "published_utc": "2026-11-25T19:20:35+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbzFsVEl0ZFZIOUtYQlM0Rm5oVlM3d2tLRXRpbzNIWl80NW5YQ3l1S3d3OTZnRjlpOHZrZExQcmt5MXhudDBLT2tyc29MYll5bVZ5LXNfWUFDUGluRW1zVXd3LUN6ME5YdzdnTFMzd2gxZkRjRmJaeDZWb3NIZENSYTItOS0?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T19:20:35+00:00",
+          "title": "Taxi Life: A City Driving Simulator - Steam"
         }
       ]
     },
@@ -1667,6 +1694,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T18:55:55+00:00",
           "title": "Vampires: Bloodlord Rising - Steam"
+        }
+      ]
+    },
+    {
+      "id": "12ce6230d955ee4f65519c66",
+      "topic": "racing_games",
+      "title": "Resident Evil 5 - Steam",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FdXVyOWJrLVBJdDNYcDhraS1rMEFYcXpBWmlMVHc4S21EbXoyRGx5ZjNubHBVbEh6eExPeWl0VlJlVTM2cFVVWXpPSWM2RUNSLTBBSHViZGFYX2U4bkI1SnhFMVBvLWRnYlNRaVVtY2lycWFQYlE?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Resident Evil 5 Steam",
+      "published_utc": "2026-11-25T21:55:57+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FdXVyOWJrLVBJdDNYcDhraS1rMEFYcXpBWmlMVHc4S21EbXoyRGx5ZjNubHBVbEh6eExPeWl0VlJlVTM2cFVVWXpPSWM2RUNSLTBBSHViZGFYX2U4bkI1SnhFMVBvLWRnYlNRaVVtY2lycWFQYlE?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T21:55:57+00:00",
+          "title": "Resident Evil 5 - Steam"
         }
       ]
     },
@@ -3607,15 +3660,197 @@
           "title": "Horsey Game - Steam"
         }
       ]
+    },
+    {
+      "id": "ada1a493fda4a2d75b6c26e0",
+      "topic": "racing_games",
+      "title": "ReplayCamSuite - Updates - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yZ0tFZGN5Ql83WHU1ZVM3dmpvMkRpVDREUFBtRlVxSkxxaWxvNW54NUpRNzY1ZWxEay1LWV90N2pYa2gtOHNkWUdXXzBObVkxNU01NmZvdGJVQmJUM1Bua3JLc2hUQy1FWk5DTGdDZw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "ReplayCamSuite - Updates overtake.gg",
+      "published_utc": "2026-11-25T18:55:04+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yZ0tFZGN5Ql83WHU1ZVM3dmpvMkRpVDREUFBtRlVxSkxxaWxvNW54NUpRNzY1ZWxEay1LWV90N2pYa2gtOHNkWUdXXzBObVkxNU01NmZvdGJVQmJUM1Bua3JLc2hUQy1FWk5DTGdDZw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T18:55:04+00:00",
+          "title": "ReplayCamSuite - Updates - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "2d9d797d38af252f5a45359e",
+      "topic": "racing_games",
+      "title": "ŠKODA FABIA RS Rally2 - Sarah Rumeau - CFRT 2026 v 1.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRWx3akZpcWVpbkpha2JaSVlHYU5ITEtobG5ZTUxFbkhzZWxqRnZXcHFBbklKbFRvQW1vR21BaDJ2RnFrNHFERm9ucEk2YWkyZDVxLTljY1JLZlo2aDFCYXVIckM0VC14MG1DRDRUaFlodE9UaTdGNFhoZTg0SDBvYlBqN1ZNVWdkT1VDUFFBcFpfdG9G?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "ŠKODA FABIA RS Rally2 - Sarah Rumeau - CFRT 2026 v 1.0 overtake.gg",
+      "published_utc": "2026-11-26T00:18:49+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "6d95961170e9",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRWx3akZpcWVpbkpha2JaSVlHYU5ITEtobG5ZTUxFbkhzZWxqRnZXcHFBbklKbFRvQW1vR21BaDJ2RnFrNHFERm9ucEk2YWkyZDVxLTljY1JLZlo2aDFCYXVIckM0VC14MG1DRDRUaFlodE9UaTdGNFhoZTg0SDBvYlBqN1ZNVWdkT1VDUFFBcFpfdG9G?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:18:49+00:00",
+          "title": "ŠKODA FABIA RS Rally2 - Sarah Rumeau - CFRT 2026 v 1.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "4f1a2a8465d7546b85dcadcc",
+      "topic": "racing_games",
+      "title": "The FIRM 2026 (EKWSTORE.COM) 8.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42a1ljTUh0V2RDZWpWWG5pUnVlZ091a1Q1MWRuOG1NRi1pX0xRb25WWWx6bUxVeVJRNVFqeFJTMzhvZXRsaENnVVpOOXFITTRUQlhFQnF5N0NMWkx5Wk42eVRhSmxHS2VnUFJ4YWdvVDBhSFRtLVE?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "The FIRM 2026 (EKWSTORE.COM) 8.0 overtake.gg",
+      "published_utc": "2026-11-26T00:24:59+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42a1ljTUh0V2RDZWpWWG5pUnVlZ091a1Q1MWRuOG1NRi1pX0xRb25WWWx6bUxVeVJRNVFqeFJTMzhvZXRsaENnVVpOOXFITTRUQlhFQnF5N0NMWkx5Wk42eVRhSmxHS2VnUFJ4YWdvVDBhSFRtLVE?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:24:59+00:00",
+          "title": "The FIRM 2026 (EKWSTORE.COM) 8.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "78faaba90fb441a653e76f31",
+      "topic": "racing_games",
+      "title": "Toronto ICR2 1.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53LThJR2RjVzZhSklBQXl6aDlvd3ZfRnEwZDhPRmdvVEJsZ2lOc1VDSGFkY0dYeTJHQk03UGI1eVZEcE5tb1EzQ1hLdWsxZlZzenNCZFd3NkhMUEw3VGZoTmp2Zw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Toronto ICR2 1.0 overtake.gg",
+      "published_utc": "2026-11-25T21:13:04+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53LThJR2RjVzZhSklBQXl6aDlvd3ZfRnEwZDhPRmdvVEJsZ2lOc1VDSGFkY0dYeTJHQk03UGI1eVZEcE5tb1EzQ1hLdWsxZlZzenNCZFd3NkhMUEw3VGZoTmp2Zw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T21:13:04+00:00",
+          "title": "Toronto ICR2 1.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "19d832119529b63dacd221da",
+      "topic": "racing_games",
+      "title": "F1 FANTASY 27 (VRC FORMULA ALPHA 26) V2 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSFM2MHJZcVNjdjVsd2lzb1ZYY2ozMThJT25UUW95QmxDRnNteU54WDVLQ2RRTFYzNC1paXdHbEJFdUFjTHJTUTQ5ZE95TktRX0RJb3pwRW5pc29Fc05ycUZ5Q0hkOGF1SHEzaUZEYmlGdmFzcTJTY3NyNEZPV1MxMg?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "F1 FANTASY 27 (VRC FORMULA ALPHA 26) V2 overtake.gg",
+      "published_utc": "2026-11-26T12:52:24+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSFM2MHJZcVNjdjVsd2lzb1ZYY2ozMThJT25UUW95QmxDRnNteU54WDVLQ2RRTFYzNC1paXdHbEJFdUFjTHJTUTQ5ZE95TktRX0RJb3pwRW5pc29Fc05ycUZ5Q0hkOGF1SHEzaUZEYmlGdmFzcTJTY3NyNEZPV1MxMg?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:52:24+00:00",
+          "title": "F1 FANTASY 27 (VRC FORMULA ALPHA 26) V2 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "5ef61db74c48686792931134",
+      "topic": "racing_games",
+      "title": "Le Mans Ultimate - Steam",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iUGtxbHRfOW5tc3lGLVRYeVFSNklzS3VXZ3ZGclRZNy1uR3VIbXNSbE9MUEk1SXBhQ1o0SURyakF0YlVsTUNYeVR1ZGl1Q3VQT3BaemFwd3Y1RjUyUFZ1Q0JEb0l1eFlDS0JKQg?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Le Mans Ultimate Steam",
+      "published_utc": "2026-11-26T01:40:46+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iUGtxbHRfOW5tc3lGLVRYeVFSNklzS3VXZ3ZGclRZNy1uR3VIbXNSbE9MUEk1SXBhQ1o0SURyakF0YlVsTUNYeVR1ZGl1Q3VQT3BaemFwd3Y1RjUyUFZ1Q0JEb0l1eFlDS0JKQg?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T01:40:46+00:00",
+          "title": "Le Mans Ultimate - Steam"
+        }
+      ]
+    },
+    {
+      "id": "1ed46440c0aafad36cf52567",
+      "topic": "racing_games",
+      "title": "Arctic Drive on Steam - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Db2N4QXJxbEtaYnFJbnJLNEJYUEtaZ2JPVW15NWstTlI2eV9kaVlJX19VYWhDWnRJc1lYcGhzU0xEMEJXeXNTMl82OWc1WmYtME93TVVoYmZ6SFEwWnBfUVMzOEVfdjg?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Arctic Drive on Steam Steam",
+      "published_utc": "2026-11-26T00:17:20+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Db2N4QXJxbEtaYnFJbnJLNEJYUEtaZ2JPVW15NWstTlI2eV9kaVlJX19VYWhDWnRJc1lYcGhzU0xEMEJXeXNTMl82OWc1WmYtME93TVVoYmZ6SFEwWnBfUVMzOEVfdjg?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:17:20+00:00",
+          "title": "Arctic Drive on Steam - Steam"
+        }
+      ]
     }
   ],
   "date_unknown": [],
   "health": {
-    "partial": 6,
-    "ok": 17,
-    "deferred": 3,
-    "empty": 10,
-    "skipped": 5,
+    "partial": 8,
+    "ok": 16,
+    "empty": 9,
+    "skipped": 8,
     "manual": 4
   }
 }

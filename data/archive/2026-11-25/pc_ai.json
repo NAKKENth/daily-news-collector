@@ -1224,32 +1224,6 @@
       ]
     },
     {
-      "id": "252b5abe2c9613a724ec12f4",
-      "topic": "pc",
-      "title": "Congratulations to Intel AI Global Impact Festival Winners - Intel",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcU9wTk1aajNBOW1yRkllankxbGRaQ0ZWbTV3TVhXdDhobXp4ZVVXNUs5aS1Hdl91V0NBdnlXWGxGMGg4VkxOV2NkWm5YbXI4SlBXb3J2TldJSFNnZXlDOWN0Nm1YYmJRUENyLWJkbW9tN2VVTmtfcmFHYV9WdVB5anVvTUdfZHdPaFZSUWdPeEh2a1psX2pYWmlMcGxxcjNJM08tNlIwcUw3V1pxOW1nUGZtREt0WlZrc3ZKT1hn?oc=5",
-      "source": "Intel",
-      "publisher": "Intel",
-      "description": "Congratulations to Intel AI Global Impact Festival Winners Intel",
-      "published_utc": "2026-11-25T14:49:13+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "PC技術候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcU9wTk1aajNBOW1yRkllankxbGRaQ0ZWbTV3TVhXdDhobXp4ZVVXNUs5aS1Hdl91V0NBdnlXWGxGMGg4VkxOV2NkWm5YbXI4SlBXb3J2TldJSFNnZXlDOWN0Nm1YYmJRUENyLWJkbW9tN2VVTmtfcmFHYV9WdVB5anVvTUdfZHdPaFZSUWdPeEh2a1psX2pYWmlMcGxxcjNJM08tNlIwcUw3V1pxOW1nUGZtREt0WlZrc3ZKT1hn?oc=5",
-          "source": "Intel",
-          "publisher": "Intel",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T14:49:13+00:00",
-          "title": "Congratulations to Intel AI Global Impact Festival Winners - Intel"
-        }
-      ]
-    },
-    {
       "id": "b2d424f3ce87902713e0c77a",
       "topic": "pc",
       "title": "DRAM Market Bulletin - Nov. 25, 2026 - TrendForce",
@@ -5767,84 +5741,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T22:02:20+00:00",
           "title": "RTL Design Engineer - Networking/ DPU/ AI Systems in Santa Clara, California | Advanced Micro Devices, Inc - AMD"
-        }
-      ]
-    },
-    {
-      "id": "4e778748b9c43230852e9f0f",
-      "topic": "pc",
-      "title": "PC Processor and Graphics Community - AMD",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE50elpEaExzbVpXem9jMjM0V2FyZlVaSFJWOVpxQTFoUWFORmlLMEJxbEhYdS03Z0dyQ0psN1lPYw?oc=5",
-      "source": "AMD",
-      "publisher": "AMD",
-      "description": "PC Processor and Graphics Community AMD",
-      "published_utc": "2026-11-25T06:29:49+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "PC技術候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE50elpEaExzbVpXem9jMjM0V2FyZlVaSFJWOVpxQTFoUWFORmlLMEJxbEhYdS03Z0dyQ0psN1lPYw?oc=5",
-          "source": "AMD",
-          "publisher": "AMD",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T06:29:49+00:00",
-          "title": "PC Processor and Graphics Community - AMD"
-        }
-      ]
-    },
-    {
-      "id": "efcbe4f0fc778b9a07afe8f2",
-      "topic": "pc",
-      "title": "Community Forums - AMD",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5N3owS202NVZVWnNvTURNeDdLcGxfWTZBR19WUF95MnlkZmtjWnJONUxlY3dTa1pJLVNlUTdUZnJvalZtQVJidXVvUUU2aDE4NEU1Ul9GeEtqZw?oc=5",
-      "source": "AMD",
-      "publisher": "AMD",
-      "description": "Community Forums AMD",
-      "published_utc": "2026-11-25T13:29:49+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5N3owS202NVZVWnNvTURNeDdLcGxfWTZBR19WUF95MnlkZmtjWnJONUxlY3dTa1pJLVNlUTdUZnJvalZtQVJidXVvUUU2aDE4NEU1Ul9GeEtqZw?oc=5",
-          "source": "AMD",
-          "publisher": "AMD",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T13:29:49+00:00",
-          "title": "Community Forums - AMD"
-        }
-      ]
-    },
-    {
-      "id": "77ea168110302a36986e6971",
-      "topic": "pc",
-      "title": "export-compliance-review - AMD - AMD",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ybTEtT0ZlWGpHa3RQdmJ5UEJJanplT29NRERGWEtEVW9GRVNEQ1FkSTlJMk1hOXlzb0piQmhfRXpoUHJ1b1BFUjRURXZMcUVZcUZPQWZ4eE53ekVjRUJJNVJyUjR4d3Utdm9fZ2tlZw?oc=5",
-      "source": "AMD",
-      "publisher": "AMD",
-      "description": "export-compliance-review - AMD AMD",
-      "published_utc": "2026-11-25T02:16:18+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ybTEtT0ZlWGpHa3RQdmJ5UEJJanplT29NRERGWEtEVW9GRVNEQ1FkSTlJMk1hOXlzb0piQmhfRXpoUHJ1b1BFUjRURXZMcUVZcUZPQWZ4eE53ekVjRUJJNVJyUjR4d3Utdm9fZ2tlZw?oc=5",
-          "source": "AMD",
-          "publisher": "AMD",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T02:16:18+00:00",
-          "title": "export-compliance-review - AMD - AMD"
         }
       ]
     },
@@ -17659,6 +17555,242 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T18:33:02+00:00",
           "title": "Share and unshare chats | Claude Help Center - Claude Help Center"
+        }
+      ]
+    },
+    {
+      "id": "6ab9e08edca0eccc06fed632",
+      "topic": "ai",
+      "title": "Inkling 2 Mini vs Qwen3.8 27B - Release Intelligence, Performance & Price Comparison - Artificial Analysis",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWV0bkFmRERWSEMycmdyUkpjZjFwZHkxVVR1b2sycUFsTlRHMkJBMWR1TkRyRWg1U3kxV2VtcWFwRlV6UmpTa2xFZkdndXVvRkFHVDJLQnZRemZEd3BoTkY4M3FDYWU4a0g4YVU5UVBfdUd5NWFhbXZzNGNkRVhDV2RoSnE?oc=5",
+      "source": "Artificial Analysis",
+      "publisher": "Artificial Analysis",
+      "description": "Inkling 2 Mini vs Qwen3.8 27B - Release Intelligence, Performance & Price Comparison Artificial Analysis",
+      "published_utc": "2026-11-25T11:00:36+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWV0bkFmRERWSEMycmdyUkpjZjFwZHkxVVR1b2sycUFsTlRHMkJBMWR1TkRyRWg1U3kxV2VtcWFwRlV6UmpTa2xFZkdndXVvRkFHVDJLQnZRemZEd3BoTkY4M3FDYWU4a0g4YVU5UVBfdUd5NWFhbXZzNGNkRVhDV2RoSnE?oc=5",
+          "source": "Artificial Analysis",
+          "publisher": "Artificial Analysis",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T11:00:36+00:00",
+          "title": "Inkling 2 Mini vs Qwen3.8 27B - Release Intelligence, Performance & Price Comparison - Artificial Analysis"
+        }
+      ]
+    },
+    {
+      "id": "15337bd2a3873021f1c2693d",
+      "topic": "pc",
+      "title": "Technical Program Manager - Windows Security (1 year contract) in MARKHAM, Canada | Advanced Micro Devices, Inc - AMD",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZaDNQMzJZSEhJWjAxdE9oQnhra2tGemdDYnZtb0pfYlVfOVJHNHo1OWlVM2Fta2pMY3I5emE2WEVBblNkd0hkX3pwMTVXbHVKZVB6VG5ON2JRRlJqNkQxR0dhQ1FFMkFJU2c?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "Technical Program Manager - Windows Security (1 year contract) in MARKHAM, Canada | Advanced Micro Devices, Inc AMD",
+      "published_utc": "2026-11-25T08:43:48+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZaDNQMzJZSEhJWjAxdE9oQnhra2tGemdDYnZtb0pfYlVfOVJHNHo1OWlVM2Fta2pMY3I5emE2WEVBblNkd0hkX3pwMTVXbHVKZVB6VG5ON2JRRlJqNkQxR0dhQ1FFMkFJU2c?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:43:48+00:00",
+          "title": "Technical Program Manager - Windows Security (1 year contract) in MARKHAM, Canada | Advanced Micro Devices, Inc - AMD"
+        }
+      ]
+    },
+    {
+      "id": "10e9c06bac3122151ff84a59",
+      "topic": "pc",
+      "title": "GPU Systems Software Engineer (AI Runtime & Compiler Infrastructure) - AMD",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZdkpjRjFuajFUMFZkdzFESDNvcy1BSi1OUlpHSG9MX3BrS3lVUjhxZmFyOHY4eFljZ0ZkbnRINUlJbDkzZjFVbVczR1FucnctMGFYWmhvcFBUVmZZMWZzdjNtV1JibjBGZWc?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "GPU Systems Software Engineer (AI Runtime & Compiler Infrastructure) AMD",
+      "published_utc": "2026-11-25T11:21:21+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZdkpjRjFuajFUMFZkdzFESDNvcy1BSi1OUlpHSG9MX3BrS3lVUjhxZmFyOHY4eFljZ0ZkbnRINUlJbDkzZjFVbVczR1FucnctMGFYWmhvcFBUVmZZMWZzdjNtV1JibjBGZWc?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T11:21:21+00:00",
+          "title": "GPU Systems Software Engineer (AI Runtime & Compiler Infrastructure) - AMD"
+        }
+      ]
+    },
+    {
+      "id": "4c5ca023d89250a339232519",
+      "topic": "pc",
+      "title": "Using Console window in a IFX Fortran DLL: Alternative to AllocConsole()? - Intel Community",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOVNRRnctY3Y0NDdYeGVWRzRfaExLdlRoVElqRWdCR2paZk9VTC1zN2czVjE5blNHcFUzMjBZXzdjdnI1dVBlRldsZ1pEQmpOeGlMdktJei15VzZkeG1WMGVUUzJPR1NYalRObWJPUnVqU21zclFlMGZnekF1S2Y4RndkajNtVFdNd05DOTJ2d3dmcjlOQ01ZYXpNRTF4RmlZc0Fpa0xiNHhPUQ?oc=5",
+      "source": "Intel",
+      "publisher": "Intel Community",
+      "description": "Using Console window in a IFX Fortran DLL: Alternative to AllocConsole()? Intel Community",
+      "published_utc": "2026-11-25T07:55:50+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "8b9b5908d109",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOVNRRnctY3Y0NDdYeGVWRzRfaExLdlRoVElqRWdCR2paZk9VTC1zN2czVjE5blNHcFUzMjBZXzdjdnI1dVBlRldsZ1pEQmpOeGlMdktJei15VzZkeG1WMGVUUzJPR1NYalRObWJPUnVqU21zclFlMGZnekF1S2Y4RndkajNtVFdNd05DOTJ2d3dmcjlOQ01ZYXpNRTF4RmlZc0Fpa0xiNHhPUQ?oc=5",
+          "source": "Intel",
+          "publisher": "Intel Community",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T07:55:50+00:00",
+          "title": "Using Console window in a IFX Fortran DLL: Alternative to AllocConsole()? - Intel Community"
+        }
+      ]
+    },
+    {
+      "id": "7d50ba4ee31a274d0a2b4d1a",
+      "topic": "pc",
+      "title": "Building the Next Generation of AI- Ready Patient Monitoring - Intel® Industry Solution Builders",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUnV5STZkYlFFYVJoTlZuc1lGbDUxMlhSZ1dFVVV6aTRyeVRrd2tnazdRYnpHU0U5eVdsWV9ld3o1cE9KX1pOR2x2LVF5RVNpSTV2cnJyMm5Fd1UxUlNzNjBtUFVPUkpLVEFKcWtYQjFxLUF2UTZGTVVhaUhuM1lVQWEzNldJNVFBYVlSU1ZUWmU5SkJzc204eDkxSGkzZXBqYW4tQm9rWDRmMHN1cndoWHRQN09UZVdXeWFTZXh3cw?oc=5",
+      "source": "Intel",
+      "publisher": "Intel® Industry Solution Builders",
+      "description": "Building the Next Generation of AI- Ready Patient Monitoring Intel® Industry Solution Builders",
+      "published_utc": "2026-11-25T10:33:40+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUnV5STZkYlFFYVJoTlZuc1lGbDUxMlhSZ1dFVVV6aTRyeVRrd2tnazdRYnpHU0U5eVdsWV9ld3o1cE9KX1pOR2x2LVF5RVNpSTV2cnJyMm5Fd1UxUlNzNjBtUFVPUkpLVEFKcWtYQjFxLUF2UTZGTVVhaUhuM1lVQWEzNldJNVFBYVlSU1ZUWmU5SkJzc204eDkxSGkzZXBqYW4tQm9rWDRmMHN1cndoWHRQN09UZVdXeWFTZXh3cw?oc=5",
+          "source": "Intel",
+          "publisher": "Intel® Industry Solution Builders",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T10:33:40+00:00",
+          "title": "Building the Next Generation of AI- Ready Patient Monitoring - Intel® Industry Solution Builders"
+        }
+      ]
+    },
+    {
+      "id": "fc328a89cc3522d009906382",
+      "topic": "pc",
+      "title": "Intel® Optane™ 300 Series Compatibility - Intel Community",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JeUwxWmJMY0p2aVpfcFFneEF5M1AteXowc1ZCWFQzRnVJRGE0RGszdDZSZjBVNEpuc0N4eEZCY0xRUkdfVGU1ODRMZFFNb1I1NHlqZjF6YkRtMXBNMnlsRjFXWXhWUHF1VV8yTGMtMGJOUFlNTUJtd0hCRk9vbzg?oc=5",
+      "source": "Intel",
+      "publisher": "Intel Community",
+      "description": "Intel® Optane™ 300 Series Compatibility Intel Community",
+      "published_utc": "2026-11-25T11:25:23+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JeUwxWmJMY0p2aVpfcFFneEF5M1AteXowc1ZCWFQzRnVJRGE0RGszdDZSZjBVNEpuc0N4eEZCY0xRUkdfVGU1ODRMZFFNb1I1NHlqZjF6YkRtMXBNMnlsRjFXWXhWUHF1VV8yTGMtMGJOUFlNTUJtd0hCRk9vbzg?oc=5",
+          "source": "Intel",
+          "publisher": "Intel Community",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T11:25:23+00:00",
+          "title": "Intel® Optane™ 300 Series Compatibility - Intel Community"
+        }
+      ]
+    },
+    {
+      "id": "c61ae42f6886bcb2a4703f83",
+      "topic": "pc",
+      "title": "Half-Life: Alyx (DX11) crashes in igc-default64.dll when loading a1_intro_world_2 – Arc B390, driver 32.0.101.9175 - Intel Community",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVnJlODRiTXBHYTdpTkZHMndpZjBnQk1OVjl6RVppSEY0TENhMmh3VmhRQVMtRXZEZnhXN0hLc1JGYVltQXZQWnJrV0JWczYwUWY5bVprbGpfaDFZdkhJMWdyVlgta1QtaHBNdnhJM2c4eHZqMUlTczIyQ185eHJLc2NNcktsZTM3SU9SOTE5NGRVMHF3YVdyVlJvWlhjeENsMEZ2UUt3TFdGTFZDeGtvOG4yM1dZTlFaWERSU0NONmtib3VIV2NnaXZ3OVpvRGRFanZpTW5HMG5BT3VCZlE?oc=5",
+      "source": "Intel",
+      "publisher": "Intel Community",
+      "description": "Half-Life: Alyx (DX11) crashes in igc-default64.dll when loading a1_intro_world_2 – Arc B390, driver 32.0.101.9175 Intel Community",
+      "published_utc": "2026-11-25T07:33:47+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVnJlODRiTXBHYTdpTkZHMndpZjBnQk1OVjl6RVppSEY0TENhMmh3VmhRQVMtRXZEZnhXN0hLc1JGYVltQXZQWnJrV0JWczYwUWY5bVprbGpfaDFZdkhJMWdyVlgta1QtaHBNdnhJM2c4eHZqMUlTczIyQ185eHJLc2NNcktsZTM3SU9SOTE5NGRVMHF3YVdyVlJvWlhjeENsMEZ2UUt3TFdGTFZDeGtvOG4yM1dZTlFaWERSU0NONmtib3VIV2NnaXZ3OVpvRGRFanZpTW5HMG5BT3VCZlE?oc=5",
+          "source": "Intel",
+          "publisher": "Intel Community",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T07:33:47+00:00",
+          "title": "Half-Life: Alyx (DX11) crashes in igc-default64.dll when loading a1_intro_world_2 – Arc B390, driver 32.0.101.9175 - Intel Community"
+        }
+      ]
+    },
+    {
+      "id": "ee3b296947b0e5004718ea8f",
+      "topic": "pc",
+      "title": "Using Console window in a IFX Fortran DLL: Alternative to AllocConsole()? - Intel Community",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaUZlbUdvaDdCaGd5Ry1NZEFTQUJiMUFRUHJuNXA2Z2tiMUFTdGZxdGNra1Q1Zm9pUHNFYTF3QWUxVmM2TDMwWmZaUFYyeEhhNW5xWjNZVkgtM3hyU1dGdXVJWkQ1akc5eWNYOVlRcG81cGVjTU51cldDZDNLdGY0SGtxNEpsQVJUc2lwZGZhdVIzNlJmZG84RFlSWHZYTTNycU9Cck1YRmxpLXVY?oc=5",
+      "source": "Intel",
+      "publisher": "Intel Community",
+      "description": "Using Console window in a IFX Fortran DLL: Alternative to AllocConsole()? Intel Community",
+      "published_utc": "2026-11-25T07:55:50+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "8b9b5908d109",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaUZlbUdvaDdCaGd5Ry1NZEFTQUJiMUFRUHJuNXA2Z2tiMUFTdGZxdGNra1Q1Zm9pUHNFYTF3QWUxVmM2TDMwWmZaUFYyeEhhNW5xWjNZVkgtM3hyU1dGdXVJWkQ1akc5eWNYOVlRcG81cGVjTU51cldDZDNLdGY0SGtxNEpsQVJUc2lwZGZhdVIzNlJmZG84RFlSWHZYTTNycU9Cck1YRmxpLXVY?oc=5",
+          "source": "Intel",
+          "publisher": "Intel Community",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T07:55:50+00:00",
+          "title": "Using Console window in a IFX Fortran DLL: Alternative to AllocConsole()? - Intel Community"
+        }
+      ]
+    },
+    {
+      "id": "2485316fc62fe21fcd8b48ae",
+      "topic": "pc",
+      "title": "Industrial Edge AI with Intel® Core™ Ultra Series 3 - Intel® Industry Solution Builders",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYmQ1eU5CWEdCTk4zSWFwMDFvWTVETlByeHhIbk1LUlBvMHVMUVdOcXFmbVIyTks5elZjeHd2TzE2a0MwWFUwZDZmODUwbXlVOXVWb0dMSHRNTlF4QWRoLVVpS3Y0aHVBTl83M213WGd3X3pGU3NmRk5wTkhuZTFvV1FwdzZwZTl3dTZ6VTNzWlMwZ3VyUXlUUi1walh4dmdSWjNMVE91UExFRjh0RGlRR2FB?oc=5",
+      "source": "Intel",
+      "publisher": "Intel® Industry Solution Builders",
+      "description": "Industrial Edge AI with Intel® Core™ Ultra Series 3 Intel® Industry Solution Builders",
+      "published_utc": "2026-11-25T08:26:02+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYmQ1eU5CWEdCTk4zSWFwMDFvWTVETlByeHhIbk1LUlBvMHVMUVdOcXFmbVIyTks5elZjeHd2TzE2a0MwWFUwZDZmODUwbXlVOXVWb0dMSHRNTlF4QWRoLVVpS3Y0aHVBTl83M213WGd3X3pGU3NmRk5wTkhuZTFvV1FwdzZwZTl3dTZ6VTNzWlMwZ3VyUXlUUi1walh4dmdSWjNMVE91UExFRjh0RGlRR2FB?oc=5",
+          "source": "Intel",
+          "publisher": "Intel® Industry Solution Builders",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:26:02+00:00",
+          "title": "Industrial Edge AI with Intel® Core™ Ultra Series 3 - Intel® Industry Solution Builders"
         }
       ]
     }

@@ -45,6 +45,33 @@
     "reason": "一覧・ナビゲーション候補"
   },
   {
+    "id": "5759694f8a1b0d7e4ff61150",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "- AMD",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE85YmlZZWdCZ0dUbDJvT0k5VVp1TVp4c2NRMHJ3dUxzdmZNWWVYRkppT0R6UzJ6Z0E3dThuQkgtTHo3dkVkZzJVcGdjNmpSdw?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "aef61b7428f46ca5e0345d46",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "- AMD",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Oa0hoLW5Cb1NzYXJjMWlZLVNoZmx4OGRFZy1qSlFKZDR1X3VrWmJDUzh4OGR2di1jYm1NaC1xa0o2ZzdvVjhpMHZKQi1QVlE0Y0pVUXBjeElxWkp0M0YwNUwtaDRWb2M?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "b9f51d181d4f1fea40156da3",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "- AMD",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yOHJ5U1dYNk9NbnZPSEdGa2hiMGl3OGNhR3FCdThBS3hPWEh1aEVVMUs1ZmN1LWx4V2JYcGQyYzBxS2RUamJYdmVOZ1RUdFRz?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
     "id": "490e308b961fbaa71cfdaaca",
     "group": "pc_ai",
     "topic": "pc",
@@ -54,13 +81,13 @@
     "reason": "通常セール・販促・中古"
   },
   {
-    "id": "f51a974d913252e8ebe35f07",
+    "id": "4bc20b587e7fcf302ba6eb1d",
     "group": "pc_ai",
     "topic": "pc",
-    "title": "INNOCN Black Friday Monitor Deals: Save on QD-OLED Gaming, Ultrawide and 4K Displays",
-    "url": "https://www.techpowerup.com/354930/innocn-black-friday-monitor-deals-save-on-qd-oled-gaming-ultrawide-and-4k-displays",
+    "title": "- Intel",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdUh6WjZzdjItSThNRENwVFN3M2lKZWtMSWExNS1GUjFjN0pOT3VIcXFoWkxyZy02M1RJZ3ptOWIybENaUGpoWFgyQW5NX1JlNG1IRndSUFVLb1lnR0FtMFpzVEt6T3hLY2J2UTByRGh1aUxCT2dpVUdLaWZ1ZDJmdXVnV09LelFT?oc=5",
     "triage": "exclude",
-    "reason": "通常セール・販促・中古"
+    "reason": "一覧・ナビゲーション候補"
   },
   {
     "id": "a1d6a287bc093f79aad133ed",
@@ -178,6 +205,33 @@
     "url": "https://www.soundguys.com/hyperx-cloud-stinger-3-black-friday-deal-166829",
     "triage": "exclude",
     "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "8a044f4de6a6baee9bec8c28",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "- AMD",
+    "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5ZRFNvT2J2ZTBETjF6VFdrUU41OE9va3pRNDdxaWtaRWF1TThZaUo0aXlpV3lER0RBZ0lCTTBB?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "7b171bee6d57bba4aca526e6",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "- AMD",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yaDNKLVpNamlYekR3WE1CRl91cndRcTdNamlfeWQ3cDV4YTZoZmY1SzJld0pRRkhiUlJxM2RVNHROWVRTbnB0RVowd0YxV0lI?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "56ceb8bdd844e31c717ebb2f",
+    "group": "pc_ai",
+    "topic": "pc",
+    "title": "- AMD",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFS0xXMWhvc2pwem1JbWIwTG9pVUIxalRaYV9sMjltVnFrRWNpcm45X200VTN5TGl6RW9pYXpwbUJSOEQ4Q1dMM1NvQllTeHEzY1RTWGpYSmQ1SUln?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
   },
   {
     "id": "34253f1d19e9f0c9cb330fba",
@@ -1886,6 +1940,24 @@
     "topic": "tws",
     "title": "Google's Pixel Watch 5 Black Friday deal just got even better - Android Authority",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGeHYzUFBKUHprb24wSUR1R1NSTVh3bTNpS015bGFCN3dQWGlDUE5aN19WVElldDNxSGYtZndNTEJFemYyOWI4ZEwwOUQzcWp5clRaSExJY3NrZFJ6X0huYzFlQk11UWVrZUZOU2lCbno0Z043WEpNQkhGdw?oc=5",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "677dc8191b4f5efe721ac267",
+    "group": "audio",
+    "topic": "wired",
+    "title": "イヤホンも！モバイルバッテリーも！NASも安い！人気ブランド「UGREEN」がAmazonブラックフライデーで超お買い得！",
+    "url": "http://www.phileweb.com/review/column/202611/27/3239.html",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "dabea558ccc32c79534996e4",
+    "group": "audio",
+    "topic": "wired",
+    "title": "Raal SR1A + Jotunheim R + case (Seasonal price drop) - Head-Fi.org",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZWYxVElQWkJiRm1LVGxzaWRBVldnZnA2NkpXRVV4NnZpcVotaTZTTFpJekgwcVc4ZXFkdXFkQUhLWDhpQWctOUZ0T2RuWTYxWmd0eFRpYUMtQ1ZGS3p0d3drR3piYW1jSVdBMWMyd1pVeHJUT2g2NGJYRmVVamtYMG85VHpMaE1QVmZndFdCWVhES19E?oc=5",
     "triage": "exclude",
     "reason": "通常セール・販促・中古"
   }

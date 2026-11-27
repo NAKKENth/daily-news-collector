@@ -1,4 +1,4 @@
-# WRC / 2026-11-24 / 候補 1–25
+# WRC / 2026-11-24 / 候補 1–26
 
 - [New details emerge on Lancia&#8217;s WRC future after Stellantis makes drastic decision](https://rallyjournal.com/new-details-emerge-on-lancias-wrc-future-after-stellantis-makes-drastic-decision) — RallyJournal｜優先｜2026-11-23T16:03:57+00:00 UTC｜article_metadata
 - [ステランティス・クライシス！　WECとフォーミュラEから撤退しラリーを含むカスタマー活動に専念](https://www.rallyplus.net/129932) — RALLY PLUS｜優先｜2026-11-24T03:00:04+00:00 UTC｜article_metadata
@@ -23,5 +23,6 @@
 - [Spa 1 (12.37km) - 11 Spa Rally 2026 - eWRC-results.com](https://news.google.com/rss/articles/CBMidEFVX3lxTE5QV2x6UlVJSzAyOGZyRmR4Sl9lY3dSQmpaWF85SUN2WWRjT25QNkg4dVZ0NXpNZGV4RnJVX3R6MUIxSzNSVGRjTUFjQ3REbklLTDlsUHN3VWFLWDBrZVlHNnNZVzJVRENuSGpHVmRPdDVJMnRo?oc=5) — eWRC results｜要確認｜2026-11-23T18:34:46+00:00 UTC｜discovery_index
 - [Stats 2 Rally Storico del Brunello - Classiche 2026 - eWRC-results.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzE2UjJFU1A1MmVPZ0hza2w4aEl2Y2FNMW1IWUstYVBJZm85SkItMEZXX1VOUWRyZk5wZXRqZFE0a1NsMDJDNlI4bFRLMHFQOXlRU2hhOERHQVptSXdYbkh5Vm9KYnJIWTcwanhQWDBadTBfcXRiMk9OWnVZSFJOMkxEZGt1cnQ4andCSFdB?oc=5) — eWRC results｜要確認｜2026-11-24T02:27:22+00:00 UTC｜discovery_index
 - [Timetable TRAC4N Rally - Day 2 2026 - eWRC-results.com](https://news.google.com/rss/articles/CBMie0FVX3lxTE9aM2tRTVJEYUl2eWlWZVRIV0w3eHRCSEtjcWM0Wk9wVnV2NGJxOGdoM1E1cm93VmhzdkxXSE9GbnpLRDc4c2hqbkNOVlZQWHk2SHFKeVJKelFmY1I3cmlxOFJfSzRKZ05pNVFxQlFZWVVpSXBvUUxIVHhBNA?oc=5) — eWRC results｜要確認｜2026-11-24T07:08:32+00:00 UTC｜discovery_index
+- [Vernet Marelyse - eWRC-results.com](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaaDI2ZHhvV2RtX2dkSFFONjJzenFwNm1jVkhrQmZiVEpiamFMbkYxMTU2NDVmTWJXRDdVTXk3Zi05Y2tuUlRMcE5sRkNYemttN2dYUnhNSGxLN29Fc0FKUlREQXc5RF83?oc=5) — eWRC results｜要確認｜2026-11-24T14:36:30+00:00 UTC｜discovery_index
 - [lg_itinerary | TRAC4N Rally - Day 1 2026 - eWRC-results.com](https://news.google.com/rss/articles/CBMie0FVX3lxTFBJYW0tazBscElINy1ic05FNDF1a00yWW5MLU0zX2pvMEV5U0VrY3dPTW9SQVJkYkJtNEk5OGpTTUpzbmJpeVpHdExIdHF5Vjh2bnU2Q3JVUnRzR3JMRnY1UkhWaUpEZ1NjcmZBYXY3dTQzdF9XNWZ4cl8zVQ?oc=5) — eWRC results｜要確認｜2026-11-24T07:08:33+00:00 UTC｜discovery_index
 - [旧碓氷峠と新ステージを攻略！“王者”新井大輝がモントレー制し今季6勝／全日本ラリー最終戦 - autosport web](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TaTRLdjA5TzcwTUxWdjE5Vjltb2dxT0FlR3UycWNPRkdpWk9pUWNNQm5mSnRtU2Z0Tkw5dHltekVycXZNbFdmWTdTTQ?oc=5) — AUTOSPORT web｜要確認｜2026-11-24T11:41:00+00:00 UTC｜discovery_index

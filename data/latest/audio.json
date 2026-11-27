@@ -1380,11 +1380,11 @@
     {
       "id": "6d31fb408c24df508d4b49d0",
       "topic": "wired",
-      "title": "Tiandirenhe TD20 - Head-Fi.org",
+      "title": "Tiandirenhe TD20 - Reviews - Head-Fi.org",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43bG9NamZ6QjZBUHZkTEdEOVpubU5hSzFhZ19rczdVMEI1SFEwNHBGak9vQlN5ODQtYnBuTnRPU04tRGNqcjZhYTFmWGxjMkRKaVJITWljMVFtOXZiYXllX255RDlpVTZsM1BKQm1ENzY?oc=5",
       "source": "Head-Fi",
       "publisher": "Head-Fi.org",
-      "description": "Tiandirenhe TD20 Head-Fi.org",
+      "description": "Tiandirenhe TD20 - Reviews Head-Fi.org",
       "published_utc": "2026-11-25T23:50:51+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
@@ -1399,7 +1399,7 @@
           "publisher": "Head-Fi.org",
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T23:50:51+00:00",
-          "title": "Tiandirenhe TD20 - Head-Fi.org"
+          "title": "Tiandirenhe TD20 - Reviews - Head-Fi.org"
         }
       ]
     },
@@ -2861,32 +2861,6 @@
       ]
     },
     {
-      "id": "f87378393004ea4aaf39c3ba",
-      "topic": "tws",
-      "title": "Open Earbuds - JBL",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBudDFnelNqNlFaUDgyWF93VTBGZGprdDJFS2x6TE9oSGtVZTNDYzNfakcybktuZEhDTTVhaXlQM2EtY25ZNE5pVA?oc=5",
-      "source": "JBL",
-      "publisher": "JBL",
-      "description": "Open Earbuds JBL",
-      "published_utc": "2026-11-26T13:28:11+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "対象オーディオ候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBudDFnelNqNlFaUDgyWF93VTBGZGprdDJFS2x6TE9oSGtVZTNDYzNfakcybktuZEhDTTVhaXlQM2EtY25ZNE5pVA?oc=5",
-          "source": "JBL",
-          "publisher": "JBL",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T13:28:11+00:00",
-          "title": "Open Earbuds - JBL"
-        }
-      ]
-    },
-    {
       "id": "884a7b1cd46b34f15ca6aec3",
       "topic": "wired",
       "title": "Refurbished Headphones - JBL",
@@ -3623,6 +3597,370 @@
           "title": "AES XLR output Card for PC to DAC - Audio Science Review (ASR) Forum"
         }
       ]
+    },
+    {
+      "id": "add87c86c67e9823d14bdbe4",
+      "topic": "wired",
+      "title": "BLUESOUND「BluOS」がYouTube Musicに対応。3億曲以上のカタログへ直接アクセス／マルチルーム再生も可能",
+      "url": "http://www.phileweb.com/news/d-av/202611/27/66479.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "PDNは、同社が取り扱うBLUESOUND（ブルーサウンド）製品の無償アップデートをアナウンス。本アップデートにより、ブランド独自のオーディオプラットフォーム「BluOS」が、新たにYouTube Musicへ対応する。",
+      "published_utc": "2026-11-26T11:47:45+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/news/d-av/202611/27/66479.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T11:47:45+00:00",
+          "title": "BLUESOUND「BluOS」がYouTube Musicに対応。3億曲以上のカタログへ直接アクセス／マルチルーム再生も可能"
+        }
+      ]
+    },
+    {
+      "id": "f7104544a1159833971d2065",
+      "topic": "tws",
+      "title": "Make your favourite tunes truly POP with the JBL Live Beam 4 🧡🎵 [ JBL India, Live Beam 4, Bluetooth Earbuds, JBL ] - JBL",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPN2tidFZJRnU1ZUt1ZzBOSF9neUhQZDVVTnFMRnFNVHliMEp1YzVsdGRpTTc5Y2Y1VE03Nk5NRTNhbDVPSjgyQ0ZaanBiQ19JLWFMYkJpVWtNcWNLaHVfY1VEQVVvLXZfTVQ4QWlZV0JXU3dISWtCWHRWZXR0TUNqSHFLaHRicDRpWHNSYUlLemlGRGY1YU5PNE9FbnhEZm0wRlc5TmNZWTVfcjd2dnpXdVljUXFTQmhQOHdsOWRicXBwcHlaYnVselMzaTFqTFh3N1dOSWZ6OS1FZTlBWTV4QTdPa0dUYlF0eE5VOFBNN2J2Vmx1X0N6RTBaOEdfZkxpaW93VE9fZmhObUhvemUxTWRVc2diTlZ3bDNnSTNaQkVIRDVYZzVxUE91SnNlVWlNSnFJ?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "Make your favourite tunes truly POP with the JBL Live Beam 4 🧡🎵 [ JBL India, Live Beam 4, Bluetooth Earbuds, JBL ] JBL",
+      "published_utc": "2026-11-25T23:24:01+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPN2tidFZJRnU1ZUt1ZzBOSF9neUhQZDVVTnFMRnFNVHliMEp1YzVsdGRpTTc5Y2Y1VE03Nk5NRTNhbDVPSjgyQ0ZaanBiQ19JLWFMYkJpVWtNcWNLaHVfY1VEQVVvLXZfTVQ4QWlZV0JXU3dISWtCWHRWZXR0TUNqSHFLaHRicDRpWHNSYUlLemlGRGY1YU5PNE9FbnhEZm0wRlc5TmNZWTVfcjd2dnpXdVljUXFTQmhQOHdsOWRicXBwcHlaYnVselMzaTFqTFh3N1dOSWZ6OS1FZTlBWTV4QTdPa0dUYlF0eE5VOFBNN2J2Vmx1X0N6RTBaOEdfZkxpaW93VE9fZmhObUhvemUxTWRVc2diTlZ3bDNnSTNaQkVIRDVYZzVxUE91SnNlVWlNSnFJ?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T23:24:01+00:00",
+          "title": "Make your favourite tunes truly POP with the JBL Live Beam 4 🧡🎵 [ JBL India, Live Beam 4, Bluetooth Earbuds, JBL ] - JBL"
+        }
+      ]
+    },
+    {
+      "id": "be65c83e3e638e82f373d2c8",
+      "topic": "wired",
+      "title": "UA Pivot Headphones: Volume Control Information - JBL",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR2R0UFRXZ0hzWlB5VkR2VmZEelo3LVl2Z0pXY3kySHIwaFBuekthYzRFajBpWE1DYzFYS3FRNGFIRFpyZ19DRnluQlgycXBYekI3MGt2NUVlZVVXUWVvX1lianhDMTZsYWRMb3IzcVJ1OUQ0RnlVYWljSzFQU1lmRkMwU0pKZ1JGZkVYaFBWbU5JOW91d2ZfYjdZZE53WDBVd0g3cA?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "UA Pivot Headphones: Volume Control Information JBL",
+      "published_utc": "2026-11-26T00:35:06+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR2R0UFRXZ0hzWlB5VkR2VmZEelo3LVl2Z0pXY3kySHIwaFBuekthYzRFajBpWE1DYzFYS3FRNGFIRFpyZ19DRnluQlgycXBYekI3MGt2NUVlZVVXUWVvX1lianhDMTZsYWRMb3IzcVJ1OUQ0RnlVYWljSzFQU1lmRkMwU0pKZ1JGZkVYaFBWbU5JOW91d2ZfYjdZZE53WDBVd0g3cA?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:35:06+00:00",
+          "title": "UA Pivot Headphones: Volume Control Information - JBL"
+        }
+      ]
+    },
+    {
+      "id": "fed7534425c0157d14b5ef6d",
+      "topic": "portable_dac",
+      "title": "Fosi StepSense™ C1 Gaming DAC - Gallery - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGRvZTh6cE5sVUxvd2s1Ql9MTkVOVlBuajgxY3Q1RVlfdkF4N2Rhanp1WWVKUU1fS1F3ZXB2WHJVX00zZEdsV3FSZkNEa0VjRnpwWnJ6eFdCUHY5bmdLUm5SNHFHQ1F2Z1EzWHZqcE1jRnE5T2NXX3JGMmJOcWlWVFNwSWh5aFV3TFBESA?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Fosi StepSense™ C1 Gaming DAC - Gallery Head-Fi.org",
+      "published_utc": "2026-11-26T04:00:46+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGRvZTh6cE5sVUxvd2s1Ql9MTkVOVlBuajgxY3Q1RVlfdkF4N2Rhanp1WWVKUU1fS1F3ZXB2WHJVX00zZEdsV3FSZkNEa0VjRnpwWnJ6eFdCUHY5bmdLUm5SNHFHQ1F2Z1EzWHZqcE1jRnE5T2NXX3JGMmJOcWlWVFNwSWh5aFV3TFBESA?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T04:00:46+00:00",
+          "title": "Fosi StepSense™ C1 Gaming DAC - Gallery - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "2c0ecc2692e17b5467ef218e",
+      "topic": "wired",
+      "title": "Bundle IEM Sale - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFay1yc3A4RmdZdzQzY1hoV0Jfb0xnWGoyUTVYN0RQMjNIU0poOUppSkJHd0xZRy1tODZWOVNHUWpQUlVsT3ZIMDVSZGJMeUt5OUhxZWJvaFcwUEphUW9UNWpYaFRqY0RQM3hR?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Bundle IEM Sale Head-Fi.org",
+      "published_utc": "2026-11-26T01:32:58+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFay1yc3A4RmdZdzQzY1hoV0Jfb0xnWGoyUTVYN0RQMjNIU0poOUppSkJHd0xZRy1tODZWOVNHUWpQUlVsT3ZIMDVSZGJMeUt5OUhxZWJvaFcwUEphUW9UNWpYaFRqY0RQM3hR?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T01:32:58+00:00",
+          "title": "Bundle IEM Sale - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "af8e7e41a507520b0c0a967e",
+      "topic": "wired",
+      "title": "Headphone Stands by Borykworkshop - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT0hQbWR3Mjh6TUItUHh4Ri15YTI3dWlYaUNudXZhdFViN3NUc1VvOXlqZUUxaUd2dF8wVHJ5VXRpZDNOZkdMUnBJeWhZcnhIdFRrWVVaOW91dUdGUExBUnpyWl94VzdxLVNnZ3I0VXJ3SVdZV0duSGpjbkQ4TjJWb1hCcw?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Headphone Stands by Borykworkshop Head-Fi.org",
+      "published_utc": "2026-11-25T21:35:51+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT0hQbWR3Mjh6TUItUHh4Ri15YTI3dWlYaUNudXZhdFViN3NUc1VvOXlqZUUxaUd2dF8wVHJ5VXRpZDNOZkdMUnBJeWhZcnhIdFRrWVVaOW91dUdGUExBUnpyWl94VzdxLVNnZ3I0VXJ3SVdZV0duSGpjbkQ4TjJWb1hCcw?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T21:35:51+00:00",
+          "title": "Headphone Stands by Borykworkshop - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "deff75271ec329a4dfbabfb2",
+      "topic": "wired",
+      "title": "Micro sd 1-2tb - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0M1cwNlhvdFpJektwLXNzdzlYQzVhVVBUUk95cG8ybFlBZjVYUnc0cHZ0WjVjaW40TndmRUJTLVcxSGRrR2JyQjFhWjZTSTZ6ZXpWUElVX0kwbjU0U2lrUjBaUWtPODdGSXc?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Micro sd 1-2tb Head-Fi.org",
+      "published_utc": "2026-11-25T21:35:51+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0M1cwNlhvdFpJektwLXNzdzlYQzVhVVBUUk95cG8ybFlBZjVYUnc0cHZ0WjVjaW40TndmRUJTLVcxSGRrR2JyQjFhWjZTSTZ6ZXpWUElVX0kwbjU0U2lrUjBaUWtPODdGSXc?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T21:35:51+00:00",
+          "title": "Micro sd 1-2tb - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "c21c1301e38c14593c1cdccd",
+      "topic": "portable_dac",
+      "title": "Neutron DAC V1 - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnUjFYamdSck4wYXc2QkE4QVNrX3V2bXBDMVNpc2dHT2N2NHJlVjkyZ205UlVoTEdGb1ljTXhKbE0ySHctcnpfbGtGOFprV01nd0VEeVdacXNyem1TZS04UG1qbmxWMHI3Z0E?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Neutron DAC V1 Head-Fi.org",
+      "published_utc": "2026-11-26T00:30:40+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnUjFYamdSck4wYXc2QkE4QVNrX3V2bXBDMVNpc2dHT2N2NHJlVjkyZ205UlVoTEdGb1ljTXhKbE0ySHctcnpfbGtGOFprV01nd0VEeVdacXNyem1TZS04UG1qbmxWMHI3Z0E?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:30:40+00:00",
+          "title": "Neutron DAC V1 - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "480853195dbc37306c7ca35b",
+      "topic": "wired",
+      "title": "Sennheiser IE900 - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOR1NEZjdLSjMtejBmU3BFczhCajhhc25lRy1JSHgxMHlsWUhMcGZUR1ZGX2pGUlhkWUNybVJoeTlsckJHU1NtcHFLQ0VxWWEydTFESURCQnZaNEFLc3VjRjF2M3RZaTBvYzlkeg?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Sennheiser IE900 Head-Fi.org",
+      "published_utc": "2026-11-26T00:30:41+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOR1NEZjdLSjMtejBmU3BFczhCajhhc25lRy1JSHgxMHlsWUhMcGZUR1ZGX2pGUlhkWUNybVJoeTlsckJHU1NtcHFLQ0VxWWEydTFESURCQnZaNEFLc3VjRjF2M3RZaTBvYzlkeg?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:30:41+00:00",
+          "title": "Sennheiser IE900 - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "fc4f7744eaefb75526fa90c1",
+      "topic": "wired",
+      "title": "Myer Audio CK2V + Dunu Lyre Pro - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FWjRISVByS0M5VDNqdEd3NFZQNmtvQnA5X3FzSXVlRjBEVnVzeWw5NmVGbi02cl9JS09RczBHSHJ5R2dGOXpuWVh6MW9FZ01NZURNUnJ5Zlg5eFBuWW03bjQxVTh1czhxekFjbHVPMmYwYUpFTmlSbEpsUDdRdw?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Myer Audio CK2V + Dunu Lyre Pro Head-Fi.org",
+      "published_utc": "2026-11-26T00:30:41+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FWjRISVByS0M5VDNqdEd3NFZQNmtvQnA5X3FzSXVlRjBEVnVzeWw5NmVGbi02cl9JS09RczBHSHJ5R2dGOXpuWVh6MW9FZ01NZURNUnJ5Zlg5eFBuWW03bjQxVTh1czhxekFjbHVPMmYwYUpFTmlSbEpsUDdRdw?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:30:41+00:00",
+          "title": "Myer Audio CK2V + Dunu Lyre Pro - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "c451de0a59e51e8b937b6865",
+      "topic": "wired",
+      "title": "Draupnir Launch Edition by Viking Audio Forge + Pads - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWDhBRWYtOHBZQk5rZm5aSnJjMWNaVkNqYlFnNEpPQ3JiVVZVbS1XZ0F3cXpsblYtMXgwbkx4Y3JXVzlIczB4M2wyLVFfRjhRTENwbXNOZEltbDBjd3VucTJNdVlrbE1xcks3MUZ4Y0k0UDEyYlZGVm9GR1B1WW9RaVVnemRFUGRrVV9WdW5QWFdfUl9SbEgwQWdB?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Draupnir Launch Edition by Viking Audio Forge + Pads Head-Fi.org",
+      "published_utc": "2026-11-26T12:51:46+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWDhBRWYtOHBZQk5rZm5aSnJjMWNaVkNqYlFnNEpPQ3JiVVZVbS1XZ0F3cXpsblYtMXgwbkx4Y3JXVzlIczB4M2wyLVFfRjhRTENwbXNOZEltbDBjd3VucTJNdVlrbE1xcks3MUZ4Y0k0UDEyYlZGVm9GR1B1WW9RaVVnemRFUGRrVV9WdW5QWFdfUl9SbEgwQWdB?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:51:46+00:00",
+          "title": "Draupnir Launch Edition by Viking Audio Forge + Pads - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "8cdc0fca323602c393dfe7a5",
+      "topic": "wired",
+      "title": "Epic Audio Intoxication - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kb1pPQmJvM0xkQ2liTWhzS2pmVTBTVTlBMnhzeXN6dGpjb2UyRDZRZHJ6RkNJR1NuOUJndzJXVlptUUxEN0xqWmY3VTRXRlBKSGJDM0syM2lyczFYVnZKNDRoMmR3ZndFYUN6YU5kNWxoNEtwT2c?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Epic Audio Intoxication Head-Fi.org",
+      "published_utc": "2026-11-26T13:11:26+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kb1pPQmJvM0xkQ2liTWhzS2pmVTBTVTlBMnhzeXN6dGpjb2UyRDZRZHJ6RkNJR1NuOUJndzJXVlptUUxEN0xqWmY3VTRXRlBKSGJDM0syM2lyczFYVnZKNDRoMmR3ZndFYUN6YU5kNWxoNEtwT2c?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T13:11:26+00:00",
+          "title": "Epic Audio Intoxication - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "be18da08f64058d5bf5d5e3d",
+      "topic": "wired",
+      "title": "DCA E3 (Dan Clark Audio) - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EdVFmN3VXVGhyODlUZmtNZ01FZHlINXBuTEJRU2w4LUhKaVcxZjZ0czVHdFI3aFB5dXVNSFRvbEl0S29TUjliaHVZME9iVzVmamJHVlVZN1E1VjlYLTZ0ZEVJX1kxZDFjUzV2cHVCZkNDSXV3?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "DCA E3 (Dan Clark Audio) Head-Fi.org",
+      "published_utc": "2026-11-26T01:32:58+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EdVFmN3VXVGhyODlUZmtNZ01FZHlINXBuTEJRU2w4LUhKaVcxZjZ0czVHdFI3aFB5dXVNSFRvbEl0S29TUjliaHVZME9iVzVmamJHVlVZN1E1VjlYLTZ0ZEVJX1kxZDFjUzV2cHVCZkNDSXV3?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T01:32:58+00:00",
+          "title": "DCA E3 (Dan Clark Audio) - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "c362579bc4d8157529cfe6c7",
+      "topic": "wired",
+      "title": "Effect Audio Perseus - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vRnFpaGdhTFd4TkU2ZkxuTWU3VTNYQVdZNlJQMGoxb3NPOXRlTldqN285RUVNT0RjU3ZyQXY0M3BNU2FycXJJVEdnT0ZYdzNvT2ZpV3BPckJ6Ql80QXg4eTZlUFlldC04aEVNdDA0REFIQQ?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Effect Audio Perseus Head-Fi.org",
+      "published_utc": "2026-11-26T09:32:57+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vRnFpaGdhTFd4TkU2ZkxuTWU3VTNYQVdZNlJQMGoxb3NPOXRlTldqN285RUVNT0RjU3ZyQXY0M3BNU2FycXJJVEdnT0ZYdzNvT2ZpV3BPckJ6Ql80QXg4eTZlUFlldC04aEVNdDA0REFIQQ?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T09:32:57+00:00",
+          "title": "Effect Audio Perseus - Head-Fi.org"
+        }
+      ]
     }
   ],
   "date_unknown": [
@@ -3688,11 +4026,11 @@
     }
   ],
   "health": {
-    "partial": 17,
-    "ok": 12,
-    "deferred": 8,
-    "empty": 2,
-    "skipped": 3,
+    "partial": 19,
+    "ok": 11,
+    "deferred": 6,
+    "empty": 1,
+    "skipped": 5,
     "manual": 2
   }
 }

@@ -922,6 +922,32 @@
       ]
     },
     {
+      "id": "0a48a62370b3ec24b03b462d",
+      "topic": "F1",
+      "title": "Lewis Hamilton and Charles Leclerc face potential Ferrari sanctions – reports - PlanetF1",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR3JZeE5yT2pkR3hfaWg2S2s1SnRFRzNnVGpVMzVIS2QyUV9OLUtqSkpJY2xhQTVtZGtzR0NsRnAxSnhmSlJCLVd6elc4Sl9EazZTeUJwTzNXYi1ZRkgtRjlZOVV2SW14d0VkdTVxLXVOb19jejNlUm9SanFVMzhrd2Vpa2s1dw?oc=5",
+      "source": "PlanetF1",
+      "publisher": "PlanetF1",
+      "description": "Lewis Hamilton and Charles Leclerc face potential Ferrari sanctions – reports PlanetF1",
+      "published_utc": "2026-11-25T07:17:24+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR3JZeE5yT2pkR3hfaWg2S2s1SnRFRzNnVGpVMzVIS2QyUV9OLUtqSkpJY2xhQTVtZGtzR0NsRnAxSnhmSlJCLVd6elc4Sl9EazZTeUJwTzNXYi1ZRkgtRjlZOVV2SW14d0VkdTVxLXVOb19jejNlUm9SanFVMzhrd2Vpa2s1dw?oc=5",
+          "source": "PlanetF1",
+          "publisher": "PlanetF1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T07:17:24+00:00",
+          "title": "Lewis Hamilton and Charles Leclerc face potential Ferrari sanctions – reports - PlanetF1"
+        }
+      ]
+    },
+    {
       "id": "3c4cd26091bf0f27349c295d",
       "topic": "F1",
       "title": "McLaren and Red Bull F1 2026 gains under Sainz scrutiny - PlanetF1",
@@ -1256,32 +1282,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T22:20:53+00:00",
           "title": "Zack Albert - NASCAR.com"
-        }
-      ]
-    },
-    {
-      "id": "c7f34738962f5c26b6597e5e",
-      "topic": "NASCAR",
-      "title": "Ross Chastain Archives - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BM1RSQzd1Q0p1Z0Q1Xy12UFhmLXhDVjFXek82Z3lQbExKZkJBcHNfVlZoNFhGTGh3T0JSemxMcFFVZ1FFZTFDTEhzOS0zRGp6US0yb1puZ2cxSHRGVWszS1doUndNOUt4ZXA2ZGk5T04wUWs?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "Ross Chastain Archives NASCAR.com",
-      "published_utc": "2026-11-24T20:38:40+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BM1RSQzd1Q0p1Z0Q1Xy12UFhmLXhDVjFXek82Z3lQbExKZkJBcHNfVlZoNFhGTGh3T0JSemxMcFFVZ1FFZTFDTEhzOS0zRGp6US0yb1puZ2cxSHRGVWszS1doUndNOUt4ZXA2ZGk5T04wUWs?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T20:38:40+00:00",
-          "title": "Ross Chastain Archives - NASCAR.com"
         }
       ]
     },
@@ -5348,32 +5348,6 @@
       ]
     },
     {
-      "id": "bc1147b9c1ac10ded5cb39d0",
-      "topic": "F1",
-      "title": "Kimi Antonelli to Ferrari? Toto Wolff makes feelings clear - PlanetF1",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5N19MN016bERWc24wbHloNVFqV2pTTTQ2cmdsWDZjWmd4bFZKSGE3N1VPTkxsa0VxWVpKSmhSb202d2hla1BnX1M5Qkc5MFV3SWFYUlNuV29MTHNnWUZzYWE1Mk9xa3dsd3pIUzZtWEg?oc=5",
-      "source": "PlanetF1",
-      "publisher": "PlanetF1",
-      "description": "Kimi Antonelli to Ferrari? Toto Wolff makes feelings clear PlanetF1",
-      "published_utc": "2026-11-24T22:42:14+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技名一致・新規性の確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5N19MN016bERWc24wbHloNVFqV2pTTTQ2cmdsWDZjWmd4bFZKSGE3N1VPTkxsa0VxWVpKSmhSb202d2hla1BnX1M5Qkc5MFV3SWFYUlNuV29MTHNnWUZzYWE1Mk9xa3dsd3pIUzZtWEg?oc=5",
-          "source": "PlanetF1",
-          "publisher": "PlanetF1",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T22:42:14+00:00",
-          "title": "Kimi Antonelli to Ferrari? Toto Wolff makes feelings clear - PlanetF1"
-        }
-      ]
-    },
-    {
       "id": "1ebc8b7e3407392254dd9d95",
       "topic": "F1",
       "title": "Max Verstappen at centre of McLaren revelation over Lando Norris - PlanetF1",
@@ -9173,7 +9147,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Bubba Wallace NASCAR.com",
-      "published_utc": "2026-11-25T07:57:23+00:00",
+      "published_utc": "2026-11-24T16:57:23+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -9186,34 +9160,8 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T07:57:23+00:00",
+          "published_utc": "2026-11-24T16:57:23+00:00",
           "title": "Bubba Wallace - NASCAR.com"
-        }
-      ]
-    },
-    {
-      "id": "ad73841af6cde0cec3ff8690",
-      "topic": "NASCAR",
-      "title": "Nathan Solomon - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iMlB3WmJ1NUJiUEQzMzNxdEJfUEc2SzREX2pubUgwSmFnN1hHSk1RU0tTRDBrRmpmMTNnSG1qeFR3S3lGc0NmSHFKdF9DUWR6XzZlbHVIeWs4a2hKWWNkMg?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "Nathan Solomon NASCAR.com",
-      "published_utc": "2026-11-24T22:50:58+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iMlB3WmJ1NUJiUEQzMzNxdEJfUEc2SzREX2pubUgwSmFnN1hHSk1RU0tTRDBrRmpmMTNnSG1qeFR3S3lGc0NmSHFKdF9DUWR6XzZlbHVIeWs4a2hKWWNkMg?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T22:50:58+00:00",
-          "title": "Nathan Solomon - NASCAR.com"
         }
       ]
     },
@@ -10727,6 +10675,32 @@
       ]
     },
     {
+      "id": "f0b5825075dd051b34dd1559",
+      "topic": "NASCAR",
+      "title": "Gio Ruggiero Archives - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0dnVYYkpTeF9KRkZaNTdxOHZIanNOakxlTV84d3p0UVZlLWQ5cGlPSi1BemRkaWRXOUtfWEk1a290ZTNTYkx4YU1Tb0dOckRyMU9kQ3Nocnd3T0VjN2tQYlVfbE9NRVdKcENVNFNucWY2dw?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Gio Ruggiero Archives NASCAR.com",
+      "published_utc": "2026-11-25T08:04:05+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0dnVYYkpTeF9KRkZaNTdxOHZIanNOakxlTV84d3p0UVZlLWQ5cGlPSi1BemRkaWRXOUtfWEk1a290ZTNTYkx4YU1Tb0dOckRyMU9kQ3Nocnd3T0VjN2tQYlVfbE9NRVdKcENVNFNucWY2dw?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:04:05+00:00",
+          "title": "Gio Ruggiero Archives - NASCAR.com"
+        }
+      ]
+    },
+    {
       "id": "f9d9d7c704e2807fb99e4721",
       "topic": "NASCAR",
       "title": "Series Archives - NASCAR.com",
@@ -11165,6 +11139,136 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T19:17:10+00:00",
           "title": "Nico Hulkenberg F1 Gifting Season , Nico Hulkenberg Formula 1 Gifting Season - F1 Store"
+        }
+      ]
+    },
+    {
+      "id": "78914f02a610bb7301205f94",
+      "topic": "other_motorsport",
+      "title": "【写真3】オリバー・ベアマン（ハース） - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTZDhWb1ZPV1RnQ0p4T1dUNGJBSml6UUsyaEN1a01UWFBvWGVSUWtwbS1wdnQ3SlpsSm05a2xEcDZEeGU1djEwNXU0MTJlNkZ0eGZKV29weUxqMHdlbEc2NXByZzVOYUcyeGc?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真3】オリバー・ベアマン（ハース） autosport web",
+      "published_utc": "2026-11-25T08:29:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTZDhWb1ZPV1RnQ0p4T1dUNGJBSml6UUsyaEN1a01UWFBvWGVSUWtwbS1wdnQ3SlpsSm05a2xEcDZEeGU1djEwNXU0MTJlNkZ0eGZKV29weUxqMHdlbEc2NXByZzVOYUcyeGc?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:29:00+00:00",
+          "title": "【写真3】オリバー・ベアマン（ハース） - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "71be971578b37b844295d484",
+      "topic": "WRC",
+      "title": "Cavadini A. - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rZ0ZMbVNjR3V2a3hPWFFNdURaT3RLcVlCbWRKd21zZjZkMnV0WjZ5VDZlV1NLeGJfaHBDakRMZ21WWVZSQzNDMWNfN0k5WDlheDRGOGZ2dVJaM0hQUU1v?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Cavadini A. eWRC-results.com",
+      "published_utc": "2026-11-24T19:28:13+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rZ0ZMbVNjR3V2a3hPWFFNdURaT3RLcVlCbWRKd21zZjZkMnV0WjZ5VDZlV1NLeGJfaHBDakRMZ21WWVZSQzNDMWNfN0k5WDlheDRGOGZ2dVJaM0hQUU1v?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T19:28:13+00:00",
+          "title": "Cavadini A. - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "77479127d2aa18d65c49ced2",
+      "topic": "WRC",
+      "title": "Penalties 29 Mikulás Rallye 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvNEQ3ZUZ4MXVmeURUV0V0Z3BRQVVPMzc5ZkdJY1MzNG91NmdoTEFDOExDVENTTWFHS1JRQ1BPdVBOeW95ZXQyeVdRNi1jems0X3RiV2pjYl9wQW1sRTB5N0JsRllqRDVNMXdUb3FuUHdVdkk?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Penalties 29 Mikulás Rallye 2026 eWRC-results.com",
+      "published_utc": "2026-11-24T18:05:46+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvNEQ3ZUZ4MXVmeURUV0V0Z3BRQVVPMzc5ZkdJY1MzNG91NmdoTEFDOExDVENTTWFHS1JRQ1BPdVBOeW95ZXQyeVdRNi1jems0X3RiV2pjYl9wQW1sRTB5N0JsRllqRDVNMXdUb3FuUHdVdkk?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T18:05:46+00:00",
+          "title": "Penalties 29 Mikulás Rallye 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "a75cb0a58499143c44340cf5",
+      "topic": "WRC",
+      "title": "Walther Jean-Jacques - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhdXA0VEpGNWMtM0lvZ1ZrcURMTGNJZUVPUkozbHA3aktSTGZiWGNoQ3E0YURXVk9Rb3hYRzZLb2V1WlpjYzZ2QmZnbmtJZ3BPOGtiNHdmUDZoWlZaaXQtUTNtS1J0eUNHSG5Xcw?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Walther Jean-Jacques eWRC-results.com",
+      "published_utc": "2026-11-25T10:24:49+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhdXA0VEpGNWMtM0lvZ1ZrcURMTGNJZUVPUkozbHA3aktSTGZiWGNoQ3E0YURXVk9Rb3hYRzZLb2V1WlpjYzZ2QmZnbmtJZ3BPOGtiNHdmUDZoWlZaaXQtUTNtS1J0eUNHSG5Xcw?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T10:24:49+00:00",
+          "title": "Walther Jean-Jacques - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "00c5bbfdc89fee7c4ec3ceb7",
+      "topic": "F1",
+      "title": "Mercedes Standings - PlanetF1",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Edks1SF9WaVBqZjluWEp4U3lCVGk2Rmpvcmc1VlZtS2ZSTjRrelRPaE1HazlIS2xCaDVhbVFNN2xXT2tPM0RjU0V4d2VmQkpqbjJLSmpPc1YtMTh2bVZJMkpTQQ?oc=5",
+      "source": "PlanetF1",
+      "publisher": "PlanetF1",
+      "description": "Mercedes Standings PlanetF1",
+      "published_utc": "2026-11-25T00:44:04+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Edks1SF9WaVBqZjluWEp4U3lCVGk2Rmpvcmc1VlZtS2ZSTjRrelRPaE1HazlIS2xCaDVhbVFNN2xXT2tPM0RjU0V4d2VmQkpqbjJLSmpPc1YtMTh2bVZJMkpTQQ?oc=5",
+          "source": "PlanetF1",
+          "publisher": "PlanetF1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T00:44:04+00:00",
+          "title": "Mercedes Standings - PlanetF1"
         }
       ]
     }

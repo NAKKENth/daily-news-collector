@@ -136,6 +136,58 @@
       ]
     },
     {
+      "id": "252b5abe2c9613a724ec12f4",
+      "topic": "pc",
+      "title": "Congratulations to Intel AI Global Impact Festival Winners - Intel",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcU9wTk1aajNBOW1yRkllankxbGRaQ0ZWbTV3TVhXdDhobXp4ZVVXNUs5aS1Hdl91V0NBdnlXWGxGMGg4VkxOV2NkWm5YbXI4SlBXb3J2TldJSFNnZXlDOWN0Nm1YYmJRUENyLWJkbW9tN2VVTmtfcmFHYV9WdVB5anVvTUdfZHdPaFZSUWdPeEh2a1psX2pYWmlMcGxxcjNJM08tNlIwcUw3V1pxOW1nUGZtREt0WlZrc3ZKT1hn?oc=5",
+      "source": "Intel",
+      "publisher": "Intel",
+      "description": "Congratulations to Intel AI Global Impact Festival Winners Intel",
+      "published_utc": "2026-11-26T05:49:57+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcU9wTk1aajNBOW1yRkllankxbGRaQ0ZWbTV3TVhXdDhobXp4ZVVXNUs5aS1Hdl91V0NBdnlXWGxGMGg4VkxOV2NkWm5YbXI4SlBXb3J2TldJSFNnZXlDOWN0Nm1YYmJRUENyLWJkbW9tN2VVTmtfcmFHYV9WdVB5anVvTUdfZHdPaFZSUWdPeEh2a1psX2pYWmlMcGxxcjNJM08tNlIwcUw3V1pxOW1nUGZtREt0WlZrc3ZKT1hn?oc=5",
+          "source": "Intel",
+          "publisher": "Intel",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T05:49:57+00:00",
+          "title": "Congratulations to Intel AI Global Impact Festival Winners - Intel"
+        }
+      ]
+    },
+    {
+      "id": "85af91d1d97beb2d7728f239",
+      "topic": "pc",
+      "title": "The Best Employee Experiences Start with Technology that Works Together - Intel",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd3lPTE1BZWZrZktfSm5Id0JtdUFnMGtMdmVnbnVnOXpNa2RuRkNxMHZrdHZCRzZuRzlJY010TEM0dVRmb1ZZNkJtSERiMzBkVWlaV0xaU2o0ZXpGTGlRN2l4UTFGbkt0eTdpOEtaMFZvTFZGZ0pTcll6RkFhTTBQZXRadkZpamotc0pGd2tZZHo0ZWh3Mnc1aDhxSzY3RjY5VnJOVk15ODBVd2VEcF91RjB6STdua3hZekZUMmRCRzRNTGdySVVqYTB3emEtYTQtRTl4V0lPSWZGeDdTa2xqUQ?oc=5",
+      "source": "Intel",
+      "publisher": "Intel",
+      "description": "The Best Employee Experiences Start with Technology that Works Together Intel",
+      "published_utc": "2026-11-25T23:42:43+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd3lPTE1BZWZrZktfSm5Id0JtdUFnMGtMdmVnbnVnOXpNa2RuRkNxMHZrdHZCRzZuRzlJY010TEM0dVRmb1ZZNkJtSERiMzBkVWlaV0xaU2o0ZXpGTGlRN2l4UTFGbkt0eTdpOEtaMFZvTFZGZ0pTcll6RkFhTTBQZXRadkZpamotc0pGd2tZZHo0ZWh3Mnc1aDhxSzY3RjY5VnJOVk15ODBVd2VEcF91RjB6STdua3hZekZUMmRCRzRNTGdySVVqYTB3emEtYTQtRTl4V0lPSWZGeDdTa2xqUQ?oc=5",
+          "source": "Intel",
+          "publisher": "Intel",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T23:42:43+00:00",
+          "title": "The Best Employee Experiences Start with Technology that Works Together - Intel"
+        }
+      ]
+    },
+    {
       "id": "f7d31a698a6bd2a1c47033a3",
       "topic": "pc",
       "title": "Deep Underground, Intel-Powered Robots Help Make Underground Mining Safer - Intel",
@@ -143,7 +195,7 @@
       "source": "Intel",
       "publisher": "Intel",
       "description": "Deep Underground, Intel-Powered Robots Help Make Underground Mining Safer Intel",
-      "published_utc": "2026-11-25T18:48:11+00:00",
+      "published_utc": "2026-11-26T07:42:54+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -156,34 +208,8 @@
           "source": "Intel",
           "publisher": "Intel",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T18:48:11+00:00",
+          "published_utc": "2026-11-26T07:42:54+00:00",
           "title": "Deep Underground, Intel-Powered Robots Help Make Underground Mining Safer - Intel"
-        }
-      ]
-    },
-    {
-      "id": "2ea5dcbc07b82d7503060594",
-      "topic": "ai",
-      "title": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWm96THVxRG9rTGtUbFBtN2lpUDJ0RWd3WmI5dHZfeUQ5MWFZdXd0NHQ4YTlMb2otYUxwTUpTMXp4NnRlMmljYmZZSHZydTl3dEl0ZmJMUURVSEl0UXhndFZSWUwwZ0JXRWNiQ3M1OHByWm1yX0FwOTJkNFhRdlFIUVotZDlqT3otXy0xQ0FTeE4yNFdkZW9KazlKbmwyYUpuWmZSeHlLaw?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T23:40:28+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWm96THVxRG9rTGtUbFBtN2lpUDJ0RWd3WmI5dHZfeUQ5MWFZdXd0NHQ4YTlMb2otYUxwTUpTMXp4NnRlMmljYmZZSHZydTl3dEl0ZmJMUURVSEl0UXhndFZSWUwwZ0JXRWNiQ3M1OHByWm1yX0FwOTJkNFhRdlFIUVotZDlqT3otXy0xQ0FTeE4yNFdkZW9KazlKbmwyYUpuWmZSeHlLaw?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T23:40:28+00:00",
-          "title": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -195,7 +221,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Getting started with your dot | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-26T06:18:51+00:00",
+      "published_utc": "2026-11-26T06:29:45+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -208,7 +234,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T06:18:51+00:00",
+          "published_utc": "2026-11-26T06:29:45+00:00",
           "title": "Getting started with your dot | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -221,7 +247,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "ChatGPT for Academic Researchers | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-26T00:06:25+00:00",
+      "published_utc": "2026-11-26T01:05:53+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -234,7 +260,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T00:06:25+00:00",
+          "published_utc": "2026-11-26T01:05:53+00:00",
           "title": "ChatGPT for Academic Researchers | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -247,7 +273,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "ChatGPT Rate Card (Enterprise token-based pricing) | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-26T11:13:23+00:00",
+      "published_utc": "2026-11-25T22:16:09+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -260,34 +286,86 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T11:13:23+00:00",
+          "published_utc": "2026-11-25T22:16:09+00:00",
           "title": "ChatGPT Rate Card (Enterprise token-based pricing) | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
     {
-      "id": "be5319ac27fa963840c3ad0e",
-      "topic": "pc",
-      "title": "GIGABYTE and Newegg Bring \"AORUS VS40\" to Southern California in November 2026",
-      "url": "https://www.techpowerup.com/355019/gigabyte-and-newegg-bring-aorus-vs40-to-southern-california-in-november-2026",
-      "source": "TechPowerUp",
-      "publisher": "TechPowerUp",
-      "description": "GIGABYTE and Newegg will host AORUS VS40 at the Newegg Gamer Zone in City of Industry, California, on Saturday, November 21, 2026, from 11 a.m. to 4 p.m. PST. The event invites local collegiate PC gamers and hardware enthusiasts to celebrate 40 years of GIGABYTE by putting their skills to the test on the tournament floor and at gaming stations thro",
-      "published_utc": "2026-11-26T11:22:20+00:00",
+      "id": "1b5e0407568a1686dcbf0050",
+      "topic": "ai",
+      "title": "Setting up your business on ChatGPT | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "Setting up your business on ChatGPT | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-26T01:12:15+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
-      "link_role": "source_article",
-      "date_quality": "feed_published",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T01:12:15+00:00",
+          "title": "Setting up your business on ChatGPT | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "4e778748b9c43230852e9f0f",
+      "topic": "pc",
+      "title": "PC Processor and Graphics Community - AMD",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE50elpEaExzbVpXem9jMjM0V2FyZlVaSFJWOVpxQTFoUWFORmlLMEJxbEhYdS03Z0dyQ0psN1lPYw?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "PC Processor and Graphics Community AMD",
+      "published_utc": "2026-11-26T09:51:59+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE50elpEaExzbVpXem9jMjM0V2FyZlVaSFJWOVpxQTFoUWFORmlLMEJxbEhYdS03Z0dyQ0psN1lPYw?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T09:51:59+00:00",
+          "title": "PC Processor and Graphics Community - AMD"
+        }
+      ]
+    },
+    {
+      "id": "77ea168110302a36986e6971",
+      "topic": "pc",
+      "title": "export-compliance-review - AMD - AMD",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ybTEtT0ZlWGpHa3RQdmJ5UEJJanplT29NRERGWEtEVW9GRVNEQ1FkSTlJMk1hOXlzb0piQmhfRXpoUHJ1b1BFUjRURXZMcUVZcUZPQWZ4eE53ekVjRUJJNVJyUjR4d3Utdm9fZ2tlZw?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "export-compliance-review - AMD AMD",
+      "published_utc": "2026-11-26T04:20:02+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
         {
-          "url": "https://www.techpowerup.com/355019/gigabyte-and-newegg-bring-aorus-vs40-to-southern-california-in-november-2026",
-          "source": "TechPowerUp",
-          "publisher": "TechPowerUp",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-26T11:22:20+00:00",
-          "title": "GIGABYTE and Newegg Bring \"AORUS VS40\" to Southern California in November 2026"
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ybTEtT0ZlWGpHa3RQdmJ5UEJJanplT29NRERGWEtEVW9GRVNEQ1FkSTlJMk1hOXlzb0piQmhfRXpoUHJ1b1BFUjRURXZMcUVZcUZPQWZ4eE53ekVjRUJJNVJyUjR4d3Utdm9fZ2tlZw?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T04:20:02+00:00",
+          "title": "export-compliance-review - AMD - AMD"
         }
       ]
     },
@@ -325,7 +403,7 @@
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
       "description": "Typing faster is useful, but what if practice could also teach you something? Typing 365 is a free native Windows app that combines structured typing lessons, educational content, and competitive challenges. With over 100,000 installs and nearly 4 million typing races completed worldwide , Typing 365 has grown into more than a speed test. Its Album",
-      "published_utc": "2026-11-26T00:55:17+00:00",
+      "published_utc": "2026-11-26T02:38:58+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
@@ -338,8 +416,34 @@
           "source": "TechPowerUp",
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-26T00:55:17+00:00",
+          "published_utc": "2026-11-26T02:38:58+00:00",
           "title": "Typing 365 Turns PC Building, Technology and More into Typing Practice"
+        }
+      ]
+    },
+    {
+      "id": "348123e2ac32f1a4f1c92c03",
+      "topic": "ai",
+      "title": "ChatGPT Work and Codex | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hdmNxc1ZRV1ZUazhMY3VGR2NDeEtvTk96ZkJMRHhYczhuZ29tSVJfNnJXN1ZzanVFVFN0dE5pMGg5ZTJiU3Yzb1hFM1czamFpdkxIaFdla2d1UVo2LVZiVTV3cnN5ZmJkeU9LLXp0Z0hvY2pyR0E?oc=5",
+      "source": "OpenAI",
+      "publisher": "OpenAI Help Center",
+      "description": "ChatGPT Work and Codex | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-26T00:31:12+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hdmNxc1ZRV1ZUazhMY3VGR2NDeEtvTk96ZkJMRHhYczhuZ29tSVJfNnJXN1ZzanVFVFN0dE5pMGg5ZTJiU3Yzb1hFM1czamFpdkxIaFdla2d1UVo2LVZiVTV3cnN5ZmJkeU9LLXp0Z0hvY2pyR0E?oc=5",
+          "source": "OpenAI",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:31:12+00:00",
+          "title": "ChatGPT Work and Codex | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -1125,7 +1229,9 @@
           "published_utc": "2026-11-25T15:53:35+00:00",
           "title": "Óculos Ray-Ban Meta enfrentam ação na Alemanha por privacidade"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "59d8287e58b025bf238cb433",
@@ -1151,7 +1257,9 @@
           "published_utc": "2026-11-25T15:46:31+00:00",
           "title": "Ações da Anthropic caem abaixo dos 83 dólares da entrada em bolsa"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://tugatech.com.pt/login"
     },
     {
       "id": "b11e66fcdd685eaa01e80fcd",
@@ -1177,7 +1285,9 @@
           "published_utc": "2026-11-25T15:41:32+00:00",
           "title": "PHP e Node.js originam 33 de 38 falhas exploradas em infraestruturas"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "c120c370a7a4f19eef39acb1",
@@ -1203,7 +1313,9 @@
           "published_utc": "2026-11-25T15:40:31+00:00",
           "title": "Volkswagen lança carregador V2G da Elli com bónus até 720 €"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "c55cb9493882bc8fceb55fc8",
@@ -1229,7 +1341,9 @@
           "published_utc": "2026-11-25T15:12:34+00:00",
           "title": "REDMI Note 18: certificação 3C indica 45 W e fuga aponta 8.888 mAh"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "a044b078733003b1d4b66485",
@@ -2803,9 +2917,9 @@
       "description": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
       "published_utc": "2026-11-25T20:56:44+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2813,11 +2927,15 @@
           "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T20:56:44+00:00",
           "title": "FCC approves SpaceX plan to put AI data centers in space"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T20:56:44+00:00",
+      "article_modified_raw": "2026-11-25T21:15:01+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "938c0579ceaa37e6a57d88f3",
@@ -2852,16 +2970,16 @@
     {
       "id": "ee32ff8ba4bdc57340a29770",
       "topic": "pc",
-      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "title": "Jensen Huang broke Nvidia&#8217;s code of conduct, and his employees may not forget it",
       "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it",
       "source": "TechCrunch",
       "publisher": "TechCrunch",
       "description": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
       "published_utc": "2026-11-25T19:54:57+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -2869,11 +2987,15 @@
           "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T19:54:57+00:00",
-          "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it"
+          "title": "Jensen Huang broke Nvidia&#8217;s code of conduct, and his employees may not forget it"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T19:54:57+00:00",
+      "article_modified_raw": "2026-11-25T20:20:25+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "6db38be9bb1660cd85ae88da",
@@ -2885,9 +3007,9 @@
       "description": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
       "published_utc": "2026-11-25T19:54:32+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2895,11 +3017,15 @@
           "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T19:54:32+00:00",
           "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T19:54:32+00:00",
+      "article_modified_raw": "2026-11-25T20:16:06+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "5c65ca117318ce71ff760169",
@@ -2971,9 +3097,9 @@
       "description": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
       "published_utc": "2026-11-25T18:11:46+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2981,11 +3107,15 @@
           "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T18:11:46+00:00",
           "title": "Want to buy your kid an AI toy this Christmas? Not in New York"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T18:11:46+00:00",
+      "article_modified_raw": "2026-11-25T18:29:23+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "f9c53ca5d77e2ad9c51557cc",
@@ -3027,9 +3157,9 @@
       "description": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
       "published_utc": "2026-11-25T17:35:58+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -3037,11 +3167,15 @@
           "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T17:35:58+00:00",
           "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T17:35:58+00:00",
+      "article_modified_raw": "2026-11-25T19:07:48+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "e4fdb83224cd7d1632b89aa3",
@@ -4490,7 +4624,9 @@
           "published_utc": "2026-11-25T21:47:32+00:00",
           "title": "1Password confirma ataque que expôs dados de milhões de utilizadores"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "0cb1881663d8d11c2294923c",
@@ -4569,6 +4705,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T20:10:39+00:00",
           "title": "FrontierPhysics Benchmark - Artificial Analysis"
+        }
+      ]
+    },
+    {
+      "id": "e83382ca55d834a205dbab3f",
+      "topic": "ai",
+      "title": "Using the built-in browser in the ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSi1uRW9kMTdsUWlHZlZzRS15b3VMYXVtSDRSVi0wSFFSLWp6aUlXRUNqNkU2NldTOHkxRlFmTWlZRVlRcUIzNEZOU1I3WXhrQmVVV1dxbDIxWFJhZERXSGNTSjFXdDhXcm1jbTBzY0JsNEw3Zkd4MzhLOVhFVUZXMjA2VGRrNGFnXzlPQjlEYmNZZHYwOGpFQThUVXpQQkE?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "Using the built-in browser in the ChatGPT desktop app | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-26T01:29:46+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSi1uRW9kMTdsUWlHZlZzRS15b3VMYXVtSDRSVi0wSFFSLWp6aUlXRUNqNkU2NldTOHkxRlFmTWlZRVlRcUIzNEZOU1I3WXhrQmVVV1dxbDIxWFJhZERXSGNTSjFXdDhXcm1jbTBzY0JsNEw3Zkd4MzhLOVhFVUZXMjA2VGRrNGFnXzlPQjlEYmNZZHYwOGpFQThUVXpQQkE?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T01:29:46+00:00",
+          "title": "Using the built-in browser in the ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -4894,9 +5056,9 @@
       "description": "エレコムは、USB 3.2 Gen 2ポートを備え、最大85W出力のUSB Power Deliveryに対応した5in1/6in1のUSB Type-Cドッキングステーション「DST-053BPESV」と「DST-060BPESV」を11月中旬に発売した。直販価格はDST-053BPESVが2,490円、DST-060BPESVが2,890円。",
       "published_utc": "2026-11-26T06:51:35+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -4904,11 +5066,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159546.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T06:51:35+00:00",
           "title": "エレコム、薄型設計で85W給電対応のドッキングステーション"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T15:51:35+09:00",
+      "article_modified_raw": "2026-11-26T15:51:36+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "0408a20af1c57c60a1483f2a",
@@ -4920,9 +5086,9 @@
       "description": "ドイツ・ミュンヘンの開発者Robert Sommer氏は、猫の気分をAIで推定するAndroid向けアプリ「MiaoSense」を2026年9月にリリースした。Google Playで配信しており、無料版のほか、買い切り型の「MiaoSense Pro」を1,640円で提供する。日本語を含む8言語に対応する。",
       "published_utc": "2026-11-26T05:15:03+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -4930,11 +5096,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159499.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T05:15:03+00:00",
           "title": "愛猫はいまどんな気分？表情や動きからAIが読み取る「MiaoSense」"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T14:15:03+09:00",
+      "article_modified_raw": "2026-11-26T14:15:06+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "3f8cb4c75dc8fb6da743491f",
@@ -4946,9 +5116,9 @@
       "description": "Claudeの自律型AIエージェントが、日本でも使えるようになった。Anthropicは、AIエージェントアプリ「Claude Duet」の提供対象地域に日本を追加した。11月26日時点で、Androidアプリは「Claude Duet(早期アクセス)」としてGoogle Playに掲載されており、ウェイトリストに登録したユーザーは順次利用できるようになった模様だ。",
       "published_utc": "2026-11-26T05:01:13+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "AI候補",
       "sources": [
@@ -4956,11 +5126,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159488.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T05:01:13+00:00",
           "title": "自律型AIエージェント「Claude Duet」、日本でも利用可能に"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T14:01:13+09:00",
+      "article_modified_raw": "2026-11-26T14:01:15+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "1b8abbe139aedc611e4cf55b",
@@ -4972,9 +5146,9 @@
       "description": "1Passwordは11月25日(米国時間)、11月19日から調査していたセキュリティインシデントの経過を公表した。攻撃者は社員の業務用GitHubアカウントを乗っ取り、バックエンドサービスに悪意のあるコードを仕込み、一部顧客の管理用データを取得した。プライベートリポジトリからソースコードがコピーされたほか、CI/CDシステムへの侵入もあった。",
       "published_utc": "2026-11-26T02:14:48+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -4982,11 +5156,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159390.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T02:14:48+00:00",
           "title": "1Password、社員GitHub乗っ取りで顧客情報の一部漏洩"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T11:14:48+09:00",
+      "article_modified_raw": "2026-11-26T11:14:49+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "97c50856fdc8afb40ccbc9c3",
@@ -5556,9 +5734,9 @@
       "description": "ASUSは、360mm簡易水冷CPUクーラー「Prime SLC II 360 ARGB LCD」および「Prime LC II 360 ARGB LCD」を11月27日に発売する。価格はオープンプライスで、実売予想価格はいずれも2万2,980円前後の見込み。両機種ともにカラーがホワイトの「White Edition」も用意しており、2万3,980円前後の見込み。",
       "published_utc": "2026-11-26T09:11:00+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -5566,11 +5744,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159585.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T09:11:00+00:00",
           "title": "一体型ファンと3.95型液晶搭載、ASUSの360mm水冷クーラー4モデル"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T18:11:00+09:00",
+      "article_modified_raw": "2026-11-26T18:11:05+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "e26f427ad65359de8433f9bc",
@@ -5582,9 +5764,9 @@
       "description": "パソコン工房を運営するユニットコムは11月25日、「iiyama PC」ブランドでCore 7 240H搭載の15.6型ノートPCを複数モデル発売した。例として「STYLE-15FH127-C7-UCEX」が14万9,800円、「SOLUTION-15FH127-C7-UCFX」が17万4,700円。",
       "published_utc": "2026-11-26T09:04:59+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -5592,11 +5774,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159612.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T09:04:59+00:00",
           "title": "Core 7 240H搭載の15.6型ノートPC、パソコン工房から"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T18:04:59+09:00",
+      "article_modified_raw": "2026-11-26T18:05:00+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "545af9ab79b3a13d53e82ed4",
@@ -8233,16 +8419,16 @@
     {
       "id": "7efb4f68221838543e84c8c0",
       "topic": "pc",
-      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "title": "S&amp;P considers Nvidia credit downgrade over governance and &#8216;key man&#8217; risks",
       "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
       "source": "TechCrunch",
       "publisher": "TechCrunch",
       "description": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
       "published_utc": "2026-11-25T22:44:32+00:00",
       "date_jst": "2026-11-26",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -8250,11 +8436,15 @@
           "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
           "source": "TechCrunch",
           "publisher": "TechCrunch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-25T22:44:32+00:00",
-          "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks"
+          "title": "S&amp;P considers Nvidia credit downgrade over governance and &#8216;key man&#8217; risks"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-25T22:44:32+00:00",
+      "article_modified_raw": "2026-11-25T23:03:31+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "436003a543aef27d185c8668",
@@ -10167,6 +10357,604 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T12:37:44+00:00",
           "title": "J.P. Morgan sees Indian stocks rise further in 2027 after 'great comeback' of 2026 - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "165d7bef1c64246306a26fcc",
+      "topic": "ai",
+      "title": "GLM-5.3 vs. Mistral Small 4: 릴리스 지능, 성능 및 가격 비교 - Artificial Analysis",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTlowTjFweC1IcFBOM0drSHZaUkpXcUtCT0lHNnFGSWlzT3UyR2VKQUdpNzdOMlhBRkNYbWpmc0tJWU1iZFJXWmp2RnFqQTBRdXNTd3ZXcFplYjMtcnJxSDF5X3JRZFUyT1lqR2N0Z2lJaTlJTTRuTmdTNGJQeW5JNUh0OW04cUt5UXFac3FDVXA?oc=5",
+      "source": "Artificial Analysis",
+      "publisher": "Artificial Analysis",
+      "description": "GLM-5.3 vs. Mistral Small 4: 릴리스 지능, 성능 및 가격 비교 Artificial Analysis",
+      "published_utc": "2026-11-26T02:51:25+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTlowTjFweC1IcFBOM0drSHZaUkpXcUtCT0lHNnFGSWlzT3UyR2VKQUdpNzdOMlhBRkNYbWpmc0tJWU1iZFJXWmp2RnFqQTBRdXNTd3ZXcFplYjMtcnJxSDF5X3JRZFUyT1lqR2N0Z2lJaTlJTTRuTmdTNGJQeW5JNUh0OW04cUt5UXFac3FDVXA?oc=5",
+          "source": "Artificial Analysis",
+          "publisher": "Artificial Analysis",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T02:51:25+00:00",
+          "title": "GLM-5.3 vs. Mistral Small 4: 릴리스 지능, 성능 및 가격 비교 - Artificial Analysis"
+        }
+      ]
+    },
+    {
+      "id": "2ff9f1c7f667e06b84a5f8a1",
+      "topic": "pc",
+      "title": "AI Performance and Debug Engineer in San Jose, California | Advanced Micro Devices, Inc - AMD",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81VUozSWNUbVNmV2JfNTFPSUJlVENmU3BvNWVRd21kd0RVUUJNY2IzVUVKdzQzUkRtcXkyX0RrX1lzLU1ZU1ZvMUJKdVlWWWx2SVhBYW1QUGVZdVBXN3AybTNLX1M3YjVEalBZ?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "AI Performance and Debug Engineer in San Jose, California | Advanced Micro Devices, Inc AMD",
+      "published_utc": "2026-11-26T00:44:30+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81VUozSWNUbVNmV2JfNTFPSUJlVENmU3BvNWVRd21kd0RVUUJNY2IzVUVKdzQzUkRtcXkyX0RrX1lzLU1ZU1ZvMUJKdVlWWWx2SVhBYW1QUGVZdVBXN3AybTNLX1M3YjVEalBZ?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:44:30+00:00",
+          "title": "AI Performance and Debug Engineer in San Jose, California | Advanced Micro Devices, Inc - AMD"
+        }
+      ]
+    },
+    {
+      "id": "e80c833f4a478d75e28e5cdc",
+      "topic": "pc",
+      "title": "2027 Term 2 Internship – Device Analysis of Advanced technology node Microprocessors - AMD",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDMENHajY5MzRsczVKdXAwai1SYl9MR1FXVWRNNEZuN2RYMW94MWM4b1ktU3hjenN5LVExMks5ZEw2YnVvZ3c0MGNyNjBFNFNuWEVSem1RYTROTjZRSE9MakRCdDFjbHdfSWdj?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "2027 Term 2 Internship – Device Analysis of Advanced technology node Microprocessors AMD",
+      "published_utc": "2026-11-25T19:59:24+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDMENHajY5MzRsczVKdXAwai1SYl9MR1FXVWRNNEZuN2RYMW94MWM4b1ktU3hjenN5LVExMks5ZEw2YnVvZ3c0MGNyNjBFNFNuWEVSem1RYTROTjZRSE9MakRCdDFjbHdfSWdj?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T19:59:24+00:00",
+          "title": "2027 Term 2 Internship – Device Analysis of Advanced technology node Microprocessors - AMD"
+        }
+      ]
+    },
+    {
+      "id": "2b2657c20ea03bbbfcc557d9",
+      "topic": "pc",
+      "title": "2027 Term 2 Internship - Core Complex (CCX) Diagnostic Test in Singapore, Singapore | Advanced Micro Devices, Inc - AMD",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fcm1vYjZScVhjbEtkLW9YQXh6emJSRWotVVEyNnVfUEtma19zN3ZVdUtnajFTZjdJcnNNbUxBNlNwU3dzOXVQTUVpTm1mbFV3dVRRLTcycjl2bWxQVTBJWEZxT0MtYjE4cDY4?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "2027 Term 2 Internship - Core Complex (CCX) Diagnostic Test in Singapore, Singapore | Advanced Micro Devices, Inc AMD",
+      "published_utc": "2026-11-26T13:45:34+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fcm1vYjZScVhjbEtkLW9YQXh6emJSRWotVVEyNnVfUEtma19zN3ZVdUtnajFTZjdJcnNNbUxBNlNwU3dzOXVQTUVpTm1mbFV3dVRRLTcycjl2bWxQVTBJWEZxT0MtYjE4cDY4?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T13:45:34+00:00",
+          "title": "2027 Term 2 Internship - Core Complex (CCX) Diagnostic Test in Singapore, Singapore | Advanced Micro Devices, Inc - AMD"
+        }
+      ]
+    },
+    {
+      "id": "c58fccadd2a937a5e128a657",
+      "topic": "pc",
+      "title": "2027 Term 2 Internship - IC Design Exploration in Singapore, Singapore | Advanced Micro Devices, Inc - AMD",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nTVVOVmQ1M281alBGX09sVThoLVhMTWdVTG5xSnJlbDE4Q0Q4MUFjeWNKSkpRYjVEVDdIT0hZX2dSX291NjRIdmtOTnFNb2I0NV9zbWdoOEVvRXJYNWZlWjhSTlZHQWc2Y0hj?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "2027 Term 2 Internship - IC Design Exploration in Singapore, Singapore | Advanced Micro Devices, Inc AMD",
+      "published_utc": "2026-11-26T13:43:31+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nTVVOVmQ1M281alBGX09sVThoLVhMTWdVTG5xSnJlbDE4Q0Q4MUFjeWNKSkpRYjVEVDdIT0hZX2dSX291NjRIdmtOTnFNb2I0NV9zbWdoOEVvRXJYNWZlWjhSTlZHQWc2Y0hj?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T13:43:31+00:00",
+          "title": "2027 Term 2 Internship - IC Design Exploration in Singapore, Singapore | Advanced Micro Devices, Inc - AMD"
+        }
+      ]
+    },
+    {
+      "id": "9a4087a4f8ebf5bd12de6c5a",
+      "topic": "pc",
+      "title": "Advancing Muse Spark Open Agentic Inference on AMD GPUs with TokenSpeed - AMD",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaWVjZ0l1Y2tHZ1dsaTRISUkzTGYwTG00Sm05bDFjd1Qtek8tck5HQlg5MGFLZFlYcFJRZkhucmVaUzZFbDd2Mi1uczZkV2Y5QWoxZXc4bWs4NExKcUFYeWctUXdENmprQm91X25LR3JDeE9BNWxiQUhaMW5BVEl6THlsVlRwN3hNTFpMMFRxY0d4bzBUSkRoRXE0ODhlQkpFTDJlZ1NaV2E1SUptemVNVnBRbFV0dGFsdU9PNXpBRWJNZE1zTWxDdGt2U2FtbFJjeWc?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "Advancing Muse Spark Open Agentic Inference on AMD GPUs with TokenSpeed AMD",
+      "published_utc": "2026-11-25T22:23:31+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaWVjZ0l1Y2tHZ1dsaTRISUkzTGYwTG00Sm05bDFjd1Qtek8tck5HQlg5MGFLZFlYcFJRZkhucmVaUzZFbDd2Mi1uczZkV2Y5QWoxZXc4bWs4NExKcUFYeWctUXdENmprQm91X25LR3JDeE9BNWxiQUhaMW5BVEl6THlsVlRwN3hNTFpMMFRxY0d4bzBUSkRoRXE0ODhlQkpFTDJlZ1NaV2E1SUptemVNVnBRbFV0dGFsdU9PNXpBRWJNZE1zTWxDdGt2U2FtbFJjeWc?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T22:23:31+00:00",
+          "title": "Advancing Muse Spark Open Agentic Inference on AMD GPUs with TokenSpeed - AMD"
+        }
+      ]
+    },
+    {
+      "id": "461b875efd650d9a89f8e61b",
+      "topic": "pc",
+      "title": "2027 Term 2 Internship – Wafer Sort/Final Test Thermal Mechanical hardware development Engineer - AMD",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHeWN4eU5wMFhwNXZ1cjNKZVlmVXRjRXpzRDlaSlQ5bjBhRmJ3WG9sUnlFb0xBQWZjNGhuSjJsNzhoRkduY19qenRlZG5RNXRhbUdCNmFMaGtlYzJmUXVDVzZva2FCdDY0clFz?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "2027 Term 2 Internship – Wafer Sort/Final Test Thermal Mechanical hardware development Engineer AMD",
+      "published_utc": "2026-11-26T13:45:34+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHeWN4eU5wMFhwNXZ1cjNKZVlmVXRjRXpzRDlaSlQ5bjBhRmJ3WG9sUnlFb0xBQWZjNGhuSjJsNzhoRkduY19qenRlZG5RNXRhbUdCNmFMaGtlYzJmUXVDVzZva2FCdDY0clFz?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T13:45:34+00:00",
+          "title": "2027 Term 2 Internship – Wafer Sort/Final Test Thermal Mechanical hardware development Engineer - AMD"
+        }
+      ]
+    },
+    {
+      "id": "51e6b7722f5d85afbeb99c42",
+      "topic": "pc",
+      "title": "Package Thermal Engineer in San Jose, California | Advanced Micro Devices, Inc - AMD",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vSm1BOXkzbDVYVTE5LWhYV19qejAxY0plX1hBWW9WR1lqZnhlMG5zV0ZqOW1Cb3FNX0l5M2FVRmt2T0d0M1hBd3pTMmxYZG1ZTmJxU0FScnNoYXlVNG1mUGZVWEdrYThTY1E?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "Package Thermal Engineer in San Jose, California | Advanced Micro Devices, Inc AMD",
+      "published_utc": "2026-11-26T08:23:38+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vSm1BOXkzbDVYVTE5LWhYV19qejAxY0plX1hBWW9WR1lqZnhlMG5zV0ZqOW1Cb3FNX0l5M2FVRmt2T0d0M1hBd3pTMmxYZG1ZTmJxU0FScnNoYXlVNG1mUGZVWEdrYThTY1E?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T08:23:38+00:00",
+          "title": "Package Thermal Engineer in San Jose, California | Advanced Micro Devices, Inc - AMD"
+        }
+      ]
+    },
+    {
+      "id": "27dadce040d1ceb789b85ed8",
+      "topic": "pc",
+      "title": "SoC Design Engineer, Technical Lead in San Jose, California | Advanced Micro Devices, Inc - AMD",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05TUdOdzc0bTVLdDdhdjljOTZacjB2ZG1neHc4VjFMQ2xRN3Z2UGxTZVR0RHkzOS1MNUczbjdhWFMzYzRoTHgyUm9tbURsQXowcndQbFNDX0s?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "SoC Design Engineer, Technical Lead in San Jose, California | Advanced Micro Devices, Inc AMD",
+      "published_utc": "2026-11-25T23:13:38+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05TUdOdzc0bTVLdDdhdjljOTZacjB2ZG1neHc4VjFMQ2xRN3Z2UGxTZVR0RHkzOS1MNUczbjdhWFMzYzRoTHgyUm9tbURsQXowcndQbFNDX0s?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T23:13:38+00:00",
+          "title": "SoC Design Engineer, Technical Lead in San Jose, California | Advanced Micro Devices, Inc - AMD"
+        }
+      ]
+    },
+    {
+      "id": "60e09e892d1108b551b1942a",
+      "topic": "pc",
+      "title": "Silicon Design Engineer - Analog IO in Hyderabad, India | Advanced Micro Devices, Inc - AMD",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53SmctbnVmQUpFNDYwWUk4anJvbm5TNzhsSkliTmxnZ2xjZTd2T0R2eFp1cktLU0NSU2Z4aTJRM0RmcDdZWEtRWllPMFBmMnhCOUswLTE1R2hlbTBLUjdGM2JkcjNIT2xTTjFJ?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "Silicon Design Engineer - Analog IO in Hyderabad, India | Advanced Micro Devices, Inc AMD",
+      "published_utc": "2026-11-26T05:37:43+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53SmctbnVmQUpFNDYwWUk4anJvbm5TNzhsSkliTmxnZ2xjZTd2T0R2eFp1cktLU0NSU2Z4aTJRM0RmcDdZWEtRWllPMFBmMnhCOUswLTE1R2hlbTBLUjdGM2JkcjNIT2xTTjFJ?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T05:37:43+00:00",
+          "title": "Silicon Design Engineer - Analog IO in Hyderabad, India | Advanced Micro Devices, Inc - AMD"
+        }
+      ]
+    },
+    {
+      "id": "420ed5e386edac93cfbd27ca",
+      "topic": "pc",
+      "title": "2027 Term 2 Internship - Acoustic Microscopy Development for Advanced Package Failure Analysis - AMD",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUYUcxYl9tTXJhbjJGZ3c1YTNzRnFfYUxrWU9CRUlfdDFySnkxa2lXbGp5UjlXYnFqNWh3MXY0Z1daU3JzeEdKSzFSQUZKX0NETG55N2Z6eTRmWjgxU1pBMXZNZ3lxNFQtVE84?oc=5",
+      "source": "AMD",
+      "publisher": "AMD",
+      "description": "2027 Term 2 Internship - Acoustic Microscopy Development for Advanced Package Failure Analysis AMD",
+      "published_utc": "2026-11-25T20:03:53+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUYUcxYl9tTXJhbjJGZ3c1YTNzRnFfYUxrWU9CRUlfdDFySnkxa2lXbGp5UjlXYnFqNWh3MXY0Z1daU3JzeEdKSzFSQUZKX0NETG55N2Z6eTRmWjgxU1pBMXZNZ3lxNFQtVE84?oc=5",
+          "source": "AMD",
+          "publisher": "AMD",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T20:03:53+00:00",
+          "title": "2027 Term 2 Internship - Acoustic Microscopy Development for Advanced Package Failure Analysis - AMD"
+        }
+      ]
+    },
+    {
+      "id": "51a298926d32de936f0325db",
+      "topic": "pc",
+      "title": "Introducing xDiT for ComfyUI - ROCm™ Blogs",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSkxBdS1HZGFtaGw1ZWpVeDJnY0l1ZWhlLXJYZE1nVEh2c1loZVZaX29GQjFHTy1QYVAwZ29VMERwVEphQjVIUGFfbGlZYVVfeWRmSmFxZFE5OTlmUGM1azE1MkFfQk1vX0ZFX2cyRks0akpaMTJKMDRpa0VDVjcxSGkxM1BFU0l1cFdNUWVn?oc=5",
+      "source": "AMD",
+      "publisher": "ROCm™ Blogs",
+      "description": "Introducing xDiT for ComfyUI ROCm™ Blogs",
+      "published_utc": "2026-11-25T20:24:08+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSkxBdS1HZGFtaGw1ZWpVeDJnY0l1ZWhlLXJYZE1nVEh2c1loZVZaX29GQjFHTy1QYVAwZ29VMERwVEphQjVIUGFfbGlZYVVfeWRmSmFxZFE5OTlmUGM1azE1MkFfQk1vX0ZFX2cyRks0akpaMTJKMDRpa0VDVjcxSGkxM1BFU0l1cFdNUWVn?oc=5",
+          "source": "AMD",
+          "publisher": "ROCm™ Blogs",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T20:24:08+00:00",
+          "title": "Introducing xDiT for ComfyUI - ROCm™ Blogs"
+        }
+      ]
+    },
+    {
+      "id": "1f0d1b41cbc483c9438ebc36",
+      "topic": "pc",
+      "title": "Intel RST/VMD 20.2.6.1025: kernel pool corruption (0x139, param 1 = 0x1D) triggered by a single NVMe Identify Controller request - Intel Community",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcDB4YUxlSkl6UTlxVTI0V0VERjFESDh5WVFwTnA1TGttY3lUY01qNHdCcG5rUmhraHYzUjJoWjFLZm1RbmhWX2JEdGsxOGJCN1BnVkZ2cTY3S0dNUXV6RmNiVjBVU1NmR2xCN09zT1ZlcnAyZEtjTnV1TTJlVjBPVE9VOU5fTW9SdmpFUTZxT2lnRlpRWGx6WG5BUXJvcWJfX3plYUY1U1BxZS1GdGtIenBDVlRCaUNxQlVndzdpMlRYN0pkRDRWbWlVSVlaV2JWaU9YczJscWMtMjRBblp2NUV1cENJUG5UdWItb0RPcFQ?oc=5",
+      "source": "Intel",
+      "publisher": "Intel Community",
+      "description": "Intel RST/VMD 20.2.6.1025: kernel pool corruption (0x139, param 1 = 0x1D) triggered by a single NVMe Identify Controller request Intel Community",
+      "published_utc": "2026-11-26T11:54:21+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcDB4YUxlSkl6UTlxVTI0V0VERjFESDh5WVFwTnA1TGttY3lUY01qNHdCcG5rUmhraHYzUjJoWjFLZm1RbmhWX2JEdGsxOGJCN1BnVkZ2cTY3S0dNUXV6RmNiVjBVU1NmR2xCN09zT1ZlcnAyZEtjTnV1TTJlVjBPVE9VOU5fTW9SdmpFUTZxT2lnRlpRWGx6WG5BUXJvcWJfX3plYUY1U1BxZS1GdGtIenBDVlRCaUNxQlVndzdpMlRYN0pkRDRWbWlVSVlaV2JWaU9YczJscWMtMjRBblp2NUV1cENJUG5UdWItb0RPcFQ?oc=5",
+          "source": "Intel",
+          "publisher": "Intel Community",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T11:54:21+00:00",
+          "title": "Intel RST/VMD 20.2.6.1025: kernel pool corruption (0x139, param 1 = 0x1D) triggered by a single NVMe Identify Controller request - Intel Community"
+        }
+      ]
+    },
+    {
+      "id": "b88d1bc48072a4e7cd8c62c1",
+      "topic": "pc",
+      "title": "Can't install driver - Intel Community",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40cjdQOEM2MEhUWGNZNDJBTVA0aXpweUpqMC1kSC1lamNZVGlmVHJOWWxLRnFEUXh0eldHNUM4dFRjMDNjMVdIWXEtTGx0Y09qZmpRZ3NoSXJYc21ZR3FYZkJ3QThfRzA?oc=5",
+      "source": "Intel",
+      "publisher": "Intel Community",
+      "description": "Can't install driver Intel Community",
+      "published_utc": "2026-11-25T17:07:05+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40cjdQOEM2MEhUWGNZNDJBTVA0aXpweUpqMC1kSC1lamNZVGlmVHJOWWxLRnFEUXh0eldHNUM4dFRjMDNjMVdIWXEtTGx0Y09qZmpRZ3NoSXJYc21ZR3FYZkJ3QThfRzA?oc=5",
+          "source": "Intel",
+          "publisher": "Intel Community",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T17:07:05+00:00",
+          "title": "Can't install driver - Intel Community"
+        }
+      ]
+    },
+    {
+      "id": "add44fe7321f30f37c2fc3e5",
+      "topic": "pc",
+      "title": "Request for KC Certificate and RF Test Report – Intel AX210NGW - Intel Community",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTnVnams1aG11SGJqTlJUWUMzS1IzWEM1amw0SU9iM0hWSTNQZDdNLUlwME1qVml2X01WUjlEbWNqVzd6VEN0MGVhUzNybkVmeUlPMUZrb21aelZHRWVSUXVlZ05lUzk1cGJlYXdVTDZGcXBLQXlad1lHbFZ5LW9RSkxLaVo1czFwZlJLX21BSnRmeVZObm5qVkNIVmtKUQ?oc=5",
+      "source": "Intel",
+      "publisher": "Intel Community",
+      "description": "Request for KC Certificate and RF Test Report – Intel AX210NGW Intel Community",
+      "published_utc": "2026-11-26T07:33:28+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTnVnams1aG11SGJqTlJUWUMzS1IzWEM1amw0SU9iM0hWSTNQZDdNLUlwME1qVml2X01WUjlEbWNqVzd6VEN0MGVhUzNybkVmeUlPMUZrb21aelZHRWVSUXVlZ05lUzk1cGJlYXdVTDZGcXBLQXlad1lHbFZ5LW9RSkxLaVo1czFwZlJLX21BSnRmeVZObm5qVkNIVmtKUQ?oc=5",
+          "source": "Intel",
+          "publisher": "Intel Community",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T07:33:28+00:00",
+          "title": "Request for KC Certificate and RF Test Report – Intel AX210NGW - Intel Community"
+        }
+      ]
+    },
+    {
+      "id": "7c2609147f339597434a9b04",
+      "topic": "pc",
+      "title": "EPM9320LI84-20N existed? - Intel Community",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XMU5uTGdFN1luY3ZVdnBaMHRBeUlaSlFiSU1ubmlKd2RUNURlc0xoM0pJNFp6Vks5TnVJUGs5QXRFbmRUTEFaWmZSSmhVREFGNUdiVFI1TzBkQmU3YmhIdGRUVC1jQ29qTUFGZw?oc=5",
+      "source": "Intel",
+      "publisher": "Intel Community",
+      "description": "EPM9320LI84-20N existed? Intel Community",
+      "published_utc": "2026-11-25T15:35:11+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XMU5uTGdFN1luY3ZVdnBaMHRBeUlaSlFiSU1ubmlKd2RUNURlc0xoM0pJNFp6Vks5TnVJUGs5QXRFbmRUTEFaWmZSSmhVREFGNUdiVFI1TzBkQmU3YmhIdGRUVC1jQ29qTUFGZw?oc=5",
+          "source": "Intel",
+          "publisher": "Intel Community",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T15:35:11+00:00",
+          "title": "EPM9320LI84-20N existed? - Intel Community"
+        }
+      ]
+    },
+    {
+      "id": "12d38a72a24022b2b0392529",
+      "topic": "pc",
+      "title": "Enter a New Dimension with Rayman Legends Retold - Intel Gaming Access",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbmVJVE1pbkd3aGxCX1YtZE5fNnpxSUItNWtuQS1XY2h3ZmVnUWF3b053V01neTBHMTNOVmVxSUZwUEw2NGVteDRweVhSMjNlaFJVc3d6OGN5Si11clBHbUNTYmd4SHd1UU53S0t0QVFrZzNvRkxETHRULV9GQzh6d1ozWG1Mekk?oc=5",
+      "source": "Intel",
+      "publisher": "Intel Gaming Access",
+      "description": "Enter a New Dimension with Rayman Legends Retold Intel Gaming Access",
+      "published_utc": "2026-11-26T03:30:24+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbmVJVE1pbkd3aGxCX1YtZE5fNnpxSUItNWtuQS1XY2h3ZmVnUWF3b053V01neTBHMTNOVmVxSUZwUEw2NGVteDRweVhSMjNlaFJVc3d6OGN5Si11clBHbUNTYmd4SHd1UU53S0t0QVFrZzNvRkxETHRULV9GQzh6d1ozWG1Mekk?oc=5",
+          "source": "Intel",
+          "publisher": "Intel Gaming Access",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T03:30:24+00:00",
+          "title": "Enter a New Dimension with Rayman Legends Retold - Intel Gaming Access"
+        }
+      ]
+    },
+    {
+      "id": "b7971524a91ce46dc2577044",
+      "topic": "pc",
+      "title": "Pioneer Territory: ArcheAge Chronicles - Intel Gaming Access",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qeEZPLUNVVHhEUmZPR1RnNUJySm80dzFuU1VHOUdiSm9TSEhvXzBSbDhONGJXMng2c3ZSdG9TOHdQeFd5cWNLWjNydXRnc1puZkt1eWtrblhQZmVQajVaMS1jajJlek5uWDUyOThRVl9wdk5rU1N4Nw?oc=5",
+      "source": "Intel",
+      "publisher": "Intel Gaming Access",
+      "description": "Pioneer Territory: ArcheAge Chronicles Intel Gaming Access",
+      "published_utc": "2026-11-26T03:35:58+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qeEZPLUNVVHhEUmZPR1RnNUJySm80dzFuU1VHOUdiSm9TSEhvXzBSbDhONGJXMng2c3ZSdG9TOHdQeFd5cWNLWjNydXRnc1puZkt1eWtrblhQZmVQajVaMS1jajJlek5uWDUyOThRVl9wdk5rU1N4Nw?oc=5",
+          "source": "Intel",
+          "publisher": "Intel Gaming Access",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T03:35:58+00:00",
+          "title": "Pioneer Territory: ArcheAge Chronicles - Intel Gaming Access"
+        }
+      ]
+    },
+    {
+      "id": "4d22d89afbd7c31e273af148",
+      "topic": "pc",
+      "title": "E3800 documents missing - Intel Community",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yR0pJSG12emY0UnctWlVnM1lnVTNTRkEwRjNvWHdqb0lHcXVINEQ1UWd6bzRYX3VydTFjWG15Um92dkRZVjdmMkFkZ3BIZWljY3dyZURLa2w3d2lYVjVOYkEzMHFmRnVhZWxCYQ?oc=5",
+      "source": "Intel",
+      "publisher": "Intel Community",
+      "description": "E3800 documents missing Intel Community",
+      "published_utc": "2026-11-26T12:41:34+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yR0pJSG12emY0UnctWlVnM1lnVTNTRkEwRjNvWHdqb0lHcXVINEQ1UWd6bzRYX3VydTFjWG15Um92dkRZVjdmMkFkZ3BIZWljY3dyZURLa2w3d2lYVjVOYkEzMHFmRnVhZWxCYQ?oc=5",
+          "source": "Intel",
+          "publisher": "Intel Community",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:41:34+00:00",
+          "title": "E3800 documents missing - Intel Community"
+        }
+      ]
+    },
+    {
+      "id": "6397d62bda090635f9447623",
+      "topic": "pc",
+      "title": "Apple Music MiniPlayer Causes Severe Memory Leak on Intel Graphics - Intel Community",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV2hhcVE2dFNCVWxIR2Z4TGhxT002di02RTRoNVBRWjZGaEZmcDBmd1VlMUhpU2cybnV1MzkzRllPYVJpTHJGR0NKYWFkaGFSWW1JcjlXajZaMDNFcVlYeTVDNnJnZnJwWS04bE9MakdQUEhhaFFiRFQ5ZUVTTko0U1J3VEhnSko4RkxYUDJaLTVCSEF3UXhOT2VwMFdROXg5RUtUaWxR?oc=5",
+      "source": "Intel",
+      "publisher": "Intel Community",
+      "description": "Apple Music MiniPlayer Causes Severe Memory Leak on Intel Graphics Intel Community",
+      "published_utc": "2026-11-26T12:18:07+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV2hhcVE2dFNCVWxIR2Z4TGhxT002di02RTRoNVBRWjZGaEZmcDBmd1VlMUhpU2cybnV1MzkzRllPYVJpTHJGR0NKYWFkaGFSWW1JcjlXajZaMDNFcVlYeTVDNnJnZnJwWS04bE9MakdQUEhhaFFiRFQ5ZUVTTko0U1J3VEhnSko4RkxYUDJaLTVCSEF3UXhOT2VwMFdROXg5RUtUaWxR?oc=5",
+          "source": "Intel",
+          "publisher": "Intel Community",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:18:07+00:00",
+          "title": "Apple Music MiniPlayer Causes Severe Memory Leak on Intel Graphics - Intel Community"
+        }
+      ]
+    },
+    {
+      "id": "2555bb354638815c57b8e5d9",
+      "topic": "pc",
+      "title": "RMA for Two CPU's Leads to I9 14900K Missing. (Warranty Request 06987696) - Intel Community",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbEpiUXE0M21VeGJ6X291cHVMYU0tYWVnRXpXMUlZVU5xRFFua2k5WTBFbjNOWkpNVGdwVWFIVXRjUUtBUzgxTk0tRTl4VmNyZmdaQTdYaWpIUWY2Rnp1N0o3d1cwUHZsNUQtTnZ4Rm9qM2pXQ2VjeW9RdTU2T0xhWXcxa3VWSnpBUHJIYVVyQWhvMFRidHhRWmN4NFQ5RC1pZ1QzamVUNEVLQQ?oc=5",
+      "source": "Intel",
+      "publisher": "Intel Community",
+      "description": "RMA for Two CPU's Leads to I9 14900K Missing. (Warranty Request 06987696) Intel Community",
+      "published_utc": "2026-11-26T00:51:54+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbEpiUXE0M21VeGJ6X291cHVMYU0tYWVnRXpXMUlZVU5xRFFua2k5WTBFbjNOWkpNVGdwVWFIVXRjUUtBUzgxTk0tRTl4VmNyZmdaQTdYaWpIUWY2Rnp1N0o3d1cwUHZsNUQtTnZ4Rm9qM2pXQ2VjeW9RdTU2T0xhWXcxa3VWSnpBUHJIYVVyQWhvMFRidHhRWmN4NFQ5RC1pZ1QzamVUNEVLQQ?oc=5",
+          "source": "Intel",
+          "publisher": "Intel Community",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:51:54+00:00",
+          "title": "RMA for Two CPU's Leads to I9 14900K Missing. (Warranty Request 06987696) - Intel Community"
+        }
+      ]
+    },
+    {
+      "id": "a97664f155d321690908c984",
+      "topic": "ai",
+      "title": "Working with writing blocks and code blocks in ChatGPT | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUW5ZX2RvTkR4cWpTLTR4UlR6SUs4dFRlQ3JQNzVzZ1pYYlpsS2x6OEh0NXB0bUNRejZaLWNNTWg3cXJlNGhNRHZvWGtWc0RhODByZWRBeDdiNWZhWDFKNllERUtabnItSDV6eUpyNjJpTUZjc2VrZ3F3ekt5TG8yY3BMRDI5V3pyNkJ0dlg5Tjh0cU9ENDQwb0ktUFI5UndX?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "Working with writing blocks and code blocks in ChatGPT | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-26T01:43:35+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUW5ZX2RvTkR4cWpTLTR4UlR6SUs4dFRlQ3JQNzVzZ1pYYlpsS2x6OEh0NXB0bUNRejZaLWNNTWg3cXJlNGhNRHZvWGtWc0RhODByZWRBeDdiNWZhWDFKNllERUtabnItSDV6eUpyNjJpTUZjc2VrZ3F3ekt5TG8yY3BMRDI5V3pyNkJ0dlg5Tjh0cU9ENDQwb0ktUFI5UndX?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T01:43:35+00:00",
+          "title": "Working with writing blocks and code blocks in ChatGPT | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "e68e383de9edce202403c91a",
+      "topic": "ai",
+      "title": "Situational Awareness lost 65% after fees in third quarter, WSJ reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ25INllsV1JtZ2h4dEJHOWhsYTBzYk1rbnJKOHhrSGhKdHNHRXVGck5rZXR5QWNPQWIxM0R1VFBDSjg0azFTb0RYeFZyTVBtZmpDcW1kWjViY3M0TlcyWWxCblZwZmdoWkw3U1J5cTFzNy0xRnZMekRkWExXQW1XVi0yYWNuOXRNR3ZqWlRwVlFBNi16a1Q4blZHNXpFcnlyUE81STR2OUdHQzBBSUxhNDJpcEwwN1AyVFc2T3k3UQ?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Situational Awareness lost 65% after fees in third quarter, WSJ reports Reuters",
+      "published_utc": "2026-11-26T02:18:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ25INllsV1JtZ2h4dEJHOWhsYTBzYk1rbnJKOHhrSGhKdHNHRXVGck5rZXR5QWNPQWIxM0R1VFBDSjg0azFTb0RYeFZyTVBtZmpDcW1kWjViY3M0TlcyWWxCblZwZmdoWkw3U1J5cTFzNy0xRnZMekRkWExXQW1XVi0yYWNuOXRNR3ZqWlRwVlFBNi16a1Q4blZHNXpFcnlyUE81STR2OUdHQzBBSUxhNDJpcEwwN1AyVFc2T3k3UQ?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T02:18:00+00:00",
+          "title": "Situational Awareness lost 65% after fees in third quarter, WSJ reports - Reuters"
         }
       ]
     }

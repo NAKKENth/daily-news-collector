@@ -2461,6 +2461,58 @@
           "title": "dac amp - Audio Science Review (ASR) Forum"
         }
       ]
+    },
+    {
+      "id": "5bfbfe7dcd731392dfcfda2b",
+      "topic": "tws",
+      "title": "Cannot Connect a Bluetooth Device | Lifestyle® 135 series III home entertainment system - Bose",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNDlOaHRDTmlkeGxvYnpZS090dUNEUXF6SFdxYnZtMWNNdEdYejJsTHc3WHdCWEp3SWxvdGdiN2I2RW5sUk95b3pSUE5hNFh5OU5kSG1KXy1xRUlCbkc2elkzeFlTbXVUNk9UZEpmdEM1LW5weVlBQS1sVDI4YlJ6QVA1UEEtb3ViaUR6Ng?oc=5",
+      "source": "Bose",
+      "publisher": "Bose",
+      "description": "Cannot Connect a Bluetooth Device | Lifestyle® 135 series III home entertainment system Bose",
+      "published_utc": "2026-11-24T14:16:50+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNDlOaHRDTmlkeGxvYnpZS090dUNEUXF6SFdxYnZtMWNNdEdYejJsTHc3WHdCWEp3SWxvdGdiN2I2RW5sUk95b3pSUE5hNFh5OU5kSG1KXy1xRUlCbkc2elkzeFlTbXVUNk9UZEpmdEM1LW5weVlBQS1sVDI4YlJ6QVA1UEEtb3ViaUR6Ng?oc=5",
+          "source": "Bose",
+          "publisher": "Bose",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T14:16:50+00:00",
+          "title": "Cannot Connect a Bluetooth Device | Lifestyle® 135 series III home entertainment system - Bose"
+        }
+      ]
+    },
+    {
+      "id": "52a1f6e361482e77166d5394",
+      "topic": "tws",
+      "title": "JBL Live 780NC | Wireless over-ear Noise Cancelling headphones - JBL",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iOGNPcHBCeGxsby04dU94Xy01ZEp5QThEM0U4ZXRDUXp4MXNicDBwLWZOOFFyNkVGZXMwOEhmTGh0c19KdVBnajNyRUhDRmFJWU11TFIxZk1YYXhXeGRaWm8wdldsaFY2WUdJY2hYX2lQUDZDM1JOT2FaNGI3NW8?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "JBL Live 780NC | Wireless over-ear Noise Cancelling headphones JBL",
+      "published_utc": "2026-11-24T05:12:21+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iOGNPcHBCeGxsby04dU94Xy01ZEp5QThEM0U4ZXRDUXp4MXNicDBwLWZOOFFyNkVGZXMwOEhmTGh0c19KdVBnajNyRUhDRmFJWU11TFIxZk1YYXhXeGRaWm8wdldsaFY2WUdJY2hYX2lQUDZDM1JOT2FaNGI3NW8?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T05:12:21+00:00",
+          "title": "JBL Live 780NC | Wireless over-ear Noise Cancelling headphones - JBL"
+        }
+      ]
     }
   ],
   "date_unknown": [],
