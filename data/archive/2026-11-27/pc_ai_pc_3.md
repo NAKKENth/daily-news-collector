@@ -1,13 +1,13 @@
 # pc / 2026-11-27 / 候補 101–150
 
+- [Ubisoft: Projekt­freigabe verlangt Be­grün­dung für oder gegen KI](https://www.computerbase.de/news/gaming/ubisoft-projektfreigabe-verlangt-begruendung-fuer-oder-gegen-ki.100544) — ComputerBase｜要確認｜2026-11-26T16:37:00+00:00 UTC｜article_metadata
 - [Ukrainian 11th-grader builds AI-powered, GPS-free drone autopilot to beat frontline jamming](https://www.tomshardware.com/tech-industry/drones/ukrainian-11th-grader-builds-ai-powered-gps-free-drone-autopilot-to-beat-frontline-jamming-earns-the-future-of-ukraine-award-from-president-zelenskyy) — Tom’s Hardware｜要確認｜2026-11-27T10:00:00+00:00 UTC｜feed_published
 - [Vodafone verliert vor OLG: Einseitige AGB-Änderungen für unwirksam erklärt](https://www.computerbase.de/news/wirtschaft/vodafone-verliert-vor-olg-einseitige-agb-aenderungen-fuer-unwirksam-erklaert.100566) — ComputerBase｜要確認｜2026-11-27T14:45:00+00:00 UTC｜feed_published
 - [Wafer-Knappheit: Nachfrage übersteigt das Angebot noch deutlicher](https://www.computerbase.de/news/wirtschaft/waferhersteller-sumco-angebots-nachfrage-differenz-wohl-noch-groesser-als-gedacht.100556) — ComputerBase｜要確認｜2026-11-27T09:40:00+00:00 UTC｜feed_published
 - [Workers at Grand Theft Auto VI Developer Rockstar Games Reject Union Recognition, With Only 25% Voting in Favor Among the 1,544 Employees Who Cast Ballots](https://wccftech.com/grand-theft-auto-vi-rockstar-workers-reject-union-recognition) — Wccftech｜要確認｜2026-11-26T18:15:00+00:00 UTC｜article_metadata
 - [be quiet!の静音電源は何が違う？買い替えタイミングや選び方は？PC電源の疑問と選ぶポイントを聞いてみた](https://akiba-pc.watch.impress.co.jp/docs/topic/special/2159211.html) — AKIBA PC Hotline｜要確認｜2026-11-26T15:33:00+00:00 UTC｜article_metadata
-- [【本日みつけたお買い得品】Apple Watch Series 12が1万800円引き、SE 3とUltra 3も](https://pc.watch.impress.co.jp/docs/news/todays_sales/2160159.html) — PC Watch｜要確認｜2026-11-27T12:20:48+00:00 UTC｜feed_published
 - [【本日みつけたお買い得品】M4チップとWi-Fi 7対応の「11インチiPad Air」が11万6	800円！](https://pc.watch.impress.co.jp/docs/news/todays_sales/2160157.html) — PC Watch｜要確認｜2026-11-27T12:18:24+00:00 UTC｜article_metadata
-- [これからChatGPTを仕事で活用したい人がノートPCのローカルAIも気にすべき理由 ～初めてのAI PC選びでのポイントをdynabook XD5/ARで解説\[Sponsored\]](https://pc.watch.impress.co.jp/docs/topic/special/2151734.html) — PC Watch｜要確認｜2026-11-26T21:30:00+00:00 UTC｜feed_published
+- [これからChatGPTを仕事で活用したい人がノートPCのローカルAIも気にすべき理由](https://pc.watch.impress.co.jp/docs/topic/special/2151734.html) — PC Watch｜要確認｜2026-11-26T21:30:00+00:00 UTC｜article_metadata
 - [マウスのRadeon RX 9060 XT搭載ゲーミングPCが約4万円引き](https://pc.watch.impress.co.jp/docs/news/todays_sales/2159995.html) — PC Watch｜要確認｜2026-11-27T06:50:19+00:00 UTC｜article_metadata
 - [ミニPCが一気に10モデル！ASUSがNUC 16 ProやPN55を投入](https://pc.watch.impress.co.jp/docs/news/2159795.html) — PC Watch｜要確認｜2026-11-27T01:35:46+00:00 UTC｜article_metadata
 - [工具のマキタバッテリがPCの電源に!? 最大100Wの純正アダプタを使ってみた](https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2159706.html) — PC Watch｜要確認｜2026-11-26T21:13:00+00:00 UTC｜article_metadata

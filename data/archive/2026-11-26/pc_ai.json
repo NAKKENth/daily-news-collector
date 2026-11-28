@@ -169,7 +169,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Getting started with your dot | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T22:43:20+00:00",
+      "published_utc": "2026-11-26T04:41:09+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -182,7 +182,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T22:43:20+00:00",
+          "published_utc": "2026-11-26T04:41:09+00:00",
           "title": "Getting started with your dot | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -195,7 +195,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "ChatGPT for Academic Researchers | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T22:27:23+00:00",
+      "published_utc": "2026-11-26T04:32:22+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -208,7 +208,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T22:27:23+00:00",
+          "published_utc": "2026-11-26T04:32:22+00:00",
           "title": "ChatGPT for Academic Researchers | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -247,7 +247,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Setting up your business on ChatGPT | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-26T01:16:42+00:00",
+      "published_utc": "2026-11-26T07:11:52+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -260,20 +260,20 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T01:16:42+00:00",
+          "published_utc": "2026-11-26T07:11:52+00:00",
           "title": "Setting up your business on ChatGPT | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
     {
-      "id": "f5b85ba3db639d1c2a47f839",
+      "id": "7a6443ffb0a05fa7b965fdf0",
       "topic": "ai",
-      "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFVsTjFROGtER0loSkZOcnF2NDRLUWFmcjBHZ01ybE51N19idjFFMXI1dnFqZ21JYS1HVVpicTJ1V1RfVU4zd3pkVEZMWHdqMUJWRENOQWJ2VjFqT1Y3WS0xYTV3bzd2RnRraFhtOVpzVE9yYThzdV9tdWxJbUpjNzFraw?oc=5",
+      "title": "EXCLUSIVE: Alice Huang-linked firms listed $270 million in AI servers in China, records show - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXNKWVJFdGJPenhtYnNFM2VnNnJGdUpjaUlfVDMycE9TWlVUOWJwNVNmU0dyMC1OUF90NzQ1TUZwdDlERUc0RENMRU44MVo2eGhsT1V3MTFpLXh0OTM3cW1hWkNZbGFzc3V5WVdFenoxTE5uZkZoaDNXdW41cmFzVThQZnVNYUR2N3hMcE1EeUQ4cGotR3FVYjJKV0FudldtekoyZUQ3b2NlNTUxWmNfODdPd3RHVlNZM2tsYWpwSFVjZGFY?oc=5",
       "source": "Reuters AI",
       "publisher": "Reuters",
-      "description": "World stocks tumble as Trump tariffs rattle markets, AI rally fades Reuters",
-      "published_utc": "2026-11-26T00:28:43+00:00",
+      "description": "EXCLUSIVE: Alice Huang-linked firms listed $270 million in AI servers in China, records show Reuters",
+      "published_utc": "2026-11-25T20:41:21+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -282,12 +282,12 @@
       "triage_reason": "関連性・新規性要確認",
       "sources": [
         {
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFVsTjFROGtER0loSkZOcnF2NDRLUWFmcjBHZ01ybE51N19idjFFMXI1dnFqZ21JYS1HVVpicTJ1V1RfVU4zd3pkVEZMWHdqMUJWRENOQWJ2VjFqT1Y3WS0xYTV3bzd2RnRraFhtOVpzVE9yYThzdV9tdWxJbUpjNzFraw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXNKWVJFdGJPenhtYnNFM2VnNnJGdUpjaUlfVDMycE9TWlVUOWJwNVNmU0dyMC1OUF90NzQ1TUZwdDlERUc0RENMRU44MVo2eGhsT1V3MTFpLXh0OTM3cW1hWkNZbGFzc3V5WVdFenoxTE5uZkZoaDNXdW41cmFzVThQZnVNYUR2N3hMcE1EeUQ4cGotR3FVYjJKV0FudldtekoyZUQ3b2NlNTUxWmNfODdPd3RHVlNZM2tsYWpwSFVjZGFY?oc=5",
           "source": "Reuters AI",
           "publisher": "Reuters",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T00:28:43+00:00",
-          "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades - Reuters"
+          "published_utc": "2026-11-25T20:41:21+00:00",
+          "title": "EXCLUSIVE: Alice Huang-linked firms listed $270 million in AI servers in China, records show - Reuters"
         }
       ]
     },
@@ -299,7 +299,7 @@
       "source": "OpenAI",
       "publisher": "OpenAI Help Center",
       "description": "OpenAI Daybreak - Trusted Access for Cyber overview | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T20:36:18+00:00",
+      "published_utc": "2026-11-26T03:10:22+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -312,7 +312,7 @@
           "source": "OpenAI",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T20:36:18+00:00",
+          "published_utc": "2026-11-26T03:10:22+00:00",
           "title": "OpenAI Daybreak - Trusted Access for Cyber overview | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -6600,7 +6600,7 @@
       "source": "Reuters AI",
       "publisher": "Reuters",
       "description": "Spike in oil prices partly reverses rupee rally, forward premiums surge Reuters",
-      "published_utc": "2026-11-26T02:38:00+00:00",
+      "published_utc": "2026-11-26T11:36:07+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -6613,7 +6613,7 @@
           "source": "Reuters AI",
           "publisher": "Reuters",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T02:38:00+00:00",
+          "published_utc": "2026-11-26T11:36:07+00:00",
           "title": "Spike in oil prices partly reverses rupee rally, forward premiums surge - Reuters"
         }
       ]
@@ -7044,32 +7044,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T08:13:44+00:00",
           "title": "Investors see rising risk of SoftBank default as pressure grows on AI bets - Reuters"
-        }
-      ]
-    },
-    {
-      "id": "dab4e6bd3e69f0f651c91821",
-      "topic": "ai",
-      "title": "Singapore 'very disappointed' over new tariffs, urges US to reconsider - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVTBhUG5wa3oyMWZJSVhaWlo3V0hiVjlsUlN6bXRXTVdpUmVlaWFzSkFOVEF0UEc4cTJESV9CVDZiSzdvVV9tS2JOQVU0X3BPdDdXejYzM2VPWnF6UjNLMmI4ZndCa2w2WXdwTVRQaGFSZ0pfY3FFdXRhMllLVVowdWJIblU3dEUtZi1XU0Jrc1J2NS10LUFLTnNZS0o0bnB6eGlRSGVLWHJnV08xem9YV1FNMA?oc=5",
-      "source": "Reuters AI",
-      "publisher": "Reuters",
-      "description": "Singapore 'very disappointed' over new tariffs, urges US to reconsider Reuters",
-      "published_utc": "2026-11-26T04:11:00+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVTBhUG5wa3oyMWZJSVhaWlo3V0hiVjlsUlN6bXRXTVdpUmVlaWFzSkFOVEF0UEc4cTJESV9CVDZiSzdvVV9tS2JOQVU0X3BPdDdXejYzM2VPWnF6UjNLMmI4ZndCa2w2WXdwTVRQaGFSZ0pfY3FFdXRhMllLVVowdWJIblU3dEUtZi1XU0Jrc1J2NS10LUFLTnNZS0o0bnB6eGlRSGVLWHJnV08xem9YV1FNMA?oc=5",
-          "source": "Reuters AI",
-          "publisher": "Reuters",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T04:11:00+00:00",
-          "title": "Singapore 'very disappointed' over new tariffs, urges US to reconsider - Reuters"
         }
       ]
     },
@@ -11539,6 +11513,58 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T07:41:00+00:00",
           "title": "Google says Gemini’s Chrome RAM-hogging issue is finally resolved - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "9aa0d3c0aa1fc787f5049de7",
+      "topic": "ai",
+      "title": "Dollar rally pauses for Thanksgiving - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeGRxVzhWY18xWGQzRlVEbmZBbU9lcnR5WEpveVIybFY3X0I5bVNXN2Q2NWZUTUl6eGJYQUZoeHEwSFJqYzhGZDV4Yk9OV29Qc0dXSXFEbm9PY09FQlhNWVlQb2ZEN0FlelZvQVJyT2N3WU42X3phd3ZYVVczQ0RORDFwaW5vd0NxTnozeEpYU3VIVF9NcGtGYng0VWRnT0hk?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Dollar rally pauses for Thanksgiving Reuters",
+      "published_utc": "2026-11-26T01:44:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeGRxVzhWY18xWGQzRlVEbmZBbU9lcnR5WEpveVIybFY3X0I5bVNXN2Q2NWZUTUl6eGJYQUZoeHEwSFJqYzhGZDV4Yk9OV29Qc0dXSXFEbm9PY09FQlhNWVlQb2ZEN0FlelZvQVJyT2N3WU42X3phd3ZYVVczQ0RORDFwaW5vd0NxTnozeEpYU3VIVF9NcGtGYng0VWRnT0hk?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T01:44:00+00:00",
+          "title": "Dollar rally pauses for Thanksgiving - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "70c6bcd3c165b185071cc90d",
+      "topic": "pc",
+      "title": "Moody's says Nvidia's Huang reinstatement eases uncertainty, ratings unchanged - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUS1rM3pwcGFXMVd1NGhiVUhHaDBya083NEptQnh0a1VObDlwSnRsbkQtamU1UHhLQzg1eW1lTlh4LUVoRDBHZDh5T0NyMTl6THBpNWtwVFZhX2c4cXdlbEFTS1BjMnR2aHc2dElrNF9VZTFSY3Y2V3hKU29qZ2ItRGtMXzkzNzc4bXhMYm1FSS1GM0xpMDd2LWVJckN4R1M3SkEtbWxyV0V3ay1ZeHVLVzJHS0pXZG9EVzVVTw?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Moody's says Nvidia's Huang reinstatement eases uncertainty, ratings unchanged Reuters",
+      "published_utc": "2026-11-25T22:22:05+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUS1rM3pwcGFXMVd1NGhiVUhHaDBya083NEptQnh0a1VObDlwSnRsbkQtamU1UHhLQzg1eW1lTlh4LUVoRDBHZDh5T0NyMTl6THBpNWtwVFZhX2c4cXdlbEFTS1BjMnR2aHc2dElrNF9VZTFSY3Y2V3hKU29qZ2ItRGtMXzkzNzc4bXhMYm1FSS1GM0xpMDd2LWVJckN4R1M3SkEtbWxyV0V3ay1ZeHVLVzJHS0pXZG9EVzVVTw?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T22:22:05+00:00",
+          "title": "Moody's says Nvidia's Huang reinstatement eases uncertainty, ratings unchanged - Reuters"
         }
       ]
     }

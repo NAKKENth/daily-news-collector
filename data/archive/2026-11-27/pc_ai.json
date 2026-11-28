@@ -91,7 +91,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-27T03:02:43+00:00",
+      "published_utc": "2026-11-27T07:11:52+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -104,8 +104,34 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T03:02:43+00:00",
+          "published_utc": "2026-11-27T07:11:52+00:00",
           "title": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "fbf09d1cd7a58a6f7c157a94",
+      "topic": "ai",
+      "title": "Using the new experience in the ChatGPT mobile app | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX3B3NDU4RTRjc0ZYNFFqNTAtVnA5VlExQ1BGWWhKUFk2eWt5QmVpMXYxNTktNXBabGc1UTd4WnlKMFMtSWpramp3enV4N3ltby1LclZtZnZuTm1RZUJmcnc0RS1BeUtZOEk4TXZ0dlRPNElWQzd6bUQtaDItal9HU0FiSVVmYXNKcDBCRzVGQnVLREtCelkxQnUwaw?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "Using the new experience in the ChatGPT mobile app | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-27T03:09:30+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX3B3NDU4RTRjc0ZYNFFqNTAtVnA5VlExQ1BGWWhKUFk2eWt5QmVpMXYxNTktNXBabGc1UTd4WnlKMFMtSWpramp3enV4N3ltby1LclZtZnZuTm1RZUJmcnc0RS1BeUtZOEk4TXZ0dlRPNElWQzd6bUQtaDItal9HU0FiSVVmYXNKcDBCRzVGQnVLREtCelkxQnUwaw?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T03:09:30+00:00",
+          "title": "Using the new experience in the ChatGPT mobile app | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -132,6 +158,58 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-27T09:16:22+00:00",
           "title": "Bidding strategies and how pricing works in ChatGPT Ads | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "bfdb725572b2ac7cfd0e46cd",
+      "topic": "ai",
+      "title": "Composer predictions in Codex | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XWV9ab1dGRVJIdGwwR0Y3cWFtbmVZRExRUDVuWUlQankyaGpVaG1zR0VvR1Raa2hYb1FZaGN2MHJuUTVkVjBXZXNqNi1randWMUFBbDRVOWdlY3NGNnAxUXZWQUllbkVwbDYxamlOWnNZcmdXX01sM0s5bWNoYjA?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "Composer predictions in Codex | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-27T09:44:32+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XWV9ab1dGRVJIdGwwR0Y3cWFtbmVZRExRUDVuWUlQankyaGpVaG1zR0VvR1Raa2hYb1FZaGN2MHJuUTVkVjBXZXNqNi1randWMUFBbDRVOWdlY3NGNnAxUXZWQUllbkVwbDYxamlOWnNZcmdXX01sM0s5bWNoYjA?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T09:44:32+00:00",
+          "title": "Composer predictions in Codex | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "6c1b62b4b3d2c74c4873d378",
+      "topic": "ai",
+      "title": "Why does ChatGPT say “Context window full” or “Chat memory full”? | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWtUc05MdGdDeks3Tm1XTjVXcE1JTkhxdENHc1lCTGlGQXJZbGJUNGUwdVdqVWhqaHBkMTk0WmU3a2xQQllmN29SUHBMbXpPUlVXaTNlWDJyWk5LX29rRjBZR091T012QzBjM3otZnRTdTlQLVRuZ0xGYVNEcEx3RjJva2R1NndRTGlZTVZuU3k4azhqR3VkS2txUEtPS1pzN2V1eFJSMEc?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "Why does ChatGPT say “Context window full” or “Chat memory full”? | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-27T07:30:50+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWtUc05MdGdDeks3Tm1XTjVXcE1JTkhxdENHc1lCTGlGQXJZbGJUNGUwdVdqVWhqaHBkMTk0WmU3a2xQQllmN29SUHBMbXpPUlVXaTNlWDJyWk5LX29rRjBZR091T012QzBjM3otZnRTdTlQLVRuZ0xGYVNEcEx3RjJva2R1NndRTGlZTVZuU3k4azhqR3VkS2txUEtPS1pzN2V1eFJSMEc?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T07:30:50+00:00",
+          "title": "Why does ChatGPT say “Context window full” or “Chat memory full”? | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -214,32 +292,6 @@
       ]
     },
     {
-      "id": "be5319ac27fa963840c3ad0e",
-      "topic": "pc",
-      "title": "GIGABYTE and Newegg Bring \"AORUS VS40\" to Southern California in November 2026",
-      "url": "https://www.techpowerup.com/355019/gigabyte-and-newegg-bring-aorus-vs40-to-southern-california-in-november-2026",
-      "source": "TechPowerUp",
-      "publisher": "TechPowerUp",
-      "description": "GIGABYTE and Newegg will host AORUS VS40 at the Newegg Gamer Zone in City of Industry, California, on Saturday, November 21, 2026, from 11 a.m. to 4 p.m. PST. The event invites local collegiate PC gamers and hardware enthusiasts to celebrate 40 years of GIGABYTE by putting their skills to the test on the tournament floor and at gaming stations thro",
-      "published_utc": "2026-11-27T14:15:26+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
-      "link_role": "source_article",
-      "date_quality": "feed_published",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://www.techpowerup.com/355019/gigabyte-and-newegg-bring-aorus-vs40-to-southern-california-in-november-2026",
-          "source": "TechPowerUp",
-          "publisher": "TechPowerUp",
-          "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-27T14:15:26+00:00",
-          "title": "GIGABYTE and Newegg Bring \"AORUS VS40\" to Southern California in November 2026"
-        }
-      ]
-    },
-    {
       "id": "8ae4f83c7a6573d58f2f2e9d",
       "topic": "pc",
       "title": "Max Out Your Gen 4 Slot: Predator GM7 NVMe SSD (Up to 7400 MB/s)",
@@ -247,7 +299,7 @@
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
       "description": "If you've been waiting for the Black Friday sales to upgrade your rig, expand your PS5 storage, or give your laptop a massive speed boost, the award-winning Predator GM7 PCIe 4.0 SSD is built to deliver top-tier performance without the top-tier heat. Powered by the highly efficient Maxio MAP1602 controller and fast 3D TLC NAND flash, this award-win",
-      "published_utc": "2026-11-27T12:17:35+00:00",
+      "published_utc": "2026-11-27T14:15:26+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
@@ -260,7 +312,7 @@
           "source": "TechPowerUp",
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-27T12:17:35+00:00",
+          "published_utc": "2026-11-27T14:15:26+00:00",
           "title": "Max Out Your Gen 4 Slot: Predator GM7 NVMe SSD (Up to 7400 MB/s)"
         }
       ]
@@ -299,7 +351,7 @@
       "source": "OpenAI",
       "publisher": "OpenAI Help Center",
       "description": "ChatGPT Work and Codex | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-27T01:32:22+00:00",
+      "published_utc": "2026-11-27T05:35:31+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -312,7 +364,7 @@
           "source": "OpenAI",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T01:32:22+00:00",
+          "published_utc": "2026-11-27T05:35:31+00:00",
           "title": "ChatGPT Work and Codex | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -325,7 +377,7 @@
       "source": "OpenAI",
       "publisher": "OpenAI Help Center",
       "description": "Ads in ChatGPT: The Basics | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-27T02:33:51+00:00",
+      "published_utc": "2026-11-27T07:13:10+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -338,7 +390,7 @@
           "source": "OpenAI",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T02:33:51+00:00",
+          "published_utc": "2026-11-27T07:13:10+00:00",
           "title": "Ads in ChatGPT: The Basics | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -351,7 +403,7 @@
       "source": "OpenAI",
       "publisher": "OpenAI Help Center",
       "description": "Connecting and managing app accounts in ChatGPT | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-27T00:18:27+00:00",
+      "published_utc": "2026-11-27T06:05:24+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -364,7 +416,7 @@
           "source": "OpenAI",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T00:18:27+00:00",
+          "published_utc": "2026-11-27T06:05:24+00:00",
           "title": "Connecting and managing app accounts in ChatGPT | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -392,6 +444,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T20:46:45+00:00",
           "title": "Moving to the new ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "048704cef30e565495385595",
+      "topic": "ai",
+      "title": "Using locked chats in ChatGPT | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OaXFlekxiYk1nMWJRelNPLUVCd3pvOFhMRUFmUXJudGJ6OWhPNno5OW5pYlk1UXhhMXdzRDNTaElreWM3VmtXZzBBZlF5Tzh5cV9IV25VUkt6OTFzZVI3dnlma18yV1ItcmJRbTdMWFVOR2QzeEd3aUlZVTQ0cm8?oc=5",
+      "source": "OpenAI",
+      "publisher": "OpenAI Help Center",
+      "description": "Using locked chats in ChatGPT | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-27T06:15:45+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OaXFlekxiYk1nMWJRelNPLUVCd3pvOFhMRUFmUXJudGJ6OWhPNno5OW5pYlk1UXhhMXdzRDNTaElreWM3VmtXZzBBZlF5Tzh5cV9IV25VUkt6OTFzZVI3dnlma18yV1ItcmJRbTdMWFVOR2QzeEd3aUlZVTQ0cm8?oc=5",
+          "source": "OpenAI",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T06:15:45+00:00",
+          "title": "Using locked chats in ChatGPT | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -474,32 +552,6 @@
       ]
     },
     {
-      "id": "e83382ca55d834a205dbab3f",
-      "topic": "ai",
-      "title": "Using the built-in browser in the ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSi1uRW9kMTdsUWlHZlZzRS15b3VMYXVtSDRSVi0wSFFSLWp6aUlXRUNqNkU2NldTOHkxRlFmTWlZRVlRcUIzNEZOU1I3WXhrQmVVV1dxbDIxWFJhZERXSGNTSjFXdDhXcm1jbTBzY0JsNEw3Zkd4MzhLOVhFVUZXMjA2VGRrNGFnXzlPQjlEYmNZZHYwOGpFQThUVXpQQkE?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "Using the built-in browser in the ChatGPT desktop app | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-26T23:49:50+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSi1uRW9kMTdsUWlHZlZzRS15b3VMYXVtSDRSVi0wSFFSLWp6aUlXRUNqNkU2NldTOHkxRlFmTWlZRVlRcUIzNEZOU1I3WXhrQmVVV1dxbDIxWFJhZERXSGNTSjFXdDhXcm1jbTBzY0JsNEw3Zkd4MzhLOVhFVUZXMjA2VGRrNGFnXzlPQjlEYmNZZHYwOGpFQThUVXpQQkE?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T23:49:50+00:00",
-          "title": "Using the built-in browser in the ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
       "id": "2fecbb69ddc34f44ee2a69ca",
       "topic": "ai",
       "title": "Musk pledges two SpaceX shares for every US child in $18 billion AI charm offensive - Reuters",
@@ -532,12 +584,12 @@
       "url": "https://www.computerbase.de/news/internet/fritz-os-8-26-verbessertes-mesh-und-besserer-datendurchsatz-fuer-fritz-box-7530.100551",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Während andere Fritz!-Router bereits bei Fritz!OS 8.51 angekommen sind, erhält die Fritz!Box 7530 nun Version 8.26. Neue Funktionen bringt das Update nicht mit sich, stattdessen soll es mit zusätzlichen Zertifikaten und der Behebung von Schwachstellen die Sicherheit erhöhen.",
+      "description": "Während andere Fritz!-Router bereits Fritz!OS 8.51 erhalten haben, folgt für die Fritz!Box 7530 nun Version 8.26.",
       "published_utc": "2026-11-26T19:05:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -545,11 +597,15 @@
           "url": "https://www.computerbase.de/news/internet/fritz-os-8-26-verbessertes-mesh-und-besserer-datendurchsatz-fuer-fritz-box-7530.100551",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T19:05:00+00:00",
           "title": "Fritz!OS 8.26: Fritz!Box 7530 erhält neue Stammzertifikate für mehr Sicherheit"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T20:05:00+01:00",
+      "article_modified_raw": "2026-11-26T20:05:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "cd296b3c67060843a7539d78",
@@ -644,12 +700,12 @@
       "url": "https://www.computerbase.de/news/gaming/phantom-blade-zero-patch-senkt-ram-und-vram-verbrauch.100546",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "S-Game will am 28. November ein Update für Phantom Blade Zero auf PC und PlayStation 5 veröffentlichen. Der Patch verspricht einen geringeren Speicherbedarf in Zwischensequenzen und verschneiten Gebieten. Außerdem soll er die Leistung verbessern und bestimmte Ruckler sowie Probleme bei Zielerfassung und Bewegung verringern.",
+      "description": "Ein neuer Patch für Phantom Blade Zero soll den Arbeitsspeicher- und VRAM-Bedarf sowie Ruckler reduzieren und die Leistung erhöhen.",
       "published_utc": "2026-11-26T17:15:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -657,11 +713,15 @@
           "url": "https://www.computerbase.de/news/gaming/phantom-blade-zero-patch-senkt-ram-und-vram-verbrauch.100546",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T17:15:00+00:00",
           "title": "Phantom Blade Zero: Patch senkt RAM- und VRAM-Verbrauch"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T18:15:00+01:00",
+      "article_modified_raw": "2026-11-26T18:15:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "43e9d290cc9d68ac517b32cc",
@@ -696,12 +756,12 @@
       "url": "https://www.computerbase.de/news/gaming/ubisoft-projektfreigabe-verlangt-begruendung-fuer-oder-gegen-ki.100544",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Ubisoft will generativer KI in der Spieleentwicklung offenbar mehr Gewicht verleihen. Bei der Vorstellung neuer Projekte sollen Mitarbeiter künftig erläutern, wie sie die Technologie nutzen wollen oder weshalb sie darauf verzichten. Andernfalls soll es keine Freigabe geben. Ubisoft spricht hingegen von Ermutigung zur KI-Nutzung.",
+      "description": "Bei der Vorstellung neuer Projekte sollen Ubisoft-Mitarbeiter künftig erläutern, wie sie KI nutzen wollen oder wieso sie darauf verzichten.",
       "published_utc": "2026-11-26T16:37:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -709,11 +769,15 @@
           "url": "https://www.computerbase.de/news/gaming/ubisoft-projektfreigabe-verlangt-begruendung-fuer-oder-gegen-ki.100544",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T16:37:00+00:00",
           "title": "Ubisoft: Projekt­freigabe verlangt Be­grün­dung für oder gegen KI"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T17:37:00+01:00",
+      "article_modified_raw": "2026-11-26T17:37:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "e9cf6a78ae4c054a64b7ca27",
@@ -748,12 +812,12 @@
       "url": "https://www.computerbase.de/news/grafikkarten/geforce-treiber-621-40-nach-dem-hotfix-macht-auch-der-neue-treiber-probleme.100541",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Am Dienstag hat Nvidia nach dem Hotfix-Treiber 621.35, der den Fehler mit den SSD-Schreibzugriffen beheben sollte, es aber gar nicht immer tat, einen neuen GeForce Game Ready Treiber 621.40 veröffentlicht. Doch auch dieser macht nun bei einigen Nutzern Probleme in Form von Signalverlusten und schwarzen Bildschirmen.",
+      "description": "Nvidias neuer Game Ready GeForce-Treiber 621.40 führt nach dem fehlerhaften Hotfix 621.35 bei einigen Nutzern zu Monitorproblemen.",
       "published_utc": "2026-11-26T15:40:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -761,11 +825,15 @@
           "url": "https://www.computerbase.de/news/grafikkarten/geforce-treiber-621-40-nach-dem-hotfix-macht-auch-der-neue-treiber-probleme.100541",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T15:40:00+00:00",
           "title": "GeForce-Treiber 621.40: Nach dem Hotfix macht auch der neue Treiber Probleme"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T16:40:00+01:00",
+      "article_modified_raw": "2026-11-26T16:40:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "c2f5e9b324a8dddead021a6e",
@@ -830,12 +898,12 @@
       "url": "https://www.gsmarena.com/apple_reportedly_revamping_notifications_once_again_with_ios_28-news-75646.php",
       "source": "GSMArena",
       "publisher": "GSMArena",
-      "description": "Apple has revamped its iOS notification system several times over the years, including the infamous AI-generated notification summaries that were introduced with iOS 18. Now, the company is reportedly preparing another overhaul with iOS 28. While the exact nature of the iOS 28 notifications overhaul remains unknown, MacRumors’ Joe Rossignol claims ",
+      "description": "The iOS notification system has seen several redesigns over the years. Apple has revamped its iOS notification system several times over the years,...",
       "published_utc": "2026-11-26T15:03:02+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -843,11 +911,15 @@
           "url": "https://www.gsmarena.com/apple_reportedly_revamping_notifications_once_again_with_ios_28-news-75646.php",
           "source": "GSMArena",
           "publisher": "GSMArena",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T15:03:02+00:00",
           "title": "Apple reportedly revamping notifications once again with iOS 28"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T16:03:02+01:00",
+      "article_modified_raw": "2026-11-26T16:03:02+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "81d8af6cbf1d7934b77eac1a",
@@ -1256,6 +1328,32 @@
       ]
     },
     {
+      "id": "dab4e6bd3e69f0f651c91821",
+      "topic": "ai",
+      "title": "Singapore 'very disappointed' over new tariffs, urges US to reconsider - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVTBhUG5wa3oyMWZJSVhaWlo3V0hiVjlsUlN6bXRXTVdpUmVlaWFzSkFOVEF0UEc4cTJESV9CVDZiSzdvVV9tS2JOQVU0X3BPdDdXejYzM2VPWnF6UjNLMmI4ZndCa2w2WXdwTVRQaGFSZ0pfY3FFdXRhMllLVVowdWJIblU3dEUtZi1XU0Jrc1J2NS10LUFLTnNZS0o0bnB6eGlRSGVLWHJnV08xem9YV1FNMA?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Singapore 'very disappointed' over new tariffs, urges US to reconsider Reuters",
+      "published_utc": "2026-11-26T15:55:30+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVTBhUG5wa3oyMWZJSVhaWlo3V0hiVjlsUlN6bXRXTVdpUmVlaWFzSkFOVEF0UEc4cTJESV9CVDZiSzdvVV9tS2JOQVU0X3BPdDdXejYzM2VPWnF6UjNLMmI4ZndCa2w2WXdwTVRQaGFSZ0pfY3FFdXRhMllLVVowdWJIblU3dEUtZi1XU0Jrc1J2NS10LUFLTnNZS0o0bnB6eGlRSGVLWHJnV08xem9YV1FNMA?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T15:55:30+00:00",
+          "title": "Singapore 'very disappointed' over new tariffs, urges US to reconsider - Reuters"
+        }
+      ]
+    },
+    {
       "id": "219e9cefa375df3e38e44be4",
       "topic": "ai",
       "title": "Polish defence ministry to sign agreement with Palantir on Friday - Reuters",
@@ -1370,12 +1468,12 @@
       "url": "https://www.gsmarena.com/global_xiaomi_17_ultra_starts_receiving_hyperos_4-news-75656.php",
       "source": "GSMArena",
       "publisher": "GSMArena",
-      "description": "Xiaomi announced the HyperOS 4 update schedule earlier this month, but it seems to have missed the deadline for some of its phones, including the flagship Xiaomi 17 Ultra. Our office unit received the update just this morning, bringing some of the new features that debuted with the Xiaomi 18 Pro series and new aesthetics. Surprisingly, we got the u",
+      "description": "New features and under-the-hood optimizations await. Xiaomi announced the HyperOS 4 update schedule earlier this month, but it seems to have missed the...",
       "published_utc": "2026-11-26T19:33:02+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1383,11 +1481,15 @@
           "url": "https://www.gsmarena.com/global_xiaomi_17_ultra_starts_receiving_hyperos_4-news-75656.php",
           "source": "GSMArena",
           "publisher": "GSMArena",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T19:33:02+00:00",
           "title": "Global Xiaomi 17 Ultra starts receiving HyperOS 4"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T20:33:02+01:00",
+      "article_modified_raw": "2026-11-26T20:33:02+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "1e2574e32d42267d0a74e121",
@@ -2478,16 +2580,16 @@
     {
       "id": "3e273400974b3b4e98c9a307",
       "topic": "pc",
-      "title": "これからChatGPTを仕事で活用したい人がノートPCのローカルAIも気にすべき理由 ～初めてのAI PC選びでのポイントをdynabook XD5/ARで解説[Sponsored]",
+      "title": "これからChatGPTを仕事で活用したい人がノートPCのローカルAIも気にすべき理由",
       "url": "https://pc.watch.impress.co.jp/docs/topic/special/2151734.html",
       "source": "PC Watch",
       "publisher": "PC Watch",
       "description": "AIはチャットで使ったことはある。でも仕事で本格的に活用するところまでは、まだなんとなく踏み切れていない。そんな人は意外と多いのかもしれない。",
       "published_utc": "2026-11-26T21:30:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2495,11 +2597,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/topic/special/2151734.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T21:30:00+00:00",
-          "title": "これからChatGPTを仕事で活用したい人がノートPCのローカルAIも気にすべき理由 ～初めてのAI PC選びでのポイントをdynabook XD5/ARで解説[Sponsored]"
+          "title": "これからChatGPTを仕事で活用したい人がノートPCのローカルAIも気にすべき理由"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T06:30:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "fef8045407b057f5af86e9ee",
@@ -4738,12 +4844,12 @@
       "url": "https://www.computerbase.de/news/grafikkarten/gpu-demo-gallery-36-klassische-grafikkarten-demos-laufen-jetzt-im-browser.100554",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Mit dem Werwolf Wolfman und der Elfe Dawn demonstrierte Nvidia einst die Fähigkeiten seiner neuesten Grafikkarten. Mehr als zwei Jahrzehnte später hat der Entwickler Archit Khode diese und zahlreiche weitere Tech-Demos für den Einsatz im Browser aufbereitet. Seine Sammlung reicht bis ins Jahr 1997 zurück.",
+      "description": "Von der 3dfx Voodoo bis zur GeForce 8: Historische Tech-Demos von Nvidia, ATI und 3dfx lassen sich jetzt im Browser ausführen.",
       "published_utc": "2026-11-27T05:00:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -4751,11 +4857,15 @@
           "url": "https://www.computerbase.de/news/grafikkarten/gpu-demo-gallery-36-klassische-grafikkarten-demos-laufen-jetzt-im-browser.100554",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T05:00:00+00:00",
           "title": "GPU Demo Gallery: Was einst High-End-GPUs brauchte, läuft heute im Browser"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T06:00:00+01:00",
+      "article_modified_raw": "2026-11-27T06:00:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "2fb75bf86c0b43cd7338d87b",
@@ -5138,16 +5248,16 @@
     {
       "id": "15f32d17111a5b708d507b16",
       "topic": "pc",
-      "title": "15万円で君も令和のビジネスパーソンだ！ AI時代のPCの不満を解決する「THIRDWAVE Notebook MA4」【動画】 [Sponsored]",
+      "title": "15万円で君も令和のビジネスパーソンだ！ AI時代のPCの不満を解決する「THIRDWAVE Notebook MA4」【動画】",
       "url": "https://pc.watch.impress.co.jp/docs/topic/special/2159508.html",
       "source": "PC Watch",
       "publisher": "PC Watch",
       "description": "“使い古したノートPCでも、AIチャットを導入すればまだまだ戦える！”そう思っていた時期がありました……。確かに下書きは一発。でも、AIと資料を並べれば画面は窮屈になり、Web会議にメールも開きっぱなしで動作はもたつく。電池が心配で、会議室に入ればまずコンセント探し。鞄はACアダプタでパンパンです。",
       "published_utc": "2026-11-27T03:00:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -5155,11 +5265,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/topic/special/2159508.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T03:00:00+00:00",
-          "title": "15万円で君も令和のビジネスパーソンだ！ AI時代のPCの不満を解決する「THIRDWAVE Notebook MA4」【動画】 [Sponsored]"
+          "title": "15万円で君も令和のビジネスパーソンだ！ AI時代のPCの不満を解決する「THIRDWAVE Notebook MA4」【動画】"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T12:00:00+09:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "ec852f7f371c50c7ef8a87d0",
@@ -5358,16 +5472,16 @@
     {
       "id": "7c85783b48832f318a80b6f4",
       "topic": "pc",
-      "title": "185 Netz-Upgrades im Oktober: Vodafone baut Kabel­netz und Glas­faser-Reich­weite aus",
+      "title": "185 Netz-Upgrades im Oktober: Vodafone baut Kabel­netz und Glas­faser-Reich­weite aus",
       "url": "https://www.computerbase.de/news/internet/185-netz-upgrades-im-oktober-vodafone-baut-kabelnetz-und-glasfaser-reichweite-aus.100559",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Vodafone hat im Oktober nach eigenen Angaben 185 Maßnahmen zur Modernisierung des Kabelnetzes umgesetzt. Rund 40.000 Haushalte sollen von mehr Kapazität und stabileren Anschlüssen profitieren. Zugleich nahm die Glasfaser-Reichweite um 78.000 Anschlüsse auf 15,8 Millionen zu. Auch neue Ausbauprojekte sind gestartet oder geplant.",
+      "description": "Vodafone meldet 185 Netz-Upgrades im Oktober: 40.000 Haushalte profitieren, die Glasfaser-Reichweite steigt auf 15,8 Millionen Anschlüsse.",
       "published_utc": "2026-11-27T11:36:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -5375,11 +5489,15 @@
           "url": "https://www.computerbase.de/news/internet/185-netz-upgrades-im-oktober-vodafone-baut-kabelnetz-und-glasfaser-reichweite-aus.100559",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T11:36:00+00:00",
-          "title": "185 Netz-Upgrades im Oktober: Vodafone baut Kabel­netz und Glas­faser-Reich­weite aus"
+          "title": "185 Netz-Upgrades im Oktober: Vodafone baut Kabel­netz und Glas­faser-Reich­weite aus"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T12:36:00+01:00",
+      "article_modified_raw": "2026-11-27T12:36:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "a8fc88c7edee12b988d785d2",
@@ -5570,16 +5688,16 @@
     {
       "id": "e0de774d6ac3bed213cd787a",
       "topic": "pc",
-      "title": "【本日みつけたお買い得品】Apple Watch Series 12が1万800円引き、SE 3とUltra 3も",
+      "title": "Apple Watch Series 12が1万800円引き、SE 3とUltra 3も",
       "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2160159.html",
       "source": "PC Watch",
       "publisher": "PC Watch",
       "description": "Amazonにおいて、Appleのスマートウォッチ「Apple Watch Series 12(GPSモデル・42mmライトゴールドアルミニウムケース)」が、直近価格から1万800円引きとなる6万1,000円で販売中だ。",
       "published_utc": "2026-11-27T12:20:48+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -5587,11 +5705,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2160159.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T12:20:48+00:00",
-          "title": "【本日みつけたお買い得品】Apple Watch Series 12が1万800円引き、SE 3とUltra 3も"
+          "title": "Apple Watch Series 12が1万800円引き、SE 3とUltra 3も"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T21:20:48+09:00",
+      "article_modified_raw": "2026-11-27T21:20:53+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "1ed037bcca56c6b058d1c568",
@@ -5772,6 +5894,7 @@
       "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "183532dcb3e4",
       "sources": [
         {
           "url": "https://tftcentral.co.uk/reviews/asus-rog-swift-pg259qws-ace",
@@ -6179,7 +6302,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Reviewing Work and Codex usage and using Personal Analytics in ChatGPT Desktop OpenAI Help Center",
-      "published_utc": "2026-11-27T09:53:05+00:00",
+      "published_utc": "2026-11-27T01:24:25+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -6192,7 +6315,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T09:53:05+00:00",
+          "published_utc": "2026-11-27T01:24:25+00:00",
           "title": "Reviewing Work and Codex usage and using Personal Analytics in ChatGPT Desktop - OpenAI Help Center"
         }
       ]
@@ -6205,7 +6328,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Creating and using ChatGPT Sites | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-27T00:27:20+00:00",
+      "published_utc": "2026-11-27T06:01:28+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -6218,7 +6341,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T00:27:20+00:00",
+          "published_utc": "2026-11-27T06:01:28+00:00",
           "title": "Creating and using ChatGPT Sites | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -6231,7 +6354,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Creating and editing documents, spreadsheets, and presentations with ChatGPT Work | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-27T04:55:35+00:00",
+      "published_utc": "2026-11-27T04:00:58+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -6244,7 +6367,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T04:55:35+00:00",
+          "published_utc": "2026-11-27T04:00:58+00:00",
           "title": "Creating and editing documents, spreadsheets, and presentations with ChatGPT Work | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -6335,7 +6458,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Getting started with Space in ChatGPT | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-26T23:41:32+00:00",
+      "published_utc": "2026-11-27T04:48:25+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -6348,7 +6471,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T23:41:32+00:00",
+          "published_utc": "2026-11-27T04:48:25+00:00",
           "title": "Getting started with Space in ChatGPT | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -9378,6 +9501,32 @@
       ]
     },
     {
+      "id": "a8507349437e5bc8c937c238",
+      "topic": "ai",
+      "title": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform Reuters",
+      "published_utc": "2026-11-27T11:01:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T11:01:00+00:00",
+          "title": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform - Reuters"
+        }
+      ]
+    },
+    {
       "id": "d980221b794864db1ba8ae7f",
       "topic": "ai",
       "title": "ChatGPT is eyeing Gemini’s job on Android, with ability to make calls, send texts, and more - Android Authority",
@@ -9530,6 +9679,141 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-27T07:06:00+00:00",
           "title": "OnePlus 15 and 15R ColorOS 17 update adds auto PC unlocking, smarter photo storage, and more - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "ce9a162ebabab8ffad814e81",
+      "topic": "pc",
+      "title": "Asus ROG Swift PG259QWS Ace",
+      "url": "https://tftcentral.co.uk/best-settings/asus-rog-swift-pg259qws-ace-2",
+      "source": "TFTCentral",
+      "publisher": "TFTCentral",
+      "description": "Get the best settings for the Asus ROG Swift PG259QWS Ace. This guide covers all the settings you need for optimal performance",
+      "published_utc": "2026-11-27T12:45:52+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "183532dcb3e4",
+      "sources": [
+        {
+          "url": "https://tftcentral.co.uk/best-settings/asus-rog-swift-pg259qws-ace-2",
+          "source": "TFTCentral",
+          "publisher": "TFTCentral",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-27T12:45:52+00:00",
+          "title": "Asus ROG Swift PG259QWS Ace"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T12:45:52+00:00",
+      "article_modified_raw": "2026-11-27T12:45:53+00:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "6b2d9827be9464304a84f23e",
+      "topic": "pc",
+      "title": "[News] Kioxia, NVIDIA Begin 1.1 PB SSD-Based GPU Memory Expansion Tests to Address HBM Capacity Limits - TrendForce",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVFZ6NDNtQWtTcXVmNklJWDRXMzBkQlpKODVKZmFLVUttdU5YTTRxYXdJUlU0WHJHS2NzdWUwXzRWUkxRRzdXZTZOTlQ3aWdGekcxZ2poZEJGX3hhNVRPbi14TDh2TjlmSS1YQmV4WUczZmFPUDRiQ3EySnd4SDZIVkozU3NBZ0dZbFV4RVVXeFE0TTltQ2YtLVc2X09mQmZQUWxBRUZCTk1SY3ZMb0k1dF83NFd5d2E5b3hubTlDSkVXa2F5VTdKYl9wbWEyQjNCYXFwVEMtOF9CUlE?oc=5",
+      "source": "TrendForce",
+      "publisher": "TrendForce",
+      "description": "[News] Kioxia, NVIDIA Begin 1.1 PB SSD-Based GPU Memory Expansion Tests to Address HBM Capacity Limits TrendForce",
+      "published_utc": "2026-11-27T10:16:56+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVFZ6NDNtQWtTcXVmNklJWDRXMzBkQlpKODVKZmFLVUttdU5YTTRxYXdJUlU0WHJHS2NzdWUwXzRWUkxRRzdXZTZOTlQ3aWdGekcxZ2poZEJGX3hhNVRPbi14TDh2TjlmSS1YQmV4WUczZmFPUDRiQ3EySnd4SDZIVkozU3NBZ0dZbFV4RVVXeFE0TTltQ2YtLVc2X09mQmZQUWxBRUZCTk1SY3ZMb0k1dF83NFd5d2E5b3hubTlDSkVXa2F5VTdKYl9wbWEyQjNCYXFwVEMtOF9CUlE?oc=5",
+          "source": "TrendForce",
+          "publisher": "TrendForce",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T10:16:56+00:00",
+          "title": "[News] Kioxia, NVIDIA Begin 1.1 PB SSD-Based GPU Memory Expansion Tests to Address HBM Capacity Limits - TrendForce"
+        }
+      ]
+    },
+    {
+      "id": "7a85a59f3085e7f73fcd3e07",
+      "topic": "ai",
+      "title": "Global equity funds log biggest weekly outflow in 14 months - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWTZpU3RzSnllQi1jd3N1NUlfSFBGN2NkaW8yYWI3QV9GNTlpVWc1VWxkTnVJS2FKbnVUckJ6VGhVUHlEQ2FaNWRNdFkxbFh3UTdncUI5WVA2ZGhFOFdYQ3BoTExrNXhBb01lNFdVQm8zY05jV2twSnRxYzRaOGlzTFdR?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Global equity funds log biggest weekly outflow in 14 months Reuters",
+      "published_utc": "2026-11-27T10:25:10+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWTZpU3RzSnllQi1jd3N1NUlfSFBGN2NkaW8yYWI3QV9GNTlpVWc1VWxkTnVJS2FKbnVUckJ6VGhVUHlEQ2FaNWRNdFkxbFh3UTdncUI5WVA2ZGhFOFdYQ3BoTExrNXhBb01lNFdVQm8zY05jV2twSnRxYzRaOGlzTFdR?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T10:25:10+00:00",
+          "title": "Global equity funds log biggest weekly outflow in 14 months - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "17495a7020926b7a97fad43c",
+      "topic": "ai",
+      "title": "Evaluaciones de modelos de decisión - Artificial Analysis",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51Q3RVMHFzbWxTTlI3SXJ4WEhuWEtOZVZCUFFZQzZzZXZjLUtINzRjbUVKNlVrZ2FBMmJULUxaamMtcTAtR01zSWxBaVVxUVVZNVcxRWVxYUJIc2ZqZ2Z5Ykl2UQ?oc=5",
+      "source": "Artificial Analysis",
+      "publisher": "Artificial Analysis",
+      "description": "Evaluaciones de modelos de decisión Artificial Analysis",
+      "published_utc": "2026-11-27T12:18:27+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51Q3RVMHFzbWxTTlI3SXJ4WEhuWEtOZVZCUFFZQzZzZXZjLUtINzRjbUVKNlVrZ2FBMmJULUxaamMtcTAtR01zSWxBaVVxUVVZNVcxRWVxYUJIc2ZqZ2Z5Ykl2UQ?oc=5",
+          "source": "Artificial Analysis",
+          "publisher": "Artificial Analysis",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T12:18:27+00:00",
+          "title": "Evaluaciones de modelos de decisión - Artificial Analysis"
+        }
+      ]
+    },
+    {
+      "id": "979a01177f2233247901e73d",
+      "topic": "smartphones",
+      "title": "We tested Samsung’s private Galaxy AI cloud on One UI 9.5 beta, and it made AI select smarter - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZXlvT0MxSXNQMnplU0t4NUpmZ0ZfSFR4eDdab3BqaE8wT3pJdnBjS1hCMFFPYlVOLWt4V2dQRnBROWRfeG9kNFU5Q0JjZEllSVYxSTIxenB3YzAxTUdFZG0tZmgwWF9KTDVGSGtOQ1hQLUxBc0d1a0txVW1KSVVaWk1kdnMzOTZGWjV1UTNyR24tX2c?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "We tested Samsung’s private Galaxy AI cloud on One UI 9.5 beta, and it made AI select smarter Android Authority",
+      "published_utc": "2026-11-27T09:02:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "スマートフォンへ分類",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZXlvT0MxSXNQMnplU0t4NUpmZ0ZfSFR4eDdab3BqaE8wT3pJdnBjS1hCMFFPYlVOLWt4V2dQRnBROWRfeG9kNFU5Q0JjZEllSVYxSTIxenB3YzAxTUdFZG0tZmgwWF9KTDVGSGtOQ1hQLUxBc0d1a0txVW1KSVVaWk1kdnMzOTZGWjV1UTNyR24tX2c?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T09:02:00+00:00",
+          "title": "We tested Samsung’s private Galaxy AI cloud on One UI 9.5 beta, and it made AI select smarter - Android Authority"
         }
       ]
     }

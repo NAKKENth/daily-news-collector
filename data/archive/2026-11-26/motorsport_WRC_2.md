@@ -1,5 +1,6 @@
-# WRC / 2026-11-26 / 候補 51–71
+# WRC / 2026-11-26 / 候補 51–72
 
+- [Rivadavia - Mogna (290km) - SARR Series - Motos 2026 - eWRC-results.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxOcW0xX3dJSFIxb3JxV2xkekRiS2V5Q3d0MjNYai01NGdscHBmcHZvTDRhZE4wZGxnaThwWHB2ek5UU3J3TTlBZ1BSQnc5YWd6QjRyNkEtYlBIUmQwQTBQRllWdnFKcUMwcC1OSlFUNDBGZGxmWkx5NUJxa2VZRDUyNA?oc=5) — eWRC results｜要確認｜2026-11-26T11:32:19+00:00 UTC｜discovery_index
 - [Shakedown | Baja de Lagos - FPAK 2026 - eWRC-results.com](https://news.google.com/rss/articles/CBMiekFVX3lxTE9DNVhoamZ6eEYxZGR0OGlNOWFWWlJ1Z2pYOUlrNFVtaGZJWW1YMjBEMzFyVnJ1b2thRERhWk5yTkFaMkdvYXlWRVVYWUZxdHJtZXllVm11RkExb3kwU2d0ZDZJWm14QVNjRV83M0tELTlqcV82R3ZZY3BR?oc=5) — eWRC results｜要確認｜2026-11-25T17:31:02+00:00 UTC｜discovery_index
 - [Splits Madinat Zayed - Madinat Zayed - 35 Abu Dhabi Desert Challenge - FIA 2026 - eWRC-results.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVGIzNVM4UlpBeEIxNURGeTNEVXNzeUNTREtpMXdTd0xGcWdVaE5qN0FhWUdXcTFoZTJRN2RpT1prai1BOE4yYUE2QUthbF9PRkhuejhva3ZMSmw2Y0lqNTJVY3htWWlwOVVGQ3BHb0RNZXpvcUdJa005cHV1M3pqQkFxSDlKbXhlZEVld1RyOA?oc=5) — eWRC results｜要確認｜2026-11-26T13:38:10+00:00 UTC｜discovery_index
 - [Suany Martinez - null null - SARR Series - Quads 2026 - eWRC-results.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE9SR3Z0ejhjUHNXV3NwbjBjVkVieVlWNmxhY3RSU3BtOV9EQW42LXBjRkE5Z2tVbElQMjJIQ3dZVmQwdk1SWWR6X2xZQ2M4WUJHUk0tQjJXMlhqR0Vydk5fSVJWUlJRbHBhX09yTmN1bVdsWHFJSDNIemZjb05uSGM?oc=5) — eWRC results｜要確認｜2026-11-26T11:01:48+00:00 UTC｜discovery_index

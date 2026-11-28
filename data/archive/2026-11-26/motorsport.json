@@ -164,32 +164,6 @@
       ]
     },
     {
-      "id": "77739e056d106c82c9e56856",
-      "topic": "NASCAR",
-      "title": "Ty Gibbs Archives - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GNmF6UmFHcl9tV0paeDlSNFhTZE9MTGhJY21NUHFSMHpMV1lZUEl2YWdzNThBZ2xZeHdCeTNnVHBnOG9ieE9UbHQ1aFhqTW9DeDA3MkM5MGR3MDVGR0FmRDI2NUdxSmo0SFJWbA?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "Ty Gibbs Archives NASCAR.com",
-      "published_utc": "2026-11-25T15:09:33+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GNmF6UmFHcl9tV0paeDlSNFhTZE9MTGhJY21NUHFSMHpMV1lZUEl2YWdzNThBZ2xZeHdCeTNnVHBnOG9ieE9UbHQ1aFhqTW9DeDA3MkM5MGR3MDVGR0FmRDI2NUdxSmo0SFJWbA?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T15:09:33+00:00",
-          "title": "Ty Gibbs Archives - NASCAR.com"
-        }
-      ]
-    },
-    {
       "id": "d8477827bf68e38dc07e8afd",
       "topic": "IndyCar",
       "title": "Latest News - INDYCAR.com",
@@ -223,7 +197,7 @@
       "source": "IndyCar Official",
       "publisher": "INDYCAR.com",
       "description": "Latest NTT INDYCAR SERIES News and Results | Official Site of INDYCAR INDYCAR.com",
-      "published_utc": "2026-11-26T01:09:27+00:00",
+      "published_utc": "2026-11-26T06:01:08+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -236,7 +210,7 @@
           "source": "IndyCar Official",
           "publisher": "INDYCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T01:09:27+00:00",
+          "published_utc": "2026-11-26T06:01:08+00:00",
           "title": "Latest NTT INDYCAR SERIES News and Results | Official Site of INDYCAR - INDYCAR.com"
         }
       ]
@@ -1540,7 +1514,7 @@
       "source": "RACER",
       "publisher": "RACER - Racing News",
       "description": "Racing on TV, November 27-29 RACER - Racing News",
-      "published_utc": "2026-11-25T15:51:00+00:00",
+      "published_utc": "2026-11-25T15:56:07+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -1553,7 +1527,7 @@
           "source": "RACER",
           "publisher": "RACER - Racing News",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T15:51:00+00:00",
+          "published_utc": "2026-11-25T15:56:07+00:00",
           "title": "Racing on TV, November 27-29 - RACER - Racing News"
         }
       ]
@@ -6757,7 +6731,7 @@
       "source": "AMuS",
       "publisher": "Auto Motor und Sport",
       "description": "727 km/h mit Batterieantrieb: Deutsche Drohne stellt Geschwindigkeitsrekord auf Auto Motor und Sport",
-      "published_utc": "2026-11-26T11:25:31+00:00",
+      "published_utc": "2026-11-26T04:44:57+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -6770,7 +6744,7 @@
           "source": "AMuS",
           "publisher": "Auto Motor und Sport",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T11:25:31+00:00",
+          "published_utc": "2026-11-26T04:44:57+00:00",
           "title": "727 km/h mit Batterieantrieb: Deutsche Drohne stellt Geschwindigkeitsrekord auf - Auto Motor und Sport"
         }
       ]
@@ -11368,6 +11342,32 @@
       ]
     },
     {
+      "id": "73c2f6dfb88a598fec8bd3cd",
+      "topic": "NASCAR",
+      "title": "Austin Hill - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uekxPMmFwOFJWWDBCZzZwSGxvTVdWa25YNUROblQ5VmU0WkVlQ3llcnhiVlNQc0w5cEVKZnZJallXNkIySG0waHFfRDZJNTMwTXFfNlFB?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Austin Hill NASCAR.com",
+      "published_utc": "2026-11-26T12:16:55+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uekxPMmFwOFJWWDBCZzZwSGxvTVdWa25YNUROblQ5VmU0WkVlQ3llcnhiVlNQc0w5cEVKZnZJallXNkIySG0waHFfRDZJNTMwTXFfNlFB?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:16:55+00:00",
+          "title": "Austin Hill - NASCAR.com"
+        }
+      ]
+    },
+    {
       "id": "ad1dffecc57434fda547e6c1",
       "topic": "F1",
       "title": "F1 qatar gp - RACER - Racing News",
@@ -11598,6 +11598,84 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T09:29:37+00:00",
           "title": "Klass Günther / Wütherich Rolf | 34 Rallye de Genève 1966 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "34e899854bb8bad589b940a9",
+      "topic": "other_motorsport",
+      "title": "2025年F1コスト上限規則にウイリアムズが軽微な違反、罰金および空力テスト削減のペナルティ。アルピーヌは手続き違反 - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9PdDE5M0F3RENNQjktcXRGeW1KWDVFOTRaaFluZ2lJdEdJYlFleHIzUWVVNGd5S1dqQUV2cmNRS1BBTk9hZzBr?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "2025年F1コスト上限規則にウイリアムズが軽微な違反、罰金および空力テスト削減のペナルティ。アルピーヌは手続き違反 autosport web",
+      "published_utc": "2026-11-25T23:27:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9PdDE5M0F3RENNQjktcXRGeW1KWDVFOTRaaFluZ2lJdEdJYlFleHIzUWVVNGd5S1dqQUV2cmNRS1BBTk9hZzBr?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T23:27:00+00:00",
+          "title": "2025年F1コスト上限規則にウイリアムズが軽微な違反、罰金および空力テスト削減のペナルティ。アルピーヌは手続き違反 - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "0648a661a63fadb7752f6cc7",
+      "topic": "other_motorsport",
+      "title": "望外の表彰台の背景に、マクラーレン＆メルセデスHPPとドライバーの連携強化。PU最適化への取り組みを代表が称える - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE40b3ZlY1JVcmhBY1Y1dXJFUkJXMVdyV0FmckladTV6cGdsMGpRMmxLbjYweUtkd0J6blZtWTVNUXZXdmpEWU04?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "望外の表彰台の背景に、マクラーレン＆メルセデスHPPとドライバーの連携強化。PU最適化への取り組みを代表が称える autosport web",
+      "published_utc": "2026-11-25T22:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE40b3ZlY1JVcmhBY1Y1dXJFUkJXMVdyV0FmckladTV6cGdsMGpRMmxLbjYweUtkd0J6blZtWTVNUXZXdmpEWU04?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T22:00:00+00:00",
+          "title": "望外の表彰台の背景に、マクラーレン＆メルセデスHPPとドライバーの連携強化。PU最適化への取り組みを代表が称える - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "6afe79bf71199bc9b3def49e",
+      "topic": "WRC",
+      "title": "Barbosa Ruy | SARR Series - Motos 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfMHllVXg4VTZ1UUtHNzJLM25xYndRVURoQmhLSlk4eGVhb05FVWNvNUtIZ3c4enNVWUNZSUFWLUNyUkhlRXRWY3IyWHowc1M4RTNFc2lDWDBTajlnUDNRN0Ewa19jUk94Zms0OWNNcU15bzdHdnhMUWFjRUFYS1k?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Barbosa Ruy | SARR Series - Motos 2026 eWRC-results.com",
+      "published_utc": "2026-11-26T11:01:49+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfMHllVXg4VTZ1UUtHNzJLM25xYndRVURoQmhLSlk4eGVhb05FVWNvNUtIZ3c4enNVWUNZSUFWLUNyUkhlRXRWY3IyWHowc1M4RTNFc2lDWDBTajlnUDNRN0Ewa19jUk94Zms0OWNNcU15bzdHdnhMUWFjRUFYS1k?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T11:01:49+00:00",
+          "title": "Barbosa Ruy | SARR Series - Motos 2026 - eWRC-results.com"
         }
       ]
     }

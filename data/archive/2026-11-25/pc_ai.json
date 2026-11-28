@@ -2590,32 +2590,6 @@
       ]
     },
     {
-      "id": "bfdb725572b2ac7cfd0e46cd",
-      "topic": "ai",
-      "title": "Composer predictions in Codex | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XWV9ab1dGRVJIdGwwR0Y3cWFtbmVZRExRUDVuWUlQankyaGpVaG1zR0VvR1Raa2hYb1FZaGN2MHJuUTVkVjBXZXNqNi1randWMUFBbDRVOWdlY3NGNnAxUXZWQUllbkVwbDYxamlOWnNZcmdXX01sM0s5bWNoYjA?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "Composer predictions in Codex | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T14:45:45+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XWV9ab1dGRVJIdGwwR0Y3cWFtbmVZRExRUDVuWUlQankyaGpVaG1zR0VvR1Raa2hYb1FZaGN2MHJuUTVkVjBXZXNqNi1randWMUFBbDRVOWdlY3NGNnAxUXZWQUllbkVwbDYxamlOWnNZcmdXX01sM0s5bWNoYjA?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T14:45:45+00:00",
-          "title": "Composer predictions in Codex | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
       "id": "09fdf34b528161df9ab5ca2c",
       "topic": "ai",
       "title": "Healthcare model configurations in the OpenAI API - OpenAI Help Center",
@@ -4388,32 +4362,6 @@
       ]
     },
     {
-      "id": "7a6443ffb0a05fa7b965fdf0",
-      "topic": "ai",
-      "title": "EXCLUSIVE: Alice Huang-linked firms listed $270 million in AI servers in China, records show - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXNKWVJFdGJPenhtYnNFM2VnNnJGdUpjaUlfVDMycE9TWlVUOWJwNVNmU0dyMC1OUF90NzQ1TUZwdDlERUc0RENMRU44MVo2eGhsT1V3MTFpLXh0OTM3cW1hWkNZbGFzc3V5WVdFenoxTE5uZkZoaDNXdW41cmFzVThQZnVNYUR2N3hMcE1EeUQ4cGotR3FVYjJKV0FudldtekoyZUQ3b2NlNTUxWmNfODdPd3RHVlNZM2tsYWpwSFVjZGFY?oc=5",
-      "source": "Reuters AI",
-      "publisher": "Reuters",
-      "description": "EXCLUSIVE: Alice Huang-linked firms listed $270 million in AI servers in China, records show Reuters",
-      "published_utc": "2026-11-25T06:13:00+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXNKWVJFdGJPenhtYnNFM2VnNnJGdUpjaUlfVDMycE9TWlVUOWJwNVNmU0dyMC1OUF90NzQ1TUZwdDlERUc0RENMRU44MVo2eGhsT1V3MTFpLXh0OTM3cW1hWkNZbGFzc3V5WVdFenoxTE5uZkZoaDNXdW41cmFzVThQZnVNYUR2N3hMcE1EeUQ4cGotR3FVYjJKV0FudldtekoyZUQ3b2NlNTUxWmNfODdPd3RHVlNZM2tsYWpwSFVjZGFY?oc=5",
-          "source": "Reuters AI",
-          "publisher": "Reuters",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T06:13:00+00:00",
-          "title": "EXCLUSIVE: Alice Huang-linked firms listed $270 million in AI servers in China, records show - Reuters"
-        }
-      ]
-    },
-    {
       "id": "f8cc02d8b38bf61dffd00a41",
       "topic": "ai",
       "title": "Jensen Huang's second coming offers little relief to AI credits - Reuters",
@@ -4436,6 +4384,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T11:48:21+00:00",
           "title": "Jensen Huang's second coming offers little relief to AI credits - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "f5b85ba3db639d1c2a47f839",
+      "topic": "ai",
+      "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFVsTjFROGtER0loSkZOcnF2NDRLUWFmcjBHZ01ybE51N19idjFFMXI1dnFqZ21JYS1HVVpicTJ1V1RfVU4zd3pkVEZMWHdqMUJWRENOQWJ2VjFqT1Y3WS0xYTV3bzd2RnRraFhtOVpzVE9yYThzdV9tdWxJbUpjNzFraw?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "World stocks tumble as Trump tariffs rattle markets, AI rally fades Reuters",
+      "published_utc": "2026-11-25T01:53:56+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFVsTjFROGtER0loSkZOcnF2NDRLUWFmcjBHZ01ybE51N19idjFFMXI1dnFqZ21JYS1HVVpicTJ1V1RfVU4zd3pkVEZMWHdqMUJWRENOQWJ2VjFqT1Y3WS0xYTV3bzd2RnRraFhtOVpzVE9yYThzdV9tdWxJbUpjNzFraw?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T01:53:56+00:00",
+          "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades - Reuters"
         }
       ]
     },
@@ -4473,7 +4447,7 @@
       "source": "Reuters AI",
       "publisher": "Reuters",
       "description": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington Reuters",
-      "published_utc": "2026-11-24T22:29:00+00:00",
+      "published_utc": "2026-11-24T22:35:45+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -4486,7 +4460,7 @@
           "source": "Reuters AI",
           "publisher": "Reuters",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T22:29:00+00:00",
+          "published_utc": "2026-11-24T22:35:45+00:00",
           "title": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington - Reuters"
         }
       ]
@@ -19017,6 +18991,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T18:32:00+00:00",
           "title": "Your old smartphone is likely worth more now as a trade-in than it was last year - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "7239d5d5ef3ab8e7284c9c13",
+      "topic": "ai",
+      "title": "CD Projekt RED sees no material fourth-quarter hit from GTA VI - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUp0Si1pZjRaMXJucFpFeWQ3OURDd3lEcWhxcWo1NnJuNnZzTy1zU2NBMk5jLTJ4RVh6dHhEWDNpZlJfSDBMTC1aT29yRjh4VW15bDF0Zi1yS1MwRUJWNUJXb1N4YTRyUllpeDBaUzRPRjNwTEFuT0hOYkxfMGFNNlJVTHo1TkgwdWdLZS1XZFZKTnU4ZDNKeUg0ZEU4cWxRMjFveGNLbw?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "CD Projekt RED sees no material fourth-quarter hit from GTA VI Reuters",
+      "published_utc": "2026-11-25T07:43:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUp0Si1pZjRaMXJucFpFeWQ3OURDd3lEcWhxcWo1NnJuNnZzTy1zU2NBMk5jLTJ4RVh6dHhEWDNpZlJfSDBMTC1aT29yRjh4VW15bDF0Zi1yS1MwRUJWNUJXb1N4YTRyUllpeDBaUzRPRjNwTEFuT0hOYkxfMGFNNlJVTHo1TkgwdWdLZS1XZFZKTnU4ZDNKeUg0ZEU4cWxRMjFveGNLbw?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T07:43:00+00:00",
+          "title": "CD Projekt RED sees no material fourth-quarter hit from GTA VI - Reuters"
         }
       ]
     }

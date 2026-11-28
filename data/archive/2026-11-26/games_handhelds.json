@@ -4209,32 +4209,6 @@
       ]
     },
     {
-      "id": "cbfcefe1aa375ce7540ca41a",
-      "topic": "racing_games",
-      "title": "Leap Into Life Episode 1 - Steam",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92Ylk2T0pFS1Q1ZHpzUVdzanlDVUV2ZTdNbUxTUjZ1aXE5UENpSVB6alNHbGtIOTE1cURNSVlJYThtUWtsVy1PekJOMTlxdEJZS1NnUjBnQXlYUjM0Uk1FSFFmZXZoa3lNTVRZcWtncWJYWXh5Uzcw?oc=5",
-      "source": "Steam racing updates",
-      "publisher": "Steam",
-      "description": "Leap Into Life Episode 1 Steam",
-      "published_utc": "2026-11-26T14:34:44+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92Ylk2T0pFS1Q1ZHpzUVdzanlDVUV2ZTdNbUxTUjZ1aXE5UENpSVB6alNHbGtIOTE1cURNSVlJYThtUWtsVy1PekJOMTlxdEJZS1NnUjBnQXlYUjM0Uk1FSFFmZXZoa3lNTVRZcWtncWJYWXh5Uzcw?oc=5",
-          "source": "Steam racing updates",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T14:34:44+00:00",
-          "title": "Leap Into Life Episode 1 - Steam"
-        }
-      ]
-    },
-    {
       "id": "ae208a84f81b8cec49232ca6",
       "topic": "racing_games",
       "title": "100 Hidden ASCII Cats - Steam",
@@ -4387,6 +4361,188 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T05:39:43+00:00",
           "title": "URD Glickenhaus SCG 007 LMH Lua Display 0.1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "5c348113cb9a00e5fa80768e",
+      "topic": "racing_games",
+      "title": "GRASSCUTTERS LUA HUD LITE - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBabnRhcUdFSnVHU3dHQ0MyLWVuVjVIdmZldk5SWnBJUTNNcUpFSDZPT0xmbTlDM3Y0Szd3RFFlR1B0OVprcDNuRXpieVhTbGtGckxDdUREc0RrY0lpS2RrMV83Ti15WmhkMzVwb1N6NnIya0cz?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "GRASSCUTTERS LUA HUD LITE overtake.gg",
+      "published_utc": "2026-11-25T17:23:07+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBabnRhcUdFSnVHU3dHQ0MyLWVuVjVIdmZldk5SWnBJUTNNcUpFSDZPT0xmbTlDM3Y0Szd3RFFlR1B0OVprcDNuRXpieVhTbGtGckxDdUREc0RrY0lpS2RrMV83Ti15WmhkMzVwb1N6NnIya0cz?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T17:23:07+00:00",
+          "title": "GRASSCUTTERS LUA HUD LITE - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "a96f8447ed7e49fd3a3c722e",
+      "topic": "racing_games",
+      "title": "CTDP F1 2006 mod by Cimmerian_Iter - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVzFocEtrOUw4S1NTVTI4OUY0UVdqSkZ2Z05ESEVZc1lyZERDQXluci1jREwyMjhRRkpPa094Zng1UVJvdjdsanY0cWVxYjFxLUMtazVUa2t1LWxDdThBMmNZMjI0ME1UUEl1UWhMTGR2SzdjRVZRN2ZQVkpna0dEcw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "CTDP F1 2006 mod by Cimmerian_Iter overtake.gg",
+      "published_utc": "2026-11-25T22:20:07+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVzFocEtrOUw4S1NTVTI4OUY0UVdqSkZ2Z05ESEVZc1lyZERDQXluci1jREwyMjhRRkpPa094Zng1UVJvdjdsanY0cWVxYjFxLUMtazVUa2t1LWxDdThBMmNZMjI0ME1UUEl1UWhMTGR2SzdjRVZRN2ZQVkpna0dEcw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T22:20:07+00:00",
+          "title": "CTDP F1 2006 mod by Cimmerian_Iter - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "b5e4b31451b2c57a557955f1",
+      "topic": "racing_games",
+      "title": "Lancia Delta S4 Grifone San Remo 1986 - Reviews - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNjhmRU5KQkFpUHJkOUhfNFhNaG1GaGNMVy1LcnBNTThwZkRBMUNqMzFHczZJenVQX19ieERFMDA3V1h0LXFfLXZKX3k4Sk1tR0lFNFRoWE1IY3pObHNxM3Y5cmlkeVlqQ0F6bFQxMWI3NmZXNFBOMHVacGRVTW9WVjk4dUJDUWF6NVRsRWxR?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Lancia Delta S4 Grifone San Remo 1986 - Reviews overtake.gg",
+      "published_utc": "2026-11-25T22:52:44+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNjhmRU5KQkFpUHJkOUhfNFhNaG1GaGNMVy1LcnBNTThwZkRBMUNqMzFHczZJenVQX19ieERFMDA3V1h0LXFfLXZKX3k4Sk1tR0lFNFRoWE1IY3pObHNxM3Y5cmlkeVlqQ0F6bFQxMWI3NmZXNFBOMHVacGRVTW9WVjk4dUJDUWF6NVRsRWxR?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T22:52:44+00:00",
+          "title": "Lancia Delta S4 Grifone San Remo 1986 - Reviews - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "a699b23f2bafa01674ad367f",
+      "topic": "racing_games",
+      "title": "The FIRM 2026 (EKWSTORE.COM) - Updates - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhVHd1cVlEcGlYdTNOZzcyTXVIVjNKcUVjUS1kWWs5aTBlYTM1bVp6WTlnVFloMVg4d1FrejdpT2dzSnk0M242R1NuSmlhLTVUTk9uclBUdnB4OUtoS1ZtNVRMcVJSQ3ZqMjZxYVpRcEhhWlp2RFROUEl2YXB2WGs?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "The FIRM 2026 (EKWSTORE.COM) - Updates overtake.gg",
+      "published_utc": "2026-11-26T00:24:59+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhVHd1cVlEcGlYdTNOZzcyTXVIVjNKcUVjUS1kWWs5aTBlYTM1bVp6WTlnVFloMVg4d1FrejdpT2dzSnk0M242R1NuSmlhLTVUTk9uclBUdnB4OUtoS1ZtNVRMcVJSQ3ZqMjZxYVpRcEhhWlp2RFROUEl2YXB2WGs?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:24:59+00:00",
+          "title": "The FIRM 2026 (EKWSTORE.COM) - Updates - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "85039fdd9398b7e438f43c77",
+      "topic": "racing_games",
+      "title": "F1 FANTASY 27 (VRC FORMULA ALPHA 26) - Updates - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ2VvVWtybXV3YkR5MVpobDdFUm5mR1hFTFdxaGhYQmtUbHFKSFB5ZGl6a0JsVUFDNXliSFMyVDhncUpibk85Y2J1dFNpa3I3YndfOURodTAza044a1JHRGNLR0E4WkNGT05mOTQ3NjNDeW5obnpTVV9vYTZSYkJlWElaNk1QTXpVVVE?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "F1 FANTASY 27 (VRC FORMULA ALPHA 26) - Updates overtake.gg",
+      "published_utc": "2026-11-25T23:20:14+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ2VvVWtybXV3YkR5MVpobDdFUm5mR1hFTFdxaGhYQmtUbHFKSFB5ZGl6a0JsVUFDNXliSFMyVDhncUpibk85Y2J1dFNpa3I3YndfOURodTAza044a1JHRGNLR0E4WkNGT05mOTQ3NjNDeW5obnpTVV9vYTZSYkJlWElaNk1QTXpVVVE?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T23:20:14+00:00",
+          "title": "F1 FANTASY 27 (VRC FORMULA ALPHA 26) - Updates - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "88eabd60918d9b9052f3680b",
+      "topic": "racing_games",
+      "title": "DiRT Rally 2.0 - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUWdnZGZIQkN6SUFSWHFzUVVkVTFYb01BWUdjOEhsR0JraURHaTdwNlhVTkVSNHpGVGFoWnJaWHcwanFESnJBOGxyT09Xc0lnN1I3T2E5T2NfM0FpT0Z3TWhoZEtEc1dxNkZjZzF2eVpZR3VyMUJKQ0FaX1IxQVZOZzB3?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "DiRT Rally 2.0 Steam",
+      "published_utc": "2026-11-26T04:49:58+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUWdnZGZIQkN6SUFSWHFzUVVkVTFYb01BWUdjOEhsR0JraURHaTdwNlhVTkVSNHpGVGFoWnJaWHcwanFESnJBOGxyT09Xc0lnN1I3T2E5T2NfM0FpT0Z3TWhoZEtEc1dxNkZjZzF2eVpZR3VyMUJKQ0FaX1IxQVZOZzB3?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T04:49:58+00:00",
+          "title": "DiRT Rally 2.0 - Steam"
+        }
+      ]
+    },
+    {
+      "id": "5d6b6e294d9d1469704ee9d7",
+      "topic": "racing_games",
+      "title": "Horsey Game - Steam",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IR2hMYWkzbUdKWTB0Z0RrcmFKNHl2RW1CUENTQXhvTHNCZWJkTjZXbXZ4dG04d2w2NHlCOUgxQ3B3dllYVW9iUlZ1MTlZX284VE5lVVl1SVpYakZ3Y2FicUozeUNXckNqZERIXzQ2UWNyQmV6ZFRhbXk0WQ?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Horsey Game Steam",
+      "published_utc": "2026-11-26T08:02:53+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IR2hMYWkzbUdKWTB0Z0RrcmFKNHl2RW1CUENTQXhvTHNCZWJkTjZXbXZ4dG04d2w2NHlCOUgxQ3B3dllYVW9iUlZ1MTlZX284VE5lVVl1SVpYakZ3Y2FicUozeUNXckNqZERIXzQ2UWNyQmV6ZFRhbXk0WQ?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T08:02:53+00:00",
+          "title": "Horsey Game - Steam"
         }
       ]
     }

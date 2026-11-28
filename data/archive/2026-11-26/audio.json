@@ -110,33 +110,6 @@
       ]
     },
     {
-      "id": "f139943ba66bc0dc4388b18d",
-      "topic": "tws",
-      "title": "Healthcare & wellness blueprint - Bluetooth - Bluetooth® Technology Website",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15dmx0QTZOcjJyX0ltcEl6OEpkUnN0cnUzYVhMbHN3dGpleVNxNmxPTXBOeWdteF9xbWRtSS10N3V0aW04akZ0dWQyMlhtaTkwYjh1T2dRUFhWYnJ1MWRwc1Uta253aXB5RWZPQzd2Rmo?oc=5",
-      "source": "Bluetooth SIG",
-      "publisher": "Bluetooth® Technology Website",
-      "description": "Healthcare & wellness blueprint - Bluetooth Bluetooth® Technology Website",
-      "published_utc": "2026-11-25T16:29:36+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "possible_event_id": "ea713170a74d",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15dmx0QTZOcjJyX0ltcEl6OEpkUnN0cnUzYVhMbHN3dGpleVNxNmxPTXBOeWdteF9xbWRtSS10N3V0aW04akZ0dWQyMlhtaTkwYjh1T2dRUFhWYnJ1MWRwc1Uta253aXB5RWZPQzd2Rmo?oc=5",
-          "source": "Bluetooth SIG",
-          "publisher": "Bluetooth® Technology Website",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T16:29:36+00:00",
-          "title": "Healthcare & wellness blueprint - Bluetooth - Bluetooth® Technology Website"
-        }
-      ]
-    },
-    {
       "id": "29062b528c2303cbcf58f7c6",
       "topic": "tws",
       "title": "Automotive blueprint - Bluetooth - Bluetooth® Technology Website",
@@ -1259,7 +1232,6 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
-      "possible_event_id": "ea713170a74d",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00MlFCTFhEYnJLZTdNck41Q01NcUhxM1I3Tnh0djZNRkNwVjEwb240cDRHamxvSmgxd214SERnRWJGSGFLa1lPOGxpVVFicmtEdnVaQWFNNmkwNnlQemJKLWJ5ZlY2Uk1wbXlQOGZSa0xQVDI4SGVNVg?oc=5",
@@ -4505,6 +4477,110 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T05:38:44+00:00",
           "title": "How to use, maintain, and safely charge your Galaxy Buds4 series - samsung.com"
+        }
+      ]
+    },
+    {
+      "id": "b98cd193bf6116900984ea05",
+      "topic": "wired",
+      "title": "“買い”で間違い無し！ オーテク重低音イヤホン上位機がAmazonで驚きの安さ【レビューあり】",
+      "url": "http://www.phileweb.com/review/column/202611/28/3219.html",
+      "source": "PHILE WEB",
+      "publisher": "PHILE WEB",
+      "description": "オーディオテクニカの重低音イヤホンSOLID BASS「ATH-CKS50TW2」がAmazon ブラックフライデーに登場中。数多くのイヤホンに触れている歴戦の評論家もレビュー記事で「予想以上に遊べる1台」と実力を高く評価している注目機がお得に買えるチャンス。同製品が“買い”である理由を紹介していこう。",
+      "published_utc": "2026-11-26T09:33:45+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "priority",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "http://www.phileweb.com/review/column/202611/28/3219.html",
+          "source": "PHILE WEB",
+          "publisher": "PHILE WEB",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-26T09:33:45+00:00",
+          "title": "“買い”で間違い無し！ オーテク重低音イヤホン上位機がAmazonで驚きの安さ【レビューあり】"
+        }
+      ]
+    },
+    {
+      "id": "a188431c9bbbff5640f834c2",
+      "topic": "wired",
+      "title": "Feedback - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQRlFzbTA4aVdPUWNSRkU0b2htcTV3R1VBQkp2eWpJS1Z6VDVjbXhnS3BBVkZaZTdUd1pPOEE4WXdaMUo3UEgzMkI0UnJsdV90SmFEd0xZcEg1bW9DdkQ5VFdUbnpTMDEzaVB1aklGTmJ5SXdiSlZQQ0xFNFpTNWt2YnlHb3RzZ3lWUEtwbllHdFIzV05CTHpKWEx2bkNYeUxhbHZkVVRoVmMtZXp3X1FBa3NmaFhodXdJLXloajZfOVNDbFFicTNoOUxwVnltQkFLUTRUZW5TNjQxNWFDd1FFTVBSM1JwbHlLeGtuYWhuOEQwb3Y0MGpyUGxhMFVjbXBsd2pnSjVPbw?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Feedback Head-Fi.org",
+      "published_utc": "2026-11-25T19:49:45+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQRlFzbTA4aVdPUWNSRkU0b2htcTV3R1VBQkp2eWpJS1Z6VDVjbXhnS3BBVkZaZTdUd1pPOEE4WXdaMUo3UEgzMkI0UnJsdV90SmFEd0xZcEg1bW9DdkQ5VFdUbnpTMDEzaVB1aklGTmJ5SXdiSlZQQ0xFNFpTNWt2YnlHb3RzZ3lWUEtwbllHdFIzV05CTHpKWEx2bkNYeUxhbHZkVVRoVmMtZXp3X1FBa3NmaFhodXdJLXloajZfOVNDbFFicTNoOUxwVnltQkFLUTRUZW5TNjQxNWFDd1FFTVBSM1JwbHlLeGtuYWhuOEQwb3Y0MGpyUGxhMFVjbXBsd2pnSjVPbw?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T19:49:45+00:00",
+          "title": "Feedback - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "2c0935ee9c834118d7f810db",
+      "topic": "wired",
+      "title": "Feedback - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTFdRUUI0M3BYZWNLX3Yza3MxVGFnWEgwbWxKdGx0SGVlamFYRk9CRUtHUmdnSHhBMXl2aWZWd1Z6LTduRmZMLW5OSldrXzkwWnFhS29qYlMzNzBpUXBMb1Jwd3RsbjUzV01nYnhRMGpiYVVhME4xRjcxeVlCT2RBWXdrdEZSS2szWnRZ?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Feedback Head-Fi.org",
+      "published_utc": "2026-11-26T02:19:30+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTFdRUUI0M3BYZWNLX3Yza3MxVGFnWEgwbWxKdGx0SGVlamFYRk9CRUtHUmdnSHhBMXl2aWZWd1Z6LTduRmZMLW5OSldrXzkwWnFhS29qYlMzNzBpUXBMb1Jwd3RsbjUzV01nYnhRMGpiYVVhME4xRjcxeVlCT2RBWXdrdEZSS2szWnRZ?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T02:19:30+00:00",
+          "title": "Feedback - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "c1da8df7deb1d8170de3d08e",
+      "topic": "tws",
+      "title": "Upgrade your commute with $62 off Google Pixel Buds Pro 2 - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMkxoZGtKVm42Z20zOERONzZhbV8ydTU3Slhvam5RSkgxZXJKYXVyaEhwb3g5RjMtekxMWGU0aU05RnZjZ0tTTHRRZE1yRmdKQkw0eEpLYTFwcTBRRWVGZ1RQdXBLTkxxLU9HQ1Jab2d3N19sZ2swZ3lmSU5GOXJ0YUE3RE1kZFJmby1V?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Upgrade your commute with $62 off Google Pixel Buds Pro 2 Android Authority",
+      "published_utc": "2026-11-26T12:00:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMkxoZGtKVm42Z20zOERONzZhbV8ydTU3Slhvam5RSkgxZXJKYXVyaEhwb3g5RjMtekxMWGU0aU05RnZjZ0tTTHRRZE1yRmdKQkw0eEpLYTFwcTBRRWVGZ1RQdXBLTkxxLU9HQ1Jab2d3N19sZ2swZ3lmSU5GOXJ0YUE3RE1kZFJmby1V?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:00:00+00:00",
+          "title": "Upgrade your commute with $62 off Google Pixel Buds Pro 2 - Android Authority"
         }
       ]
     }

@@ -1132,11 +1132,11 @@
     {
       "id": "5701f6e9409e76e16c377636",
       "topic": "wired",
-      "title": "(PR) Kiwi Ears Launches the $30 Marcato IEMs Tuned for Vocals",
+      "title": "Kiwi Ears Launches the $30 Marcato IEMs Tuned for Vocals",
       "url": "https://www.techpowerup.com/355269/kiwi-ears-launches-the-usd-30-marcato-iems-tuned-for-vocals",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "Designed with comfort and practicality in mind, the Kiwi Ears Marcato features a compact teardrop-shaped shell that fits naturally and securely in the ear. Its ergonomic design provides a comfortable fit and effective noise isolation, making it suitable for long listening sessions, stage performances, and daily use. The housing is constructed from ",
+      "description": "Designed with comfort and practicality in mind, the Kiwi Ears Marcato features a compact teardrop-shaped shell that fits naturally and securely in the ear. Its ergonomic design provides a comfortable fit and effective noise isolation, making it suitable for long listening sessions, stage...",
       "published_utc": "2026-11-27T13:03:09+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "source_feed_published",
@@ -1151,10 +1151,13 @@
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-27T13:03:09+00:00",
-          "title": "(PR) Kiwi Ears Launches the $30 Marcato IEMs Tuned for Vocals"
+          "title": "Kiwi Ears Launches the $30 Marcato IEMs Tuned for Vocals"
         }
       ],
-      "enrichment": "failed",
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "",
+      "enrichment": "url_only",
       "enrichment_error": "403 Client Error: Forbidden for url: https://www.techpowerup.com/355269/kiwi-ears-launches-the-usd-30-marcato-iems-tuned-for-vocals"
     },
     {
@@ -1966,6 +1969,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "539460f16a26",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUTJvWjNJLWFGYWYwZ1FrWUIyQm1NSFZmTU5EMjlMcjhxanJZaDhXZVdoUmhjaGRiRlJ0cHROdzN1ZlJEY3BXMlBmUVhzdnI2WXE5NnFsTlNiQTJ0Z2M5dUJGb0oyVXVWX2MwRnRzU0VRcGZaa01IcFNKUVFRQ09wNmJQTGQ2VjRnR0pvWHZMYmJUdm1wWTVuMGstblk2QzZMYjVpODVIcEd1RFNrbTdFRlItb3lYN3Fu?oc=5",
@@ -2994,6 +2998,216 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-27T00:32:26+00:00",
           "title": "I am trying to watch videos on Bilibili using AirPlay, but experiencing many audio dropouts and issues. How can I fix it? - JBL"
+        }
+      ]
+    },
+    {
+      "id": "6aeebf258e4a21787e55412d",
+      "topic": "wired",
+      "title": "Closed: Amplificateur de casque Icon Audio HP8 MkII + ensemble de tubes étendus - Très bon état - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTFMyR2JiSkZIMnN1ZnZRdDJRWFI5UjVaa29NMk1tbTMzLXpqbG15TGVvVDVEQk1ybmdpdUJ5aDNVbkpQSlFJdktxQU1ORDFCdTlsNUNRVkYwdDVaR0JnQmpodk4wX1d2RVNKdnlBaDNEZGUydWo0YUpXT3MyeUllOFVtWHJ3ZThBVDItOWlHSWx6LVZib2t5dWF0eHpicWJXXzc2VjNiM1lKUl9IM2h4cHo3LWFsdVdWOUQ0YXRZTG9ORGkxNU9RMXpLNzRvWjJYVG55QVRmUWxTdw?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Closed: Amplificateur de casque Icon Audio HP8 MkII + ensemble de tubes étendus - Très bon état Head-Fi.org",
+      "published_utc": "2026-11-27T10:08:48+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTFMyR2JiSkZIMnN1ZnZRdDJRWFI5UjVaa29NMk1tbTMzLXpqbG15TGVvVDVEQk1ybmdpdUJ5aDNVbkpQSlFJdktxQU1ORDFCdTlsNUNRVkYwdDVaR0JnQmpodk4wX1d2RVNKdnlBaDNEZGUydWo0YUpXT3MyeUllOFVtWHJ3ZThBVDItOWlHSWx6LVZib2t5dWF0eHpicWJXXzc2VjNiM1lKUl9IM2h4cHo3LWFsdVdWOUQ0YXRZTG9ORGkxNU9RMXpLNzRvWjJYVG55QVRmUWxTdw?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T10:08:48+00:00",
+          "title": "Closed: Amplificateur de casque Icon Audio HP8 MkII + ensemble de tubes étendus - Très bon état - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "6b74e56cf6879ec1b50e22d4",
+      "topic": "wired",
+      "title": "THIEAUDIO HYPE 4 MKII - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42aE9kTmtMYklCSWRBRE4zcmRxZHRyTXM2VkdnNDEyZUhmbVROclktVWQ5Z2tUd1ZzdjNIUUNoS2ZzYTN4ZTZWTzF6OUt2NlYyRGhSU2pBbjN6NnRTRWdJVVlCTlpFZXdWT3JaUUdUTkRuNzA?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "THIEAUDIO HYPE 4 MKII Head-Fi.org",
+      "published_utc": "2026-11-26T15:54:33+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42aE9kTmtMYklCSWRBRE4zcmRxZHRyTXM2VkdnNDEyZUhmbVROclktVWQ5Z2tUd1ZzdjNIUUNoS2ZzYTN4ZTZWTzF6OUt2NlYyRGhSU2pBbjN6NnRTRWdJVVlCTlpFZXdWT3JaUUdUTkRuNzA?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T15:54:33+00:00",
+          "title": "THIEAUDIO HYPE 4 MKII - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "c0d55e91789bdfb5d10c8c9b",
+      "topic": "wired",
+      "title": "Apos x Audio-Technica ATH-R70x Refine or Aune AR3000 - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ1hCZTRLeVBpamtMZ0xrQ2F5UjhDbWZGMDZPeVNfem01NDZnclNqd0Nob0tQNmgzeXlUNWtVUjBMeWY2N2diWU9FOWx1UzVneXJJRm5yQm9LanJtb1UtenFtRWtUelgxRm5MWU1FMnk3SGtCMHNPckRabHQ1RnhUREJXUEdjcXM1UkZ2bTQxUVRieXp0aTZuUzY2VWg?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Apos x Audio-Technica ATH-R70x Refine or Aune AR3000 Head-Fi.org",
+      "published_utc": "2026-11-27T10:53:15+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ1hCZTRLeVBpamtMZ0xrQ2F5UjhDbWZGMDZPeVNfem01NDZnclNqd0Nob0tQNmgzeXlUNWtVUjBMeWY2N2diWU9FOWx1UzVneXJJRm5yQm9LanJtb1UtenFtRWtUelgxRm5MWU1FMnk3SGtCMHNPckRabHQ1RnhUREJXUEdjcXM1UkZ2bTQxUVRieXp0aTZuUzY2VWg?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T10:53:15+00:00",
+          "title": "Apos x Audio-Technica ATH-R70x Refine or Aune AR3000 - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "3f8c966b1220bad9f41d8939",
+      "topic": "wired",
+      "title": "Stax SR-30 and SRD-4 - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKMDJJMl9sQ3ZFclM2YU1oemsxa3dyQ3hHVWo1eklEZmRfeDl5OHdsVkdzMm9NM1VoWU9XMUYzdzR1cVAtbGh0aVRhNng3ODJ4NTdqbTV5cVlGMU04U1lDUkQzNEF1ZEo4UnhTNU1hTEs5Zw?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Stax SR-30 and SRD-4 Head-Fi.org",
+      "published_utc": "2026-11-26T18:54:49+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKMDJJMl9sQ3ZFclM2YU1oemsxa3dyQ3hHVWo1eklEZmRfeDl5OHdsVkdzMm9NM1VoWU9XMUYzdzR1cVAtbGh0aVRhNng3ODJ4NTdqbTV5cVlGMU04U1lDUkQzNEF1ZEo4UnhTNU1hTEs5Zw?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T18:54:49+00:00",
+          "title": "Stax SR-30 and SRD-4 - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "1931a364282229e13dd06ad8",
+      "topic": "portable_dac",
+      "title": "Schiit Gungnir OG Delta-Sigma DAC - Silver - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUVfNDJ5dk9YdjdWYlZpUk1pbGl2bFhld290dmZtb0d5ek9wNlFRcWZ1VklvT0s5WW1NZnd5cXA0OXB2TDlMUjNQUzF3M29sZ2dTLWpwcEtsMTBVc3NFQVZ5Y3ZNMnptUlMzRnRfanIxUU0zd2VqLV9LWTRObF9IYllCb3RZX19tSFNWNA?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Schiit Gungnir OG Delta-Sigma DAC - Silver Head-Fi.org",
+      "published_utc": "2026-11-27T06:49:46+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUVfNDJ5dk9YdjdWYlZpUk1pbGl2bFhld290dmZtb0d5ek9wNlFRcWZ1VklvT0s5WW1NZnd5cXA0OXB2TDlMUjNQUzF3M29sZ2dTLWpwcEtsMTBVc3NFQVZ5Y3ZNMnptUlMzRnRfanIxUU0zd2VqLV9LWTRObF9IYllCb3RZX19tSFNWNA?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T06:49:46+00:00",
+          "title": "Schiit Gungnir OG Delta-Sigma DAC - Silver - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "7a4268c3a6a8283c7852fa7f",
+      "topic": "wired",
+      "title": "Rhapsodio Scarlet Beast IEM with RSD Giant cable in great condition - Head-Fi.org",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeXJmTER6ZFJseXBLQllBNjRpanhxeWJWeThrWDB5NC1sdFdPMThOaDZteHBuejRPQTgxRXJpWDNGQXo3YWdldjNMZ01nYi1ITHh4Wm1iLXZwUUkzZzNHbGZ1aDhybTREQTlaSm0wVEU4Q19FOEZoSTFiTnI2T0ZHeDhtRXN0X3hRemJCZ1RoVndnZFVNR0dPajY1Wm5QVy1UdFQ1YkgxN0ZGdDlYZk40NQ?oc=5",
+      "source": "Head-Fi",
+      "publisher": "Head-Fi.org",
+      "description": "Rhapsodio Scarlet Beast IEM with RSD Giant cable in great condition Head-Fi.org",
+      "published_utc": "2026-11-27T13:09:31+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeXJmTER6ZFJseXBLQllBNjRpanhxeWJWeThrWDB5NC1sdFdPMThOaDZteHBuejRPQTgxRXJpWDNGQXo3YWdldjNMZ01nYi1ITHh4Wm1iLXZwUUkzZzNHbGZ1aDhybTREQTlaSm0wVEU4Q19FOEZoSTFiTnI2T0ZHeDhtRXN0X3hRemJCZ1RoVndnZFVNR0dPajY1Wm5QVy1UdFQ1YkgxN0ZGdDlYZk40NQ?oc=5",
+          "source": "Head-Fi",
+          "publisher": "Head-Fi.org",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T13:09:31+00:00",
+          "title": "Rhapsodio Scarlet Beast IEM with RSD Giant cable in great condition - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "a1b20bc0887d0fac312c56c0",
+      "topic": "tws",
+      "title": "How to use, maintain, and safely charge your Galaxy Buds4 series - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjJvVUtia3ZTLXNhUk55NnRabkdyYzVXTkxKZXJPbE56VE5QQ0xrdEN2T1NUYVNHMGRwN05rakNoNnRUYlRad1otcmtkb1RKS2hQSDFISlhkZTVlOGVaTGFybzZVOXdUNEMtR2tDUll2dXVmb0hsNjlsZFJBX1Z3d2xCNEdyNDIta19wODJn?oc=5",
+      "source": "Samsung Audio",
+      "publisher": "samsung.com",
+      "description": "How to use, maintain, and safely charge your Galaxy Buds4 series samsung.com",
+      "published_utc": "2026-11-27T08:49:37+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "b6c863ca4988",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjJvVUtia3ZTLXNhUk55NnRabkdyYzVXTkxKZXJPbE56VE5QQ0xrdEN2T1NUYVNHMGRwN05rakNoNnRUYlRad1otcmtkb1RKS2hQSDFISlhkZTVlOGVaTGFybzZVOXdUNEMtR2tDUll2dXVmb0hsNjlsZFJBX1Z3d2xCNEdyNDIta19wODJn?oc=5",
+          "source": "Samsung Audio",
+          "publisher": "samsung.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T08:49:37+00:00",
+          "title": "How to use, maintain, and safely charge your Galaxy Buds4 series - samsung.com"
+        }
+      ]
+    },
+    {
+      "id": "a39e748b193009f942f8556b",
+      "topic": "portable_dac",
+      "title": "Are cheap acoustic foam panels worth it? - Audio Science Review (ASR) Forum",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeHRmUm9sSmJSTnFJUjZEdllmUHBkR2IyS3VPZTk0dlNqaHpJNi1Bdmw1cC1tNFBBcjRIa3hnMlJkWlhISDFYdVBuNEZ5cGFGZ3pOQ2JZX1pXeEVjMlhyZlRGMGthYnlVTnZxZkhXT0tzV3NCTndpeFk0QVJGNmlHWVBiS3h6UUwtX1hCSmhoU2FPTjQzZWVaOHpOQUxuc0R3dTRRaU1oYUY?oc=5",
+      "source": "Audio Science Review",
+      "publisher": "Audio Science Review (ASR) Forum",
+      "description": "Are cheap acoustic foam panels worth it? Audio Science Review (ASR) Forum",
+      "published_utc": "2026-11-27T11:37:06+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "539460f16a26",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeHRmUm9sSmJSTnFJUjZEdllmUHBkR2IyS3VPZTk0dlNqaHpJNi1Bdmw1cC1tNFBBcjRIa3hnMlJkWlhISDFYdVBuNEZ5cGFGZ3pOQ2JZX1pXeEVjMlhyZlRGMGthYnlVTnZxZkhXT0tzV3NCTndpeFk0QVJGNmlHWVBiS3h6UUwtX1hCSmhoU2FPTjQzZWVaOHpOQUxuc0R3dTRRaU1oYUY?oc=5",
+          "source": "Audio Science Review",
+          "publisher": "Audio Science Review (ASR) Forum",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T11:37:06+00:00",
+          "title": "Are cheap acoustic foam panels worth it? - Audio Science Review (ASR) Forum"
         }
       ]
     }

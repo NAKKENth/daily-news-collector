@@ -1,4 +1,4 @@
-# other_motorsport / 2026-11-25 / 候補 1–37
+# other_motorsport / 2026-11-25 / 候補 1–38
 
 - [Alonso: “We can't be competitive with the power unit we have”](https://www.autosport.com/f1/news/fernando-alonso-we-cant-be-competitive-with-the-power-unit-we-have/10877607) — Autosport all｜要確認｜2026-11-25T09:16:47+00:00 UTC｜feed_published
 - [Opel and Citroen exit is not a betrayal of Formula E, but a major blow at the worst possible time](https://www.autosport.com/formula-e/news/opel-and-citroen-exit-is-not-a-betrayal-of-formula-e-but-a-major-blow-at-the-worst-possible-time/10877649) — Autosport all｜要確認｜2026-11-25T11:04:50+00:00 UTC｜feed_published
@@ -36,4 +36,5 @@
 - [レッドブル代表、順位維持の指示を説明。ハジャーを擁護「協力して後続からポジションを守る方がいい戦略だった」 - autosport web](https://news.google.com/rss/articles/CBMiR0FVX3lxTE9pUGk3MXlvVUk5TUZwX1RSR0NPUmxTRkpYbGtoRkotSzB3YW5NaFU3WHBzb2FvUFVJaWhSOEhZSzlfQnVlNEJJ?oc=5) — AUTOSPORT web｜要確認｜2026-11-25T09:00:00+00:00 UTC｜discovery_index
 - [ヴァルキリーの2027年仕様が確定。操縦性の改善を図った改良型はデイトナテストで初公開へ - autosport web](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HX1dPOUowMUFnUkROdDhMRUU5b1RsQ3dsWWI2c2t6WV90VHZBVzMzZG53eENQMURLcHh0NktDYmlCVHl0UDc0MnRqSjYzaFRtVXc?oc=5) — AUTOSPORT web｜要確認｜2026-11-25T02:53:00+00:00 UTC｜discovery_index
 - [佐藤琢磨主催のTAKUMA KIDS KART CHALLENGEが2026年も開催。雨のもてぎで94名の小学生が激走 - autosport web](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMellMTVN6VzV3a0w0MmFCenVrSXJ3ck50d2l2Y1B3SGp4Y3hQTzJVWXVvVDVmLThOS2kwczlKMXR2cjEzcHNkUzNlVEhNbzg?oc=5) — AUTOSPORT web｜要確認｜2026-11-25T10:13:00+00:00 UTC｜discovery_index
+- [東京駅にアストンマーティン・ホンダのF1マシンが登場。期間限定でガレージをイメージした特別展示を実施 - autosport web](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1YW5oNHRkNkJycHJnLV80cUF5NllNbk9YMHdoanM4U21JVE13N00tMnd1SENMNGNVb25tcWUtV2w4eEUyMV9CM1ZDZl8zSFc3a3FHUmhBWGNKSE4zalNxenQwVzlhR1U?oc=5) — AUTOSPORT web｜要確認｜2026-11-25T06:11:00+00:00 UTC｜discovery_index
 - [第21戦ポルトガルGP ニュース - autosport web](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTlBBQl91TDktOEpENzF0OUJUTVNKYkhjSXBjMEE2TFI0Rkt3a0p0MXVod3ZoTk9NYWgzb1l2UHkyU3QxY09URUZqTjdXcVJuRUNiYlJmdE1uU25QSUpWZk9Tc3dQVDFXRkdCa2NqUFZ6b3hjR1dpY1daR0dqSUVOTUxSYi01MFZZbVZkYUNsVUx3MlR1alVCMzAzeno1bk91Tnc?oc=5) — AUTOSPORT web｜要確認｜2026-11-24T22:05:54+00:00 UTC｜discovery_index

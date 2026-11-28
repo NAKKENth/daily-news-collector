@@ -1,9 +1,5 @@
-# racing_games / 2026-11-25 / 候補 101–129
+# racing_games / 2026-11-25 / 候補 101–125
 
-- [ScooterFlow - Steam](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jaXVYTkl3azBPSkJmdTJWLWoyYm9iN3VWQnR5S0h1SjdtTGd4RVFlZTNGSXk1NU1uMXdhTVdvLUtUX0tYVWdWVWp3SzBsX0ZuZFlZVTJnNThSbEZubjRtNlZOS1pKUQ?oc=5) — Steam racing updates｜要確認｜2026-11-25T10:23:37+00:00 UTC｜discovery_index
-- [Skins - 996 gtr Beclar skinpack 2003-2006-2007 - overtake.gg](https://news.google.com/rss/articles/CBMihAFBVV95cUxQUlNWNDJYanlGaEpCUXpHUzVyM3lXaEZNSTdkSXF0bTBzWWRGRGVlbldQbUx5VktlMlBfenRJNjZndjZ0Zmk3RWNvS0VRUnloU2dOYmRId0V5Sk5raFlhSEltTEtyT1hzektUQU5mRTk4LWVfNXZUWlhUYnNZbnlkdWdqaFM?oc=5) — OverTake｜要確認｜2026-11-24T17:52:42+00:00 UTC｜discovery_index
-- [Sledders - Steam](https://news.google.com/rss/articles/CBMiYkFVX3lxTE50MjFoUnEyV3RuRS1nd2p5OWg0NWItWUhPUHRHcmlIT2RXOUtsNXVVSEduNkhvbzFnWGw2MnNpbnI2LXcxSE5tYWkyR0JuT1NOaTlwbkRDQWhkclpWSXE2MW9n?oc=5) — Steam racing updates｜要確認｜2026-11-24T20:42:18+00:00 UTC｜discovery_index
-- [Slipstream Modification 1 - overtake.gg](https://news.google.com/rss/articles/CBMickFVX3lxTE8wNk9JcUw5bkxnNmozTDFUUUxMdFpRVDFxU1NOQlRNOU1qWGFhVHlfWEtXSlU2TVhiSi1xMV9VVmNuVUpwX1JRR1NheDVpVGtkQ3FLMXFxZnM4Yk5DUVZ2WWxvRmVROF9Xa3FMZHUwek52Zw?oc=5) — OverTake｜要確認｜2026-11-24T22:52:06+00:00 UTC｜discovery_index
 - [Split by Wachoo 1.0 - overtake.gg](https://news.google.com/rss/articles/CBMicEFVX3lxTFB0MWRFS1dKWEk5TVBiZk1Gdi1vV2JadktFNEEtNVBsZ0lFd1hUdDhhU1JjY09FdG1UTnJ1ZTU1dWNyTE81bERNdHNTX3BCQzdDOHZhbnB6VU1qVFl1TkpsQS1hdTdVSkZQY1M4eXFwbUQ?oc=5) — OverTake｜要確認｜2026-11-24T23:33:25+00:00 UTC｜discovery_index
 - [Split by Wachoo 1.0 - overtake.gg](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxdnZIUDl3amtFei14TkVvcl8yNTVqOEsxUkkzYi1FWjBGeXRFY0dsQWZBWlBTbUN0azJZeVAxVTNYWVZ0dDhwcmZvQlZfVkNfWjk1MWo5T0hldVVNdUJOTThqYXZmSFk?oc=5) — OverTake｜要確認｜2026-11-24T23:30:36+00:00 UTC｜discovery_index
 - [Spots by Wachoo 1.0 - overtake.gg](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15azJKZG5mZUJzWW9EVjlOdUJOenRDZmJmUW44YnU2d0tTVzd3RlNTUDBqVlkyUG0ybFV0N0NDVHJQdG1tRjEyTHZRZGhZZlpIUnNmRmxnTjA4Tko3T09kSFpMcHlncG8?oc=5) — OverTake｜要確認｜2026-11-25T14:09:23+00:00 UTC｜discovery_index

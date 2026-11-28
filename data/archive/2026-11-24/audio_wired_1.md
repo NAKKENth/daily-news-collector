@@ -1,4 +1,4 @@
-# wired / 2026-11-24 / 候補 1–40
+# wired / 2026-11-24 / 候補 1–41
 
 - [AVIOT、劇場版『チェンソーマン レゼ篇』コラボイヤホン。計10キャラ＋3パターンの掛け合いボイスを搭載](https://www.phileweb.com/news/d-av/202611/24/66451.html) — PHILE WEB｜優先｜2026-11-24T08:10:24+00:00 UTC｜article_metadata
 - [Best Headphones for Everyday Use: Need Recommendations - Audio Science Review (ASR) Forum](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaU5wUlk4WFRTa2E1LW02NXpxRUVJTjdIMGZnR1dncDRzbXdFeFVrMmpWTkQxQWlYalZJUUhDRFUyczBiLWlOMndhZ0FZME1Cd2FENDI1Qm9WTHJOaXpROVl0UDdINk9zTHpDSjFDOFVmQ3V1cHJNcGdvS1RKZXNzZk1rbFhXUF9vbmZka05FUjduWGk3SXVIQlFoZ09nNFM2T1ZNaC02UUlpR3BvRlN6V0wxVXV0dno5TEU4?oc=5) — Audio Science Review｜優先｜2026-11-24T06:27:12+00:00 UTC｜discovery_index
@@ -10,6 +10,7 @@
 - [【#eイヤ名古屋大須店】11月28日土曜日はMUSIN OASEAR、iBassoAudio、SHANLING試聴会っ♪](https://e-earphone.blog/?p=1557099) — e earphone｜要確認｜2026-11-24T03:43:58+00:00 UTC｜feed_published
 - [【ミニレビュー】雑味が一掃。パーフェクションの“分割式”アモルクリスタルの効果](https://www.phileweb.com/review/article/202611/24/6744.html) — PHILE WEB｜要確認｜2026-11-23T21:30:00+00:00 UTC｜article_metadata
 - [アバック新宿本店、「B＆W 800D5サラウンド試聴会」を11/28に開催。常設展示開始の「803 D5」などを使用](https://www.phileweb.com/news/audio/202611/24/28430.html) — PHILE WEB｜要確認｜2026-11-24T02:13:09+00:00 UTC｜article_metadata
+- ["Guilty Pleasure" What’s Your "Skull Rumbling" Basshead IEM When You Ditch Neutrality? - Head-Fi.org](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOV1Q2QVMwcVNPYnZCOEtMQ2Z3bTQ0c0VicE9pZXU1UHREWFdxNTJXX0FOako5cGtCQWRBOFhEdWtfQk5wNjJJeFFxZVAtVkE4MTlqTThWcmUydEE5eFFTbWRlc0QxR19PeUpJd0N5aS1SandjcW9KX004UTktNktiRTlMUFd0YVpXWncza3BkdTRsa3ZmSXFqU2lnbUVscU02cWF5bmE1LThkWnR6R0lSRktpY1BmNjZzSy1uN2tkTUFyVzZGTnVWN2dDSDhDZWlHNkFQZUN3RDVBdw?oc=5) — Head-Fi｜要確認｜2026-11-24T09:10:15+00:00 UTC｜discovery_index
 - [3.5mm / 4.4mm to 4-pin XLR Female Headphone Adapters - Head-Fi.org](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRk9kQzFjV1EzempSeDNDTDVrR1ZLeHBlMTZadUhWVVB5eE8xd1AyaDBzM3lzNDJuS3NpdnIwblV1RDRud25XNG1VYUNUTExPaEJwTndTQVJBZEpyVFR3cWtKdDB2ZE04NVc3V1RqU2RkX1FraHhVNG5MNkdXVDFZQndVUlJ5M2gzMDlNdkpNWlFtZUh4aHFDYXhB?oc=5) — Head-Fi｜要確認｜2026-11-24T11:00:58+00:00 UTC｜discovery_index
 - [Canpur Mona Lisa - Head-Fi.org](https://news.google.com/rss/articles/CBMibEFVX3lxTE4zNC1YeUtzeGFDU3ZLRGU1SXZQWE8xWDJSWHUwTDVGVG1TY05pd215bU5wLXlnNGJlYzc1QnRxY3IzOGRIVlBvM3ZpQlM1cjRkUzVKYVFmdGptTXVUczZ3WTFEQ2stejREWHNoSw?oc=5) — Head-Fi｜要確認｜2026-11-24T06:33:38+00:00 UTC｜discovery_index
 - [Closed: - no more for sell - - Head-Fi.org](https://news.google.com/rss/articles/CBMibEFVX3lxTE5WdXpzQmt6Yl96MnIybzBzUGJlZGtSbU9feFh1WjAtemRib3Nhc0FpeFMyQjlGZ2dZLTM1a053TWpUUW5Gb2pMdnhFT1pDWC1nQTZZbmxyakg1NHVpY2xPaTNRSGlkMkJsZDNQTA?oc=5) — Head-Fi｜要確認｜2026-11-24T08:00:00+00:00 UTC｜discovery_index

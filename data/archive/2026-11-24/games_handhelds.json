@@ -3988,6 +3988,58 @@
           "title": "Need for Speed: Most Wanted (2012) - PCGamingWiki"
         }
       ]
+    },
+    {
+      "id": "ed1b703224fc26c31dc45600",
+      "topic": "racing_games",
+      "title": "SimLauncher - One-Click Sim Racing Startup Manager 1.2.5 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN0Y3Y0d2bHFVa3hrUmtKVTN1YzFTTEF0MnczX3V0cE85V3MyUzFxUnpLX0dJQjV4MlRhVFdyWWRHVkswbllqdGZEXzY0WFllM09PNGdpVGl5OThqLUgzUUNHZHJHUmFVUGNOWUtmblZhV0lhdUtSSS01N2lTRDV4cE5GM3Rha3pJNUNQX0EyMzM5eEk?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "SimLauncher - One-Click Sim Racing Startup Manager 1.2.5 overtake.gg",
+      "published_utc": "2026-11-24T11:52:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN0Y3Y0d2bHFVa3hrUmtKVTN1YzFTTEF0MnczX3V0cE85V3MyUzFxUnpLX0dJQjV4MlRhVFdyWWRHVkswbllqdGZEXzY0WFllM09PNGdpVGl5OThqLUgzUUNHZHJHUmFVUGNOWUtmblZhV0lhdUtSSS01N2lTRDV4cE5GM3Rha3pJNUNQX0EyMzM5eEk?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T11:52:00+00:00",
+          "title": "SimLauncher - One-Click Sim Racing Startup Manager 1.2.5 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "57e8a4a3d7a453899f62d24f",
+      "topic": "racing_games",
+      "title": "Faroda - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zZnZWdmdwdzN3WkdCX01sRkVpQjEybHJfcmhwOEFsa1BhS3pJdDRzNUlFM0RHR3NJLXl6aURNNzM5T19DekMtdktKUnRlblJpb0Q4U0U3Y2I1NWxod2tr?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Faroda Steam",
+      "published_utc": "2026-11-24T08:00:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zZnZWdmdwdzN3WkdCX01sRkVpQjEybHJfcmhwOEFsa1BhS3pJdDRzNUlFM0RHR3NJLXl6aURNNzM5T19DekMtdktKUnRlblJpb0Q4U0U3Y2I1NWxod2tr?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T08:00:00+00:00",
+          "title": "Faroda - Steam"
+        }
+      ]
     }
   ],
   "date_unknown": [],

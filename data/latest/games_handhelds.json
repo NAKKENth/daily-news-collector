@@ -6,6 +6,32 @@
   "status": "candidate_collection_only",
   "items": [
     {
+      "id": "fad3cb21598956b9edf787a3",
+      "topic": "racing_games",
+      "title": "Police Simulator: Patrol Officers - Steam",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPODBnOVdDbkxURUdjMDBpeGpjSDBCVzZqVEFva2lXTnNWRzBQbEdMVjAteTUycE9TT016TXU2T0U1VHgydFd2ZG9DdVNfdWQwRTI3LVVoaUh1WkxMTm5ZcFFFV2JmbVVoWklxODA5ZWUweVFpVkxzZUhvSGVXcnJYMQ?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Police Simulator: Patrol Officers Steam",
+      "published_utc": "2026-11-27T02:56:44+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPODBnOVdDbkxURUdjMDBpeGpjSDBCVzZqVEFva2lXTnNWRzBQbEdMVjAteTUycE9TT016TXU2T0U1VHgydFd2ZG9DdVNfdWQwRTI3LVVoaUh1WkxMTm5ZcFFFV2JmbVVoWklxODA5ZWUweVFpVkxzZUhvSGVXcnJYMQ?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T02:56:44+00:00",
+          "title": "Police Simulator: Patrol Officers - Steam"
+        }
+      ]
+    },
+    {
       "id": "17e0f90b4ee0ee91563e8e1c",
       "topic": "racing_games",
       "title": "DiRT Rally 2.0 - Steam",
@@ -660,6 +686,32 @@
       ]
     },
     {
+      "id": "519e19b8c113b789656a352e",
+      "topic": "racing_games",
+      "title": "STAR WARS: Galactic Racer™ - Steam",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuSmYtVHR1WnZZR0I4MzhUVmNSa09nWDJmUjl2V1p2MzgwVkc2TkduSmtRREpRXzFaWmRnWDBOaGhxUV9rcW9Zb1I2RFFGZFJ5WTJJdFh6elhEcWF4TjI2ZXM3TXZwejhtMXB6SHZZQkwxdkZFaWNz?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "STAR WARS: Galactic Racer™ Steam",
+      "published_utc": "2026-11-27T05:52:25+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuSmYtVHR1WnZZR0I4MzhUVmNSa09nWDJmUjl2V1p2MzgwVkc2TkduSmtRREpRXzFaWmRnWDBOaGhxUV9rcW9Zb1I2RFFGZFJ5WTJJdFh6elhEcWF4TjI2ZXM3TXZwejhtMXB6SHZZQkwxdkZFaWNz?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T05:52:25+00:00",
+          "title": "STAR WARS: Galactic Racer™ - Steam"
+        }
+      ]
+    },
+    {
       "id": "e96b361b273c951a45c8f58d",
       "topic": "racing_games",
       "title": "F1® 25 - Steam",
@@ -708,6 +760,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T15:58:02+00:00",
           "title": "Bar After Bar - Steam"
+        }
+      ]
+    },
+    {
+      "id": "8920272aa8d7be33871297ab",
+      "topic": "racing_games",
+      "title": "Car For Sale Simulator - Steam",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tSEdwdWUxdUFHVEUxeU15Zk1Pb29GN0R6QS1JZ09ncFNpLXFDcjFjWm5jWWh3WXg0N1IxU2FVbFJRT1c1VDdwVDgwZHJ0MXdOREE1LWxoMzRqalJrNC1jcW9jZWFiY0VVZC1PcVkyVWxLekVs?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Car For Sale Simulator Steam",
+      "published_utc": "2026-11-26T22:57:26+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tSEdwdWUxdUFHVEUxeU15Zk1Pb29GN0R6QS1JZ09ncFNpLXFDcjFjWm5jWWh3WXg0N1IxU2FVbFJRT1c1VDdwVDgwZHJ0MXdOREE1LWxoMzRqalJrNC1jcW9jZWFiY0VVZC1PcVkyVWxLekVs?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T22:57:26+00:00",
+          "title": "Car For Sale Simulator - Steam"
         }
       ]
     },
@@ -764,6 +842,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-27T09:06:51+00:00",
           "title": "Lancia Delta S4 Grifone San Remo 1986 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "e3694d4fad3d54df8d5a1fd5",
+      "topic": "racing_games",
+      "title": "Anderstorp Raceway for F1 25 - Reviews - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2RJZlA2U3hYMWpzbFF5Q2ZsLTJzRkptOVBVUWhpX0hMQ09sOENhWUkyS0RXVE0wZkV5MmxXMDRNcVV0TjhLRzdHc3ViYnFOak9IQzYydzVDbElVTEVxdGhsZDgyR05HN1A0X1l3WWd3MXp0VjF4ckxwN2dpVi15MzdB?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Anderstorp Raceway for F1 25 - Reviews overtake.gg",
+      "published_utc": "2026-11-26T22:41:10+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2RJZlA2U3hYMWpzbFF5Q2ZsLTJzRkptOVBVUWhpX0hMQ09sOENhWUkyS0RXVE0wZkV5MmxXMDRNcVV0TjhLRzdHc3ViYnFOak9IQzYydzVDbElVTEVxdGhsZDgyR05HN1A0X1l3WWd3MXp0VjF4ckxwN2dpVi15MzdB?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T22:41:10+00:00",
+          "title": "Anderstorp Raceway for F1 25 - Reviews - overtake.gg"
         }
       ]
     },
@@ -2102,7 +2206,7 @@
       "source": "Steam racing updates",
       "publisher": "Steam",
       "description": "Blue Archive Steam",
-      "published_utc": "2026-11-26T17:47:05+00:00",
+      "published_utc": "2026-11-27T06:06:58+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -2115,7 +2219,7 @@
           "source": "Steam racing updates",
           "publisher": "Steam",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T17:47:05+00:00",
+          "published_utc": "2026-11-27T06:06:58+00:00",
           "title": "Blue Archive - Steam"
         }
       ]
@@ -2456,32 +2560,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-27T12:55:12+00:00",
           "title": "TK LMU Suite 1.1.0 - overtake.gg"
-        }
-      ]
-    },
-    {
-      "id": "726f737410d7a59a1106b819",
-      "topic": "racing_games",
-      "title": "Neural Rendering DLSS 5 for F1 25 [Swofty Addon] 0.2.34 - overtake.gg",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSktnWDBFTmJoQml2NDNqYTl6S3luTkUxQVB2TkNSdUNaVWp3RmpPNFB6NzNmRnFzLWFfRjNPY0t4VXlMV3FzcVJfZHhtWHVUWGdZRlVtYXJuRExYRHFjVUtTaC1KbnpQTmRURTBBSDczRlQ3N3E5OWNGY0M4UUYwSU1pX3AtaS1aYlhRZ1Nuang?oc=5",
-      "source": "OverTake",
-      "publisher": "overtake.gg",
-      "description": "Neural Rendering DLSS 5 for F1 25 [Swofty Addon] 0.2.34 overtake.gg",
-      "published_utc": "2026-11-27T09:01:55+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "レースゲーム候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSktnWDBFTmJoQml2NDNqYTl6S3luTkUxQVB2TkNSdUNaVWp3RmpPNFB6NzNmRnFzLWFfRjNPY0t4VXlMV3FzcVJfZHhtWHVUWGdZRlVtYXJuRExYRHFjVUtTaC1KbnpQTmRURTBBSDczRlQ3N3E5OWNGY0M4UUYwSU1pX3AtaS1aYlhRZ1Nuang?oc=5",
-          "source": "OverTake",
-          "publisher": "overtake.gg",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T09:01:55+00:00",
-          "title": "Neural Rendering DLSS 5 for F1 25 [Swofty Addon] 0.2.34 - overtake.gg"
         }
       ]
     },
@@ -3689,7 +3767,7 @@
       "source": "Steam racing updates",
       "publisher": "Steam",
       "description": "Liftoff®: FPV Drone Racing Steam",
-      "published_utc": "2026-11-26T20:15:31+00:00",
+      "published_utc": "2026-11-27T03:24:40+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -3702,7 +3780,7 @@
           "source": "Steam racing updates",
           "publisher": "Steam",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T20:15:31+00:00",
+          "published_utc": "2026-11-27T03:24:40+00:00",
           "title": "Liftoff®: FPV Drone Racing - Steam"
         }
       ]
@@ -3741,7 +3819,7 @@
       "source": "Steam racing updates",
       "publisher": "Steam",
       "description": "Online Boxing 3D Demo Steam",
-      "published_utc": "2026-11-27T08:09:20+00:00",
+      "published_utc": "2026-11-26T22:10:45+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -3754,8 +3832,34 @@
           "source": "Steam racing updates",
           "publisher": "Steam",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T08:09:20+00:00",
+          "published_utc": "2026-11-26T22:10:45+00:00",
           "title": "Online Boxing 3D Demo - Steam"
+        }
+      ]
+    },
+    {
+      "id": "cbfcefe1aa375ce7540ca41a",
+      "topic": "racing_games",
+      "title": "Leap Into Life Episode 1 - Steam",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92Ylk2T0pFS1Q1ZHpzUVdzanlDVUV2ZTdNbUxTUjZ1aXE5UENpSVB6alNHbGtIOTE1cURNSVlJYThtUWtsVy1PekJOMTlxdEJZS1NnUjBnQXlYUjM0Uk1FSFFmZXZoa3lNTVRZcWtncWJYWXh5Uzcw?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Leap Into Life Episode 1 Steam",
+      "published_utc": "2026-11-27T04:28:18+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92Ylk2T0pFS1Q1ZHpzUVdzanlDVUV2ZTdNbUxTUjZ1aXE5UENpSVB6alNHbGtIOTE1cURNSVlJYThtUWtsVy1PekJOMTlxdEJZS1NnUjBnQXlYUjM0Uk1FSFFmZXZoa3lNTVRZcWtncWJYWXh5Uzcw?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T04:28:18+00:00",
+          "title": "Leap Into Life Episode 1 - Steam"
         }
       ]
     },
@@ -3949,7 +4053,7 @@
       "source": "Steam racing updates",
       "publisher": "Steam",
       "description": "Happy Wheels on Steam Steam",
-      "published_utc": "2026-11-27T00:16:22+00:00",
+      "published_utc": "2026-11-27T06:27:14+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -3962,7 +4066,7 @@
           "source": "Steam racing updates",
           "publisher": "Steam",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T00:16:22+00:00",
+          "published_utc": "2026-11-27T06:27:14+00:00",
           "title": "Happy Wheels on Steam - Steam"
         }
       ]
@@ -4018,14 +4122,196 @@
           "title": "BeaterCore - Steam"
         }
       ]
+    },
+    {
+      "id": "7f134403eb6ffb856f55cc8a",
+      "topic": "racing_games",
+      "title": "Formula Ford Liveries from Race Driver 2 1.1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcENTWmNDTWRHUURiTGVYczRWMmJOTU1SQXRVQjBYUDJBVFdXamhNMWhEODdwYXIyNmw0Y2MzOFQ4TThSSTBudVFLM0E5aDVNZmlfdVZLY3h1ck5oRkJqZXRnNEoyX2NtMnV6cHFuMVBUZEFmb2EyU0FqbXhTOFRuMWo0YlJSVkNW?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Formula Ford Liveries from Race Driver 2 1.1 overtake.gg",
+      "published_utc": "2026-11-26T18:22:39+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcENTWmNDTWRHUURiTGVYczRWMmJOTU1SQXRVQjBYUDJBVFdXamhNMWhEODdwYXIyNmw0Y2MzOFQ4TThSSTBudVFLM0E5aDVNZmlfdVZLY3h1ck5oRkJqZXRnNEoyX2NtMnV6cHFuMVBUZEFmb2EyU0FqbXhTOFRuMWo0YlJSVkNW?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T18:22:39+00:00",
+          "title": "Formula Ford Liveries from Race Driver 2 1.1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "ef0a5aac0df310dfa000ac21",
+      "topic": "racing_games",
+      "title": "Assetto Corsa - Steam",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TVG51dU9iNTBLdXdES25tMkgtOHBlVUtHQmNhLUd0TkMwWTVCcVVsaDYxZkFDZm50cEdqaGkwcW52ZklrVks0M3VyT0dlTGZFcExkWkRIVEd6YTBkeWZHbUktSVM4bFYxTTVqc3N5N1U1TElFdmV3ejVSVmhfZw?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Assetto Corsa Steam",
+      "published_utc": "2026-11-27T06:08:21+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TVG51dU9iNTBLdXdES25tMkgtOHBlVUtHQmNhLUd0TkMwWTVCcVVsaDYxZkFDZm50cEdqaGkwcW52ZklrVks0M3VyT0dlTGZFcExkWkRIVEd6YTBkeWZHbUktSVM4bFYxTTVqc3N5N1U1TElFdmV3ejVSVmhfZw?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T06:08:21+00:00",
+          "title": "Assetto Corsa - Steam"
+        }
+      ]
+    },
+    {
+      "id": "09bf19f3342dd06ca2ed5e3f",
+      "topic": "racing_games",
+      "title": "MX vs ATV Legends - Steam",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BR2pRS3N3SjEtbHNncWEyeDR5MXJkYjFpWGt1S3VHbGdub2RIcTM0Mms3blY4NkVuMFhUM2RHUDVScE9JdDVkQUxvVW5sb3NGcndtWVdNWG1mV2VvU1hqWUtlQTZWN2VQeFZKbXFB?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "MX vs ATV Legends Steam",
+      "published_utc": "2026-11-27T05:12:29+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BR2pRS3N3SjEtbHNncWEyeDR5MXJkYjFpWGt1S3VHbGdub2RIcTM0Mms3blY4NkVuMFhUM2RHUDVScE9JdDVkQUxvVW5sb3NGcndtWVdNWG1mV2VvU1hqWUtlQTZWN2VQeFZKbXFB?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T05:12:29+00:00",
+          "title": "MX vs ATV Legends - Steam"
+        }
+      ]
+    },
+    {
+      "id": "76a5a755ed04602c9ce1bb74",
+      "topic": "racing_games",
+      "title": "FlatOut 2 - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85aTJqX1RkT3pMVGVWVExQejRMbDFGM2pkMjhEY1V2TF81UV9sZE0ycXJrd0Z3Vm5jcEw0eHhBZ19INkNNWEs1WlBSZFFRenJSbUVrclRFZG9wcEM0NnJz?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "FlatOut 2 Steam",
+      "published_utc": "2026-11-26T23:44:53+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85aTJqX1RkT3pMVGVWVExQejRMbDFGM2pkMjhEY1V2TF81UV9sZE0ycXJrd0Z3Vm5jcEw0eHhBZ19INkNNWEs1WlBSZFFRenJSbUVrclRFZG9wcEM0NnJz?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T23:44:53+00:00",
+          "title": "FlatOut 2 - Steam"
+        }
+      ]
+    },
+    {
+      "id": "dab019dd3c5018d6703020d0",
+      "topic": "racing_games",
+      "title": "MXGP 26 - The Official Game - Steam",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxYUpfclFqV0hqdGl4R054NGM1Q3RDQ0xDazMwbUplMWQ3eHd0dWEtQVo0V3ozaGUycHcxR1JxbE9FRl9oM19yVTdoeVdKaEkyWklvaVZ5QTNzQzNpbk02RHJrYzlIUU5vVVc0WHRPRWpMQ01GQVJjUg?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "MXGP 26 - The Official Game Steam",
+      "published_utc": "2026-11-27T00:10:11+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxYUpfclFqV0hqdGl4R054NGM1Q3RDQ0xDazMwbUplMWQ3eHd0dWEtQVo0V3ozaGUycHcxR1JxbE9FRl9oM19yVTdoeVdKaEkyWklvaVZ5QTNzQzNpbk02RHJrYzlIUU5vVVc0WHRPRWpMQ01GQVJjUg?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T00:10:11+00:00",
+          "title": "MXGP 26 - The Official Game - Steam"
+        }
+      ]
+    },
+    {
+      "id": "6bf09d08afda380320be1d12",
+      "topic": "racing_games",
+      "title": "Easy Delivery Co. - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHY25Ib0thOWxMc1hheUZOakIyY2l2TmFqY0tSWkpoVVJfb2ZMR214VXI4NEUxQ3Y2MVFmNHE1YWFGS1RwUkFBMTJ6SHFMTDg4aUdoQw?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Easy Delivery Co. Steam",
+      "published_utc": "2026-11-27T04:12:14+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHY25Ib0thOWxMc1hheUZOakIyY2l2TmFqY0tSWkpoVVJfb2ZMR214VXI4NEUxQ3Y2MVFmNHE1YWFGS1RwUkFBMTJ6SHFMTDg4aUdoQw?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T04:12:14+00:00",
+          "title": "Easy Delivery Co. - Steam"
+        }
+      ]
+    },
+    {
+      "id": "40a3c6a2ad2ccb62842be591",
+      "topic": "racing_games",
+      "title": "The Old Flesh of Nuraga - Steam",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hSFI2a0hYU1h2a0ZmNDg0Tm40WFBIMVZZR3FxVEpvR1l5S0hpRjlOb0Zlbk8tdGV1Mzc4WUN3enZPaUphMXo1MUNPVnZWcGw2WmlUWVJ3VGp0dTBVdl9PcU4yWS1QTXJmWTlfczlsRVVCWGNIVmc?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "The Old Flesh of Nuraga Steam",
+      "published_utc": "2026-11-27T00:22:06+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hSFI2a0hYU1h2a0ZmNDg0Tm40WFBIMVZZR3FxVEpvR1l5S0hpRjlOb0Zlbk8tdGV1Mzc4WUN3enZPaUphMXo1MUNPVnZWcGw2WmlUWVJ3VGp0dTBVdl9PcU4yWS1QTXJmWTlfczlsRVVCWGNIVmc?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T00:22:06+00:00",
+          "title": "The Old Flesh of Nuraga - Steam"
+        }
+      ]
     }
   ],
   "date_unknown": [],
   "health": {
     "partial": 8,
-    "ok": 17,
+    "ok": 16,
     "empty": 8,
-    "skipped": 8,
+    "skipped": 9,
     "manual": 4
   }
 }

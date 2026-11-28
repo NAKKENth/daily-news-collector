@@ -1,6 +1,7 @@
-# other_motorsport / 2026-11-26 / 候補 1–28
+# other_motorsport / 2026-11-26 / 候補 1–30
 
 - [Excelr8 goes for customer BTCC engine for 2027](https://www.autosport.com/btcc/news/excelr8-goes-for-customer-btcc-engine-for-2027/10877832) — Autosport all｜要確認｜2026-11-26T09:54:56+00:00 UTC｜feed_published
+- [2025年F1コスト上限規則にウイリアムズが軽微な違反、罰金および空力テスト削減のペナルティ。アルピーヌは手続き違反 - autosport web](https://news.google.com/rss/articles/CBMiR0FVX3lxTE9PdDE5M0F3RENNQjktcXRGeW1KWDVFOTRaaFluZ2lJdEdJYlFleHIzUWVVNGd5S1dqQUV2cmNRS1BBTk9hZzBr?oc=5) — AUTOSPORT web｜要確認｜2026-11-25T23:27:00+00:00 UTC｜discovery_index
 - [BMW、新世代ノイエ・クラッセ第3弾『X5』の事前商談申込開始。ディーゼル搭載の“40d xDrive”から - autosport web](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVanJwcV8xd1ZQeVVndjlzdV9SMnpZbXJGUWV0YUw4Umd1Z1R5dWUtTExKUTRoUXRMUlEyenJ5VE1kRWhUOHpRVQ?oc=5) — AUTOSPORT web｜要確認｜2026-11-26T04:21:00+00:00 UTC｜discovery_index
 - [F1カタール＆アブダビGPへの懸念は払拭されず。中東情勢を考慮し、大手テレビ局多数が取材スタッフ派遣を見送り - autosport web](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5uWmdpdEtvajRxUHYwalBMVEFmdFVweUQtOTUxWWNDUGlDMHJOazRDdHlmN1hfOUFBNWdVNFhDSVhUMlJfTnVr?oc=5) — AUTOSPORT web｜要確認｜2026-11-26T04:11:00+00:00 UTC｜discovery_index
 - [KDDIが『TGR TEAM au TOM’S＆KDDI TGMGP TGR-DCファン感謝祭2026』を12月26日に開催 - autosport web](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yYnBmYzhKM0JPYXlMTHdYMlRQQ2lXbWNDRkdEUW5wbEktUzFHMy1kX0dpZ0xlX1czODFKbnBtS1hpd2JodGF1VTFfOTd4dw?oc=5) — AUTOSPORT web｜要確認｜2026-11-26T10:55:00+00:00 UTC｜discovery_index
@@ -27,4 +28,5 @@
 - [初PPからゴール直前の悲劇まで。新シーズン開幕前に見たいFE“ルーキー列伝”【新人スタッフ・マナの動画＆SNSウォッチング】 - autosport web](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjbk9TT3RmNXl3REpFa2R5QVpmNHpyUTlpcHRUc2Fydkg1NTc1cVc0VHhZMzB1Q3hvdHpwRGNodm1JTWZRMnhyX3F4Yw?oc=5) — AUTOSPORT web｜要確認｜2026-11-26T08:39:00+00:00 UTC｜discovery_index
 - [初年度終えたジェネシス、上位目指し人材補強進める「マネジメント体制も拡張する必要がある」 - autosport web](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xNzl0cFdrWmdSeHZJQkdkYVhDeFVMazdGLU13SHpDWmVubm51QU5LczYxTWgwNGxxY0VRRFp2Y1FjaFFBS05RRTRXMzgtdU5LV2c?oc=5) — AUTOSPORT web｜要確認｜2026-11-26T08:45:00+00:00 UTC｜discovery_index
 - [南真琴 - autosport web](https://news.google.com/rss/articles/CBMickFVX3lxTE9uMmh3VnBtRmpZdW9WLTdPZFJRRlVEZlhXUUF0RHNKUUxINEVvcnVfb3Y2Q2ZpdXNVSF9URFRTQy1xeWNrY0V3VEtTVzNycUJJV1ZubWVXTDk2QUozc09NT29lRlQ1X0ltOVJhSmNBclNpdw?oc=5) — AUTOSPORT web｜要確認｜2026-11-25T15:01:16+00:00 UTC｜discovery_index
+- [望外の表彰台の背景に、マクラーレン＆メルセデスHPPとドライバーの連携強化。PU最適化への取り組みを代表が称える - autosport web](https://news.google.com/rss/articles/CBMiR0FVX3lxTE40b3ZlY1JVcmhBY1Y1dXJFUkJXMVdyV0FmckladTV6cGdsMGpRMmxLbjYweUtkd0J6blZtWTVNUXZXdmpEWU04?oc=5) — AUTOSPORT web｜要確認｜2026-11-25T22:00:00+00:00 UTC｜discovery_index
 - [苦難のフェラーリ、性能調整の見直しを求める「『エボ』での向上は当然。現状は理解し難い」 - autosport web](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ESi1EazdwS2pSVi0tVXRfdzRVZV95a3R5RVB4QXl0VTdUREdsamtKcXhDcEhvX2NjeG5vd2hfQ3FON2dfS295QmkxN1JXTllwM2c?oc=5) — AUTOSPORT web｜要確認｜2026-11-26T06:13:00+00:00 UTC｜discovery_index
