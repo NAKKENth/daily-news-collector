@@ -13,7 +13,7 @@
       "source": "Steam racing updates",
       "publisher": "Steam",
       "description": "DiRT Rally 2.0 Steam",
-      "published_utc": "2026-11-26T17:40:55+00:00",
+      "published_utc": "2026-11-26T23:27:52+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -26,7 +26,7 @@
           "source": "Steam racing updates",
           "publisher": "Steam",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T17:40:55+00:00",
+          "published_utc": "2026-11-26T23:27:52+00:00",
           "title": "DiRT Rally 2.0 - Steam"
         }
       ],
@@ -303,7 +303,7 @@
       "source": "Steam racing updates",
       "publisher": "Steam",
       "description": "Food Devils Steam",
-      "published_utc": "2026-11-26T19:42:56+00:00",
+      "published_utc": "2026-11-27T01:32:55+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -316,7 +316,7 @@
           "source": "Steam racing updates",
           "publisher": "Steam",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T19:42:56+00:00",
+          "published_utc": "2026-11-27T01:32:55+00:00",
           "title": "Food Devils - Steam"
         }
       ]
@@ -608,6 +608,32 @@
       ]
     },
     {
+      "id": "ad060d04178702cf7383b231",
+      "topic": "racing_games",
+      "title": "Assetto Corsa Rally - Steam",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wTHVwNmx5TEU2bm5WQ0hNeWxCRVdaRlVTQzY0WE9wa3YzOUZ3eUZTdTZmRy1XcVNPSjNPNW84Z21EYXBwc0tWMV93M0NYVV91d0haUU5odnQ4ZHBTalhfd0JqdC11NlZwSFhzdlhIWTA?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Assetto Corsa Rally Steam",
+      "published_utc": "2026-11-26T23:22:19+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wTHVwNmx5TEU2bm5WQ0hNeWxCRVdaRlVTQzY0WE9wa3YzOUZ3eUZTdTZmRy1XcVNPSjNPNW84Z21EYXBwc0tWMV93M0NYVV91d0haUU5odnQ4ZHBTalhfd0JqdC11NlZwSFhzdlhIWTA?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T23:22:19+00:00",
+          "title": "Assetto Corsa Rally - Steam"
+        }
+      ]
+    },
+    {
       "id": "200f312d58cf23b77e7b1706",
       "topic": "racing_games",
       "title": "GTR2 Hxk7 FreeCam 1.07 - overtake.gg",
@@ -714,6 +740,32 @@
       "article_published_raw": "2026-11-26T17:57:13+00:00",
       "article_modified_raw": "2026-11-26T17:57:19+00:00",
       "enrichment": "article_metadata"
+    },
+    {
+      "id": "f59b81d97832f7a176632548",
+      "topic": "racing_games",
+      "title": "Lancia Delta S4 Grifone San Remo 1986 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMThJOW40ZFFlQmxXTVpvSDJGVWtVNHBTVWp2d0tuYTdEZGJLWnZJTkc5WTNGbG14b3M5TXZEUm5UWGlzVU5yMTV6SzJjUVN1STBhcGVsaFM1eWFsVHlrdFhCZE40UjVuVmJUaU9YV25XT3Rkb280RGVUa01iSkpoZE1zWTE?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Lancia Delta S4 Grifone San Remo 1986 overtake.gg",
+      "published_utc": "2026-11-27T09:06:51+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMThJOW40ZFFlQmxXTVpvSDJGVWtVNHBTVWp2d0tuYTdEZGJLWnZJTkc5WTNGbG14b3M5TXZEUm5UWGlzVU5yMTV6SzJjUVN1STBhcGVsaFM1eWFsVHlrdFhCZE40UjVuVmJUaU9YV25XT3Rkb280RGVUa01iSkpoZE1zWTE?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T09:06:51+00:00",
+          "title": "Lancia Delta S4 Grifone San Remo 1986 - overtake.gg"
+        }
+      ]
     },
     {
       "id": "96a5b35421a43beeb3a2e210",
@@ -2065,6 +2117,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T17:47:05+00:00",
           "title": "Blue Archive - Steam"
+        }
+      ]
+    },
+    {
+      "id": "3f31028732bcf544cac31ded",
+      "topic": "racing_games",
+      "title": "HOT WHEELS™ Infinite Rush - Steam",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyaWQzWnpaQlAyLWdwNUljRWFsX2g1V2NUNlJWdXhCWXVDWVNFZmZydV8tSmxValBCaE1fcjV0N2hhUHY0bU4zZ0dRQUM2MFFnV0V4dkVlRXFUYzNVNy1ZMmFDLXJ5b0VUemxEQnhSMHZVSDdGRzVz?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "HOT WHEELS™ Infinite Rush Steam",
+      "published_utc": "2026-11-26T23:18:30+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyaWQzWnpaQlAyLWdwNUljRWFsX2g1V2NUNlJWdXhCWXVDWVNFZmZydV8tSmxValBCaE1fcjV0N2hhUHY0bU4zZ0dRQUM2MFFnV0V4dkVlRXFUYzNVNy1ZMmFDLXJ5b0VUemxEQnhSMHZVSDdGRzVz?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T23:18:30+00:00",
+          "title": "HOT WHEELS™ Infinite Rush - Steam"
         }
       ]
     },
@@ -3680,15 +3758,274 @@
           "title": "Online Boxing 3D Demo - Steam"
         }
       ]
+    },
+    {
+      "id": "17243d3eb6bda4234241ddf1",
+      "topic": "racing_games",
+      "title": "RF2 Manager is now compatible with Le Man Ultimate 0.5.1126d-beta - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRFRRem94YW1TR2VzZThEVFJENDlsZ2hoLUxoSWRNR0s2WHhHMDlhcEdqRkl1QzViM3VUZ3ptMjY3NkdzR3NqWmFOWFdUNFdKN092bnF5b2NLQ2FISU1JdktmR1N3VnBpd1d2VXlmZTBRVmpfZlpjcS11TWhwcUVFNWgyNjRLeGozWkdKS3BERVhidnYwTEE?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "RF2 Manager is now compatible with Le Man Ultimate 0.5.1126d-beta overtake.gg",
+      "published_utc": "2026-11-26T20:38:52+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRFRRem94YW1TR2VzZThEVFJENDlsZ2hoLUxoSWRNR0s2WHhHMDlhcEdqRkl1QzViM3VUZ3ptMjY3NkdzR3NqWmFOWFdUNFdKN092bnF5b2NLQ2FISU1JdktmR1N3VnBpd1d2VXlmZTBRVmpfZlpjcS11TWhwcUVFNWgyNjRLeGozWkdKS3BERVhidnYwTEE?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T20:38:52+00:00",
+          "title": "RF2 Manager is now compatible with Le Man Ultimate 0.5.1126d-beta - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "71564817b92a0157820d31aa",
+      "topic": "racing_games",
+      "title": "Global Talent Pool 1.0.3 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zek1xZ01qWms0d0oxYUhEcDhsbU5hN0hteG9MeGw0NFVVcktQcXZlUDU4czJKUVNDemZhd2dpRElqaFlUSDl0blVXRVZrc09IV05wVHNMTHdETC1jQWZxUkRkZzRJanFKZEVV?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Global Talent Pool 1.0.3 overtake.gg",
+      "published_utc": "2026-11-26T15:08:41+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zek1xZ01qWms0d0oxYUhEcDhsbU5hN0hteG9MeGw0NFVVcktQcXZlUDU4czJKUVNDemZhd2dpRElqaFlUSDl0blVXRVZrc09IV05wVHNMTHdETC1jQWZxUkRkZzRJanFKZEVV?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T15:08:41+00:00",
+          "title": "Global Talent Pool 1.0.3 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "557145c2018aeb134c5f7567",
+      "topic": "racing_games",
+      "title": "Historical Weather 1.1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4MVg0X3VnN195akEwYW5DdUJIZDJnbkc5dW84cl9qVGladjFNTzU3X3ZUbjZCMFM0bUJRRDJSMnJoT3lfV2tPZU50XzJpMzdJNFZzYTlZWURlNkRMeWdtM3FxNzRLZ3lzREYw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Historical Weather 1.1 overtake.gg",
+      "published_utc": "2026-11-27T02:07:54+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4MVg0X3VnN195akEwYW5DdUJIZDJnbkc5dW84cl9qVGladjFNTzU3X3ZUbjZCMFM0bUJRRDJSMnJoT3lfV2tPZU50XzJpMzdJNFZzYTlZWURlNkRMeWdtM3FxNzRLZ3lzREYw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T02:07:54+00:00",
+          "title": "Historical Weather 1.1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "3b38a411052564a29ce10696",
+      "topic": "racing_games",
+      "title": "#55 Ferrari 250 LM - BOAC 500 1967 1.0 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JdUNwWDlROWpFMkpNTEF3N2tTaHFZbUFiMFg0OHVFMHIzdjFpOUpHelVmcWFCV1NLWHJhNWtSTkNGZVlTVVNvRDl4a3JsNE5DenE2ZTVRejIyd0xHRFpoc1FxeXRoYlAzLU1mTnJZdENqZ2Y3TVdveTB4ekE?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "#55 Ferrari 250 LM - BOAC 500 1967 1.0 overtake.gg",
+      "published_utc": "2026-11-26T21:53:05+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JdUNwWDlROWpFMkpNTEF3N2tTaHFZbUFiMFg0OHVFMHIzdjFpOUpHelVmcWFCV1NLWHJhNWtSTkNGZVlTVVNvRDl4a3JsNE5DenE2ZTVRejIyd0xHRFpoc1FxeXRoYlAzLU1mTnJZdENqZ2Y3TVdveTB4ekE?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T21:53:05+00:00",
+          "title": "#55 Ferrari 250 LM - BOAC 500 1967 1.0 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "ed805b574451e29dc453d03c",
+      "topic": "racing_games",
+      "title": "Formula Ford Liveries from Race Driver 2 - Updates - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeVVPWGVKdDdSc2RrNDdCcWhhZVdJV0tzd2NBc3Q2X2JRenNHdGFqZXk5VFlreWxBazA3X2NkbWl2YzE4MTc4alMtbGdsZ0pGOURUajhWZ194dFFuWEtwSVA3dWpma2c0UzBDVHl6eHAwMU5xV0NyclA4NlNuUU9DUzJnMEdacDRtMGV0SEZPNHNmUQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Formula Ford Liveries from Race Driver 2 - Updates overtake.gg",
+      "published_utc": "2026-11-26T17:01:29+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeVVPWGVKdDdSc2RrNDdCcWhhZVdJV0tzd2NBc3Q2X2JRenNHdGFqZXk5VFlreWxBazA3X2NkbWl2YzE4MTc4alMtbGdsZ0pGOURUajhWZ194dFFuWEtwSVA3dWpma2c0UzBDVHl6eHAwMU5xV0NyclA4NlNuUU9DUzJnMEdacDRtMGV0SEZPNHNmUQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T17:01:29+00:00",
+          "title": "Formula Ford Liveries from Race Driver 2 - Updates - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "3e5e211a0ddf2f1a11e2b014",
+      "topic": "racing_games",
+      "title": "Lancia Delta Evo Andrews Heat for Hire 1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONWJ5ZHhLWE9aUHkzV0ZDQWE2bkZjc2xPek9Mc1YxWURFMDlOMGsxV1E1My1ZcUpzRjRwQnp0d2RaZDRlMTdMemtVMEk3SHJqYmNtSlJsWURZUE5WemZzS0pqOG5TazZ0Y25PTXFYbVhkRHhKYm9VOHV5TkdNNmFvNlBLcmQ4QQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Lancia Delta Evo Andrews Heat for Hire 1 overtake.gg",
+      "published_utc": "2026-11-26T17:16:11+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONWJ5ZHhLWE9aUHkzV0ZDQWE2bkZjc2xPek9Mc1YxWURFMDlOMGsxV1E1My1ZcUpzRjRwQnp0d2RaZDRlMTdMemtVMEk3SHJqYmNtSlJsWURZUE5WemZzS0pqOG5TazZ0Y25PTXFYbVhkRHhKYm9VOHV5TkdNNmFvNlBLcmQ4QQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T17:16:11+00:00",
+          "title": "Lancia Delta Evo Andrews Heat for Hire 1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "a43bca3645c81066a5f3d6d4",
+      "topic": "racing_games",
+      "title": "Windscreen Dirt for RSS GTM Furiano 96 – dynamic dust, real wiper & washer (CSP Lua app) V1.2 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR3NKQWdLaUlfelNoS01RM2RDdUtiRkFrUlAxbjF1SFNtVFFMZEd0YmlTSlBoZnY1OWY0VWJsOEFZcEs0VWFWVlBZMkFiLVRCU3ZBVFE1bEdtTm1SMnNtZEJlNG0xSFBTTlpjakVLVVRuVWJnc0dKU3ZXaTdBRkdfXzJMNWltZGFOLVBaTDJRcUF1Z3M4M1Q3TmtGM2QyalBUd0dlZzF5RVRfRmk2eHJaUy1ZTUJ4VnJSZzNXRUg5eFo2UkVsLWFNREd4bmYwaEJsUFRv?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Windscreen Dirt for RSS GTM Furiano 96 – dynamic dust, real wiper & washer (CSP Lua app) V1.2 overtake.gg",
+      "published_utc": "2026-11-26T20:04:42+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR3NKQWdLaUlfelNoS01RM2RDdUtiRkFrUlAxbjF1SFNtVFFMZEd0YmlTSlBoZnY1OWY0VWJsOEFZcEs0VWFWVlBZMkFiLVRCU3ZBVFE1bEdtTm1SMnNtZEJlNG0xSFBTTlpjakVLVVRuVWJnc0dKU3ZXaTdBRkdfXzJMNWltZGFOLVBaTDJRcUF1Z3M4M1Q3TmtGM2QyalBUd0dlZzF5RVRfRmk2eHJaUy1ZTUJ4VnJSZzNXRUg5eFo2UkVsLWFNREd4bmYwaEJsUFRv?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T20:04:42+00:00",
+          "title": "Windscreen Dirt for RSS GTM Furiano 96 – dynamic dust, real wiper & washer (CSP Lua app) V1.2 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "bafb56bf781d2952599e3a65",
+      "topic": "racing_games",
+      "title": "Happy Wheels on Steam - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BVUxjVW1BcGJLbWJZeTJBR2JVZTBzUmNnOUk4TVM1NEc5eXhzWHN0US1RVGQxS2NpVnFYcWVCS3IySEFsWm9zR09EUW5HSkJFRk50M2tBZ2pQUk9ka1p5Y2VnS01oTlE?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Happy Wheels on Steam Steam",
+      "published_utc": "2026-11-27T00:16:22+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BVUxjVW1BcGJLbWJZeTJBR2JVZTBzUmNnOUk4TVM1NEc5eXhzWHN0US1RVGQxS2NpVnFYcWVCS3IySEFsWm9zR09EUW5HSkJFRk50M2tBZ2pQUk9ka1p5Y2VnS01oTlE?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T00:16:22+00:00",
+          "title": "Happy Wheels on Steam - Steam"
+        }
+      ]
+    },
+    {
+      "id": "ac4371023a19c5c73fd11537",
+      "topic": "racing_games",
+      "title": "Driving Rogue - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ob2pCU0pxdExGT1FDTGpJZVl5VmlBUHoyUURWT1VYNzVoWTJpcXJ3SVVOYmVmX1F6UUZidllwNmJOaWRCZWpNQWZSUnI2cElOTlUtbmthUVhtOVpickJ5cldNR2RIN2Zm?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Driving Rogue Steam",
+      "published_utc": "2026-11-26T23:03:33+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ob2pCU0pxdExGT1FDTGpJZVl5VmlBUHoyUURWT1VYNzVoWTJpcXJ3SVVOYmVmX1F6UUZidllwNmJOaWRCZWpNQWZSUnI2cElOTlUtbmthUVhtOVpickJ5cldNR2RIN2Zm?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T23:03:33+00:00",
+          "title": "Driving Rogue - Steam"
+        }
+      ]
+    },
+    {
+      "id": "b7d97db619e7481def67c392",
+      "topic": "racing_games",
+      "title": "BeaterCore - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUaUV6UnExZThqblphcFlmaUdEV2pYYWh0TVM5cGdiOHlNdDd3bnQ1QTZNRTg2MjhyV1dRdElKSWxhS0ZITlJPVExXVEhmbE54alB4SkVQNnlFNm5wMFNVdGE3WXE?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "BeaterCore Steam",
+      "published_utc": "2026-11-26T23:53:25+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUaUV6UnExZThqblphcFlmaUdEV2pYYWh0TVM5cGdiOHlNdDd3bnQ1QTZNRTg2MjhyV1dRdElKSWxhS0ZITlJPVExXVEhmbE54alB4SkVQNnlFNm5wMFNVdGE3WXE?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T23:53:25+00:00",
+          "title": "BeaterCore - Steam"
+        }
+      ]
     }
   ],
   "date_unknown": [],
   "health": {
-    "partial": 10,
-    "ok": 16,
-    "empty": 9,
-    "deferred": 1,
-    "skipped": 5,
+    "partial": 8,
+    "ok": 17,
+    "empty": 8,
+    "skipped": 8,
     "manual": 4
   }
 }

@@ -3962,6 +3962,32 @@
           "title": "LowPoly Cars - Steam"
         }
       ]
+    },
+    {
+      "id": "f0a1f20d56c0bda25245dc09",
+      "topic": "racing_games",
+      "title": "Need for Speed: Most Wanted (2012) - PCGamingWiki",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNaUdYd3ZtYzFWc2VrelFNVGt4U19veW9kQkcwdTNyanJ0c2J6cnlGTkxzaDdYcEdaZ1IycHExenpVWkY1SmhrdWRDV3ZqSndzb3gtQXhscnBDY1Y4T25CLVR0R09EVXdfTnFvd3VURzdBS1FJdENr?oc=5",
+      "source": "PCGamingWiki",
+      "publisher": "PCGamingWiki",
+      "description": "Need for Speed: Most Wanted (2012) PCGamingWiki",
+      "published_utc": "2026-11-24T08:00:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNaUdYd3ZtYzFWc2VrelFNVGt4U19veW9kQkcwdTNyanJ0c2J6cnlGTkxzaDdYcEdaZ1IycHExenpVWkY1SmhrdWRDV3ZqSndzb3gtQXhscnBDY1Y4T25CLVR0R09EVXdfTnFvd3VURzdBS1FJdENr?oc=5",
+          "source": "PCGamingWiki",
+          "publisher": "PCGamingWiki",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T08:00:00+00:00",
+          "title": "Need for Speed: Most Wanted (2012) - PCGamingWiki"
+        }
+      ]
     }
   ],
   "date_unknown": [],

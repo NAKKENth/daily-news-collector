@@ -11914,6 +11914,58 @@
           "title": "Accelerating risk modeling in financial services - Intel"
         }
       ]
+    },
+    {
+      "id": "4e6b7ed7290354a0a3f49b96",
+      "topic": "pc",
+      "title": "What we know about Megaspeed, the Nvidia customer blacklisted by US - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcWVhaTZ1VE1DODl2cm9KdXRyTWgwV1Q4cjRsSzRhOG1wU3FjLUtKajNVN2NIV1VqNU9OS0tTMkF1T1NTTFRiTEtIT1V6aXMzbDctRnR5X3ZTbVFRdEQ5NGE2ZnlOa0c4YjhzN3pRbUJzQTlUZDZwRE5SNlhOSjVzY1UxaXlZWTRDNm1RNmFHLXhZOU40Tm9UcnBKdnVfcnJTemFhT21EOEE1Y3dtNkR3VmZxV0VHTHhGSWVpYlNoSk0?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "What we know about Megaspeed, the Nvidia customer blacklisted by US Reuters",
+      "published_utc": "2026-11-24T12:01:13+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "PC技術候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcWVhaTZ1VE1DODl2cm9KdXRyTWgwV1Q4cjRsSzRhOG1wU3FjLUtKajNVN2NIV1VqNU9OS0tTMkF1T1NTTFRiTEtIT1V6aXMzbDctRnR5X3ZTbVFRdEQ5NGE2ZnlOa0c4YjhzN3pRbUJzQTlUZDZwRE5SNlhOSjVzY1UxaXlZWTRDNm1RNmFHLXhZOU40Tm9UcnBKdnVfcnJTemFhT21EOEE1Y3dtNkR3VmZxV0VHTHhGSWVpYlNoSk0?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T12:01:13+00:00",
+          "title": "What we know about Megaspeed, the Nvidia customer blacklisted by US - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "d27b8932dd058035969d4358",
+      "topic": "ai",
+      "title": "Gemini could soon let you create your own custom voice from scratch - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kNFo4RjVEUWpaOFNHd0VQRnRqYUo5MXdBYjYzbXVlS0dtSFZ2MnVPLWdiTTJUX095NlpYV2ZvTk5mRTVaV1R3bTJ2NGxPaTZEWUp0OFR1V1RVcWJLVkNFQTZ1VlBIX1BvbnppZ0JYdGJwb1ZIMF85a2tn?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Gemini could soon let you create your own custom voice from scratch Android Authority",
+      "published_utc": "2026-11-24T07:12:00+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kNFo4RjVEUWpaOFNHd0VQRnRqYUo5MXdBYjYzbXVlS0dtSFZ2MnVPLWdiTTJUX095NlpYV2ZvTk5mRTVaV1R3bTJ2NGxPaTZEWUp0OFR1V1RVcWJLVkNFQTZ1VlBIX1BvbnppZ0JYdGJwb1ZIMF85a2tn?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T07:12:00+00:00",
+          "title": "Gemini could soon let you create your own custom voice from scratch - Android Authority"
+        }
+      ]
     }
   ],
   "date_unknown": [],

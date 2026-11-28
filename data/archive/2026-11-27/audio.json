@@ -32,6 +32,32 @@
       ]
     },
     {
+      "id": "08347a2411935b9c81b16a10",
+      "topic": "tws",
+      "title": "Writer - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3YWx5RUtCQ0ZDR0hETEgyUDB3U3VLVHNCUTFjQ3VRZThfYjJSUmZ2TUloOFBrbWpienktdnZsV19JVXhnU2ZLZWZOdnlLX2VCVDg2MGpkVE5kdnVzOHc5bA?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Writer Android Authority",
+      "published_utc": "2026-11-27T07:59:59+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3YWx5RUtCQ0ZDR0hETEgyUDB3U3VLVHNCUTFjQ3VRZThfYjJSUmZ2TUloOFBrbWpienktdnZsV19JVXhnU2ZLZWZOdnlLX2VCVDg2MGpkVE5kdnVzOHc5bA?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T07:59:59+00:00",
+          "title": "Writer - Android Authority"
+        }
+      ]
+    },
+    {
       "id": "04e7fa7d2a1961b6812584b5",
       "topic": "tws",
       "title": "Game anywhere with $92 off Sony's INZONE Buds gaming earbuds - Android Authority",
@@ -1562,32 +1588,6 @@
       "enrichment": "article_metadata"
     },
     {
-      "id": "f301e16cc2ba9c809eb075ca",
-      "topic": "wired",
-      "title": "In-ear Headphone - shenzhenaudio - shenzhenaudio",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNjBzcEdHMHB5R0tpeGViSnBnaktNY00tVEppNXR0QzhYZEk1QUZCMnVCcVVqM2FjZkRhbVZ3LVZRMndFaEtLdlVrNlhzZU5lc01RVDdsbGhJYk5ZNkk4NkxkWkswSjQyQk42dXVCTXZZMWFGWjBoWFRBYVpUMGlZeUE0ekgwVFRZMS04cDJ5NFJZTkllcExYX202WEFBTkdTZ3JCaWIwTUd4TWlqMEhlWG8wcEpCaU1XMzkwbUVRUnVJTnc5T3dCbWVrZE53ejFKNHFqZUxPeC12MktJcW9sVmlqSmFkQVVhODRhdTBEZw?oc=5",
-      "source": "SHENZHENAUDIO",
-      "publisher": "shenzhenaudio",
-      "description": "In-ear Headphone - shenzhenaudio shenzhenaudio",
-      "published_utc": "2026-11-27T09:19:30+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "対象オーディオ候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNjBzcEdHMHB5R0tpeGViSnBnaktNY00tVEppNXR0QzhYZEk1QUZCMnVCcVVqM2FjZkRhbVZ3LVZRMndFaEtLdlVrNlhzZU5lc01RVDdsbGhJYk5ZNkk4NkxkWkswSjQyQk42dXVCTXZZMWFGWjBoWFRBYVpUMGlZeUE0ekgwVFRZMS04cDJ5NFJZTkllcExYX202WEFBTkdTZ3JCaWIwTUd4TWlqMEhlWG8wcEpCaU1XMzkwbUVRUnVJTnc5T3dCbWVrZE53ejFKNHFqZUxPeC12MktJcW9sVmlqSmFkQVVhODRhdTBEZw?oc=5",
-          "source": "SHENZHENAUDIO",
-          "publisher": "shenzhenaudio",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T09:19:30+00:00",
-          "title": "In-ear Headphone - shenzhenaudio - shenzhenaudio"
-        }
-      ]
-    },
-    {
       "id": "ec10534d37b44fe2db727100",
       "topic": "tws",
       "title": "1000X series | WH-1000XM4C Wireless Noise Cancelling Headphones - Sony",
@@ -2266,32 +2266,6 @@
       ]
     },
     {
-      "id": "910db605644812b2ff89bb13",
-      "topic": "portable_dac",
-      "title": "Fosi Audio Disc Nano Review - Headfonia",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IdC12eGVVX3NJRmY0TzJqT3B4TmtIWkR6eUJJTnpkTzlqbXZSWFlQMXhSblRWZmN0ZHBEUTROaG5DVVdWRmVEM0FSS0pCcDVHWEVCdHNMd2hTRksxdEw3WkxzSFF3MWM?oc=5",
-      "source": "Headfonia",
-      "publisher": "Headfonia",
-      "description": "Fosi Audio Disc Nano Review Headfonia",
-      "published_utc": "2026-11-27T09:07:20+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IdC12eGVVX3NJRmY0TzJqT3B4TmtIWkR6eUJJTnpkTzlqbXZSWFlQMXhSblRWZmN0ZHBEUTROaG5DVVdWRmVEM0FSS0pCcDVHWEVCdHNMd2hTRksxdEw3WkxzSFF3MWM?oc=5",
-          "source": "Headfonia",
-          "publisher": "Headfonia",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T09:07:20+00:00",
-          "title": "Fosi Audio Disc Nano Review - Headfonia"
-        }
-      ]
-    },
-    {
       "id": "c3e2c246bfa1b00e512d4480",
       "topic": "wired",
       "title": "Feedback - Head-Fi.org",
@@ -2756,6 +2730,270 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-27T06:41:10+00:00",
           "title": "Samsung Galaxy Buds - samsung.com"
+        }
+      ]
+    },
+    {
+      "id": "effab3d15910785d0e99adf7",
+      "topic": "portable_dac",
+      "title": "Fosi Audio Disc Nano Review",
+      "url": "https://www.headfonia.com/fosi-audio-disc-nano-review",
+      "source": "Headfonia",
+      "publisher": "Headfonia",
+      "description": "Reviewing the Fosi Audio Disc Nano: a pocket-sized CD player offering quality sound and modern features. Now on Headfonia! Where else?",
+      "published_utc": "2026-11-27T07:12:57+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "article_published",
+      "link_role": "source_article",
+      "date_quality": "article_metadata",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.headfonia.com/fosi-audio-disc-nano-review",
+          "source": "Headfonia",
+          "publisher": "Headfonia",
+          "timestamp_basis": "article_published",
+          "published_utc": "2026-11-27T07:12:57+00:00",
+          "title": "Fosi Audio Disc Nano Review"
+        }
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T07:12:57+00:00",
+      "article_modified_raw": "2026-11-27T07:13:18+00:00",
+      "enrichment": "article_metadata"
+    },
+    {
+      "id": "bdb7276d5fe62d191e575b97",
+      "topic": "wired",
+      "title": "MOONDROP UP 2.0 Headphone Upgrade Cable - shenzhenaudio",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtT1lWRUVCSW14ak55MXE1bnhicl9uOFpRNlNPNTFlUURBamltUDVfeGlCaGJvWnE1TmNKdDhleFE2YmtZYmhQQUp1UFg2dlBQWDNpQUUxVHZ2QkNyNGxjRzRZOXctYnV4Tm9JTFgzYWdJeVNsbUQ4WXpxd2pCa2M?oc=5",
+      "source": "SHENZHENAUDIO",
+      "publisher": "shenzhenaudio",
+      "description": "MOONDROP UP 2.0 Headphone Upgrade Cable shenzhenaudio",
+      "published_utc": "2026-11-27T10:38:48+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtT1lWRUVCSW14ak55MXE1bnhicl9uOFpRNlNPNTFlUURBamltUDVfeGlCaGJvWnE1TmNKdDhleFE2YmtZYmhQQUp1UFg2dlBQWDNpQUUxVHZ2QkNyNGxjRzRZOXctYnV4Tm9JTFgzYWdJeVNsbUQ4WXpxd2pCa2M?oc=5",
+          "source": "SHENZHENAUDIO",
+          "publisher": "shenzhenaudio",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T10:38:48+00:00",
+          "title": "MOONDROP UP 2.0 Headphone Upgrade Cable - shenzhenaudio"
+        }
+      ]
+    },
+    {
+      "id": "a54ccf98a4a3cd8e32f5a9f3",
+      "topic": "tws",
+      "title": "First look: Google Play Store’s new ‘Today’ feed could pull content from your favorite apps - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZkJlV2NNT0RXckVWODVlemg3Ny1yRHoxM1pNVnFWQzlVczRVTXZIcUJUTF8yUm8wV2VzdE8talZhQVRNcEYxVENyMVRnTVk2bF9lTHRqdzU4VENPZllkQjN0Uzg2SUNaVVc2ZE9RNEZHVk55a2czaFEwVjRkUHBYcEtSRXlYNGROV2E2a2owYzdwTnJQNVQ4dDhLUQ?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "First look: Google Play Store’s new ‘Today’ feed could pull content from your favorite apps Android Authority",
+      "published_utc": "2026-11-27T11:37:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZkJlV2NNT0RXckVWODVlemg3Ny1yRHoxM1pNVnFWQzlVczRVTXZIcUJUTF8yUm8wV2VzdE8talZhQVRNcEYxVENyMVRnTVk2bF9lTHRqdzU4VENPZllkQjN0Uzg2SUNaVVc2ZE9RNEZHVk55a2czaFEwVjRkUHBYcEtSRXlYNGROV2E2a2owYzdwTnJQNVQ4dDhLUQ?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T11:37:00+00:00",
+          "title": "First look: Google Play Store’s new ‘Today’ feed could pull content from your favorite apps - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "3d3f59752fa0673641177c2c",
+      "topic": "tws",
+      "title": "Sony's BRAVIA Theater Bar 5 hits a record-low $248 - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZMjdqNDd2RE9hcXE3ZGw5dWFudjBRYU50bDJCeVN4dkV2MXVudDlhdUJnVmhHajRwUWV4N0hYZVhGMS14ZWZkZDE2bUdJbnpaMUkzU3VrZkhfVExzYTB6SGxxMjloelQ5TjBRNmpibVN6QjVKNHp6ZllMMm4?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Sony's BRAVIA Theater Bar 5 hits a record-low $248 Android Authority",
+      "published_utc": "2026-11-27T12:54:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZMjdqNDd2RE9hcXE3ZGw5dWFudjBRYU50bDJCeVN4dkV2MXVudDlhdUJnVmhHajRwUWV4N0hYZVhGMS14ZWZkZDE2bUdJbnpaMUkzU3VrZkhfVExzYTB6SGxxMjloelQ5TjBRNmpibVN6QjVKNHp6ZllMMm4?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T12:54:00+00:00",
+          "title": "Sony's BRAVIA Theater Bar 5 hits a record-low $248 - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "900299228b96896ce69730ef",
+      "topic": "tws",
+      "title": "Product Detail - Bose",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbWZhcXBTdHRvTlBRYUtsYnkxMEdzdzRiQjhPQ2hyNVNlRnVoa2l6QlA0MXFSTkpKN1J3LWxIWExYT3hQMHJ2d3FlNGU2TEstMGNCUi1ZaGl6c3lfLWs0Z0c2NVB6bGNvelZLbnVSR1N5T3VPYnZoT0Jhcy1xb3BVbjJMUk1zTW1ub0Fid0U3cGNzRjVzc3pXT2dsbXBBNlMyaTluOHNHSQ?oc=5",
+      "source": "Bose",
+      "publisher": "Bose",
+      "description": "Product Detail Bose",
+      "published_utc": "2026-11-26T18:22:59+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbWZhcXBTdHRvTlBRYUtsYnkxMEdzdzRiQjhPQ2hyNVNlRnVoa2l6QlA0MXFSTkpKN1J3LWxIWExYT3hQMHJ2d3FlNGU2TEstMGNCUi1ZaGl6c3lfLWs0Z0c2NVB6bGNvelZLbnVSR1N5T3VPYnZoT0Jhcy1xb3BVbjJMUk1zTW1ub0Fid0U3cGNzRjVzc3pXT2dsbXBBNlMyaTluOHNHSQ?oc=5",
+          "source": "Bose",
+          "publisher": "Bose",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T18:22:59+00:00",
+          "title": "Product Detail - Bose"
+        }
+      ]
+    },
+    {
+      "id": "7301ecd0e2159eab88d85587",
+      "topic": "tws",
+      "title": "Product Detail - Bose",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR2JUMWl0M1Bwc2QxUTRwMm14QV9hR2lWZklsM2tPQkhtRWpCNnZONHRsemVORGY2ckhCdzN6eHlsci1ZQ2YyTzFnTjl0Vm0yNFZSVkFxOUljSUg2NkhnMDR0R0FuVXJ3b2wtSFVDMWJjS0NINm5TamNYVlZoV0FkdkZCcU51OUE?oc=5",
+      "source": "Bose",
+      "publisher": "Bose",
+      "description": "Product Detail Bose",
+      "published_utc": "2026-11-26T18:31:01+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR2JUMWl0M1Bwc2QxUTRwMm14QV9hR2lWZklsM2tPQkhtRWpCNnZONHRsemVORGY2ckhCdzN6eHlsci1ZQ2YyTzFnTjl0Vm0yNFZSVkFxOUljSUg2NkhnMDR0R0FuVXJ3b2wtSFVDMWJjS0NINm5TamNYVlZoV0FkdkZCcU51OUE?oc=5",
+          "source": "Bose",
+          "publisher": "Bose",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T18:31:01+00:00",
+          "title": "Product Detail - Bose"
+        }
+      ]
+    },
+    {
+      "id": "fb0656e8081fe28aa1ba2ad1",
+      "topic": "tws",
+      "title": "Product Detail - Bose",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01MWNyTzV2R3BidXJDTDFoMzhLTUxVUVFLMEdoc0lQa0YtdmRCSGdXTU5tQXlzdWFIeW95d29qUmFWWjFJSHU3d2tyUjBnTjBTeDVxQjdzVnV4S3NOSlpfZVIyY2RiNjN5MElKSmtabmxoN1pDaDIyWkQ4SUJfUQ?oc=5",
+      "source": "Bose",
+      "publisher": "Bose",
+      "description": "Product Detail Bose",
+      "published_utc": "2026-11-26T18:57:03+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01MWNyTzV2R3BidXJDTDFoMzhLTUxVUVFLMEdoc0lQa0YtdmRCSGdXTU5tQXlzdWFIeW95d29qUmFWWjFJSHU3d2tyUjBnTjBTeDVxQjdzVnV4S3NOSlpfZVIyY2RiNjN5MElKSmtabmxoN1pDaDIyWkQ4SUJfUQ?oc=5",
+          "source": "Bose",
+          "publisher": "Bose",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T18:57:03+00:00",
+          "title": "Product Detail - Bose"
+        }
+      ]
+    },
+    {
+      "id": "7d743dd390d38e5935d38177",
+      "topic": "tws",
+      "title": "Product Detail - Bose",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY3JXcTZCbUlYVFlqZ1BCT3VLLVZkd0JHeW5YNk1FTVJLNFhvZkNxN3RPN2dWaGlOMEdaU3h3OUR5eHBUQU53ZjRFVl9xV1N3NmNrWjhIdzhmSGNoYUdSbkoxZUh6MllFY2RvSmFXdlE4ZEVRMldlak1TZ3VaWVgxUDZId2Z1b1lSUWxCT3FrQnFMbVBtOXU2WS1JdkJfNXFhYmItSkhqWWVCbkVORktyOXJvU2dnY21nbi0ydnJ3?oc=5",
+      "source": "Bose",
+      "publisher": "Bose",
+      "description": "Product Detail Bose",
+      "published_utc": "2026-11-26T18:47:04+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY3JXcTZCbUlYVFlqZ1BCT3VLLVZkd0JHeW5YNk1FTVJLNFhvZkNxN3RPN2dWaGlOMEdaU3h3OUR5eHBUQU53ZjRFVl9xV1N3NmNrWjhIdzhmSGNoYUdSbkoxZUh6MllFY2RvSmFXdlE4ZEVRMldlak1TZ3VaWVgxUDZId2Z1b1lSUWxCT3FrQnFMbVBtOXU2WS1JdkJfNXFhYmItSkhqWWVCbkVORktyOXJvU2dnY21nbi0ydnJ3?oc=5",
+          "source": "Bose",
+          "publisher": "Bose",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T18:47:04+00:00",
+          "title": "Product Detail - Bose"
+        }
+      ]
+    },
+    {
+      "id": "94bc831209c57391355acad2",
+      "topic": "tws",
+      "title": "When will the JBL SB 250 go into standby mode? - JBL",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSEdsalJqcjNDalRRTG96cDA4S1FCZ3FUblgzR2t6OHkxUEhmbThMczdzTVNSS3J6S3I2R0FyVHZJWlhBSzRBM3FVOWZNT1NaWGtIU295SDZ4aVpYNUNGcWxTX3ZtZGJNSVhrOHl3R0FrR0lvSFFpN3luMnZhbHRUYVgyZjV4MlhvUjE2LWlSZjlteWNJRVZyY1pJbUFjV3RLX3Qw?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "When will the JBL SB 250 go into standby mode? JBL",
+      "published_utc": "2026-11-26T20:55:21+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSEdsalJqcjNDalRRTG96cDA4S1FCZ3FUblgzR2t6OHkxUEhmbThMczdzTVNSS3J6S3I2R0FyVHZJWlhBSzRBM3FVOWZNT1NaWGtIU295SDZ4aVpYNUNGcWxTX3ZtZGJNSVhrOHl3R0FrR0lvSFFpN3luMnZhbHRUYVgyZjV4MlhvUjE2LWlSZjlteWNJRVZyY1pJbUFjV3RLX3Qw?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T20:55:21+00:00",
+          "title": "When will the JBL SB 250 go into standby mode? - JBL"
+        }
+      ]
+    },
+    {
+      "id": "7cd43731e752646a7ca13016",
+      "topic": "tws",
+      "title": "I am trying to watch videos on Bilibili using AirPlay, but experiencing many audio dropouts and issues. How can I fix it? - JBL",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTTBVUDJ0UXc2T3RfRl9yZG5EUEozUGlZMnRlUTJ6OWdTb0k2bWZFRGE2VXNkbzdjZG1vbjBYV1IzblVpTFhmMExKQ1pQQ0JyNWNNZDJoOFlyZmRkVUNjSVBCdXlmU2VhVjBkX29WVjBrZ3VTVy15NGdEbHo1ZzAtRW9ELVBrUGp6OVlkT2d0a2IweE1yODFhcWlJdHNHRDlJQWtscUp1ck1iRkMtS0Y3aGMyMmg0dw?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "I am trying to watch videos on Bilibili using AirPlay, but experiencing many audio dropouts and issues. How can I fix it? JBL",
+      "published_utc": "2026-11-27T00:32:26+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTTBVUDJ0UXc2T3RfRl9yZG5EUEozUGlZMnRlUTJ6OWdTb0k2bWZFRGE2VXNkbzdjZG1vbjBYV1IzblVpTFhmMExKQ1pQQ0JyNWNNZDJoOFlyZmRkVUNjSVBCdXlmU2VhVjBkX29WVjBrZ3VTVy15NGdEbHo1ZzAtRW9ELVBrUGp6OVlkT2d0a2IweE1yODFhcWlJdHNHRDlJQWtscUp1ck1iRkMtS0Y3aGMyMmg0dw?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T00:32:26+00:00",
+          "title": "I am trying to watch videos on Bilibili using AirPlay, but experiencing many audio dropouts and issues. How can I fix it? - JBL"
         }
       ]
     }

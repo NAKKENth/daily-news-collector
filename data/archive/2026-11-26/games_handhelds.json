@@ -1250,32 +1250,6 @@
       "enrichment": "article_metadata"
     },
     {
-      "id": "ad060d04178702cf7383b231",
-      "topic": "racing_games",
-      "title": "Assetto Corsa Rally - Steam",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wTHVwNmx5TEU2bm5WQ0hNeWxCRVdaRlVTQzY0WE9wa3YzOUZ3eUZTdTZmRy1XcVNPSjNPNW84Z21EYXBwc0tWMV93M0NYVV91d0haUU5odnQ4ZHBTalhfd0JqdC11NlZwSFhzdlhIWTA?oc=5",
-      "source": "Steam racing updates",
-      "publisher": "Steam",
-      "description": "Assetto Corsa Rally Steam",
-      "published_utc": "2026-11-25T19:32:37+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "レースゲーム候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wTHVwNmx5TEU2bm5WQ0hNeWxCRVdaRlVTQzY0WE9wa3YzOUZ3eUZTdTZmRy1XcVNPSjNPNW84Z21EYXBwc0tWMV93M0NYVV91d0haUU5odnQ4ZHBTalhfd0JqdC11NlZwSFhzdlhIWTA?oc=5",
-          "source": "Steam racing updates",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T19:32:37+00:00",
-          "title": "Assetto Corsa Rally - Steam"
-        }
-      ]
-    },
-    {
       "id": "14a78827d528a524844e8f4a",
       "topic": "racing_games",
       "title": "JDM: Japanese Drift Master - Steam",
@@ -1757,32 +1731,6 @@
       ]
     },
     {
-      "id": "f59b81d97832f7a176632548",
-      "topic": "racing_games",
-      "title": "Lancia Delta S4 Grifone San Remo 1986 - overtake.gg",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMThJOW40ZFFlQmxXTVpvSDJGVWtVNHBTVWp2d0tuYTdEZGJLWnZJTkc5WTNGbG14b3M5TXZEUm5UWGlzVU5yMTV6SzJjUVN1STBhcGVsaFM1eWFsVHlrdFhCZE40UjVuVmJUaU9YV25XT3Rkb280RGVUa01iSkpoZE1zWTE?oc=5",
-      "source": "OverTake",
-      "publisher": "overtake.gg",
-      "description": "Lancia Delta S4 Grifone San Remo 1986 overtake.gg",
-      "published_utc": "2026-11-26T09:22:43+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMThJOW40ZFFlQmxXTVpvSDJGVWtVNHBTVWp2d0tuYTdEZGJLWnZJTkc5WTNGbG14b3M5TXZEUm5UWGlzVU5yMTV6SzJjUVN1STBhcGVsaFM1eWFsVHlrdFhCZE40UjVuVmJUaU9YV25XT3Rkb280RGVUa01iSkpoZE1zWTE?oc=5",
-          "source": "OverTake",
-          "publisher": "overtake.gg",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T09:22:43+00:00",
-          "title": "Lancia Delta S4 Grifone San Remo 1986 - overtake.gg"
-        }
-      ]
-    },
-    {
       "id": "34bd087bf13f1e7f1d394095",
       "topic": "racing_games",
       "title": "Mandalika Circuit (Work in Progress) 1.0 - overtake.gg",
@@ -1805,32 +1753,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T08:56:01+00:00",
           "title": "Mandalika Circuit (Work in Progress) 1.0 - overtake.gg"
-        }
-      ]
-    },
-    {
-      "id": "5cda12ebb9a66fa22f14443e",
-      "topic": "racing_games",
-      "title": "rFuktor2 - Eddie de Beer & Friends Tribute - FFB R12 Natural Tire - Reviews - overtake.gg",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQekFEYWtXSW5UdGU3QllneTNOd0V2RnI5aXpkVlBIei15RVZMUjVXTEtjeDMwcGdkTENqR2ZvbHVxbTJYVGJoZHgtZl9nQnBfRnUyZHpUenA2T0gtVmhyZVZVdXRQM0pfZ21ESEJMSF9QWlBueWpwSHIzSVRHUWUyUkdlUnZXQU1ONzVtUWtnRzk3X1RySmI2Vk9CbGMwWlBzTGEzS3AtSEIxNW8?oc=5",
-      "source": "OverTake",
-      "publisher": "overtake.gg",
-      "description": "rFuktor2 - Eddie de Beer & Friends Tribute - FFB R12 Natural Tire - Reviews overtake.gg",
-      "published_utc": "2026-11-26T09:31:48+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQekFEYWtXSW5UdGU3QllneTNOd0V2RnI5aXpkVlBIei15RVZMUjVXTEtjeDMwcGdkTENqR2ZvbHVxbTJYVGJoZHgtZl9nQnBfRnUyZHpUenA2T0gtVmhyZVZVdXRQM0pfZ21ESEJMSF9QWlBueWpwSHIzSVRHUWUyUkdlUnZXQU1ONzVtUWtnRzk3X1RySmI2Vk9CbGMwWlBzTGEzS3AtSEIxNW8?oc=5",
-          "source": "OverTake",
-          "publisher": "overtake.gg",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T09:31:48+00:00",
-          "title": "rFuktor2 - Eddie de Beer & Friends Tribute - FFB R12 Natural Tire - Reviews - overtake.gg"
         }
       ]
     },
@@ -3454,32 +3376,6 @@
       ]
     },
     {
-      "id": "19d832119529b63dacd221da",
-      "topic": "racing_games",
-      "title": "F1 FANTASY 27 (VRC FORMULA ALPHA 26) V2 - overtake.gg",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSFM2MHJZcVNjdjVsd2lzb1ZYY2ozMThJT25UUW95QmxDRnNteU54WDVLQ2RRTFYzNC1paXdHbEJFdUFjTHJTUTQ5ZE95TktRX0RJb3pwRW5pc29Fc05ycUZ5Q0hkOGF1SHEzaUZEYmlGdmFzcTJTY3NyNEZPV1MxMg?oc=5",
-      "source": "OverTake",
-      "publisher": "overtake.gg",
-      "description": "F1 FANTASY 27 (VRC FORMULA ALPHA 26) V2 overtake.gg",
-      "published_utc": "2026-11-26T12:52:24+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSFM2MHJZcVNjdjVsd2lzb1ZYY2ozMThJT25UUW95QmxDRnNteU54WDVLQ2RRTFYzNC1paXdHbEJFdUFjTHJTUTQ5ZE95TktRX0RJb3pwRW5pc29Fc05ycUZ5Q0hkOGF1SHEzaUZEYmlGdmFzcTJTY3NyNEZPV1MxMg?oc=5",
-          "source": "OverTake",
-          "publisher": "overtake.gg",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T12:52:24+00:00",
-          "title": "F1 FANTASY 27 (VRC FORMULA ALPHA 26) V2 - overtake.gg"
-        }
-      ]
-    },
-    {
       "id": "9816a1cf1b4f9d200decfbc1",
       "topic": "racing_games",
       "title": "The GTA VI Vice City 200 - overtake.gg",
@@ -3684,32 +3580,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T12:42:38+00:00",
           "title": "Save 30% on Beam Eye Tracker on Steam - Steam"
-        }
-      ]
-    },
-    {
-      "id": "3f31028732bcf544cac31ded",
-      "topic": "racing_games",
-      "title": "HOT WHEELS™ Infinite Rush - Steam",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyaWQzWnpaQlAyLWdwNUljRWFsX2g1V2NUNlJWdXhCWXVDWVNFZmZydV8tSmxValBCaE1fcjV0N2hhUHY0bU4zZ0dRQUM2MFFnV0V4dkVlRXFUYzNVNy1ZMmFDLXJ5b0VUemxEQnhSMHZVSDdGRzVz?oc=5",
-      "source": "Steam racing updates",
-      "publisher": "Steam",
-      "description": "HOT WHEELS™ Infinite Rush Steam",
-      "published_utc": "2026-11-26T12:42:12+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyaWQzWnpaQlAyLWdwNUljRWFsX2g1V2NUNlJWdXhCWXVDWVNFZmZydV8tSmxValBCaE1fcjV0N2hhUHY0bU4zZ0dRQUM2MFFnV0V4dkVlRXFUYzNVNy1ZMmFDLXJ5b0VUemxEQnhSMHZVSDdGRzVz?oc=5",
-          "source": "Steam racing updates",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T12:42:12+00:00",
-          "title": "HOT WHEELS™ Infinite Rush - Steam"
         }
       ]
     },
@@ -4387,6 +4257,136 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T21:03:12+00:00",
           "title": "100 Hidden ASCII Cats - Steam"
+        }
+      ]
+    },
+    {
+      "id": "8760ceb25c76a94ec63eb94f",
+      "topic": "racing_games",
+      "title": "Assetto Corsa AI Whisperer (v0.85g1) - My little AI Character (the safeone) - Reviews - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUGhWMUIzdnBMNWNSUFpxRG1zZHpqVlU2VGdrb2dfWXhiSDZpcjEybU93XzA3TnJ1R0Q0OVJrTmFqOG9ZbzRCM3RyN09UamFNajg1d19ZN2JWeW93bW5zZi0yZVJveW5TV1JXdjhNbk9vUHBaZXNGOFNSRTJUbDFYTER5VFZSS21weXFkOWlocFNEbHN5eFpzQTR5NG1KT2lJVlV5V3B6enJHLVZqaEVsVFhBalkyVWdm?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Assetto Corsa AI Whisperer (v0.85g1) - My little AI Character (the safeone) - Reviews overtake.gg",
+      "published_utc": "2026-11-25T16:30:01+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUGhWMUIzdnBMNWNSUFpxRG1zZHpqVlU2VGdrb2dfWXhiSDZpcjEybU93XzA3TnJ1R0Q0OVJrTmFqOG9ZbzRCM3RyN09UamFNajg1d19ZN2JWeW93bW5zZi0yZVJveW5TV1JXdjhNbk9vUHBaZXNGOFNSRTJUbDFYTER5VFZSS21weXFkOWlocFNEbHN5eFpzQTR5NG1KT2lJVlV5V3B6enJHLVZqaEVsVFhBalkyVWdm?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T16:30:01+00:00",
+          "title": "Assetto Corsa AI Whisperer (v0.85g1) - My little AI Character (the safeone) - Reviews - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "2b6283fcfc1493bf0bf7b80a",
+      "topic": "racing_games",
+      "title": "Mouse Steering Assist - Reviews - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyMUxmUnMtNFBhaVhadXVRTVFiblplYzJYUEppbzduanppTHZRSlJyVG5QVmx2Uzl6UW44UGhNZmhPZ2pfQUkweUExazRDMWpiNVBLcnVuSWNSNDZqdzJvWUFTd1dzcV9iLUFZUkJZUFNGOUJHVkJGZg?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Mouse Steering Assist - Reviews overtake.gg",
+      "published_utc": "2026-11-25T16:30:01+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyMUxmUnMtNFBhaVhadXVRTVFiblplYzJYUEppbzduanppTHZRSlJyVG5QVmx2Uzl6UW44UGhNZmhPZ2pfQUkweUExazRDMWpiNVBLcnVuSWNSNDZqdzJvWUFTd1dzcV9iLUFZUkJZUFNGOUJHVkJGZg?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T16:30:01+00:00",
+          "title": "Mouse Steering Assist - Reviews - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "fdbbd9d68972be835af5274f",
+      "topic": "racing_games",
+      "title": "RRS 4 2024 - RTTC F4 FFSA 2021 1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRVlBZYWdYTFVDaXNmYU9zQUtrT2pBLUloVE9PbGVobENtYXdVaW9TVkk3aWM4VmhlRy1jQTAyQ0VxYTZDdmh0eUpMODJuQ1A5QlBsRWtack0zbzVpamo0ekxFQ3lVZ1R2Q1pUUHRKekZnT3dFdG9rRw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "RRS 4 2024 - RTTC F4 FFSA 2021 1 overtake.gg",
+      "published_utc": "2026-11-26T12:54:14+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRVlBZYWdYTFVDaXNmYU9zQUtrT2pBLUloVE9PbGVobENtYXdVaW9TVkk3aWM4VmhlRy1jQTAyQ0VxYTZDdmh0eUpMODJuQ1A5QlBsRWtack0zbzVpamo0ekxFQ3lVZ1R2Q1pUUHRKekZnT3dFdG9rRw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:54:14+00:00",
+          "title": "RRS 4 2024 - RTTC F4 FFSA 2021 1 - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "1ace954f4258bb0ff679be92",
+      "topic": "racing_games",
+      "title": "AMS2 QVFR - Quad views foveated rendering + DLSS (DLAA, DLSS5) mod for Automobilista 2 VR - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjBJNm01V2djNUpyNkk2VHV2X2hUb1NQRFpGSDNYcFBQNlZlc2lLSnJKRUxQeU9Td3lKYmI3S3BodDdLNEtxRXl1SGNwU3pXakZYR3Y2ZHVyZHNHQ3NWcWE1S0Y1QWdCTmtoY2lDSVFsSnk2ZE5falJtcGQ1cmxmUExOdWxkS0I5R1F6MVRRYkd2Z1RxZ0RkSTl0bm9PZ1NKdzRERS1pcXA4NGtjbnFJVWF3VGtnQ2dDNDVHb1ZwVFQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "AMS2 QVFR - Quad views foveated rendering + DLSS (DLAA, DLSS5) mod for Automobilista 2 VR overtake.gg",
+      "published_utc": "2026-11-26T14:32:52+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjBJNm01V2djNUpyNkk2VHV2X2hUb1NQRFpGSDNYcFBQNlZlc2lLSnJKRUxQeU9Td3lKYmI3S3BodDdLNEtxRXl1SGNwU3pXakZYR3Y2ZHVyZHNHQ3NWcWE1S0Y1QWdCTmtoY2lDSVFsSnk2ZE5falJtcGQ1cmxmUExOdWxkS0I5R1F6MVRRYkd2Z1RxZ0RkSTl0bm9PZ1NKdzRERS1pcXA4NGtjbnFJVWF3VGtnQ2dDNDVHb1ZwVFQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T14:32:52+00:00",
+          "title": "AMS2 QVFR - Quad views foveated rendering + DLSS (DLAA, DLSS5) mod for Automobilista 2 VR - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "dad27d520ac02186683d37c9",
+      "topic": "racing_games",
+      "title": "URD Glickenhaus SCG 007 LMH Lua Display 0.1 - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNmRDZEU3NUdHa0FmbUpQanFDTTlEM0xNOG9vX2lUcmxpQUxGTi1WaHZyLWFEel9qYnM5V3p6YTM1aEhiZndIekctSnE0Q25yYjVncDRCRnVKVko3WnA1bGhaLTJRQ01WamU3R2FwTHlnbUZIVEZIbkZVWWFMMHpIZ2ZlRWpsMGM?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "URD Glickenhaus SCG 007 LMH Lua Display 0.1 overtake.gg",
+      "published_utc": "2026-11-26T05:39:43+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNmRDZEU3NUdHa0FmbUpQanFDTTlEM0xNOG9vX2lUcmxpQUxGTi1WaHZyLWFEel9qYnM5V3p6YTM1aEhiZndIekctSnE0Q25yYjVncDRCRnVKVko3WnA1bGhaLTJRQ01WamU3R2FwTHlnbUZIVEZIbkZVWWFMMHpIZ2ZlRWpsMGM?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T05:39:43+00:00",
+          "title": "URD Glickenhaus SCG 007 LMH Lua Display 0.1 - overtake.gg"
         }
       ]
     }

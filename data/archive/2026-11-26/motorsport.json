@@ -138,32 +138,6 @@
       ]
     },
     {
-      "id": "84c930ceb9e30305d9975b25",
-      "topic": "NASCAR",
-      "title": "Noah Gragson Archives - NASCAR.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81cnhPMWs0bFlmM2dibG1BS1FVN1RDSHdiRldvTDcwVWdUdkg5UlktYmhEVmd2R3Q5VFNYU2hLQ016T3pWZk1zV2U3dVY4bHNzQlFTYW1kazA2RnpMekkxbmMzVm5RbU9QemhSNFpFek5odw?oc=5",
-      "source": "NASCAR Official",
-      "publisher": "NASCAR.com",
-      "description": "Noah Gragson Archives NASCAR.com",
-      "published_utc": "2026-11-26T04:55:21+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81cnhPMWs0bFlmM2dibG1BS1FVN1RDSHdiRldvTDcwVWdUdkg5UlktYmhEVmd2R3Q5VFNYU2hLQ016T3pWZk1zV2U3dVY4bHNzQlFTYW1kazA2RnpMekkxbmMzVm5RbU9QemhSNFpFek5odw?oc=5",
-          "source": "NASCAR Official",
-          "publisher": "NASCAR.com",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T04:55:21+00:00",
-          "title": "Noah Gragson Archives - NASCAR.com"
-        }
-      ]
-    },
-    {
       "id": "136a83da35b58ef2478b63e9",
       "topic": "NASCAR",
       "title": "Joey Logano Archives - NASCAR.com",
@@ -238,6 +212,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T15:16:27+00:00",
           "title": "Latest News - INDYCAR.com"
+        }
+      ]
+    },
+    {
+      "id": "a2a3c1f6b5e977d9ce519fdb",
+      "topic": "IndyCar",
+      "title": "Latest NTT INDYCAR SERIES News and Results | Official Site of INDYCAR - INDYCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBxV01QMldQckhaUnZKejRaT2t0OHg5dEkxakZfS0pFSkpFclpVSUx4OUItQ1hrUlJFS3htczcwTUE?oc=5",
+      "source": "IndyCar Official",
+      "publisher": "INDYCAR.com",
+      "description": "Latest NTT INDYCAR SERIES News and Results | Official Site of INDYCAR INDYCAR.com",
+      "published_utc": "2026-11-26T01:09:27+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBxV01QMldQckhaUnZKejRaT2t0OHg5dEkxakZfS0pFSkpFclpVSUx4OUItQ1hrUlJFS3htczcwTUE?oc=5",
+          "source": "IndyCar Official",
+          "publisher": "INDYCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T01:09:27+00:00",
+          "title": "Latest NTT INDYCAR SERIES News and Results | Official Site of INDYCAR - INDYCAR.com"
         }
       ]
     },
@@ -526,32 +526,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T22:57:10+00:00",
           "title": "Fernando Alonso to miss Qatar Grand Prix FP1 as Aston Martin reserve steps in - PlanetF1"
-        }
-      ]
-    },
-    {
-      "id": "fffe0a3bec60ba0ef12ff712",
-      "topic": "F1",
-      "title": "F1 Race News - PlanetF1",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QMkx3Y25rRUF2RWh4TWRUTDdPNUNNYTZfWlJRYWJWU253djFPRzNLY3RidTg2cDgzMnFfR3pNZDhzbjR5RV9mYQ?oc=5",
-      "source": "PlanetF1",
-      "publisher": "PlanetF1",
-      "description": "F1 Race News PlanetF1",
-      "published_utc": "2026-11-25T22:09:25+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技名一致・新規性の確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QMkx3Y25rRUF2RWh4TWRUTDdPNUNNYTZfWlJRYWJWU253djFPRzNLY3RidTg2cDgzMnFfR3pNZDhzbjR5RV9mYQ?oc=5",
-          "source": "PlanetF1",
-          "publisher": "PlanetF1",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T22:09:25+00:00",
-          "title": "F1 Race News - PlanetF1"
         }
       ]
     },

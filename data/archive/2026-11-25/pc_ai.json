@@ -2564,32 +2564,6 @@
       "enrichment": "article_metadata"
     },
     {
-      "id": "2510007fe4056fc812337296",
-      "topic": "ai",
-      "title": "ChatGPT Rate Card (Enterprise token-based pricing) | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa2VuWUJGUzYxeUxmWFMwQnNuaUZxb2draFQ5YUJOWWpEU19fNnJlRlE3RVZFQ1l4cDZ3Q05UeVhwTU9PcHItSnh5U0tsRWtISjBmY0xzeE1qbUdnd2dta1JlYXY0R05paklOT2hDUFlKU3dsRWd4cXg4OXRaVnlYOGxkTmxRS2hIMjFpLVNISkw1eUFOUkZhZg?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "ChatGPT Rate Card (Enterprise token-based pricing) | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T10:28:01+00:00",
-      "date_jst": "2026-11-25",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa2VuWUJGUzYxeUxmWFMwQnNuaUZxb2draFQ5YUJOWWpEU19fNnJlRlE3RVZFQ1l4cDZ3Q05UeVhwTU9PcHItSnh5U0tsRWtISjBmY0xzeE1qbUdnd2dta1JlYXY0R05paklOT2hDUFlKU3dsRWd4cXg4OXRaVnlYOGxkTmxRS2hIMjFpLVNISkw1eUFOUkZhZg?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T10:28:01+00:00",
-          "title": "ChatGPT Rate Card (Enterprise token-based pricing) | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
       "id": "5f92c89e82512c4787fc5068",
       "topic": "ai",
       "title": "Maximize results bid strategy | OpenAI Help Center - OpenAI Help Center",
@@ -11788,18 +11762,18 @@
     {
       "id": "ce75ecbbfe7ebf18b52ed7d6",
       "topic": "ai",
-      "title": "Send files to connected apps and save files from them - Claude Help Center",
+      "title": "Send files to connected apps and save files from them | Claude Help Center - Claude Help Center",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZW41T1NhZXZiQWlqZHRLTi1vVWZuSU9WdENZQVNxbTBUU21VRXk2bmVYSHVWcnhXY01tOUU1aDRjb3ktN0VKVmlfeWE0elhFMEVkSnU1Y05Ia0JVbk1zdWFKTjBfSU1DRHV4WUl3UnpsR0h5VEdHdy1URWQ5MnhXZHpXa3cybFpxSng5OGp6dDMxQzNtTDVzT3JhTUNmWkNva1Vr?oc=5",
       "source": "Claude Help",
       "publisher": "Claude Help Center",
-      "description": "Send files to connected apps and save files from them Claude Help Center",
+      "description": "Send files to connected apps and save files from them | Claude Help Center Claude Help Center",
       "published_utc": "2026-11-24T20:49:39+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
       "date_quality": "discovery_index",
       "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
+      "triage_reason": "AI候補",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZW41T1NhZXZiQWlqZHRLTi1vVWZuSU9WdENZQVNxbTBUU21VRXk2bmVYSHVWcnhXY01tOUU1aDRjb3ktN0VKVmlfeWE0elhFMEVkSnU1Y05Ia0JVbk1zdWFKTjBfSU1DRHV4WUl3UnpsR0h5VEdHdy1URWQ5MnhXZHpXa3cybFpxSng5OGp6dDMxQzNtTDVzT3JhTUNmWkNva1Vr?oc=5",
@@ -11807,7 +11781,7 @@
           "publisher": "Claude Help Center",
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T20:49:39+00:00",
-          "title": "Send files to connected apps and save files from them - Claude Help Center"
+          "title": "Send files to connected apps and save files from them | Claude Help Center - Claude Help Center"
         }
       ]
     },
@@ -14297,7 +14271,7 @@
       "source": "Reuters AI",
       "publisher": "Reuters",
       "description": "Meta officials meet India's opposition Congress amid protests on content curbs, sources say Reuters",
-      "published_utc": "2026-11-25T07:33:00+00:00",
+      "published_utc": "2026-11-25T09:41:44+00:00",
       "date_jst": "2026-11-25",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -14310,7 +14284,7 @@
           "source": "Reuters AI",
           "publisher": "Reuters",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T07:33:00+00:00",
+          "published_utc": "2026-11-25T09:41:44+00:00",
           "title": "Meta officials meet India's opposition Congress amid protests on content curbs, sources say - Reuters"
         }
       ]
@@ -19017,6 +18991,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T03:28:21+00:00",
           "title": "Goldman says US data center boom through 2028 will lift power and gas demand - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "b35d0351404c39d5746d963e",
+      "topic": "smartphones",
+      "title": "Your old smartphone is likely worth more now as a trade-in than it was last year - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtZlhkREt2RDlHYm1xSVB2SFZoaHBwSTRMdXQ1dF9aQVYtek42d2U4TnpRNVNITkg1NnZPcmtZWFV3Rk9YUm93blVPeG9sWVI3bzZfVFdLMFJ6VHhMQlZmZHVQeXFTdWVyQTFYMG1xVWpubEczUEZ5MFN3SQ?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Your old smartphone is likely worth more now as a trade-in than it was last year Android Authority",
+      "published_utc": "2026-11-24T18:32:00+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "スマートフォンへ分類",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtZlhkREt2RDlHYm1xSVB2SFZoaHBwSTRMdXQ1dF9aQVYtek42d2U4TnpRNVNITkg1NnZPcmtZWFV3Rk9YUm93blVPeG9sWVI3bzZfVFdLMFJ6VHhMQlZmZHVQeXFTdWVyQTFYMG1xVWpubEczUEZ5MFN3SQ?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T18:32:00+00:00",
+          "title": "Your old smartphone is likely worth more now as a trade-in than it was last year - Android Authority"
         }
       ]
     }

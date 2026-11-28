@@ -765,15 +765,6 @@
     "reason": "通常セール・販促・中古"
   },
   {
-    "id": "c287cfb073161c2e45deb491",
-    "group": "pc_ai",
-    "topic": "pc",
-    "title": "KAMRUI Black Friday Mini PC Deals Bring Ryzen 9 and Core 5 Systems Down to $396",
-    "url": "https://www.techpowerup.com/355232/kamrui-black-friday-mini-pc-deals-bring-ryzen-9-and-core-5-systems-down-to-usd-396",
-    "triage": "exclude",
-    "reason": "通常セール・販促・中古"
-  },
-  {
     "id": "77ff62586d85e853edb6ab68",
     "group": "pc_ai",
     "topic": "pc",
@@ -1987,5 +1978,50 @@
     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOb0pRd0RoOG43VmRlNnhEZ0ItaDV2NDVLaUY1TlliT0s0aXZvME1kckdYOWRVQUU4TXhCVHdydF9Vd3hGWC1UcWRVMmJKYkIzaGZrRFlEckJsUWNSYUZ3T1ZCTDNVaFJ1RUhJVmMwTDVzYzB2ZWVPSG1CV0U0c2IxWDI4cExkSVZIZkJlZGhGUDFucUNfTmMxZzJ1TDY0ZnpIMU1fMk5wQnhZcjEwb1F3dS05VzBiNE1jYmwwcjNIM2M5cW1NVXZoQk9xVktGcTBtLWd3REp5R3FGOVBIa1hyRWNpaDUtUlpKRERScmpTbHlHMnNqQjJ1WlFIdWZoZmlMekZ4cjNxX1FDeUtHRlZTbUVB?oc=5",
     "triage": "exclude",
     "reason": "対象外競技"
+  },
+  {
+    "id": "d054a0ad3bd526616a6c10dc",
+    "group": "audio",
+    "topic": "wired",
+    "title": "この価格でいいの!? オーテク「世界に一つしかないヘッドホン」がAmazon ブラックフライデーで超お買い得！",
+    "url": "http://www.phileweb.com/review/column/202611/28/3232.html",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "4c450d64ebb8ba3d1b9bdd7b",
+    "group": "games_handhelds",
+    "topic": "racing_games",
+    "title": "Black Friday 2026: 5 Recommended Deals For Sim Racers - overtake.gg",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS0ZMMmhCWWhfbG42M2o5UG1RYVB1N0EtLUhIVTdtQlFXTTlVTzdtNVBXZ3d5eVBqc0k2SjRlRXdldU5CX2M5Wm5uLXZHX3pkWjN6R0JoWHhFNDNleTEySWdwbTA5TTJpaHlqRlNYcFA4Szg0aHVnVGZ3NXhoNWo3aC1ERFI0bVdZSVNxVS1WQkc?oc=5",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "395fa5a376e899a2098c083a",
+    "group": "audio",
+    "topic": "portable_dac",
+    "title": "Top Black Friday 2026 deals? - Audio Science Review (ASR) Forum",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTXNKQWRrWm9Nci1GS3h2bWtrX1VwR1U2bjlKV1B3M2tmWUtVaHhWRkVnNGw2M2UxeW5vMjJmOTdoOWcwMUREaFljc05GNmE1djdoX2Z1SkVJYktNUHlsN3V5ZEJDdDdiTzJ4c013cmJaaml4ZUhjMGE1LU9VV0xqa3ZVUndHOE5HMWFxbnJydTIxRm5NTWo2SQ?oc=5",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
+  },
+  {
+    "id": "07a7332bcb7bf1f38d587845",
+    "group": "audio",
+    "topic": "tws",
+    "title": "- JBL",
+    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOVHpWLS1vWEFma1VwM1IwaE5panVvN2JuQTVwV3lMTy0yMHJHZzZ6ZlA5MGlJMHRwbEx0QXMxSk54N08yUmQ4X2l0cU5pbmVhSHIzR1JuNzZ2YnFvYXBockFmV29ULWZUU3g0UFIwUHRJR016dmRCY0RXRnJuOE1rSDhWd2Z2U3pJVXpZRFFUN0ozeW5reE9zY1dWVTRGOXJpVGFLMko5bDd0ZVZmMDYyaDl4Sy02ak5RVmp1QXdHUElhV3NJUk5ZNHZPWDJXUFQwd0dENmFGdnVwU1NsY2w1TVpySm9kSU1YWW9kMERUVGJRWFh4aWd6SDVvSV9qSm9IOWdhbUlYUmd2LWtqNmN2SERTWXdQYmNIbGQybmxWcHlieUplS3Nv?oc=5",
+    "triage": "exclude",
+    "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "7e33cd67e6b0fab78317b008",
+    "group": "motorsport",
+    "topic": "NASCAR",
+    "title": "Michael McDowell Deals, Michael McDowell Apparel on Sale, Discounted Gear | NASCAR Superstore - NASCAR Shop",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcU1Wbk11STJoOFRjSW9hUWNCdV80LTNQVENzS2JOQm1HQThsTU1TcXJROEdtOVZNWDZKcFluTGg1TVd4bjZsS0QtREM1dnJQU01ydnUwSDBRNXk3OGF1S1N5aDdPNnNWWWRDckZ2NXBpT082RXI3cG1PcUw4WG1FX01pWl9LS3U2d3o5QWsyVnRZYXRhWS1mOTJLZ3VQWnZCLW0xaldkd25fUzlkcllsbmczaHppYjhLdGhxNDhYbzJ4MTF5MFNBRVF4c2M?oc=5",
+    "triage": "exclude",
+    "reason": "通常セール・販促・中古"
   }
 ]

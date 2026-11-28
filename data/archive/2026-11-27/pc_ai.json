@@ -84,6 +84,32 @@
       ]
     },
     {
+      "id": "2ea5dcbc07b82d7503060594",
+      "topic": "ai",
+      "title": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWm96THVxRG9rTGtUbFBtN2lpUDJ0RWd3WmI5dHZfeUQ5MWFZdXd0NHQ4YTlMb2otYUxwTUpTMXp4NnRlMmljYmZZSHZydTl3dEl0ZmJMUURVSEl0UXhndFZSWUwwZ0JXRWNiQ3M1OHByWm1yX0FwOTJkNFhRdlFIUVotZDlqT3otXy0xQ0FTeE4yNFdkZW9KazlKbmwyYUpuWmZSeHlLaw?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-27T03:02:43+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWm96THVxRG9rTGtUbFBtN2lpUDJ0RWd3WmI5dHZfeUQ5MWFZdXd0NHQ4YTlMb2otYUxwTUpTMXp4NnRlMmljYmZZSHZydTl3dEl0ZmJMUURVSEl0UXhndFZSWUwwZ0JXRWNiQ3M1OHByWm1yX0FwOTJkNFhRdlFIUVotZDlqT3otXy0xQ0FTeE4yNFdkZW9KazlKbmwyYUpuWmZSeHlLaw?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T03:02:43+00:00",
+          "title": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
       "id": "b158b17edd54d4954ad3cf63",
       "topic": "ai",
       "title": "Bidding strategies and how pricing works in ChatGPT Ads | OpenAI Help Center - OpenAI Help Center",
@@ -188,6 +214,32 @@
       ]
     },
     {
+      "id": "be5319ac27fa963840c3ad0e",
+      "topic": "pc",
+      "title": "GIGABYTE and Newegg Bring \"AORUS VS40\" to Southern California in November 2026",
+      "url": "https://www.techpowerup.com/355019/gigabyte-and-newegg-bring-aorus-vs40-to-southern-california-in-november-2026",
+      "source": "TechPowerUp",
+      "publisher": "TechPowerUp",
+      "description": "GIGABYTE and Newegg will host AORUS VS40 at the Newegg Gamer Zone in City of Industry, California, on Saturday, November 21, 2026, from 11 a.m. to 4 p.m. PST. The event invites local collegiate PC gamers and hardware enthusiasts to celebrate 40 years of GIGABYTE by putting their skills to the test on the tournament floor and at gaming stations thro",
+      "published_utc": "2026-11-27T14:15:26+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "source_feed_published",
+      "link_role": "source_article",
+      "date_quality": "feed_published",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://www.techpowerup.com/355019/gigabyte-and-newegg-bring-aorus-vs40-to-southern-california-in-november-2026",
+          "source": "TechPowerUp",
+          "publisher": "TechPowerUp",
+          "timestamp_basis": "source_feed_published",
+          "published_utc": "2026-11-27T14:15:26+00:00",
+          "title": "GIGABYTE and Newegg Bring \"AORUS VS40\" to Southern California in November 2026"
+        }
+      ]
+    },
+    {
       "id": "8ae4f83c7a6573d58f2f2e9d",
       "topic": "pc",
       "title": "Max Out Your Gen 4 Slot: Predator GM7 NVMe SSD (Up to 7400 MB/s)",
@@ -195,7 +247,7 @@
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
       "description": "If you've been waiting for the Black Friday sales to upgrade your rig, expand your PS5 storage, or give your laptop a massive speed boost, the award-winning Predator GM7 PCIe 4.0 SSD is built to deliver top-tier performance without the top-tier heat. Powered by the highly efficient Maxio MAP1602 controller and fast 3D TLC NAND flash, this award-win",
-      "published_utc": "2026-11-27T11:16:40+00:00",
+      "published_utc": "2026-11-27T12:17:35+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
@@ -208,7 +260,7 @@
           "source": "TechPowerUp",
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
-          "published_utc": "2026-11-27T11:16:40+00:00",
+          "published_utc": "2026-11-27T12:17:35+00:00",
           "title": "Max Out Your Gen 4 Slot: Predator GM7 NVMe SSD (Up to 7400 MB/s)"
         }
       ]
@@ -247,7 +299,7 @@
       "source": "OpenAI",
       "publisher": "OpenAI Help Center",
       "description": "ChatGPT Work and Codex | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-27T01:34:21+00:00",
+      "published_utc": "2026-11-27T01:32:22+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -260,7 +312,7 @@
           "source": "OpenAI",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T01:34:21+00:00",
+          "published_utc": "2026-11-27T01:32:22+00:00",
           "title": "ChatGPT Work and Codex | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -299,7 +351,7 @@
       "source": "OpenAI",
       "publisher": "OpenAI Help Center",
       "description": "Connecting and managing app accounts in ChatGPT | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-27T00:52:55+00:00",
+      "published_utc": "2026-11-27T00:18:27+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -312,7 +364,7 @@
           "source": "OpenAI",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T00:52:55+00:00",
+          "published_utc": "2026-11-27T00:18:27+00:00",
           "title": "Connecting and managing app accounts in ChatGPT | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -429,7 +481,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Using the built-in browser in the ChatGPT desktop app | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-26T19:46:11+00:00",
+      "published_utc": "2026-11-26T23:49:50+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -442,8 +494,34 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T19:46:11+00:00",
+          "published_utc": "2026-11-26T23:49:50+00:00",
           "title": "Using the built-in browser in the ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "2fecbb69ddc34f44ee2a69ca",
+      "topic": "ai",
+      "title": "Musk pledges two SpaceX shares for every US child in $18 billion AI charm offensive - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNklmekFZWmFURnFwVlBHa2FlTGZwYkxaSkNSRUxMV2lsanFDc2hkdGF1RGhHWlJoUTBicHFXY1B3dWxHa0xmdU5mYzFBbGpYN3Z5N2xTS2U1bVBJeVZQVHRucldkRVhsVlVfNldnTWpRclIzSjJQa0tMMnBFVGhDTS1HYzdwVlctaXowdDJtdVJaNkxLcXo2Tk9Odi1XZnI0c1JScHZycXhWRUNUZmQ4?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Musk pledges two SpaceX shares for every US child in $18 billion AI charm offensive Reuters",
+      "published_utc": "2026-11-26T20:27:35+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNklmekFZWmFURnFwVlBHa2FlTGZwYkxaSkNSRUxMV2lsanFDc2hkdGF1RGhHWlJoUTBicHFXY1B3dWxHa0xmdU5mYzFBbGpYN3Z5N2xTS2U1bVBJeVZQVHRucldkRVhsVlVfNldnTWpRclIzSjJQa0tMMnBFVGhDTS1HYzdwVlctaXowdDJtdVJaNkxLcXo2Tk9Odi1XZnI0c1JScHZycXhWRUNUZmQ4?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T20:27:35+00:00",
+          "title": "Musk pledges two SpaceX shares for every US child in $18 billion AI charm offensive - Reuters"
         }
       ]
     },
@@ -480,12 +558,12 @@
       "url": "https://www.computerbase.de/news/gaming/gta-6-inoffizielle-pc-portierung-knackt-erstmals-rund-20-fps.100549",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Die Entwicklung inoffizieller PC-Portierungen von GTA 6 ist binnen weniger Tage deutlich vorangeschritten. Dank der Kompatibilitätsschicht VIctory werden in der offenen Spielwelt inzwischen rund 20 FPS erreicht. Probleme bereiten jedoch weiterhin Grafikfehler und Leistungseinbrüche trotz niedriger Renderauflösung.",
+      "description": "Die Entwicklung inoffizieller PC-Portierungen von GTA 6 ist binnen weniger Tage deutlich vorangeschritten und erreicht nun rund 20 FPS.",
       "published_utc": "2026-11-26T18:40:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -493,11 +571,15 @@
           "url": "https://www.computerbase.de/news/gaming/gta-6-inoffizielle-pc-portierung-knackt-erstmals-rund-20-fps.100549",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T18:40:00+00:00",
           "title": "GTA 6: Inoffizielle PC-Por­tier­ung knackt erstmals rund 20 FPS"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T19:40:00+01:00",
+      "article_modified_raw": "2026-11-26T19:40:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "707a4604266fe2201d9aedff",
@@ -1232,12 +1314,12 @@
       "url": "https://www.computerbase.de/news/apps/google-play-weltweite-offenlegung-von-entwicklerdaten-sorgt-fuer-kritik.100553",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Anders als Apple will Google die Adressen und Telefonnummern von App-Entwicklern nicht nur in Europa, sondern weltweit öffentlich machen und erntet dafür massive Kritik. Erste unabhängige Entwickler mieten bereits Büroräume an, um ihre Privatadresse zu schützen. Aber auch aus datenschutzrechtlicher Sicht werden Bedenken laut.",
+      "description": "Google will die Adressen und Telefonnummern von App-Entwicklern nicht nur in Europa, sondern weltweit veröffentlichen, was für Kritik sorgt.",
       "published_utc": "2026-11-26T20:15:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -1245,11 +1327,15 @@
           "url": "https://www.computerbase.de/news/apps/google-play-weltweite-offenlegung-von-entwicklerdaten-sorgt-fuer-kritik.100553",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T20:15:00+00:00",
           "title": "Google Play: Weltweite Offenlegung von Entwicklerdaten sorgt für Kritik"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T21:15:00+01:00",
+      "article_modified_raw": "2026-11-26T21:15:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "ef3c8cb015c2d010cf6df72f",
@@ -2216,12 +2302,12 @@
       "url": "https://wccftech.com/grand-theft-auto-vi-rockstar-workers-reject-union-recognition",
       "source": "Wccftech",
       "publisher": "Wccftech",
-      "description": "Grand Theft Auto VI developer Rockstar Games announced today that its workers have voted against the proposed union recognition deal for the Rockstar Game Workers Union (RGWU). 1,544 employees (93.2% of the eligible workers) participated in the vote, which ran from November 12 to 26. Only 25% of the workers voted in favor of union recognition, as a",
+      "description": "75% of the workers at Grand Theft Auto VI developer Rockstar Games who participated in the union recognition voted decided against it.",
       "published_utc": "2026-11-26T18:15:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2229,11 +2315,15 @@
           "url": "https://wccftech.com/grand-theft-auto-vi-rockstar-workers-reject-union-recognition",
           "source": "Wccftech",
           "publisher": "Wccftech",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T18:15:00+00:00",
           "title": "Workers at Grand Theft Auto VI Developer Rockstar Games Reject Union Recognition, With Only 25% Voting in Favor Among the 1,544 Employees Who Cast Ballots"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T18:15:00+00:00",
+      "article_modified_raw": "2026-11-26T18:16:46+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "0db74e1ebb01bbcf7c7ca468",
@@ -2242,12 +2332,12 @@
       "url": "https://wccftech.com/samsung-roadmap-reportedly-puts-unmanned-vehicles-self-driving-robots-and-robotic-arms-inside-its-chip-fabs-by-2028-covering-equipment-maintenance-and-production-line-work",
       "source": "Wccftech",
       "publisher": "Wccftech",
-      "description": "Korean technology giant Samsung is interested in using robots in its chip fabrication process, according to a report from the Korean media. Samsung has established a new robotics team that is developing robotics technology to be used in semiconductor manufacturing, says the report, adding that the firm's official roadmap will place robots inside ch",
+      "description": "Robots already handle wafers and inspection, and one official says automating the remaining fab steps would be an industry first.",
       "published_utc": "2026-11-26T18:08:38+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -2255,11 +2345,15 @@
           "url": "https://wccftech.com/samsung-roadmap-reportedly-puts-unmanned-vehicles-self-driving-robots-and-robotic-arms-inside-its-chip-fabs-by-2028-covering-equipment-maintenance-and-production-line-work",
           "source": "Wccftech",
           "publisher": "Wccftech",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T18:08:38+00:00",
           "title": "Samsung Roadmap Reportedly Puts Unmanned Vehicles, Self-Driving Robots And Robotic Arms Inside Its Chip Fabs By 2028, Covering Equipment Maintenance And Production Line Work"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T18:08:38+00:00",
+      "article_modified_raw": "2026-11-26T18:08:46+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "a0602f125557530a47c04ada",
@@ -4537,7 +4631,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Working with writing blocks and code blocks in ChatGPT | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-27T05:12:02+00:00",
+      "published_utc": "2026-11-27T00:06:31+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -4550,7 +4644,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T05:12:02+00:00",
+          "published_utc": "2026-11-27T00:06:31+00:00",
           "title": "Working with writing blocks and code blocks in ChatGPT | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -4588,12 +4682,12 @@
       "url": "https://www.computerbase.de/artikel/grafikkarten/radeon-rx-9070-xt-geforce-rtx-5070-ti-benchmark-2026.100412",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Die Radeon RX 9070 XT ist die beliebteste Grafikkarte auf ComputerBase. Die GeForce RTX 5070 Ti ist Nvidias Konkurrenzmodell. Wir haben uns beide Grafikkarten in neuen Spielen mit aktuellen Treibern noch einmal angesehen und klären im Benchmark, welche die bessere Performance liefert – auch im Vergleich zum Launch.",
+      "description": "Wie schlagen sich Radeon RX 9070 XT und GeForce RTX 5070 Ti in aktuellen Spielen und mit neuen Treibern? Das klärt der Benchmark-Test.",
       "published_utc": "2026-11-27T07:00:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -4601,11 +4695,15 @@
           "url": "https://www.computerbase.de/artikel/grafikkarten/radeon-rx-9070-xt-geforce-rtx-5070-ti-benchmark-2026.100412",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T07:00:00+00:00",
           "title": "Aktuelle Benchmarks: RX 9070 XT vs. RTX 5070 Ti mit neuen Treibern und Spielen"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T08:00:00+01:00",
+      "article_modified_raw": "2026-11-27T08:00:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "5b57b421c6362c0e57a22dbb",
@@ -4770,16 +4868,16 @@
     {
       "id": "0faadd6ebef69604d14abdb2",
       "topic": "pc",
-      "title": "【本日みつけたお買い得品】マウスのRadeon RX 9060 XT搭載ゲーミングPCが約4万円引き",
+      "title": "マウスのRadeon RX 9060 XT搭載ゲーミングPCが約4万円引き",
       "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2159995.html",
       "source": "PC Watch",
       "publisher": "PC Watch",
       "description": "Amazonのブラックフライデー先行セールにおいて、マウスコンピューターのゲーミングデスクトップPC「G TUNE DG(DGI5A6XB83SJW116AZ)」が、11月24日時点の価格から4万175円引きの29万7,330円で販売されている。",
       "published_utc": "2026-11-27T06:50:19+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -4787,11 +4885,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2159995.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T06:50:19+00:00",
-          "title": "【本日みつけたお買い得品】マウスのRadeon RX 9060 XT搭載ゲーミングPCが約4万円引き"
+          "title": "マウスのRadeon RX 9060 XT搭載ゲーミングPCが約4万円引き"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T15:50:19+09:00",
+      "article_modified_raw": "2026-11-27T15:50:20+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "b6b5cb44dfa0a97926032af7",
@@ -4826,16 +4928,16 @@
     {
       "id": "5179835f14b2d3f17725749c",
       "topic": "pc",
-      "title": "【本日みつけたお買い得品】最大180型対応のプロジェクタが1万3,280円引き。単体でYouTubeも視聴できる",
+      "title": "最大180型対応のプロジェクタが1万3,280円引き。単体でYouTubeも視聴できる",
       "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2159982.html",
       "source": "PC Watch",
       "publisher": "PC Watch",
       "description": "Amazonにて、最大180型の表示ができるプロジェクタ「WIMIUS K14」がブラックフライデー先行セールの対象となっており、商品ページのクーポン適用で、直近価格から1万3,280円引きの4万3,520円にて購入できる。",
       "published_utc": "2026-11-27T06:26:24+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -4843,25 +4945,29 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2159982.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T06:26:24+00:00",
-          "title": "【本日みつけたお買い得品】最大180型対応のプロジェクタが1万3,280円引き。単体でYouTubeも視聴できる"
+          "title": "最大180型対応のプロジェクタが1万3,280円引き。単体でYouTubeも視聴できる"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T15:26:24+09:00",
+      "article_modified_raw": "2026-11-27T15:26:25+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "14a3ad957512b52a59b5a655",
       "topic": "pc",
-      "title": "【本日みつけたお買い得品】REGZAの34型湾曲ゲーミングモニターが1万4,200円引き",
+      "title": "REGZAの34型湾曲ゲーミングモニターが1万4,200円引き",
       "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2159951.html",
       "source": "PC Watch",
       "publisher": "PC Watch",
       "description": "Amazonのブラックフライデー先行セールにおいて、REGZAの34型湾曲ゲーミングモニター「RM-34G6SE」が、直近価格から1万4,200円オフの4万1,600円で販売されている。",
       "published_utc": "2026-11-27T05:23:18+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -4869,11 +4975,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2159951.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T05:23:18+00:00",
-          "title": "【本日みつけたお買い得品】REGZAの34型湾曲ゲーミングモニターが1万4,200円引き"
+          "title": "REGZAの34型湾曲ゲーミングモニターが1万4,200円引き"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T14:23:18+09:00",
+      "article_modified_raw": "2026-11-27T14:23:18+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "de54b732b1db7b234521f8e8",
@@ -4885,9 +4995,9 @@
       "description": "「Claude Code」や「Cowork」などがClaudeにアクセスする際に利用されている「Messages API」が、サービスを止めないままPythonからRustへ移行した。Anthropicは11月25日に明らかにしたもので、急増するトラフィックに対し、CPU使用率の削減やメモリ効率の改善などを通じてパフォーマンス向上を図ったとしている。",
       "published_utc": "2026-11-27T05:06:30+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -4895,25 +5005,29 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/2159943.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T05:06:30+00:00",
           "title": "ClaudeのMessages API、Rust化されてCPU使用率が70%削減"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T14:06:30+09:00",
+      "article_modified_raw": "2026-11-27T14:06:31+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "414dd9b75f94f0e0d7d5578c",
       "topic": "smartphones",
-      "title": "【本日みつけたお買い得品】厚さ5.64mmで165gの「iPhone Air(512GB)」が5万1,900円引き！",
+      "title": "厚さ5.64mmで165gの「iPhone Air(512GB)」が5万1,900円引き！",
       "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2159945.html",
       "source": "PC Watch",
       "publisher": "PC Watch",
       "description": "Amazonにおいて、AppleのSIMフリースマートフォン「iPhone Air(512GB・クラウドホワイト)」が、直近価格22万4,800円から23%(5万1,900円)引きの17万2,900円で販売中だ。",
       "published_utc": "2026-11-27T05:04:38+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "スマートフォンへ分類",
       "sources": [
@@ -4921,11 +5035,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2159945.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T05:04:38+00:00",
-          "title": "【本日みつけたお買い得品】厚さ5.64mmで165gの「iPhone Air(512GB)」が5万1,900円引き！"
+          "title": "厚さ5.64mmで165gの「iPhone Air(512GB)」が5万1,900円引き！"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T14:04:38+09:00",
+      "article_modified_raw": "2026-11-27T14:04:40+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "25dffafeb92bbc8a110a4f0b",
@@ -5322,12 +5440,12 @@
       "url": "https://www.computerbase.de/news/apps/ki-hackerangriffe-jetzt-soll-es-auch-sap-erwischt-haben.100555",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "SAP ist derzeit von einem Hacker-Angriff betroffen, berichtet der Spiegel. Demnach handelt es sich um einen aktiven Sicherheitsvorfall, bei dem Angreifer die GitHub-Konten des Software-Konzerns ins Visier nehmen.",
+      "description": "Der nächste vermutliche KI-Hackervorfall betrifft SAP. Medienberichten sollen Angreifer die GitHub-Konten kompromittiert haben.",
       "published_utc": "2026-11-27T08:17:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -5335,11 +5453,15 @@
           "url": "https://www.computerbase.de/news/apps/ki-hackerangriffe-jetzt-soll-es-auch-sap-erwischt-haben.100555",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T08:17:00+00:00",
           "title": "KI-Hackerangriffe: Jetzt soll es auch SAP erwischt haben"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T09:17:00+01:00",
+      "article_modified_raw": "2026-11-27T09:17:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "f0ff7d1ff016fc371485d8aa",
@@ -5474,16 +5596,16 @@
     {
       "id": "1ed037bcca56c6b058d1c568",
       "topic": "pc",
-      "title": "【本日みつけたお買い得品】M4チップとWi-Fi 7対応の「11インチiPad Air」が11万6 800円！",
+      "title": "【本日みつけたお買い得品】M4チップとWi-Fi 7対応の「11インチiPad Air」が11万6\t800円！",
       "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2160157.html",
       "source": "PC Watch",
       "publisher": "PC Watch",
       "description": "Amazonにおいて、Appleのタブレット「11インチiPad Air(M4・Wi-Fiモデル・128GB・スペースグレイ)」が、直近価格から1万3,000円引きとなる11万6,800円で販売中だ。",
       "published_utc": "2026-11-27T12:18:24+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -5491,11 +5613,15 @@
           "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2160157.html",
           "source": "PC Watch",
           "publisher": "PC Watch",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T12:18:24+00:00",
-          "title": "【本日みつけたお買い得品】M4チップとWi-Fi 7対応の「11インチiPad Air」が11万6 800円！"
+          "title": "【本日みつけたお買い得品】M4チップとWi-Fi 7対応の「11インチiPad Air」が11万6\t800円！"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T21:18:24+09:00",
+      "article_modified_raw": "2026-11-27T21:18:25+09:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "6d69c267a170628b5c30ce37",
@@ -6079,7 +6205,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Creating and using ChatGPT Sites | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-27T00:50:57+00:00",
+      "published_utc": "2026-11-27T00:27:20+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -6092,7 +6218,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T00:50:57+00:00",
+          "published_utc": "2026-11-27T00:27:20+00:00",
           "title": "Creating and using ChatGPT Sites | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -6120,32 +6246,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-27T04:55:35+00:00",
           "title": "Creating and editing documents, spreadsheets, and presentations with ChatGPT Work | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
-      "id": "b19f34506be5cc9087cd028d",
-      "topic": "ai",
-      "title": "ChatGPT Workspace Agents for Enterprise and Business | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYVdTb2Rpb0JjSUowMzhZbFN0cHUwZm41bzVvMVJFNks1M1N2MlBFRU51d0pSX0tmOWRPR0NVdWVZT3RYT2xMTUFkMEJXVzJJTGM3eUFzUF9ma2VSWnFIUFRsdmZpcGN3N21jYVZMRUowNEp0VVFYTFJ3NEVnaC1pUVdDWS1aLXlsWS1OU2dHNkpUZUVSbDRiaWhEeE5SUQ?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "ChatGPT Workspace Agents for Enterprise and Business | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-27T13:48:48+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYVdTb2Rpb0JjSUowMzhZbFN0cHUwZm41bzVvMVJFNks1M1N2MlBFRU51d0pSX0tmOWRPR0NVdWVZT3RYT2xMTUFkMEJXVzJJTGM3eUFzUF9ma2VSWnFIUFRsdmZpcGN3N21jYVZMRUowNEp0VVFYTFJ3NEVnaC1pUVdDWS1aLXlsWS1OU2dHNkpUZUVSbDRiaWhEeE5SUQ?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T13:48:48+00:00",
-          "title": "ChatGPT Workspace Agents for Enterprise and Business | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -7000,16 +7100,16 @@
     {
       "id": "76b2595935149aad83e2ead1",
       "topic": "pc",
-      "title": "Intel Razor Lake-AX Could Feature GPU Performance Comparable to RTX 5070 Ti Laptop With Up To 32 Xe3P Cores & A 192 GB Memory Capacity",
+      "title": "Intel Razor Lake-AX Could Feature GPU Performance Comparable to RTX 5070 Ti Laptop With Up To 32 Xe3P Cores &amp; A 192 GB Memory Capacity",
       "url": "https://wccftech.com/intel-razor-lake-ax-gpu-performance-comparable-to-rtx-5070-ti",
       "source": "Wccftech",
       "publisher": "Wccftech",
-      "description": "Intel's Razor Lake-AX SoCs could feature impressive graphics performance with up to 32 Xe3P GPU cores. Intel Goes Big on Razor Lake-AX SoCs With Up To 32 Xe3P GPU Cores, Reportedly Comparable To NVIDIA's Laptop-Class 5070 Ti Well, a lot of information on the Intel Razor Lake-AX SoCs seems to be appearing at the moment. We just covered the first vis",
+      "description": "Intel's Razor Lake-AX SoCs could feature impressive graphics performance with up to 32 Xe3P GPU cores, matching a laptop RTX 5070 Ti.",
       "published_utc": "2026-11-27T14:55:20+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -7017,11 +7117,15 @@
           "url": "https://wccftech.com/intel-razor-lake-ax-gpu-performance-comparable-to-rtx-5070-ti",
           "source": "Wccftech",
           "publisher": "Wccftech",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T14:55:20+00:00",
-          "title": "Intel Razor Lake-AX Could Feature GPU Performance Comparable to RTX 5070 Ti Laptop With Up To 32 Xe3P Cores & A 192 GB Memory Capacity"
+          "title": "Intel Razor Lake-AX Could Feature GPU Performance Comparable to RTX 5070 Ti Laptop With Up To 32 Xe3P Cores &amp; A 192 GB Memory Capacity"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T14:55:20+00:00",
+      "article_modified_raw": "2026-11-27T14:55:30+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "1102599cff7fe1285c384d24",
@@ -7150,12 +7254,12 @@
       "url": "https://wccftech.com/supply-chain-source-confirms-msi-will-have-limited-inventory-for-rtx-50-series-cards-this-month",
       "source": "Wccftech",
       "publisher": "Wccftech",
-      "description": "Another report suggests one of the major NVIDIA board partners will have limited RTX 50 inventory for this month, and this could further result in higher prices. MSI Reportedly Has Limited RTX 50 Series Supply and Distributors Will Likely Receive Little or No Stock This Month With a recent report suggesting NVIDIA is cutting nearly 20-30% of the su",
+      "description": "MSI faces limited RTX 50 series GPU supply this month, likely leading to 50% price increases and a $7800 RTX 5090 bundle due to NVIDIA's 20-30% cut in supply.",
       "published_utc": "2026-11-27T11:39:46+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -7163,11 +7267,15 @@
           "url": "https://wccftech.com/supply-chain-source-confirms-msi-will-have-limited-inventory-for-rtx-50-series-cards-this-month",
           "source": "Wccftech",
           "publisher": "Wccftech",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T11:39:46+00:00",
           "title": "Supply Chain Source Confirms MSI Will Have Limited Inventory For RTX 50 Series Cards This Month"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T11:39:46+00:00",
+      "article_modified_raw": "2026-11-27T13:11:31+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "dd717c07222e47a252ec0748",
@@ -7556,11 +7664,11 @@
     {
       "id": "6dbf99f8f2d1a05d2bb13ec0",
       "topic": "ai",
-      "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks - Reuters",
+      "title": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks - Reuters",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYW55b1BZTkM4emFaZmljMEIzZlBhd2duLWJnRlpMaVA1UnBMaXpEQTdYU0JQUF93QWRkMEV0ZHlaUFhJM3JwTkVLSFNQcDhJSW43VEJ3ME9uQmVvaXpaVkV6eG1CWnBISXFncTVTQjI0NElBcUZDTXlNZEw0S0RCSGxFa25EX29sYzJVZHJmREFnckNW?oc=5",
       "source": "Reuters AI",
       "publisher": "Reuters",
-      "description": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks Reuters",
+      "description": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks Reuters",
       "published_utc": "2026-11-27T03:28:00+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
@@ -7575,7 +7683,7 @@
           "publisher": "Reuters",
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-27T03:28:00+00:00",
-          "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks - Reuters"
+          "title": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks - Reuters"
         }
       ]
     },
@@ -9214,6 +9322,214 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-27T06:22:49+00:00",
           "title": "[Arc B580] IGDKMDND64.sys BSOD under sustained high workloads - Intel Community"
+        }
+      ]
+    },
+    {
+      "id": "1cfb05abb097f07427ee62b4",
+      "topic": "ai",
+      "title": "Taiwan's economy expected to grow at its fastest rate in nearly 50 years due to AI demand - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ1lkakFoSnF2VGJSOUxUR2NYTGVNaEZBYVFNU3N6RC0yOF9xODdILU9Lcm41Ujk0N1dHOXpOMW1OMGE0Q0V6UDYxR0dNalFVRWlabDZzQUZsemhRaGpnejk0UzdCRUIzOHBJamNCbVRSc050SHJLb0ZkbV84d2dlenhkeG83UjFyS1kxY25maVBZUFlfYlBfLUExLU9DMzBUaWxmOHZkbVZVZ1ZNQjlvQ0ZKWjhYTjI5OVlQWGRCb0NaSElwal9MMzktQQ?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Taiwan's economy expected to grow at its fastest rate in nearly 50 years due to AI demand Reuters",
+      "published_utc": "2026-11-27T13:44:17+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ1lkakFoSnF2VGJSOUxUR2NYTGVNaEZBYVFNU3N6RC0yOF9xODdILU9Lcm41Ujk0N1dHOXpOMW1OMGE0Q0V6UDYxR0dNalFVRWlabDZzQUZsemhRaGpnejk0UzdCRUIzOHBJamNCbVRSc050SHJLb0ZkbV84d2dlenhkeG83UjFyS1kxY25maVBZUFlfYlBfLUExLU9DMzBUaWxmOHZkbVZVZ1ZNQjlvQ0ZKWjhYTjI5OVlQWGRCb0NaSElwal9MMzktQQ?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T13:44:17+00:00",
+          "title": "Taiwan's economy expected to grow at its fastest rate in nearly 50 years due to AI demand - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "72fc854562002fcccd8e26cf",
+      "topic": "ai",
+      "title": "2026 in photos: AI, robots and new technology - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQjE5WDFpRW9HTXZvS0dTbF9MTjBwQXh0VUVGcUEzeTc3QllSWm9tMUVvWHl4Tl9veFhhamxPUXVWbzhnRTdpTFRhOTRyNFh6Y3pXcXloN3lHNlZaemNhQ2kyVnZkR3U0LUVuSklGNDN3b0tVMEloSEY1N2dwWFhlMnFpRkpudTJNMjJz?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "2026 in photos: AI, robots and new technology Reuters",
+      "published_utc": "2026-11-27T10:30:12+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQjE5WDFpRW9HTXZvS0dTbF9MTjBwQXh0VUVGcUEzeTc3QllSWm9tMUVvWHl4Tl9veFhhamxPUXVWbzhnRTdpTFRhOTRyNFh6Y3pXcXloN3lHNlZaemNhQ2kyVnZkR3U0LUVuSklGNDN3b0tVMEloSEY1N2dwWFhlMnFpRkpudTJNMjJz?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T10:30:12+00:00",
+          "title": "2026 in photos: AI, robots and new technology - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "d980221b794864db1ba8ae7f",
+      "topic": "ai",
+      "title": "ChatGPT is eyeing Gemini’s job on Android, with ability to make calls, send texts, and more - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNXhINUp2WXNRU2lJeW4wYkJCMW5KRDhLLVlYbE9BRWw0NHJ0Zy1JQm9PdVVpQVpaTjlDMjY3Tkl0MlFoUWIxQTdfYmk3UEtwem5ySWFHRUZXZnJxSC1TYW1kWFNXOUdTUGhEWGhQcnlxMm5IMWhxdEJra3NBU2UwSVlqbllZZw?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "ChatGPT is eyeing Gemini’s job on Android, with ability to make calls, send texts, and more Android Authority",
+      "published_utc": "2026-11-27T12:07:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNXhINUp2WXNRU2lJeW4wYkJCMW5KRDhLLVlYbE9BRWw0NHJ0Zy1JQm9PdVVpQVpaTjlDMjY3Tkl0MlFoUWIxQTdfYmk3UEtwem5ySWFHRUZXZnJxSC1TYW1kWFNXOUdTUGhEWGhQcnlxMm5IMWhxdEJra3NBU2UwSVlqbllZZw?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T12:07:00+00:00",
+          "title": "ChatGPT is eyeing Gemini’s job on Android, with ability to make calls, send texts, and more - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "b3e2df48f17fabb6fd8eff35",
+      "topic": "smartphones",
+      "title": "OnePlus reveals ColorOS 17 plans for native apps, paid AI features, and more - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOEt6WHgtUEtKbm1naTF2UlBRa3g5ZDJSMWlKQUxfWDQ1cTJ5Unc2a2VEQVVVYkt2dUlKZF85enZGZC1SS3FnWjlSY3lhVjFYSERiRFJMYUpyZXNrNmJ2TFNNbjlBV2ZKNHBOSmhPbUZxSktacUdYRl9icGlvQnJEcWhYcEE2Tk1qOTRTRTNpVWdnUQ?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "OnePlus reveals ColorOS 17 plans for native apps, paid AI features, and more Android Authority",
+      "published_utc": "2026-11-26T21:54:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "スマートフォンへ分類",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOEt6WHgtUEtKbm1naTF2UlBRa3g5ZDJSMWlKQUxfWDQ1cTJ5Unc2a2VEQVVVYkt2dUlKZF85enZGZC1SS3FnWjlSY3lhVjFYSERiRFJMYUpyZXNrNmJ2TFNNbjlBV2ZKNHBOSmhPbUZxSktacUdYRl9icGlvQnJEcWhYcEE2Tk1qOTRTRTNpVWdnUQ?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T21:54:00+00:00",
+          "title": "OnePlus reveals ColorOS 17 plans for native apps, paid AI features, and more - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "e1e61dec57b36a0f189fb446",
+      "topic": "ai",
+      "title": "Gemini ran my errands on the Pixel 10 like I was in a sci-fi movie - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdWFfUTdWelN1VnZjcmpLNG5fRXlpcDZLT29QTkxWU2diSjR5MGtIem5kY0RQblpRMGo0WnlZTElLZWg0dzFyWDVpckc3Tl9TdnhsbFh6WkRKV3dPY2JQZW93eU1KNGc1clMwdnpFWnJUMDB2MjhzQXhOcEZBZmJiNnFqMXdtbVU?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Gemini ran my errands on the Pixel 10 like I was in a sci-fi movie Android Authority",
+      "published_utc": "2026-11-27T11:30:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdWFfUTdWelN1VnZjcmpLNG5fRXlpcDZLT29QTkxWU2diSjR5MGtIem5kY0RQblpRMGo0WnlZTElLZWg0dzFyWDVpckc3Tl9TdnhsbFh6WkRKV3dPY2JQZW93eU1KNGc1clMwdnpFWnJUMDB2MjhzQXhOcEZBZmJiNnFqMXdtbVU?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T11:30:00+00:00",
+          "title": "Gemini ran my errands on the Pixel 10 like I was in a sci-fi movie - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "f22c881cf3b0bcd258126e58",
+      "topic": "ai",
+      "title": "Gemini Live is testing a new Activity tab for all your agentic tasks - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNak5JR29nVHl6SkdwSm9iWjBRc2VEUmtYS3hfYzdVczRQZmgwaXliNnBnenBTWjlSb0pUbnRuZGRxYVVtdWprNmhRYWlrNkMwLVFuYUtaR2RFenliOXlPZ21uRW5rRXdwb0x0SDBpd2VzdWlaY3NXejNib1hnRzY5SmhseThpV0lOTTlBeHBKb2s2MjYtRlpLTDg1U0NTbHZneHYw?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Gemini Live is testing a new Activity tab for all your agentic tasks Android Authority",
+      "published_utc": "2026-11-27T13:18:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNak5JR29nVHl6SkdwSm9iWjBRc2VEUmtYS3hfYzdVczRQZmgwaXliNnBnenBTWjlSb0pUbnRuZGRxYVVtdWprNmhRYWlrNkMwLVFuYUtaR2RFenliOXlPZ21uRW5rRXdwb0x0SDBpd2VzdWlaY3NXejNib1hnRzY5SmhseThpV0lOTTlBeHBKb2s2MjYtRlpLTDg1U0NTbHZneHYw?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T13:18:00+00:00",
+          "title": "Gemini Live is testing a new Activity tab for all your agentic tasks - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "074aff9b2ba0155f30f0900c",
+      "topic": "smartphones",
+      "title": "Here's how much OnePlus could charge you for using ColorOS 17's AI features - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWGZ3Y0hscWJBQjljUF9tODVCbWhlYnI4M2podi1OTk84RU1qQzI1VG4wNG9nTUxMYkVrbEJWeEpUTTR0QndkWVJuLXNfQmxrd01yeTY2QkM3UmZHY0VhX3JwRzhVX19oU29IeGpJNEsxdkY4clFlTWV3b3ZYc1BfTXJHTzQySVBIUmh3?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Here's how much OnePlus could charge you for using ColorOS 17's AI features Android Authority",
+      "published_utc": "2026-11-27T08:26:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "スマートフォンへ分類",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWGZ3Y0hscWJBQjljUF9tODVCbWhlYnI4M2podi1OTk84RU1qQzI1VG4wNG9nTUxMYkVrbEJWeEpUTTR0QndkWVJuLXNfQmxrd01yeTY2QkM3UmZHY0VhX3JwRzhVX19oU29IeGpJNEsxdkY4clFlTWV3b3ZYc1BfTXJHTzQySVBIUmh3?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T08:26:00+00:00",
+          "title": "Here's how much OnePlus could charge you for using ColorOS 17's AI features - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "6dae75496b65b0e83900e461",
+      "topic": "smartphones",
+      "title": "OnePlus 15 and 15R ColorOS 17 update adds auto PC unlocking, smarter photo storage, and more - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ2lTTkNnYzFiNkl4RGdfMklLX24zOV80QWhJbXZTYjhpelNzSHRfUUpkZkVWcjJyQTJlQmpfeXZBWTZfWWMyUEVzcE1GblVldVdFdmNzT0k5WHA3bXpmRGpFYV9FV0xYZk5qblZYZFY1VFozbHlYcEVWWk1pOTdrQ2MxMzNoMUwxc2g0SF8wTFo?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "OnePlus 15 and 15R ColorOS 17 update adds auto PC unlocking, smarter photo storage, and more Android Authority",
+      "published_utc": "2026-11-27T07:06:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "スマートフォンへ分類",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ2lTTkNnYzFiNkl4RGdfMklLX24zOV80QWhJbXZTYjhpelNzSHRfUUpkZkVWcjJyQTJlQmpfeXZBWTZfWWMyUEVzcE1GblVldVdFdmNzT0k5WHA3bXpmRGpFYV9FV0xYZk5qblZYZFY1VFozbHlYcEVWWk1pOTdrQ2MxMzNoMUwxc2g0SF8wTFo?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T07:06:00+00:00",
+          "title": "OnePlus 15 and 15R ColorOS 17 update adds auto PC unlocking, smarter photo storage, and more - Android Authority"
         }
       ]
     }

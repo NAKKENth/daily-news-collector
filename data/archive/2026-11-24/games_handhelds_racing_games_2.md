@@ -1,5 +1,6 @@
-# racing_games / 2026-11-24 / 候補 51–69
+# racing_games / 2026-11-24 / 候補 51–70
 
+- [Paddock Wire 0.5.2 - overtake.gg](https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wb0hPU3NJYl9uNktVRUl6eTdyN2N2WnQweFdMYWR3aHdLV2dnSmN2T25pU3J0Yzhjam1Pa2lNUV83SEZXVFpuX1doS1pOemFYbHN1c2FGMFppazl6Y2NVSW5fUQ?oc=5) — OverTake｜要確認｜2026-11-23T16:19:09+00:00 UTC｜discovery_index
 - [Pastor Maldonado is back !!! (Kamui and Chadwick as well) 1.1 - overtake.gg](https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjJpdjJENHRPRXRBck1udlpxbkxKbjhDa3diZGV3cWVjYXQ3UUZoanlVbmxtSUZtN1gwLVhTWnExU1FIV2ZXN0JwZjJPSEQ5Wmd2UWx2QU4xdlVwRFUxaEd5Zi04NDJIS0tWN2k4SFBZczgxcEwzd2U2eGU5bm1zOGZqakhFZnFDOVJMaDVHSlgtNDFQSzlJ?oc=5) — OverTake｜要確認｜2026-11-23T17:20:38+00:00 UTC｜discovery_index
 - [Pit Start Indicator 0.9 - overtake.gg](https://news.google.com/rss/articles/CBMibEFVX3lxTE9CT0hiVWNKTmlndU0yaS1jMlpxbUJyQXMtQmdOZWx4QlNJMFYwQ0JPWElNaEtVTEZqRktsVEQ4WlRqMDV6aEp6ZGlGV1FNYm54YnFRRk16ek9hWFdlWjJ0SHhsbEQ3NzFuZzZaeA?oc=5) — OverTake｜要確認｜2026-11-24T06:50:15+00:00 UTC｜discovery_index
 - [Pit Wall 2.4.0 - overtake.gg](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sZHJBdlFmQ1hXX0g1ZkY1VnhWd2NseHN5OXh2cTNRV0ExVlh6WlE4OVVrRElNdkdsb1lGdC1lTW1zSEVTQ1g2Yi1CSU8wZDRLVGhLbkRJU1RIVWprd3c?oc=5) — OverTake｜要確認｜2026-11-23T21:45:32+00:00 UTC｜discovery_index

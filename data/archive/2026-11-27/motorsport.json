@@ -32,6 +32,32 @@
       ]
     },
     {
+      "id": "84c930ceb9e30305d9975b25",
+      "topic": "NASCAR",
+      "title": "Noah Gragson Archives - NASCAR.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81cnhPMWs0bFlmM2dibG1BS1FVN1RDSHdiRldvTDcwVWdUdkg5UlktYmhEVmd2R3Q5VFNYU2hLQ016T3pWZk1zV2U3dVY4bHNzQlFTYW1kazA2RnpMekkxbmMzVm5RbU9QemhSNFpFek5odw?oc=5",
+      "source": "NASCAR Official",
+      "publisher": "NASCAR.com",
+      "description": "Noah Gragson Archives NASCAR.com",
+      "published_utc": "2026-11-27T01:21:59+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81cnhPMWs0bFlmM2dibG1BS1FVN1RDSHdiRldvTDcwVWdUdkg5UlktYmhEVmd2R3Q5VFNYU2hLQ016T3pWZk1zV2U3dVY4bHNzQlFTYW1kazA2RnpMekkxbmMzVm5RbU9QemhSNFpFek5odw?oc=5",
+          "source": "NASCAR Official",
+          "publisher": "NASCAR.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T01:21:59+00:00",
+          "title": "Noah Gragson Archives - NASCAR.com"
+        }
+      ]
+    },
+    {
       "id": "c7f34738962f5c26b6597e5e",
       "topic": "NASCAR",
       "title": "Ross Chastain Archives - NASCAR.com",
@@ -39,7 +65,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Ross Chastain Archives NASCAR.com",
-      "published_utc": "2026-11-27T07:29:24+00:00",
+      "published_utc": "2026-11-27T06:29:24+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -52,7 +78,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T07:29:24+00:00",
+          "published_utc": "2026-11-27T06:29:24+00:00",
           "title": "Ross Chastain Archives - NASCAR.com"
         }
       ]
@@ -247,7 +273,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "NASCAR Cup Series Archives NASCAR.com",
-      "published_utc": "2026-11-27T06:57:49+00:00",
+      "published_utc": "2026-11-27T03:57:49+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -260,7 +286,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T06:57:49+00:00",
+          "published_utc": "2026-11-27T03:57:49+00:00",
           "title": "NASCAR Cup Series Archives - NASCAR.com"
         }
       ]
@@ -273,7 +299,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Drivers Archives NASCAR.com",
-      "published_utc": "2026-11-27T06:19:22+00:00",
+      "published_utc": "2026-11-27T04:19:22+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -286,7 +312,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T06:19:22+00:00",
+          "published_utc": "2026-11-27T04:19:22+00:00",
           "title": "Drivers Archives - NASCAR.com"
         }
       ]
@@ -299,7 +325,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Racing Teams Archives NASCAR.com",
-      "published_utc": "2026-11-27T06:57:18+00:00",
+      "published_utc": "2026-11-27T03:57:18+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -312,7 +338,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T06:57:18+00:00",
+          "published_utc": "2026-11-27T03:57:18+00:00",
           "title": "Racing Teams Archives - NASCAR.com"
         }
       ]
@@ -452,16 +478,16 @@
     {
       "id": "c3aef992e2c148099b7895e5",
       "topic": "WEC",
-      "title": "WEC: Ford presenta la GT41, l’eredità della GT40 nella nuova Hypercar per Le Mans",
+      "title": "WEC: Ford presenta la GT41, l&#8217;eredità della GT40 nella nuova Hypercar per Le Mans",
       "url": "https://autoracer.it/wec-ford-presenta-la-gt41-leredita-della-gt40-nella-nuova-hypercar-per-le-mans",
       "source": "AutoRacer",
       "publisher": "AutoRacer",
-      "description": "Ford Racing ha tolto i veli alla GT41, Hypercar pronta ad esordire nel WEC, basata sul telaio Oreca e spinta dal motore Coyote V8 aspirato da 5,4 litri, fondamentali su cui a Dearborn, Michigan, hanno pianificato il ritorno nella classifica regina dell’endurance e della 24 Ore di Le Mans a 60 anni dai mitici traguardi […] L'articolo WEC: Ford prese",
+      "description": "Ford ha tolto i veli alla Hypercar per il WEC e la 24 Ore di Le Mans: si chiama GT41 e punta a raccogliere l'eredità dell'iconica GT40",
       "published_utc": "2026-11-26T18:00:13+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -469,11 +495,15 @@
           "url": "https://autoracer.it/wec-ford-presenta-la-gt41-leredita-della-gt40-nella-nuova-hypercar-per-le-mans",
           "source": "AutoRacer",
           "publisher": "AutoRacer",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T18:00:13+00:00",
-          "title": "WEC: Ford presenta la GT41, l’eredità della GT40 nella nuova Hypercar per Le Mans"
+          "title": "WEC: Ford presenta la GT41, l&#8217;eredità della GT40 nella nuova Hypercar per Le Mans"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T18:00:13+00:00",
+      "article_modified_raw": "2026-11-26T18:02:25+00:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "03651d85663b147ba351440c",
@@ -649,7 +679,9 @@
           "published_utc": "2026-11-26T19:05:20+00:00",
           "title": "Why Max Verstappen has ruled out Indy 500 entry"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://www.motorsport.com/f1/news/why-max-verstappen-has-ruled-out-indy-500-entry/10878029"
     },
     {
       "id": "ba76921a71645a987901a26b",
@@ -2465,7 +2497,7 @@
       "source": "NASCAR Official",
       "publisher": "NASCAR.com",
       "description": "Series Archives NASCAR.com",
-      "published_utc": "2026-11-27T07:11:20+00:00",
+      "published_utc": "2026-11-27T04:11:20+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -2478,7 +2510,7 @@
           "source": "NASCAR Official",
           "publisher": "NASCAR.com",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T07:11:20+00:00",
+          "published_utc": "2026-11-27T04:11:20+00:00",
           "title": "Series Archives - NASCAR.com"
         }
       ]
@@ -3865,9 +3897,9 @@
       "description": "Charles Leclerc and Lewis Hamilton held another round of talks between them ahead of the Qatar Grand Prix after their Las Vegas clash.",
       "published_utc": "2026-11-26T16:00:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -3875,11 +3907,15 @@
           "url": "https://racingnews365.com/charles-leclerc-banned-by-ferrari-from-speaking-out-on-lewis-hamilton-clash-sanctions",
           "source": "RacingNews365",
           "publisher": "RacingNews365",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T16:00:00+00:00",
           "title": "Charles Leclerc explains why he is 'not allowed' to address Lewis Hamilton clash sanctions"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T17:00:00+01:00",
+      "article_modified_raw": "2026-11-27T11:47:52+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "f17293115cf113351e597387",
@@ -3910,16 +3946,16 @@
     {
       "id": "0c277ff764a75735940d2a5b",
       "topic": "F1",
-      "title": "Russell: “Immenso rispetto per Verstappen. Mi rimprovero la trasparenza con i giornalisti”",
+      "title": "Russell: &#8220;Immenso rispetto per Verstappen. Mi rimprovero la trasparenza con i giornalisti&#8221;",
       "url": "https://autoracer.it/russell-immenso-rispetto-per-verstappen-mi-rimprovero-la-trasparenza-con-i-giornalisti",
       "source": "AutoRacer",
       "publisher": "AutoRacer",
-      "description": "Fra gli highlights dell’ultimo weekend a Las Vegas ci sono senz’altro gli screzi fra Max Verstappen e George Russell, che dall’incontro ravvicinato delle terze libere si sono protratti fino al post gara della domenica, con le dichiarazioni bollenti da parte del quattro volte iridato di casa Red Bull. Nella conferenza stampa che ha fatto da […] L'ar",
+      "description": "George Russell torna sugli screzi con Max Verstappen: le parole del pilota Mercedes nella conferenza stampa in Qatar.",
       "published_utc": "2026-11-26T20:06:03+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -3927,11 +3963,15 @@
           "url": "https://autoracer.it/russell-immenso-rispetto-per-verstappen-mi-rimprovero-la-trasparenza-con-i-giornalisti",
           "source": "AutoRacer",
           "publisher": "AutoRacer",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T20:06:03+00:00",
-          "title": "Russell: “Immenso rispetto per Verstappen. Mi rimprovero la trasparenza con i giornalisti”"
+          "title": "Russell: &#8220;Immenso rispetto per Verstappen. Mi rimprovero la trasparenza con i giornalisti&#8221;"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T20:06:03+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "0dc7e62641067bc2f24d8b77",
@@ -5036,16 +5076,16 @@
     {
       "id": "7208e74baeebf9a2e731273c",
       "topic": "F1",
-      "title": "Verstappen: “Polemica con Russell? Nulla da aggiungere. E sul ritorno del V8….”",
+      "title": "Verstappen: &#8220;Polemica con Russell? Nulla da aggiungere. E sul ritorno del V8&#8230;.&#8221;",
       "url": "https://autoracer.it/verstappen-polemica-con-russell-nulla-da-aggiungere-e-sul-ritorno-del-v8",
       "source": "AutoRacer",
       "publisher": "AutoRacer",
-      "description": "Alla vigilia del Gran Premio del Qatar, Max Verstappen prova a voltare pagina dopo le tensioni di Las Vegas. Il successo conquistato negli Stati Uniti non ha infatti cancellato le polemiche con George Russell, che il quattro volte campione del mondo non intende alimentare ulteriormente. “Non ho più niente da dire al riguardo. Ho detto […] L'articol",
+      "description": "Verstappen archivia le polemiche con Russell e guarda al futuro della F1: \"Con i V8 è tutto più bello, serve un motore più semplice\".",
       "published_utc": "2026-11-27T10:02:25+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -5053,11 +5093,15 @@
           "url": "https://autoracer.it/verstappen-polemica-con-russell-nulla-da-aggiungere-e-sul-ritorno-del-v8",
           "source": "AutoRacer",
           "publisher": "AutoRacer",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T10:02:25+00:00",
-          "title": "Verstappen: “Polemica con Russell? Nulla da aggiungere. E sul ritorno del V8….”"
+          "title": "Verstappen: &#8220;Polemica con Russell? Nulla da aggiungere. E sul ritorno del V8&#8230;.&#8221;"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T10:02:25+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "71a4628eaa5ccb07b08655ba",
@@ -6737,7 +6781,9 @@
           "published_utc": "2026-11-27T08:05:46+00:00",
           "title": "フェルスタッペン、インディ500参戦に消極的。”義父”ネルソン・ピケのクラッシュも引き合いに「彼のその後を知っている身からすると……」"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "993a6402915dccb18e2229fa",
@@ -6789,7 +6835,9 @@
           "published_utc": "2026-11-27T07:07:36+00:00",
           "title": "フェルスタッペン担当エンジニアのランビアーゼ、カタールGPを「個人的な事情」で欠席"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "5e65a12d36157f671b9bba38",
@@ -6841,7 +6889,9 @@
           "published_utc": "2026-11-27T03:36:34+00:00",
           "title": "ラッセル、フェルスタッペンとの舌戦を反省？ 発言撤回はせず「正直すぎたのも問題だったのかも」"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "77a5cc70972b5300605d3902",
@@ -6867,7 +6917,9 @@
           "published_utc": "2026-11-27T03:18:12+00:00",
           "title": "同士討ち多発のフェラーリ、今も“自由なレース”が許可されているとハミルトン「ルクレールとも腰を据えて話した。外から見えるほど深刻ではない」"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "e0c3560a6b88ac6f69884521",
@@ -6949,7 +7001,9 @@
           "published_utc": "2026-11-27T01:26:29+00:00",
           "title": "アロンソ、カタールGPのメディアデーを欠席。ウイルス性感染症に罹患……走行には間に合う？"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://jp.motorsport.com/f1/news/fernando-alonso-to-miss-qatar-f1-media-day-with-viral-illness/10878063"
     },
     {
       "id": "46e42ea6ea247c4726d2439b",
@@ -7001,7 +7055,9 @@
           "published_utc": "2026-11-26T23:08:36+00:00",
           "title": "フェラーリ代表、同士討ちのルクレールに一切擁護なし「ペナルティは明確だった。ルールの問題ではないんだ」"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "71a51e1fe80e0773bbeae0c9",
@@ -7281,9 +7337,9 @@
       "description": "F1 is racing in Qatar this weekend despite the ongoing conflict in the Middle East, which had long cast doubt over the event going ahead.",
       "published_utc": "2026-11-27T13:00:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -7291,11 +7347,15 @@
           "url": "https://racingnews365.com/carlos-sainz-confirms-evacuation-plan-for-f1-qatar-grand-prix",
           "source": "RacingNews365",
           "publisher": "RacingNews365",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T13:00:00+00:00",
           "title": "Carlos Sainz confirms evacuation plan for F1 Qatar Grand Prix"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T14:00:00+01:00",
+      "article_modified_raw": "2026-11-27T23:02:44+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "26c1c5739ed43898b0e462f9",
@@ -7385,9 +7445,9 @@
       "description": "Most of the F1 drivers gathered in Qatar on Thursday evening to discuss stewarding decisions and in-race penalties.",
       "published_utc": "2026-11-27T10:30:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -7395,11 +7455,15 @@
           "url": "https://racingnews365.com/f1-drivers-share-details-of-crunch-meeting-over-in-race-penalties",
           "source": "RacingNews365",
           "publisher": "RacingNews365",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T10:30:00+00:00",
           "title": "F1 drivers share details of crunch meeting over in-race penalties"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T11:30:00+01:00",
+      "article_modified_raw": "2026-11-27T13:21:33+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "60652a25f98cd3b7dc0a5eb1",
@@ -10117,7 +10181,7 @@
       "source": "PlanetF1",
       "publisher": "PlanetF1",
       "description": "Charles Leclerc tight-lipped on Ferrari response to Lewis Hamilton clashes PlanetF1",
-      "published_utc": "2026-11-27T12:40:28+00:00",
+      "published_utc": "2026-11-27T10:48:48+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -10130,7 +10194,7 @@
           "source": "PlanetF1",
           "publisher": "PlanetF1",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T12:40:28+00:00",
+          "published_utc": "2026-11-27T10:48:48+00:00",
           "title": "Charles Leclerc tight-lipped on Ferrari response to Lewis Hamilton clashes - PlanetF1"
         }
       ]
@@ -10158,6 +10222,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-27T05:58:48+00:00",
           "title": "Nico Rosberg doubts George Russell’s title chances with ‘mental hole’ verdict - PlanetF1"
+        }
+      ]
+    },
+    {
+      "id": "1613fb1925f18b6049231eb1",
+      "topic": "F1",
+      "title": "F1 takes unprecedented action ahead of Qatar Grand Prix - PlanetF1",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VWFZfZFdXMTgzZ1lvOVdFRXI5VzVpRVlCYnpHdFNxZk5UZGVMRGRmV3BHN2FRX2J2UUo4ZUNpSjJWM3N5M1lXeG9FNnBkcW1FX2cxSXZQa3BOUjNSZUF0SkxpY2hqZDZ2VzZoQ0tnaVVqYWFoMGRaaQ?oc=5",
+      "source": "PlanetF1",
+      "publisher": "PlanetF1",
+      "description": "F1 takes unprecedented action ahead of Qatar Grand Prix PlanetF1",
+      "published_utc": "2026-11-27T07:08:48+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VWFZfZFdXMTgzZ1lvOVdFRXI5VzVpRVlCYnpHdFNxZk5UZGVMRGRmV3BHN2FRX2J2UUo4ZUNpSjJWM3N5M1lXeG9FNnBkcW1FX2cxSXZQa3BOUjNSZUF0SkxpY2hqZDZ2VzZoQ0tnaVVqYWFoMGRaaQ?oc=5",
+          "source": "PlanetF1",
+          "publisher": "PlanetF1",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T07:08:48+00:00",
+          "title": "F1 takes unprecedented action ahead of Qatar Grand Prix - PlanetF1"
         }
       ]
     },
@@ -10455,7 +10545,7 @@
       "source": "AMuS",
       "publisher": "Auto Motor und Sport",
       "description": "TVR Griffith: Mit Lotus-Hilfe endlich zum Start Auto Motor und Sport",
-      "published_utc": "2026-11-27T04:40:58+00:00",
+      "published_utc": "2026-11-27T11:35:41+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -10468,7 +10558,7 @@
           "source": "AMuS",
           "publisher": "Auto Motor und Sport",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T04:40:58+00:00",
+          "published_utc": "2026-11-27T11:35:41+00:00",
           "title": "TVR Griffith: Mit Lotus-Hilfe endlich zum Start - Auto Motor und Sport"
         }
       ]
@@ -10481,7 +10571,7 @@
       "source": "AMuS",
       "publisher": "Auto Motor und Sport",
       "description": "Mehr Radstand als der X7, aber fünf statt sieben Sitze: BMW streckt den iX5 für China. Auto Motor und Sport",
-      "published_utc": "2026-11-27T05:49:36+00:00",
+      "published_utc": "2026-11-27T09:45:41+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -10494,7 +10584,7 @@
           "source": "AMuS",
           "publisher": "Auto Motor und Sport",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T05:49:36+00:00",
+          "published_utc": "2026-11-27T09:45:41+00:00",
           "title": "Mehr Radstand als der X7, aber fünf statt sieben Sitze: BMW streckt den iX5 für China. - Auto Motor und Sport"
         }
       ]
@@ -10689,7 +10779,7 @@
       "source": "AMuS",
       "publisher": "Auto Motor und Sport",
       "description": "Maximal 18 Millionen Dollar: Warum das F1-Kundengeschäft verlustreich ist Auto Motor und Sport",
-      "published_utc": "2026-11-27T04:47:33+00:00",
+      "published_utc": "2026-11-27T05:37:41+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -10702,7 +10792,7 @@
           "source": "AMuS",
           "publisher": "Auto Motor und Sport",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T04:47:33+00:00",
+          "published_utc": "2026-11-27T05:37:41+00:00",
           "title": "Maximal 18 Millionen Dollar: Warum das F1-Kundengeschäft verlustreich ist - Auto Motor und Sport"
         }
       ]
@@ -10730,32 +10820,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-27T10:11:51+00:00",
           "title": "VW Golf GTI 1976 Sondermodell: Mit 50 noch kein bisschen greise - Auto Motor und Sport"
-        }
-      ]
-    },
-    {
-      "id": "4f1f80f6b0dc93f0a05312a5",
-      "topic": "F1",
-      "title": "VBAE 4x4: Das ist der neue europäische Militär-SUV - Auto Motor und Sport",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0gxbnlVMVN3Zk9sTE40T2I3aHQ0elJSSWRPUEZoMEc3aExZY0dIWUhsb3hWNm9HNGFyLTVJc012TFlnbGx4LTJJeHV4MmhrU0V5bVNuNDQ2am82dWd6UEdHS2V3eWlBT2I5d3FYaHAxR2o4V2FZeG1ObzRNN0ZtS3VjbnBMcERYRV82RHNhV3lhamVKeHJIaUlDZ0s3NzE5VHJnR3Zia1pqZHlaLVE0RlVn?oc=5",
-      "source": "AMuS",
-      "publisher": "Auto Motor und Sport",
-      "description": "VBAE 4x4: Das ist der neue europäische Militär-SUV Auto Motor und Sport",
-      "published_utc": "2026-11-27T07:15:41+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "競技・記事内容の確認待ち",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0gxbnlVMVN3Zk9sTE40T2I3aHQ0elJSSWRPUEZoMEc3aExZY0dIWUhsb3hWNm9HNGFyLTVJc012TFlnbGx4LTJJeHV4MmhrU0V5bVNuNDQ2am82dWd6UEdHS2V3eWlBT2I5d3FYaHAxR2o4V2FZeG1ObzRNN0ZtS3VjbnBMcERYRV82RHNhV3lhamVKeHJIaUlDZ0s3NzE5VHJnR3Zia1pqZHlaLVE0RlVn?oc=5",
-          "source": "AMuS",
-          "publisher": "Auto Motor und Sport",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T07:15:41+00:00",
-          "title": "VBAE 4x4: Das ist der neue europäische Militär-SUV - Auto Motor und Sport"
         }
       ]
     },
@@ -10845,7 +10909,7 @@
       "source": "AMuS",
       "publisher": "Auto Motor und Sport",
       "description": "650 PS, Geländereifen und knapp 310 mm Bodenfreiheit: Bentley gibt neue Hinweise auf Gelände-Bentayga. Auto Motor und Sport",
-      "published_utc": "2026-11-27T07:47:33+00:00",
+      "published_utc": "2026-11-27T12:40:41+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -10858,7 +10922,7 @@
           "source": "AMuS",
           "publisher": "Auto Motor und Sport",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T07:47:33+00:00",
+          "published_utc": "2026-11-27T12:40:41+00:00",
           "title": "650 PS, Geländereifen und knapp 310 mm Bodenfreiheit: Bentley gibt neue Hinweise auf Gelände-Bentayga. - Auto Motor und Sport"
         }
       ]
@@ -11157,7 +11221,7 @@
       "source": "AMuS",
       "publisher": "Auto Motor und Sport",
       "description": "Der neue Mercedes GLY Hybrid ist da – und so viel kostet er Auto Motor und Sport",
-      "published_utc": "2026-11-27T11:55:41+00:00",
+      "published_utc": "2026-11-27T10:39:58+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -11170,7 +11234,7 @@
           "source": "AMuS",
           "publisher": "Auto Motor und Sport",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T11:55:41+00:00",
+          "published_utc": "2026-11-27T10:39:58+00:00",
           "title": "Der neue Mercedes GLY Hybrid ist da – und so viel kostet er - Auto Motor und Sport"
         }
       ]
@@ -11183,7 +11247,7 @@
       "source": "AMuS",
       "publisher": "Auto Motor und Sport",
       "description": "Nach Verstappens Spott: Russell überrascht mit versöhnlichen Worten Auto Motor und Sport",
-      "published_utc": "2026-11-27T10:55:32+00:00",
+      "published_utc": "2026-11-27T11:56:58+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -11196,7 +11260,7 @@
           "source": "AMuS",
           "publisher": "Auto Motor und Sport",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T10:55:32+00:00",
+          "published_utc": "2026-11-27T11:56:58+00:00",
           "title": "Nach Verstappens Spott: Russell überrascht mit versöhnlichen Worten - Auto Motor und Sport"
         }
       ]
@@ -11573,7 +11637,7 @@
       "source": "Formula 1 Official",
       "publisher": "Formula 1",
       "description": "All the stories that got the Qatar paddock talking Formula 1",
-      "published_utc": "2026-11-27T00:06:54+00:00",
+      "published_utc": "2026-11-26T23:48:50+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -11586,7 +11650,7 @@
           "source": "Formula 1 Official",
           "publisher": "Formula 1",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T00:06:54+00:00",
+          "published_utc": "2026-11-26T23:48:50+00:00",
           "title": "All the stories that got the Qatar paddock talking - Formula 1"
         }
       ]
@@ -12758,6 +12822,110 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-27T05:23:10+00:00",
           "title": "Isaac Ssozi - Jafari Lukenge - UMOSPOC Kabalega Rally 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "64812e9ca40d7a8837647fc3",
+      "topic": "F1",
+      "title": "2026 QATAR GRAND PRIX - Federation Internationale de l'Automobile",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd1hLVURxS2tyMEY0RXJKRHdaeE51YTlZdmFaakUxdGd1WmtfMk5scXd5OUUzZ1NfamxnT2hDenB3cDJVX0Z3UUg5NEdlR2Z3NWIwekpHWm5lTHVYSktFYmNLTmcwV3VpVHZHdEZudWg0N0tQWnJSX091S0kzcVdSMU5rY1pocUF0UVZnTjFfazdMdi1XdkRQM0Z0ZThnVHRoNjUxYU1KZktQZ2Z6UjZjdWVoRllaRzQ?oc=5",
+      "source": "FIA",
+      "publisher": "Federation Internationale de l'Automobile",
+      "description": "2026 QATAR GRAND PRIX Federation Internationale de l'Automobile",
+      "published_utc": "2026-11-27T10:07:06+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd1hLVURxS2tyMEY0RXJKRHdaeE51YTlZdmFaakUxdGd1WmtfMk5scXd5OUUzZ1NfamxnT2hDenB3cDJVX0Z3UUg5NEdlR2Z3NWIwekpHWm5lTHVYSktFYmNLTmcwV3VpVHZHdEZudWg0N0tQWnJSX091S0kzcVdSMU5rY1pocUF0UVZnTjFfazdMdi1XdkRQM0Z0ZThnVHRoNjUxYU1KZktQZ2Z6UjZjdWVoRllaRzQ?oc=5",
+          "source": "FIA",
+          "publisher": "Federation Internationale de l'Automobile",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T10:07:06+00:00",
+          "title": "2026 QATAR GRAND PRIX - Federation Internationale de l'Automobile"
+        }
+      ]
+    },
+    {
+      "id": "95def40dc2658e0cc694deff",
+      "topic": "F1",
+      "title": "2026 QATAR GRAND PRIX - Federation Internationale de l'Automobile",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV2NuTXFnTEdrV181MDA5TFc5WFEtMl9fWE83b21sNVZnaWgzMTJscWxwYnhRZVVia0JjbFVJWHVhcnZfdDFRaWpPY1BVSDlNSmgwZjF4el81U3VJNFo4ZHVFTDNraWZhRmljRVN6U3JEclRYZGpqUGo5Z3pTRmdmZEx1Y2N1SHB5eEZONWlfbGprMmM?oc=5",
+      "source": "FIA",
+      "publisher": "Federation Internationale de l'Automobile",
+      "description": "2026 QATAR GRAND PRIX Federation Internationale de l'Automobile",
+      "published_utc": "2026-11-27T13:53:53+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV2NuTXFnTEdrV181MDA5TFc5WFEtMl9fWE83b21sNVZnaWgzMTJscWxwYnhRZVVia0JjbFVJWHVhcnZfdDFRaWpPY1BVSDlNSmgwZjF4el81U3VJNFo4ZHVFTDNraWZhRmljRVN6U3JEclRYZGpqUGo5Z3pTRmdmZEx1Y2N1SHB5eEZONWlfbGprMmM?oc=5",
+          "source": "FIA",
+          "publisher": "Federation Internationale de l'Automobile",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T13:53:53+00:00",
+          "title": "2026 QATAR GRAND PRIX - Federation Internationale de l'Automobile"
+        }
+      ]
+    },
+    {
+      "id": "545c409da4df009feba93515",
+      "topic": "F1",
+      "title": "2026 LUSAIL EVENT - Federation Internationale de l'Automobile",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYnNidEdla0pldnJIUnEtWW55bndGY3c1NWdaU3V4aWxMTENBcDZ2Y3VLc0dWYVBoZXRpX2NFaV9ZMXlfSTBqSTlLTk9EOS1wUHJrVkE2OWZzTURURW5YaWhnQW93YU0wRnFrVUZ3bUx1Mk02TXlHeXdLS2RLUlpxbTZfdVYwakoxZXdCR2E5VVpKbG4yeWhGU2RGWGRweEFoT2xhaXJEV0JZX3hG?oc=5",
+      "source": "FIA",
+      "publisher": "Federation Internationale de l'Automobile",
+      "description": "2026 LUSAIL EVENT Federation Internationale de l'Automobile",
+      "published_utc": "2026-11-27T13:54:33+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYnNidEdla0pldnJIUnEtWW55bndGY3c1NWdaU3V4aWxMTENBcDZ2Y3VLc0dWYVBoZXRpX2NFaV9ZMXlfSTBqSTlLTk9EOS1wUHJrVkE2OWZzTURURW5YaWhnQW93YU0wRnFrVUZ3bUx1Mk02TXlHeXdLS2RLUlpxbTZfdVYwakoxZXdCR2E5VVpKbG4yeWhGU2RGWGRweEFoT2xhaXJEV0JZX3hG?oc=5",
+          "source": "FIA",
+          "publisher": "Federation Internationale de l'Automobile",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T13:54:33+00:00",
+          "title": "2026 LUSAIL EVENT - Federation Internationale de l'Automobile"
+        }
+      ]
+    },
+    {
+      "id": "8032cacfb0ebfddd345cf667",
+      "topic": "WEC",
+      "title": "Ford GT41 Hypercar, 2026 - RaceFans",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOU5XRHVTaTdOVE5iVU9qMTM2cVBqUHUzX1RXRlppQ0dhaFJ3VXFPQk02eHEwUDFkMmFxclo3Z0VtV05kUEcwTmJyNHNncFNFclpEWk9FeGZ6ZUxBWldSbWo3T1d2Ykw5RE1iWlNXUFFqVmdBS2pLZmg4VER3SHNPdnM5R2hjYWpfRGVnMGxnUXRBWEN0T2RvQ1J5V3Rudl9Jd2FhNG9SbGdxUmFiQkE?oc=5",
+      "source": "RaceFans",
+      "publisher": "RaceFans",
+      "description": "Ford GT41 Hypercar, 2026 RaceFans",
+      "published_utc": "2026-11-26T19:08:32+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技名一致・新規性の確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOU5XRHVTaTdOVE5iVU9qMTM2cVBqUHUzX1RXRlppQ0dhaFJ3VXFPQk02eHEwUDFkMmFxclo3Z0VtV05kUEcwTmJyNHNncFNFclpEWk9FeGZ6ZUxBWldSbWo3T1d2Ykw5RE1iWlNXUFFqVmdBS2pLZmg4VER3SHNPdnM5R2hjYWpfRGVnMGxnUXRBWEN0T2RvQ1J5V3Rudl9Jd2FhNG9SbGdxUmFiQkE?oc=5",
+          "source": "RaceFans",
+          "publisher": "RaceFans",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T19:08:32+00:00",
+          "title": "Ford GT41 Hypercar, 2026 - RaceFans"
         }
       ]
     }

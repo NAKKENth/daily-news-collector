@@ -49,4 +49,4 @@
 - [Bezzecchi denies Marquez top spot in overshadowed practice](https://www.the-race.com/motogp/bezzecchi-denies-marquez-top-spot-in-overshadowed-practice) — The Race｜要確認｜2026-11-27T10:50:02+00:00 UTC｜feed_published
 - [Bezzecchi: “Titolo Costruttori è importantissimo per Aprilia. Faremo il massimo per ottenerlo”](https://www.formulapassion.it/motogp/motogp-news/bezzecchi-titolo-costruttori-e-importantissimo-per-aprilia-faremo-il-massimo-per-ottenerlo) — FormulaPassion｜要確認｜2026-11-26T16:21:05+00:00 UTC｜feed_published
 - [Brain bleed denied desperate Bagnaia Ducati farewell](https://www.the-race.com/motogp/brain-bleed-denied-desperate-bagnaia-ducati-farewell) — The Race｜要確認｜2026-11-26T15:05:57+00:00 UTC｜feed_published
-- [Carlos Sainz confirms evacuation plan for F1 Qatar Grand Prix](https://racingnews365.com/carlos-sainz-confirms-evacuation-plan-for-f1-qatar-grand-prix) — RacingNews365｜要確認｜2026-11-27T13:00:00+00:00 UTC｜feed_published
+- [Carlos Sainz confirms evacuation plan for F1 Qatar Grand Prix](https://racingnews365.com/carlos-sainz-confirms-evacuation-plan-for-f1-qatar-grand-prix) — RacingNews365｜要確認｜2026-11-27T13:00:00+00:00 UTC｜article_metadata

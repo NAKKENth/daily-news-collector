@@ -2529,6 +2529,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "対象オーディオ候補",
+      "possible_event_id": "65182d3cf2e4",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iOGNPcHBCeGxsby04dU94Xy01ZEp5QThEM0U4ZXRDUXp4MXNicDBwLWZOOFFyNkVGZXMwOEhmTGh0c19KdVBnajNyRUhDRmFJWU11TFIxZk1YYXhXeGRaWm8wdldsaFY2WUdJY2hYX2lQUDZDM1JOT2FaNGI3NW8?oc=5",
@@ -2641,6 +2642,33 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T08:00:00+00:00",
           "title": "Closed: withdrawn - Head-Fi.org"
+        }
+      ]
+    },
+    {
+      "id": "9223ffb5622ce9582c8cd7c8",
+      "topic": "tws",
+      "title": "JBL Live 780NC | Wireless over-ear Noise Cancelling headphones - JBL",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SdGxEOFBsZ3BDREhEWHZJdVNpOVVIaXk2ZXpFanlMcllXZ2VWWkxadk1RdWR3NkJ0Zm9BSzFkUGI5X2RsN2t0TGEyc09Yc01NVG5USkh0a0hPbTFQOThfMlhhRkFkaGV6SUVhM3BhVE90RHk5YzNBSTNqTXdnajQ?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "JBL Live 780NC | Wireless over-ear Noise Cancelling headphones JBL",
+      "published_utc": "2026-11-24T13:31:41+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "possible_event_id": "65182d3cf2e4",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SdGxEOFBsZ3BDREhEWHZJdVNpOVVIaXk2ZXpFanlMcllXZ2VWWkxadk1RdWR3NkJ0Zm9BSzFkUGI5X2RsN2t0TGEyc09Yc01NVG5USkh0a0hPbTFQOThfMlhhRkFkaGV6SUVhM3BhVE90RHk5YzNBSTNqTXdnajQ?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T13:31:41+00:00",
+          "title": "JBL Live 780NC | Wireless over-ear Noise Cancelling headphones - JBL"
         }
       ]
     }

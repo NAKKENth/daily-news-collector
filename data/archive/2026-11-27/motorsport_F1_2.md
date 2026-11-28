@@ -1,6 +1,6 @@
 # F1 / 2026-11-27 / 候補 51–100
 
-- [Charles Leclerc explains why he is 'not allowed' to address Lewis Hamilton clash sanctions](https://racingnews365.com/charles-leclerc-banned-by-ferrari-from-speaking-out-on-lewis-hamilton-clash-sanctions) — RacingNews365｜要確認｜2026-11-26T16:00:00+00:00 UTC｜feed_published
+- [Charles Leclerc explains why he is 'not allowed' to address Lewis Hamilton clash sanctions](https://racingnews365.com/charles-leclerc-banned-by-ferrari-from-speaking-out-on-lewis-hamilton-clash-sanctions) — RacingNews365｜要確認｜2026-11-26T16:00:00+00:00 UTC｜article_metadata
 - [Charles Leclerc urges "solution" after several clashes with Lewis Hamilton](https://www.motorsport.com/f1/news/charles-leclerc-urges-to-find-solution-after-several-clashes-with-lewis-hamilton/10877951) — Motorsport EN F1｜要確認｜2026-11-26T16:22:36+00:00 UTC｜feed_published
 - [Christian Horner and Geri Halliwell reportedly snap up "Pride and Prejudice" mansion](https://www.motorsport.com/f1/news/christian-horner-and-geri-halliwell-reportedly-snap-up-pride-and-prejudice-mansion/10878015) — Motorsport EN F1｜要確認｜2026-11-26T18:20:23+00:00 UTC｜feed_published
 - [Drivers divided on how F1's 2030 overtaking aid should work](https://www.the-race.com/formula-1/drivers-divided-on-how-f1s-2030-overtaking-aid-should-work) — The Race｜要確認｜2026-11-27T09:20:19+00:00 UTC｜feed_published
@@ -8,7 +8,7 @@
 - [Everything we learned on day one of F1's 2026 Qatar Grand Prix](https://www.the-race.com/formula-1/everything-we-learned-on-day-one-of-f1s-2026-qatar-grand-prix) — The Race｜要確認｜2026-11-26T21:17:07+00:00 UTC｜feed_published
 - [F1 drivers go through quizzical exercise in stewarding debate](https://www.autosport.com/f1/news/f1-drivers-go-through-quizzical-exercise-in-stewarding-debate/10878073) — Autosport F1｜要確認｜2026-11-27T10:30:13+00:00 UTC｜feed_published
 - [F1 drivers just played Kahoot! on real stewards' decisions](https://www.the-race.com/formula-1/fia-used-a-game-to-get-f1-drivers-feedback-on-2026-incidents) — The Race｜要確認｜2026-11-26T21:14:24+00:00 UTC｜feed_published
-- [F1 drivers share details of crunch meeting over in-race penalties](https://racingnews365.com/f1-drivers-share-details-of-crunch-meeting-over-in-race-penalties) — RacingNews365｜要確認｜2026-11-27T10:30:00+00:00 UTC｜feed_published
+- [F1 drivers share details of crunch meeting over in-race penalties](https://racingnews365.com/f1-drivers-share-details-of-crunch-meeting-over-in-race-penalties) — RacingNews365｜要確認｜2026-11-27T10:30:00+00:00 UTC｜article_metadata
 - [F1カタールGP FP1速報｜王者アントネッリ、ミディアムタイヤで最速タイム。アストンマーティン・ホンダ勢は19＆20番手](https://jp.motorsport.com/f1/news/f1-2026-rd22-qatar-fp1-sokuho-report/10878221) — Motorsport JP｜要確認｜2026-11-27T14:31:55+00:00 UTC｜feed_published
 - [FP1 Qatar, Antonelli parte forte: miglior tempo davanti a Russell. Avvio in sordina per la Ferrari](https://autoracer.it/fp1-qatar-antonelli-parte-forte-miglior-tempo-davanti-a-russell-avvio-in-sordina-per-la-ferrari) — AutoRacer｜要確認｜2026-11-27T14:41:44+00:00 UTC｜feed_published
 - [Ferrari, Leclerc: “Nessuna clausola per essere prima guida. Le parole di Vasseur? Devo accettarle”](https://autoracer.it/leclerc-conferenza-stampa-lusail-hamilton-contratto-ferrari-gp-qatar) — AutoRacer｜要確認｜2026-11-26T15:46:03+00:00 UTC｜feed_published

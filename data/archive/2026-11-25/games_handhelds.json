@@ -379,6 +379,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "レースゲーム候補",
+      "possible_event_id": "a3a3a9f8ab07",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ3Awel9TeDJuT2UtNjJ6Z1dLWDQzcEExVUs4WG1SeVZoTzhQQ1FJeXZQbWxPNFdLRXF3cmRLSkZCc3lxVU9Oc1R4M2lpbV9WRlVyeWF1ZHkxM2xmU1VCTDRrNnpVbEp2emJFd2lGYTlydlJnemd1RkdGYkM5NzRUZ042aE9xZkMtT3pWZW9jaVkwRjFrbXl0UG5KdDFfcEQ5ejVvdkhUYTBNd3lRQzdqTE1FT1FLbGc1aG53TXA2MFc?oc=5",
@@ -5375,6 +5376,32 @@
       ]
     },
     {
+      "id": "5cda12ebb9a66fa22f14443e",
+      "topic": "racing_games",
+      "title": "rFuktor2 - Eddie de Beer & Friends Tribute - FFB R12 Natural Tire - Reviews - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQekFEYWtXSW5UdGU3QllneTNOd0V2RnI5aXpkVlBIei15RVZMUjVXTEtjeDMwcGdkTENqR2ZvbHVxbTJYVGJoZHgtZl9nQnBfRnUyZHpUenA2T0gtVmhyZVZVdXRQM0pfZ21ESEJMSF9QWlBueWpwSHIzSVRHUWUyUkdlUnZXQU1ONzVtUWtnRzk3X1RySmI2Vk9CbGMwWlBzTGEzS3AtSEIxNW8?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "rFuktor2 - Eddie de Beer & Friends Tribute - FFB R12 Natural Tire - Reviews overtake.gg",
+      "published_utc": "2026-11-25T08:35:07+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQekFEYWtXSW5UdGU3QllneTNOd0V2RnI5aXpkVlBIei15RVZMUjVXTEtjeDMwcGdkTENqR2ZvbHVxbTJYVGJoZHgtZl9nQnBfRnUyZHpUenA2T0gtVmhyZVZVdXRQM0pfZ21ESEJMSF9QWlBueWpwSHIzSVRHUWUyUkdlUnZXQU1ONzVtUWtnRzk3X1RySmI2Vk9CbGMwWlBzTGEzS3AtSEIxNW8?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T08:35:07+00:00",
+          "title": "rFuktor2 - Eddie de Beer & Friends Tribute - FFB R12 Natural Tire - Reviews - overtake.gg"
+        }
+      ]
+    },
+    {
       "id": "fbca4ac0bbccdc9c6d4ea0ed",
       "topic": "racing_games",
       "title": "rFuktor2 - Eddie de Beer & Friends Tribute - FFB R12 Natural Tire 1.0 - overtake.gg",
@@ -6048,6 +6075,33 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-25T06:05:07+00:00",
           "title": "Goblin Company - Steam"
+        }
+      ]
+    },
+    {
+      "id": "cbe97d02c8654651b86ea742",
+      "topic": "racing_games",
+      "title": "Assetto Corsa Rally Debuts In The OverTake Racing Club - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zd1paal8tazRiYmhFc2EzNW1VUnJUWjJ5NEd6TGRsckZKdzhVOF93MnpMV24tM2dwR2NTTVZ1ckpBLUJ5VUtJenVKQjlYYjlBMGNNRXZXd1U?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Assetto Corsa Rally Debuts In The OverTake Racing Club overtake.gg",
+      "published_utc": "2026-11-25T09:54:24+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "possible_event_id": "a3a3a9f8ab07",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zd1paal8tazRiYmhFc2EzNW1VUnJUWjJ5NEd6TGRsckZKdzhVOF93MnpMV24tM2dwR2NTTVZ1ckpBLUJ5VUtJenVKQjlYYjlBMGNNRXZXd1U?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T09:54:24+00:00",
+          "title": "Assetto Corsa Rally Debuts In The OverTake Racing Club - overtake.gg"
         }
       ]
     }

@@ -1,5 +1,6 @@
-# IndyCar / 2026-11-26 / 候補 1–26
+# IndyCar / 2026-11-26 / 候補 1–27
 
+- [Latest NTT INDYCAR SERIES News and Results | Official Site of INDYCAR - INDYCAR.com](https://news.google.com/rss/articles/CBMiQEFVX3lxTFBxV01QMldQckhaUnZKejRaT2t0OHg5dEkxakZfS0pFSkpFclpVSUx4OUItQ1hrUlJFS3htczcwTUE?oc=5) — IndyCar Official｜優先｜2026-11-26T01:09:27+00:00 UTC｜discovery_index
 - [AF Corse confirms full-time IMSA GTD program - RACER - Racing News](https://news.google.com/rss/articles/CBMigwFBVV95cUxNNU11azg2UGF6ZmxMcVdGSG1TMDcyeXhvRkoyaFNJb1JfU2RtbkllOGJKbGR4WmZUNDdlZzJTb2gwbl9lMm1CMkRzVlpRUmJwWk1YcHI4RGVJV3dJSzdCbnhHYU5xVElkMkVzX3VWS2JRRm8xWmhGcmdRZVN3dWppWWNMNA?oc=5) — RACER｜要確認｜2026-11-25T16:45:00+00:00 UTC｜discovery_index
 - [Best/Worst: Sebastien Bourdais - RACER - Racing News](https://news.google.com/rss/articles/CBMiakFVX3lxTE1XVGM0U1U3OGhrNHc5YWkyZFgxNFI3TkJfeHNnc1VOeTVoSXNQeFdqOWJrTWptRE8zWUcyWFpnT19iWXE5YkRFTDQ2ajA4QndPREMxNHBGUU0zSjNPQ0ltVG9fdzczZXNib1E?oc=5) — RACER｜要確認｜2026-11-26T10:00:00+00:00 UTC｜discovery_index
 - [Court finds that Gibbs hasn’t proven Spire has stolen trade secrets - RACER - Racing News](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdW1uVlYxWF9yQklGZ1pueWo4X2tVNnpEWm5NX0FnMENiYTNNRG4wa3pRNHZfbFExaWxnb19PSXFrNFdGZDQwNEdURzJobkViR3BDajRBcXJxUkNSb0lwQU13X0w4clNoQ1p4YWNIQ0k3bzBUZktzVGtVaGFSR1BkY3Vnekg3YWMxYXlqWjVRVGQxMGllemozeUZtREE?oc=5) — RACER｜要確認｜2026-11-25T20:39:00+00:00 UTC｜discovery_index

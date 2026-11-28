@@ -169,7 +169,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Getting started with your dot | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T19:36:02+00:00",
+      "published_utc": "2026-11-25T22:43:20+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -182,7 +182,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T19:36:02+00:00",
+          "published_utc": "2026-11-25T22:43:20+00:00",
           "title": "Getting started with your dot | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -195,7 +195,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "ChatGPT for Academic Researchers | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T19:34:06+00:00",
+      "published_utc": "2026-11-25T22:27:23+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -208,8 +208,34 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T19:34:06+00:00",
+          "published_utc": "2026-11-25T22:27:23+00:00",
           "title": "ChatGPT for Academic Researchers | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
+      "id": "2510007fe4056fc812337296",
+      "topic": "ai",
+      "title": "ChatGPT Rate Card (Enterprise token-based pricing) | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa2VuWUJGUzYxeUxmWFMwQnNuaUZxb2draFQ5YUJOWWpEU19fNnJlRlE3RVZFQ1l4cDZ3Q05UeVhwTU9PcHItSnh5U0tsRWtISjBmY0xzeE1qbUdnd2dta1JlYXY0R05paklOT2hDUFlKU3dsRWd4cXg4OXRaVnlYOGxkTmxRS2hIMjFpLVNISkw1eUFOUkZhZg?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "ChatGPT Rate Card (Enterprise token-based pricing) | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-25T19:50:22+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa2VuWUJGUzYxeUxmWFMwQnNuaUZxb2draFQ5YUJOWWpEU19fNnJlRlE3RVZFQ1l4cDZ3Q05UeVhwTU9PcHItSnh5U0tsRWtISjBmY0xzeE1qbUdnd2dta1JlYXY0R05paklOT2hDUFlKU3dsRWd4cXg4OXRaVnlYOGxkTmxRS2hIMjFpLVNISkw1eUFOUkZhZg?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T19:50:22+00:00",
+          "title": "ChatGPT Rate Card (Enterprise token-based pricing) | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -221,7 +247,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Setting up your business on ChatGPT | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-25T22:01:34+00:00",
+      "published_utc": "2026-11-26T01:16:42+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -234,7 +260,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-25T22:01:34+00:00",
+          "published_utc": "2026-11-26T01:16:42+00:00",
           "title": "Setting up your business on ChatGPT | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -4754,7 +4780,7 @@
       "source": "Reuters AI",
       "publisher": "Reuters",
       "description": "Japan's data centre boom faces growing revolt from urban residents Reuters",
-      "published_utc": "2026-11-26T02:58:45+00:00",
+      "published_utc": "2026-11-25T23:02:00+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -4767,7 +4793,7 @@
           "source": "Reuters AI",
           "publisher": "Reuters",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T02:58:45+00:00",
+          "published_utc": "2026-11-25T23:02:00+00:00",
           "title": "Japan's data centre boom faces growing revolt from urban residents - Reuters"
         }
       ]
@@ -6340,7 +6366,7 @@
       "source": "Reuters AI",
       "publisher": "Reuters",
       "description": "EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say Reuters",
-      "published_utc": "2026-11-26T07:19:00+00:00",
+      "published_utc": "2026-11-26T07:30:27+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -6353,7 +6379,7 @@
           "source": "Reuters AI",
           "publisher": "Reuters",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T07:19:00+00:00",
+          "published_utc": "2026-11-26T07:30:27+00:00",
           "title": "EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say - Reuters"
         }
       ]
@@ -6433,32 +6459,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T02:33:00+00:00",
           "title": "Air cargo demand from AI data centres shows no sign of slowing, SATS CEO says - Reuters"
-        }
-      ]
-    },
-    {
-      "id": "2fecbb69ddc34f44ee2a69ca",
-      "topic": "ai",
-      "title": "Musk pledges two SpaceX shares for every US child in $18 billion AI charm offensive - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNklmekFZWmFURnFwVlBHa2FlTGZwYkxaSkNSRUxMV2lsanFDc2hkdGF1RGhHWlJoUTBicHFXY1B3dWxHa0xmdU5mYzFBbGpYN3Z5N2xTS2U1bVBJeVZQVHRucldkRVhsVlVfNldnTWpRclIzSjJQa0tMMnBFVGhDTS1HYzdwVlctaXowdDJtdVJaNkxLcXo2Tk9Odi1XZnI0c1JScHZycXhWRUNUZmQ4?oc=5",
-      "source": "Reuters AI",
-      "publisher": "Reuters",
-      "description": "Musk pledges two SpaceX shares for every US child in $18 billion AI charm offensive Reuters",
-      "published_utc": "2026-11-26T04:15:00+00:00",
-      "date_jst": "2026-11-26",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNklmekFZWmFURnFwVlBHa2FlTGZwYkxaSkNSRUxMV2lsanFDc2hkdGF1RGhHWlJoUTBicHFXY1B3dWxHa0xmdU5mYzFBbGpYN3Z5N2xTS2U1bVBJeVZQVHRucldkRVhsVlVfNldnTWpRclIzSjJQa0tMMnBFVGhDTS1HYzdwVlctaXowdDJtdVJaNkxLcXo2Tk9Odi1XZnI0c1JScHZycXhWRUNUZmQ4?oc=5",
-          "source": "Reuters AI",
-          "publisher": "Reuters",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T04:15:00+00:00",
-          "title": "Musk pledges two SpaceX shares for every US child in $18 billion AI charm offensive - Reuters"
         }
       ]
     },
@@ -11513,6 +11513,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T06:41:40+00:00",
           "title": "Accelerating Multimodal Oncology Workflows at the Edge - Intel"
+        }
+      ]
+    },
+    {
+      "id": "e88ac01a9c68e3482c7a4760",
+      "topic": "ai",
+      "title": "Google says Gemini’s Chrome RAM-hogging issue is finally resolved - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYXFaMnBVQU9aQW9ka1FzVGVBdkdzazlFMmxRekRrYzJZVWhSalZ3d3FCWTNlc01ITEZDRWF1VDhSQzJzME16X0x5S0g1enFLRV9wU1NNUlIxdG1Sanl6dDJfOXVCN2Zic2lLelFOZkhsYjVUaURjYXhnRnh3eUh4TTJFUk1HUEY5THYtQ1Zrbw?oc=5",
+      "source": "Android Authority TWS",
+      "publisher": "Android Authority",
+      "description": "Google says Gemini’s Chrome RAM-hogging issue is finally resolved Android Authority",
+      "published_utc": "2026-11-26T07:41:00+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYXFaMnBVQU9aQW9ka1FzVGVBdkdzazlFMmxRekRrYzJZVWhSalZ3d3FCWTNlc01ITEZDRWF1VDhSQzJzME16X0x5S0g1enFLRV9wU1NNUlIxdG1Sanl6dDJfOXVCN2Zic2lLelFOZkhsYjVUaURjYXhnRnh3eUh4TTJFUk1HUEY5THYtQ1Zrbw?oc=5",
+          "source": "Android Authority TWS",
+          "publisher": "Android Authority",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T07:41:00+00:00",
+          "title": "Google says Gemini’s Chrome RAM-hogging issue is finally resolved - Android Authority"
         }
       ]
     }
