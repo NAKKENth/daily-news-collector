@@ -4818,6 +4818,7 @@
       "date_quality": "discovery_index",
       "triage": "review",
       "triage_reason": "対象オーディオ候補",
+      "possible_event_id": "85e4b10673a8",
       "sources": [
         {
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zR052clNFUGUwbklnUkVadnhBdnV3YXpuYjBGNk5XVEFlQVRhSkdkc2U5Y3gwMm9Hb1B2c0c5SnFNNFIxVDNzNVMwbnhDa0lwU1RYVm9neE5QbjJkMXlJcHU3elc?oc=5",
@@ -4983,6 +4984,85 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-24T20:39:49+00:00",
           "title": "O²AT v0.2: open Layer-2 optical audio transport over 1G SFP. Requesting technical review - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "a7df17fdfe7fea034cba5859",
+      "topic": "tws",
+      "title": "Adaptive noise cancelling with Smart Ambient - JBL",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSEV3X3JtdUhMaVhwMktIS1F1TDkwOXNqMzI4T0ptOElTaENhWTY3T2F5a2cyR3lvTE1tY0hsODhVdGdfYlc5SmRDYkc3TEF0OGI4eER2Zk96Y3ZTNTVsVFZNNXZET0hIcnRLVnpqTGhHcTY1WTVFUTZKX0ZOVVhMSV9RM2M4UGVTcGZSVkNnS2dldw?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "Adaptive noise cancelling with Smart Ambient JBL",
+      "published_utc": "2026-11-25T06:28:08+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSEV3X3JtdUhMaVhwMktIS1F1TDkwOXNqMzI4T0ptOElTaENhWTY3T2F5a2cyR3lvTE1tY0hsODhVdGdfYlc5SmRDYkc3TEF0OGI4eER2Zk96Y3ZTNTVsVFZNNXZET0hIcnRLVnpqTGhHcTY1WTVFUTZKX0ZOVVhMSV9RM2M4UGVTcGZSVkNnS2dldw?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T06:28:08+00:00",
+          "title": "Adaptive noise cancelling with Smart Ambient - JBL"
+        }
+      ]
+    },
+    {
+      "id": "4f3fbbf0b0bb2e1a188eb669",
+      "topic": "tws",
+      "title": "JBL Quantum 520 | Wireless multiplatform gaming headset - JBL",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa0xCYnNEeWFPNlN2R3lobFRvMVl2X2V0WW55SzMxbXQtQjVGYW1pMmhtRXhBRGd6bXRxak9VMGk5YVNlcGl3amxsVVNCRDFldHlZTWVfOFNCR0pyUGxobXJBUzRuR1dFQndySXhCTFpBbVZqTjJwWU95RktDVDNXaUN5bG5KYlJydmZmQXRsbktNeHkyUkh3bEZGOTFzekk?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "JBL Quantum 520 | Wireless multiplatform gaming headset JBL",
+      "published_utc": "2026-11-25T14:29:15+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "possible_event_id": "85e4b10673a8",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa0xCYnNEeWFPNlN2R3lobFRvMVl2X2V0WW55SzMxbXQtQjVGYW1pMmhtRXhBRGd6bXRxak9VMGk5YVNlcGl3amxsVVNCRDFldHlZTWVfOFNCR0pyUGxobXJBUzRuR1dFQndySXhCTFpBbVZqTjJwWU95RktDVDNXaUN5bG5KYlJydmZmQXRsbktNeHkyUkh3bEZGOTFzekk?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T14:29:15+00:00",
+          "title": "JBL Quantum 520 | Wireless multiplatform gaming headset - JBL"
+        }
+      ]
+    },
+    {
+      "id": "5412a4f3740d138bffa7ada0",
+      "topic": "tws",
+      "title": "JBL Tune Flex 2 - JBL UK",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsTXpyUTJ3cXp6TVdxVEFoaVdMdHNlUHJGM3REV2hVakpkV3I1Y0hOV3dRRHRLUEVRNWFsV0lCOGoxM2hVczVZREZpRQ?oc=5",
+      "source": "JBL",
+      "publisher": "JBL UK",
+      "description": "JBL Tune Flex 2 JBL UK",
+      "published_utc": "2026-11-25T00:59:45+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsTXpyUTJ3cXp6TVdxVEFoaVdMdHNlUHJGM3REV2hVakpkV3I1Y0hOV3dRRHRLUEVRNWFsV0lCOGoxM2hVczVZREZpRQ?oc=5",
+          "source": "JBL",
+          "publisher": "JBL UK",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T00:59:45+00:00",
+          "title": "JBL Tune Flex 2 - JBL UK"
         }
       ]
     }

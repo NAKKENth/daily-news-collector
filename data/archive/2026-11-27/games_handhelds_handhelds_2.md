@@ -1,7 +1,6 @@
-# handhelds / 2026-11-27 / 候補 51–77
+# handhelds / 2026-11-27 / 候補 51–76
 
 - [OCTOPATH TRAVELER™ - Steam](https://news.google.com/rss/articles/CBMibEFVX3lxTFBHdjA4U284TkZCU1dIOFlKdHdCX1pBZzBFUmFoSzhXLVROSHdYUUlLU2JPVTl6WUZzTUFUU3A3OHVjUV85UnVBUFFVSjUyM0ZSa0NqNkZsUGNoTmtCWVFsUlVrSkN1SVZtRkRJag?oc=5) — Valve Steam Deck｜要確認｜2026-11-26T20:40:50+00:00 UTC｜discovery_index
-- [PAYDAY 2 - Steam](https://news.google.com/rss/articles/CBMiYEFVX3lxTE52WkZJbmJ5Wk84dklEbWdMY3Zidm5zcUJXUmF3OXpHY2RYazhmVEZaYW9HVmhwYjdldzlUeTFXLWdEOGNnSW5XLUdqSGdxRno3WnB1WkhNWjhtblFpWk93Zw?oc=5) — Valve Steam Deck｜要確認｜2026-11-26T20:03:15+00:00 UTC｜discovery_index
 - [Palworld - Steam](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtT1NoMmFLbW9HVHp0OXdYcUpMajRlNklhMjRDYmRmcUI3YzBSdUFGLURQSmhjMkRJZ1licmRnOXlMU0ROanRLTXotWlpqSDJuQjEwQ21kTHY2T2lzV3dUZUpB?oc=5) — Valve Steam Deck｜要確認｜2026-11-26T19:56:28+00:00 UTC｜discovery_index
 - [Potato Please on Steam - Steam](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VaW81bzdJLUQxMmsyX3NBSDZXNWNfSmltc19mZTh5SUZLZDc3MlFkRU9HUjVlZ09UUkJObFp4VWVRQk9fcXk2N2hlZVF5eFBjNTBqNzY4dFp1N1FfU01KOXVyb0R6a0pJ?oc=5) — Valve Steam Deck｜要確認｜2026-11-26T21:57:29+00:00 UTC｜discovery_index
 - [Resident Evil Village - Steam](https://news.google.com/rss/articles/CBMic0FVX3lxTE1rR0hsNnRlUUFmaXVsc0w2enVEVEZfNk8xaGI0d1hmOTdiQVlmUGJlUVN1Wlgya1hobkp3dmdlRnlZenBCSWF5TnVKTHhkVTdmRUxUcmNFNHpXRmV1RGJBWlVBNWQ1ZWM5blFoR0hjalVYOU0?oc=5) — Valve Steam Deck｜要確認｜2026-11-26T21:39:24+00:00 UTC｜discovery_index

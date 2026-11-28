@@ -3595,6 +3595,32 @@
       ]
     },
     {
+      "id": "52a1f6e361482e77166d5394",
+      "topic": "tws",
+      "title": "JBL Live 780NC | Wireless over-ear Noise Cancelling headphones - JBL",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iOGNPcHBCeGxsby04dU94Xy01ZEp5QThEM0U4ZXRDUXp4MXNicDBwLWZOOFFyNkVGZXMwOEhmTGh0c19KdVBnajNyRUhDRmFJWU11TFIxZk1YYXhXeGRaWm8wdldsaFY2WUdJY2hYX2lQUDZDM1JOT2FaNGI3NW8?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "JBL Live 780NC | Wireless over-ear Noise Cancelling headphones JBL",
+      "published_utc": "2026-11-26T08:19:34+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iOGNPcHBCeGxsby04dU94Xy01ZEp5QThEM0U4ZXRDUXp4MXNicDBwLWZOOFFyNkVGZXMwOEhmTGh0c19KdVBnajNyRUhDRmFJWU11TFIxZk1YYXhXeGRaWm8wdldsaFY2WUdJY2hYX2lQUDZDM1JOT2FaNGI3NW8?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T08:19:34+00:00",
+          "title": "JBL Live 780NC | Wireless over-ear Noise Cancelling headphones - JBL"
+        }
+      ]
+    },
+    {
       "id": "fed7534425c0157d14b5ef6d",
       "topic": "portable_dac",
       "title": "Fosi StepSense™ C1 Gaming DAC - Gallery - Head-Fi.org",
@@ -4581,6 +4607,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T12:00:00+00:00",
           "title": "Upgrade your commute with $62 off Google Pixel Buds Pro 2 - Android Authority"
+        }
+      ]
+    },
+    {
+      "id": "377ab5f294f725c3d65ae984",
+      "topic": "tws",
+      "title": "Product Specifications | Lifestyle® 38 Series IV DVD home entertainment system - Bose",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOVo3ekJkbnliLV9IRE9PWW52M0hmWjNGcV9RSW5wLXY5SXZIejJJMVc4RHh2YUhqamN5MU5jM3BCQTFXNzJrWFkwUVFiOWJJbnVUcWU2aUtwbWlVWDhSQzlQUTlJbFFMaER5TDN2M2NfM1I1anYwTWlkUVBZWTlnU0VJc2UybnBfOEdBT2tlSHFfRC1NQnA0aEtaNTlQWGpMYlE?oc=5",
+      "source": "Bose",
+      "publisher": "Bose",
+      "description": "Product Specifications | Lifestyle® 38 Series IV DVD home entertainment system Bose",
+      "published_utc": "2026-11-26T00:21:29+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOVo3ekJkbnliLV9IRE9PWW52M0hmWjNGcV9RSW5wLXY5SXZIejJJMVc4RHh2YUhqamN5MU5jM3BCQTFXNzJrWFkwUVFiOWJJbnVUcWU2aUtwbWlVWDhSQzlQUTlJbFFMaER5TDN2M2NfM1I1anYwTWlkUVBZWTlnU0VJc2UybnBfOEdBT2tlSHFfRC1NQnA0aEtaNTlQWGpMYlE?oc=5",
+          "source": "Bose",
+          "publisher": "Bose",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:21:29+00:00",
+          "title": "Product Specifications | Lifestyle® 38 Series IV DVD home entertainment system - Bose"
         }
       ]
     }

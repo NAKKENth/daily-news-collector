@@ -280,32 +280,6 @@
       "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
-      "id": "316a5a069a052bf9afd187a6",
-      "topic": "racing_games",
-      "title": "Gran Turismo 2 - PCGamingWiki - PCGamingWiki",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVVZCbHZRN004UkJVb2xzVU9SZU45VjZEMVN1SW9WMlhzYm5sWEdXOXZ1OFlVenBiMVdiTEFWa3hBWGlTdlRFWUpMSVNtMjU4TTZfMEVXSlAwV1cyRW45QnNHVmpDT0c3N1Y5WWs0SXQ1NWZsbnRyd0pXTDZvaHRvOHY1T0ZYSF9ZbXZr?oc=5",
-      "source": "PCGamingWiki",
-      "publisher": "PCGamingWiki",
-      "description": "Gran Turismo 2 - PCGamingWiki PCGamingWiki",
-      "published_utc": "2026-11-24T09:03:18+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "レースゲーム候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVVZCbHZRN004UkJVb2xzVU9SZU45VjZEMVN1SW9WMlhzYm5sWEdXOXZ1OFlVenBiMVdiTEFWa3hBWGlTdlRFWUpMSVNtMjU4TTZfMEVXSlAwV1cyRW45QnNHVmpDT0c3N1Y5WWs0SXQ1NWZsbnRyd0pXTDZvaHRvOHY1T0ZYSF9ZbXZr?oc=5",
-          "source": "PCGamingWiki",
-          "publisher": "PCGamingWiki",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T09:03:18+00:00",
-          "title": "Gran Turismo 2 - PCGamingWiki - PCGamingWiki"
-        }
-      ]
-    },
-    {
       "id": "f15389f44c8419f574dc11f6",
       "topic": "peripherals",
       "title": "Launch Date Confirmed: Fanatec Podium Pedals GT To Be Available On Black Friday - overtake.gg",
@@ -2528,34 +2502,6 @@
           "title": "LEGO® City Undercover - Steam"
         }
       ]
-    },
-    {
-      "id": "b9e4783945578fc5949a22ef",
-      "topic": "racing_games",
-      "title": "ZERO Sievert - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IRmRXcUZxUU85cWNUS0tqSGVxaldVMk9pRmluVXRUdnR1OUhla1F1TE1OUkNXcTF0X3k3Rm9lczFKaVBVWnNJRDNHS3gxbnktTEFHbmRhQkd0bGhiaXRKVm51bm5RMXc?oc=5",
-      "source": "Steam racing updates",
-      "publisher": "Steam",
-      "description": "ZERO Sievert Steam",
-      "published_utc": "2026-11-24T13:59:30+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IRmRXcUZxUU85cWNUS0tqSGVxaldVMk9pRmluVXRUdnR1OUhla1F1TE1OUkNXcTF0X3k3Rm9lczFKaVBVWnNJRDNHS3gxbnktTEFHbmRhQkd0bGhiaXRKVm51bm5RMXc?oc=5",
-          "source": "Steam racing updates",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T13:59:30+00:00",
-          "title": "ZERO Sievert - Steam"
-        }
-      ],
-      "enrichment": "failed",
-      "enrichment_error": "Google News circuit open after repeated 429; retry next scheduled run"
     },
     {
       "id": "efba6b89b69aba037ae2f240",

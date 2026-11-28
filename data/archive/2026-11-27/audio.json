@@ -111,58 +111,6 @@
       ]
     },
     {
-      "id": "f87378393004ea4aaf39c3ba",
-      "topic": "tws",
-      "title": "Open Earbuds - JBL",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBudDFnelNqNlFaUDgyWF93VTBGZGprdDJFS2x6TE9oSGtVZTNDYzNfakcybktuZEhDTTVhaXlQM2EtY25ZNE5pVA?oc=5",
-      "source": "JBL",
-      "publisher": "JBL",
-      "description": "Open Earbuds JBL",
-      "published_utc": "2026-11-27T10:10:16+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "対象オーディオ候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBudDFnelNqNlFaUDgyWF93VTBGZGprdDJFS2x6TE9oSGtVZTNDYzNfakcybktuZEhDTTVhaXlQM2EtY25ZNE5pVA?oc=5",
-          "source": "JBL",
-          "publisher": "JBL",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T10:10:16+00:00",
-          "title": "Open Earbuds - JBL"
-        }
-      ]
-    },
-    {
-      "id": "884a7b1cd46b34f15ca6aec3",
-      "topic": "wired",
-      "title": "Refurbished Headphones - JBL",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43ZzhUcm1lWUhTNnhmWERTUlUtbFNOZzE0M2NWRUZrRG00Q1lfaWZYdGFTMm0zN2h2aVBWYlVEWFdfcVl4cVhIQW41dEVSbEh3XzN5cDdB?oc=5",
-      "source": "JBL",
-      "publisher": "JBL",
-      "description": "Refurbished Headphones JBL",
-      "published_utc": "2026-11-27T10:07:55+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "対象オーディオ候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43ZzhUcm1lWUhTNnhmWERTUlUtbFNOZzE0M2NWRUZrRG00Q1lfaWZYdGFTMm0zN2h2aVBWYlVEWFdfcVl4cVhIQW41dEVSbEh3XzN5cDdB?oc=5",
-          "source": "JBL",
-          "publisher": "JBL",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T10:07:55+00:00",
-          "title": "Refurbished Headphones - JBL"
-        }
-      ]
-    },
-    {
       "id": "7b02b45738c8db8ab1770e21",
       "topic": "tws",
       "title": "PSA: AirPods Pro 3 are in stock, still $149 ($100 off)",
@@ -195,8 +143,8 @@
           "title": "PSA: AirPods Pro 3 are in stock, still $149 ($100 off)"
         }
       ],
-      "enrichment": "deferred_host",
-      "enrichment_error": "previous 403 for this host in this run"
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://9to5mac.com/2026/11/26/airpods-pro-3-best-black-friday-price"
     },
     {
       "id": "4ea8fd87f7f709dae18f816d",
@@ -1132,11 +1080,11 @@
     {
       "id": "5701f6e9409e76e16c377636",
       "topic": "wired",
-      "title": "Kiwi Ears Launches the $30 Marcato IEMs Tuned for Vocals",
+      "title": "(PR) Kiwi Ears Launches the $30 Marcato IEMs Tuned for Vocals",
       "url": "https://www.techpowerup.com/355269/kiwi-ears-launches-the-usd-30-marcato-iems-tuned-for-vocals",
       "source": "TechPowerUp",
       "publisher": "TechPowerUp",
-      "description": "Designed with comfort and practicality in mind, the Kiwi Ears Marcato features a compact teardrop-shaped shell that fits naturally and securely in the ear. Its ergonomic design provides a comfortable fit and effective noise isolation, making it suitable for long listening sessions, stage...",
+      "description": "Designed with comfort and practicality in mind, the Kiwi Ears Marcato features a compact teardrop-shaped shell that fits naturally and securely in the ear. Its ergonomic design provides a comfortable fit and effective noise isolation, making it suitable for long listening sessions, stage performances, and daily use. The housing is constructed from ",
       "published_utc": "2026-11-27T13:03:09+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "source_feed_published",
@@ -1151,7 +1099,7 @@
           "publisher": "TechPowerUp",
           "timestamp_basis": "source_feed_published",
           "published_utc": "2026-11-27T13:03:09+00:00",
-          "title": "Kiwi Ears Launches the $30 Marcato IEMs Tuned for Vocals"
+          "title": "(PR) Kiwi Ears Launches the $30 Marcato IEMs Tuned for Vocals"
         }
       ],
       "discovery_url": null,
@@ -3208,6 +3156,84 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-27T11:37:06+00:00",
           "title": "Are cheap acoustic foam panels worth it? - Audio Science Review (ASR) Forum"
+        }
+      ]
+    },
+    {
+      "id": "b54e39a89fa4f524ca991182",
+      "topic": "tws",
+      "title": "Product Detail - Bose",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbExXcVdYNENjeEdSU2lQNDYzYXlGV0FKY3lhRG1fSFVSb0dQRVZyMURGUDNLLUpIbWdiOElxSGN0TExWWTlHbWhTRzNfcnQ4clJLcUJZYWxpaFlFa1pyRVp2dnl4bG02OV9QQXJEOXF5M29majdzYkdvUGl1RmR3WHZRM3U?oc=5",
+      "source": "Bose",
+      "publisher": "Bose",
+      "description": "Product Detail Bose",
+      "published_utc": "2026-11-26T18:55:05+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbExXcVdYNENjeEdSU2lQNDYzYXlGV0FKY3lhRG1fSFVSb0dQRVZyMURGUDNLLUpIbWdiOElxSGN0TExWWTlHbWhTRzNfcnQ4clJLcUJZYWxpaFlFa1pyRVp2dnl4bG02OV9QQXJEOXF5M29majdzYkdvUGl1RmR3WHZRM3U?oc=5",
+          "source": "Bose",
+          "publisher": "Bose",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T18:55:05+00:00",
+          "title": "Product Detail - Bose"
+        }
+      ]
+    },
+    {
+      "id": "3ba06658953ea1ba65a66063",
+      "topic": "tws",
+      "title": "JBL Live 780NC - JBL",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUWhHZjgwYjJLVkJuNGRUZTBybF9WeDZNdEtTRWpZa1dqTmlWRFc2c3VIN1dMclFSZEtpQTB0bVB5alJxNUJ4b2pwRHowLVVOcnBPQnpFS1ZOTnBWSmlpUHRZN0dtN19XUHNmVHR5czhKM0ZBUWVBV3V5T1V1anpidjE3aVFjMDl3VmdLbndWNmNMenVObXVieEhhZkRaTEdNdlhpaDFrOTBZbmRJaHFpRA?oc=5",
+      "source": "JBL",
+      "publisher": "JBL",
+      "description": "JBL Live 780NC JBL",
+      "published_utc": "2026-11-27T13:31:31+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUWhHZjgwYjJLVkJuNGRUZTBybF9WeDZNdEtTRWpZa1dqTmlWRFc2c3VIN1dMclFSZEtpQTB0bVB5alJxNUJ4b2pwRHowLVVOcnBPQnpFS1ZOTnBWSmlpUHRZN0dtN19XUHNmVHR5czhKM0ZBUWVBV3V5T1V1anpidjE3aVFjMDl3VmdLbndWNmNMenVObXVieEhhZkRaTEdNdlhpaDFrOTBZbmRJaHFpRA?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T13:31:31+00:00",
+          "title": "JBL Live 780NC - JBL"
+        }
+      ]
+    },
+    {
+      "id": "64cf1f04c1e63900295499cb",
+      "topic": "tws",
+      "title": "Sennheiser MOMENTUM 4 Wireless – ANC Headphones, 60h Battery - eu.sennheiser-hearing.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DVTdNcTVtdTFQTFFkR05EeVlnYW4xVV85RU1LWTRvRnFWV2ZYMV9ZZGxyaHhoSVZoUWNMeGR4S09WWGROR1huSTNtVm9QN1dscEVQcldKbzdUckdURjZXVERpTDB2VGl6Znp5c3dZRGZwNkdIVUJ3?oc=5",
+      "source": "Sennheiser",
+      "publisher": "eu.sennheiser-hearing.com",
+      "description": "Sennheiser MOMENTUM 4 Wireless – ANC Headphones, 60h Battery eu.sennheiser-hearing.com",
+      "published_utc": "2026-11-27T08:34:37+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DVTdNcTVtdTFQTFFkR05EeVlnYW4xVV85RU1LWTRvRnFWV2ZYMV9ZZGxyaHhoSVZoUWNMeGR4S09WWGROR1huSTNtVm9QN1dscEVQcldKbzdUckdURjZXVERpTDB2VGl6Znp5c3dZRGZwNkdIVUJ3?oc=5",
+          "source": "Sennheiser",
+          "publisher": "eu.sennheiser-hearing.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T08:34:37+00:00",
+          "title": "Sennheiser MOMENTUM 4 Wireless – ANC Headphones, 60h Battery - eu.sennheiser-hearing.com"
         }
       ]
     }

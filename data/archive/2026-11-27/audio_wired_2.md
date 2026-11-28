@@ -1,6 +1,5 @@
-# wired / 2026-11-27 / 候補 51–59
+# wired / 2026-11-27 / 候補 51–58
 
-- [Stax SR-30 and SRD-4 - Head-Fi.org](https://news.google.com/rss/articles/CBMickFVX3lxTFBKMDJJMl9sQ3ZFclM2YU1oemsxa3dyQ3hHVWo1eklEZmRfeDl5OHdsVkdzMm9NM1VoWU9XMUYzdzR1cVAtbGh0aVRhNng3ODJ4NTdqbTV5cVlGMU04U1lDUkQzNEF1ZEo4UnhTNU1hTEs5Zw?oc=5) — Head-Fi｜要確認｜2026-11-26T18:54:49+00:00 UTC｜discovery_index
 - [THIEAUDIO HYPE 4 MKII - Head-Fi.org](https://news.google.com/rss/articles/CBMic0FVX3lxTE42aE9kTmtMYklCSWRBRE4zcmRxZHRyTXM2VkdnNDEyZUhmbVROclktVWQ5Z2tUd1ZzdjNIUUNoS2ZzYTN4ZTZWTzF6OUt2NlYyRGhSU2pBbjN6NnRTRWdJVVlCTlpFZXdWT3JaUUdUTkRuNzA?oc=5) — Head-Fi｜要確認｜2026-11-26T15:54:33+00:00 UTC｜discovery_index
 - [THIEAUDIO x Elise Audio Vera - Head-Fi.org](https://news.google.com/rss/articles/CBMid0FVX3lxTE5LaU5yYll2TFI1VktCcjlfd0QxWU1oV3dxdE1YZExqMDROdGZXa2o1VEY2NEd1U2E5Tk5sUGw5SXFZOS1tc0tTOGJsMnRvU25obkZ0RlpyblRaQTdYQVJSUFVYNHRDMTFJM01CWXRhSGN1R0VhTmg0?oc=5) — Head-Fi｜要確認｜2026-11-26T19:26:36+00:00 UTC｜discovery_index
 - [Thieaudio Valhalla (Mint) - Head-Fi.org](https://news.google.com/rss/articles/CBMidkFVX3lxTFAyX0MyenZWMEFGdUxFOENwMHY4S1ZlcXNXZzJLem5XZ2todGlCaWp3MUpKM2lpX3NyVnpmSFdZeGpZbHh1cFZWM3VmcFJmUVRCYnk4ZUhiYXpiakJnU2tRLXphWjJvcTNsUkg5VG9tYWU2d01ZZ3c?oc=5) — Head-Fi｜要確認｜2026-11-26T18:53:27+00:00 UTC｜discovery_index

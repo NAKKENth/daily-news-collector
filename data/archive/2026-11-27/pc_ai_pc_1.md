@@ -43,7 +43,7 @@
 - [Apple Watch Series 12が1万800円引き、SE 3とUltra 3も](https://pc.watch.impress.co.jp/docs/news/todays_sales/2160159.html) — PC Watch｜要確認｜2026-11-27T12:20:48+00:00 UTC｜article_metadata
 - [Asus ROG Swift PG259QWS Ace](https://tftcentral.co.uk/reviews/asus-rog-swift-pg259qws-ace) — TFTCentral｜要確認｜2026-11-27T12:21:00+00:00 UTC｜article_metadata｜同一話題候補 183532dcb3e4
 - [Asus ROG Swift PG259QWS Ace](https://tftcentral.co.uk/best-settings/asus-rog-swift-pg259qws-ace-2) — TFTCentral｜要確認｜2026-11-27T12:45:52+00:00 UTC｜article_metadata｜同一話題候補 183532dcb3e4
-- [Berlin als Warnsignal: Bundesnetzagentur legt neue Resilienzstrategie vor](https://www.computerbase.de/news/internet/rumpfnetz-notstrom-satelliten-wie-die-bundesnetzagentur-mobilfunk-krisenfest-machen-will.100548) — ComputerBase｜要確認｜2026-11-26T16:59:00+00:00 UTC｜feed_published
+- [Berlin als Warnsignal: Bundesnetzagentur legt neue Resilienzstrategie vor](https://www.computerbase.de/news/internet/rumpfnetz-notstrom-satelliten-wie-die-bundesnetzagentur-mobilfunk-krisenfest-machen-will.100548) — ComputerBase｜要確認｜2026-11-26T16:59:00+00:00 UTC｜article_metadata
 - [ClaudeのMessages API、Rust化されてCPU使用率が70%削減](https://pc.watch.impress.co.jp/docs/news/2159943.html) — PC Watch｜要確認｜2026-11-27T05:06:30+00:00 UTC｜article_metadata
 - [Credit rating agency puts Nvidia on notice for possible downgrade](https://www.tomshardware.com/tech-industry/credit-rating-agency-puts-nvidia-on-notice-for-possible-downgrade-s-and-p-global-ratings-says-board-members-may-have-compromised-their-independence) — Tom’s Hardware｜要確認｜2026-11-26T17:00:00+00:00 UTC｜feed_published
 - [DeNA、相づちを聞き逃さない日本語音声認識モデル3種を無償公開](https://pc.watch.impress.co.jp/docs/news/2159894.html) — PC Watch｜要確認｜2026-11-27T03:46:11+00:00 UTC｜article_metadata

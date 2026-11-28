@@ -11526,11 +11526,11 @@
     {
       "id": "a7862a30faa6191fbbd9a5a6",
       "topic": "WRC",
-      "title": "Benjamin Pascual - null null - SARR Series - Motos 2026 - eWRC-results.com",
+      "title": "Pascual Benjamin | SARR Series - Motos 2026 - eWRC-results.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kcFZlWHNxRTJwbFNqUE80Wm9YdG5XRVhKaFQ5VVNRM2N3ZzJmaC02SFdnZk1DWjZYZ0FvOXNFU1NhQVdDOFNzMld4N1BjaUxrLWx3T2xpd0w1SU82U3czeUxKQWx4MDZPVEdfckJzWUFQYjZQMlJoa3c4RmZsZm8?oc=5",
       "source": "eWRC results",
       "publisher": "eWRC-results.com",
-      "description": "Benjamin Pascual - null null - SARR Series - Motos 2026 eWRC-results.com",
+      "description": "Pascual Benjamin | SARR Series - Motos 2026 eWRC-results.com",
       "published_utc": "2026-11-26T11:01:49+00:00",
       "date_jst": "2026-11-26",
       "timestamp_basis": "google_news_index",
@@ -11545,7 +11545,7 @@
           "publisher": "eWRC-results.com",
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T11:01:49+00:00",
-          "title": "Benjamin Pascual - null null - SARR Series - Motos 2026 - eWRC-results.com"
+          "title": "Pascual Benjamin | SARR Series - Motos 2026 - eWRC-results.com"
         }
       ]
     },
@@ -11676,6 +11676,58 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T11:01:49+00:00",
           "title": "Barbosa Ruy | SARR Series - Motos 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "bcaab8ca5aaa5ff5a5ffddcf",
+      "topic": "WRC",
+      "title": "Final Results SARR Series - Motos 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YM0lUcnBjSEMxX3p0VTVvYjhsaUJ6MHUxSlM3U042UGk5ZFRPdHJ2NWNZeFpBNGxXOEFidkh2cDJDY08tN0NhdTQ0SUJ2dERCM3VtZmpWOWVpX1pBZ0szek1ES1V5YW5tWV85YVlQV3Jrdk9nZWk5TUVEdTNGY1E?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Final Results SARR Series - Motos 2026 eWRC-results.com",
+      "published_utc": "2026-11-26T11:58:39+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YM0lUcnBjSEMxX3p0VTVvYjhsaUJ6MHUxSlM3U042UGk5ZFRPdHJ2NWNZeFpBNGxXOEFidkh2cDJDY08tN0NhdTQ0SUJ2dERCM3VtZmpWOWVpX1pBZ0szek1ES1V5YW5tWV85YVlQV3Jrdk9nZWk5TUVEdTNGY1E?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T11:58:39+00:00",
+          "title": "Final Results SARR Series - Motos 2026 - eWRC-results.com"
+        }
+      ]
+    },
+    {
+      "id": "9b398573c9cc82310ea57501",
+      "topic": "WRC",
+      "title": "Timetable SARR Series - Motos 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvYnItbUFaNDRDYVBuYW0tNGphM3FTeTdYRHh5RjFxal9HYmJDWjhKeDY2UGZlZ2V5d1Qyd0JadGIycXVoYUh3RGZJWHVMRGc4S3hmcXRYcGlWWGtheVVxa3l6Tjd0YjRua0VpTldxVXB3bmtPYnJCNU93?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Timetable SARR Series - Motos 2026 eWRC-results.com",
+      "published_utc": "2026-11-26T12:37:39+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvYnItbUFaNDRDYVBuYW0tNGphM3FTeTdYRHh5RjFxal9HYmJDWjhKeDY2UGZlZ2V5d1Qyd0JadGIycXVoYUh3RGZJWHVMRGc4S3hmcXRYcGlWWGtheVVxa3l6Tjd0YjRua0VpTldxVXB3bmtPYnJCNU93?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T12:37:39+00:00",
+          "title": "Timetable SARR Series - Motos 2026 - eWRC-results.com"
         }
       ]
     }

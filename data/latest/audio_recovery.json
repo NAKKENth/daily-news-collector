@@ -4,6 +4,72 @@
   "status": "late_candidates_not_delivery_log",
   "items": [
     {
+      "id": "377ab5f294f725c3d65ae984",
+      "group_name": "audio",
+      "topic": "tws",
+      "source_id": "audio-bose",
+      "source": "Bose",
+      "source_role": "official",
+      "title": "Product Specifications | Lifestyle® 38 Series IV DVD home entertainment system - Bose",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOVo3ekJkbnliLV9IRE9PWW52M0hmWjNGcV9RSW5wLXY5SXZIejJJMVc4RHh2YUhqamN5MU5jM3BCQTFXNzJrWFkwUVFiOWJJbnVUcWU2aUtwbWlVWDhSQzlQUTlJbFFMaER5TDN2M2NfM1I1anYwTWlkUVBZWTlnU0VJc2UybnBfOEdBT2tlSHFfRC1NQnA0aEtaNTlQWGpMYlE?oc=5",
+      "publisher": "Bose",
+      "description": "Product Specifications | Lifestyle® 38 Series IV DVD home entertainment system Bose",
+      "published_utc": "2026-11-26T00:21:29+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "first_seen_utc": "2026-11-28T13:19:11+00:00",
+      "last_seen_utc": "2026-11-28T13:19:11+00:00",
+      "group": "audio",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOVo3ekJkbnliLV9IRE9PWW52M0hmWjNGcV9RSW5wLXY5SXZIejJJMVc4RHh2YUhqamN5MU5jM3BCQTFXNzJrWFkwUVFiOWJJbnVUcWU2aUtwbWlVWDhSQzlQUTlJbFFMaER5TDN2M2NfM1I1anYwTWlkUVBZWTlnU0VJc2UybnBfOEdBT2tlSHFfRC1NQnA0aEtaNTlQWGpMYlE?oc=5",
+          "source": "Bose",
+          "publisher": "Bose",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T00:21:29+00:00",
+          "title": "Product Specifications | Lifestyle® 38 Series IV DVD home entertainment system - Bose"
+        }
+      ],
+      "recovered_at_utc": "2026-11-28T13:19:11+00:00"
+    },
+    {
+      "id": "52a1f6e361482e77166d5394",
+      "group_name": "audio",
+      "topic": "tws",
+      "source_id": "audio-jbl",
+      "source": "JBL",
+      "source_role": "official",
+      "title": "JBL Live 780NC | Wireless over-ear Noise Cancelling headphones - JBL",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iOGNPcHBCeGxsby04dU94Xy01ZEp5QThEM0U4ZXRDUXp4MXNicDBwLWZOOFFyNkVGZXMwOEhmTGh0c19KdVBnajNyRUhDRmFJWU11TFIxZk1YYXhXeGRaWm8wdldsaFY2WUdJY2hYX2lQUDZDM1JOT2FaNGI3NW8?oc=5",
+      "publisher": "JBL",
+      "description": "JBL Live 780NC | Wireless over-ear Noise Cancelling headphones JBL",
+      "published_utc": "2026-11-26T08:19:34+00:00",
+      "date_jst": "2026-11-26",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "first_seen_utc": "2026-11-27T01:38:59+00:00",
+      "last_seen_utc": "2026-11-28T13:19:11+00:00",
+      "group": "audio",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iOGNPcHBCeGxsby04dU94Xy01ZEp5QThEM0U4ZXRDUXp4MXNicDBwLWZOOFFyNkVGZXMwOEhmTGh0c19KdVBnajNyRUhDRmFJWU11TFIxZk1YYXhXeGRaWm8wdldsaFY2WUdJY2hYX2lQUDZDM1JOT2FaNGI3NW8?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T08:19:34+00:00",
+          "title": "JBL Live 780NC | Wireless over-ear Noise Cancelling headphones - JBL"
+        }
+      ],
+      "recovered_at_utc": "2026-11-28T13:19:11+00:00"
+    },
+    {
       "id": "2c0935ee9c834118d7f810db",
       "group_name": "audio",
       "topic": "wired",
@@ -118,7 +184,7 @@
       "timestamp_basis": "source_feed_published",
       "link_role": "source_article",
       "first_seen_utc": "2026-11-28T07:32:53+00:00",
-      "last_seen_utc": "2026-11-28T07:32:53+00:00",
+      "last_seen_utc": "2026-11-28T13:19:11+00:00",
       "group": "audio",
       "date_quality": "feed_published",
       "triage": "priority",
@@ -151,7 +217,7 @@
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
       "first_seen_utc": "2026-11-27T21:19:19+00:00",
-      "last_seen_utc": "2026-11-28T01:33:51+00:00",
+      "last_seen_utc": "2026-11-28T13:19:11+00:00",
       "group": "audio",
       "date_quality": "discovery_index",
       "triage": "review",
@@ -863,6 +929,106 @@
       "recovered_at_utc": "2026-11-27T21:19:19+00:00"
     },
     {
+      "id": "4f3fbbf0b0bb2e1a188eb669",
+      "group_name": "audio",
+      "topic": "tws",
+      "source_id": "audio-jbl",
+      "source": "JBL",
+      "source_role": "official",
+      "title": "JBL Quantum 520 | Wireless multiplatform gaming headset - JBL",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa0xCYnNEeWFPNlN2R3lobFRvMVl2X2V0WW55SzMxbXQtQjVGYW1pMmhtRXhBRGd6bXRxak9VMGk5YVNlcGl3amxsVVNCRDFldHlZTWVfOFNCR0pyUGxobXJBUzRuR1dFQndySXhCTFpBbVZqTjJwWU95RktDVDNXaUN5bG5KYlJydmZmQXRsbktNeHkyUkh3bEZGOTFzekk?oc=5",
+      "publisher": "JBL",
+      "description": "JBL Quantum 520 | Wireless multiplatform gaming headset JBL",
+      "published_utc": "2026-11-25T14:29:15+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "first_seen_utc": "2026-11-28T13:19:11+00:00",
+      "last_seen_utc": "2026-11-28T13:19:11+00:00",
+      "group": "audio",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "対象オーディオ候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa0xCYnNEeWFPNlN2R3lobFRvMVl2X2V0WW55SzMxbXQtQjVGYW1pMmhtRXhBRGd6bXRxak9VMGk5YVNlcGl3amxsVVNCRDFldHlZTWVfOFNCR0pyUGxobXJBUzRuR1dFQndySXhCTFpBbVZqTjJwWU95RktDVDNXaUN5bG5KYlJydmZmQXRsbktNeHkyUkh3bEZGOTFzekk?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T14:29:15+00:00",
+          "title": "JBL Quantum 520 | Wireless multiplatform gaming headset - JBL"
+        }
+      ],
+      "possible_event_id": "85e4b10673a8",
+      "recovered_at_utc": "2026-11-28T13:19:11+00:00"
+    },
+    {
+      "id": "a7df17fdfe7fea034cba5859",
+      "group_name": "audio",
+      "topic": "tws",
+      "source_id": "audio-jbl",
+      "source": "JBL",
+      "source_role": "official",
+      "title": "Adaptive noise cancelling with Smart Ambient - JBL",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSEV3X3JtdUhMaVhwMktIS1F1TDkwOXNqMzI4T0ptOElTaENhWTY3T2F5a2cyR3lvTE1tY0hsODhVdGdfYlc5SmRDYkc3TEF0OGI4eER2Zk96Y3ZTNTVsVFZNNXZET0hIcnRLVnpqTGhHcTY1WTVFUTZKX0ZOVVhMSV9RM2M4UGVTcGZSVkNnS2dldw?oc=5",
+      "publisher": "JBL",
+      "description": "Adaptive noise cancelling with Smart Ambient JBL",
+      "published_utc": "2026-11-25T06:28:08+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "first_seen_utc": "2026-11-28T13:19:11+00:00",
+      "last_seen_utc": "2026-11-28T13:19:11+00:00",
+      "group": "audio",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSEV3X3JtdUhMaVhwMktIS1F1TDkwOXNqMzI4T0ptOElTaENhWTY3T2F5a2cyR3lvTE1tY0hsODhVdGdfYlc5SmRDYkc3TEF0OGI4eER2Zk96Y3ZTNTVsVFZNNXZET0hIcnRLVnpqTGhHcTY1WTVFUTZKX0ZOVVhMSV9RM2M4UGVTcGZSVkNnS2dldw?oc=5",
+          "source": "JBL",
+          "publisher": "JBL",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T06:28:08+00:00",
+          "title": "Adaptive noise cancelling with Smart Ambient - JBL"
+        }
+      ],
+      "recovered_at_utc": "2026-11-28T13:19:11+00:00"
+    },
+    {
+      "id": "5412a4f3740d138bffa7ada0",
+      "group_name": "audio",
+      "topic": "tws",
+      "source_id": "audio-jbl",
+      "source": "JBL",
+      "source_role": "official",
+      "title": "JBL Tune Flex 2 - JBL UK",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsTXpyUTJ3cXp6TVdxVEFoaVdMdHNlUHJGM3REV2hVakpkV3I1Y0hOV3dRRHRLUEVRNWFsV0lCOGoxM2hVczVZREZpRQ?oc=5",
+      "publisher": "JBL UK",
+      "description": "JBL Tune Flex 2 JBL UK",
+      "published_utc": "2026-11-25T00:59:45+00:00",
+      "date_jst": "2026-11-25",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "first_seen_utc": "2026-11-28T13:19:11+00:00",
+      "last_seen_utc": "2026-11-28T13:19:11+00:00",
+      "group": "audio",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsTXpyUTJ3cXp6TVdxVEFoaVdMdHNlUHJGM3REV2hVakpkV3I1Y0hOV3dRRHRLUEVRNWFsV0lCOGoxM2hVczVZREZpRQ?oc=5",
+          "source": "JBL",
+          "publisher": "JBL UK",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-25T00:59:45+00:00",
+          "title": "JBL Tune Flex 2 - JBL UK"
+        }
+      ],
+      "recovered_at_utc": "2026-11-28T13:19:11+00:00"
+    },
+    {
       "id": "e512c7d110fa1d12a4e9295c",
       "group_name": "audio",
       "topic": "wired",
@@ -1092,6 +1258,7 @@
           "title": "JBL Quantum 520 | Wireless multiplatform gaming headset - JBL"
         }
       ],
+      "possible_event_id": "85e4b10673a8",
       "recovered_at_utc": "2026-11-28T01:33:51+00:00"
     },
     {
@@ -1342,7 +1509,7 @@
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
       "first_seen_utc": "2026-11-27T21:19:19+00:00",
-      "last_seen_utc": "2026-11-28T01:33:51+00:00",
+      "last_seen_utc": "2026-11-28T13:19:11+00:00",
       "group": "audio",
       "date_quality": "discovery_index",
       "triage": "review",
@@ -1442,7 +1609,7 @@
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
       "first_seen_utc": "2026-11-26T19:18:36+00:00",
-      "last_seen_utc": "2026-11-28T01:33:51+00:00",
+      "last_seen_utc": "2026-11-28T13:19:11+00:00",
       "group": "audio",
       "date_quality": "discovery_index",
       "triage": "review",
@@ -1475,7 +1642,7 @@
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
       "first_seen_utc": "2026-11-26T19:18:36+00:00",
-      "last_seen_utc": "2026-11-28T01:33:51+00:00",
+      "last_seen_utc": "2026-11-28T13:19:11+00:00",
       "group": "audio",
       "date_quality": "discovery_index",
       "triage": "review",
@@ -1508,7 +1675,7 @@
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
       "first_seen_utc": "2026-11-26T19:18:36+00:00",
-      "last_seen_utc": "2026-11-28T01:33:51+00:00",
+      "last_seen_utc": "2026-11-28T13:19:11+00:00",
       "group": "audio",
       "date_quality": "discovery_index",
       "triage": "review",
@@ -1793,6 +1960,39 @@
       "recovered_at_utc": "2026-11-26T19:18:36+00:00"
     },
     {
+      "id": "0bcd7a0058fc2dd46c3e4c03",
+      "group_name": "audio",
+      "topic": "tws",
+      "source_id": "audio-bose",
+      "source": "Bose",
+      "source_role": "official",
+      "title": "Product Detail - Bose",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MU1pxUVR4M3pfQ21tdjNhXzh4cTU2bXJIV1ZLQk0zdkkzclJmUVQ3S1dYaGMtTVRYbDRxVldaSVN0dm5qVm8waU5BQ0FoYUtfQnp0T1J5S0NvakZlTVM4T0pnX3FXQUh0NTRLT2Q0cUpzSmVBcTlSUg?oc=5",
+      "publisher": "Bose",
+      "description": "Product Detail Bose",
+      "published_utc": "2026-11-24T13:59:23+00:00",
+      "date_jst": "2026-11-24",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "first_seen_utc": "2026-11-28T13:19:11+00:00",
+      "last_seen_utc": "2026-11-28T13:19:11+00:00",
+      "group": "audio",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MU1pxUVR4M3pfQ21tdjNhXzh4cTU2bXJIV1ZLQk0zdkkzclJmUVQ3S1dYaGMtTVRYbDRxVldaSVN0dm5qVm8waU5BQ0FoYUtfQnp0T1J5S0NvakZlTVM4T0pnX3FXQUh0NTRLT2Q0cUpzSmVBcTlSUg?oc=5",
+          "source": "Bose",
+          "publisher": "Bose",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-24T13:59:23+00:00",
+          "title": "Product Detail - Bose"
+        }
+      ],
+      "recovered_at_utc": "2026-11-28T13:19:11+00:00"
+    },
+    {
       "id": "e703b7f3987f64bea4f312ae",
       "group_name": "audio",
       "topic": "wired",
@@ -1841,7 +2041,7 @@
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
       "first_seen_utc": "2026-11-28T01:33:51+00:00",
-      "last_seen_utc": "2026-11-28T01:33:51+00:00",
+      "last_seen_utc": "2026-11-28T13:19:11+00:00",
       "group": "audio",
       "date_quality": "discovery_index",
       "triage": "review",
@@ -1856,7 +2056,6 @@
           "title": "JBL Live 780NC | Wireless over-ear Noise Cancelling headphones - JBL"
         }
       ],
-      "possible_event_id": "65182d3cf2e4",
       "recovered_at_utc": "2026-11-28T01:33:51+00:00"
     },
     {
@@ -2055,40 +2254,6 @@
           "title": "Cannot Connect a Bluetooth Device | Lifestyle® 135 series III home entertainment system - Bose"
         }
       ],
-      "recovered_at_utc": "2026-11-27T01:38:59+00:00"
-    },
-    {
-      "id": "52a1f6e361482e77166d5394",
-      "group_name": "audio",
-      "topic": "tws",
-      "source_id": "audio-jbl",
-      "source": "JBL",
-      "source_role": "official",
-      "title": "JBL Live 780NC | Wireless over-ear Noise Cancelling headphones - JBL",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iOGNPcHBCeGxsby04dU94Xy01ZEp5QThEM0U4ZXRDUXp4MXNicDBwLWZOOFFyNkVGZXMwOEhmTGh0c19KdVBnajNyRUhDRmFJWU11TFIxZk1YYXhXeGRaWm8wdldsaFY2WUdJY2hYX2lQUDZDM1JOT2FaNGI3NW8?oc=5",
-      "publisher": "JBL",
-      "description": "JBL Live 780NC | Wireless over-ear Noise Cancelling headphones JBL",
-      "published_utc": "2026-11-24T00:28:05+00:00",
-      "date_jst": "2026-11-24",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "first_seen_utc": "2026-11-27T01:38:59+00:00",
-      "last_seen_utc": "2026-11-27T21:19:19+00:00",
-      "group": "audio",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "対象オーディオ候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iOGNPcHBCeGxsby04dU94Xy01ZEp5QThEM0U4ZXRDUXp4MXNicDBwLWZOOFFyNkVGZXMwOEhmTGh0c19KdVBnajNyRUhDRmFJWU11TFIxZk1YYXhXeGRaWm8wdldsaFY2WUdJY2hYX2lQUDZDM1JOT2FaNGI3NW8?oc=5",
-          "source": "JBL",
-          "publisher": "JBL",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-24T00:28:05+00:00",
-          "title": "JBL Live 780NC | Wireless over-ear Noise Cancelling headphones - JBL"
-        }
-      ],
-      "possible_event_id": "65182d3cf2e4",
       "recovered_at_utc": "2026-11-27T01:38:59+00:00"
     },
     {
@@ -2767,7 +2932,7 @@
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
       "first_seen_utc": "2026-11-25T21:21:12+00:00",
-      "last_seen_utc": "2026-11-28T01:33:51+00:00",
+      "last_seen_utc": "2026-11-28T13:19:11+00:00",
       "group": "audio",
       "date_quality": "discovery_index",
       "triage": "review",
@@ -2932,7 +3097,7 @@
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
       "first_seen_utc": "2026-11-25T21:21:12+00:00",
-      "last_seen_utc": "2026-11-28T01:33:51+00:00",
+      "last_seen_utc": "2026-11-28T13:19:11+00:00",
       "group": "audio",
       "date_quality": "discovery_index",
       "triage": "review",
@@ -2998,7 +3163,7 @@
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
       "first_seen_utc": "2026-11-25T21:21:12+00:00",
-      "last_seen_utc": "2026-11-28T01:33:51+00:00",
+      "last_seen_utc": "2026-11-28T13:19:11+00:00",
       "group": "audio",
       "date_quality": "discovery_index",
       "triage": "review",

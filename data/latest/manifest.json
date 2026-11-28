@@ -1,72 +1,72 @@
 {
   "schema_version": 2,
   "collector_version": "0.3",
-  "search_attempted": 48,
+  "search_attempted": 28,
   "search_budget": 48,
-  "search_deferred": 11,
-  "pending_search_total": 11,
-  "google_retry_after_utc": null,
+  "search_deferred": 32,
+  "pending_search_total": 33,
+  "google_retry_after_utc": "2026-11-28T13:51:18.132151+00:00",
   "enrichment_errors": [
-    {
-      "url": "https://jp.motorsport.com/f1/news/zak-brown-rules-out-mclaren-engine-programme-for-f1-2030/10877782",
-      "error": "403 Client Error: Forbidden for url: https://jp.motorsport.com/f1/news/zak-brown-rules-out-mclaren-engine-programme-for-f1-2030/10877782"
-    },
     {
       "url": "https://9to5mac.com/2026/11/26/airpods-pro-3-best-black-friday-price",
       "error": "403 Client Error: Forbidden for url: https://9to5mac.com/2026/11/26/airpods-pro-3-best-black-friday-price"
+    },
+    {
+      "url": "https://sportscar365.com/imsa/iwsc/inception-completes-rolex-24-lineup-with-ben-green",
+      "error": "403 Client Error: Forbidden for url: https://sportscar365.com/imsa/iwsc/inception-completes-rolex-24-lineup-with-ben-green"
     }
   ],
-  "generated_at_utc": "2026-11-28T07:32:53+00:00",
+  "generated_at_utc": "2026-11-28T13:19:11+00:00",
   "target_date_jst": "2026-11-27",
   "scope": "core",
   "catalog_sources": 168,
   "attempted_sources": 114,
   "status_counts": {
-    "partial": 41,
-    "ok": 54,
+    "deferred": 22,
+    "ok": 44,
+    "partial": 38,
     "empty": 10,
-    "deferred": 9,
     "skipped": 45,
     "manual": 9
   },
-  "new_unique_articles": 223,
+  "new_unique_articles": 153,
   "candidates_per_group": {
-    "motorsport": 506,
-    "pc_ai": 362,
-    "games_handhelds": 162,
-    "audio": 116
+    "motorsport": 508,
+    "pc_ai": 359,
+    "games_handhelds": 163,
+    "audio": 117
   },
   "triage_counts": {
     "motorsport": {
-      "exclude": 39,
-      "review": 458,
+      "review": 460,
+      "exclude": 38,
       "priority": 48
     },
     "pc_ai": {
       "exclude": 70,
       "review": 344,
-      "priority": 42
+      "priority": 40
     },
     "games_handhelds": {
       "review": 149,
       "exclude": 8,
-      "priority": 13
+      "priority": 14
     },
     "audio": {
       "exclude": 153,
-      "review": 99,
+      "review": 100,
       "priority": 22
     }
   },
-  "raw_target_rows": 1472,
-  "curated_rows": 1445,
+  "raw_target_rows": 1473,
+  "curated_rows": 1446,
   "enrichment_attempted": 40,
   "enrichment_counts": {
-    "article_metadata": 24,
-    "failed": 2,
-    "deferred_host": 6,
+    "article_metadata": 28,
     "url_only": 2,
-    "not_article": 6,
+    "failed": 2,
+    "deferred_host": 3,
+    "not_article": 5,
     "feed_title_match": 10
   },
   "overall_status": "partial",
@@ -74,7 +74,7 @@
     {
       "source_id": "pc_ai-openai-help",
       "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-      "status": "changed"
+      "status": "unchanged"
     },
     {
       "source_id": "pc_ai-openai-help",
@@ -85,12 +85,12 @@
     {
       "source_id": "pc_ai-openai-help",
       "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
-      "status": "unchanged"
+      "status": "changed"
     },
     {
       "source_id": "pc_ai-openai-help",
       "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-      "status": "changed"
+      "status": "unchanged"
     },
     {
       "source_id": "pc_ai-openai-help",
@@ -124,8 +124,8 @@
     {
       "source_id": "audio-android-authority-tws",
       "group": "audio",
-      "status": "partial",
-      "items": 95,
+      "status": "deferred",
+      "items": 0,
       "method": "news",
       "errors": [
         "direct RSS: 403 Client Error: Forbidden for url: https://androidauthority.com/"
@@ -134,7 +134,7 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "ok"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "audio-apple-airpods",
@@ -155,8 +155,8 @@
     {
       "source_id": "audio-audio-science-review",
       "group": "audio",
-      "status": "partial",
-      "items": 28,
+      "status": "deferred",
+      "items": 0,
       "method": "news",
       "errors": [
         "direct RSS: no usable declared feed"
@@ -165,7 +165,7 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "ok"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "audio-av-watch-audio",
@@ -201,8 +201,8 @@
     {
       "source_id": "audio-bluetooth-sig",
       "group": "audio",
-      "status": "partial",
-      "items": 14,
+      "status": "deferred",
+      "items": 0,
       "method": "news",
       "errors": [
         "direct RSS: 403 Client Error: Forbidden for url: https://www.bluetooth.com/"
@@ -211,13 +211,13 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "ok"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "audio-bose",
       "group": "audio",
-      "status": "deferred",
-      "items": 0,
+      "status": "partial",
+      "items": 18,
       "method": "news",
       "errors": [
         "direct RSS: no usable declared feed"
@@ -226,13 +226,13 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "deferred_budget"
+      "search_status": "ok"
     },
     {
       "source_id": "audio-canjam",
       "group": "audio",
-      "status": "deferred",
-      "items": 0,
+      "status": "partial",
+      "items": 1,
       "method": "news",
       "errors": [
         "direct RSS: no usable declared feed"
@@ -241,7 +241,7 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "deferred_budget"
+      "search_status": "ok"
     },
     {
       "source_id": "audio-dunu",
@@ -258,7 +258,7 @@
       "direct_methods": [
         "listing"
       ],
-      "search_status": "deferred_budget",
+      "search_status": "deferred_rate_limit",
       "listing_baseline_created": false
     },
     {
@@ -290,7 +290,7 @@
       "direct_methods": [
         "listing"
       ],
-      "search_status": "deferred_budget",
+      "search_status": "deferred_rate_limit",
       "listing_baseline_created": false
     },
     {
@@ -298,7 +298,7 @@
       "group": "audio",
       "status": "partial",
       "items": 276,
-      "method": "listing+news",
+      "method": "listing",
       "errors": [
         "direct RSS: no usable declared feed"
       ],
@@ -308,14 +308,14 @@
       "direct_methods": [
         "listing"
       ],
-      "search_status": "empty",
+      "search_status": "deferred_rate_limit",
       "listing_baseline_created": false
     },
     {
       "source_id": "audio-head-fi",
       "group": "audio",
-      "status": "partial",
-      "items": 99,
+      "status": "deferred",
+      "items": 0,
       "method": "news",
       "errors": [
         "direct RSS: no usable declared feed"
@@ -324,7 +324,7 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "ok"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "audio-headfonia",
@@ -350,9 +350,9 @@
     {
       "source_id": "audio-hifigo",
       "group": "audio",
-      "status": "ok",
-      "items": 32,
-      "method": "rss_discovered+listing+news",
+      "status": "partial",
+      "items": 27,
+      "method": "rss_discovered+listing",
       "errors": [],
       "error": "",
       "hit_cap": false,
@@ -361,32 +361,30 @@
         "rss_discovered",
         "listing"
       ],
-      "search_status": "ok",
+      "search_status": "deferred_rate_limit",
       "listing_baseline_created": false
     },
     {
       "source_id": "audio-ibasso",
       "group": "audio",
-      "status": "partial",
-      "items": 31,
-      "method": "listing+news",
+      "status": "deferred",
+      "items": 0,
+      "method": "news",
       "errors": [
-        "direct RSS: no usable declared feed"
+        "direct RSS: no usable declared feed",
+        "listing: https://ibasso.com/: listing selector found no candidate links"
       ],
-      "error": "direct RSS: no usable declared feed",
+      "error": "direct RSS: no usable declared feed; listing: https://ibasso.com/: listing selector found no candidate links",
       "hit_cap": false,
       "search_needed": true,
-      "direct_methods": [
-        "listing"
-      ],
-      "search_status": "ok",
-      "listing_baseline_created": false
+      "direct_methods": [],
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "audio-jbl",
       "group": "audio",
-      "status": "deferred",
-      "items": 0,
+      "status": "partial",
+      "items": 28,
       "method": "news",
       "errors": [
         "direct RSS: HTTPSConnectionPool(host='jbl.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTI"
@@ -395,12 +393,12 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "deferred_budget"
+      "search_status": "ok"
     },
     {
       "source_id": "audio-l7audiolab",
       "group": "audio",
-      "status": "deferred",
+      "status": "partial",
       "items": 0,
       "method": "news",
       "errors": [
@@ -410,14 +408,14 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "deferred_budget"
+      "search_status": "empty"
     },
     {
       "source_id": "audio-linsoul",
       "group": "audio",
-      "status": "ok",
-      "items": 119,
-      "method": "rss_discovered+listing+news",
+      "status": "partial",
+      "items": 107,
+      "method": "rss_discovered+listing",
       "errors": [],
       "error": "",
       "hit_cap": true,
@@ -426,7 +424,7 @@
         "rss_discovered",
         "listing"
       ],
-      "search_status": "ok",
+      "search_status": "deferred_rate_limit",
       "listing_baseline_created": false
     },
     {
@@ -452,7 +450,7 @@
     {
       "source_id": "audio-moondrop",
       "group": "audio",
-      "status": "partial",
+      "status": "deferred",
       "items": 0,
       "method": "news",
       "errors": [
@@ -463,14 +461,14 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "empty"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "audio-musicteck",
       "group": "audio",
       "status": "partial",
-      "items": 155,
-      "method": "rss_discovered+listing+news",
+      "items": 55,
+      "method": "rss_discovered+listing",
       "errors": [
         "listing: https://musicteck.com/: listing selector found no candidate links"
       ],
@@ -481,7 +479,7 @@
         "rss_discovered",
         "listing"
       ],
-      "search_status": "ok",
+      "search_status": "deferred_rate_limit",
       "listing_baseline_created": false
     },
     {
@@ -504,8 +502,8 @@
     {
       "source_id": "audio-oneplus-audio",
       "group": "audio",
-      "status": "deferred",
-      "items": 0,
+      "status": "partial",
+      "items": 3,
       "method": "news",
       "errors": [
         "direct RSS: no usable declared feed"
@@ -514,7 +512,7 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "deferred_budget"
+      "search_status": "ok"
     },
     {
       "source_id": "audio-phile-web",
@@ -533,7 +531,7 @@
     {
       "source_id": "audio-qualcomm-audio",
       "group": "audio",
-      "status": "partial",
+      "status": "deferred",
       "items": 0,
       "method": "news",
       "errors": [
@@ -543,7 +541,7 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "empty"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "audio-qudelix",
@@ -603,8 +601,8 @@
       "source_id": "audio-samsung-audio",
       "group": "audio",
       "status": "partial",
-      "items": 11,
-      "method": "rss_discovered+news",
+      "items": 0,
+      "method": "rss_discovered",
       "errors": [
         "listing: https://news.samsung.com/global/: HTTPSConnectionPool(host='news.samsung.com', port=443): Read timed out. (read timeout=15)"
       ],
@@ -614,7 +612,7 @@
       "direct_methods": [
         "rss_discovered"
       ],
-      "search_status": "ok"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "audio-scarbir",
@@ -626,8 +624,8 @@
     {
       "source_id": "audio-sennheiser",
       "group": "audio",
-      "status": "deferred",
-      "items": 0,
+      "status": "partial",
+      "items": 2,
       "method": "news",
       "errors": [
         "direct RSS: no usable declared feed"
@@ -636,14 +634,14 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "deferred_budget"
+      "search_status": "ok"
     },
     {
       "source_id": "audio-shanling",
       "group": "audio",
       "status": "partial",
       "items": 27,
-      "method": "listing+news",
+      "method": "listing",
       "errors": [
         "direct RSS: no usable declared feed"
       ],
@@ -653,15 +651,15 @@
       "direct_methods": [
         "listing"
       ],
-      "search_status": "empty",
+      "search_status": "deferred_rate_limit",
       "listing_baseline_created": false
     },
     {
       "source_id": "audio-shenzhenaudio",
       "group": "audio",
-      "status": "ok",
-      "items": 53,
-      "method": "rss_discovered+listing+news",
+      "status": "partial",
+      "items": 40,
+      "method": "rss_discovered+listing",
       "errors": [],
       "error": "",
       "hit_cap": false,
@@ -670,14 +668,14 @@
         "rss_discovered",
         "listing"
       ],
-      "search_status": "ok",
+      "search_status": "deferred_rate_limit",
       "listing_baseline_created": false
     },
     {
       "source_id": "audio-sony-audio",
       "group": "audio",
-      "status": "partial",
-      "items": 3,
+      "status": "deferred",
+      "items": 0,
       "method": "news",
       "errors": [
         "direct RSS: 403 Client Error: Forbidden for url: https://www.sony.com:443/"
@@ -686,7 +684,7 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "ok"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "audio-soundguys",
@@ -705,8 +703,8 @@
     {
       "source_id": "audio-technics",
       "group": "audio",
-      "status": "deferred",
-      "items": 0,
+      "status": "partial",
+      "items": 2,
       "method": "news",
       "errors": [
         "direct RSS: 403 Client Error: Forbidden for url: https://www.technics.com/"
@@ -715,7 +713,7 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "deferred_budget"
+      "search_status": "ok"
     },
     {
       "source_id": "audio-the-walkman-blog",
@@ -747,23 +745,25 @@
     {
       "source_id": "games_handhelds-anbernic",
       "group": "games_handhelds",
-      "status": "ok",
+      "status": "partial",
       "items": 7,
-      "method": "listing+news",
-      "errors": [],
-      "error": "",
+      "method": "listing",
+      "errors": [
+        "search: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Aanbernic.com+when%3A4d+%28handheld+OR+Retroid+OR+AYANEO+OR+ANBERNIC+OR+"
+      ],
+      "error": "search: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Aanbernic.com+when%3A4d+%28handheld+OR+Retroid+OR+AYANEO+OR+ANBERNIC+OR+",
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [
         "listing"
       ],
-      "search_status": "empty",
+      "search_status": "failed",
       "listing_baseline_created": false
     },
     {
       "source_id": "games_handhelds-android-authority-handheld",
       "group": "games_handhelds",
-      "status": "partial",
+      "status": "deferred",
       "items": 0,
       "method": "news",
       "errors": [
@@ -773,14 +773,14 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "empty"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "games_handhelds-ayaneo",
       "group": "games_handhelds",
-      "status": "ok",
+      "status": "partial",
       "items": 32,
-      "method": "listing+news",
+      "method": "listing",
       "errors": [],
       "error": "",
       "hit_cap": false,
@@ -788,23 +788,23 @@
       "direct_methods": [
         "listing"
       ],
-      "search_status": "empty",
+      "search_status": "deferred_rate_limit",
       "listing_baseline_created": false
     },
     {
       "source_id": "games_handhelds-ayn",
       "group": "games_handhelds",
-      "status": "partial",
+      "status": "deferred",
       "items": 0,
       "method": "news",
       "errors": [
-        "listing: https://www.ayn.hk/collections/all: 404 Client Error: Not Found for url: https://www.ayn.hk/collections/all; https://www.ayn.hk/: listing se"
+        "listing: https://www.ayn.hk/collections/all: listing selector found no candidate links; https://www.ayn.hk/: listing selector found no candidate link"
       ],
-      "error": "listing: https://www.ayn.hk/collections/all: 404 Client Error: Not Found for url: https://www.ayn.hk/collections/all; https://www.ayn.hk/: listing se",
+      "error": "listing: https://www.ayn.hk/collections/all: listing selector found no candidate links; https://www.ayn.hk/: listing selector found no candidate link",
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "empty"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "games_handhelds-azahar",
@@ -823,7 +823,7 @@
     {
       "source_id": "games_handhelds-azur-lane-jp",
       "group": "games_handhelds",
-      "status": "partial",
+      "status": "deferred",
       "items": 0,
       "method": "news",
       "errors": [
@@ -833,7 +833,7 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "empty"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "games_handhelds-batocera",
@@ -1024,7 +1024,7 @@
       "source_id": "games_handhelds-pcgamingwiki",
       "group": "games_handhelds",
       "status": "partial",
-      "items": 4,
+      "items": 2,
       "method": "news",
       "errors": [
         "direct RSS: no usable declared feed"
@@ -1210,7 +1210,7 @@
       "source_id": "games_handhelds-steam-racing-updates",
       "group": "games_handhelds",
       "status": "partial",
-      "items": 46,
+      "items": 47,
       "method": "news",
       "errors": [
         "direct RSS: no usable declared feed"
@@ -1304,8 +1304,23 @@
     {
       "source_id": "motorsport-amus",
       "group": "motorsport",
+      "status": "deferred",
+      "items": 0,
+      "method": "news",
+      "errors": [
+        "direct RSS: no usable declared feed"
+      ],
+      "error": "direct RSS: no usable declared feed",
+      "hit_cap": false,
+      "search_needed": true,
+      "direct_methods": [],
+      "search_status": "deferred_rate_limit"
+    },
+    {
+      "source_id": "motorsport-autoracer",
+      "group": "motorsport",
       "status": "partial",
-      "items": 100,
+      "items": 25,
       "method": "news",
       "errors": [
         "direct RSS: no usable declared feed"
@@ -1315,20 +1330,6 @@
       "search_needed": true,
       "direct_methods": [],
       "search_status": "ok"
-    },
-    {
-      "source_id": "motorsport-autoracer",
-      "group": "motorsport",
-      "status": "ok",
-      "items": 10,
-      "method": "rss_discovered",
-      "errors": [],
-      "error": "",
-      "hit_cap": false,
-      "search_needed": false,
-      "direct_methods": [
-        "rss_discovered"
-      ]
     },
     {
       "source_id": "motorsport-autosport-all",
@@ -1341,7 +1342,7 @@
       "source_id": "motorsport-autosport-f1",
       "group": "motorsport",
       "status": "ok",
-      "items": 23,
+      "items": 24,
       "method": "rss",
       "errors": [],
       "error": "",
@@ -1376,15 +1377,15 @@
     {
       "source_id": "motorsport-dakar-official",
       "group": "motorsport",
-      "status": "ok",
-      "items": 2,
+      "status": "deferred",
+      "items": 0,
       "method": "news",
       "errors": [],
       "error": "",
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "ok"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "motorsport-dirtfish",
@@ -1404,7 +1405,7 @@
       "source_id": "motorsport-ewrc-results",
       "group": "motorsport",
       "status": "partial",
-      "items": 100,
+      "items": 99,
       "method": "news",
       "errors": [
         "direct RSS: 403 Client Error: Forbidden for url: https://ewrc-results.com/"
@@ -1433,15 +1434,15 @@
     {
       "source_id": "motorsport-fia",
       "group": "motorsport",
-      "status": "ok",
-      "items": 53,
+      "status": "deferred",
+      "items": 0,
       "method": "news",
       "errors": [],
       "error": "",
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "ok"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "motorsport-fia-wec",
@@ -1461,15 +1462,15 @@
     {
       "source_id": "motorsport-formula-1-official",
       "group": "motorsport",
-      "status": "ok",
-      "items": 100,
+      "status": "deferred",
+      "items": 0,
       "method": "news",
       "errors": [],
       "error": "",
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "ok"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "motorsport-formulapassion",
@@ -1488,15 +1489,15 @@
     {
       "source_id": "motorsport-indycar-official",
       "group": "motorsport",
-      "status": "ok",
-      "items": 6,
+      "status": "deferred",
+      "items": 0,
       "method": "news",
       "errors": [],
       "error": "",
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "ok"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "motorsport-motorsport-en-f1",
@@ -1522,21 +1523,21 @@
     {
       "source_id": "motorsport-nascar-official",
       "group": "motorsport",
-      "status": "ok",
-      "items": 59,
+      "status": "deferred",
+      "items": 0,
       "method": "news",
       "errors": [],
       "error": "",
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "ok"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "motorsport-planetf1",
       "group": "motorsport",
-      "status": "partial",
-      "items": 86,
+      "status": "deferred",
+      "items": 0,
       "method": "news",
       "errors": [
         "direct RSS: no usable declared feed"
@@ -1545,28 +1546,28 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "ok"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "motorsport-racefans",
       "group": "motorsport",
-      "status": "partial",
-      "items": 38,
+      "status": "deferred",
+      "items": 0,
       "method": "news",
       "errors": [
-        "direct RSS: 429 Client Error: Too Many Requests for url: https://www.racefans.net/"
+        "direct RSS: no usable declared feed"
       ],
-      "error": "direct RSS: 429 Client Error: Too Many Requests for url: https://www.racefans.net/",
+      "error": "direct RSS: no usable declared feed",
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "ok"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "motorsport-racer",
       "group": "motorsport",
-      "status": "partial",
-      "items": 86,
+      "status": "deferred",
+      "items": 0,
       "method": "news",
       "errors": [
         "direct RSS: 429 Client Error: Too Many Requests for url: https://racer.com/"
@@ -1575,7 +1576,7 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "ok"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "motorsport-racingnews365",
@@ -1622,8 +1623,8 @@
     {
       "source_id": "motorsport-sky-sports-f1",
       "group": "motorsport",
-      "status": "partial",
-      "items": 21,
+      "status": "deferred",
+      "items": 0,
       "method": "news",
       "errors": [
         "direct RSS: no usable declared feed"
@@ -1632,7 +1633,7 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "ok"
+      "search_status": "deferred_rate_limit"
     },
     {
       "source_id": "motorsport-sportscar365",
@@ -1651,19 +1652,6 @@
     {
       "source_id": "motorsport-super-formula-official",
       "group": "motorsport",
-      "status": "ok",
-      "items": 1,
-      "method": "news",
-      "errors": [],
-      "error": "",
-      "hit_cap": false,
-      "search_needed": true,
-      "direct_methods": [],
-      "search_status": "ok"
-    },
-    {
-      "source_id": "motorsport-super-gt-official",
-      "group": "motorsport",
       "status": "deferred",
       "items": 0,
       "method": "news",
@@ -1672,7 +1660,20 @@
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "deferred_budget"
+      "search_status": "deferred_rate_limit"
+    },
+    {
+      "source_id": "motorsport-super-gt-official",
+      "group": "motorsport",
+      "status": "ok",
+      "items": 11,
+      "method": "news",
+      "errors": [],
+      "error": "",
+      "hit_cap": false,
+      "search_needed": true,
+      "direct_methods": [],
+      "search_status": "ok"
     },
     {
       "source_id": "motorsport-the-race",
@@ -1691,15 +1692,15 @@
     {
       "source_id": "motorsport-wrc-official",
       "group": "motorsport",
-      "status": "deferred",
-      "items": 0,
+      "status": "ok",
+      "items": 34,
       "method": "news",
       "errors": [],
       "error": "",
       "hit_cap": false,
       "search_needed": true,
       "direct_methods": [],
-      "search_status": "deferred_budget"
+      "search_status": "ok"
     },
     {
       "source_id": "motorsport-wrcwings",
@@ -1776,7 +1777,7 @@
       "source_id": "pc_ai-artificial-analysis",
       "group": "pc_ai",
       "status": "partial",
-      "items": 28,
+      "items": 30,
       "method": "news",
       "errors": [
         "direct RSS: no usable declared feed"
@@ -1810,7 +1811,7 @@
       "source_id": "pc_ai-claude-help",
       "group": "pc_ai",
       "status": "ok",
-      "items": 25,
+      "items": 26,
       "method": "news",
       "errors": [],
       "error": "",
@@ -1974,7 +1975,7 @@
       "source_id": "pc_ai-openai",
       "group": "pc_ai",
       "status": "partial",
-      "items": 8,
+      "items": 6,
       "method": "rss_discovered",
       "errors": [
         "listing: https://openai.com/news/: listing selector found no candidate links"
@@ -1990,7 +1991,7 @@
       "source_id": "pc_ai-openai-help",
       "group": "pc_ai",
       "status": "ok",
-      "items": 34,
+      "items": 35,
       "method": "news",
       "errors": [],
       "error": "",
@@ -2067,7 +2068,7 @@
       "source_id": "pc_ai-techpowerup",
       "group": "pc_ai",
       "status": "ok",
-      "items": 113,
+      "items": 109,
       "method": "rss",
       "errors": [],
       "error": "",
@@ -2081,7 +2082,7 @@
       "source_id": "pc_ai-testingcatalog",
       "group": "pc_ai",
       "status": "ok",
-      "items": 13,
+      "items": 12,
       "method": "rss_discovered",
       "errors": [],
       "error": "",
@@ -2095,7 +2096,7 @@
       "source_id": "pc_ai-tftcentral",
       "group": "pc_ai",
       "status": "ok",
-      "items": 9,
+      "items": 7,
       "method": "rss_discovered",
       "errors": [],
       "error": "",
@@ -2136,7 +2137,7 @@
       "source_id": "pc_ai-trendforce",
       "group": "pc_ai",
       "status": "partial",
-      "items": 19,
+      "items": 14,
       "method": "news",
       "errors": [
         "direct RSS: no usable declared feed"
@@ -2178,9 +2179,9 @@
   ],
   "successful_route_24h": 159,
   "recovery_counts": {
-    "motorsport": 961,
-    "pc_ai": 641,
+    "motorsport": 964,
+    "pc_ai": 643,
     "games_handhelds": 345,
-    "audio": 288
+    "audio": 293
   }
 }

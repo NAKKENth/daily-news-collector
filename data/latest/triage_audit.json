@@ -1,14 +1,5 @@
 [
   {
-    "id": "a8611ff11692c8546bdc8c60",
-    "group": "motorsport",
-    "topic": "WRC",
-    "title": "- WRC.com",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95dkJFUVFkejZWekZ6dlRISjZ4MzRpM1dCWWNGWEhzU3BWYWtIRFJwX3JmSUd0RVhPWEo3dGZnNUY3WnZJMElYSElfdjU4TVJGSkc0b0R4TUxOakVMMzBmNXdpaGJxbUY3NEdrVENZOVA0TTg?oc=5",
-    "triage": "exclude",
-    "reason": "一覧・ナビゲーション候補"
-  },
-  {
     "id": "c1ad7655e6e14a2ec1ca2553",
     "group": "pc_ai",
     "topic": "pc",
@@ -259,15 +250,6 @@
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbGhJdWtvUVdXdENuYUVlZlhjcmRxX1lSZDk4TkJ4Uk4zUDNsUHJHZnBOTG9weFJhdWEyRWxpd3Z4Tkl2UU1UX1BWM3VVc3VvU19WTHZkM3ZPd1hfelM5ZGU0c2lHeDV3a3FfNnJuV1JTNXh2ckN2QklES1RVa1hHTg?oc=5",
     "triage": "exclude",
     "reason": "通常セール・販促・中古"
-  },
-  {
-    "id": "c323638e6be9c3a07a03d4ab",
-    "group": "audio",
-    "topic": "tws",
-    "title": "Car & Marine Speakers - JBL",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1NbU9DN1Rrd3NOTWlrY2F1MjZuZWtUR0RzT0RlTWFodlNnZGY3NTBGT2Ewa2FCWDJ5QW9XTnRTR2JCVWxtOFE?oc=5",
-    "triage": "exclude",
-    "reason": "対象外機器・サービス"
   },
   {
     "id": "9406d676bc88d3b66c7ca790",
@@ -2428,5 +2410,14 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZnZubGQyTlN0ckhsYmx5N19kNEFHTV9zcER3Y3MyeUp0ODk3QV9BNGx0UkYxdnBXb1FFQm52R1VOMWJiOE1vQlM0VWJTWlQyZlBZLTVDMDNRcW1LMzZZSUY3SXN5YktwRGVWbzYtZzNWeEt0VjY2T3Q5VjVzTGttS3NrM0Q?oc=5",
     "triage": "exclude",
     "reason": "一覧・ナビゲーション候補"
+  },
+  {
+    "id": "26cc9129fb3274181a6b9390",
+    "group": "audio",
+    "topic": "tws",
+    "title": "JBL Charge 6 | Portable waterproof and drop-proof Bluetooth speaker - JBL",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU2tiWVVoM0pmS2lKSTNmdDJicDdKdUk4bk9iLTlwbWFsX1JnLUtPSGc4alZMZVlfekc1WURiOFdCZlRKZXh2ZnZWeHJBV2FuOUpLUjlISGs5MWxvajZLMEo2bTdSMFBncUVySllqamdLcmh2VTB4RkpOS0VkVFBsOEdBbEVfRUxwNEdlR2VwZw?oc=5",
+    "triage": "exclude",
+    "reason": "対象外機器・サービス"
   }
 ]

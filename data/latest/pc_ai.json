@@ -84,58 +84,6 @@
       ]
     },
     {
-      "id": "2ea5dcbc07b82d7503060594",
-      "topic": "ai",
-      "title": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWm96THVxRG9rTGtUbFBtN2lpUDJ0RWd3WmI5dHZfeUQ5MWFZdXd0NHQ4YTlMb2otYUxwTUpTMXp4NnRlMmljYmZZSHZydTl3dEl0ZmJMUURVSEl0UXhndFZSWUwwZ0JXRWNiQ3M1OHByWm1yX0FwOTJkNFhRdlFIUVotZDlqT3otXy0xQ0FTeE4yNFdkZW9KazlKbmwyYUpuWmZSeHlLaw?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-27T07:11:52+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWm96THVxRG9rTGtUbFBtN2lpUDJ0RWd3WmI5dHZfeUQ5MWFZdXd0NHQ4YTlMb2otYUxwTUpTMXp4NnRlMmljYmZZSHZydTl3dEl0ZmJMUURVSEl0UXhndFZSWUwwZ0JXRWNiQ3M1OHByWm1yX0FwOTJkNFhRdlFIUVotZDlqT3otXy0xQ0FTeE4yNFdkZW9KazlKbmwyYUpuWmZSeHlLaw?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T07:11:52+00:00",
-          "title": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
-      "id": "fbf09d1cd7a58a6f7c157a94",
-      "topic": "ai",
-      "title": "Using the new experience in the ChatGPT mobile app | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX3B3NDU4RTRjc0ZYNFFqNTAtVnA5VlExQ1BGWWhKUFk2eWt5QmVpMXYxNTktNXBabGc1UTd4WnlKMFMtSWpramp3enV4N3ltby1LclZtZnZuTm1RZUJmcnc0RS1BeUtZOEk4TXZ0dlRPNElWQzd6bUQtaDItal9HU0FiSVVmYXNKcDBCRzVGQnVLREtCelkxQnUwaw?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "Using the new experience in the ChatGPT mobile app | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-27T03:09:30+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "priority",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX3B3NDU4RTRjc0ZYNFFqNTAtVnA5VlExQ1BGWWhKUFk2eWt5QmVpMXYxNTktNXBabGc1UTd4WnlKMFMtSWpramp3enV4N3ltby1LclZtZnZuTm1RZUJmcnc0RS1BeUtZOEk4TXZ0dlRPNElWQzd6bUQtaDItal9HU0FiSVVmYXNKcDBCRzVGQnVLREtCelkxQnUwaw?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T03:09:30+00:00",
-          "title": "Using the new experience in the ChatGPT mobile app | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
       "id": "b158b17edd54d4954ad3cf63",
       "topic": "ai",
       "title": "Bidding strategies and how pricing works in ChatGPT Ads | OpenAI Help Center - OpenAI Help Center",
@@ -184,32 +132,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-27T09:44:32+00:00",
           "title": "Composer predictions in Codex | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
-      "id": "6c1b62b4b3d2c74c4873d378",
-      "topic": "ai",
-      "title": "Why does ChatGPT say “Context window full” or “Chat memory full”? | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWtUc05MdGdDeks3Tm1XTjVXcE1JTkhxdENHc1lCTGlGQXJZbGJUNGUwdVdqVWhqaHBkMTk0WmU3a2xQQllmN29SUHBMbXpPUlVXaTNlWDJyWk5LX29rRjBZR091T012QzBjM3otZnRTdTlQLVRuZ0xGYVNEcEx3RjJva2R1NndRTGlZTVZuU3k4azhqR3VkS2txUEtPS1pzN2V1eFJSMEc?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "Why does ChatGPT say “Context window full” or “Chat memory full”? | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-27T07:30:50+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWtUc05MdGdDeks3Tm1XTjVXcE1JTkhxdENHc1lCTGlGQXJZbGJUNGUwdVdqVWhqaHBkMTk0WmU3a2xQQllmN29SUHBMbXpPUlVXaTNlWDJyWk5LX29rRjBZR091T012QzBjM3otZnRTdTlQLVRuZ0xGYVNEcEx3RjJva2R1NndRTGlZTVZuU3k4azhqR3VkS2txUEtPS1pzN2V1eFJSMEc?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T07:30:50+00:00",
-          "title": "Why does ChatGPT say “Context window full” or “Chat memory full”? | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -344,32 +266,6 @@
       ]
     },
     {
-      "id": "348123e2ac32f1a4f1c92c03",
-      "topic": "ai",
-      "title": "ChatGPT Work and Codex | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hdmNxc1ZRV1ZUazhMY3VGR2NDeEtvTk96ZkJMRHhYczhuZ29tSVJfNnJXN1ZzanVFVFN0dE5pMGg5ZTJiU3Yzb1hFM1czamFpdkxIaFdla2d1UVo2LVZiVTV3cnN5ZmJkeU9LLXp0Z0hvY2pyR0E?oc=5",
-      "source": "OpenAI",
-      "publisher": "OpenAI Help Center",
-      "description": "ChatGPT Work and Codex | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-27T05:35:31+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hdmNxc1ZRV1ZUazhMY3VGR2NDeEtvTk96ZkJMRHhYczhuZ29tSVJfNnJXN1ZzanVFVFN0dE5pMGg5ZTJiU3Yzb1hFM1czamFpdkxIaFdla2d1UVo2LVZiVTV3cnN5ZmJkeU9LLXp0Z0hvY2pyR0E?oc=5",
-          "source": "OpenAI",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T05:35:31+00:00",
-          "title": "ChatGPT Work and Codex | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
       "id": "839653ec9cd5f3bcbbfaf73f",
       "topic": "ai",
       "title": "Ads in ChatGPT: The Basics | OpenAI Help Center - OpenAI Help Center",
@@ -403,7 +299,7 @@
       "source": "OpenAI",
       "publisher": "OpenAI Help Center",
       "description": "Connecting and managing app accounts in ChatGPT | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-27T06:05:24+00:00",
+      "published_utc": "2026-11-27T12:15:24+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -416,34 +312,8 @@
           "source": "OpenAI",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T06:05:24+00:00",
+          "published_utc": "2026-11-27T12:15:24+00:00",
           "title": "Connecting and managing app accounts in ChatGPT | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
-      "id": "9c66527ab55c4abdc1982522",
-      "topic": "ai",
-      "title": "Moving to the new ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd3ZsMThuLTFaT3VEYTRxQ1NoOXpwZTkzYU1lSDJSc3h2cFhOeFZCUk5UejVvMjV2NFhfcHZNTGUzVW0yTmVBeGFOWVhuTmk3NU1xTFQ3a1REdXpOZXVNWVpiajlhRHJ2OWlvYzNSQXZoRGJReEZfSXFxZU8tREdKbXpLdHdIajc5Nmc?oc=5",
-      "source": "OpenAI",
-      "publisher": "OpenAI Help Center",
-      "description": "Moving to the new ChatGPT desktop app | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-26T20:46:45+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "priority",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd3ZsMThuLTFaT3VEYTRxQ1NoOXpwZTkzYU1lSDJSc3h2cFhOeFZCUk5UejVvMjV2NFhfcHZNTGUzVW0yTmVBeGFOWVhuTmk3NU1xTFQ3a1REdXpOZXVNWVpiajlhRHJ2OWlvYzNSQXZoRGJReEZfSXFxZU8tREdKbXpLdHdIajc5Nmc?oc=5",
-          "source": "OpenAI",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T20:46:45+00:00",
-          "title": "Moving to the new ChatGPT desktop app | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -455,7 +325,7 @@
       "source": "OpenAI",
       "publisher": "OpenAI Help Center",
       "description": "Using locked chats in ChatGPT | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-27T06:15:45+00:00",
+      "published_utc": "2026-11-27T12:23:19+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -468,7 +338,7 @@
           "source": "OpenAI",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T06:15:45+00:00",
+          "published_utc": "2026-11-27T12:23:19+00:00",
           "title": "Using locked chats in ChatGPT | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -552,6 +422,32 @@
       ]
     },
     {
+      "id": "8a6a1f5df908a4f9857f7a3d",
+      "topic": "ai",
+      "title": "Daily budgets | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lbkxOeFBhLUVYaXp1am80T29TS0w0VHJfWHJqR2RXRU9OUG5iLWVzQUY1UjVKbVdwNUdTUmZOR09QTnZUVVVUVTNPQkcwekhfY0hLLTlfOFNpWUY2bmltZTVFQ1MzRkw3UUE?oc=5",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help Center",
+      "description": "Daily budgets | OpenAI Help Center OpenAI Help Center",
+      "published_utc": "2026-11-27T13:45:11+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lbkxOeFBhLUVYaXp1am80T29TS0w0VHJfWHJqR2RXRU9OUG5iLWVzQUY1UjVKbVdwNUdTUmZOR09QTnZUVVVUVTNPQkcwekhfY0hLLTlfOFNpWUY2bmltZTVFQ1MzRkw3UUE?oc=5",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T13:45:11+00:00",
+          "title": "Daily budgets | OpenAI Help Center - OpenAI Help Center"
+        }
+      ]
+    },
+    {
       "id": "2fecbb69ddc34f44ee2a69ca",
       "topic": "ai",
       "title": "Musk pledges two SpaceX shares for every US child in $18 billion AI charm offensive - Reuters",
@@ -574,6 +470,32 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T20:27:35+00:00",
           "title": "Musk pledges two SpaceX shares for every US child in $18 billion AI charm offensive - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "4b66ece904cfb872c02a02d5",
+      "topic": "ai",
+      "title": "Stocks rally, Europe sizes up next ECB chief - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWRTQ2N0czgwTVhPdVhvZDUzeDNDRUJ6cFd0MWx1N05aSTJHaUlOdTQ5X2xieEVueHJ3VTRrb0ppNEtzbFVBRm1fU3VvV0xpMWVlUWg3c0NvWXJxS2ZabkwwejhwenhCVmhYRUdweUwwdHhTTWd1bTh2QlR1dFpvVDFHVQ?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "Stocks rally, Europe sizes up next ECB chief Reuters",
+      "published_utc": "2026-11-26T18:41:24+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWRTQ2N0czgwTVhPdVhvZDUzeDNDRUJ6cFd0MWx1N05aSTJHaUlOdTQ5X2xieEVueHJ3VTRrb0ppNEtzbFVBRm1fU3VvV0xpMWVlUWg3c0NvWXJxS2ZabkwwejhwenhCVmhYRUdweUwwdHhTTWd1bTh2QlR1dFpvVDFHVQ?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T18:41:24+00:00",
+          "title": "Stocks rally, Europe sizes up next ECB chief - Reuters"
         }
       ]
     },
@@ -644,12 +566,12 @@
       "url": "https://www.computerbase.de/news/storage/kioxia-gp2-neue-high-end-ssd-erreicht-18-mio-iops-mit-xl-flash-gen-3.100552",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Für die anvisierten 20 Millionen IOPS hat es nicht ganz gereicht, doch auch die 18 Millionen IOPS der neuen „Super High IOPS SSD“ GP2 von Kioxia sind rekordverdächtig. Ermöglicht wird diese Leistung vom neuen XL-Flash der Generation 3. Allerdings dauert es noch lange bis zum Marktstart.",
+      "description": "Für 20 Millionen IOPS hat es nicht ganz gereicht, doch auch 18 Mio. IOPS der neuen „Super High IOPS SSD“ von Kioxia sind rekordverdächtig.",
       "published_utc": "2026-11-26T18:09:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "PC技術候補",
       "sources": [
@@ -657,11 +579,15 @@
           "url": "https://www.computerbase.de/news/storage/kioxia-gp2-neue-high-end-ssd-erreicht-18-mio-iops-mit-xl-flash-gen-3.100552",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T18:09:00+00:00",
           "title": "Kioxia GP2: Neue High-End-SSD erreicht 18 Mio. IOPS mit XL Flash Gen 3"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T19:09:00+01:00",
+      "article_modified_raw": "2026-11-26T19:09:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "8f1123a774ce4c5e1be44493",
@@ -730,12 +656,12 @@
       "url": "https://www.computerbase.de/news/internet/rumpfnetz-notstrom-satelliten-wie-die-bundesnetzagentur-mobilfunk-krisenfest-machen-will.100548",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Nach den Berliner Infrastruktur­angriffen von 2025 und 2026 richtet die Bundes­netz­agentur ihre Resilienz­strategie neu aus. Sie setzt auf ein krisenfestes Mobilfunk-Rumpfnetz, längere Notstrom­puffer und Satelliten­kommunikation. Viele Vorschläge sind zunächst Prüfaufträge; verbindliche Pflichten schafft das neue Papier nicht.",
+      "description": "Die Bundesnetzagentur denkt den Netzschutz neu: Rumpfnetz, mehr Notstrom und Satelliten sollen Mobilfunk bei Stromausfällen absichern.",
       "published_utc": "2026-11-26T16:59:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -743,11 +669,15 @@
           "url": "https://www.computerbase.de/news/internet/rumpfnetz-notstrom-satelliten-wie-die-bundesnetzagentur-mobilfunk-krisenfest-machen-will.100548",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T16:59:00+00:00",
           "title": "Berlin als Warnsignal: Bundesnetzagentur legt neue Resilienzstrategie vor"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T17:59:00+01:00",
+      "article_modified_raw": "2026-11-26T17:59:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "f31ef1c795251ada047bf56e",
@@ -786,12 +716,12 @@
       "url": "https://www.computerbase.de/news/storage/samsung-v11-tlc-nand-mit-1-5-tbit-und-6-8-gbit-s-auf-5xx-layern.100540",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Der technisch ins Hintertreffen geratene 3D-NAND-Pionier Samsung arbeitet an neuem TLC-Speicher, der sich auf dem Papier wie ein Riesensprung ankündigt. Erstmals sollen 1,5 Tbit Speicherkapazität und mehr als 500 Layer geboten werden. Hinzu kommen eine hohe Speicherdichte und ein immenser Durchsatz.",
+      "description": "Der 3D-NAND-Pionier Samsung arbeitet an neuem TLC-Speicher, der sich auf dem Papier wie ein Riesensprung ankündigt.",
       "published_utc": "2026-11-26T16:15:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -799,11 +729,15 @@
           "url": "https://www.computerbase.de/news/storage/samsung-v11-tlc-nand-mit-1-5-tbit-und-6-8-gbit-s-auf-5xx-layern.100540",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T16:15:00+00:00",
           "title": "Neuer TLC-Speicher: Samsung plant Riesensprung mit 1,5 Tbit auf 5xx Layern"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T17:15:00+01:00",
+      "article_modified_raw": "2026-11-26T17:15:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "f37d9e59870f2f3dcf476bff",
@@ -4390,12 +4324,12 @@
       "url": "https://www.gsmarena.com/the_us_will_hit_china_and_13_other_trading_partners_with_fresh_tariffs_affecting_apple-news-75659.php",
       "source": "GSMArena",
       "publisher": "GSMArena",
-      "description": "The Trump administration has proposed new tariffs on imports from 14 US trading partners, including China, India, South Korea, Japan, and the European Union. The planned tariffs are under Section 301 of the Trade Act of 1974, which is a different legal mechanism from the one Trump previously used, and which was subsequently struck down by the Supre",
+      "description": "The proposed tariffs could mean up to 20% on Apple imports from China. The Trump administration has proposed new tariffs on imports from 14 US trading...",
       "published_utc": "2026-11-26T23:15:02+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -4403,11 +4337,15 @@
           "url": "https://www.gsmarena.com/the_us_will_hit_china_and_13_other_trading_partners_with_fresh_tariffs_affecting_apple-news-75659.php",
           "source": "GSMArena",
           "publisher": "GSMArena",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T23:15:02+00:00",
           "title": "The US will hit China and 13 other trading partners with fresh tariffs, affecting Apple"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T00:15:02+01:00",
+      "article_modified_raw": "2026-11-27T00:15:02+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "6de42a27e15b0462c1bb38e4",
@@ -4818,12 +4756,12 @@
       "url": "https://www.computerbase.de/news/prozessoren/tau-scaling-cpus-huawei-entwickelt-eigene-eda-werkzeuge.100550",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Während ASML sich dafür ausspricht, ältere Lithografie-Systeme nach China zu liefern, setzt Huawei mit eigenen EDA-Werkzeugen auf immer mehr Unabhängigkeit. Für die Entwicklung arbeitet Huawei mit dem Softwareunternehmen Phlexing Technology zusammen, um mit passender EDA-Software wichtige Schritte des Chipdesigns abzudecken.",
+      "description": "Huawei hat mit neuen EDA-Werkzeugen eine vollständig inländische Entwicklungskette geschaffen und so eine der größten Hürden genommen.",
       "published_utc": "2026-11-27T06:00:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -4831,11 +4769,15 @@
           "url": "https://www.computerbase.de/news/prozessoren/tau-scaling-cpus-huawei-entwickelt-eigene-eda-werkzeuge.100550",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T06:00:00+00:00",
           "title": "Tau-Scaling-CPUs: Huawei entwickelt eigene EDA-Werkzeuge"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T07:00:00+01:00",
+      "article_modified_raw": "2026-11-27T07:00:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "91f319add4d8d3c3f4aede25",
@@ -4870,16 +4812,16 @@
     {
       "id": "2fb75bf86c0b43cd7338d87b",
       "topic": "smartphones",
-      "title": "OnePlus Nord N7 Pro leaks and it's a confusing one",
+      "title": "OnePlus Nord N7 Pro leaks and it&#039;s a confusing one",
       "url": "https://www.gsmarena.com/oneplus_nord_n7_pro_leaks_and_its_a_confusing_one-news-75660.php",
       "source": "GSMArena",
       "publisher": "GSMArena",
-      "description": "The OnePlus N6 has been available since July, and the company has since added the N6x and N6 Lite to its affordable N-series. Today, images and a few key specs have been outed for a new model with a slightly confusing name, the OnePlus Nord N7 Pro. That name comes from a test sample, and the phone may apparently even launch as the OnePlus N7 Pro. O",
+      "description": "Is it a Nord, is it an N-series device, is it both or neither? The OnePlus N6 has been available since July, and the company has since added the N6x and N6...",
       "published_utc": "2026-11-27T06:32:02+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -4887,11 +4829,15 @@
           "url": "https://www.gsmarena.com/oneplus_nord_n7_pro_leaks_and_its_a_confusing_one-news-75660.php",
           "source": "GSMArena",
           "publisher": "GSMArena",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T06:32:02+00:00",
-          "title": "OnePlus Nord N7 Pro leaks and it's a confusing one"
+          "title": "OnePlus Nord N7 Pro leaks and it&#039;s a confusing one"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T07:32:02+01:00",
+      "article_modified_raw": "2026-11-27T07:32:02+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "e56d7e77bc3016bfe5b85abf",
@@ -4952,16 +4898,16 @@
     {
       "id": "89d755f42c8cdaa062a1bb57",
       "topic": "smartphones",
-      "title": "iOS and HarmonyOS gain ground as Android's Q3 share hits a record low",
+      "title": "iOS and HarmonyOS gain ground as Android&#039;s Q3 share hits a record low",
       "url": "https://www.gsmarena.com/ios_and_harmonyos_gain_ground_as_androids_q3_share_hits_a_record_low-news-75653.php",
       "source": "GSMArena",
       "publisher": "GSMArena",
-      "description": "Last month Counterpoint Research (CR) told us that the Q3 smartphone market dropped 20%, and today the firm has published its breakdown of sales share by operating system for the same quarter. Unsurprisingly, the memory crisis has left its mark here too. According to CR, global smartphone sales were down 16% year-over-year in Q3, as the RAM supply ",
+      "description": "Apple's newest Pro models certainly helped. Last month Counterpoint Research (CR) told us that the Q3 smartphone market dropped 20%, and today the firm has...",
       "published_utc": "2026-11-27T02:01:02+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -4969,11 +4915,15 @@
           "url": "https://www.gsmarena.com/ios_and_harmonyos_gain_ground_as_androids_q3_share_hits_a_record_low-news-75653.php",
           "source": "GSMArena",
           "publisher": "GSMArena",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T02:01:02+00:00",
-          "title": "iOS and HarmonyOS gain ground as Android's Q3 share hits a record low"
+          "title": "iOS and HarmonyOS gain ground as Android&#039;s Q3 share hits a record low"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T03:01:02+01:00",
+      "article_modified_raw": "2026-11-27T03:01:02+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "0faadd6ebef69604d14abdb2",
@@ -5506,12 +5456,12 @@
       "url": "https://www.computerbase.de/news/wirtschaft/gg-bezahlt-led-karten-von-infineon-bringen-rgb-effekt-an-die-kasse.100558",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Infineon und Austriacard bringen Zahlungskarten mit integrierten LEDs für Banken und Karten­hersteller auf den Markt. Die Lichter werden durch das NFC-Feld des Bezahl­terminals versorgt und leuchten beim kontaktlosen Bezahlen auf. Das Inlay lasse sich den Anbietern zufolge mit wenigen Änderungen in bestehende Karten integrieren.",
+      "description": "LEDs in Zahlungskarten leuchten beim kontaktlosen Bezahlen auf: Infineon und Austriacard wollen damit Karten individueller gestalten.",
       "published_utc": "2026-11-27T10:15:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -5519,11 +5469,15 @@
           "url": "https://www.computerbase.de/news/wirtschaft/gg-bezahlt-led-karten-von-infineon-bringen-rgb-effekt-an-die-kasse.100558",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T10:15:00+00:00",
           "title": "Level-up fürs Portemonnaie: Infineon integriert LED-Be­leuch­tung in Zah­lungs­kar­ten"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T11:15:00+01:00",
+      "article_modified_raw": "2026-11-27T11:15:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "ee284b0b8a06d5cc0892d478",
@@ -5584,16 +5538,16 @@
     {
       "id": "f0ff7d1ff016fc371485d8aa",
       "topic": "smartphones",
-      "title": "Realme 17 Ultra's memory configurations and colors tipped",
+      "title": "Realme 17 Ultra&#039;s memory configurations and colors tipped",
       "url": "https://www.gsmarena.com/realme_17_ultra_ram_storage_colors_tipped-news-75669.php",
       "source": "GSMArena",
       "publisher": "GSMArena",
-      "description": "We've heard about the Realme 17T and Realme 17 Pro before, and we've even seen their designs. While Realme hasn't confirmed these smartphones yet, a tipster claims the Realme 17 series will also include an Ultra model. The Realme 17 Ultra is tipped to be the first Ultra smartphone in the company's number series, and it's coming to India. When? We d",
+      "description": "It will be the first Ultra model in Realme's number series. We've heard about the Realme 17T and Realme 17 Pro before, and we've even seen their designs....",
       "published_utc": "2026-11-27T12:03:03+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -5601,11 +5555,15 @@
           "url": "https://www.gsmarena.com/realme_17_ultra_ram_storage_colors_tipped-news-75669.php",
           "source": "GSMArena",
           "publisher": "GSMArena",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T12:03:03+00:00",
-          "title": "Realme 17 Ultra's memory configurations and colors tipped"
+          "title": "Realme 17 Ultra&#039;s memory configurations and colors tipped"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T13:03:03+01:00",
+      "article_modified_raw": "2026-11-27T13:03:03+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "ac2611e79af0426ba2f19e21",
@@ -5614,12 +5572,12 @@
       "url": "https://www.gsmarena.com/honor_magic10_pro_max_could_have_three_200mp_cameras-news-75663.php",
       "source": "GSMArena",
       "publisher": "GSMArena",
-      "description": "The Honor Magic9 Pro Max is endowed with a 200MP main camera, a 200MP 3.5x periscope telephoto, and a 50MP 1/2.88-inch ultrawide. Today, Digital Chat Station is claiming that its successor, the Magic10 Pro Max, is being evaluated with three 200MP large-sensor cameras. The ultrawide is said to be a 200MP unit with a 1/1.5-inch sensor size. Earlier M",
+      "description": "Its predecessor still makes do with a 50MP ultrawide. The Honor Magic9 Pro Max is endowed with a 200MP main camera, a 200MP 3.5x periscope telephoto, and a...",
       "published_utc": "2026-11-27T09:55:02+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -5627,11 +5585,15 @@
           "url": "https://www.gsmarena.com/honor_magic10_pro_max_could_have_three_200mp_cameras-news-75663.php",
           "source": "GSMArena",
           "publisher": "GSMArena",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T09:55:02+00:00",
           "title": "Honor Magic10 Pro Max could have three 200MP cameras"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T10:55:02+01:00",
+      "article_modified_raw": "2026-11-27T10:55:02+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "a210c410f930258350ebc2bb",
@@ -5640,12 +5602,12 @@
       "url": "https://www.gsmarena.com/oppo_is_planning_three_wide_candybar_phones_for_2027-news-75664.php",
       "source": "GSMArena",
       "publisher": "GSMArena",
-      "description": "Oppo has been rumored to be working on a wide candybar smartphone for a while now. It was previously expected to be called the Reno X. Today, Digital Chat Station is saying the company actually has three of them in its 2027 plans. One is a 6.35-inch model from the flagship line, with a Dimensity 9-series chipset. This is expected to be called Find ",
+      "description": "The first one might not be a Reno after all. Oppo has been rumored to be working on a wide candybar smartphone for a while now. It was previously expected...",
       "published_utc": "2026-11-27T08:53:02+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -5653,11 +5615,15 @@
           "url": "https://www.gsmarena.com/oppo_is_planning_three_wide_candybar_phones_for_2027-news-75664.php",
           "source": "GSMArena",
           "publisher": "GSMArena",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T08:53:02+00:00",
           "title": "Oppo is planning three wide candybar phones for 2027"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T09:53:02+01:00",
+      "article_modified_raw": "2026-11-27T09:53:02+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "e890e3e814678d1fb01af4d5",
@@ -6250,7 +6216,7 @@
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
       "description": "Archiving and deleting Codex chats in the ChatGPT app | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-27T14:55:07+00:00",
+      "published_utc": "2026-11-27T08:37:38+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -6263,7 +6229,7 @@
           "source": "OpenAI Help",
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T14:55:07+00:00",
+          "published_utc": "2026-11-27T08:37:38+00:00",
           "title": "Archiving and deleting Codex chats in the ChatGPT app | OpenAI Help Center - OpenAI Help Center"
         }
       ]
@@ -6297,11 +6263,11 @@
     {
       "id": "ca9bd7d6cc3300668287cde2",
       "topic": "ai",
-      "title": "Reviewing Work and Codex usage and using Personal Analytics in ChatGPT Desktop - OpenAI Help Center",
+      "title": "Reviewing Work and Codex usage and using Personal Analytics in ChatGPT Desktop | OpenAI Help Center - OpenAI Help Center",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcnlYTUVrdnUzRm9JaVV2eHVBNHBXNXdOYllwaDZBOEd2UXg3djJ0QUVWb2MzRFVHb1NhRHdYZEhjMVg5VHZHaG5xN29FWGdBRWY4ZHh5bnJQcEtVLWl1UmVqZEtQTjRNWFJLcVloSi1PWHFENFpUTl9Gci1MOUFuLU1INzNPYy1WOEdSeVFyRE5SR0NXWUt3MnB4N0xBZktTRk9aMDliTkozQXlBUTZvUFRUSGlyQzlHMlRWN0hZUUM?oc=5",
       "source": "OpenAI Help",
       "publisher": "OpenAI Help Center",
-      "description": "Reviewing Work and Codex usage and using Personal Analytics in ChatGPT Desktop OpenAI Help Center",
+      "description": "Reviewing Work and Codex usage and using Personal Analytics in ChatGPT Desktop | OpenAI Help Center OpenAI Help Center",
       "published_utc": "2026-11-27T01:24:25+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
@@ -6316,33 +6282,7 @@
           "publisher": "OpenAI Help Center",
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-27T01:24:25+00:00",
-          "title": "Reviewing Work and Codex usage and using Personal Analytics in ChatGPT Desktop - OpenAI Help Center"
-        }
-      ]
-    },
-    {
-      "id": "d91b2418ae600e9cf902811b",
-      "topic": "ai",
-      "title": "Creating and using ChatGPT Sites | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVURFNzZ4MWdZZVNNYU9DeG1fMkZyVlVGMDdtWW80WlRzMUhnRDlMaWJXZU1FTjJCSEIzd1VpOXdwSlRzbzFxZWZfUTdqM01yNmJQcFI0dEZ4TEpxR0tkaWlkWmFHdjRfNXBTdkVnVUNEaGR0Y3U0emlzbTZYU0FNWG12aw?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "Creating and using ChatGPT Sites | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-27T06:01:28+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVURFNzZ4MWdZZVNNYU9DeG1fMkZyVlVGMDdtWW80WlRzMUhnRDlMaWJXZU1FTjJCSEIzd1VpOXdwSlRzbzFxZWZfUTdqM01yNmJQcFI0dEZ4TEpxR0tkaWlkWmFHdjRfNXBTdkVnVUNEaGR0Y3U0emlzbTZYU0FNWG12aw?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T06:01:28+00:00",
-          "title": "Creating and using ChatGPT Sites | OpenAI Help Center - OpenAI Help Center"
+          "title": "Reviewing Work and Codex usage and using Personal Analytics in ChatGPT Desktop | OpenAI Help Center - OpenAI Help Center"
         }
       ]
     },
@@ -6451,32 +6391,6 @@
       ]
     },
     {
-      "id": "3feba7f904fcad8d1cb3f5d5",
-      "topic": "ai",
-      "title": "Getting started with Space in ChatGPT | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVG5id1oyWVVUQ0RRN1NnMlhRSEp0SlNxLVRsajZDcDF4RzN1MzZhVUVTS01RNUNwckYzT0tGeF9CMS1ieThXUHhYcld1T0ZTYWl2ZTZiTVowQmpCLV9RYm15T0tOMTlvWUFEM1Bvc3FueDlSZktLSEc1VjBMNW1rak1fMGNOc2JRREE?oc=5",
-      "source": "OpenAI Help",
-      "publisher": "OpenAI Help Center",
-      "description": "Getting started with Space in ChatGPT | OpenAI Help Center OpenAI Help Center",
-      "published_utc": "2026-11-27T04:48:25+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVG5id1oyWVVUQ0RRN1NnMlhRSEp0SlNxLVRsajZDcDF4RzN1MzZhVUVTS01RNUNwckYzT0tGeF9CMS1ieThXUHhYcld1T0ZTYWl2ZTZiTVowQmpCLV9RYm15T0tOMTlvWUFEM1Bvc3FueDlSZktLSEc1VjBMNW1rak1fMGNOc2JRREE?oc=5",
-          "source": "OpenAI Help",
-          "publisher": "OpenAI Help Center",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T04:48:25+00:00",
-          "title": "Getting started with Space in ChatGPT | OpenAI Help Center - OpenAI Help Center"
-        }
-      ]
-    },
-    {
       "id": "2737dbcebe768761e7775538",
       "topic": "pc",
       "title": "Vodafone verliert vor OLG: Einseitige AGB-Änderungen für unwirksam erklärt",
@@ -6509,12 +6423,12 @@
       "url": "https://www.computerbase.de/news/wirtschaft/lieferzeiten-fuer-ausruestung-in-china-geht-es-doch-nicht-schneller.100561",
       "source": "ComputerBase",
       "publisher": "ComputerBase",
-      "description": "Noch im Sommer hatten chinesische Chiphersteller gehofft, Lücken durch Mangel an Ausrüstung bei westlichen Firmen füllen zu können. Doch schneller an Ausrüstung gelangen nun auch sie nicht mehr, die Wartezeiten für bestimmte Dinge liegen auch bei Chinas bester Foundry SMIC bei 24+ Monaten.",
+      "description": "Noch im Sommer hatten chinesische Chiphersteller gehofft, Lücken füllen zu können. Schneller an Ausrüstung gelangen nun auch sie nicht mehr.",
       "published_utc": "2026-11-27T13:45:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "関連性・新規性要確認",
       "sources": [
@@ -6522,11 +6436,15 @@
           "url": "https://www.computerbase.de/news/wirtschaft/lieferzeiten-fuer-ausruestung-in-china-geht-es-doch-nicht-schneller.100561",
           "source": "ComputerBase",
           "publisher": "ComputerBase",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T13:45:00+00:00",
           "title": "Lieferzeiten für Ausrüstung: In China geht es doch nicht schneller"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T14:45:00+01:00",
+      "article_modified_raw": "2026-11-27T14:45:00+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "f36fc4ad16be4406eb9d7e74",
@@ -8041,32 +7959,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-27T10:14:29+00:00",
           "title": "Gemini 4 Neon vs Gemini 4 Argon - Release Intelligence, Performance & Price Comparison - Artificial Analysis"
-        }
-      ]
-    },
-    {
-      "id": "85e640e70129bd92673e5eee",
-      "topic": "ai",
-      "title": "Claude Fable 5.2: API Provider Performance Benchmarking & Price Analysis - Artificial Analysis",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBleWxkeUV0S0wzY1hNcHd6SkhrZTQ1eThXR0J1cmw0MDNSV21TcFREekVyblh1a3BoRW5kZ0drTmRGaTN3d0htRy1xWGF1RW9RbUQ2V0MwLVpUYjB5aGlISkptUXNwYVFwYXZkaFhWaDc?oc=5",
-      "source": "Artificial Analysis",
-      "publisher": "Artificial Analysis",
-      "description": "Claude Fable 5.2: API Provider Performance Benchmarking & Price Analysis Artificial Analysis",
-      "published_utc": "2026-11-27T08:19:14+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "AI候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBleWxkeUV0S0wzY1hNcHd6SkhrZTQ1eThXR0J1cmw0MDNSV21TcFREekVyblh1a3BoRW5kZ0drTmRGaTN3d0htRy1xWGF1RW9RbUQ2V0MwLVpUYjB5aGlISkptUXNwYVFwYXZkaFhWaDc?oc=5",
-          "source": "Artificial Analysis",
-          "publisher": "Artificial Analysis",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T08:19:14+00:00",
-          "title": "Claude Fable 5.2: API Provider Performance Benchmarking & Price Analysis - Artificial Analysis"
         }
       ]
     },
@@ -9816,6 +9708,84 @@
           "title": "We tested Samsung’s private Galaxy AI cloud on One UI 9.5 beta, and it made AI select smarter - Android Authority"
         }
       ]
+    },
+    {
+      "id": "f983e6d9a30f01a4a97447e4",
+      "topic": "ai",
+      "title": "US equity funds post biggest outflows in 11 weeks as tech rout weighs - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc1kycEd0anpfdHlRdmViMVUxZkgybk55NXkwSFNJQXpxTWhKbnlSd3VHNUlkZmdSTk5sUmdjcmRPdXdjMkE3MDJ2dnlXRjBrY01Dd1hlVlEwTHVYa3V2cVpDR1F2enZ3Zk9yOWcxT0NRLUhwQWozZFI1b0xHT1V1NTQwOHBhTzUxQ2VvMXdwSEI2ZEVIMHh1emRhUmNKSmZxSE5pa1lsOVNvTzdM?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "US equity funds post biggest outflows in 11 weeks as tech rout weighs Reuters",
+      "published_utc": "2026-11-27T11:17:12+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc1kycEd0anpfdHlRdmViMVUxZkgybk55NXkwSFNJQXpxTWhKbnlSd3VHNUlkZmdSTk5sUmdjcmRPdXdjMkE3MDJ2dnlXRjBrY01Dd1hlVlEwTHVYa3V2cVpDR1F2enZ3Zk9yOWcxT0NRLUhwQWozZFI1b0xHT1V1NTQwOHBhTzUxQ2VvMXdwSEI2ZEVIMHh1emRhUmNKSmZxSE5pa1lsOVNvTzdM?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T11:17:12+00:00",
+          "title": "US equity funds post biggest outflows in 11 weeks as tech rout weighs - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "0045212dcc2a72f658a456c6",
+      "topic": "ai",
+      "title": "SAP flags security incident, says no evidence of unauthorized access to customer data - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN095Q1ozZFFLS1labVpzakhmSEJWeWljRVN2RmxUWlBPOUVvNU5kQVB0NVpOTmhDRjZndEw4RFJwMDd4cWVOWTR1djR1R1BfOEtyVUU3cUQ0a0ZqdTNlZUNJV1V1bXBNSkF2WUNLOUR2ejFqcTJXdlRYd0c3cHlsOUh2cndMWHNOczJjdG0xam9ULUhfU0hPaDJrbUFOWGp1SFJyaWxyNURyaHd1Q2kweGJ2N0trMHRPWVFlM0E1UEJBZWc?oc=5",
+      "source": "Reuters AI",
+      "publisher": "Reuters",
+      "description": "SAP flags security incident, says no evidence of unauthorized access to customer data Reuters",
+      "published_utc": "2026-11-27T06:30:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN095Q1ozZFFLS1labVpzakhmSEJWeWljRVN2RmxUWlBPOUVvNU5kQVB0NVpOTmhDRjZndEw4RFJwMDd4cWVOWTR1djR1R1BfOEtyVUU3cUQ0a0ZqdTNlZUNJV1V1bXBNSkF2WUNLOUR2ejFqcTJXdlRYd0c3cHlsOUh2cndMWHNOczJjdG0xam9ULUhfU0hPaDJrbUFOWGp1SFJyaWxyNURyaHd1Q2kweGJ2N0trMHRPWVFlM0E1UEJBZWc?oc=5",
+          "source": "Reuters AI",
+          "publisher": "Reuters",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T06:30:00+00:00",
+          "title": "SAP flags security incident, says no evidence of unauthorized access to customer data - Reuters"
+        }
+      ]
+    },
+    {
+      "id": "74fa200a9bd911d50cf04535",
+      "topic": "ai",
+      "title": "Mulai dengan Claude Duet - Claude Help Center",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oWW1zV3RmcmNJY0VVTnlhakFUNTlfZjd0T3pUTlp3N3VUbUphQUN6ZE9xaU40clc4dzVHTk90NmoxTFRVSk9HVHJMVVdfNkZDNWV2Nk1INHlHdWN3VHk4TUJfWVZNTElXcVF2NXhGSGM0WS11aHZ0UVA2STQ?oc=5",
+      "source": "Claude Help",
+      "publisher": "Claude Help Center",
+      "description": "Mulai dengan Claude Duet Claude Help Center",
+      "published_utc": "2026-11-26T19:11:56+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "AI候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oWW1zV3RmcmNJY0VVTnlhakFUNTlfZjd0T3pUTlp3N3VUbUphQUN6ZE9xaU40clc4dzVHTk90NmoxTFRVSk9HVHJMVVdfNkZDNWV2Nk1INHlHdWN3VHk4TUJfWVZNTElXcVF2NXhGSGM0WS11aHZ0UVA2STQ?oc=5",
+          "source": "Claude Help",
+          "publisher": "Claude Help Center",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T19:11:56+00:00",
+          "title": "Mulai dengan Claude Duet - Claude Help Center"
+        }
+      ]
     }
   ],
   "date_unknown": [
@@ -10464,6 +10434,33 @@
           "timestamp_basis": "page_change_observed",
           "published_utc": null,
           "title": "ChatGPT Release Notes：ページ変更を観測（要差分確認）"
+        }
+      ]
+    },
+    {
+      "id": "6b1722f68a87136d938309f7",
+      "topic": "ai",
+      "title": "Model Release Notes：ページ変更を観測（要差分確認）",
+      "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+      "source": "OpenAI Help",
+      "publisher": "OpenAI Help",
+      "description": "前回観測 2026-11-28T07:32:53+00:00 → 今回観測 2026-11-28T13:19:11+00:00。変更内容・発生日は未確定。",
+      "published_utc": null,
+      "date_jst": null,
+      "timestamp_basis": "page_change_observed",
+      "link_role": "monitor_page",
+      "date_quality": "observed_change",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "possible_event_id": "d4e216700c35",
+      "sources": [
+        {
+          "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+          "source": "OpenAI Help",
+          "publisher": "OpenAI Help",
+          "timestamp_basis": "page_change_observed",
+          "published_utc": null,
+          "title": "Model Release Notes：ページ変更を観測（要差分確認）"
         }
       ]
     }

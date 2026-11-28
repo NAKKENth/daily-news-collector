@@ -1083,7 +1083,9 @@
           "published_utc": "2026-11-26T17:29:44+00:00",
           "title": "Inception Completes Rolex 24 Lineup with Ben Green"
         }
-      ]
+      ],
+      "enrichment": "failed",
+      "enrichment_error": "403 Client Error: Forbidden for url: https://sportscar365.com/imsa/iwsc/inception-completes-rolex-24-lineup-with-ben-green"
     },
     {
       "id": "00284117dcb3abc68a6c86ed",
@@ -3827,9 +3829,9 @@
       "description": "Liam Lawson is hopeful fuel problems for Racing Bulls are officially a thing of the past.",
       "published_utc": "2026-11-26T18:15:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -3837,11 +3839,15 @@
           "url": "https://racingnews365.com/liam-lawson-reveals-new-protocol-after-mentally-frustrating-f1-experience",
           "source": "RacingNews365",
           "publisher": "RacingNews365",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T18:15:00+00:00",
           "title": "Liam Lawson reveals ‘new protocol’ after ‘mentally frustrating’ F1 experience"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T19:15:00+01:00",
+      "article_modified_raw": "2026-11-27T08:07:30+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "41fdccef79e69febdb06f810",
@@ -3879,9 +3885,9 @@
       "description": "Lewis Hamilton, like Charles Leclerc, is keeping his cards close to his chest after the latest round of talks.",
       "published_utc": "2026-11-26T16:45:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -3889,11 +3895,15 @@
           "url": "https://racingnews365.com/lewis-hamilton-refuses-to-share-information-after-crunch-charles-leclerc-talks",
           "source": "RacingNews365",
           "publisher": "RacingNews365",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-26T16:45:00+00:00",
           "title": "Lewis Hamilton refuses to share information after crunch Charles Leclerc talks"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-26T17:45:00+01:00",
+      "article_modified_raw": "2026-11-27T08:07:56+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "80eaeb885cdf678554fbb7f3",
@@ -4873,7 +4883,9 @@
           "published_utc": "2026-11-27T06:20:28+00:00",
           "title": "Trulli Savors “Amazing” First Year as PMAP Selected Driver"
         }
-      ]
+      ],
+      "enrichment": "deferred_host",
+      "enrichment_error": "previous 403 for this host in this run"
     },
     {
       "id": "aa3edcbc145249613a4ad1f8",
@@ -4882,12 +4894,12 @@
       "url": "https://rallyjournal.com/new-wrc-team-off-to-flying-start-with-rally1-car-sales",
       "source": "RallyJournal",
       "publisher": "RallyJournal",
-      "description": "Project Rally One's new car for its WRC entry next year has also attracted interest from customer teams. Artikkeli New WRC team off to flying start with Rally1 car sales julkaistiin ensimmäisen kerran RallyJournal.com .",
+      "description": "Project Rally One's new car for its WRC entry next year has also attracted interest from customer teams.",
       "published_utc": "2026-11-27T06:33:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -4895,11 +4907,15 @@
           "url": "https://rallyjournal.com/new-wrc-team-off-to-flying-start-with-rally1-car-sales",
           "source": "RallyJournal",
           "publisher": "RallyJournal",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T06:33:00+00:00",
           "title": "New WRC team off to flying start with Rally1 car sales"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T06:33:00+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "639f2808da928be9b17545d4",
@@ -5439,7 +5455,11 @@
           "published_utc": "2026-11-27T11:47:04+00:00",
           "title": "BMW Discussing “Similar Approach” for HMI BMW Effort"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "",
+      "article_modified_raw": "2026-11-27",
+      "enrichment": "url_only"
     },
     {
       "id": "e4a550a87e5ca4c25cd4e980",
@@ -5448,12 +5468,12 @@
       "url": "https://rallyjournal.com/sources-adrien-fourmaux-set-for-privateer-hyundai-switch-in-2027",
       "source": "RallyJournal",
       "publisher": "RallyJournal",
-      "description": "Adrien Fourmaux will drive a privately run Hyundai in the WRC next season. Artikkeli Sources: Adrien Fourmaux set for privateer Hyundai switch in 2027 julkaistiin ensimmäisen kerran RallyJournal.com .",
+      "description": "Adrien Fourmaux will drive a privately run Hyundai in the WRC next season.",
       "published_utc": "2026-11-27T11:12:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -5461,11 +5481,15 @@
           "url": "https://rallyjournal.com/sources-adrien-fourmaux-set-for-privateer-hyundai-switch-in-2027",
           "source": "RallyJournal",
           "publisher": "RallyJournal",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T11:12:00+00:00",
           "title": "Sources: Adrien Fourmaux set for privateer Hyundai switch in 2027"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T11:12:00+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "ad1ec35e9fb893073eb99452",
@@ -5474,12 +5498,12 @@
       "url": "https://rallyjournal.com/kalle-rovanpera-headlines-star-studded-entry-for-french-winter-rally",
       "source": "RallyJournal",
       "publisher": "RallyJournal",
-      "description": "The Rallye du Dévoluy in France is once again set to feature an exceptionally strong driver line-up. Artikkeli Kalle Rovanperä headlines star-studded entry for French winter rally julkaistiin ensimmäisen kerran RallyJournal.com .",
+      "description": "The Rallye du Dévoluy in France is once again set to feature an exceptionally strong driver line-up.",
       "published_utc": "2026-11-27T09:10:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -5487,11 +5511,15 @@
           "url": "https://rallyjournal.com/kalle-rovanpera-headlines-star-studded-entry-for-french-winter-rally",
           "source": "RallyJournal",
           "publisher": "RallyJournal",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T09:10:00+00:00",
           "title": "Kalle Rovanperä headlines star-studded entry for French winter rally"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T09:10:00+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "99ac4dd1d358ca0f63985604",
@@ -5880,12 +5908,12 @@
       "url": "https://rallyjournal.com/jari-matti-latvala-poised-to-clinch-european-title-in-his-absence",
       "source": "RallyJournal",
       "publisher": "RallyJournal",
-      "description": "Jari-Matti Latvala will not compete in the final round of the European historic gravel rally series in Italy. Artikkeli Jari-Matti Latvala poised to clinch European title in his absence julkaistiin ensimmäisen kerran RallyJournal.com .",
+      "description": "Jari-Matti Latvala will not compete in the final round of the European historic gravel rally series in Italy.",
       "published_utc": "2026-11-27T13:50:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技・記事内容の確認待ち",
       "sources": [
@@ -5893,11 +5921,15 @@
           "url": "https://rallyjournal.com/jari-matti-latvala-poised-to-clinch-european-title-in-his-absence",
           "source": "RallyJournal",
           "publisher": "RallyJournal",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T13:50:00+00:00",
           "title": "Jari-Matti Latvala poised to clinch European title in his absence"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T13:50:00+00:00",
+      "article_modified_raw": "",
+      "enrichment": "article_metadata"
     },
     {
       "id": "7da327c9d63e329985066b05",
@@ -7397,9 +7429,9 @@
       "description": "Follow all the action live from Free Practice 1 as the 2026 F1 Qatar Grand Prix weekend gets underway.",
       "published_utc": "2026-11-27T12:25:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -7407,11 +7439,15 @@
           "url": "https://racingnews365.com/live-2026-f1-qatar-grand-prix-free-practice-1",
           "source": "RacingNews365",
           "publisher": "RacingNews365",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T12:25:00+00:00",
           "title": "LIVE: 2026 F1 Qatar Grand Prix - Free Practice 1"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T13:25:00+01:00",
+      "article_modified_raw": "2026-11-27T16:56:30+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "1ec58c8cc8aeaebb8dc65bb7",
@@ -7423,9 +7459,9 @@
       "description": "Lewis Hamilton and Charles Leclerc were in the wars last time out in Las Vegas when they clashed on the track while battling for position.",
       "published_utc": "2026-11-27T12:00:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -7433,11 +7469,15 @@
           "url": "https://racingnews365.com/lewis-hamilton-makes-charles-leclerc-vow-after-ferrari-tension",
           "source": "RacingNews365",
           "publisher": "RacingNews365",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T12:00:00+00:00",
           "title": "Lewis Hamilton makes Charles Leclerc vow after Ferrari tension"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T13:00:00+01:00",
+      "article_modified_raw": "2026-11-27T16:55:44+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "f4de27c79fa29c73c6ee8f2d",
@@ -7449,9 +7489,9 @@
       "description": "Lando Norris has given his view on the latest war of words between Max Verstappen and George Russell, and he had a clear point to make.",
       "published_utc": "2026-11-27T11:15:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -7459,11 +7499,15 @@
           "url": "https://racingnews365.com/lando-norris-makes-pointed-remark-over-max-verstappen-george-russell-row",
           "source": "RacingNews365",
           "publisher": "RacingNews365",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T11:15:00+00:00",
           "title": "George Russell hit with 'yet to prove' himself remark after Max Verstappen embarrassment"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T12:15:00+01:00",
+      "article_modified_raw": "2026-11-27T12:53:46+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "196cd0303a4e3834f4e536c2",
@@ -7561,9 +7605,9 @@
       "description": "Kimi Antonelli has highlighted his fondness for the famous Nordschleife track and admitted he is open to a race at the venue alongside Max Verstappen.",
       "published_utc": "2026-11-27T08:00:00+00:00",
       "date_jst": "2026-11-27",
-      "timestamp_basis": "source_feed_published",
+      "timestamp_basis": "article_published",
       "link_role": "source_article",
-      "date_quality": "feed_published",
+      "date_quality": "article_metadata",
       "triage": "review",
       "triage_reason": "競技名一致・新規性の確認",
       "sources": [
@@ -7571,11 +7615,15 @@
           "url": "https://racingnews365.com/kimi-antonelli-voices-desire-to-partner-up-with-max-verstappen",
           "source": "RacingNews365",
           "publisher": "RacingNews365",
-          "timestamp_basis": "source_feed_published",
+          "timestamp_basis": "article_published",
           "published_utc": "2026-11-27T08:00:00+00:00",
           "title": "Kimi Antonelli voices desire to partner up with Max Verstappen"
         }
-      ]
+      ],
+      "discovery_url": null,
+      "article_published_raw": "2026-11-27T09:00:00+01:00",
+      "article_modified_raw": "2026-11-27T16:57:49+01:00",
+      "enrichment": "article_metadata"
     },
     {
       "id": "2d53ad03e3583a3338141801",
@@ -13406,6 +13454,58 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-27T14:08:47+00:00",
           "title": "Men's Ryan Blaney Pro Player Black Helmet Full-Zip Hooded Track Jacket - NASCAR Shop"
+        }
+      ]
+    },
+    {
+      "id": "d78588dac4741aa267f6ae9e",
+      "topic": "other_motorsport",
+      "title": "【写真4】サーキット紹介第24回 - autosport web",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BWHRwcFBtcDRsc0tDZThlVTA3MW03ZkF3ZUdOUXpWOGNpVmxlYmtUODhVaVRZVlU2Qm9JQ0hpYnpIRHVYRDhFR2ZFaXEtR0N3cXd0alBFUGwwd2c5NHY0SDJPVXdvWXU1RkE4bXJNNU81T1JK?oc=5",
+      "source": "AUTOSPORT web",
+      "publisher": "autosport web",
+      "description": "【写真4】サーキット紹介第24回 autosport web",
+      "published_utc": "2026-11-26T17:03:00+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BWHRwcFBtcDRsc0tDZThlVTA3MW03ZkF3ZUdOUXpWOGNpVmxlYmtUODhVaVRZVlU2Qm9JQ0hpYnpIRHVYRDhFR2ZFaXEtR0N3cXd0alBFUGwwd2c5NHY0SDJPVXdvWXU1RkE4bXJNNU81T1JK?oc=5",
+          "source": "AUTOSPORT web",
+          "publisher": "autosport web",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T17:03:00+00:00",
+          "title": "【写真4】サーキット紹介第24回 - autosport web"
+        }
+      ]
+    },
+    {
+      "id": "6e9cec99092045c7ebf38722",
+      "topic": "WRC",
+      "title": "Video | Kotsiatis Rally Sprint 2026 - eWRC-results.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Da2x2VVZiZTF4amtaUTFPMk1zU3hlVnRJNHMteGsyUFZsdzc4bHhGSjlobEhGTV9fd0paMXEtdUJlSUdGODIwbWIwYWdQZXU4em10bUFaU1duS2RZMnhKdE1pSnZNakNZY3QzZG9LSUpTUWlIZXJ1UmRiRQ?oc=5",
+      "source": "eWRC results",
+      "publisher": "eWRC-results.com",
+      "description": "Video | Kotsiatis Rally Sprint 2026 eWRC-results.com",
+      "published_utc": "2026-11-27T09:12:34+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "競技・記事内容の確認待ち",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Da2x2VVZiZTF4amtaUTFPMk1zU3hlVnRJNHMteGsyUFZsdzc4bHhGSjlobEhGTV9fd0paMXEtdUJlSUdGODIwbWIwYWdQZXU4em10bUFaU1duS2RZMnhKdE1pSnZNakNZY3QzZG9LSUpTUWlIZXJ1UmRiRQ?oc=5",
+          "source": "eWRC results",
+          "publisher": "eWRC-results.com",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T09:12:34+00:00",
+          "title": "Video | Kotsiatis Rally Sprint 2026 - eWRC-results.com"
         }
       ]
     }

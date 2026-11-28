@@ -1,5 +1,6 @@
-# other_motorsport / 2026-11-27 / 候補 51–56
+# other_motorsport / 2026-11-27 / 候補 51–57
 
+- [世界最長のピットビルを持つカタール。タイヤの周回制限導入により、初日から戦略が分かれるか／サーキット紹介第24回 - autosport web](https://news.google.com/rss/articles/CBMiR0FVX3lxTE8zX05GcEpZSlNIUkNMRWl4ejRzSTJwcmFuOFNFeGNGRTBrYnVBQmhURl9QbnJKOGYwYWU3dlV6Y2ExZUJBQjRn?oc=5) — AUTOSPORT web｜要確認｜2026-11-26T22:00:00+00:00 UTC｜discovery_index
 - [今季初の中東レースが開幕。アントネッリが最速、ミディアム勢がトップ3を占める／F1カタールGP FP1 - autosport web](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5qQVpQUFdfdk44eDFvTTBZdTRpMjVuQnR4eVdkRTRISThvc1g1WndCaGF4anZQY0tIWm9pb0xBWlMzaS14V3pR?oc=5) — AUTOSPORT web｜要確認｜2026-11-27T14:41:00+00:00 UTC｜discovery_index
 - [恐竜ポルシェ『レキシー』、LMP2『スパイク』ともにラインアップ固まる。ピカリエッロがIMSAフル参戦へ - autosport web](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nMnh3Y3FyY2hfekZWQXR6dUpMaEx4MUpOYjdJVXBTdlhSWU1GQjJLaWdGV21HcThhVmM4dldxeFRpd3p3YlZ4NWdPdEZWWkp2VUE?oc=5) — AUTOSPORT web｜要確認｜2026-11-27T02:56:00+00:00 UTC｜discovery_index
 - [日本モータースポーツ表彰式 ニュース - autosport web](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVnZQZm01Z1FzNi1LNnJxXzZFNGNEOHNQNUNDNmthWjdWU0dmVVNtMGF4TzU1SFFrQ1ZKS0tkSW51UTVrcDdjckxTajhzZG9mNThSYjl6X0ZPZ3RqQ3hwQllxd1hST2RCWnRYZnRRekdKTG1ybWFrcmRNN04yR29Wb3JpX0VtZDhibmdZOVZaSUdBejB6eFpyVDZsQ0VQbllxSW1jYU4taUE2LWNxTkxkWGh2UnNMRllsVHFlaDYzZHVEUlZRekNqWmJSZXB1dzNGSzNnSDdmU3I0a00?oc=5) — AUTOSPORT web｜要確認｜2026-11-27T10:30:03+00:00 UTC｜discovery_index

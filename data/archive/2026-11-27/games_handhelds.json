@@ -13,7 +13,7 @@
       "source": "Steam racing updates",
       "publisher": "Steam",
       "description": "Police Simulator: Patrol Officers Steam",
-      "published_utc": "2026-11-27T02:56:44+00:00",
+      "published_utc": "2026-11-27T06:30:53+00:00",
       "date_jst": "2026-11-27",
       "timestamp_basis": "google_news_index",
       "link_role": "discovery_link",
@@ -26,7 +26,7 @@
           "source": "Steam racing updates",
           "publisher": "Steam",
           "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T02:56:44+00:00",
+          "published_utc": "2026-11-27T06:30:53+00:00",
           "title": "Police Simulator: Patrol Officers - Steam"
         }
       ]
@@ -322,32 +322,6 @@
       ]
     },
     {
-      "id": "b873f34cba74da90b890793b",
-      "topic": "racing_games",
-      "title": "Food Devils - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FczU4eVdUNTFtMnRZZlhQOFhzX3NIdnNRSzZ6WXp3ekltUEliMGs5eVUtT0Q5TFRYY09JZU9XX3ZiQ3pFNDNDbUVCbmhCV21yYWI0ZEtBelUxc1FsNWk2UEcweUxPQQ?oc=5",
-      "source": "Steam racing updates",
-      "publisher": "Steam",
-      "description": "Food Devils Steam",
-      "published_utc": "2026-11-27T01:32:55+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FczU4eVdUNTFtMnRZZlhQOFhzX3NIdnNRSzZ6WXp3ekltUEliMGs5eVUtT0Q5TFRYY09JZU9XX3ZiQ3pFNDNDbUVCbmhCV21yYWI0ZEtBelUxc1FsNWk2UEcweUxPQQ?oc=5",
-          "source": "Steam racing updates",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T01:32:55+00:00",
-          "title": "Food Devils - Steam"
-        }
-      ]
-    },
-    {
       "id": "b5243d2f0420c4cff645a5e9",
       "topic": "racing_games",
       "title": "Slow Roads - Steam",
@@ -582,32 +556,6 @@
       ]
     },
     {
-      "id": "e879bc98ba0f0025cb6e3642",
-      "topic": "handhelds",
-      "title": "PAYDAY 2 - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52WkZJbmJ5Wk84dklEbWdMY3Zidm5zcUJXUmF3OXpHY2RYazhmVEZaYW9HVmhwYjdldzlUeTFXLWdEOGNnSW5XLUdqSGdxRno3WnB1WkhNWjhtblFpWk93Zw?oc=5",
-      "source": "Valve Steam Deck",
-      "publisher": "Steam",
-      "description": "PAYDAY 2 Steam",
-      "published_utc": "2026-11-26T20:03:15+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52WkZJbmJ5Wk84dklEbWdMY3Zidm5zcUJXUmF3OXpHY2RYazhmVEZaYW9HVmhwYjdldzlUeTFXLWdEOGNnSW5XLUdqSGdxRno3WnB1WkhNWjhtblFpWk93Zw?oc=5",
-          "source": "Valve Steam Deck",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T20:03:15+00:00",
-          "title": "PAYDAY 2 - Steam"
-        }
-      ]
-    },
-    {
       "id": "881470c112955046b02a0932",
       "topic": "handhelds",
       "title": "Graveyard Keeper 2 - Steam",
@@ -630,32 +578,6 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-26T21:39:24+00:00",
           "title": "Graveyard Keeper 2 - Steam"
-        }
-      ]
-    },
-    {
-      "id": "ad060d04178702cf7383b231",
-      "topic": "racing_games",
-      "title": "Assetto Corsa Rally - Steam",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wTHVwNmx5TEU2bm5WQ0hNeWxCRVdaRlVTQzY0WE9wa3YzOUZ3eUZTdTZmRy1XcVNPSjNPNW84Z21EYXBwc0tWMV93M0NYVV91d0haUU5odnQ4ZHBTalhfd0JqdC11NlZwSFhzdlhIWTA?oc=5",
-      "source": "Steam racing updates",
-      "publisher": "Steam",
-      "description": "Assetto Corsa Rally Steam",
-      "published_utc": "2026-11-26T23:22:19+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "レースゲーム候補",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wTHVwNmx5TEU2bm5WQ0hNeWxCRVdaRlVTQzY0WE9wa3YzOUZ3eUZTdTZmRy1XcVNPSjNPNW84Z21EYXBwc0tWMV93M0NYVV91d0haUU5odnQ4ZHBTalhfd0JqdC11NlZwSFhzdlhIWTA?oc=5",
-          "source": "Steam racing updates",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-26T23:22:19+00:00",
-          "title": "Assetto Corsa Rally - Steam"
         }
       ]
     },
@@ -4046,32 +3968,6 @@
       ]
     },
     {
-      "id": "bafb56bf781d2952599e3a65",
-      "topic": "racing_games",
-      "title": "Happy Wheels on Steam - Steam",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BVUxjVW1BcGJLbWJZeTJBR2JVZTBzUmNnOUk4TVM1NEc5eXhzWHN0US1RVGQxS2NpVnFYcWVCS3IySEFsWm9zR09EUW5HSkJFRk50M2tBZ2pQUk9ka1p5Y2VnS01oTlE?oc=5",
-      "source": "Steam racing updates",
-      "publisher": "Steam",
-      "description": "Happy Wheels on Steam Steam",
-      "published_utc": "2026-11-27T06:27:14+00:00",
-      "date_jst": "2026-11-27",
-      "timestamp_basis": "google_news_index",
-      "link_role": "discovery_link",
-      "date_quality": "discovery_index",
-      "triage": "review",
-      "triage_reason": "関連性・新規性要確認",
-      "sources": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BVUxjVW1BcGJLbWJZeTJBR2JVZTBzUmNnOUk4TVM1NEc5eXhzWHN0US1RVGQxS2NpVnFYcWVCS3IySEFsWm9zR09EUW5HSkJFRk50M2tBZ2pQUk9ka1p5Y2VnS01oTlE?oc=5",
-          "source": "Steam racing updates",
-          "publisher": "Steam",
-          "timestamp_basis": "google_news_index",
-          "published_utc": "2026-11-27T06:27:14+00:00",
-          "title": "Happy Wheels on Steam - Steam"
-        }
-      ]
-    },
-    {
       "id": "ac4371023a19c5c73fd11537",
       "topic": "racing_games",
       "title": "Driving Rogue - Steam",
@@ -4302,6 +4198,136 @@
           "timestamp_basis": "google_news_index",
           "published_utc": "2026-11-27T00:22:06+00:00",
           "title": "The Old Flesh of Nuraga - Steam"
+        }
+      ]
+    },
+    {
+      "id": "1a242ebc22563fb12fed5a9e",
+      "topic": "racing_games",
+      "title": "2026 F1 Academy skins for Formula RSS 4 2024 FINAL - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSDB2MmluX2IwbmRxQjBXajVNWHVPMmMyTmxrclU1SDFNaE5ZUGNqdmlieWY2R0xNV0RJbU1aNl95cXViOThmN3dyekxTc3hXRDZNbHRHX3ZxdkFqRTlYaHpwemdLRlBxckFUWlJwS196bmk4MEFlVGZlVmpEd0lfOTAtZktQWG5yNmxCczJ3?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "2026 F1 Academy skins for Formula RSS 4 2024 FINAL overtake.gg",
+      "published_utc": "2026-11-26T20:50:31+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSDB2MmluX2IwbmRxQjBXajVNWHVPMmMyTmxrclU1SDFNaE5ZUGNqdmlieWY2R0xNV0RJbU1aNl95cXViOThmN3dyekxTc3hXRDZNbHRHX3ZxdkFqRTlYaHpwemdLRlBxckFUWlJwS196bmk4MEFlVGZlVmpEd0lfOTAtZktQWG5yNmxCczJ3?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T20:50:31+00:00",
+          "title": "2026 F1 Academy skins for Formula RSS 4 2024 FINAL - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "7ccb2ed0eab1ee0177ab2d9a",
+      "topic": "racing_games",
+      "title": "F1 26 Career Mode Companion - Reviews - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUnFJMldJX0pKWm1GeC1Ka05OSl9Ja1Z1TjVTYU0zSm8tYXd1VWpNM3o1YjBhN1FCd2JnMno0dWtCM2UtS19XNmFNZ0NYblFFaWJPQUFNbXJscGVGajJOdU42OEZ2N2k3d2lYc3BILVVvNEZDSkl3eWRjS3owZWZvSw?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "F1 26 Career Mode Companion - Reviews overtake.gg",
+      "published_utc": "2026-11-26T19:00:16+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUnFJMldJX0pKWm1GeC1Ka05OSl9Ja1Z1TjVTYU0zSm8tYXd1VWpNM3o1YjBhN1FCd2JnMno0dWtCM2UtS19XNmFNZ0NYblFFaWJPQUFNbXJscGVGajJOdU42OEZ2N2k3d2lYc3BILVVvNEZDSkl3eWRjS3owZWZvSw?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-26T19:00:16+00:00",
+          "title": "F1 26 Career Mode Companion - Reviews - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "f167b7f3ee0909264423f60f",
+      "topic": "racing_games",
+      "title": "Neural Rendering DLSS 5 for F1 25 [Swofty Addon] - Updates - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWFVT1dJN3FzYWc2cmhVOVEtYUFTMFBfMVYwSHlyVnFtZWVSRDJNN25mSkFWbXZwNjZTYldmLUtRbkptUDVwd1ZrQTBUVTlRM1N3WGpVbmx1LXh1WEI0WXl0c2NwYXBidWFxRXJpSFhOakRvSGlXZE00TW5PYWlVZUdEdnc2M19NYzRlUXFxcFBNeXdQeE12a1Fn?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Neural Rendering DLSS 5 for F1 25 [Swofty Addon] - Updates overtake.gg",
+      "published_utc": "2026-11-27T09:21:41+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "priority",
+      "triage_reason": "レースゲーム候補",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWFVT1dJN3FzYWc2cmhVOVEtYUFTMFBfMVYwSHlyVnFtZWVSRDJNN25mSkFWbXZwNjZTYldmLUtRbkptUDVwd1ZrQTBUVTlRM1N3WGpVbmx1LXh1WEI0WXl0c2NwYXBidWFxRXJpSFhOakRvSGlXZE00TW5PYWlVZUdEdnc2M19NYzRlUXFxcFBNeXdQeE12a1Fn?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T09:21:41+00:00",
+          "title": "Neural Rendering DLSS 5 for F1 25 [Swofty Addon] - Updates - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "19f5cdc59a17ef16a1cec745",
+      "topic": "racing_games",
+      "title": "Alpine A525 Cockpit Sound - Reviews - overtake.gg",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpcUNuLWJnb3RYSExkV0pOekx0V1c2UW81X0xEVUlrbXhhNkZwLUJBQ1ZuQlpidmVYc1paYkdsOXB4eWJfNFp4dndDSU85VnZ5NDBZZFZSMkFock84OGxIcVdqRlRMdHhnbmg2RUhuVVpxcjlxTGxmc2N2VXktUQ?oc=5",
+      "source": "OverTake",
+      "publisher": "overtake.gg",
+      "description": "Alpine A525 Cockpit Sound - Reviews overtake.gg",
+      "published_utc": "2026-11-27T10:11:25+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpcUNuLWJnb3RYSExkV0pOekx0V1c2UW81X0xEVUlrbXhhNkZwLUJBQ1ZuQlpidmVYc1paYkdsOXB4eWJfNFp4dndDSU85VnZ5NDBZZFZSMkFock84OGxIcVdqRlRMdHhnbmg2RUhuVVpxcjlxTGxmc2N2VXktUQ?oc=5",
+          "source": "OverTake",
+          "publisher": "overtake.gg",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T10:11:25+00:00",
+          "title": "Alpine A525 Cockpit Sound - Reviews - overtake.gg"
+        }
+      ]
+    },
+    {
+      "id": "19e849915f9f26d850ae40b3",
+      "topic": "racing_games",
+      "title": "Remothered: Tormented Fathers - Steam",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oMzE2aUNteXBSUVoxbFJfcFZQLTI5S2hGZHZibFJKUEVyeHV2d2l3alhydnBEOHczVS1NNm1NUzRNVDE3ZGxXdktwcEJ2TWVpS3Vr?oc=5",
+      "source": "Steam racing updates",
+      "publisher": "Steam",
+      "description": "Remothered: Tormented Fathers Steam",
+      "published_utc": "2026-11-27T06:07:27+00:00",
+      "date_jst": "2026-11-27",
+      "timestamp_basis": "google_news_index",
+      "link_role": "discovery_link",
+      "date_quality": "discovery_index",
+      "triage": "review",
+      "triage_reason": "関連性・新規性要確認",
+      "sources": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oMzE2aUNteXBSUVoxbFJfcFZQLTI5S2hGZHZibFJKUEVyeHV2d2l3alhydnBEOHczVS1NNm1NUzRNVDE3ZGxXdktwcEJ2TWVpS3Vr?oc=5",
+          "source": "Steam racing updates",
+          "publisher": "Steam",
+          "timestamp_basis": "google_news_index",
+          "published_utc": "2026-11-27T06:07:27+00:00",
+          "title": "Remothered: Tormented Fathers - Steam"
         }
       ]
     }
